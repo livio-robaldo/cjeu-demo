@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SDFRules>
+  <!-- "Ministre de l'environnement , de l'énergie et de la mer" -->
+  <SDFRule id="2" priority="1000">
+    <tag>institution_5</tag>
+    <headAlternatives>
+      <head>
+        <Form>Ministre</Form>
+      </head>
+    </headAlternatives>
+    <nextAlternatives>
+      <next maxDistance="1">
+        <tag>institution_5</tag>
+        <headAlternatives>
+          <head>
+            <Form>de</Form>
+          </head>
+        </headAlternatives>
+        <nextAlternatives>
+          <next maxDistance="1">
+            <tag>institution_5</tag>
+            <headAlternatives>
+              <head>
+                <Form>l'environnement</Form>
+              </head>
+            </headAlternatives>
+            <nextAlternatives>
+              <next maxDistance="1">
+                <tag>institution_5</tag>
+                <headAlternatives>
+                  <head>
+                    <Form>,</Form>
+                  </head>
+                </headAlternatives>
+                <nextAlternatives>
+                  <next maxDistance="1">
+                    <tag>institution_5</tag>
+                    <headAlternatives>
+                      <head>
+                        <Form>de</Form>
+                      </head>
+                    </headAlternatives>
+                    <nextAlternatives>
+                      <next maxDistance="1">
+                        <tag>institution_5</tag>
+                        <headAlternatives>
+                          <head>
+                            <Form>l'énergie</Form>
+                          </head>
+                        </headAlternatives>
+                        <nextAlternatives>
+                          <next maxDistance="1">
+                            <tag>institution_5</tag>
+                            <headAlternatives>
+                              <head>
+                                <Form>et</Form>
+                              </head>
+                            </headAlternatives>
+                            <nextAlternatives>
+                              <next maxDistance="1">
+                                <tag>institution_5</tag>
+                                <headAlternatives>
+                                  <head>
+                                    <Form>de</Form>
+                                  </head>
+                                </headAlternatives>
+                                <nextAlternatives>
+                                  <next maxDistance="1">
+                                    <tag>institution_5</tag>
+                                    <headAlternatives>
+                                      <head>
+                                        <Form>la</Form>
+                                      </head>
+                                    </headAlternatives>
+                                    <nextAlternatives>
+                                      <next maxDistance="1">
+                                        <tag>institution_5</tag>
+                                        <headAlternatives>
+                                          <head>
+                                            <Form>mer</Form>
+                                          </head>
+                                        </headAlternatives>
+                                      </next>
+                                    </nextAlternatives>
+                                  </next>
+                                </nextAlternatives>
+                              </next>
+                            </nextAlternatives>
+                          </next>
+                        </nextAlternatives>
+                      </next>
+                    </nextAlternatives>
+                  </next>
+                </nextAlternatives>
+              </next>
+            </nextAlternatives>
+          </next>
+        </nextAlternatives>
+      </next>
+    </nextAlternatives>
+  </SDFRule>
+</SDFRules>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SDFRules>
+  <!-- "Provincia autonoma di Bolzano" -->
+  <SDFRule id="12" priority="1000">
+    <tag>institution_3</tag>
+    <headAlternatives>
+      <head>
+        <Form>Provincia</Form>
+      </head>
+    </headAlternatives>
+    <nextAlternatives>
+      <next maxDistance="1">
+        <tag>institution_3</tag>
+        <headAlternatives>
+          <head>
+            <Form>autonoma</Form>
+          </head>
+        </headAlternatives>
+        <nextAlternatives>
+          <next maxDistance="1">
+            <tag>institution_3</tag>
+            <headAlternatives>
+              <head>
+                <Form>di</Form>
+              </head>
+            </headAlternatives>
+            <nextAlternatives>
+              <next maxDistance="1">
+                <tag>institution_3</tag>
+                <headAlternatives>
+                  <head>
+                    <Form>Bolzano</Form>
+                  </head>
+                </headAlternatives>
+              </next>
+            </nextAlternatives>
+          </next>
+        </nextAlternatives>
+      </next>
+    </nextAlternatives>
+  </SDFRule>
+</SDFRules>

@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright 2014 Livio Robaldo
+This file is part of CJEUprocessorDEMO. The demo uses the SDFTagger library, whose source code can be obtained by contacting Livio Robaldo (http://www.liviorobaldo.com)
+CJEUprocessorDEMO is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software 
+Foundation, either version 3 of the License, or (at your option) any later version.
+CJEUprocessorDEMO is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A 
+PARTICULAR PURPOSE. See the GNU General Public License for more details.
+You should have received a copy of the GNU General Public License along with CJEUprocessorDEMO.  If not, see <http://www.gnu.org/licenses/>.
+-->
+<SDFRules>
+  <!-- "Costs" (single word in title font) -->
+  <SDFRule priority="10000" id="40">
+    <tag>beginning-of-decision</tag>
+    <headAlternatives>
+      <head>
+        <Form>costs</Form>
+        <Font>title</Font>
+        <endOfSentence>true</endOfSentence>
+      </head>
+    </headAlternatives>
+    <prevAlternatives>
+      <notPrev maxDistance="1">
+        <headAlternatives>
+          <head />
+        </headAlternatives>
+      </notPrev>
+      <prev maxDistance="1">
+        <headAlternatives>
+          <head>
+            <endOfSentence>true</endOfSentence>
+          </head>
+        </headAlternatives>
+      </prev>
+    </prevAlternatives>
+  </SDFRule>
+  <!-- "On those grounds, the Court (Fourth Chamber) hereby:" -->
+  <!-- priority lower than the previous rule because if we find "Costs" before this sentence, this has higher priority -->
+  <!-- The next rules is to take "On those grounds, the Court (Fourth Chamber) hereby:" as the beginning of the conclusions in case "Costs" occur afterwards -->
+  <SDFRule priority="9000" id="41">
+    <tag>beginning-of-decision</tag>
+    <headAlternatives>
+      <head>
+        <Lemma>grounds</Lemma>
+      </head>
+    </headAlternatives>
+    <prevAlternatives>
+      <prev maxDistance="2">
+        <tag>beginning-of-decision</tag>
+        <headAlternatives>
+          <head>
+            <Lemma>on</Lemma>
+          </head>
+        </headAlternatives>
+      </prev>
+    </prevAlternatives>
+    <nextAlternatives>
+      <next maxDistance="2">
+        <tag>beginning-of-decision</tag>
+        <headAlternatives>
+          <head>
+            <Form>the</Form>
+          </head>
+        </headAlternatives>
+        <nextAlternatives>
+          <next maxDistance="2">
+            <tag>beginning-of-decision</tag>
+            <headAlternatives>
+              <head>
+                <Form>court</Form>
+              </head>
+            </headAlternatives>
+            <nextStarAlternatives>
+              <next maxDistance="2">
+                <headAlternatives>
+                  <head>
+                    <Form>(</Form>
+                  </head>
+                </headAlternatives>
+                <nextAlternatives>
+                  <next maxDistance="10">
+                    <headAlternatives>
+                      <head>
+                        <Form>)</Form>
+                      </head>
+                    </headAlternatives>
+                  </next>
+                </nextAlternatives>
+              </next>
+            </nextStarAlternatives>
+            <nextAlternatives>
+              <next maxDistance="2">
+                <tag>beginning-of-decision</tag>
+                <headAlternatives>
+                  <head>
+                    <Form>hereby</Form>
+                  </head>
+                </headAlternatives>
+              </next>
+            </nextAlternatives>
+          </next>
+        </nextAlternatives>
+      </next>
+    </nextAlternatives>
+  </SDFRule>
+  <!-- This rule override the first one: if "Costs" is preceeded by "On those grounds, the Court (Fourth Chamber) hereby:", the latter is the beginning of the conclusions -->
+  <SDFRule priority="11000" id="42">
+    <tag>beginning-of-decision</tag>
+    <headAlternatives>
+      <head>
+        <Lemma>grounds</Lemma>
+      </head>
+    </headAlternatives>
+    <prevAlternatives>
+      <prev maxDistance="2">
+        <tag>beginning-of-decision</tag>
+        <headAlternatives>
+          <head>
+            <Lemma>on</Lemma>
+          </head>
+        </headAlternatives>
+      </prev>
+    </prevAlternatives>
+    <nextAlternatives>
+      <next maxDistance="2">
+        <tag>beginning-of-decision</tag>
+        <headAlternatives>
+          <head>
+            <Form>the</Form>
+          </head>
+        </headAlternatives>
+        <nextAlternatives>
+          <next maxDistance="2">
+            <tag>beginning-of-decision</tag>
+            <headAlternatives>
+              <head>
+                <Form>court</Form>
+              </head>
+            </headAlternatives>
+            <nextStarAlternatives>
+              <next maxDistance="2">
+                <headAlternatives>
+                  <head>
+                    <Form>(</Form>
+                  </head>
+                </headAlternatives>
+                <nextAlternatives>
+                  <next maxDistance="10">
+                    <headAlternatives>
+                      <head>
+                        <Form>)</Form>
+                      </head>
+                    </headAlternatives>
+                  </next>
+                </nextAlternatives>
+              </next>
+            </nextStarAlternatives>
+            <nextAlternatives>
+              <next maxDistance="2">
+                <tag>beginning-of-decision</tag>
+                <headAlternatives>
+                  <head>
+                    <Form>hereby</Form>
+                  </head>
+                </headAlternatives>
+                <nextAlternatives>
+                  <next maxDistance="100">
+                    <headAlternatives>
+                      <head>
+                        <Form>costs</Form>
+                        <Font>title</Font>
+                        <endOfSentence>true</endOfSentence>
+                      </head>
+                    </headAlternatives>
+                  </next>
+                </nextAlternatives>
+              </next>
+            </nextAlternatives>
+          </next>
+        </nextAlternatives>
+      </next>
+    </nextAlternatives>
+  </SDFRule>
+  <!-- with low priority, where there is written "Conclusion" in title or bold format -->
+  <SDFRule priority="100" id="43">
+    <tag>beginning-of-decision</tag>
+    <headAlternatives>
+      <head>
+        <Font>title</Font>
+        <Lemma>Conclusion</Lemma>
+      </head>
+      <head>
+        <Font>bold</Font>
+        <Lemma>Conclusion</Lemma>
+      </head>
+    </headAlternatives>
+  </SDFRule>
+  <!-- with low priority, "Costs" (not in title), preceded by a number -->
+  <SDFRule priority="9001" id="44">
+    <tag>beginning-of-decision</tag>
+    <headAlternatives>
+      <head>
+        <Form>costs</Form>
+      </head>
+    </headAlternatives>
+    <prevStarAlternatives>
+      <prev maxDistance="1">
+        <headAlternatives>
+          <head>
+            <POS>Punctuation</POS>
+          </head>
+        </headAlternatives>
+      </prev>
+    </prevStarAlternatives>
+    <prevAlternatives>
+      <prev maxDistance="1">
+        <headAlternatives>
+          <head>
+            <POS>CD</POS>
+          </head>
+        </headAlternatives>
+      </prev>
+    </prevAlternatives>
+    <nextAlternatives>
+      <next maxDistance="1">
+        <headAlternatives>
+          <head>
+            <POS>CD</POS>
+          </head>
+        </headAlternatives>
+      </next>
+    </nextAlternatives>
+  </SDFRule>
+</SDFRules>

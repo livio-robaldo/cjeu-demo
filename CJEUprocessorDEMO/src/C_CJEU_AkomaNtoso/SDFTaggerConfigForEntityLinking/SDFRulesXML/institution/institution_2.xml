@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SDFRules>
+  <!-- "Agenzia per i procedimenti e la vigilanza in materia di contratti pubblici di lavori servizi e forniture ( ACP )" -->
+  <SDFRule id="9" priority="1000">
+    <tag>institution_2</tag>
+    <headAlternatives>
+      <head>
+        <Form>Agenzia</Form>
+      </head>
+    </headAlternatives>
+    <nextAlternatives>
+      <next maxDistance="1">
+        <tag>institution_2</tag>
+        <headAlternatives>
+          <head>
+            <Form>per</Form>
+          </head>
+        </headAlternatives>
+        <nextAlternatives>
+          <next maxDistance="1">
+            <tag>institution_2</tag>
+            <headAlternatives>
+              <head>
+                <Form>i</Form>
+              </head>
+            </headAlternatives>
+            <nextAlternatives>
+              <next maxDistance="1">
+                <tag>institution_2</tag>
+                <headAlternatives>
+                  <head>
+                    <Form>procedimenti</Form>
+                  </head>
+                </headAlternatives>
+                <nextAlternatives>
+                  <next maxDistance="1">
+                    <tag>institution_2</tag>
+                    <headAlternatives>
+                      <head>
+                        <Form>e</Form>
+                      </head>
+                    </headAlternatives>
+                    <nextAlternatives>
+                      <next maxDistance="1">
+                        <tag>institution_2</tag>
+                        <headAlternatives>
+                          <head>
+                            <Form>la</Form>
+                          </head>
+                        </headAlternatives>
+                        <nextAlternatives>
+                          <next maxDistance="1">
+                            <tag>institution_2</tag>
+                            <headAlternatives>
+                              <head>
+                                <Form>vigilanza</Form>
+                              </head>
+                            </headAlternatives>
+                            <nextAlternatives>
+                              <next maxDistance="1">
+                                <tag>institution_2</tag>
+                                <headAlternatives>
+                                  <head>
+                                    <Form>in</Form>
+                                  </head>
+                                </headAlternatives>
+                                <nextAlternatives>
+                                  <next maxDistance="1">
+                                    <tag>institution_2</tag>
+                                    <headAlternatives>
+                                      <head>
+                                        <Form>materia</Form>
+                                      </head>
+                                    </headAlternatives>
+                                    <nextAlternatives>
+                                      <next maxDistance="1">
+                                        <tag>institution_2</tag>
+                                        <headAlternatives>
+                                          <head>
+                                            <Form>di</Form>
+                                          </head>
+                                        </headAlternatives>
+                                        <nextAlternatives>
+                                          <next maxDistance="1">
+                                            <tag>institution_2</tag>
+                                            <headAlternatives>
+                                              <head>
+                                                <Form>contratti</Form>
+                                              </head>
+                                            </headAlternatives>
+                                            <nextAlternatives>
+                                              <next maxDistance="1">
+                                                <tag>institution_2</tag>
+                                                <headAlternatives>
+                                                  <head>
+                                                    <Form>pubblici</Form>
+                                                  </head>
+                                                </headAlternatives>
+                                                <nextAlternatives>
+                                                  <next maxDistance="1">
+                                                    <tag>institution_2</tag>
+                                                    <headAlternatives>
+                                                      <head>
+                                                        <Form>di</Form>
+                                                      </head>
+                                                    </headAlternatives>
+                                                    <nextAlternatives>
+                                                      <next maxDistance="1">
+                                                        <tag>institution_2</tag>
+                                                        <headAlternatives>
+                                                          <head>
+                                                            <Form>lavori</Form>
+                                                          </head>
+                                                        </headAlternatives>
+                                                        <nextAlternatives>
+                                                          <next maxDistance="1">
+                                                            <tag>institution_2</tag>
+                                                            <headAlternatives>
+                                                              <head>
+                                                                <Form>servizi</Form>
+                                                              </head>
+                                                            </headAlternatives>
+                                                            <nextAlternatives>
+                                                              <next maxDistance="1">
+                                                                <tag>institution_2</tag>
+                                                                <headAlternatives>
+                                                                  <head>
+                                                                    <Form>e</Form>
+                                                                  </head>
+                                                                </headAlternatives>
+                                                                <nextAlternatives>
+                                                                  <next maxDistance="1">
+                                                                    <tag>institution_2</tag>
+                                                                    <headAlternatives>
+                                                                      <head>
+                                                                        <Form>forniture</Form>
+                                                                      </head>
+                                                                    </headAlternatives>
+                                                                    <nextAlternatives>
+                                                                      <next maxDistance="1">
+                                                                        <tag>institution_2</tag>
+                                                                        <headAlternatives>
+                                                                          <head>
+                                                                            <Form>(</Form>
+                                                                          </head>
+                                                                        </headAlternatives>
+                                                                        <nextAlternatives>
+                                                                          <next maxDistance="1">
+                                                                            <tag>institution_2</tag>
+                                                                            <headAlternatives>
+                                                                              <head>
+                                                                                <Form>ACP</Form>
+                                                                              </head>
+                                                                            </headAlternatives>
+                                                                            <nextAlternatives>
+                                                                              <next maxDistance="1">
+                                                                                <tag>institution_2</tag>
+                                                                                <headAlternatives>
+                                                                                  <head>
+                                                                                    <Form>)</Form>
+                                                                                  </head>
+                                                                                </headAlternatives>
+                                                                              </next>
+                                                                            </nextAlternatives>
+                                                                          </next>
+                                                                        </nextAlternatives>
+                                                                      </next>
+                                                                    </nextAlternatives>
+                                                                  </next>
+                                                                </nextAlternatives>
+                                                              </next>
+                                                            </nextAlternatives>
+                                                          </next>
+                                                        </nextAlternatives>
+                                                      </next>
+                                                    </nextAlternatives>
+                                                  </next>
+                                                </nextAlternatives>
+                                              </next>
+                                            </nextAlternatives>
+                                          </next>
+                                        </nextAlternatives>
+                                      </next>
+                                    </nextAlternatives>
+                                  </next>
+                                </nextAlternatives>
+                              </next>
+                            </nextAlternatives>
+                          </next>
+                        </nextAlternatives>
+                      </next>
+                    </nextAlternatives>
+                  </next>
+                </nextAlternatives>
+              </next>
+            </nextAlternatives>
+          </next>
+        </nextAlternatives>
+      </next>
+    </nextAlternatives>
+  </SDFRule>
+  <!-- "Agenzia per i procedimenti e la vigilanza in materia di contratti pubblici di lavori servizi e forniture" -->
+  <SDFRule id="10" priority="900">
+    <tag>institution_2</tag>
+    <headAlternatives>
+      <head>
+        <Form>Agenzia</Form>
+      </head>
+    </headAlternatives>
+    <nextAlternatives>
+      <next maxDistance="1">
+        <tag>institution_2</tag>
+        <headAlternatives>
+          <head>
+            <Form>per</Form>
+          </head>
+        </headAlternatives>
+        <nextAlternatives>
+          <next maxDistance="1">
+            <tag>institution_2</tag>
+            <headAlternatives>
+              <head>
+                <Form>i</Form>
+              </head>
+            </headAlternatives>
+            <nextAlternatives>
+              <next maxDistance="1">
+                <tag>institution_2</tag>
+                <headAlternatives>
+                  <head>
+                    <Form>procedimenti</Form>
+                  </head>
+                </headAlternatives>
+                <nextAlternatives>
+                  <next maxDistance="1">
+                    <tag>institution_2</tag>
+                    <headAlternatives>
+                      <head>
+                        <Form>e</Form>
+                      </head>
+                    </headAlternatives>
+                    <nextAlternatives>
+                      <next maxDistance="1">
+                        <tag>institution_2</tag>
+                        <headAlternatives>
+                          <head>
+                            <Form>la</Form>
+                          </head>
+                        </headAlternatives>
+                        <nextAlternatives>
+                          <next maxDistance="1">
+                            <tag>institution_2</tag>
+                            <headAlternatives>
+                              <head>
+                                <Form>vigilanza</Form>
+                              </head>
+                            </headAlternatives>
+                            <nextAlternatives>
+                              <next maxDistance="1">
+                                <tag>institution_2</tag>
+                                <headAlternatives>
+                                  <head>
+                                    <Form>in</Form>
+                                  </head>
+                                </headAlternatives>
+                                <nextAlternatives>
+                                  <next maxDistance="1">
+                                    <tag>institution_2</tag>
+                                    <headAlternatives>
+                                      <head>
+                                        <Form>materia</Form>
+                                      </head>
+                                    </headAlternatives>
+                                    <nextAlternatives>
+                                      <next maxDistance="1">
+                                        <tag>institution_2</tag>
+                                        <headAlternatives>
+                                          <head>
+                                            <Form>di</Form>
+                                          </head>
+                                        </headAlternatives>
+                                        <nextAlternatives>
+                                          <next maxDistance="1">
+                                            <tag>institution_2</tag>
+                                            <headAlternatives>
+                                              <head>
+                                                <Form>contratti</Form>
+                                              </head>
+                                            </headAlternatives>
+                                            <nextAlternatives>
+                                              <next maxDistance="1">
+                                                <tag>institution_2</tag>
+                                                <headAlternatives>
+                                                  <head>
+                                                    <Form>pubblici</Form>
+                                                  </head>
+                                                </headAlternatives>
+                                                <nextAlternatives>
+                                                  <next maxDistance="1">
+                                                    <tag>institution_2</tag>
+                                                    <headAlternatives>
+                                                      <head>
+                                                        <Form>di</Form>
+                                                      </head>
+                                                    </headAlternatives>
+                                                    <nextAlternatives>
+                                                      <next maxDistance="1">
+                                                        <tag>institution_2</tag>
+                                                        <headAlternatives>
+                                                          <head>
+                                                            <Form>lavori</Form>
+                                                          </head>
+                                                        </headAlternatives>
+                                                        <nextAlternatives>
+                                                          <next maxDistance="1">
+                                                            <tag>institution_2</tag>
+                                                            <headAlternatives>
+                                                              <head>
+                                                                <Form>servizi</Form>
+                                                              </head>
+                                                            </headAlternatives>
+                                                            <nextAlternatives>
+                                                              <next maxDistance="1">
+                                                                <tag>institution_2</tag>
+                                                                <headAlternatives>
+                                                                  <head>
+                                                                    <Form>e</Form>
+                                                                  </head>
+                                                                </headAlternatives>
+                                                                <nextAlternatives>
+                                                                  <next maxDistance="1">
+                                                                    <tag>institution_2</tag>
+                                                                    <headAlternatives>
+                                                                      <head>
+                                                                        <Form>forniture</Form>
+                                                                      </head>
+                                                                    </headAlternatives>
+                                                                  </next>
+                                                                </nextAlternatives>
+                                                              </next>
+                                                            </nextAlternatives>
+                                                          </next>
+                                                        </nextAlternatives>
+                                                      </next>
+                                                    </nextAlternatives>
+                                                  </next>
+                                                </nextAlternatives>
+                                              </next>
+                                            </nextAlternatives>
+                                          </next>
+                                        </nextAlternatives>
+                                      </next>
+                                    </nextAlternatives>
+                                  </next>
+                                </nextAlternatives>
+                              </next>
+                            </nextAlternatives>
+                          </next>
+                        </nextAlternatives>
+                      </next>
+                    </nextAlternatives>
+                  </next>
+                </nextAlternatives>
+              </next>
+            </nextAlternatives>
+          </next>
+        </nextAlternatives>
+      </next>
+    </nextAlternatives>
+  </SDFRule>
+  <!-- "ACP" -->
+  <SDFRule id="11" priority="990">
+    <tag>institution_2</tag>
+    <headAlternatives>
+      <head>
+        <Form>ACP</Form>
+      </head>
+    </headAlternatives>
+  </SDFRule>
+</SDFRules>

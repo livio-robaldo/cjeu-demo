@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SDFRules>
+  <!-- "Impresa di Costruzioni Ing . E. Mantovani SpA" -->
+  <SDFRule id="7" priority="1000">
+    <tag>company_1</tag>
+    <headAlternatives>
+      <head>
+        <Form>Impresa</Form>
+      </head>
+    </headAlternatives>
+    <nextAlternatives>
+      <next maxDistance="1">
+        <tag>company_1</tag>
+        <headAlternatives>
+          <head>
+            <Form>di</Form>
+          </head>
+        </headAlternatives>
+        <nextAlternatives>
+          <next maxDistance="1">
+            <tag>company_1</tag>
+            <headAlternatives>
+              <head>
+                <Form>Costruzioni</Form>
+              </head>
+            </headAlternatives>
+            <nextAlternatives>
+              <next maxDistance="1">
+                <tag>company_1</tag>
+                <headAlternatives>
+                  <head>
+                    <Form>Ing</Form>
+                  </head>
+                </headAlternatives>
+                <nextAlternatives>
+                  <next maxDistance="1">
+                    <tag>company_1</tag>
+                    <headAlternatives>
+                      <head>
+                        <Form>.</Form>
+                      </head>
+                    </headAlternatives>
+                    <nextAlternatives>
+                      <next maxDistance="1">
+                        <tag>company_1</tag>
+                        <headAlternatives>
+                          <head>
+                            <Form>E.</Form>
+                          </head>
+                        </headAlternatives>
+                        <nextAlternatives>
+                          <next maxDistance="1">
+                            <tag>company_1</tag>
+                            <headAlternatives>
+                              <head>
+                                <Form>Mantovani</Form>
+                              </head>
+                            </headAlternatives>
+                            <nextAlternatives>
+                              <next maxDistance="1">
+                                <tag>company_1</tag>
+                                <headAlternatives>
+                                  <head>
+                                    <Form>SpA</Form>
+                                  </head>
+                                </headAlternatives>
+                              </next>
+                            </nextAlternatives>
+                          </next>
+                        </nextAlternatives>
+                      </next>
+                    </nextAlternatives>
+                  </next>
+                </nextAlternatives>
+              </next>
+            </nextAlternatives>
+          </next>
+        </nextAlternatives>
+      </next>
+    </nextAlternatives>
+  </SDFRule>
+</SDFRules>

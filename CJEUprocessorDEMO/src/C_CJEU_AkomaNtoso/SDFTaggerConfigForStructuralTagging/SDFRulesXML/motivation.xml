@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright 2014 Livio Robaldo
+This file is part of CJEUprocessorDEMO. The demo uses the SDFTagger library, whose source code can be obtained by contacting Livio Robaldo (http://www.liviorobaldo.com)
+CJEUprocessorDEMO is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software 
+Foundation, either version 3 of the License, or (at your option) any later version.
+CJEUprocessorDEMO is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A 
+PARTICULAR PURPOSE. See the GNU General Public License for more details.
+You should have received a copy of the GNU General Public License along with CJEUprocessorDEMO.  If not, see <http://www.gnu.org/licenses/>.
+-->
+<SDFRules>
+  <!--  If one of the following string is in format *title* or *bold*, they mark the beginning of the motivation:
+        - "the dispute in the main proceedings"
+        - "the question referred for a preliminary ruling"
+        - "the questions referred"
+        - "the disputes in the main proceedings"
+        - "the questions referred for a preliminary ruling"
+        - "the proceedings before the "
+        - "the order under appeal"
+        - "the judgment under appeal"
+        - "the judgments under appeal"
+    -->
+  <SDFRule priority="10000" id="35">
+    <tag>beginning-of-motivation</tag>
+    <headAlternatives>
+      <head>
+        <Form>the</Form>
+        <Font>title</Font>
+      </head>
+      <head>
+        <Form>the</Form>
+        <Font>bold</Font>
+      </head>
+    </headAlternatives>
+    <nextAlternatives>
+      <next maxDistance="1">
+        <tag>beginning-of-motivation</tag>
+        <headAlternatives>
+          <head>
+            <Lemma>question</Lemma>
+            <Font>title</Font>
+          </head>
+          <head>
+            <Lemma>question</Lemma>
+            <Font>bold</Font>
+          </head>
+        </headAlternatives>
+        <nextAlternatives>
+          <next maxDistance="1">
+            <tag>beginning-of-motivation</tag>
+            <headAlternatives>
+              <head>
+                <Form>referred</Form>
+                <Font>title</Font>
+              </head>
+              <head>
+                <Form>referred</Form>
+                <Font>bold</Font>
+              </head>
+            </headAlternatives>
+          </next>
+        </nextAlternatives>
+      </next>
+      <next maxDistance="1">
+        <tag>beginning-of-motivation</tag>
+        <headAlternatives>
+          <head>
+            <Lemma>dispute</Lemma>
+            <Font>title</Font>
+          </head>
+          <head>
+            <Lemma>dispute</Lemma>
+            <Font>bold</Font>
+          </head>
+          <head>
+            <Lemma>judgment</Lemma>
+            <Font>title</Font>
+          </head>
+          <head>
+            <Lemma>judgment</Lemma>
+            <Font>bold</Font>
+          </head>
+          <head>
+            <Form>proceedings</Form>
+            <Font>title</Font>
+          </head>
+          <head>
+            <Form>proceedings</Form>
+            <Font>bold</Font>
+          </head>
+          <head>
+            <Lemma>order</Lemma>
+            <Font>title</Font>
+          </head>
+          <head>
+            <Lemma>order</Lemma>
+            <Font>bold</Font>
+          </head>
+        </headAlternatives>
+        <nextAlternatives>
+          <next maxDistance="1">
+            <tag>beginning-of-motivation</tag>
+            <headAlternatives>
+              <head>
+                <Form>in</Form>
+                <Font>title</Font>
+              </head>
+              <head>
+                <Form>in</Form>
+                <Font>bold</Font>
+              </head>
+              <head>
+                <Form>under</Form>
+                <Font>title</Font>
+              </head>
+              <head>
+                <Form>under</Form>
+                <Font>bold</Font>
+              </head>
+              <head>
+                <Form>before</Form>
+                <Font>title</Font>
+              </head>
+              <head>
+                <Form>before</Form>
+                <Font>bold</Font>
+              </head>
+            </headAlternatives>
+            <nextAlternatives>
+              <next maxDistance="2">
+                <tag>beginning-of-motivation</tag>
+                <headAlternatives>
+                  <head>
+                    <Form>main</Form>
+                    <Font>title</Font>
+                  </head>
+                  <head>
+                    <Form>main</Form>
+                    <Font>bold</Font>
+                  </head>
+                  <head>
+                    <Form>preliminary</Form>
+                    <Font>title</Font>
+                  </head>
+                  <head>
+                    <Form>preliminary</Form>
+                    <Font>bold</Font>
+                  </head>
+                  <head>
+                    <Form>appeal</Form>
+                    <Font>title</Font>
+                  </head>
+                  <head>
+                    <Form>appeal</Form>
+                    <Font>bold</Font>
+                  </head>
+                </headAlternatives>
+                <nextAlternatives>
+                  <next maxDistance="1">
+                    <tag>beginning-of-motivation</tag>
+                    <headAlternatives>
+                      <head>
+                        <Form>ruling</Form>
+                        <Font>title</Font>
+                      </head>
+                      <head>
+                        <Form>ruling</Form>
+                        <Font>bold</Font>
+                      </head>
+                      <head>
+                        <Form>proceedings</Form>
+                        <Font>title</Font>
+                      </head>
+                      <head>
+                        <Form>proceedings</Form>
+                        <Font>bold</Font>
+                      </head>
+                    </headAlternatives>
+                  </next>
+                </nextAlternatives>
+              </next>
+            </nextAlternatives>
+          </next>
+        </nextAlternatives>
+      </next>
+    </nextAlternatives>
+  </SDFRule>
+  <!-- "the action": this is separated from the one above, as we don't want any bold or title before "the" -->
+  <SDFRule priority="10000" id="36">
+    <tag>beginning-of-motivation</tag>
+    <headAlternatives>
+      <head>
+        <Form>the</Form>
+        <Font>title</Font>
+      </head>
+      <head>
+        <Form>the</Form>
+        <Font>bold</Font>
+      </head>
+    </headAlternatives>
+    <prevAlternatives>
+      <prev maxDistance="1">
+        <headAlternatives>
+          <head>
+            <Font>normal</Font>
+          </head>
+        </headAlternatives>
+      </prev>
+    </prevAlternatives>
+    <nextAlternatives>
+      <next maxDistance="1">
+        <tag>beginning-of-motivation</tag>
+        <headAlternatives>
+          <head>
+            <Lemma>action</Lemma>
+            <Font>title</Font>
+          </head>
+          <head>
+            <Lemma>action</Lemma>
+            <Font>bold</Font>
+          </head>
+        </headAlternatives>
+      </next>
+    </nextAlternatives>
+  </SDFRule>
+  <!--  If one of the following string is in format *title* or *bold*, they mark the beginning of the motivation:
+        - "procedure before the "
+        - "consideration of the "
+        - "forms of order sought by the parties"
+        - "findings of the court"
+    -->
+  <SDFRule priority="10000" id="37">
+    <tag>beginning-of-motivation</tag>
+    <headAlternatives>
+      <head>
+        <Form>procedure</Form>
+        <Font>title</Font>
+      </head>
+      <head>
+        <Form>procedure</Form>
+        <Font>bold</Font>
+      </head>
+      <head>
+        <Form>consideration</Form>
+        <Font>title</Font>
+      </head>
+      <head>
+        <Form>consideration</Form>
+        <Font>bold</Font>
+      </head>
+      <head>
+        <Form>forms</Form>
+        <Font>title</Font>
+      </head>
+      <head>
+        <Form>forms</Form>
+        <Font>bold</Font>
+      </head>
+      <head>
+        <Form>findings</Form>
+        <Font>title</Font>
+      </head>
+      <head>
+        <Form>findings</Form>
+        <Font>bold</Font>
+      </head>
+    </headAlternatives>
+    <nextAlternatives>
+      <next maxDistance="1">
+        <tag>beginning-of-motivation</tag>
+        <headAlternatives>
+          <head>
+            <Form>before</Form>
+            <Font>title</Font>
+          </head>
+          <head>
+            <Form>before</Form>
+            <Font>bold</Font>
+          </head>
+          <head>
+            <Form>of</Form>
+            <Font>title</Font>
+          </head>
+          <head>
+            <Form>of</Form>
+            <Font>bold</Font>
+          </head>
+        </headAlternatives>
+        <nextAlternatives>
+          <next maxDistance="2">
+            <tag>beginning-of-motivation</tag>
+            <headAlternatives>
+              <head>
+                <Form>court</Form>
+                <Font>title</Font>
+              </head>
+              <head>
+                <Form>court</Form>
+                <Font>bold</Font>
+              </head>
+            </headAlternatives>
+          </next>
+          <next maxDistance="2">
+            <tag>beginning-of-motivation</tag>
+            <headAlternatives>
+              <head>
+                <Form>order</Form>
+                <Font>title</Font>
+              </head>
+              <head>
+                <Form>order</Form>
+                <Font>bold</Font>
+              </head>
+            </headAlternatives>
+            <nextAlternatives>
+              <next maxDistance="2">
+                <tag>beginning-of-motivation</tag>
+                <headAlternatives>
+                  <head>
+                    <Form>sought</Form>
+                    <Font>title</Font>
+                  </head>
+                  <head>
+                    <Form>sought</Form>
+                    <Font>bold</Font>
+                  </head>
+                </headAlternatives>
+                <nextAlternatives>
+                  <next maxDistance="3">
+                    <tag>beginning-of-motivation</tag>
+                    <headAlternatives>
+                      <head>
+                        <Form>parties</Form>
+                        <Font>title</Font>
+                      </head>
+                      <head>
+                        <Form>parties</Form>
+                        <Font>bold</Font>
+                      </head>
+                    </headAlternatives>
+                  </next>
+                </nextAlternatives>
+              </next>
+            </nextAlternatives>
+          </next>
+        </nextAlternatives>
+      </next>
+    </nextAlternatives>
+  </SDFRule>
+  <!-- with lower priority, we take: 
+            -   "the procedure before the general court and the judgment under appeal"
+            -   "procedure before the court and forms of order sought"
+        as end of the Introduction (without bold or title)
+    -->
+  <SDFRule priority="9000" id="38">
+    <tag>beginning-of-motivation</tag>
+    <headAlternatives>
+      <head>
+        <Form>procedure</Form>
+      </head>
+    </headAlternatives>
+    <nextAlternatives>
+      <next maxDistance="2">
+        <tag>beginning-of-motivation</tag>
+        <headAlternatives>
+          <head>
+            <Form>before</Form>
+          </head>
+        </headAlternatives>
+        <nextAlternatives>
+          <next maxDistance="3">
+            <tag>beginning-of-motivation</tag>
+            <headAlternatives>
+              <head>
+                <Form>court</Form>
+              </head>
+            </headAlternatives>
+            <nextAlternatives>
+              <next maxDistance="1">
+                <tag>beginning-of-motivation</tag>
+                <headAlternatives>
+                  <head>
+                    <Form>and</Form>
+                  </head>
+                </headAlternatives>
+                <nextAlternatives>
+                  <next maxDistance="2">
+                    <tag>beginning-of-motivation</tag>
+                    <headAlternatives>
+                      <head>
+                        <Form>judgment</Form>
+                      </head>
+                      <head>
+                        <Form>forms</Form>
+                      </head>
+                    </headAlternatives>
+                    <nextAlternatives>
+                      <next maxDistance="2">
+                        <tag>beginning-of-motivation</tag>
+                        <headAlternatives>
+                          <head>
+                            <Form>under</Form>
+                          </head>
+                          <head>
+                            <Form>order</Form>
+                          </head>
+                        </headAlternatives>
+                        <nextAlternatives>
+                          <next maxDistance="2">
+                            <tag>beginning-of-motivation</tag>
+                            <headAlternatives>
+                              <head>
+                                <Form>appeal</Form>
+                              </head>
+                              <head>
+                                <Form>sought</Form>
+                              </head>
+                            </headAlternatives>
+                          </next>
+                        </nextAlternatives>
+                      </next>
+                    </nextAlternatives>
+                  </next>
+                </nextAlternatives>
+              </next>
+            </nextAlternatives>
+          </next>
+        </nextAlternatives>
+      </next>
+    </nextAlternatives>
+  </SDFRule>
+  <!-- with very low priority, we check if there is "Analysis" in bold within a single sentence -->
+  <SDFRule priority="9000" id="39">
+    <tag>beginning-of-motivation</tag>
+    <headAlternatives>
+      <head>
+        <Lemma>Analysis</Lemma>
+        <Font>bold</Font>
+        <endOfSentence>true</endOfSentence>
+      </head>
+    </headAlternatives>
+  </SDFRule>
+</SDFRules>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SDFRules>
+  <!-- "Total Infrastructures Gaz France ( TIGF )" -->
+  <SDFRule id="5" priority="1000">
+    <tag>institution_7</tag>
+    <headAlternatives>
+      <head>
+        <Form>Total</Form>
+      </head>
+    </headAlternatives>
+    <nextAlternatives>
+      <next maxDistance="1">
+        <tag>institution_7</tag>
+        <headAlternatives>
+          <head>
+            <Form>Infrastructures</Form>
+          </head>
+        </headAlternatives>
+        <nextAlternatives>
+          <next maxDistance="1">
+            <tag>institution_7</tag>
+            <headAlternatives>
+              <head>
+                <Form>Gaz</Form>
+              </head>
+            </headAlternatives>
+            <nextAlternatives>
+              <next maxDistance="1">
+                <tag>institution_7</tag>
+                <headAlternatives>
+                  <head>
+                    <Form>France</Form>
+                  </head>
+                </headAlternatives>
+                <nextAlternatives>
+                  <next maxDistance="1">
+                    <tag>institution_7</tag>
+                    <headAlternatives>
+                      <head>
+                        <Form>(</Form>
+                      </head>
+                    </headAlternatives>
+                    <nextAlternatives>
+                      <next maxDistance="1">
+                        <tag>institution_7</tag>
+                        <headAlternatives>
+                          <head>
+                            <Form>TIGF</Form>
+                          </head>
+                        </headAlternatives>
+                        <nextAlternatives>
+                          <next maxDistance="1">
+                            <tag>institution_7</tag>
+                            <headAlternatives>
+                              <head>
+                                <Form>)</Form>
+                              </head>
+                            </headAlternatives>
+                          </next>
+                        </nextAlternatives>
+                      </next>
+                    </nextAlternatives>
+                  </next>
+                </nextAlternatives>
+              </next>
+            </nextAlternatives>
+          </next>
+        </nextAlternatives>
+      </next>
+    </nextAlternatives>
+  </SDFRule>
+  <!-- "Total Infrastructures Gaz France" -->
+  <SDFRule id="6" priority="900">
+    <tag>institution_7</tag>
+    <headAlternatives>
+      <head>
+        <Form>Total</Form>
+      </head>
+    </headAlternatives>
+    <nextAlternatives>
+      <next maxDistance="1">
+        <tag>institution_7</tag>
+        <headAlternatives>
+          <head>
+            <Form>Infrastructures</Form>
+          </head>
+        </headAlternatives>
+        <nextAlternatives>
+          <next maxDistance="1">
+            <tag>institution_7</tag>
+            <headAlternatives>
+              <head>
+                <Form>Gaz</Form>
+              </head>
+            </headAlternatives>
+            <nextAlternatives>
+              <next maxDistance="1">
+                <tag>institution_7</tag>
+                <headAlternatives>
+                  <head>
+                    <Form>France</Form>
+                  </head>
+                </headAlternatives>
+              </next>
+            </nextAlternatives>
+          </next>
+        </nextAlternatives>
+      </next>
+    </nextAlternatives>
+  </SDFRule>
+  <!-- "TIGF" -->
+  <SDFRule id="7" priority="990">
+    <tag>institution_7</tag>
+    <headAlternatives>
+      <head>
+        <Form>TIGF</Form>
+      </head>
+    </headAlternatives>
+  </SDFRule>
+</SDFRules>

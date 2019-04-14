@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SDFRules>
+  <!-- "Eni Gas & Power France SA" -->
+  <SDFRule id="4" priority="1000">
+    <tag>company_6</tag>
+    <headAlternatives>
+      <head>
+        <Form>Eni</Form>
+      </head>
+    </headAlternatives>
+    <nextAlternatives>
+      <next maxDistance="1">
+        <tag>company_6</tag>
+        <headAlternatives>
+          <head>
+            <Form>Gas</Form>
+          </head>
+        </headAlternatives>
+        <nextAlternatives>
+          <next maxDistance="1">
+            <tag>company_6</tag>
+            <headAlternatives>
+              <head>
+                <Form>&amp;</Form>
+              </head>
+            </headAlternatives>
+            <nextAlternatives>
+              <next maxDistance="1">
+                <tag>company_6</tag>
+                <headAlternatives>
+                  <head>
+                    <Form>Power</Form>
+                  </head>
+                </headAlternatives>
+                <nextAlternatives>
+                  <next maxDistance="1">
+                    <tag>company_6</tag>
+                    <headAlternatives>
+                      <head>
+                        <Form>France</Form>
+                      </head>
+                    </headAlternatives>
+                    <nextAlternatives>
+                      <next maxDistance="1">
+                        <tag>company_6</tag>
+                        <headAlternatives>
+                          <head>
+                            <Form>SA</Form>
+                          </head>
+                        </headAlternatives>
+                      </next>
+                    </nextAlternatives>
+                  </next>
+                </nextAlternatives>
+              </next>
+            </nextAlternatives>
+          </next>
+        </nextAlternatives>
+      </next>
+    </nextAlternatives>
+  </SDFRule>
+</SDFRules>

@@ -1,0 +1,932 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright 2014 Livio Robaldo
+This file is part of CJEUprocessorDEMO. The demo uses the SDFTagger library, whose source code can be obtained by contacting Livio Robaldo (http://www.liviorobaldo.com)
+CJEUprocessorDEMO is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software 
+Foundation, either version 3 of the License, or (at your option) any later version.
+CJEUprocessorDEMO is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A 
+PARTICULAR PURPOSE. See the GNU General Public License for more details.
+You should have received a copy of the GNU General Public License along with CJEUprocessorDEMO.  If not, see <http://www.gnu.org/licenses/>.
+-->
+<SDFRules>
+  <!-- the case law of the Court of Justice are separated into paragraphs -->
+  <!-- A cardinal number alone (i.e., the whole sentence *IS* the cardinal number) is an index -->
+  <SDFRule priority="10000" id="1">
+    <tag>paragraph-index</tag>
+    <headAlternatives>
+      <head>
+        <isNumber>true</isNumber>
+        <endOfSentence>true</endOfSentence>
+      </head>
+    </headAlternatives>
+    <prevAlternatives>
+      <notPrev maxDistance="1">
+        <headAlternatives>
+          <head />
+        </headAlternatives>
+      </notPrev>
+      <prev maxDistance="1">
+        <headAlternatives>
+          <head>
+            <endOfSentence>true</endOfSentence>
+          </head>
+        </headAlternatives>
+      </prev>
+    </prevAlternatives>
+  </SDFRule>
+  <!-- 
+        - A cardinal number or a letter or a roman number followed by "." is an (normal) index.
+        - Same for cardinal numbers or letters followed by ")" or even enclosed by "(...)" 
+  -->
+  <SDFRule priority="10000" id="2">
+    <tag>index</tag>
+    <headAlternatives>
+      <head>
+        <isNumber>true</isNumber>
+      </head>
+      <head>
+        <Bag name="Letters" />
+      </head>
+      <head>
+        <Bag name="Roman Numbers" />
+      </head>
+    </headAlternatives>
+    <nextAlternatives>
+      <next maxDistance="1">
+        <tag>index</tag>
+        <headAlternatives>
+          <head>
+            <Form>.</Form>
+          </head>
+          <head>
+            <Form>)</Form>
+          </head>
+        </headAlternatives>
+      </next>
+    </nextAlternatives>
+    <prevStarAlternatives>
+      <prev maxDistance="1">
+        <tag>index</tag>
+        <headAlternatives>
+          <head>
+            <Form>(</Form>
+          </head>
+        </headAlternatives>
+      </prev>
+    </prevStarAlternatives>
+    <!-- if there's the "*" before, we are at the beginning of the case law, where there is a footnote specifying the language of the footnote: it is not an index! -->
+    <prevAlternatives>
+      <notPrev maxDistance="1">
+        <headAlternatives>
+          <head>
+            <Form>*</Form>
+          </head>
+        </headAlternatives>
+      </notPrev>
+    </prevAlternatives>
+  </SDFRule>
+  <!-- an SDFDependencyTree containing only an hyphen is an index (I mean: the hyphen is an index) -->
+  <SDFRule priority="10000" id="3">
+    <tag>index</tag>
+    <headAlternatives>
+      <head>
+        <Form>--</Form>
+        <endOfSentence>true</endOfSentence>
+      </head>
+    </headAlternatives>
+    <prevAlternatives>
+      <notPrev maxDistance="1">
+        <headAlternatives>
+          <head />
+        </headAlternatives>
+      </notPrev>
+      <prev maxDistance="1">
+        <headAlternatives>
+          <head>
+            <endOfSentence>true</endOfSentence>
+          </head>
+        </headAlternatives>
+      </prev>
+    </prevAlternatives>
+  </SDFRule>
+  <!--                                                                                                                                        -->
+  <!--                                                                                                                                        -->
+  <!-- ********************** FROM HERE BELOW, WE ONLY INSERT EXCEPTIONS, I.E. SDFRule(s) that assign "not-index" tags ********************** -->
+  <!-- ********************** FROM HERE BELOW, WE ONLY INSERT EXCEPTIONS, I.E. SDFRule(s) that assign "not-index" tags ********************** -->
+  <!-- ********************** FROM HERE BELOW, WE ONLY INSERT EXCEPTIONS, I.E. SDFRule(s) that assign "not-index" tags ********************** -->
+  <!-- ********************** FROM HERE BELOW, WE ONLY INSERT EXCEPTIONS, I.E. SDFRule(s) that assign "not-index" tags ********************** -->
+  <!-- ********************** FROM HERE BELOW, WE ONLY INSERT EXCEPTIONS, I.E. SDFRule(s) that assign "not-index" tags ********************** -->
+  <!-- ********************** FROM HERE BELOW, WE ONLY INSERT EXCEPTIONS, I.E. SDFRule(s) that assign "not-index" tags ********************** -->
+  <!--                                                                                                                                        -->
+  <!--                                                                                                                                        -->
+  <!-- Exception to the rule above! If the number is preceded by the words "paragraph", "article", "chapter" (and others I could find in the future)
+       it is not an index. Somethings it happens that the number of "paragraph", "article", "chapter", etc. are within a link, e.g.,
+       <p>.... paragraph <a href="http:\\...">30</a> ... </p>
+       As a consequence, the number "30" is the single SDFHead inserted within a DependencyTree, and it is tagged as index via the rule above -->
+  <SDFRule priority="10001" id="4">
+    <tag>not-index</tag>
+    <tag>not-paragraph-index</tag>
+    <headAlternatives>
+      <head>
+        <isNumber>true</isNumber>
+      </head>
+      <head>
+        <Bag name="Letters" />
+      </head>
+      <head>
+        <Bag name="Roman Numbers" />
+      </head>
+    </headAlternatives>
+    <prevStarAlternatives>
+      <prev maxDistance="1">
+        <headAlternatives>
+          <head>
+            <Form>(</Form>
+          </head>
+          <head>
+            <Form>)</Form>
+          </head>
+          <head>
+            <Form>and</Form>
+          </head>
+          <head>
+            <Form>or</Form>
+          </head>
+          <head>
+            <Form>,</Form>
+          </head>
+          <head>
+            <Form>to</Form>
+          </head>
+          <head>
+            <isNumber>true</isNumber>
+          </head>
+          <head>
+            <isAlphanumerical>true</isAlphanumerical>
+          </head>
+          <head>
+            <Bag name="Letters" />
+          </head>
+          <head>
+            <Bag name="Roman Numbers" />
+          </head>
+        </headAlternatives>
+      </prev>
+    </prevStarAlternatives>
+    <prevAlternatives>
+      <prev maxDistance="1">
+        <headAlternatives>
+          <head>
+            <Bag name="Structural Items in Legal Text" />
+          </head>
+        </headAlternatives>
+      </prev>
+    </prevAlternatives>
+  </SDFRule>
+  <!-- another exception: I found "place(s)": he tags "(s)" as index ... -->
+  <SDFRule priority="10001" id="5">
+    <tag>not-index</tag>
+    <tag>not-paragraph-index</tag>
+    <headAlternatives>
+      <head>
+        <Form>s</Form>
+      </head>
+    </headAlternatives>
+    <nextAlternatives>
+      <next maxDistance="1">
+        <headAlternatives>
+          <head>
+            <Form>)</Form>
+          </head>
+        </headAlternatives>
+      </next>
+    </nextAlternatives>
+    <prevAlternatives>
+      <prev maxDistance="1">
+        <headAlternatives>
+          <head>
+            <Form>(</Form>
+            <blanksBefore>0</blanksBefore>
+          </head>
+        </headAlternatives>
+      </prev>
+    </prevAlternatives>
+  </SDFRule>
+  <!-- another exception: months followed by number (the numbers aren't indexes) -->
+  <SDFRule priority="10001" id="6">
+    <tag>not-index</tag>
+    <tag>not-paragraph-index</tag>
+    <headAlternatives>
+      <head>
+        <Bag name="Months" />
+      </head>
+      <!-- also quantities of money -->
+      <head>
+        <Lemma>euro</Lemma>
+      </head>
+      <head>
+        <Form>EUR</Form>
+      </head>
+    </headAlternatives>
+    <nextAlternatives>
+      <next maxDistance="1">
+        <tag>not-index</tag>
+        <tag>not-paragraph-index</tag>
+        <headAlternatives>
+          <head>
+            <isNumber>true</isNumber>
+          </head>
+        </headAlternatives>
+      </next>
+    </nextAlternatives>
+  </SDFRule>
+  <!-- another exception: the Stanford parser marks ":2012:744" as a CD. So, we get: "EU:C<index>:2012:744)</index>". This exception blocks this. -->
+  <SDFRule priority="10001" id="7">
+    <tag>not-index</tag>
+    <tag>not-paragraph-index</tag>
+    <headAlternatives>
+      <head>
+        <isNumber>true</isNumber>
+      </head>
+    </headAlternatives>
+    <prevStarAlternatives>
+      <prev maxDistance="1">
+        <headAlternatives>
+          <head>
+            <Form>C</Form>
+          </head>
+          <head>
+            <Form>:</Form>
+          </head>
+          <head>
+            <isNumber>true</isNumber>
+          </head>
+        </headAlternatives>
+      </prev>
+    </prevStarAlternatives>
+    <prevAlternatives>
+      <prev maxDistance="1">
+        <headAlternatives>
+          <head>
+            <Form>EU</Form>
+          </head>
+        </headAlternatives>
+      </prev>
+    </prevAlternatives>
+  </SDFRule>
+  <!-- exception: the "v" alone (i.e., within the same sentence) marks "versus" (usually, it is at the beginning of the case law -->
+  <SDFRule priority="10001" id="8">
+    <tag>not-index</tag>
+    <tag>not-paragraph-index</tag>
+    <headAlternatives>
+      <head>
+        <Form>v</Form>
+        <endOfSentence>true</endOfSentence>
+      </head>
+    </headAlternatives>
+    <prevAlternatives>
+      <notPrev maxDistance="1">
+        <headAlternatives>
+          <head />
+        </headAlternatives>
+      </notPrev>
+      <prev maxDistance="1">
+        <headAlternatives>
+          <head>
+            <endOfSentence>true</endOfSentence>
+          </head>
+        </headAlternatives>
+      </prev>
+    </prevAlternatives>
+  </SDFRule>
+  <!-- exception: "No 2545 (1954)" -->
+  <SDFRule priority="10001" id="9">
+    <tag>not-index</tag>
+    <tag>not-paragraph-index</tag>
+    <headAlternatives>
+      <head>
+        <Form>No</Form>
+      </head>
+    </headAlternatives>
+    <nextStarAlternatives>
+      <next maxDistance="1">
+        <tag>not-index</tag>
+        <tag>not-paragraph-index</tag>
+        <headAlternatives>
+          <head>
+            <isNumber>true</isNumber>
+          </head>
+          <head>
+            <Form>(</Form>
+          </head>
+          <head>
+            <Form>)</Form>
+          </head>
+        </headAlternatives>
+      </next>
+    </nextStarAlternatives>
+  </SDFRule>
+  <!-- "Mr B.": without this rule, marks "B." as an index. Same for "Co2."-->
+  <!-- also "Class 38." o even another number, e.g. "90 90.", or even "/", e.g. "in Case T‑352/15."-->
+  <SDFRule priority="10001" id="10">
+    <tag>not-index</tag>
+    <tag>not-paragraph-index</tag>
+    <headAlternatives>
+      <head>
+        <Bag name="Letters" />
+      </head>
+      <head>
+        <isNumber>true</isNumber>
+      </head>
+    </headAlternatives>
+    <nextAlternatives>
+      <next maxDistance="1">
+        <headAlternatives>
+          <head>
+            <Form>.</Form>
+          </head>
+        </headAlternatives>
+      </next>
+    </nextAlternatives>
+    <prevAlternatives>
+      <prev maxDistance="1">
+        <headAlternatives>
+          <head>
+            <Form>mr</Form>
+          </head>
+          <head>
+            <Form>co</Form>
+          </head>
+          <head>
+            <Form>class</Form>
+          </head>
+          <head>
+            <isNumber>true</isNumber>
+          </head>
+          <head>
+            <Form>/</Form>
+          </head>
+        </headAlternatives>
+      </prev>
+    </prevAlternatives>
+  </SDFRule>
+  <!-- Exception: if we have "(...)" and within the brackets there is at least TWO elements of which AT LEAST ONE is a non-number,
+       then everything within the "(...)" is tagged as not-index -->
+  <SDFRule priority="10001" id="11">
+    <tag>not-index</tag>
+    <tag>not-paragraph-index</tag>
+    <headAlternatives>
+      <head>
+        <Form>(</Form>
+      </head>
+    </headAlternatives>
+    <nextAlternatives>
+      <next maxDistance="1">
+        <tag>not-index</tag>
+        <tag>not-paragraph-index</tag>
+        <headAlternatives>
+          <head>
+            <notForm>)</notForm>
+            <isNumber>false</isNumber>
+            <endOfSentence>false</endOfSentence>
+          </head>
+        </headAlternatives>
+        <nextAlternatives>
+          <next maxDistance="1">
+            <tag>not-index</tag>
+            <tag>not-paragraph-index</tag>
+            <headAlternatives>
+              <head>
+                <notForm>)</notForm>
+                <endOfSentence>false</endOfSentence>
+              </head>
+            </headAlternatives>
+            <nextStarAlternatives>
+              <next maxDistance="1">
+                <tag>not-index</tag>
+                <tag>not-paragraph-index</tag>
+                <headAlternatives>
+                  <head>
+                    <notForm>)</notForm>
+                    <endOfSentence>false</endOfSentence>
+                  </head>
+                </headAlternatives>
+              </next>
+            </nextStarAlternatives>
+            <nextAlternatives>
+              <next maxDistance="1">
+                <tag>not-index</tag>
+                <tag>not-paragraph-index</tag>
+                <headAlternatives>
+                  <head>
+                    <Form>)</Form>
+                  </head>
+                </headAlternatives>
+              </next>
+            </nextAlternatives>
+          </next>
+        </nextAlternatives>
+      </next>
+      <next maxDistance="1">
+        <tag>not-index</tag>
+        <tag>not-paragraph-index</tag>
+        <headAlternatives>
+          <head>
+            <notForm>)</notForm>
+            <isNumber>true</isNumber>
+            <endOfSentence>false</endOfSentence>
+          </head>
+        </headAlternatives>
+        <nextStarAlternatives>
+          <next maxDistance="1">
+            <tag>not-index</tag>
+            <tag>not-paragraph-index</tag>
+            <headAlternatives>
+              <head>
+                <notForm>)</notForm>
+                <isNumber>true</isNumber>
+                <endOfSentence>false</endOfSentence>
+              </head>
+            </headAlternatives>
+          </next>
+        </nextStarAlternatives>
+        <nextAlternatives>
+          <next maxDistance="1">
+            <tag>not-index</tag>
+            <tag>not-paragraph-index</tag>
+            <headAlternatives>
+              <head>
+                <notForm>)</notForm>
+                <isNumber>false</isNumber>
+                <endOfSentence>false</endOfSentence>
+              </head>
+            </headAlternatives>
+            <nextStarAlternatives>
+              <next maxDistance="1">
+                <tag>not-index</tag>
+                <tag>not-paragraph-index</tag>
+                <headAlternatives>
+                  <head>
+                    <notForm>)</notForm>
+                    <endOfSentence>false</endOfSentence>
+                  </head>
+                </headAlternatives>
+              </next>
+            </nextStarAlternatives>
+            <nextAlternatives>
+              <next maxDistance="1">
+                <tag>not-index</tag>
+                <tag>not-paragraph-index</tag>
+                <headAlternatives>
+                  <head>
+                    <Form>)</Form>
+                  </head>
+                </headAlternatives>
+              </next>
+            </nextAlternatives>
+          </next>
+        </nextAlternatives>
+      </next>
+    </nextAlternatives>
+  </SDFRule>
+  <!-- if it is a number too big, e.g., more than 3 digits, it cannot be an index -->
+  <!-- This rule prevents years to be tagged as indexes. E.g. "2016.", which is taken as index without this feature. -->
+  <SDFRule priority="10100" id="12">
+    <tag>not-index</tag>
+    <tag>not-paragraph-index</tag>
+    <headAlternatives>
+      <head>
+        <isNumber>true</isNumber>
+        <isTooBigNumber>true</isTooBigNumber>
+      </head>
+    </headAlternatives>
+  </SDFRule>
+  <!-- if it is followed by an "and" or ";" or comma it cannot be an index. -->
+  <!-- This rule prevents "paragraphs 41 and 42", for instance -->
+  <SDFRule priority="10100" id="13">
+    <tag>not-index</tag>
+    <tag>not-paragraph-index</tag>
+    <headAlternatives>
+      <head>
+        <isNumber>true</isNumber>
+      </head>
+    </headAlternatives>
+    <nextAlternatives>
+      <next maxDistance="1">
+        <headAlternatives>
+          <head>
+            <Form>and</Form>
+          </head>
+          <head>
+            <Form>or</Form>
+          </head>
+          <head>
+            <Form>;</Form>
+          </head>
+          <head>
+            <Form>,</Form>
+          </head>
+        </headAlternatives>
+      </next>
+      <!-- Also this variant. Note there is also ")." -->
+      <next maxDistance="1">
+        <headAlternatives>
+          <head>
+            <Form>)</Form>
+          </head>
+        </headAlternatives>
+        <nextAlternatives>
+          <next maxDistance="1">
+            <headAlternatives>
+              <head>
+                <Form>and</Form>
+              </head>
+              <head>
+                <Form>or</Form>
+              </head>
+              <head>
+                <Form>;</Form>
+              </head>
+              <head>
+                <Form>,</Form>
+              </head>
+              <head>
+                <Form>.</Form>
+              </head>
+            </headAlternatives>
+          </next>
+        </nextAlternatives>
+      </next>
+    </nextAlternatives>
+  </SDFRule>
+  <!-- Similar to the previous one: if it is preceded by "and" it cannot be a paragraph-index (we leave the possibility it is an index) -->
+  <SDFRule priority="10100" id="14">
+    <tag>not-paragraph-index</tag>
+    <headAlternatives>
+      <head>
+        <isNumber>true</isNumber>
+      </head>
+    </headAlternatives>
+    <prevStarAlternatives>
+      <prev maxDistance="1">
+        <headAlternatives>
+          <head>
+            <Form>)</Form>
+          </head>
+        </headAlternatives>
+      </prev>
+    </prevStarAlternatives>
+    <prevAlternatives>
+      <prev maxDistance="1">
+        <headAlternatives>
+          <head>
+            <Form>and</Form>
+          </head>
+          <head>
+            <Form>or</Form>
+          </head>
+        </headAlternatives>
+      </prev>
+    </prevAlternatives>
+  </SDFRule>
+  <!-- with the not-index, only when before there is another number -->
+  <SDFRule priority="10100" id="15">
+    <tag>not-index</tag>
+    <headAlternatives>
+      <head>
+        <isNumber>true</isNumber>
+      </head>
+    </headAlternatives>
+    <prevAlternatives>
+      <prev maxDistance="1">
+        <headAlternatives>
+          <head>
+            <Form>and</Form>
+          </head>
+          <head>
+            <Form>or</Form>
+          </head>
+        </headAlternatives>
+        <prevAlternatives>
+          <prev maxDistance="1">
+            <tag>not-index</tag>
+            <headAlternatives>
+              <head>
+                <isNumber>true</isNumber>
+              </head>
+            </headAlternatives>
+          </prev>
+        </prevAlternatives>
+      </prev>
+    </prevAlternatives>
+  </SDFRule>
+  <!-- number to number, e.g. "24 to 73": they are not indexes -->
+  <!-- same for "age of 70". More generally: if before there is "of", we block the index. Same for "more/less than" -->
+  <SDFRule priority="10100" id="16">
+    <tag>not-index</tag>
+    <tag>not-paragraph-index</tag>
+    <headAlternatives>
+      <head>
+        <isNumber>true</isNumber>
+      </head>
+      <head>
+        <Bag name="Letters" />
+      </head>
+      <head>
+        <Bag name="Roman Numbers" />
+      </head>
+    </headAlternatives>
+    <prevAlternatives>
+      <prev maxDistance="1">
+        <headAlternatives>
+          <head>
+            <Form>to</Form>
+          </head>
+        </headAlternatives>
+        <prevAlternatives>
+          <prev maxDistance="1">
+            <tag>not-index</tag>
+            <tag>not-paragraph-index</tag>
+            <headAlternatives>
+              <head>
+                <isNumber>true</isNumber>
+              </head>
+            </headAlternatives>
+          </prev>
+        </prevAlternatives>
+      </prev>
+      <prev maxDistance="1">
+        <headAlternatives>
+          <head>
+            <Form>of</Form>
+          </head>
+          <head>
+            <Form>on</Form>
+          </head>
+        </headAlternatives>
+      </prev>
+      <prev maxDistance="1">
+        <headAlternatives>
+          <head>
+            <Form>than</Form>
+          </head>
+        </headAlternatives>
+        <prevAlternatives>
+          <prev maxDistance="1">
+            <headAlternatives>
+              <head>
+                <Form>more</Form>
+              </head>
+              <head>
+                <Form>less</Form>
+              </head>
+            </headAlternatives>
+          </prev>
+        </prevAlternatives>
+      </prev>
+    </prevAlternatives>
+  </SDFRule>
+  <!-- "(1)(a)" -> these are not indexes -->
+  <SDFRule priority="10110" id="17">
+    <tag>not-index</tag>
+    <tag>not-paragraph-index</tag>
+    <headAlternatives>
+      <head>
+        <isNumber>true</isNumber>
+      </head>
+      <head>
+        <Bag name="Letters" />
+      </head>
+      <head>
+        <Bag name="Roman Numbers" />
+      </head>
+    </headAlternatives>
+    <nextStarAlternatives>
+      <next maxDistance="1">
+        <headAlternatives>
+          <head>
+            <Form>)</Form>
+          </head>
+          <head>
+            <Form>(</Form>
+          </head>
+          <head>
+            <Form>.</Form>
+          </head>
+        </headAlternatives>
+      </next>
+    </nextStarAlternatives>
+    <nextAlternatives>
+      <next maxDistance="1">
+        <tag>not-index</tag>
+        <tag>not-paragraph-index</tag>
+        <headAlternatives>
+          <head>
+            <isNumber>true</isNumber>
+          </head>
+          <head>
+            <Bag name="Letters" />
+          </head>
+          <head>
+            <Bag name="Roman Numbers" />
+          </head>
+        </headAlternatives>
+        <nextAlternatives>
+          <next maxDistance="1">
+            <headAlternatives>
+              <head>
+                <Form>)</Form>
+              </head>
+              <head>
+                <Form>.</Form>
+              </head>
+            </headAlternatives>
+          </next>
+        </nextAlternatives>
+      </next>
+      <!-- also this variant -->
+      <next maxDistance="1">
+        <headAlternatives>
+          <head>
+            <Form>-</Form>
+          </head>
+          <head>
+            <Form>--</Form>
+          </head>
+        </headAlternatives>
+      </next>
+    </nextAlternatives>
+  </SDFRule>
+  <!-- "(XII." is not an index -->
+  <SDFRule priority="10100" id="18">
+    <headAlternatives>
+      <head>
+        <Form>(</Form>
+      </head>
+    </headAlternatives>
+    <nextAlternatives>
+      <next maxDistance="1">
+        <tag>not-index</tag>
+        <tag>not-paragraph-index</tag>
+        <headAlternatives>
+          <head>
+            <isNumber>true</isNumber>
+          </head>
+          <head>
+            <Bag name="Letters" />
+          </head>
+          <head>
+            <Bag name="Roman Numbers" />
+          </head>
+        </headAlternatives>
+        <nextAlternatives>
+          <next maxDistance="1">
+            <tag>not-index</tag>
+            <tag>not-paragraph-index</tag>
+            <headAlternatives>
+              <head>
+                <Form>.</Form>
+              </head>
+              <head>
+                <Form>,</Form>
+              </head>
+              <head>
+                <Form>;</Form>
+              </head>
+            </headAlternatives>
+          </next>
+        </nextAlternatives>
+      </next>
+    </nextAlternatives>
+  </SDFRule>
+  <!-- We don't allow indexes followed by an title -->
+  <SDFRule priority="10001" id="19">
+    <tag>not-index</tag>
+    <headAlternatives>
+      <head>
+        <isNumber>true</isNumber>
+      </head>
+      <head>
+        <Bag name="Letters" />
+      </head>
+      <head>
+        <Bag name="Roman Numbers" />
+      </head>
+    </headAlternatives>
+    <nextStarAlternatives>
+      <next maxDistance="1">
+        <headAlternatives>
+          <head>
+            <Form>.</Form>
+          </head>
+          <head>
+            <Form>)</Form>
+          </head>
+        </headAlternatives>
+      </next>
+    </nextStarAlternatives>
+    <nextAlternatives>
+      <next maxDistance="1">
+        <headAlternatives>
+          <head>
+            <Font>bold</Font>
+          </head>
+          <head>
+            <Font>title</Font>
+          </head>
+        </headAlternatives>
+      </next>
+    </nextAlternatives>
+  </SDFRule>
+  <!-- We don't allow indexes in bold or title -->
+  <SDFRule priority="10001" id="20">
+    <tag>not-index</tag>
+    <headAlternatives>
+      <head>
+        <isNumber>true</isNumber>
+        <Font>bold</Font>
+      </head>
+      <head>
+        <Bag name="Letters" />
+        <Font>bold</Font>
+      </head>
+      <head>
+        <Bag name="Roman Numbers" />
+        <Font>bold</Font>
+      </head>
+      <head>
+        <isNumber>true</isNumber>
+        <Font>title</Font>
+      </head>
+      <head>
+        <Bag name="Letters" />
+        <Font>title</Font>
+      </head>
+      <head>
+        <Bag name="Roman Numbers" />
+        <Font>title</Font>
+      </head>
+    </headAlternatives>
+  </SDFRule>
+  <!-- it is not an index if it's followed by a "." that ends the sentence -->
+  <SDFRule priority="10110" id="21">
+    <tag>not-index</tag>
+    <tag>not-paragraph-index</tag>
+    <headAlternatives>
+      <head>
+        <isNumber>true</isNumber>
+      </head>
+      <head>
+        <Bag name="Letters" />
+      </head>
+      <head>
+        <Bag name="Roman Numbers" />
+      </head>
+    </headAlternatives>
+    <nextAlternatives>
+      <next maxDistance="1">
+        <headAlternatives>
+          <head>
+            <Form>.</Form>
+            <endOfSentence>true</endOfSentence>
+          </head>
+        </headAlternatives>
+      </next>
+    </nextAlternatives>
+  </SDFRule>
+  <!-- sometimes we find "- (a) bla bla bla -->
+  <!-- "(a)" is not tagged as index -->
+  <SDFRule priority="10100" id="22">
+    <tag>not-paragraph-index</tag>
+    <tag>not-index</tag>
+    <headAlternatives>
+      <head>
+        <isNumber>true</isNumber>
+      </head>
+      <head>
+        <Bag name="Letters" />
+      </head>
+      <head>
+        <Bag name="Roman Numbers" />
+      </head>
+    </headAlternatives>
+    <prevStarAlternatives>
+      <prev maxDistance="1">
+        <headAlternatives>
+          <head>
+            <Form>(</Form>
+          </head>
+        </headAlternatives>
+      </prev>
+    </prevStarAlternatives>
+    <prevAlternatives>
+      <prev maxDistance="1">
+        <headAlternatives>
+          <head>
+            <Form>--</Form>
+          </head>
+        </headAlternatives>
+      </prev>
+    </prevAlternatives>
+  </SDFRule>
+</SDFRules>
