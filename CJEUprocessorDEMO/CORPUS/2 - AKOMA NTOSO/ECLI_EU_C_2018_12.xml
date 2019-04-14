@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+      <references source="#source">
+        <TLCOrganization eId="institution_31" showAs="" href="/akn/ontology/Organization/Institution/institution_31" />
+        <TLCOrganization eId="institution_56" showAs="" href="/akn/ontology/Organization/Institution/institution_56" />
+      </references>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (First Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>17 January 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Failure of a Member State to fulfil obligations -- State aid -- Aid declared unlawful and incompatible with the internal market -- Obligation to recover -- Second subparagraph of Article 108(2) TFEU -- Regulation (EC) No 659/1999 -- Article 14(3) -- Undertaking benefiting from the aid declared insolvent -- Insolvency proceedings -- Registration of the liabilities in the schedule of liabilities -- Cessation of activities -- Suspension of insolvency proceedings for the purposes of examining the prospect of relaunching the business -- Obligation to provide information -- Failure to perform) In Case C‑363/16, ACTION for failure to fulfil obligations under the second subparagraph of Article 108(2) TFEU, brought on 30 June 2016,</p>
+      <p>
+        <party as="appellant" refersTo="#institution_31">European Commission</party>
+      </p>
+      <p>, represented by A. Bouchagiar and B. Stromsky, acting as Agents, applicant, v</p>
+      <p>
+        <party as="respondent" refersTo="#institution_56">Hellenic Republic</party>
+      </p>
+      <p>, represented by K. Boskovits and V. Karra, acting as Agents, defendant, THE COURT (First Chamber), composed of R. Silva de Lapuerta, President of the Chamber, C.G. Fernlund, J.C. Bonichot, A. Arabadjiev (Rapporteur) and S. Rodin, Judges, Advocate General: E. Sharpston, Registrar: I. Illéssy, Administrator, having regard to the written procedure and further to the hearing on 21 June 2017, after hearing the Opinion of the Advocate General at the sitting on 10 October 2017,</p>
+      <p>gives the following</p>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_6820">
+          <num>1</num>
+          <content eId="para_6820__content">
+            <p>By its action, the European Commission asks the Court to declare that, by failing to take, within the prescribed period, all the measures necessary to implement Commission Decision 2012/541/EU of 22 February 2012 on the State aid SA.26534 (C 27/2010 ex NN 6/2009) implemented by Greece in favour of United Textiles SA ( OJ 2012 L 279, p. 30), and, in any event, by failing to inform the Commission sufficiently of the measures taken, in accordance with the requirements of Article 4 of that decision, Greece has failed to fulfil its obligations under Articles 2 to 4 of that decision as well as those arising under the FEU Treaty.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <paragraph eId="para_6821">
+          <num>2</num>
+          <content eId="para_6821__content">
+            <p>Council Regulation (EC) No 659/1999 of 22 March 1999 laying down detailed rules for the application of Article [108 TFEU] ( OJ 1999 L 83, p. 1) was repealed by Council Regulation (EU) 2015/1589 of 13 July 2015 laying down detailed rules for the application of Article 108 of the Treaty on the Functioning of the European Union ( OJ 2015 L 248, p. 9). However, given the date of the material facts, Regulation No 659/1999 remains applicable to this case.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6822">
+          <num>3</num>
+          <content eId="para_6822__content">
+            <p>Recital 13 of Regulation No 659/1999 stated: `Whereas in cases of unlawful aid which is not compatible with the common market, effective competition should be restored; whereas for this purpose it is necessary that the aid, including interest, be recovered without delay; whereas it is appropriate that recovery be effected in accordance with the procedures of national law; whereas the application of those procedures should not, by preventing the immediate and effective execution of the Commission decision, impede the restoration of effective competition; whereas to achieve this result, Member States should take all necessary measures ensuring the effectiveness of the Commission decision'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6823">
+          <num>4</num>
+          <content eId="para_6823__content">
+            <p>Article 14(3) of Regulation No 659/1999 provides: `Without prejudice to any order of the Court of Justice of the [European Union] pursuant to Article [278 TFEU], recovery shall be effected without delay and in accordance with the procedures under the national law of the Member State concerned, provided that they allow the immediate and effective execution of the Commission's decision. To this effect and in the event of a procedure before national courts, the Member States concerned shall take all necessary steps which are available in their respective legal systems, including provisional measures, without prejudice to [EU] law.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Background to the dispute and the pre-litigation procedure</p>
+        </tblock>
+        <paragraph eId="para_6824">
+          <num>5</num>
+          <content eId="para_6824__content">
+            <p>United Textiles SA is a Greek textile undertaking producing clothing, fibre and fabric. The situation of that company had been deteriorating since at least 2004, with gradually decreasing sales. Its factories ceased operating as of 2008, for lack of working capital. Since that time, almost all of its bank loans have been overdue. In March 2009, production almost entirely ceased.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6825">
+          <num>6</num>
+          <content eId="para_6825__content">
+            <p>In 2007, the Hellenic Republic granted United Textiles a guarantee for the rescheduling of an existing bank loan and the issue of a new bank loan ( `the 2007 State aid'). In 2009, it rescheduled United Textiles' social insurance debts for the period from 2004 to 2009 ( `the 2009 State aid').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6826">
+          <num>7</num>
+          <content eId="para_6826__content">
+            <p>On 22 February 2012, the Commission adopted Decision 2012/541, notified to Greece on 23 February 2012, Articles 1 to 4 of which are worded as follows: ` Article 1 1.   The State aid granted by Greece in breach of Article 108(3) of the Treaty on the Functioning of the European Union, in favour of United Textiles SA, in the form of a 2007 State guarantee and a rescheduling of overdue social insurance obligations in 2009, is incompatible with the internal market. ... Article 2 1.   Greece shall recover the aid stipulated in Article 1, paragraph 1, from the beneficiary. ... Article 3 1.   The recovery of the aid specified in the second paragraph of Article 1 shall be immediate and effective. 2.   Greece shall ensure that this Decision is implemented within four months following the date of notification of this Decision. Article 4 1.   Within two months following notification of this Decision, Greece shall submit the following information to the Commission:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>the total amount (principal and recovery interests) to be recovered from the beneficiary;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>a detailed description of the measures already taken and planned to comply with this Decision;</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>documents demonstrating that the beneficiary has been ordered to repay the aid. 2.   Greece shall keep the Commission informed of the progress of the national measures taken to implement this Decision until recovery of the aid stipulated in Article 1, paragraph 1, has been completed. It shall immediately submit, on simple request by the Commission, information on the measures already taken and planned to comply with this Decision. It shall also provide detailed information concerning the amounts of aid and recovery interest already recovered from the beneficiary.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6827">
+          <num>8</num>
+          <content eId="para_6827__content">
+            <p>On 21 June 2012, the competent Greek authorities certified a debt in the amount of EUR 19181729.10, which included the 2007 State aid. On 29 August 2012, those authorities certified an additional debt in the amount of EUR 15827427.78, which included the 2009 State aid.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6828">
+          <num>9</num>
+          <content eId="para_6828__content">
+            <p>In that context and following requests for information, the Greek authorities, by letter of 3 August 2012, informed the Commission that United Textiles had been officially declared insolvent on 19 July 2012.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6829">
+          <num>10</num>
+          <content eId="para_6829__content">
+            <p>In the context of the insolvency proceedings, the period allowed for the purposes of notification of the debts began on 30 July 2012.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6830">
+          <num>11</num>
+          <content eId="para_6830__content">
+            <p>Greece notified the debts relating to and including the amounts to be recovered as State aid, referred to in Article 1(1) of Decision 2012/541.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6831">
+          <num>12</num>
+          <content eId="para_6831__content">
+            <p>The registry of insolvencies was notified of the debts on 3 August 2012 in respect of the 2007 State aid and on 14 September 2012 in respect of the 2009 State aid. The final notification was made on 7 February 2013.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6832">
+          <num>13</num>
+          <content eId="para_6832__content">
+            <p>In 2013, a public auction of United Textiles' assets was initiated.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6833">
+          <num>14</num>
+          <content eId="para_6833__content">
+            <p>By emails of 7 and 17 December 2015, insolvency administrator of United Textiles informed the Commission that attempts were being made by Greece to relaunch that undertaking.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6834">
+          <num>15</num>
+          <content eId="para_6834__content">
+            <p>By letter of 18 December 2015, the Commission asked the Greek authorities to clarify whether plans to relaunch United Textiles did indeed exist.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6835">
+          <num>16</num>
+          <content eId="para_6835__content">
+            <p>By letter of 19 January 2016, the Greek authorities indicated to the Commission that they had decided, by Act of legislative content of 30 December 2015 ( `the ALC'), to suspend, for a period of six months from the date of publication of that act in the Official Gazette of the Hellenic Republic, the public auction of the assets of United Textiles, in order to examine more closely the possibility of relaunching the activity of that undertaking within the wider context of the policy of relaunching Greek industry and securing employment. Those authorities also indicated that, in any event, they intended to take into account the Commission's communication entitled `Towards an effective implementation of Commission decisions ordering Member States to recover unlawful and incompatible State aid' ( OJ 2007 C 272, p. 4).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6836">
+          <num>17</num>
+          <content eId="para_6836__content">
+            <p>At a meeting in Athens (Greece), on 11 February 2016, and by letter of 22 February 2016, the Commission services asked the Greek authorities to proceed immediately to the full recovery of the aid or to continue the insolvency proceedings relating to United Textiles.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6837">
+          <num>18</num>
+          <content eId="para_6837__content">
+            <p>By letter of 11 April 2016, the Greek authorities informed the Commission that the plan to relaunch United Textiles examined by Greece included a full and immediate recovery of the State aid granted, together with interest, before the possible relaunch of its activity. By that letter, those authorities requested a period of 30 working days to complete the assessment procedure relating to that plan.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6838">
+          <num>19</num>
+          <content eId="para_6838__content">
+            <p>It was in those circumstances that the Commission decided to bring the present action.</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The action</p>
+        </tblock>
+        <paragraph eId="para_6839">
+          <num>20</num>
+          <content eId="para_6839__content">
+            <p>In support of its action, the Commission puts forward two complaints alleging, respectively, infringement of Articles 2 and 3 of Decision 2012/541 and infringement of Article 4 of that decision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6840">
+          <num>21</num>
+          <content eId="para_6840__content">
+            <p>The Commission argues, in the first place, that Greece has not taken, within the prescribed period, all the measures necessary for the recovery of the incompatible State aid and, in the second place, that Greece has failed to inform the Commission adequately of the measures taken pursuant to that decision.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The first complaint, alleging failure to recover the incompatible aid</p>
+        </tblock>
+        <tblock>
+          <p>Arguments of the parties</p>
+        </tblock>
+        <paragraph eId="para_6841">
+          <num>22</num>
+          <content eId="para_6841__content">
+            <p>The Commission takes the view that, at the time when the period prescribed in Article 3(2) of Decision 2012/541 expired, namely, 25 June 2012, Greece had not ensured the implementation of that decision. The Commission notes that it did not extend the period within which that decision was to be implemented.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6842">
+          <num>23</num>
+          <content eId="para_6842__content">
+            <p>The Commission considers that, in order to fulfil its obligation to recover incompatible aid, a Member State may either recover the entirety of the amount of that aid from the recipient undertaking, together with interest, or, failing that, bring about a declaration of insolvency in respect of that undertaking, regardless of the possible financial difficulties of that undertaking and, in the context of the resulting insolvency proceedings, register the debt relating to that aid in the schedule of liabilities. In the latter situation, the winding-up of the undertaking in question should be accompanied by the definitive cessation of its activities.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6843">
+          <num>24</num>
+          <content eId="para_6843__content">
+            <p>According to the Commission, it is clear that, at the date of the expiry of the period within which that decision was to be implemented, Greece had not fulfilled those obligations.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6844">
+          <num>25</num>
+          <content eId="para_6844__content">
+            <p>As regards the definitive cessation of the activity of the recipient undertaking, the Commission submits that, in order to ensure the elimination of the anticompetitive advantage, that undertaking should cease to exist from the moment it finds itself in a position where it is absolutely incapable of repaying the aid received. In that situation, that undertaking would undertake an irreversible process of winding-up which could not be halted, even temporarily, on the ground that the Member State wishes to examine the possibility of the full recovery of the aid and the relaunch of the activity of the recipient undertaking.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6845">
+          <num>26</num>
+          <content eId="para_6845__content">
+            <p>In the present case, the Greek authorities having, pursuant to Article 17 of the ALC, suspended the insolvency proceedings at the stage of the public auction of United Textiles' assets in order to explore the possibility of relaunching that undertaking's activity, they did not satisfy the condition of the definitive cessation of that undertaking's activity. Those authorities have, in fact, effectively suspended the insolvency proceedings in order to carry out a hypothetical assessment of the possibility of relaunching the activity of United Textiles. They have therefore reversed the winding-up process of that undertaking.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6846">
+          <num>27</num>
+          <content eId="para_6846__content">
+            <p>The Hellenic Republic considers that the fact that the recipient undertakings of State aid are in financial difficulty or insolvent does not affect the obligation to recover that aid.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6847">
+          <num>28</num>
+          <content eId="para_6847__content">
+            <p>It observes, furthermore, that restoration of the previous situation and elimination of the distortion of competition resulting from aid unlawfully paid may, in principle, be achieved by registration of the debt relating to the repayment of the aid in question in the schedule of liabilities.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6848">
+          <num>29</num>
+          <content eId="para_6848__content">
+            <p>That Member State notes, first, that it was pursuant to Decision 2012/541 that United Textiles was declared insolvent on 19 July 2012 and that, in consequence, it is not active on the market, with the result that there is no longer any distortion of competition on that market. Second, the Greek authorities remained in continual contact with the Commission services so as to provide all the relevant information on the insolvency proceedings and, in particular, on the registration in the schedule of liabilities of the debt relating to the recovery of the unlawful aid, on the ranking of liabilities in that schedule and on the cessation of United Textiles' activity. Thus, the Hellenic Republic claims that it has taken all measures necessary to recover the unlawful aid granted to United Textiles over the course of the insolvency proceedings relating to that company.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6849">
+          <num>30</num>
+          <content eId="para_6849__content">
+            <p>With regard to the Commission's argument that those insolvency proceedings must be irreversible and lead to the definitive cessation of the activities of the undertaking having received unlawful aid, Greece notes that neither the case-law nor the Commission's practice requires the declaration of insolvency of an undertaking to lead to an irreversible process by which an undertaking ceases to exist. The purpose and logic of State aid law lies in the elimination of anticompetitive advantages obtained by an undertaking on account of the aid and not in that undertaking definitively ceasing to exist.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6850">
+          <num>31</num>
+          <content eId="para_6850__content">
+            <p>It follows, according to the Hellenic Republic, that when, during insolvency proceedings, the undertaking benefiting from the aid has been proved to have ceased its activities, it has ended the distortion of competition, the anticompetitive advantage connected to the receipt of State aid having thus been removed. In such circumstances, there is nothing to prevent a sustainable plan to relaunch the activities of that undertaking, providing for the full recovery of the aid in question before any relaunch of activities may be presented to the creditors' committee.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6851">
+          <num>32</num>
+          <content eId="para_6851__content">
+            <p>Furthermore, the Hellenic Republic infers from the Commission's communication, referred to in paragraph 16 above, paragraph 67 of which expressly mentions the possibility of putting forward a plan to continue activities, that the opening and continuation of insolvency proceedings does not prevent, in certain circumstances, the relaunch of the undertaking's activities, provided that the aid granted is actually recovered.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6852">
+          <num>33</num>
+          <content eId="para_6852__content">
+            <p>Accordingly, the suspension for six months, pursuant to Article 17 of the ALC, of the public auction of that undertaking's assets could be viewed as being a reasonable measure limited in time.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Findings of the Court</p>
+        </tblock>
+        <paragraph eId="para_6853">
+          <num>34</num>
+          <content eId="para_6853__content">
+            <p>It is clear from the case-law of the Court that the Member State to which a decision requiring recovery of unlawful aid declared incompatible with the internal market is addressed is obliged under Article 288 TFEU to take all measures necessary to ensure implementation of that decision. It must succeed in actually recovering the sums owed in order to eliminate the distortion of competition caused by the anticompetitive advantage procured by that aid (judgment of 24 January 2013, Commission v Spain, C‑529/09, EU:C:2013:31, paragraph 91).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6854">
+          <num>35</num>
+          <content eId="para_6854__content">
+            <p>It follows from the first sentence of Article 14(3) of Regulation No 659/1999, read in the light of recital 13 of that regulation, that the recovery of unlawful aid found to be incompatible with the internal market is to be effected without delay and in accordance with the procedures under the national law of the Member State concerned, provided that they allow for the immediate and effective execution of the Commission's decision. To that end, the Member States concerned must take all necessary steps available in their respective legal systems, including provisional measures, without prejudice to EU law (judgment of 11 September 2014, Commission v Germany, C‑527/12, EU:C:2014:2193, paragraph 38).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6855">
+          <num>36</num>
+          <content eId="para_6855__content">
+            <p>In cases in which the unlawful State aid paid must be recovered from recipient undertakings which are in financial difficulty or are insolvent, it should be recalled that such difficulties do not affect the obligation to recover (see, to that effect, judgment of 11 December 2012, Commission v Spain, C‑610/10, EU:C:2012:781, paragraph 71). The Member State is therefore required, as the case may be, to bring about the winding-up of that company, to have its claim registered as one of that company's liabilities or to take any other measure enabling the aid to be recovered (see, to that effect, judgment of 6 December 2007, Commission v Italy, C‑280/05, not published, EU:C:2007:753, paragraph 28).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6856">
+          <num>37</num>
+          <content eId="para_6856__content">
+            <p>According to settled case-law, restoration of the previous situation and elimination of the distortion of competition resulting from that aid may, in principle, be achieved through registration of the debt relating to the repayment of the aid in question in the schedule of liabilities (judgment of 11 December 2012, Commission v Spain, C‑610/10, EU:C:2012:781, paragraph 72 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6857">
+          <num>38</num>
+          <content eId="para_6857__content">
+            <p>However, it must be noted that such registration can satisfy the recovery obligation only if, where the State authorities are unable to recover the full amount of aid, the insolvency proceedings result in the winding-up of the undertaking, that is to say, in the definitive cessation of its activities, which the State authorities are able to bring about in their capacity as shareholders or creditors (judgment of 13 October 2011, Commission v Italy, C‑454/09, not published, EU:C:2011:650, paragraph 36).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6858">
+          <num>39</num>
+          <content eId="para_6858__content">
+            <p>It follows that the definitive cessation of the activities of the undertaking receiving aid is necessary only where the recovery of the entire amount of the aid remains impossible throughout the insolvency proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6859">
+          <num>40</num>
+          <content eId="para_6859__content">
+            <p>As to the temporal aspects of the recovery of the aid found to be unlawful and incompatible with the internal market, first, it should be recalled that delayed recovery, namely, after the period prescribed, cannot satisfy the requirements of the FEU Treaty (judgment of 12 December 2013, Commission v Italy, C‑411/12, not published, EU:C:2013:832, paragraph 29 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6860">
+          <num>41</num>
+          <content eId="para_6860__content">
+            <p>Second, it should be recalled, as the Advocate General noted in point 59 of her Opinion, that it seems unlikely that the various steps in insolvency proceedings, from the initial petition for insolvency to the declaration of insolvency and registration in the schedule of liabilities, to the winding-up of the beneficiary and the full recovery of the aid in question or, as the case may be, the definitive cessation of the activities of the beneficiary, would normally be taken within the four-month period usually set by the Commission for the recovery of unlawful aid.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6861">
+          <num>42</num>
+          <content eId="para_6861__content">
+            <p>In those circumstances, registration of the debt relating to the repayment of the aid in question in the schedule of liabilities must be regarded as being, in principle, an appropriate measure capable of ensuring the elimination of the distortion of competition, as was recalled in paragraph 37 above, provided that such a measure is followed either by the recovery of the full amount of that aid or by the winding-up of the undertaking and the definitive cessation of its activities, if such recovery remains impossible throughout the insolvency proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6862">
+          <num>43</num>
+          <content eId="para_6862__content">
+            <p>For such a measure to be effective, in particular having regard to the requirement of immediate implementation of the decision ordering the recovery of unlawful aid found to be incompatible with the internal market, it must, as the Advocate General noted in point 60 of her Opinion, be carried out within the period prescribed by the Commission (see, to that effect, judgments of 14 April 2011, Commission v Poland, C‑331/09, EU:C:2011:250, paragraphs 60 to 65; of 13 October 2011, Commission v Italy, C‑454/09, not published, EU:C:2011:650, paragraphs 38 to 42; and of 11 December 2012, Commission v Spain, C‑610/10, EU:C:2012:781, paragraphs 73 to 75).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6863">
+          <num>44</num>
+          <content eId="para_6863__content">
+            <p>Accordingly, in order to assess, in the circumstances of the present case, whether there is an infringement under Article 108(2) TFEU, it is necessary to establish the date by which Greece had to register the liabilities relating to the repayment of the aid in question.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6864">
+          <num>45</num>
+          <content eId="para_6864__content">
+            <p>In that regard, it should be noted that, according to settled case-law, the relevant date in Article 108(2) TFEU proceedings is the date specified in the decision failure to implement which is at issue or, where appropriate, the date subsequently fixed by the Commission (judgment of 12 February 2015, Commission v France, C‑37/14, not published, EU:C:2015:90, paragraph 56 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6865">
+          <num>46</num>
+          <content eId="para_6865__content">
+            <p>Where, in a specific case, the circumstances or reasons connected to internal procedures prevent the Member State registering the debt relating to recovery of the aid in question in the schedule of liabilities within the period prescribed, that Member State should, in accordance with the case-law of the Court, submit those issues to the Commission for its assessment, proposing appropriate amendments to the decision in question. That Member State and the Commission must, pursuant to the rule imposing a duty of sincere cooperation on the Member States and the EU institutions which underlies, in particular, Article 4(3) TEU, work together in good faith with a view to overcoming those difficulties whilst fully observing the provisions of the FEU Treaty and, in particular, the provisions on State aid (see, to that effect, judgment of 12 February 2015, Commission v France, C‑37/14, not published, EU:C:2015:90, paragraph 67).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6866">
+          <num>47</num>
+          <content eId="para_6866__content">
+            <p>However, so long as the Member State has not requested extension of the period specified by the decision ordering the recovery of the aid unlawfully paid, the relevant date for the application of the second subparagraph of Article 108(2) TFEU and, in particular, for the registration of the debt relating to the recovery of the aid in question in the schedule of liabilities remains the date specified in that decision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6867">
+          <num>48</num>
+          <content eId="para_6867__content">
+            <p>Accordingly, if, on the date specified in the decision ordering that recovery or, if applicable, the date subsequently fixed by the Commission, the Member State concerned has not taken the measures necessary to fulfil the obligation to recover the aid in question and, in particular, to achieve the restoration of the previous situation and the elimination of the distortion of competition resulting from the unlawfully paid State aid, it must be found, for the purposes of the infringement proceedings under the second subparagraph of Article 108(2) TFEU, that that Member State has failed to fulfil its obligations resulting from the Commission's decision and that, accordingly, all other measures taken after the date specified in the decision are irrelevant for the assessment of whether that Member State took all the measures necessary for the implementation of that decision by the date when the period for implementation laid down by the Commission expired (see, to that effect, judgment of 3 July 2001, Commission v Belgium, C‑378/98, EU:C:2001:370, paragraph 28).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6868">
+          <num>49</num>
+          <content eId="para_6868__content">
+            <p>In the present case, the Hellenic Republic was required, in accordance with Article 3(1) of Decision 2012/541, to ensure the immediate and effective recovery of the aid in question. To that end, that Member State had, under Article 3(2) of that decision, a period of four months from notification of that decision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6869">
+          <num>50</num>
+          <content eId="para_6869__content">
+            <p>No extension of that period having been granted by the Commission, the relevant date for the application of the second subparagraph of Article 108(2) TFEU is that specified in Decision 2012/541.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6870">
+          <num>51</num>
+          <content eId="para_6870__content">
+            <p>That decision having being notified to the Hellenic Republic on 23 February 2012, it should be stated that the period prescribed by that decision for the recovery of the aid unlawfully received expired on 25 June 2012, since 23 June 2012 was a Saturday.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6871">
+          <num>52</num>
+          <content eId="para_6871__content">
+            <p>However, it is not disputed that United Textiles was not officially declared insolvent until 19 July 2012.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6872">
+          <num>53</num>
+          <content eId="para_6872__content">
+            <p>Furthermore, it is clear from the case file that the period granted for the purposes of the notification of liabilities began on 30 July 2012 and that the Greek authorities notified the debts to the registry of insolvencies on 3 August 2012 in respect of the 2007 State aid and on 14 September 2012 in respect of the 2009 State aid.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6873">
+          <num>54</num>
+          <content eId="para_6873__content">
+            <p>Lastly, as is clear from the explanations provided by Greece during the hearing before the Court, the final notification was made on 7 February 2013.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6874">
+          <num>55</num>
+          <content eId="para_6874__content">
+            <p>Accordingly, the Hellenic Republic having failed to take, within the prescribed period, all the measures necessary for the implementation of Decision 2012/541, the Commission's first complaint alleging infringement of Articles 2 and 3 of that decision must be upheld.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The second complaint, alleging failure to inform the Commission</p>
+        </tblock>
+        <tblock>
+          <p>Arguments of the parties</p>
+        </tblock>
+        <paragraph eId="para_6875">
+          <num>56</num>
+          <content eId="para_6875__content">
+            <p>By its second complaint, the Commission submits that, in any event, the Hellenic Republic did not inform it sufficiently of the measures taken for the implementation of Decision 2012/541. First, the Commission states that it was in the letter from the Greek authorities on 19 January 2016 that it was first informed of the suspension of the public auction of United Textiles' assets. Next, the Commission notes that that Member State provided no concrete information to show that United Textiles was not active on the market and that that undertaking performed no further activity during the period after December 2015. Lastly, according to the Commission, since their letter of 11 April 2016, the Greek authorities have provided no information relating to United Textiles.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6876">
+          <num>57</num>
+          <content eId="para_6876__content">
+            <p>The Hellenic Republic argues that it did sufficiently inform the Commission of the measures taken in order to implement Decision 2012/541.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Findings of the Court</p>
+        </tblock>
+        <paragraph eId="para_6877">
+          <num>58</num>
+          <content eId="para_6877__content">
+            <p>Article 4(1) of Decision 2012/541 requires the Hellenic Republic to provide certain information relating to the recovery of the aid within a period of two months from the date of notification of that decision. Since that decision was notified to Greece on 23 February 2012, it must be stated that the period that was prescribed for it to provide that information expired on 23 April 2012.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6878">
+          <num>59</num>
+          <content eId="para_6878__content">
+            <p>Article 4(2) of that decision lays down the obligation for that Member State, first, to keep the Commission regularly informed of the progress of the national measures taken for the recovery of the aid until that aid has been repaid and, second, to submit detailed information on the amounts of aid and recovery interest already recovered from the beneficiary.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6879">
+          <num>60</num>
+          <content eId="para_6879__content">
+            <p>As regards the requirement laid down in Article 4(1) of Decision 2012/541, it must be found that Greece has not satisfied that requirement, given that, as is clear from the case file, it did not make contact with the Commission before May 2012. Furthermore, it is clear from the explanations provided by the Hellenic Republic at the hearing that the information relating to the recovery of the aid which ought to have been communicated to the Commission was not provided within the period prescribed by Article 4(1) of that decision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6880">
+          <num>61</num>
+          <content eId="para_6880__content">
+            <p>Regarding the obligation laid down in Article 4(2) of Decision 2012/541, although it is clear from the case file that there was frequent correspondence between the Commission and Greece, from May 2012, on the progress of United Textiles' insolvency proceedings, the fact remains that that Member State did not duly inform the Commission in advance of the adoption of the ALC by which the public auction of the assets of United Textiles was suspended. It was only after the Commission's letter of 18 December 2015 in which it asked Greece to clarify the situation that that Member State informed the Commission, by letter of 19 January 2016, that it had suspended that public auction for a period of six months in order to assess a plan to relaunch United Textiles. Moreover, since their letter of 11 April 2016, the Greek authorities have provided no information relating to United Textiles.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6881">
+          <num>62</num>
+          <content eId="para_6881__content">
+            <p>Consequently, it must be declared that failure to fulfil the obligation to inform the Commission of the measures taken to implement Decision 2012/541 has been established.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6882">
+          <num>63</num>
+          <content eId="para_6882__content">
+            <p>In the light of all the foregoing, it must be held that, by failing to take, within the prescribed period, all the measures necessary for the implementation of Decision 2012/541 and by failing to inform the Commission adequately of the measures taken pursuant to that decision, the Hellenic Republic has failed to fulfil its obligations under Articles 2 to 4 of that decision and under the FEU Treaty.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_6883">
+          <num>64</num>
+          <content eId="para_6883__content">
+            <p>Under Article 138(1) of the Rules of Procedure of the Court of Justice, the unsuccessful party is to be ordered to pay the costs if they have been applied for in the successful party's pleadings. Since the Commission has applied for costs and Greece has been unsuccessful in its submissions, the latter must be ordered to pay the costs. On those grounds, the Court (First Chamber) hereby: 1. Declares that, by failing to take, within the prescribed periods, all the measures necessary for the implementation of Commission Decision 2012/541/EU of 22 February 2012 on the State aid SA.26534 (C 27/2010 ex NN 6/2009) implemented by Greece in favour of United Textiles SA, and by failing to inform the Commission adequately of the measures taken pursuant to that decision, the Hellenic Republic has failed to fulfil its obligations under Articles 2 to 4 of that decision as and under the FEU Treaty; 2. Orders the Hellenic Republic to pay the costs.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Greek.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Grand Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>20 March 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Value added tax (VAT) -- Directive 2006/112/EC -- Failure to pay VAT due -- Penalties -- National legislation which provides for an administrative penalty and a criminal penalty for the same acts -- Charter of Fundamental Rights of the European Union -- Article 50 -- Ne bis in idem principle -- Criminal nature of the administrative penalty -- Existence of the same offence -- Article 52(1) -- Limitations to the ne bis in idem principle -- Conditions) In Case C‑524/15, REQUEST for a preliminary ruling under Article 267 TFEU from the Tribunale di Bergamo (District Court, Bergamo, Italy), made by decision of 16 September 2015, received at the Court on 1 October 2015, in the criminal proceedings against Luca Menci, intervening parties:</p>
+      <p>
+        <party as="intervening" refersTo="#">Procura della Repubblica</party>
+      </p>
+      <p>, THE COURT (Grand Chamber), composed of K. Lenaerts, President, A. Tizzano, Vice-President, R. Silva de Lapuerta, M. Ilešič, T. von Danwitz (Rapporteur), A. Rosas and E. Levits, Presidents of Chambers, E. Juhász, J.-C. Bonichot, A. Arabadjiev, S. Rodin, F. Biltgen, K. Jürimäe, C. Lycourgos and E. Regan, Judges, Advocate General: M. Campos Sánchez-Bordona, Registrar: R. Schiano, Administrator, having regard to the written procedure and further to the hearing on 8 September 2016, having regard to the order of 25 January 2017 reopening the oral procedure and further to the hearing on 30 May 2017, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>Mr Menci, by G. Broglio, V. Meanti and I. Dioli, avvocati,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Italian Government, by G. Palmieri, acting as Agent, and by G. Galluzzo, avvocato dello Stato,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Czech Government, by M. Smolek and J. Vláčil, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the German Government, by T. Henze and D. Klebs, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>Ireland, by M. Browne and G. Hodge and by A. Joyce, acting as Agents, and by M. Gray, Barrister,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the French Government, by D. Colas, G. de Bergues and F.-X. Bréchot and by S. Ghiandoni and E. de Moustier, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Netherlands Government, by M.K. Bulterman and J. Langer, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Polish Government, by B. Majczyna, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by H. Krämer and by M. Owsiany-Hornung and F. Tomat, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 12 September 2017,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_8853">
+          <num>1</num>
+          <content eId="para_8853__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Article 50 of the Charter of Fundamental Rights of the European Union ( `the Charter') and of Article 4 of Protocol No 7 to the European Convention for the Protection of Human Rights and Fundamental Freedoms, signed in Rome on 4 November 1950 ( `the ECHR').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8854">
+          <num>2</num>
+          <content eId="para_8854__content">
+            <p>The request has been made in criminal proceedings against Mr Luca Menci concerning offences relating to value added tax (VAT).</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>The ECHR</p>
+        </tblock>
+        <paragraph eId="para_8855">
+          <num>3</num>
+          <content eId="para_8855__content">
+            <p>Article 4 of Protocol 7 to the ECHR, entitled `Right not to be tried or punished twice', provides: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>No one shall be liable to be tried or punished again in criminal proceedings under the jurisdiction of the same State for an offence for which he has already been finally acquitted or convicted in accordance with the law and penal procedure of that State.</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>The provisions of the preceding paragraph shall not prevent the reopening of the case in accordance with the law and the penal procedure of the State concerned, if there is evidence of new or newly discovered facts, or if there has been a fundamental defect in the previous proceedings, which could affect the outcome of the case.</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>No derogation from this Article shall be made under Article 15 of the Convention.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>European Union law</p>
+        </tblock>
+        <paragraph eId="para_8856">
+          <num>4</num>
+          <content eId="para_8856__content">
+            <p>Article 2(1) of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax ( OJ 2006 L 347, p. 1) determines the transactions subject to VAT.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8857">
+          <num>5</num>
+          <content eId="para_8857__content">
+            <p>According to Article 273 of that directive: `Member States may impose other obligations which they deem necessary to ensure the correct collection of VAT and to prevent evasion, subject to the requirement of equal treatment as between domestic transactions and transactions carried out between Member States by taxable persons and provided that such obligations do not, in trade between Member States, give rise to formalities connected with the crossing of frontiers.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Italian law</p>
+        </tblock>
+        <paragraph eId="para_8858">
+          <num>6</num>
+          <content eId="para_8858__content">
+            <p>Article 13(1) of the decreto legislativo n. 471 -- Riforma delle sanzioni tributarie non penali in materia di imposte dirette, di imposta sul valore aggiunto e di riscossione dei tributi, a norma dell `articolo 3, comma 133, lettera</p>
+            <blockList>
+              <item>
+                <num>q)</num>
+                <p>, della legge 23 dicembre 1996, n. 662 (Legislative Decree No 471 on the reform of non-criminal tax penalties in the field of direct taxation, value added tax and tax collection, in accordance with Article 3(133)(q) of Law No 662 of 23 December 1996) of 18 December 1997 (Ordinary Supplement to GURI No 5 of 8 January 1998), in the version in force on the date of the facts in the main proceedings ( `Legislative Decree No 471/97'), was worded as follows: `Any person who fails to pay, in whole or in part, within the prescribed periods, instalments, periodic payments, the equalisation payment or the balance of tax due on the tax return, after deduction in those cases of the amount of the periodic payments and instalments, even if they have not been paid, shall be liable to an administrative penalty amounting to 30% of each outstanding amount, even where, after the correction of clerical or calculation errors noted during the inspection of the annual tax return, it transpires that the tax is greater or that the deductible surplus is less. ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8859">
+          <num>7</num>
+          <content eId="para_8859__content">
+            <p>Article 10a(1) of the Decreto legislativo n. 74 -- Nuova disciplina dei reati in materia di imposte sui redditi e sul valore aggiunto, a norma dell `articolo 9 della legge 25 giugno 1999, n. 205 (Legislative Decree No 74 adopting new rules on offences relating to direct taxes and value added tax, pursuant to Article 9 of Law No 205 of 25 June 1999) of 10 March 2000 (GURI No 76 of 31 March 2000, p. 4), in its version in force on the date of the facts in the main proceedings ( `Legislative Decree No 74/2000'), provided: `Any person who fails to pay, by the deadline fixed for the filing of the withholding agent's annual tax return, the withholding tax resulting from the certification issued to the taxpayers in respect of whom tax is withheld shall be liable to a term of imprisonment of between six months and two years in the case where that amount exceeds EUR 50000 for each tax period.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8860">
+          <num>8</num>
+          <content eId="para_8860__content">
+            <p>Article 10b(1) of that legislative decree, entitled `Failure to pay VAT', in the version in force on the date of the facts in the main proceedings, stated: `Article 10a shall also apply, within the limits there determined, to any person who fails to pay the value added tax owed on the basis of the annual return by the deadline for the payment on account relating to the subsequent tax period.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8861">
+          <num>9</num>
+          <content eId="para_8861__content">
+            <p>Article 20 of that legislative decree, entitled `Relationships between the criminal and tax proceedings', provides, in paragraph 1 thereof: `The administrative proceedings for the control of taxes for the purpose of setting the amount to recover and the proceedings before the tax court may not be suspended during the criminal proceedings covering the same facts or facts on the determination of which the outcome of the conclusion of the proceedings depends.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8862">
+          <num>10</num>
+          <content eId="para_8862__content">
+            <p>Article 21 of that legislative decree, entitled `Administrative penalties for the offences regarded as falling within the scope of criminal law', states, in paragraphs 1 and 2 thereof: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>The competent authority shall impose in any event the administrative penalties relating to the tax offences which are the subject of the notice of offence.</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>Those penalties are not enforceable with regard to persons other than those referred to in Article 19(2), except where the criminal proceedings were concluded by dismissal of the case or by a final decision to acquit which excludes criminal liability. In the latter case, the time limits for collection shall run from the date of communication to the competent authority of the dismissal of the case, acquittal or termination of the proceedings; the communication shall be carried out by the registry of the court which made those decisions.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The procedure in the main proceedings and the question referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_8863">
+          <num>11</num>
+          <content eId="para_8863__content">
+            <p>Mr Menci was subject to administrative proceedings during which it was alleged that he had failed, in his capacity as proprietor of the sole trading business, to pay within the time limit stipulated by law, the VAT resulting from the annual tax return for the tax year 2011, amounting to a total of EUR 282495.76.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8864">
+          <num>12</num>
+          <content eId="para_8864__content">
+            <p>Those proceedings gave rise to a decision of the Amministrazione Finanziaria (Tax authority, Italy) by which that authority ordered Mr Menci to pay the VAT due and also imposed on him, on the basis of Article 13(1) of Legislative Decree No 471/97, an administrative penalty of EUR 84748.74, representing 30% of the tax debt. That decision has become final. Since the request made by Mr Menci to pay in instalments was accepted, the latter paid the first instalments.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8865">
+          <num>13</num>
+          <content eId="para_8865__content">
+            <p>After the final conclusion of those administrative proceedings, criminal proceedings were initiated with respect to the same acts against Mr Menci before the Tribunale di Bergamo (District Court, Bergamo, Italy) pursuant to a prosecution brought by the Procura della Repubblica (Public Prosecutor, Italy), on the ground that that failure to pay VAT constituted the offence provided for and punished by Article 10a(1) and Article 10b(1) of Legislative Decree No 74/2000.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8866">
+          <num>14</num>
+          <content eId="para_8866__content">
+            <p>The referring court states that, according to the provisions of Legislative Decree No 74/2000, the criminal and administrative proceedings are to be conducted independently and come within the competence, respectively, of the judicial and administrative authorities. Neither of those two proceedings could be suspended pending the outcome of the other proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8867">
+          <num>15</num>
+          <content eId="para_8867__content">
+            <p>That court adds that Article 21(2) of that legislative decree, in accordance with which administrative penalties relating to tax offences imposed by the competent administrative authorities are not enforceable unless the criminal proceedings have been finally concluded by dismissal of the case, acquittal or termination of the proceedings, which excludes criminal liability, does not prevent a person, such as Mr Menci, from being subject to criminal proceedings after having had a final administrative penalty imposed on him.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8868">
+          <num>16</num>
+          <content eId="para_8868__content">
+            <p>In those circumstances, the Tribunale di Bergamo (District Court, Bergamo) decided to stay proceedings and to refer the following question to the Court for a preliminary ruling: `Does Article 50 of the Charter ..., interpreted in the light of Article 4 of Protocol No 7 to the [ECHR] and the related case-law of the European Court of Human Rights, preclude the possibility of conducting criminal proceedings concerning an act (non-payment of VAT) for which a final administrative penalty has been imposed on the defendant?'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the question referred</p>
+        </tblock>
+        <paragraph eId="para_8869">
+          <num>17</num>
+          <content eId="para_8869__content">
+            <p>By its question, the referring court asks, in essence, whether Article 50 of the Charter, read in the light of Article 4 of Protocol No 7 to the ECHR, must be interpreted as precluding national legislation in accordance with which criminal proceedings may be brought against a person for failing to pay VAT due within the time limit stipulated by law, although that person has already been made subject, in relation to the same acts, to a final administrative penalty.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8870">
+          <num>18</num>
+          <content eId="para_8870__content">
+            <p>First of all, it should be noted that, in relation to VAT, it follows, in particular, from Articles 2 and 273 of Directive 2006/112, read in conjunction with Article 4(3) TEU, that Member States are obliged to take all legislative and administrative measures appropriate for ensuring collection of all the VAT due on their territory and for preventing fraud (see, to that effect, judgment of 26 February 2013, Åkerberg Fransson, C‑617/10, EU:C:2013:105, paragraph 25 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8871">
+          <num>19</num>
+          <content eId="para_8871__content">
+            <p>Moreover, Article 325 TFEU obliges the Member States to counter illegal activities affecting the financial interests of the European Union through effective deterrent measures and, in particular, obliges them to take the same measures to counter fraud affecting the financial interests of the European Union as they take to counter fraud affecting their own interests. The financial interests of the European Union include, in particular, revenue arising from VAT (see, to that effect, judgment of 5 December 2017, M.A.S. and M.B., C‑42/17, EU:C:2017:936, paragraphs 30 and 31 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8872">
+          <num>20</num>
+          <content eId="para_8872__content">
+            <p>To ensure that all that revenue is collected and, thereby, to ensure the financial interests of the European Union, Member States are free to choose the applicable penalties, which may take the form of administrative penalties, criminal penalties or a combination of the two. Criminal penalties may nevertheless be essential to combat certain serious cases of VAT evasion in an effective and dissuasive manner (see, to that effect, judgment of 5 December 2017, M.A.S. and M.B., C‑42/17, EU:C:2017:936, paragraphs 33 and 34).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8873">
+          <num>21</num>
+          <content eId="para_8873__content">
+            <p>Since they seek to ensure the proper collection of VAT and to combat fraud, administrative penalties imposed by the national tax authorities and criminal proceedings initiated in respect of VAT offences, such as those at issue in the main proceedings, constitute implementation of Articles 2 and 273 of Directive 2006/112 and of Article 325 TFEU and, therefore, of EU law for the purposes of Article 51(1) of the Charter (see, to that effect, judgments of 26 February 2013, Åkerberg Fransson, C‑617/10, EU:C:2013:105, paragraph 27, and of 5 April 2017, Orsi and Baldetti, C‑217/15 and C‑350/15, EU:C:2017:264, paragraph 16). Therefore, they must respect the fundamental right guaranteed by Article 50 of the Charter.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8874">
+          <num>22</num>
+          <content eId="para_8874__content">
+            <p>Moreover, although, as Article 6(3) TEU confirms, the fundamental rights recognised by the ECHR constitute general principles of EU law and although Article 52(3) of the Charter provides that the rights contained in the Charter which correspond to rights guaranteed by the ECHR are to have the same meaning and scope as those laid down by that convention, the latter does not constitute, as long as the European Union has not acceded to it, a legal instrument which has been formally incorporated into EU law (judgments of 26 February 2013, Åkerberg Fransson, C‑617/10, EU:C:2013:105, paragraph 44, and of 15 February 2016, N., C‑601/15 PPU, EU:C:2016:84, paragraph 45 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8875">
+          <num>23</num>
+          <content eId="para_8875__content">
+            <p>According to the explanations relating to Article 52 of the Charter, paragraph 3 of that article is intended to ensure the necessary consistency between the Charter and the ECHR, `without thereby adversely affecting the autonomy of Union law and... that of the Court of Justice of the European Union' (judgments of 15 February 2016, N., C‑601/15 PPU, EU:C:2016:84, paragraph 47, and of 14 September 2017, K., C‑18/16, EU:C:2017:680, paragraph 50 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8876">
+          <num>24</num>
+          <content eId="para_8876__content">
+            <p>Therefore, examination of the question referred must be undertaken in the light of the fundamental rights guaranteed by the Charter and, in particular, Article 50 thereof (see, to that effect, judgment of 5 April 2017, Orsi and Baldetti, C‑217/15 and C‑350/15, EU:C:2017:264, paragraph 15 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8877">
+          <num>25</num>
+          <content eId="para_8877__content">
+            <p>Article 50 of the Charter provides that `no one shall be liable to be tried or punished again in criminal proceedings for an offence for which he or she has already been finally acquitted or convicted within the Union in accordance with the law'. Therefore, the ne bis in idem principle prohibits a duplication both of proceedings and of penalties of a criminal nature for the purposes of that article for the same acts and against the same person (see, to that effect, judgment of 26 February 2013, Åkerberg Fransson, C‑617/10, EU:C:2013:105, paragraph 34).</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The criminal nature of the proceedings and penalties</p>
+        </tblock>
+        <paragraph eId="para_8878">
+          <num>26</num>
+          <content eId="para_8878__content">
+            <p>As regards assessing whether proceedings and penalties, such as those at issue in the main proceedings, are criminal in nature, it must be noted that, according to the Court's case-law, three criteria are relevant. The first criterion is the legal classification of the offence under national law, the second is the intrinsicnature of the offence, and the third is the degree of severity of the penalty that the person concerned is liable to incur (see, to that effect, judgments of 5 June 2012, Bonda, C‑489/10, EU:C:2012:319, paragraph 37, and of 26 February 2013, Åkerberg Fransson, C‑617/10, EU:C:2013:105, paragraph 35).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8879">
+          <num>27</num>
+          <content eId="para_8879__content">
+            <p>Although it is for the referring court to assess, in the light of those criteria, whether the criminal and administrative proceedings and penalties at issue in the main proceedings are criminal in nature for the purposes of Article 50 of the Charter, the Court, when giving a preliminary ruling, may nevertheless provide clarification designed to give the national court guidance in its assessment (see, to that effect, judgment of 5 June 2014, Mahdi, C‑146/14 PPU, EU:C:2014:1320, paragraph 79 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8880">
+          <num>28</num>
+          <content eId="para_8880__content">
+            <p>In this case, it should be noted at the outset that the classification as criminal, in the light of the criteria noted in paragraph 26 of the present judgment, of the criminal proceedings at issue in the main proceedings and the penalties that are liable to result therefrom, is not at issue. The question arises, on the other hand, whether the administrative procedure involving Mr Menci and the final administrative penalty imposed on him following that procedure are criminal in nature, for the purposes of Article 50 of the Charter.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8881">
+          <num>29</num>
+          <content eId="para_8881__content">
+            <p>In that regard, concerning the first criterion referred to in paragraph 26 of the present judgment, it is apparent from the case file before the Court that national law classifies the procedure giving rise to the imposition of that penalty as an administrative procedure.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8882">
+          <num>30</num>
+          <content eId="para_8882__content">
+            <p>Nevertheless, the application of Article 50 of the Charter is not limited to proceedings and penalties which are classified as `criminal' by national law, but extends regardless of such a classification to proceedings and penalties which must be considered to have a criminal nature on the basis of the two other criteria referred to in paragraph 26 of the present judgment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8883">
+          <num>31</num>
+          <content eId="para_8883__content">
+            <p>As regards the second criterion, relating to the intrinsicnature of the offence, it must be ascertained whether the purpose of the penalty at issue is punitive (see judgment of 5 June 2012, Bonda, C‑489/10, EU:C:2012:319, paragraph 39). It follows therefrom that a penalty with a punitive purpose is criminal in nature for the purposes of Article 50 of the Charter, and that the mere fact that it also pursues a deterrence purpose does not mean that it cannot be characterised as a criminal penalty. As the Advocate General stated in point 113 of his Opinion, it is of the intrinsicnature of criminal penalties that they seek both to punish and to deter unlawful conduct. By contrast, a measure which merely repairs the damage caused by the offence at issue is not criminal in nature.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8884">
+          <num>32</num>
+          <content eId="para_8884__content">
+            <p>In this case, Article 13(1) of Legislative Decree No 471/97 provides, in the event of a failure to pay VAT due, for an administrative penalty which is added to the amount of VAT to be paid by the taxable person. Although that penalty is, as is contended by the Italian Government in its written observations, reduced where the tax is actually paid within a certain time limit after the failure to pay, the fact remains that the late payment of VAT due is punished by that penalty. It thus appears, which moreover corresponds with the referring court's assessment, that that penalty has a punitive purpose, which is the hallmark of a penalty of a criminal nature for the purposes of Article 50 of the Charter.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8885">
+          <num>33</num>
+          <content eId="para_8885__content">
+            <p>As regards the third criterion, it should be noted that the administrative penalty at issue in the main proceedings consists, in accordance with Article 13(1) of Legislative Decree No 471/97, of a fine of 30% of the VAT due which is added to the payment of that tax, and, without that being contested by the parties to the main proceedings, has a high degree of severity which is liable to support the view that that penalty is of a criminal nature for the purposes of Article 50 of the Charter, which it is however for the referring court to determine.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The existence of the same offence</p>
+        </tblock>
+        <paragraph eId="para_8886">
+          <num>34</num>
+          <content eId="para_8886__content">
+            <p>It follows from the very wording of Article 50 of the Charter that it prohibits prosecuting or imposing criminal sanctions on the same person more than once for the same offence (see, to that effect, judgment of 5 April 2017, Orsi and Baldetti, C‑217/15 and C‑350/15, EU:C:2017:264, paragraph 18). As is stated by the referring court in its order for reference, the different proceedings and penalties of a criminal nature at issue in the main proceedings are directed against the same person, namely Mr Menci.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8887">
+          <num>35</num>
+          <content eId="para_8887__content">
+            <p>According to the Court's case-law, the relevant criterion for the purposes of assessing the existence of the same offence is identity of the material facts, understood as the existence of a set of concrete circumstances which are inextricably linked together which resulted in the final acquittal or conviction of the person concerned (see, by analogy, judgments of 18 July 2007, Kraaijenbrink, C‑367/05, EU:C:2007:444, paragraph 26 and the case-law cited, and of 16 November 2010, Mantello, C‑261/09, EU:C:2010:683, paragraphs 39 and 40). Therefore, Article 50 of the Charter prohibits the imposition, with respect to identical facts, of several criminal penalties as a result of different proceedings brought for those purposes.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8888">
+          <num>36</num>
+          <content eId="para_8888__content">
+            <p>Moreover, the legal classification, under national law, of the facts and the legal interest protected are not relevant for the purposes of establishing the existence of the same offence, in so far as the scope of the protection conferred by Article 50 of the Charter cannot vary from one Member State to another.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8889">
+          <num>37</num>
+          <content eId="para_8889__content">
+            <p>In this case, it is apparent from the information in the order for reference that Mr Menci was made subject to a final administrative penalty of a criminal nature for having failed to pay, within the time limit stipulated by law, the VAT resulting from the annual tax return for the tax year 2011 and that the criminal proceedings at issue in the main proceedings relate to that omission.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8890">
+          <num>38</num>
+          <content eId="para_8890__content">
+            <p>Although, as the Italian Government contends in its written observations, the imposition of a criminal penalty following criminal proceedings, such as those at issue in the main proceedings, requires, unlike that pecuniary administrative penalty of a criminal nature, a subjective element, it must nevertheless be noted that the fact that the imposition of that criminal penalty depends on an additional constituent element in relation to the pecuniary administrative penalty of a criminal nature is not, in itself, capable of calling into question the identity of the material facts at issue. Subject to verification by the referring court, the pecuniary administrative penalty of a criminal nature and the criminal proceedings at issue in the main proceedings appear therefore to relate to the same offence.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8891">
+          <num>39</num>
+          <content eId="para_8891__content">
+            <p>In those circumstances, it appears that the national legislation at issue in the main proceedings allows criminal proceedings to be brought against a person, such as Mr Menci, in respect of an offence consisting in the failure to pay VAT due on the basis of the tax return for a tax year, after the imposition on that person, in respect of the same acts, of a final administrative penalty of a criminal nature for the purposes of Article 50 of the Charter. Such a duplication of proceedings and penalties constitutes a limitation of the fundamental right guaranteed by that article.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The justification for the limitation of the right guaranteed in Article 50 of the Charter</p>
+        </tblock>
+        <paragraph eId="para_8892">
+          <num>40</num>
+          <content eId="para_8892__content">
+            <p>It should be noted that, in its judgment of 27 May 2014, Spasic ( C‑129/14 PPU, EU:C:2014:586, paragraphs 55 and 56), the Court ruled that a limitation to the ne bis in idem principle guaranteed by Article 50 of the Charter may be justified on the basis of Article 52(1) thereof.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8893">
+          <num>41</num>
+          <content eId="para_8893__content">
+            <p>In accordance with the first sentence of Article 52(1) of the Charter, any limitation on the exercise of the rights and freedoms recognised by that Charter must be provided for by law and respect the essence of those rights and freedoms. According to the second sentence of Article 52(1) thereof, subject to the principle of proportionality, limitations to those rights and freedoms may be made only if they are necessary and genuinely meet objectives of general interest recognised by the Union or the need to protect the rights and freedoms of others.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8894">
+          <num>42</num>
+          <content eId="para_8894__content">
+            <p>In this case, it is not disputed that the possibility of duplicating criminal proceedings and penalties and administrative proceedings and penalties of a criminal nature is provided for by the law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8895">
+          <num>43</num>
+          <content eId="para_8895__content">
+            <p>Moreover, national legislation, such as that at issue in the main proceedings, respects the essential content of Article 50 of the Charter, since, according to the information in the case file before the Court, it allows such a duplication of proceedings and penalties only under conditions which are exhaustivelydefined, thereby ensuring that the right guaranteed by Article 50 is not called into question as such.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8896">
+          <num>44</num>
+          <content eId="para_8896__content">
+            <p>As regards the question whether the limitation of the ne bis in idem principle resulting from national legislation, such as that at issue in the main proceedings, meets an objective of general interest, it is apparent from the case file before the Court that that legislation seeks to ensure the collection of all the VAT due. In the light of the importance that is givenin the Court's case-law, for the purposes of achieving that objective, to combating VAT offences (see, to that effect, judgment of 5 December 2017, M.A.S. and M.B., C‑42/17, EU:C:2017:936, paragraph 34 and the case-law cited), a duplication of criminal proceedings and penalties may be justified where those proceedings and penalties pursue, for the purpose of achieving such an objective, complementary aims relating, as the case may be, to different aspects of the same unlawful conduct at issue, which it is for the referring court to determine.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8897">
+          <num>45</num>
+          <content eId="para_8897__content">
+            <p>In that regard, in relation to VAT offences, it appears legitimate for a Member State to seek, first, to deter and punish any violation, whether intentional or not, of the rules relating to VAT returns and collection by imposing fixed administrative penalties, where appropriate, on a flat-rate basis and, secondly, to deter and punish serious violations of those rules, which are particularly damaging for society and which justify the adoption of more severe criminal penalties.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8898">
+          <num>46</num>
+          <content eId="para_8898__content">
+            <p>As regards compliance with the principle of proportionality, it requires that the duplication of proceedings and penalties provided for by national legislation, such as that at issue in the main proceedings, does not exceed what is appropriate and necessary in order to attain the objectives legitimately pursued by that legislation, it being understood that, when there is a choice between several appropriate measures, recourse must be had to the least onerous and the disadvantages caused must not be disproportionate to the aims pursued (see, to that effect, judgments of 25 February 2010,Müller Fleisch, C‑562/08, EU:C:2010:93, paragraph 43; of 9 March 2010, ERG and Others, C‑379/08 and C‑380/08, EU:C:2010:127, paragraph 86; and of 19 October 2016, EL-EM-2001, C‑501/14, EU:C:2016:777, paragraphs 37 and 39 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8899">
+          <num>47</num>
+          <content eId="para_8899__content">
+            <p>In that regard, it must be noted that, according to the case-law cited in paragraph 20 of the present judgment, Member States are free to choose the applicable penalties in order to ensure that all VAT revenue is collected. In the absence of harmonisation of EU law in the matter, the Member States have therefore the right to provide eitherfor a system in which VAT offences may be subject to proceedings and penalties only once, or fora system authorising the duplication of proceedings and penalties. In those circumstances, the proportionality of national legislation, such as that at issue in the main proceedings, cannot be called into question by the mere fact that the Member State concerned made the choice to provide for the possibility of such a duplication, as otherwise that Member State would be deprived of that freedom of choice.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8900">
+          <num>48</num>
+          <content eId="para_8900__content">
+            <p>That having been clarified, it must be noted that national legislation, such as that at issue in the main proceedings, which provides for such a possibility of duplication is capable of achieving the objective referred to in paragraph 44 of the present judgment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8901">
+          <num>49</num>
+          <content eId="para_8901__content">
+            <p>With regard to its strict necessity, national legislation, such as that at issue in the main proceedings, must, first of all, provide for clear and precise rules allowing individuals to predict which acts or omissions are liable to be subject to such a duplication of proceedings and penalties.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8902">
+          <num>50</num>
+          <content eId="para_8902__content">
+            <p>In this case, as is apparent from the information in the case file before the Court, the national legislation at issue in the main proceedings, in particular Article 13(1) of Legislative Decree No 471/97, provides for the conditions according to which the failure to pay VAT due within the time limits prescribed by law may give rise to the imposition of an administrative penalty of a criminal nature. In accordance with Article 13(1), and underthe conditions referred to in Article 10a(1) and Article 10b(1) of Legislative Decree No 74/2000, such a failure may also, if it relates to an annual tax return covering an amount of VAT greater than EUR 50000, be subject to a term of imprisonment of between six months and two years.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8903">
+          <num>51</num>
+          <content eId="para_8903__content">
+            <p>It thus appears, subject to verification by the referring court, that the national legislation at issue in the main proceedings clearly and precisely lays down the circumstances in which the failure to pay VAT due may be subject to a duplication of proceedings and penalties of a criminal nature.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8904">
+          <num>52</num>
+          <content eId="para_8904__content">
+            <p>Next, national legislation, such as that at issue in the main proceedings, must ensure that the disadvantages resulting, for the persons concerned, from such a duplication are limited to what is strictly necessary in order to achieve the objective referred to in paragraph 44 of the present judgment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8905">
+          <num>53</num>
+          <content eId="para_8905__content">
+            <p>As regards, first, the duplication of proceedings of a criminal nature which, as is apparent from the information in the case file, the requirement noted in the above paragraph implies the existence of rules ensuring coordination so as to reduce to what is strictly necessary the additional disadvantage associated with such a duplication for the persons concerned.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8906">
+          <num>54</num>
+          <content eId="para_8906__content">
+            <p>In this case, although the national legislation at issue in the main proceedings allows criminal proceedings to be brought even after the imposition of an administrative penalty of a criminal nature finally concluding the administrative proceedings, it is apparent from the information in the case file and summarised in paragraph 50 of the present judgment that that legislation appears to limit criminal penalties to offences which are particularly serious, namely offences relating to an amount of unpaid VAT which exceeds EUR 50000, in relation to which the national legislature has provided for a term of imprisonment, the severity of which appears to justify the need to initiate, in order to impose such a sentence, infringement proceedings which are independent of the administrative proceedings of a criminal nature.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8907">
+          <num>55</num>
+          <content eId="para_8907__content">
+            <p>Secondly, the duplication of penalties of a criminal nature requires rules allowing it to be guaranteed that the severity of all of the penalties imposed corresponds with the seriousness of the offence concerned, that requirement resulting not only from Article 52(1) of the Charter, but also from the principle of proportionality of penalties set out in Article 49(3) thereof. Those rules must provide for the obligation for the competent authorities, in the event of the imposition of a second penalty, to ensure that the severity of all of the penalties imposed does not exceed the seriousness of the offence identified.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8908">
+          <num>56</num>
+          <content eId="para_8908__content">
+            <p>In this case, it appears to follow from Article 21 of Legislative Decree No 74/2000 that the latter is not limited to providing for the suspension of the enforcement of administrative penalties of a criminal nature during the criminal proceedings, but that it definitively prevents that enforcement after the criminal conviction of the person concerned. Moreover, according to the information in the order for reference, the voluntary payment of the tax debt, in so far as it covers also the administrative penalty imposed on the person concerned, constitutes a special mitigating factor to be taken into account in the context of the criminal proceedings. It thus appears that the national legislation at issue in the main proceedings provides for the conditions appropriate for ensuring that the competent authorities limit the severity of all of the penalties imposed to what is strictly necessary in relation to the seriousness of the offence committed.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8909">
+          <num>57</num>
+          <content eId="para_8909__content">
+            <p>Therefore, it appears, subject to verification by the referring court, that national legislation, such as that at issue in the main proceedings, makes it possible to ensure that the duplication of proceedings and penalties which it authorises does not exceed what is strictly necessary in order to achieve the objective referred to in paragraph 44 of the present judgment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8910">
+          <num>58</num>
+          <content eId="para_8910__content">
+            <p>It should again be noted that, although national legislation complying with the requirements set out in paragraphs 44, 49, 53 and 55 of the present judgment appear, in principle, capable of ensuring the necessary balance between the different interests at issue, it must also be applied by the national authorities and national courts so that the disadvantage resulting, in the case at hand and for the person concerned, from the duplication of proceedings and penalties, is not excessive in relation to the seriousness of the offence committed.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8911">
+          <num>59</num>
+          <content eId="para_8911__content">
+            <p>It is, ultimately, for the referring court to assess the proportionality of the practical application of that legislation in the context of the main proceedings, by balancing, on the one hand, the seriousness of the tax offence at issue and, on the other hand, the actual disadvantage resulting for the person concerned from the duplication of proceedings and penalties at issue in the main proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8912">
+          <num>60</num>
+          <content eId="para_8912__content">
+            <p>Finally, in so far as the Charter contains rights which correspond to rights guaranteed by the ECHR, Article 52(3) of the Charter provides that their meaning and scope are the same as those laid down by that convention. It is therefore necessary to take account of Article 4 of Protocol No 7 to the ECHR for the purpose of interpreting Article 50 of the Charter (see, to that effect, judgments of 15 February 2016, N., C‑601/15 PPU, EU:C:2016:84, paragraph 77, and of 5 April 2017, Orsi and Baldetti, C‑217/15 and C‑350/15, EU:C:2017:264, paragraph 24).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8913">
+          <num>61</num>
+          <content eId="para_8913__content">
+            <p>In that regard, the European Court of Human Rights has held that a duplication of tax and criminal proceedings and penalties punishing the same violation of the tax law does not infringe the ne bis in idem principle enshrined in Article 4 of Protocol No 7 to the ECHR, where the tax and criminal proceedings at issue have a sufficiently close connection in substance and time (ECtHR, 15 November 2016, A and B v Norway, CE:ECHR:2016:1115JUD002413011, § 132).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8914">
+          <num>62</num>
+          <content eId="para_8914__content">
+            <p>Therefore, the conditions to which Article 50 of the Charter, read in conjunction with Article 52(1) thereof, subjects a possible duplication of criminal proceedings and penalties and of administrative proceedings and penalties of a criminal nature, as is apparent from paragraphs 44, 49, 53, 55 and 58 of the present judgment, ensure a level of protection of the ne bis in idem principle which is not in conflict with that guaranteed by Article 4 of Protocol No 7 to the ECHR, as interpreted by the European Court of Human Rights.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8915">
+          <num>63</num>
+          <content eId="para_8915__content">
+            <p>In the light of all of the above considerations, the answer to the question referred is that Article 50 of the Charter must be interpreted as not precluding national legislation in accordance with which criminal proceedings may be brought against a person for failing to pay VAT due within the time limits stipulated by law, although that person has already been made subject, in relation to the same acts, to a final administrative penalty of a criminal nature for the purposes of Article 50 of the Charter, on condition that that legislation</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>pursues an objective of general interest which is such as to justify such a duplication of proceedings and penalties, namely combating VAT offences, it being necessary for those proceedings and penalties to pursue additional objectives,</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>contains rules ensuring coordination which limits to what is strictly necessary the additional disadvantage which results, for the persons concerned, from a duplication of proceedings, and</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>provides for rules making it possible to ensure that the severity of all of the penalties imposed is limited to what is strictly necessary in relation to the seriousness of the offence concerned.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8916">
+          <num>64</num>
+          <content eId="para_8916__content">
+            <p>It is for the national court to ensure, taking into account all of the circumstances in the main proceedings, that the actual disadvantage resulting for the person concerned from the application of the national legislation at issue in the main proceedings and from the duplication of the proceedings and penalties that that legislation authorises is not excessive in relation to the seriousness of the offence committed.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_8917">
+          <num>65</num>
+          <content eId="para_8917__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Grand Chamber) hereby rules: 1. Article 50 of the Charter of Fundamental Rights of the European Union must be interpreted as not precluding national legislation in accordance with which criminal proceedings may be brought against a person for failing to pay value added tax due within the time limits stipulated by law, although that person has already been made subject, in relation to the same acts, to a final administrative penalty of criminal nature for the purposes of Article 50 of the Charter, on condition that that legislation</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>pursues an objective of general interest which is such as to justify such a duplication of proceedings and penalties, namely combating value added tax offences, it being necessary for those proceedings and penalties to pursue additional objectives,</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>contains rules ensuring coordination which limits to what is strictly necessary the additional disadvantage which results, for the persons concerned, from a duplication of proceedings, and</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>provides for rules making it possible to ensure that the severity of all of the penalties imposed is limited to what is strictly necessary in relation to the seriousness of the offence concerned. 2. It is for the national court to ensure, taking into account all of the circumstances in the main proceedings, that the actual disadvantage resulting for the person concerned from the application of the national legislation at issue in the main proceedings and from the duplication of the proceedings and penalties that that legislation authorises is not excessive in relation to the seriousness of the offence committed.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Italian</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

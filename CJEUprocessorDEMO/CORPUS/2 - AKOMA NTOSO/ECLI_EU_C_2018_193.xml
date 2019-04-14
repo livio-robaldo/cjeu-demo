@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+      <references source="#source">
+        <TLCOrganization eId="company_55" showAs="" href="/akn/ontology/Organization/Company/company_55" />
+        <TLCOrganization eId="company_47" showAs="" href="/akn/ontology/Organization/Company/company_47" />
+      </references>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Grand Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>20 March 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Directive 2003/6/EC -- Market manipulation -- Penalties -- National legislation which provides for an administrative penalty and a criminal penalty for the same acts -- Charter of Fundamental Rights of the European Union -- Article 50 -- Ne bis in idem principle -- Criminal nature of the administrative penalties -- Existence of the same offence -- Article 52(1) -- Limitations to the ne bis in idem principle -- Conditions) In Case C‑537/16, REQUEST for a preliminary ruling under Article 267 TFEU from the Corte suprema di cassazione (Court of Cassation, Italy), made by decision of 20 September 2016, received at the Court on 24 October 2016, in the proceedings Garlsson Real Estate SA, in liquidation,</p>
+      <p>
+        <party as="appellant" refersTo="#">Stefano Ricucci</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="appellant" refersTo="#company_55">Magiste International SA</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#company_47">Commissione Nazionale per le Società e la Borsa (Consob)</party>
+      </p>
+      <p>, THE COURT (Grand Chamber), composed of K. Lenaerts, President, A. Tizzano, Vice-President, R. Silva de Lapuerta, M. Ilešič, T. von Danwitz (Rapporteur), A. Rosas and E. Levits, Presidents of Chambers, E. Juhász, J.-C. Bonichot, A. Arabadjiev, S. Rodin, F. Biltgen, K. Jürimäe, C. Lycourgos and E. Regan, Judges, Advocate General: M. Campos Sánchez-Bordona, Registrar: R. Schiano, Administrator, having regard to the written procedure and further to the hearing on 30 May 2017, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>Garlsson Real Estate SA, in liquidation, M. Ricucci and Magiste International SA, by M. Canfora, avvocato,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Commissione Nazionale per le Società e la Borsa (Consob), by A. Valente, S. Providenti and P. Palmisano, avvocati,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Italian Government, by G. Palmieri, acting as Agent, and by G. Galluzzo and de P. Gentili, avvocati dello Stato,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the German Government, by T. Henze and D. Klebs, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Polish Government, by B. Majczyna, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by V. Di Bucci, R. Troosters and T. Scharf, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 12 September 2017,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_8670">
+          <num>1</num>
+          <content eId="para_8670__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Article 50 of the Charter of Fundamental Rights of the European Union ( `the Charter') and of Article 4 of Protocol No 7 to the European Convention for the Protection of Human Rights and Fundamental Freedoms, signed in Rome on 4 November 1950 ( `the ECHR').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8671">
+          <num>2</num>
+          <content eId="para_8671__content">
+            <p>The request has been made in proceedings between Garlsson Real Estate SA, in liquidation, Mr Stefano Ricucci and Magiste International SA, on the one hand, and the Commissione Nazionale per le Società e la Borsa (National Companies and Stock Exchange Commission, Italy), on the other hand, concerning the legality of an administrative fine imposed on them as a result of breaches of the legislation on market manipulation.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>The ECHR</p>
+        </tblock>
+        <paragraph eId="para_8672">
+          <num>3</num>
+          <content eId="para_8672__content">
+            <p>Article 4 of Protocol 7 to the ECHR, entitled `Right not to be tried or punished twice', provides: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>No one shall be liable to be tried or punished again in criminal proceedings under the jurisdiction of the same State for an offence for which he has already been finally acquitted or convicted in accordance with the law and penal procedure of that State.</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>The provisions of the preceding paragraph shall not prevent the reopening of the case in accordance with the law and the penal procedure of the State concerned, if there is evidence of new or newly discovered facts, or if there has been a fundamental defect in the previous proceedings, which could affect the outcome of the case.</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>No derogation from this Article shall be made under Article 15 of the Convention.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>European Union law</p>
+        </tblock>
+        <paragraph eId="para_8673">
+          <num>4</num>
+          <content eId="para_8673__content">
+            <p>In accordance with Article 5 of Directive 2003/6/EC of the European Parliament and of the Council of 28 January 2003 on insider dealing and market manipulation (market abuse) ( OJ 2003 L 96, p. 16), Member States are to prohibit any person from engaging in market manipulation. The meaning of market manipulation is stated in Article 1(2) of that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8674">
+          <num>5</num>
+          <content eId="para_8674__content">
+            <p>Under Article 14(1) of that directive: `Without prejudice to the right of Member States to impose criminal sanctions, Member States shall ensure, in conformity with their national law, that the appropriate administrative measures can be taken or administrative sanctions be imposed against the persons responsible where the provisions adopted in the implementation of this Directive have not been complied with. Member States shall ensure that these measures are effective, proportionate and dissuasive.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Italian law</p>
+        </tblock>
+        <paragraph eId="para_8675">
+          <num>6</num>
+          <content eId="para_8675__content">
+            <p>Article 185 of the Decreto legislativo n. 58 -- Testo unico delle disposizioni in materia di intermediazione finanziaria, ai sensi degli articoli 8 e 21 della legge 6 febbraio 1996, n. 52 (Legislative Decree No 58, consolidating all provisions in the field of financial intermediation, within the meaning of Articles 8 and 21 of Law No 52 of 6 February 1996), of 24 February 1998 (ordinary supplement to GURI No 71, of 26 March 1998), as amended by the legge n. 62 -- Disposizioni per l'adempimento di obblighi derivanti dall `appartenenza dell `Italia alle Comunità europee. Legge comunitaria 2004 (Law No 62 laying down provisions to implement obligations resulting from Italy's membership of the European Communities. Community Law 2004), of 18 April 2005 (ordinary supplement to GURI No 76, of 27 April 2005) ( `the TUF'), entitled `Market manipulation', provides: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Any person making untrue statements or employing fictitious devices or other forms of deception which are in fact capable of bringing about a significant change in the price of financial instruments will be punished by a term of imprisonment of between one and six years and a fine of between EUR 20000 and EUR 5000000.(2)   A court may increase the fine by up to 3 times its amount or up to an amount 10 times greater than the proceeds or profit obtained from the offence, where the fine is insufficient, even if the maximum amount has been applied, having regard to the seriousness of the unlawful conduct, the personal qualities of the offender and the size of the proceeds or profit obtained.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8676">
+          <num>7</num>
+          <content eId="para_8676__content">
+            <p>Article 187b of the TUF, entitled `Market manipulation', is worded as follows: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Without prejudice to criminal penalties where the act in question constitutes a criminal offence, any person who, through the media, including the internet, or by any other means, disseminates information, rumour or false or misleading news which gives or is likely to give false or misleading signals as to financial instruments shall be liable to an administrative penalty of between EUR 100000 and EUR 5000000. ...</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>without prejudice to criminal penalties, where the act in question constitutes a criminal offence, the administrative fines referred to in paragraph (1) are applicable to any person who engages in: ...</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>transactions or orders to trade which employ fictitious devices or any other form of deception or contrivance: ...</p>
+              </item>
+              <item>
+                <num>(5)</num>
+                <p>The administrative fines provided for in the above paragraphs shall be increased by up to 3 times its amount or up to an amount 10 times greater than the proceeds or profit obtained from the offence where, having regard to the qualities of the offender or the size of the proceeds or profit thereby obtained, or as a result of the effects produced on the market, the fine is insufficient, even if the maximum amount has been applied. ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8677">
+          <num>8</num>
+          <content eId="para_8677__content">
+            <p>Article 187i of the TUF, entitled `Relations with the judiciary', states: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Where it has information concerning one of the infringements provided for in Chapter II, the prosecution service shall inform the president of [Consob] without delay.</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>The president of [Consob] shall send to the prosecution service, by means of a reasoned report, the documents collected during the monitoring activity where elements are discovered allowing the existence of an offence to be presumed. The transfer of files to the prosecution service shall take place at the latest at the end of the activity leading to the establishment of the infringements referred to in the provisions provided for in Chapter III of the present Title.</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>[Consob] and the judicial authority shall cooperate with each other, including by means of information exchange, in order to facilitate establishing the existence of the infringements referred to in the present Title, including where those infringements do not constitute offences. ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8678">
+          <num>9</num>
+          <content eId="para_8678__content">
+            <p>Article 187k(1) of the TUF, entitled `Relationship between the criminal proceedings and the administrative and opposition proceedings', provides: `Administrative investigation proceedings and proceedings to have a decision set aside may not be stayed during the criminal proceedings covering the same facts or facts on the determination of which the outcome of the case depends.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8679">
+          <num>10</num>
+          <content eId="para_8679__content">
+            <p>Under Article 187l of the TUF, entitled `Enforcement of pecuniary penalties and pecuniary sanctions in criminal proceedings': `When, in relation to the same act, an administrative fine is imposed on the convicted person or entity, the pecuniary penalty and the pecuniary sanction that may be imposed in relation to the criminal offence shall be limited to the part in excess of the penalty or sanction imposed by the administrative authorities.'</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_8680">
+          <num>11</num>
+          <content eId="para_8680__content">
+            <p>By decision of 9 September 2007, Consob imposed an administrative fine amounting to EUR 10.2 million on Mr Ricucci, Magiste International and Garlsson Real Estate, who were jointly and severally liable for the payment of that sum.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8681">
+          <num>12</num>
+          <content eId="para_8681__content">
+            <p>According to that decision, during the period at issue in the main proceedings, Mr Ricucci engaged in manipulation with the objective of drawing attention to the securities of RCS MediaGroup SpA and, thereby, to support the priceof the securities with a view to personal gain. Consob considered that that conduct resulted in anomalous price movements in those securities and it consequently amounted to market manipulation within the meaning of Article 187b(3)(c) of the TUF.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8682">
+          <num>13</num>
+          <content eId="para_8682__content">
+            <p>The administrative fine at issue in the main proceedings was contested by Mr Ricucci, Magiste International and Garlsson Real Estate before the Corte d'appello di Roma (Court of Appeal, Rome, Italy). By judgment of 2 January 2009, that court partially upheld that action by reducing that administrative fine to EUR 5 million. All the parties to the dispute in the main proceedings appealed on a point of law against that judgment before the Corte suprema di cassazione (Court of Cassation, Italy).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8683">
+          <num>14</num>
+          <content eId="para_8683__content">
+            <p>The conduct described in paragraph 12 of the present judgment also gave rise to criminal proceedings against Mr Ricucci, leading to his conviction and sentencing, by judgment of the Tribunale di Roma (District Court, Rome, Italy) of 10 December 2008, by means of negotiated procedure, to a term of imprisonment of four years and six months on the basis of Article 185 of the TUF. That sentence was subsequently reduced to three years, then extinguished as a result of a pardon. That judgment became final.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8684">
+          <num>15</num>
+          <content eId="para_8684__content">
+            <p>In that context, the referring court states that, in the Italian legal system, the ne bis in idem principle does not apply to links between criminal and administrative penalties.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8685">
+          <num>16</num>
+          <content eId="para_8685__content">
+            <p>That court nevertheless has doubts concerning the compatibility, following the judgment of the Tribunale di Roma (District Court, Rome) of 10 December 2008, of the proceedings for an administrative fine at issue in the main proceedings with Article 50 of the Charter, read in the light of Article 4 of Protocol No 7 to the ECHR.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8686">
+          <num>17</num>
+          <content eId="para_8686__content">
+            <p>According to that court, although, in the Italian legal system, that judgment is equivalent to a criminal conviction, the administrative fine at issue in the main proceedings imposed under Article 187b of the TUF is of a criminal nature for the purposes of Article 4 of Protocol No 7 to the ECHR, as interpreted by the European Court of Human Rights in its judgment of 4 March 2014, Grande Stevens and Others v Italy(CE:ECHR:2014:0304JUD001864010). The referring court notes that the conduct ascribed to Mr Ricucci in the context of those administrative proceedings is the same as that for which the criminal penalty was imposed on him.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8687">
+          <num>18</num>
+          <content eId="para_8687__content">
+            <p>Since it considers that the application of Article 187b of the TUF to the main proceedings raises questions relating to the constitutionality of that provision, the referring court questioned the Corte costituzionale (Constitutional Court, Italy).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8688">
+          <num>19</num>
+          <content eId="para_8688__content">
+            <p>By judgment of 12 May 2016, the Corte costituzionale (Constitutional Court) declared the question relating to constitutionality to be inadmissible, on the ground that the referring court had not previously clarified the links between the ne bis in idem principle laid down in Article 4 of Protocol No 7 to the ECHR, as interpreted by the European Court of Human Rights, and that principle as it applies in the context of market abuse under EU law. Moreover, the question arises whether the ne bis in idem principle, as guaranteed under EU law, is directly applicable in the domestic system of a Member State.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8689">
+          <num>20</num>
+          <content eId="para_8689__content">
+            <p>In those circumstances, the Corte suprema di cassazione (Court of Cassation) decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Does Article 50 of the Charter of Fundamental Rights of the European Union, interpreted in the light of Article 4 of Protocol No 7 to the ECHR, the relevant case-law of the European Court of Human Rights and national legislation, preclude the possibility of conducting administrative proceedings in respect of an act (unlawful conduct consisting in market manipulation) for which the same person has been convicted by a decision that has the force of res judicata?</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>May the national court directly apply EU principles in connection with the ne bis in idem principle, on the basis of Article 50 of the Charter, interpreted in the light of Article 4 of Protocol No 7 to the ECHR, the relevant case-law of the European Court of Human Rights and national legislation?'</p>
+                <tblock>
+                  <p>Consideration of the questions referred</p>
+                </tblock>
+                <tblock>
+                  <p>The first question</p>
+                </tblock>
+                <p>21 By its first question, the referring court asks, in essence, whether Article 50 of the Charter, read in the light of Article 4 of Protocol No 7 to the ECHR, must be interpreted as precluding national legislation which permits the possibility of bringing administrative proceedings against a person in respect of unlawful conduct consisting in market manipulation for which the same person has already been finally convicted.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8690">
+          <num>22</num>
+          <content eId="para_8690__content">
+            <p>First of all, it should be noted that, under Article 14(1) of Directive 2003/6, read in conjunction with Article 5 thereof, Member States are to impose, without prejudice to their right to impose criminal penalties, effective, proportionate and dissuasive administrative measures or sanctions against the persons responsible for market manipulation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8691">
+          <num>23</num>
+          <content eId="para_8691__content">
+            <p>According to the information in the order for reference, Article 187b of the TUF was adopted in order to transpose into Italian law those provisions of Directive 2003/6. Therefore, the administrative procedure at issue in the main proceedings and the administrative fine provided for in Article 187b imposed on Mr Ricucci amount to an implementation of EU law within the meaning of Article 51(1) of the Charter. As a result, they must inter alia respect the fundamental right not to be tried or punished twice in criminal proceedings for the same criminal offence, guaranteed by Article 50 thereof.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8692">
+          <num>24</num>
+          <content eId="para_8692__content">
+            <p>Moreover, whilst, as Article 6(3) TEU confirms, fundamental rights recognised by the ECHR constitute general principles of EU law and whilst Article 52(3) of the Charter provides that the rights contained in the Charter which correspond to rights guaranteed by the ECHR are to have the same meaning and scope as those laid down by the ECHR, the latter does not constitute, for as long as the European Union has not acceded to it, a legal instrument which has been formally incorporated into EU law (judgments of 26 February 2013, Åkerberg Fransson, C‑617/10, EU:C:2013:105, paragraph 44, and of 15 February 2016, N., C‑601/15 PPU, EU:C:2016:84, paragraph 45 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8693">
+          <num>25</num>
+          <content eId="para_8693__content">
+            <p>According to the explanations relating to Article 52 of the Charter, Article 52(3) thereof is intended to ensure the necessary consistency between the Charter and the ECHR, `without thereby adversely affecting the autonomy of Union law and ... that of the Court of Justice of the European Union' (judgments of 15 February 2016, N., C‑601/15 PPU, EU:C:2016:84, paragraph 47, and of 14 September 2017, K., C‑18/16, EU:C:2017:680, paragraph 50 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8694">
+          <num>26</num>
+          <content eId="para_8694__content">
+            <p>Therefore, the examination of the question referred must be undertaken in the light of the fundamental rights guaranteed by the Charter and, in particular, of Article 50 thereof (see, to that effect, judgment of 5 April 2017, Orsi and Baldetti, C‑217/15 and C‑350/15, EU:C:2017:264, paragraph 15 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8695">
+          <num>27</num>
+          <content eId="para_8695__content">
+            <p>Article 50 of the Charter provides that `no one shall be liable to be tried or punished again in criminal proceedings for an offence for which he or she has already been finally acquitted or convicted within the Union in accordance with the law'. Therefore, the ne bis in idem principle prohibits a duplication both of proceedings and of penalties which are criminal in nature for the purposes of that article in respect of the same acts and against the same person (see, to that effect, judgment of 26 February 2013, Åkerberg Fransson, C‑617/10, EU:C:2013:105, paragraph 34).</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The criminal nature of the proceedings and penalties</p>
+        </tblock>
+        <paragraph eId="para_8696">
+          <num>28</num>
+          <content eId="para_8696__content">
+            <p>As regards the assessment as towhether proceedings and penalties, such as those at issue in the main proceedings, are criminal in nature, it must be noted that, according to the Court's case-law, three criteria are relevant. The first criterion is the legal classification of the offence under national law, the second is the intrinsic nature of the offence, and the third is the degree of severity of the penalty that the person concerned is liable to incur (see, to that effect, judgments of 5 June 2012, Bonda, C‑489/10, EU:C:2012:319, paragraph 37, and of 26 February 2013, Åkerberg Fransson, C‑617/10, EU:C:2013:105, paragraph 35).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8697">
+          <num>29</num>
+          <content eId="para_8697__content">
+            <p>Although it is for the referring court to assess, in the light of those criteria, whether the criminal and administrative proceedings and penalties at issue in the main proceedings are criminal in nature for the purposes of Article 50 of the Charter, the Court, when giving a preliminary ruling, may nevertheless provide clarification designed to give the national court guidance in its assessment (see, to that effect, judgment of 5 June 2014, Mahdi, C‑146/14 PPU, EU:C:2014:1320, paragraph 79 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8698">
+          <num>30</num>
+          <content eId="para_8698__content">
+            <p>In this case, it should be noted at the outset that the classification as criminal, in the light of the criteria noted in paragraph 28 of the present judgment, of the criminal proceedings and the term of imprisonment, referred to in paragraph 14 of the present judgment, imposed on Mr Ricucci, is not at issue. The question arises, on the other hand, whether the administrative fine and the administrative proceedings at issue in the main proceedings are criminal in nature, for the purposes of Article 50 of the Charter.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8699">
+          <num>31</num>
+          <content eId="para_8699__content">
+            <p>In that regard, concerning the first criterion referred to in paragraph 28 of the present judgment, it is apparent from the case file before the Court that national law classifies the procedure giving rise to the imposition of that penalty as administrative proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8700">
+          <num>32</num>
+          <content eId="para_8700__content">
+            <p>Nevertheless, the application of Article 50 of the Charter is not limited to proceedings and penalties which are classified as `criminal' by national law, but extends regardless of such a classification to proceedings and penalties which must be considered to have a criminal nature on the basis of the two other criteria referred to in paragraph 28 of the present judgment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8701">
+          <num>33</num>
+          <content eId="para_8701__content">
+            <p>As regards the second criterion, relating to the very nature of the offence, it must be ascertained whether the purpose of the penalty at issue is punitive (see judgment of 5 June 2012, Bonda, C‑489/10, EU:C:2012:319, paragraph 39). It follows therefrom that a penalty with a punitive purpose is criminal in nature for the purposes of Article 50 of the Charter, and that the mere fact that it also pursues a deterrence purpose does not mean that it cannot be characterised as a criminal penalty. As the Advocate General stated in point 64 of his Opinion, it is of the very nature of criminal penalties that they seek both to punish and to deter unlawful conduct. By contrast, a measure which merely repairs the damage caused by the offence at issue is not criminal in nature.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8702">
+          <num>34</num>
+          <content eId="para_8702__content">
+            <p>In this case, Article 187b of the TUF provides that any person who has committed market manipulation is liable to an administrative fine of between EUR 20000 and 5000000, and that penalty may, in certain circumstances, as follows from paragraph 5 of that article, be increased by up to 3 times its amount or up to an amount 10 times greater than the proceeds or profit obtained from the offence. Moreover, the Italian Government stated, in its observations submitted to the Court, that the application of that penalty always involves the confiscation of the product or the profit gained as a result of the offence and the goods used for the commission thereof. It appears therefore that that penalty is not only intended to repair the harm caused by the offence, but that it also pursues a punitive purpose, which moreover corresponds to the referring court's assessment and that it is therefore criminal in nature.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8703">
+          <num>35</num>
+          <content eId="para_8703__content">
+            <p>As regards the third criterion, it should be noted that an administrative fine which can be of an amount up to 10 times greater than the proceeds or profit obtained from the market manipulation has a high degree of severity which is liable to support the view that that penalty is criminal in nature for the purposes of Article 50 of the Charter, which it is, however, for the referring court to determine.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The existence of the same offence</p>
+        </tblock>
+        <paragraph eId="para_8704">
+          <num>36</num>
+          <content eId="para_8704__content">
+            <p>It follows from the very wording of Article 50 of the Charter that it prohibits the prosecution or the imposition of criminal penalties on the same person more than once for the same offence (see, to that effect, judgment of 5 April 2017, Orsi and Baldetti, C‑217/15 and C‑350/15, EU:C:2017:264, paragraph 18). As is stated by the referring court in its order for reference, the different proceedings and penalties of a criminal nature at issue in the main proceedings are directed against the same person, namely Mr Ricucci.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8705">
+          <num>37</num>
+          <content eId="para_8705__content">
+            <p>According to the Court's case-law, the relevant criterion for the purposes of assessing the existence of the same offence is identity of the material facts, understood as the existence of a set of concrete circumstances which are inextricably linked together and which resulted in the final acquittal or conviction of the person concerned (see, by analogy, judgments of 18 July 2007, Kraaijenbrink, C‑367/05, EU:C:2007:444, paragraph 26 and the case-law cited, and of 16 November 2010, Mantello, C‑261/09, EU:C:2010:683, paragraphs 39 and 40). Therefore, Article 50 of the Charter prohibits the imposition, with respect to identical facts, of several criminal penalties at the conclusionof different proceedings brought for those purposes.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8706">
+          <num>38</num>
+          <content eId="para_8706__content">
+            <p>Moreover, the legal classification, under national law, of the facts and the legal interest protected are not relevant for the purposes of establishing the existence of the same offence, in so far as the scope of the protection conferred by Article 50 of the Charter cannot vary from one Member State to another.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8707">
+          <num>39</num>
+          <content eId="para_8707__content">
+            <p>In this case, the referring court states that it is the same conduct, consisting in market manipulation intended to draw attention to the securities of RCS MediaGroup, which Mr Ricucci is alleged to have committed both in the criminal proceedings which led to his final criminal conviction and in the proceedings for an administrative fine of a criminal nature at issue in the main proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8708">
+          <num>40</num>
+          <content eId="para_8708__content">
+            <p>Although, as Consob contends in its written observations, the imposition of a criminal penalty following criminal proceedings, such as those at issue in the main proceedings, requires, unlike that administrative fine of a criminal nature, a subjective element, it must be noted that the fact that the imposition of that criminal penalty depends on an additional constituent element in relation to the administrative fine of a criminal nature is not, in itself, capable of calling into question the identity of the material facts at issue. Subject to verification by the referring court, the administrative fine of a criminal nature and the criminal proceedings at issue in the main proceedings appear therefore to relate to the same offence.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8709">
+          <num>41</num>
+          <content eId="para_8709__content">
+            <p>In those circumstances, it appears that the national legislation at issue in the main proceedings permits the possibility of bringing administrative proceedings of a criminal nature for the purposes of Article 50 of the Charter against a person, such as Mr Ricucci, in respect of unlawful conduct consisting in market manipulation for which the same person has already been finally convicted. However, such a duplication of proceedings and penalties constitutes a limitation of the right guaranteed by Article 50 of the Charter.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The justification for the limitation of the right guaranteed in Article 50 of the Charter</p>
+        </tblock>
+        <paragraph eId="para_8710">
+          <num>42</num>
+          <content eId="para_8710__content">
+            <p>It should be noted that, in its judgment of 27 May 2014, Spasic ( C‑129/14 PPU, EU:C:2014:586, paragraphs 55 and 56), the Court ruled that a limitation to the ne bis in idem principle guaranteed by Article 50 of the Charter may be justified on the basis of Article 52(1) thereof.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8711">
+          <num>43</num>
+          <content eId="para_8711__content">
+            <p>In accordance with the first sentence of Article 52(1) of the Charter, any limitation on the exercise of the rights and freedoms recognised by that Charter must be provided for by law and must respect the essence of those rights and freedoms. According to the second sentence of Article 52(1) thereof, subject to the principle of proportionality, limitations to those rights and freedoms may be made only if they are necessary and genuinely meet other objectives of general interest recognised by the European Union or the need to protect the rights and freedoms of others.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8712">
+          <num>44</num>
+          <content eId="para_8712__content">
+            <p>In this case, it is not disputed that the possibility of duplicating criminal proceedings and penalties and administrative proceedings and penalties of a criminal nature is provided for by the law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8713">
+          <num>45</num>
+          <content eId="para_8713__content">
+            <p>Moreover, national legislation, such as that at issue in the main proceedings, respects the essential content of Article 50 of the Charter, since it allows such a duplication of proceedings and penalties only under certain conditions which are exhaustively defined, thereby ensuring that the right guaranteed by Article 50 is not called into question as such.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8714">
+          <num>46</num>
+          <content eId="para_8714__content">
+            <p>As regards the question whether the limitation of the ne bis in idem principle resulting from national legislation, such as that at issue in the main proceedings, meets an objective of general interest, it is apparent from the case file before the Court that that legislation seeks to protect the integrity of the financial markets of the European Union and public confidence in financial instruments. In the light of the importance that is givenin the Court's case-law, for the purposes of achieving that objective, to combating infringements of the prohibition on market manipulation (see, to that effect, judgment of 23 December 2009, Spector Photo Group and Van Raemdonck, C‑45/08, EU:C:2009:806, paragraphs 37 and 42), a duplication of criminal proceedings and penalties may be justified where those proceedings and penalties pursue, for the purpose of achieving such an objective, complementary aims relating, as the case may be, to different aspects of the same unlawful conduct at issue, which it is for the referring court to determine.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8715">
+          <num>47</num>
+          <content eId="para_8715__content">
+            <p>In that regard, concerning offences relating to market manipulation, it seems legitimate that a Member State mightwish, first, to dissuade and punish any infringement, whether intentional or not, of the prohibition of market manipulation by imposing administrative penalties set, as the case may be, on a flat-rate basis and, secondly, to dissuade and punish serious infringements of such a prohibition, which have particularly negative effects on society and which justify the adoption of the most severe criminal penalties.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8716">
+          <num>48</num>
+          <content eId="para_8716__content">
+            <p>As regards compliance with the principle of proportionality, it requires that the duplication of proceedings and penalties provided for by national legislation, such as that at issue in the main proceedings, does not exceed what is appropriate and necessary in order to attain the objectives legitimately pursued by that legislation, it being understood that, when there is a choice between several appropriate measures, recourse must be had to the least onerous and the disadvantages caused must not be disproportionate to the aims pursued (see, to that effect, judgments of 25 February 2010, Müller Fleisch, C‑562/08, EU:C:2010:93, paragraph 43; of 9 March 2010, ERG and Others, C‑379/08 and C‑380/08, EU:C:2010:127, paragraph 86; and of 19 October 2016, EL-EM-2001, C‑501/14, EU:C:2016:777, paragraphs 37 and 39 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8717">
+          <num>49</num>
+          <content eId="para_8717__content">
+            <p>In that regard, it should be noted that, under Article 14(1) of Directive 2003/6, read in conjunction with Article 5 thereof, Member States are free to choose the penalties applicable to persons responsible for market manipulation (see, to that effect, judgment of 23 December 2009, Spector Photo Group and Van Raemdonck, C‑45/08, EU:C:2009:806, paragraphs 71 and 72). In the absence of harmonisation of EU law in the matter, Member States therefore have the right to provide either for a system in which infringements of the prohibition of market manipulation may be subject to proceedings and penalties only once, or fora system allowing a duplication of proceedings and penalties. In those circumstances, the proportionality of national legislation, such as that at issue in the main proceedings, cannot be called into question by the mere fact that the Member State concerned chose to provide for the possibility of such a duplication, without which that Member State would be deprived of that freedom of choice.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8718">
+          <num>50</num>
+          <content eId="para_8718__content">
+            <p>That having been clarified, it must be noted that national legislation, such as that at issue in the main proceedings, which provides for such a possibility of duplication is capable of achieving the objective referred to in paragraph 46 of the present judgment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8719">
+          <num>51</num>
+          <content eId="para_8719__content">
+            <p>With regard to its strict necessity, national legislation, such as that at issue in the main proceedings, must, first of all, provide for clear and precise rules allowing individuals to predict which acts or omissions are liable to be subject to such a duplication of proceedings and penalties.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8720">
+          <num>52</num>
+          <content eId="para_8720__content">
+            <p>In this case, as is apparent from the information in the case file before the Court, the national legislation at issue in the main proceedings, in particular Article 187b of the TUF, provides for the conditions in accordance with which the dissemination of untrue statements and the employment of fictitious devices, capable of giving false or misleading information about financial instruments, can give rise to the imposition of an administrative fine of a criminal nature. In accordance with Article 187b of the TUF, and in the circumstances referred to in Article 185 thereof, such conduct can also, where it is liable to affect significantly the value of financial instruments, be subject to a term of imprisonment and a criminal fine.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8721">
+          <num>53</num>
+          <content eId="para_8721__content">
+            <p>It therefore appears, subject to verification by the referring court, that the national legislation at issue in the main proceedings clearly and precisely sets out the circumstances in which market manipulation can be subject to a duplication of proceedings and penalties of a criminal nature.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8722">
+          <num>54</num>
+          <content eId="para_8722__content">
+            <p>Next, national legislation, such as that at issue in the main proceedings, must ensure that the disadvantages resulting, for the persons concerned, from such a duplication are limited to what is strictly necessary in order to achieve the objective referred to in paragraph 46 of the present judgment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8723">
+          <num>55</num>
+          <content eId="para_8723__content">
+            <p>As regards, first, the duplication of proceedings of a criminal nature which, as is apparent from the information in the case file, the requirement noted in the above paragraph implies the existence of rules ensuring coordination so as to reduce to what is strictly necessary the additional disadvantage associated with such a duplication for the persons concerned.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8724">
+          <num>56</num>
+          <content eId="para_8724__content">
+            <p>Secondly, the duplication of penalties of a criminal nature requires rules allowing it to be guaranteed that the severity of the sum of all of the penalties imposed corresponds with the seriousness of the offence concerned, that requirement resulting not only from Article 52(1) of the Charter, but also from the principle of proportionality of penalties set out in Article 49(3) thereof. Those rules must provide for the obligation for the competent authorities, in the event of the imposition of a second penalty, to ensure that the severity of the sum of all of the penalties imposed does not exceed the seriousness of the offence identified.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8725">
+          <num>57</num>
+          <content eId="para_8725__content">
+            <p>In this case, admittedly, the obligation for cooperation and coordination between the prosecution service and Consob provided for in Article 187i of the TUF is liable to reduce the disadvantage resulting, for the person concerned, from the duplication of an administrative fine of a criminal nature and criminal proceedings due to unlawful conduct constituting market manipulation. However, it should be noted that, in the event of a criminal conviction under Article 185 of the TUF following criminal proceedings, the bringing of the proceedings relating to an administrative fine of a criminal nature exceeds what is strictly necessary in order to achieve the objective referred to in paragraph 46 of the present judgment, in so far as that criminal conviction is such as to punish the offence committed in an effective, proportionate and dissuasive manner.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8726">
+          <num>58</num>
+          <content eId="para_8726__content">
+            <p>In that regard, it is apparent from the information in the case file before the Court and which is summarised in paragraph 52 of the present judgment, that market manipulation liable to be subject to a criminal conviction under Article 185 of the TUF must be of a certain seriousness and that the penalties liable to be imposed under that provision include a prison sentence and a criminal fine in a range which corresponds to that provided for in respect of the administrative fine of a criminal nature referred to in Article 187b of the TUF.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8727">
+          <num>59</num>
+          <content eId="para_8727__content">
+            <p>In those circumstances, it seems that the act of bringing proceedings for an administrative fine of a criminal nature under Article 187b of the TUF exceeds what is strictly necessary in order to achieve the objective referred to in paragraph 46 of the present judgment, in so far as the final criminal conviction is, given the harm caused to the company by the offence committed, such as to punish that offence in an effective, proportionate and dissuasive manner, which it is for the referring court to determine.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8728">
+          <num>60</num>
+          <content eId="para_8728__content">
+            <p>It should be added, as regards the duplication of penalties authorised by the legislation at issue in the main proceedings, that the latter seems merely to provide in Article 187l of the TUF that, where, with respect to the same acts, a criminal fine and an administrative fine of a criminal nature have been imposed, recovery of the former is limited to the part exceeding the amount of the second. In so far as Article 187l of the TUF appears solely to apply to the duplication of pecuniary penalties and not to the duplication of an administrative fine of a criminal nature and a term of imprisonment, it appears that that article does not guarantee that the severity of all of the penalties imposed are limited to what is strictly necessary in relation to the seriousness of the offence concerned.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8729">
+          <num>61</num>
+          <content eId="para_8729__content">
+            <p>Therefore, it appears that national legislation, such as that at issue in the main proceedings, which authorises, after a final criminal conviction, under the conditions identified in the paragraph above, the bringing of proceedings for an administrative fine of a criminal nature, goes beyond what is strictly necessary in order to achieve the objective referred to in paragraph 46 of the present judgment, which it is however for the referring court to determine.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8730">
+          <num>62</num>
+          <content eId="para_8730__content">
+            <p>That conclusion is not called into question by the fact that the final sentence pronounced in accordance with Article 185 of the TUF can, where appropriate, subsequently be extinguished as a result of a pardon, as seems to have happened in the case in the main proceedings. It follows from Article 50 of the Charter that the protection conferred by the ne bis in idem principle must benefit persons who have already been finally acquitted or convicted, including, consequently, those who have been made subject, by such a conviction, to a criminal penalty which was subsequently extinguished as a result of a pardon. Therefore, such a circumstance is irrelevant for the purpose of assessing whether national legislation such as that at issue in the main proceedings is strictly necessary.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8731">
+          <num>63</num>
+          <content eId="para_8731__content">
+            <p>In the light of the foregoing considerations, the answer to the question referred is that Article 50 of the Charter must be interpreted as precluding national legislation which permits the possibility of bringing administrative proceedings against a person in respect of unlawful conduct consisting in market manipulation for which the same person has already been finally convicted, in so far as that conviction is, given the harm caused to the company by the offence committed, such as to punish that offence in an effective, proportionate and dissuasive manner.</p>
+            <tblock>
+              <p>The second question</p>
+            </tblock>
+            <p>64 By its second question, the referring court asks, in essence, whether the ne bis in idem principle provided for in Article 50 of the Charter confers on individuals a directly applicable right in the context of a dispute such as that at issue in the main proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8732">
+          <num>65</num>
+          <content eId="para_8732__content">
+            <p>In accordance with settled case-law, the provisions of primary law which impose precise and unconditional obligations, not requiring, for their application, any further action on the part of the EU or national authorities, create direct rights in respect of the individuals concerned (see, to that effect, judgments of 1 July 1969, Brachfeld and Chougol Diamond, 2/69 and 3/69, EU:C:1969:30, paragraphs 22 and 23, and of 20 September 2001, Banks, C‑390/98, EU:C:2001:456, paragraph 91).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8733">
+          <num>66</num>
+          <content eId="para_8733__content">
+            <p>The right that Article 50 of the Charter confers on individuals is not subject, according to the very wording of that provision, to any conditions and is therefore directly applicable in the context of the dispute in the main proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8734">
+          <num>67</num>
+          <content eId="para_8734__content">
+            <p>In that regard, it should be noted that the Court has already recognised the direct effect of Article 50 of the Charter by concluding, in paragraph 45 of the judgment of 26 February 2013, Åkerberg Fransson ( C‑617/10, EU:C:2013:105), that, in the course of the assessment of the compatibility of provisions of domestic law with the rights guaranteed by the Charter, the national court which is called upon, within the exercise of its jurisdiction, to apply provisions of EU law is under a duty to give full effect to those provisions, if necessary refusing of its own motion to apply any conflicting provision of national legislation, even if adopted subsequently, and it is not necessary for the court to request or await the prior setting aside of such provision by legislative or other constitutional means.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8735">
+          <num>68</num>
+          <content eId="para_8735__content">
+            <p>Therefore, the answer to the second question is that the ne bis in idem principle guaranteed by Article 50 of the Charter confers on individuals a right which is directly applicable in the context of a dispute such as that at issue in the main proceedings.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_8736">
+          <num>69</num>
+          <content eId="para_8736__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Grand Chamber) hereby rules: 1. Article 50 of the Charter of Fundamental Rights of the European Union must be interpreted as precluding national legislation which permits the possibility of bringing administrative proceedings against a person in respect of unlawful conduct consisting in market manipulation for which the same person has already been finally convicted, in so far as that conviction is, given the harm caused to the company by the offence committed, such as to punish that offence in an effective, proportionate and dissuasive manner. 2. Thene bis in idemprinciple guaranteed by Article 50 of the Charter of Fundamental Rights of the European Union confers on individuals a right which is directly applicable in the context of a dispute such as that at issue in the main proceedings.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Italian.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

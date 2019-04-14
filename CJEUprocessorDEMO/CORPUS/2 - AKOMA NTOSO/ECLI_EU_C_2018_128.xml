@@ -1,0 +1,890 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (First Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>28 February 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Appeal -- EU trade mark -- Regulation (EC) No 207/2009 -- Article 15(1) -- Article 57(2) and (3) -- Article 64 -- Article 76(2) -- Regulation (EC) No 2868/95 -- Rule 22(2) -- Rule 40(6) -- Invalidity proceedings -- Applications for a declaration of invalidity based on an earlier national trade mark -- Genuine use of the earlier mark -- Burden of proof -- Rejection of the applications -- Taking into account by the Board of Appeal of the European Union Intellectual Property Office (EUIPO) of new evidence -- Annulment of the decisions of the Cancellation Division of EUIPO -- Referral -- Consequences) In Case C‑418/16 P, APPEAL under Article 56 of the Statute of the Court of Justice of the European Union, brought on 27 July 2016, mobile.de GmbH, formerly mobile.international GmbH, established in Kleinmachnow (Germany), represented by T. Lührig, Rechtsanwalt, appellant, the other parties to the proceedings being: European Union Intellectual Property Office (EUIPO), represented by M. Fischer, acting as Agent, defendant at first instance, Rezon OOD, established in Sofia (Bulgaria), represented by P. Kanchev, advokat, intervener at first instance, THE COURT (First Chamber), composed of R. Silva de Lapuerta, President of the Chamber, C.G. Fernlund, A. Arabadjiev, S. Rodin and E. Regan (Rapporteur), Judges, Advocate General: E. Sharpston, Registrar: A. Calot Escobar, having regard to the written procedure, after hearing the Opinion of the Advocate General at the sitting on 23 November 2017,</p>
+      <p>gives the following</p>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_6884">
+          <num>1</num>
+          <content eId="para_6884__content">
+            <p>By its appeal, mobile.de GmbH, formerly mobile.international GmbH, seeks to have the judgment of the General Court of the European Union of 12 May 2016in mobile.international v EUIPO -- Rezon (mobile.de) ( T‑322/14 and T‑325/14, not published, EU:T:2016:297; `the judgment under appeal') set aside, by which that Court dismissed its two actions seeking the annulment of the decisions of the First Board of Appeal of the European Union Intellectual Property Office (EUIPO) of 9 January (Case R 922/2013-1) and 13 February 2014 (Case R 951/2013-1) ( `the contested decisions'), both concerning invalidity proceedings between mobile.international and Rezon OOD.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>Regulation (EC) No 207/2009</p>
+        </tblock>
+        <paragraph eId="para_6885">
+          <num>2</num>
+          <content eId="para_6885__content">
+            <p>Article 8 of Council Regulation (EC) No 207/2009 of 26 February 2009 on the European Union trade mark ( OJ 2009 L 78, p. 1), as amended by Regulation (EU) 2015/2424 of the European Parliament and of the Council of 16 December 2015 ( OJ 2015 L 341, p. 21; `Regulation No 207/2009'), provides: `1.   Upon opposition by the proprietor of an earlier trade mark, the trade mark applied for shall not be registered: ...</p>
+            <blockList>
+              <item>
+                <num>(b)</num>
+                <p>if, because of its identity with, or similarity to, the earlier trade mark and the identity or similarity of the goods or services covered by the trade marks there exists a likelihood of confusion on the part of the public in the territory in which the earlier trade mark is protected; the likelihood of confusion includes the likelihood of association with the earlier trade mark. 2.   For the purposes of paragraph 1, ``earlier trade marks '' means:</p>
+              </item>
+              <item>
+                <num>(a)</num>
+                <p>trade marks of the following kinds with a date of application for registration which is earlier than the date of application for registration of the European Union trade mark, taking account, where appropriate, of the priorities claimed in respect of those trade marks: ...</p>
+              </item>
+              <item>
+                <num>(ii)</num>
+                <p>trade marks registered in a Member State ... ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6886">
+          <num>3</num>
+          <content eId="para_6886__content">
+            <p>Article 15 of Regulation No 207/2009 reads as follows: `1.   If, within a period of five years following registration, the proprietor has not put the EU trade mark to genuine use in the European Union in connection with the goods or services in respect of which it is registered, or if such use has been suspended during an uninterrupted period of five years, the EU trade mark shall be subject to the sanctions provided for in this Regulation, unless there are proper reasons for non-use. The following shall also constitute use within the meaning of the first subparagraph:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>use of the EU trade mark in a form differing in elements which do not alter the distinctive character of the mark in the form in which it was registered, regardless of whether or not the trade mark in the form as used is also registered in the name of the proprietor; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6887">
+          <num>4</num>
+          <content eId="para_6887__content">
+            <p>Article 53(1) of that regulation states as follows: `The EU trade mark shall be declared invalid on application to [EUIPO] [...]:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>where there is an earlier trade mark as referred to in Article 8(2) and the conditions set out in paragraph 1 or paragraph 5 of that Article are fulfilled; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6888">
+          <num>5</num>
+          <content eId="para_6888__content">
+            <p>Article 54 of that regulation concerns the limitation in consequence of acquiescence.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6889">
+          <num>6</num>
+          <content eId="para_6889__content">
+            <p>Pursuant to Article 57 of that regulation: `1.   On the examination of the application for revocation of rights or for a declaration of invalidity, [EUIPO] shall invite the parties, as often as necessary, to file observations, within a period to be fixed by [EUIPO], on communications from the other parties or issued by itself. 2.   If the proprietor of the EU trade mark so requests, the proprietor of an earlier EU trade mark, being a party to the invalidity proceedings, shall furnish proof that, during the period of five years preceding the date of the application for a declaration of invalidity, the earlier EU trade mark has been put to genuine use in the Union in connection with the goods or services in respect of which it is registered and which the proprietor of that earlier trade mark cites as justification for his application, or that there are proper reasons for non-use, provided that the earlier EU trade mark has at that date been registered for not less than five years. ... In the absence of proof to this effect the application for a declaration of invalidity shall be rejected. If the earlier EU trade mark has been used only in relation to part of the goods or services for which it is registered, it shall, for the purpose of the examination of the application for a declaration of invalidity, be deemed to be registered in respect of that part of the goods or services only. 3.   Paragraph 2 shall apply to earlier national trade marks referred to in Article 8(2)(a), by substituting use in the Member State in which the earlier national trade mark is protected for use in the Union. ... 5.   If the examination of the application for revocation of rights or for a declaration of invalidity reveals that the trade mark should not have been registered in respect of some or all of the goods or services for which it is registered, the rights of the proprietor of the Community trade mark shall be revoked or it shall be declared invalid in respect of those goods or services. Otherwise the application for revocation of rights or for a declaration of invalidity shall be rejected. ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6890">
+          <num>7</num>
+          <content eId="para_6890__content">
+            <p>Article 63(2) of Regulation No 207/2009 provides: `In the examination of the appeal, the Board of Appeal shall invite the parties, as often as necessary, to file observations, within a period to be fixed by the Board of Appeal, on communications from the other parties or issued by itself.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6891">
+          <num>8</num>
+          <content eId="para_6891__content">
+            <p>Article 64 of that regulation provides: `1.   Following the examination as to the allowability of the appeal, the Board of Appeal shall decide on the appeal. The Board of Appeal may either exercise any power within the competence of the department which was responsible for the decision appealed or remit the case to that department for further prosecution. 2.   If the Board of Appeal remits the case for further prosecution to the department whose decision was appealed, that department shall be bound by the ratio decidendi of the Board of Appeal, in so far as the facts are the same. ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6892">
+          <num>9</num>
+          <content eId="para_6892__content">
+            <p>Article 76(2) of Regulation No 207/2009 states as follows: `[EUIPO] may disregard facts or evidence which are not submitted in due time by the parties concerned.'</p>
+            <tblock>
+              <p>The implementing regulation</p>
+            </tblock>
+            <p>10 Rule 22(2) of Commission Regulation (EC) No 2868/95 of 13 December 1995 implementing Council Regulation No 40/94 on the Community trade mark ( OJ 1995 L 303, p. 1), as amended by Commission Regulation (EC) No 1041/2005 of 29 June 2005 ( OJ 2005 L 172, p. 4) ( `the Implementing Regulation'), provides: `Where the opposing party has to furnish proof of use or show that there are proper reasons for non-use, [EUIPO] shall invite him to provide the proof required within such period as it shall specify. If the opposing party does not provide such proof before the time limit expires, [EUIPO] shall reject the opposition.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6893">
+          <num>11</num>
+          <content eId="para_6893__content">
+            <p>Rule 22(3) and</p>
+            <blockList>
+              <item>
+                <num>(4)</num>
+                <p>of the Implementing Regulation concerns the information and evidence to be produced to prove the use of the mark.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6894">
+          <num>12</num>
+          <content eId="para_6894__content">
+            <p>Rule 40(6) of the same regulation provides: `If the applicant has to furnish proof of use or proof that there are proper reasons for non-use under Article [57](2) or</p>
+            <blockList>
+              <item>
+                <num>(3)</num>
+                <p>of [Regulation No 207/2009], [EUIPO] shall invite the applicant to furnish proof of genuine use of the mark, within such period as it may specify. If the proof is not provided within the time limit set, the application for declaration of invalidity shall be rejected. Rule 22(2) ... is to apply mutatis mutandis.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6895">
+          <num>13</num>
+          <content eId="para_6895__content">
+            <p>Rule 50(1) of that regulation states: `Unless otherwise provided, the provisions relating to proceedings before the department which has made the decision against which the appeal is brought shall be applicable to appeal proceedings mutatis mutandis. ... Where the appeal is directed against a decision of an Opposition Division, the Board shall limit its examination of the appeal to facts and evidence presented within the time-limits set in or specified by the Opposition Division in accordance with [Regulation No 207/2009] and these Rules, unless the Board considers that additional or supplementary facts and evidence should be taken into account pursuant to Article 76(2) of [Regulation No 207/2009].'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Background to the dispute</p>
+        </tblock>
+        <paragraph eId="para_6896">
+          <num>14</num>
+          <content eId="para_6896__content">
+            <p>On 17 November 2008, the appellant filed two applications for EU trade marks with EUIPO concerning the word mark `mobile.de' ( `the word mark') and the figurative sign reproduced below ( `the figurative mark'), respectively:</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6897">
+          <num>15</num>
+          <content eId="para_6897__content">
+            <p>The goods and services in respect of which registration was sought are in Classes 9, 16, 35, 38 and 42 of the Nice Agreement concerning the International Classification of Goods and Services for the Purposes of the Registration of Marks of 15 June 1957, as revised and amended ( `the Nice Agreement').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6898">
+          <num>16</num>
+          <content eId="para_6898__content">
+            <p>The figurative and word marks were registered on 26 January and 29 September 2010 respectively.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6899">
+          <num>17</num>
+          <content eId="para_6899__content">
+            <p>On 18 January 2011, Rezon filed two applications for a declaration of invalidity of the word mark and the figurative mark respectively with EUIPO, under Article 53(1) of Regulation No 207/2009, read in conjunction with Article 8(1)(b) of that regulation. In support of those applications, Rezon relied on the Bulgarian figurative mark registered on 20 April 2005 ( `the earlier national mark at issue') and reproduced below:</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6900">
+          <num>18</num>
+          <content eId="para_6900__content">
+            <p>The earlier national mark at issue was registered for services in Classes 35, 39 and 42 within the meaning of the Nice Agreement and corresponding to the following description:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>Class 35: `Advertising; business management; business administration; office function';</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>Class 39: `Transport; packaging and storage of goods; travel arrangement' and</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>Class 42: `Scientific and technological services and research and related design services; industrial analysis and research services; design and development of computer hardware and software; legal services'.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6901">
+          <num>19</num>
+          <content eId="para_6901__content">
+            <p>However, the applications for a declaration of invalidity were based solely on the services in Classes 35 and 42 of the Nice Agreement.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6902">
+          <num>20</num>
+          <content eId="para_6902__content">
+            <p>Before the Cancellation Division of EUIPO ( `the Cancellation Division'), the appellant requested that Rezon provide proof of use of the earlier national mark in question, in accordance with Article 57(2) and (3) of Regulation No 207/2009, in respect of the services falling within those two classes.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6903">
+          <num>21</num>
+          <content eId="para_6903__content">
+            <p>By two decisions of 28 March 2013, the Cancellation Division rejected the applications for a declaration of invalidity on the ground that Rezon had not adduced that evidence.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6904">
+          <num>22</num>
+          <content eId="para_6904__content">
+            <p>Seised of appeals brought by Rezon against those decisions, the Board of Appeal, after taking into account, pursuant to Article 76(2) of Regulation No 207/2009, a series of additional elements of evidence produced for the first time in the appeal, found, in paragraph 61 of each of the contested decisions, that Rezon had proved genuine use of the earlier national mark at issue for advertising services for motor vehicles in Class 35 of the Nice Agreement. Accordingly, in paragraph 62 of those decisions, it annulled the decisions of the Cancellation Division. Since the parties did not put forward any arguments concerning the application of Article 8(1), (b) of Regulation No 207/2009, and the Cancellation Division did not examine the likelihood of confusion, the Board of Appeal, in paragraph 62 of those decisions, decided to refer the cases to that Division for examination of the applications for a declaration of invalidity, pursuant to Article 64 of that regulation.</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The actions before the General Court and the judgment under appeal</p>
+        </tblock>
+        <paragraph eId="para_6905">
+          <num>23</num>
+          <content eId="para_6905__content">
+            <p>By applications lodged at the Registry of the General Court on 6 May (Case T‑325/14) and 7 May 2014 (Case T‑322/14), the appellant brought two actions for annulment of the contested decisions.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6906">
+          <num>24</num>
+          <content eId="para_6906__content">
+            <p>After having ordered, by a decision of 4 March 2016, the joinder of Cases T‑322/14 and T‑325/14 for the purposes of the decision closing the proceedings, the General Court, by the judgment under appeal, dismissed those actions in their entirety.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Forms of order sought by the parties</p>
+        </tblock>
+        <paragraph eId="para_6907">
+          <num>25</num>
+          <content eId="para_6907__content">
+            <p>By its appeal, the appellant claims that the Court should;</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>set aside the judgment under appeal and</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>order EUIPO to pay the costs.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6908">
+          <num>26</num>
+          <content eId="para_6908__content">
+            <p>EUIPO and Rezon contend that the Court should dismiss the appeal and order the appellant to pay the costs.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The request for the reopening of the oral procedure</p>
+        </tblock>
+        <paragraph eId="para_6909">
+          <num>27</num>
+          <content eId="para_6909__content">
+            <p>Following the delivery of the Advocate General's Opinion, the appellant, by document filed at the Registry of the Court of Justice on 26 January 2018, requested an order that the oral part of the proceedings be reopened. In support of that request, the appellant submits that it is apparent from Article 10(7) and Article 19(2) of Commission Delegated Regulation (EU) 2017/1430 of 18 May 2017 supplementing Council Regulation (EC) No 207/2009 on the European Union trade mark and repealing Commission Regulations (EC) No 2868/95 and (EC) No 216/96 ( OJ 2017 L 205, p. 1), made applicable from 1 October 2017, subject to certain exceptions, that only `valid reasons' can justify EUIPO taking into account, under Article 76(2) of Regulation No 207/2009, additional evidence of use of an earlier mark submitted out of time by the applicant for a declaration of invalidity. It follows therefrom that the second ground of appeal is well founded. Furthermore, by expressing the view, in point 40 of her Opinion, that the sixth ground of appeal is unfounded as a result of the discretion enjoyed by EUIPO to take into account additional evidence, the Advocate General does not deal with the question as to whether that discretion has been exercised without any error of law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6910">
+          <num>28</num>
+          <content eId="para_6910__content">
+            <p>It must be borne in mind that the Statute of the Court of Justice of the European Union and the Rules of Procedure of the Court of Justice make no provision for interested parties to submit observations in response to the Advocate General's Opinion (judgment of 4 September 2014, Vnuk, C‑162/13, EU:C:2014:2146, paragraph 30 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6911">
+          <num>29</num>
+          <content eId="para_6911__content">
+            <p>Pursuant to the second paragraph of Article 252 TFEU, it is the duty of the Advocate General, acting with complete impartiality and independence, to make, in open court, reasoned submissions on cases which, in accordance with the Statute of the Court of Justice of the European Union, require the Advocate General's involvement. The Court is not bound either by the Advocate General's Opinion or by the reasoning on which it is based (judgment of 17 September 2015, Mory and Others v Commission, C‑33/14 P, EU:C:2015:609, paragraph 25).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6912">
+          <num>30</num>
+          <content eId="para_6912__content">
+            <p>Consequently, a party's disagreement with the Opinion of the Advocate General, irrespective of the questions that he examines in his Opinion, cannot in itself constitute grounds justifying the reopening of the oral part of the procedure (judgment of 17 September 2015, Mory and Others v Commission, C‑33/14 P, EU:C:2015:609, paragraph 26).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6913">
+          <num>31</num>
+          <content eId="para_6913__content">
+            <p>Be that as it may, the Court may at any moment, having heard the Advocate General, order the reopening of the oral procedure under Article 83 of its Rules of Procedure if, inter alia, it considers that it lacks sufficient information or where the case must be decided on the basis of an argument which has not been debated between the parties or the interested persons referred to in Article 23 of the Statute of the Court of Justice of the European Union (judgment of 29 April 2015, Nordzucker, C‑148/14, EU:C:2015:287, paragraph 24).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6914">
+          <num>32</num>
+          <content eId="para_6914__content">
+            <p>That is not the situation in the present case. Indeed, in the same way as EUIPO and Rezon, the appellant was able to set out, during the written procedure, all its factual and legal arguments in support of its claims, including those concerning the possibility of adducing, in the context of proceedings for a declaration of invalidity, additional evidence of use of an earlier mark under Article 76(2) of Regulation No 207/2009. Thus, the Court takes the view, having heard the Advocate General, that it has all the elements necessary to rule in the case and that those elements have been debated before it.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6915">
+          <num>33</num>
+          <content eId="para_6915__content">
+            <p>Having regard to the foregoing considerations, the Court is of the view that it is not appropriate to order the reopening of the oral procedure.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The appeal</p>
+        </tblock>
+        <tblock>
+          <p>Admissibility of the appeal</p>
+        </tblock>
+        <paragraph eId="para_6916">
+          <num>34</num>
+          <content eId="para_6916__content">
+            <p>Rezon submits that the appeal does not contain any clear indication regarding the merits which would necessitate a re-examination of the judgment under appeal. Furthermore, the appellant does not demonstrate either a legal interest in bringing such an appeal or an interest in bringing proceedings. The power of attorney attached to that appeal does not contain any expression of intention concerning a possible power of representation before the EU Courts. That power of attorney relates to previous proceedings and its terms are not sufficiently precise to form the basis of such a power.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6917">
+          <num>35</num>
+          <content eId="para_6917__content">
+            <p>According to the settled case-law of the Court, it follows from the second subparagraph of Article 256(1) TFEU, the first paragraph of Article 58 of the Statute of the Court of Justice and Article 168(1)(d) of the Rules of Procedure of the Court that an appeal must indicate precisely the contested elements of the judgment which the appellant seeks to have set aside and the legal arguments specifically advanced in support of the appeal. In that regard, it is required, under Article 169(2) of that regulation, that the pleas in law and legal arguments relied on identify precisely those points in the grounds of the judgment of the General Court which are contested (judgment of 20 September 2016, Mallis and Others v Commission and ECB, C‑105/15 P to C‑109/15 P, EU:C:2016:702, paragraphs 33 and 34).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6918">
+          <num>36</num>
+          <content eId="para_6918__content">
+            <p>In the present case, those requirements are clearly satisfied. The present appeal states with all the required clarity the elements of the judgment under appeal which are disputed and the pleas in law and arguments put forward in order to have that judgment set aside.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6919">
+          <num>37</num>
+          <content eId="para_6919__content">
+            <p>Moreover, it must be borne in mind that, under the second paragraph of Article 56 of the Statute of the Court of Justice of the European Union, while an appeal may be brought by any party which has been unsuccessful, in whole or in part, in its submissions, interveners other than the Member States and the EU institutions may bring such an appeal only where the decision of the General Court directly affects them.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6920">
+          <num>38</num>
+          <content eId="para_6920__content">
+            <p>In the present case, since mobile.de acted as applicant and not as intervener at first instance and it was entirely unsuccessful, that fact alone justifies its locus standi and its interest in bringing the present appeal, without it having to demonstrate that the judgment under appeal affects it directly (see, to that effect, judgment of 5 April 2017, EUIPO v Szajner, C‑598/14 P, EU:C:2017:265, paragraph 24).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6921">
+          <num>39</num>
+          <content eId="para_6921__content">
+            <p>Finally, the lawyer representing the appellant in the present appeal has, in accordance with Article 44(1) b) of the Rules of Procedure of the Court, proven his status by an authority to act issued by that company for the purposes of their representation in any disputes relating to trade mark law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6922">
+          <num>40</num>
+          <content eId="para_6922__content">
+            <p>It follows that the present appeal cannot be dismissed at the outset as being inadmissible in its entirety.</p>
+            <tblock>
+              <p>Substance The first and second grounds of appeal</p>
+            </tblock>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>Arguments of the parties</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6923">
+          <num>41</num>
+          <content eId="para_6923__content">
+            <p>By its first ground of appeal, the appellant submits that, by holding that the Board of Appeal was entitled to take account of evidence of genuine use of the earlier national mark at issue produced for the first time before it, the General Court infringed Article 57(2) and (3) of Regulation No 207/2009 and Rule 22(2) and Rule 40(6) of the Implementing Regulation. In that regard, the General Court was incorrect to hold, in paragraphs 27 and 28 of the judgment under appeal, that, where some evidence intended to demonstrate that use was produced within the period prescribed by EUIPO, the invalidity proceedings must, in principle, take their course.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6924">
+          <num>42</num>
+          <content eId="para_6924__content">
+            <p>That reasoning would be contrary to both the wording and the scheme of the various provisions. The concept of `evidence' within the meaning of Article 57(2) of Regulation No 207/2009 requires that the applicant for a declaration of invalidity actually prove genuine use of the earlier trade mark concerned. In the absence of proof to that effect, the application for a declaration of invalidity must be rejected. Similarly, Rule 22(2) and Rule 40(6) of the Implementing Regulation specifies that an opposition and an application for a declaration of invalidity must be rejected where `proof of use' is not provided within the prescribed period. In that regard, Article 57(1) of Regulation No 207/2009, as a general procedural provision, is superseded by the more specific provisions laid down in Article 57(2) of that regulation and by those rules.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6925">
+          <num>43</num>
+          <content eId="para_6925__content">
+            <p>By its second ground of appeal, alleging infringement of Article 76(2) of Regulation No 207/2009, the appellant reproaches the General Court, firstly, for having applied that provision. Indeed, it applies only `unless otherwise provided'. The fact is that Rule 22(2) and Rule 40(6) of the Implementing Regulation are precisely such contrary provisions. In addition, while the third subparagraph of Rule 50(1) of that regulation contains a special rule enabling the Board of Appeal to take account of new facts in opposition proceedings, there is no such special rule for invalidity proceedings. It is, moreover, consistent with the objective of those rules that the Boards of Appeal have such discretion only in the context of opposition proceedings, since, unlike the opposing party, who is bound by a very short deadline, the holder of an earlier right can choose the time at which the invalidity proceedings are brought and, in the absence of opposition, the proprietor of a trade mark is entitled legitimately to be confident of its existence.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6926">
+          <num>44</num>
+          <content eId="para_6926__content">
+            <p>Secondly, the General Court, in paragraphs 40 to 44 of the judgment under appeal, relied exclusively on the fact that the evidence produced out of time had true relevance, without considering either the stage of the proceedings at which it was produced or whether the surrounding circumstances precluded its being taken into account. In the present case, the applicant for a declaration of invalidity already had the evidence in question when the procedure was commenced and on several occasions had the opportunity to take a position on the appellant's criticisms regarding the evidential value of that evidence.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6927">
+          <num>45</num>
+          <content eId="para_6927__content">
+            <p>Thirdly, the appellant submits that, contrary to the General Court's findings in paragraph 42 of the judgment under appeal, the invoices produced before the Board of Appeal did not constitute confirmation or clarification of lists of invoices produced before the Cancellation Division. In that regard, in paragraph 43 of that judgment, the General Court distorted the facts and evidence. The General Court relied on contradictory arguments by considering both, on the one hand, that those lists were already of considerable probative value before the Cancellation Division and, on the other, that only those invoices permitted it to be understood that those lists were lists of invoices. Moreover, the General Court distorted the facts by stating that the appellant had acknowledged that it had been able to understand the reference `advertising on mobile.bg' in Bulgarian, since the appellant has not been able to identify from the lists any reference to the provision of advertising services.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6928">
+          <num>46</num>
+          <content eId="para_6928__content">
+            <p>EUIPO, supported by Rezon, is of the opinion that these two grounds of appeal are unfounded.</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>Findings of the Court</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6929">
+          <num>47</num>
+          <content eId="para_6929__content">
+            <p>Under Article 76(2) of Regulation No 207/2009, EUIPO may disregard facts or evidence which are not submitted in due time by the parties concerned.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6930">
+          <num>48</num>
+          <content eId="para_6930__content">
+            <p>In accordance with the settled case-law of the Court, recalled by the General Court in paragraph 25 of the judgment under appeal, it follows from the wording of that provision that, as a general rule and unless otherwise specified, the submission of facts and evidence by the parties remains possible after the expiry of the time limits to which such submission is subject under the provisions of Regulation No 207/2009 and EUIPO is in no way prohibited from taking account of facts and evidence which are submitted or produced out of time (judgments of 13 March 2007, OHIM v Kaul, C‑29/05 P, EU:C:2007:162, paragraph 42, and of 4 May 2017, Comercializadora Eloro v EUIPO, C‑71/16 P, not published, EU:C:2017:345, paragraph 55).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6931">
+          <num>49</num>
+          <content eId="para_6931__content">
+            <p>By stating that EUIPO `may', in such a case, decide to disregard such evidence, that provision grants EUIPO broad discretion to decide, while giving reasons for its decision in that regard, whether or not to take such evidence into account (judgments of 13 March 2007, OHIM v Kaul, C‑29/05 P, EU:C:2007:162, paragraphs 43, 63 and 68, and of 4 May 2017, Comercializadora Eloro v EUIPO, C‑71/16 P, not published, EU:C:2017:345, paragraph 56).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6932">
+          <num>50</num>
+          <content eId="para_6932__content">
+            <p>Since the first and second grounds of appeal raised by the appellant concern the power of discretion of the Board of Appeal, it is necessary, in order to determine whether there is a `provision specifying otherwise' in Article 76(2) of Regulation No 207/2009 capable of depriving EUIPO of that discretion, to refer to the rules governing the appeal proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6933">
+          <num>51</num>
+          <content eId="para_6933__content">
+            <p>In that regard, the first subparagraph of Rule 50(1) of the Implementing Regulation provides that, unless otherwise provided, the provisions relating to proceedings before the department which made the contested decision are to be applicable to appeal proceedings mutatis mutandis.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6934">
+          <num>52</num>
+          <content eId="para_6934__content">
+            <p>However, as regards the submission of proof of genuine use of the earlier mark pursuant to Article 57(2) or (3) of Regulation No 207/2009, in the context, as in the present case, of invalidity proceedings brought on the basis of Article 53(1)(a) of that regulation, Rule 40(6) of the Implementing Regulation provides that EUIPO is to invite the proprietor of the earlier mark to prove the use of that mark during a period which it is to specify.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6935">
+          <num>53</num>
+          <content eId="para_6935__content">
+            <p>Although it follows from the wording of that rule that, when no proof of use of the mark concerned is produced within the time limit set by EUIPO, the application for a declaration of invalidity must be rejected by EUIPO of its own motion, such a conclusion does not, however, pertain, as the General Court rightly held in paragraph 27 of the judgment under appeal, where some evidence intended to show that use have been produced within that time limit (see, by analogy, judgments of 26 September 2013, Centrotherm Systemtechnik v OHIMandcentrotherm Clean Solutions, C‑610/11 P, EU:C:2013:593, paragraph 86, and of 4 May 2017, Comercializadora Eloro v EUIPO, C‑71/16 P, not published, EU:C:2017:345, paragraph 58).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6936">
+          <num>54</num>
+          <content eId="para_6936__content">
+            <p>In such a case, and unless it emerges that that evidence is entirely irrelevant for the purpose of establishing genuine use of the earlier mark in question, the proceedings must take their course. EUIPO must, inter alia, as provided for by Article 57(1) of Regulation No 207/2009, invite the parties, as often as necessary, to file observations on communications from the other parties or issued by EUIPO itself. In such a context, if the application for a declaration of invalidity is rejected on the ground that the earlier mark concerned was not subject to genuine use, that rejection does not proceed from application of Rule 40(6) of the Implementing Regulation, an essentially procedural provision, but solely from application of the substantive provisions in Article 57(2) or (3) of Regulation No 207/2009 (see, by analogy, judgment of 26 September 2013 in Centrotherm Systemtechnik v OHIM and centrotherm Clean Solutions, C‑610/11 P, EU:C:2013:593, paragraph 87).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6937">
+          <num>55</num>
+          <content eId="para_6937__content">
+            <p>It follows therefrom that, as the General Court rightly found in paragraph 29 of the judgment under appeal, it remains possible to submit evidence of use of the mark in addition to the evidence adduced within the time period set by EUIPO under Rule 40(6) of the Implementing Regulation and that EUIPO is in no way prohibited from taking account of additional evidence which is submitted after that time under the discretion conferred upon it under Article 76(2) of Regulation No 207/2009 (see, by analogy, judgment of 26 September 2013, Centrotherm Systemtechnik v OHMI and centrotherm Clean Solutions, C‑610/11 P, EU:C:2013:593, paragraph 88, and order of 16 June 2016, L'Oréal v EUIPO, C‑611/15 P, not published, EU:C:2016:463, paragraph 25).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6938">
+          <num>56</num>
+          <content eId="para_6938__content">
+            <p>Accordingly, Rule 40(6) of the Implementing Regulation does not, contrary to the appellant's submissions, constitute a provision contrary to Article 76(2) of Regulation No 207/2009, with the result that the Board of Appeal is not entitled to take account of additional evidence of use of the earlier mark in question produced by the applicant for a declaration of invalidity in support of its action before it (see, by analogy, judgment of 26 September 2013, Centrotherm Systemtechnik v OHMI and centrotherm Clean Solutions, C‑610/11 P, EU:C:2013:593, paragraph 88).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6939">
+          <num>57</num>
+          <content eId="para_6939__content">
+            <p>As regards the appeal procedure, the Court has already held that it follows from Article 63(2) of Regulation No 207/2009, read in conjunction with Article 76(2) of that regulation, that, for the purposes of the examination of the merits of the appeal brought before it, the Board of Appeal is not only to invite the parties, as often as necessary, to file, within time limits which it sets, observations on notifications which it has sent to them, but may also decide on measures of inquiry, including the production of facts or evidence. In turn, such provisions demonstrate the possibility of seeing the underlying facts of a dispute multiply at various stages of the proceedings before EUIPO (see, to that effect, judgment of 13 March 2007, OHIM v Kaul, C‑29/05 P, EU:C:2007:162, paragraph 58).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6940">
+          <num>58</num>
+          <content eId="para_6940__content">
+            <p>Nor can the appellant argue that the third subparagraph of Rule 50(1) of the Implementing Regulation constitutes a provision contrary to Article 76(2) of Regulation No 207/2009.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6941">
+          <num>59</num>
+          <content eId="para_6941__content">
+            <p>In that regard, it must be borne in mind that, under the third subparagraph of Rule 50(1), where the appeal is directed against a decision of an Opposition Division, the Board of Appeal must limit its examination of the appeal to facts and evidence presented within the time limits set or specified by the Opposition Division, unless the Board considers that additional or supplementary facts and evidence must be taken into account pursuant to Article 76(2) of Regulation No 207/2009.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6942">
+          <num>60</num>
+          <content eId="para_6942__content">
+            <p>Thus, the Implementing Regulation expressly provides that the Board of Appeal enjoys, when examining an appeal directed against a decision of the Opposition Division, the discretion deriving from the third subparagraph of Rule 50(1) of that regulation and from Article 76(2) of Regulation No 207/2009 to decide whether or not to take into account additional or supplementary facts and evidence which were not presented within the time limits set or specified by the Opposition Division (judgment of 3 October 2013, Rintisch v OHIM, C‑122/12 P, EU:C:2013:628, paragraph 33).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6943">
+          <num>61</num>
+          <content eId="para_6943__content">
+            <p>However, it cannot be inferred therefrom, a contrario, that during the examination of an appeal against a decision of a Cancellation Division, the Board of Appeal does not have such discretion. As the Court has previously held, the third subparagraph of Rule 50(1) of the Implementing Regulation is merely the expression, as regards the examination of an appeal against a decision of an Opposition Division, of the principle flowing from Article 76(2) of Regulation No 207/2009, which constitutes the legal basis for Rule 50 and contains a rule which applies horizontally within the scheme of that regulation, which, accordingly, applies irrespective of the nature of the proceedings concerned (see, to that effect, judgment of 21 July 2016, EUIPO v Grau Ferrer, C‑597/14 P, EU:C:2016:579, paragraphs 25 and 27).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6944">
+          <num>62</num>
+          <content eId="para_6944__content">
+            <p>Accordingly, the General Court did not err in law in finding, in paragraphs 24 to 29 of the judgment under appeal, that the Board of Appeal is entitled, when examining an appeal directed against a decision of a Cancellation Division, to take into account additional evidence of genuine use of the earlier mark concerned not produced within the time limits set by that division.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6945">
+          <num>63</num>
+          <content eId="para_6945__content">
+            <p>As for the remainder, in that the appellant complains that the General Court made an incomplete assessment of the criteria justifying the taking into account of that evidence, it is appropriate to recall that when EUIPO is called upon to give judgment in the context of invalidity proceedings, taking facts or evidence into account which have been produced out of time is particularly likely to be justified where EUIPO considers, firstly, that the material which has been produced late is, on the face of it, likely to be relevant to the outcome of the application for a declaration of invalidity brought before it and, secondly, that the stage of the proceedings at which that late submission takes place and the circumstances surrounding it do not argue against such matters being taken into account (see, by analogy, judgments of 13 March 2007, OHMI v Kaul, C‑29/05 P, EU:C:2007:162, paragraph 44, and of 4 May 2017, Comercializadora Eloro v EUIPO, C‑71/16 P, not published, EU:C:2017:345, paragraph 59).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6946">
+          <num>64</num>
+          <content eId="para_6946__content">
+            <p>In the present case, it is sufficient to note that, in paragraphs 39 to 44 of the judgment under appeal, the General Court examined not only whether the evidence produced late had any real relevance, but also whether the stage of the proceedings at which that late submission took place and the circumstances surrounding precluded the taking into account of such evidence.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6947">
+          <num>65</num>
+          <content eId="para_6947__content">
+            <p>Finally, in so far as the appellant complains that the General Court incorrectly assessed the probative value and distorted the content of certain items of evidence, it must be recalled that it follows from Article 256 TFEU and the first paragraph of Article 58 of the Statute of the Court of Justice of the European Union that the appeal is limited to points of law. The General Court thus has exclusive jurisdiction to find and appraise the relevant facts and to assess the evidence. The appraisal of those facts and the assessment of that evidence thus do not, save where the facts and evidence are distorted, constitute a point of law which is subject, as such, to review by the Court of Justice on appeal (judgment of 17 March 2016, Naazneen Investments v OHIM, C‑252/15 P, not published, EU:C:2016:178, paragraph 59).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6948">
+          <num>66</num>
+          <content eId="para_6948__content">
+            <p>Furthermore, given the exceptional nature of a complaint of distortion of the facts and evidence, both the provisions referred to and Article 168(1)(d) of the Rules of Procedure of the Court of Justice require, in particular, that an appellant indicate precisely the elements alleged to have been distorted by the General Court and show the errors of appraisal which, in its view, led to that distortion. Such a distortion must be obvious from the documents in the file, without there being any need to carry out a new assessment of the facts and evidence (judgment of 22 September 2016, Pensa Pharma v EUIPO, C‑442/15 P, EU:C:2016:720, paragraphs 21 and 60).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6949">
+          <num>67</num>
+          <content eId="para_6949__content">
+            <p>In the present case, it must be stated that, although purporting to complain that the General Court distorted the evidence, the appellant, in reality, seeks to have the Court undertake a fresh appraisal thereof as regards whether the invoices produced for the first time before the Board of Appeal were intended, as the General Court held in paragraph 42 of the judgment under appeal, to reinforce and clarify the content of the evidence produced before the Cancellation Division. It does not seek, however, to establish, by precisely identifying the evidence allegedly distorted, that the General Court made findings in that regard that were manifestly inconsistent with the content of the documents in the file or that it gave them a significance which they clearly do not have.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6950">
+          <num>68</num>
+          <content eId="para_6950__content">
+            <p>It follows therefrom that the appellant's argument must, to that extent, be rejected as inadmissible.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6951">
+          <num>69</num>
+          <content eId="para_6951__content">
+            <p>Having regard to all the foregoing, the first and second grounds of appeal must be rejected as, in part, inadmissible and, in part, unfounded.</p>
+            <tblock>
+              <p>The third ground of appeal</p>
+            </tblock>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>Arguments of the parties</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6952">
+          <num>70</num>
+          <content eId="para_6952__content">
+            <p>By its third ground of appeal, the appellant complains that the General Court infringed Article 15(1)(a) of Regulation No 207/2009 in that it did not take account of the differences, some aural and some conceptual, between the signs at issue.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6953">
+          <num>71</num>
+          <content eId="para_6953__content">
+            <p>First of all, the General Court omitted, in paragraphs 51 to 61 of the judgment under appeal, to carry out a phonetic analysis of the marks at issue. However, from an aural point of view, the distinctive character of the earlier national mark in question would be greatly altered by the addition of the word elements `. bg'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6954">
+          <num>72</num>
+          <content eId="para_6954__content">
+            <p>Next, the General Court erred in law in finding that the distinctive character is not affected by the addition of figurative and word elements. In that regard, the General Court relied solely, in paragraph 56 of that judgment, on the various elements of the marks at issue and not on the overall impression created by those marks. Firstly, because of the weak distinctive character of the word `mobile' in the overall impression, the absence of a figurative element makes such a difference in the forms of use `mobile.bg' and `mobile bg' that the distinctive character would be limited. On the other hand, the General Court also failed to take account, in its assessment of the overall impression of the earlier national mark in question, of the addition of the word element `. bg, whereas that would limit the distinctive character of the sign as a whole.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6955">
+          <num>73</num>
+          <content eId="para_6955__content">
+            <p>Finally, the General Court omitted to examine the conceptual meaning of the sign `mobilen.bg'. Indeed, unlike `mobile', `mobilen' is a Bulgarian word in everyday language, meaning `mobile, able to move'. However, a different conceptual meaning would necessarily lead to a restriction of the distinctive character.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6956">
+          <num>74</num>
+          <content eId="para_6956__content">
+            <p>EUIPO regards that ground of appeal as unfounded.</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>Findings of the Court</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6957">
+          <num>75</num>
+          <content eId="para_6957__content">
+            <p>It must be noted at the outset that, in criticising the General Court for not having examined the aural and conceptual similarity between the earlier national mark in question as registered and the various word and figurative signs relied on in order to demonstrate genuine use of that mark, the appellant misreads the judgment under appeal.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6958">
+          <num>76</num>
+          <content eId="para_6958__content">
+            <p>It is clear from paragraphs 56 to 58 of the judgment under appeal, which refer, in part, to paragraphs 59 and 60 of that judgment, that the General Court, when it examined whether the differences between the earlier national mark at issue and those signs altered the distinctive character of that mark, assessed both their aural similarity, noting, in particular, that they share the word `mobile' and that the addition of certain terms, such as `. bg', `bg' or `n' in those signs makes negligible differences, and their conceptual similarity, highlighting the message conveyed by each of them and their perception by the public.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6959">
+          <num>77</num>
+          <content eId="para_6959__content">
+            <p>Similarly, the appellant relies on a misreading of the judgment under appeal when it complains that the General Court did not take into account the overall impression produced by the various signs. The Court expressly carried out such an examination in paragraphs 58 and 59 of the judgment under appeal. In particular, contrary to the appellant's suggestions, the General Court noted, in the latter paragraph, that the word signs relied on, having regard to the lack of a figurative element and the addition of some elements, are, overall, equivalent to the earlier national mark at issue.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6960">
+          <num>78</num>
+          <content eId="para_6960__content">
+            <p>As to the remainder, it must be held that the appellant, in the arguments which it puts forward in the context of the present ground of appeal, seeks to challenge the examination of the facts which the General Court undertook in paragraphs 56 to 60 of the judgment under appeal, in order to obtain a fresh assessment thereof by the Court of Justice, which, in accordance with the case-law cited in paragraph 65 of the present judgment, is outside the latter's jurisdiction in the context of an appeal.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6961">
+          <num>79</num>
+          <content eId="para_6961__content">
+            <p>Consequently, the third ground of appeal must be dismissed as partly inadmissible and partly unfounded.</p>
+            <tblock>
+              <p>The fourth ground of appeal</p>
+            </tblock>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>Arguments of the parties</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6962">
+          <num>80</num>
+          <content eId="para_6962__content">
+            <p>By its fourth ground of appeal, the appellant complains that the General Court infringed Article 57(2) of Regulation No 207/2009, read in conjunction with Rule 22(3) and</p>
+            <blockList>
+              <item>
+                <num>(4)</num>
+                <p>of the Implementing Regulation, in that, in paragraphs 66 to 69 of the judgment under appeal, it held that the assessments of the Board of Appeal concerning the place, time, extent and nature of the use of the earlier national trade mark at issue are not vitiated by any errors. In particular, the General Court erred when it took into account undated evidence which does not relate to the relevant period.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6963">
+          <num>81</num>
+          <content eId="para_6963__content">
+            <p>EUIPO submits that that ground of appeal is entirely unfounded.</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>Findings of the Court</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6964">
+          <num>82</num>
+          <content eId="para_6964__content">
+            <p>It is clear that, by the present ground of appeal, the appellant seeks, without criticising the General Court for the slightest distortion, to call into question the assessment which it made in paragraphs 66 to 69 of the judgment under appeal as regards the relevance of the evidence produced by Rezon to demonstrate genuine use of the earlier national mark at issue. In so doing, it seeks to obtain a fresh assessment of those elements which, in accordance with the case-law cited in paragraph 65 of the present judgment, is outside the jurisdiction of the Court of Justice in an appeal.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6965">
+          <num>83</num>
+          <content eId="para_6965__content">
+            <p>Accordingly, the fourth ground of appeal must be rejected as inadmissible.</p>
+            <tblock>
+              <p>The fifth ground of appeal</p>
+            </tblock>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>Arguments of the parties</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6966">
+          <num>84</num>
+          <content eId="para_6966__content">
+            <p>By its fifth ground of appeal, the appellant submits that the General Court infringed Article 54(2), Article 56(1)(a), and Article 64(1) of Regulation No 207/2009 in holding, in paragraphs 75 to 77 of the judgment under appeal, that the Board of Appeal was not required to rule on the question relating to the possible bad faith of the proprietor of the earlier national trade mark at issue.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6967">
+          <num>85</num>
+          <content eId="para_6967__content">
+            <p>That question concerns the admissibility of the application for a declaration of invalidity and, accordingly, it should always be verified since the appellant for a declaration of invalidity must have an interest in bringing proceedings. However, that interest is lacking where that applicant has acquired his right over the earlier national trade mark improperly and relies on it in an equally improper manner. The General Court ought therefore to have exercised the powers of the department which adopted the contested decisions. Furthermore, the General Court did not examine the objection based on limitation and thereby infringed Article 54(1) of Regulation No 207/2009.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6968">
+          <num>86</num>
+          <content eId="para_6968__content">
+            <p>EUIPO submits that that ground of appeal is unfounded.</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>Findings of the Court</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6969">
+          <num>87</num>
+          <content eId="para_6969__content">
+            <p>It should be recalled that, in accordance with Article 57(2) and (3) of Regulation No 207/2009, where the proprietor of an earlier national mark who initiated proceedings for a declaration of invalidity of an EU trade mark has failed to provide, at the request of the proprietor of that mark, proof of genuine use of that earlier national trade mark in the Member State in which it is protected during the period of five years preceding the date of the application for a declaration of invalidity for the goods or services in respect of which it is registered and on which the application was based, that application must be dismissed.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6970">
+          <num>88</num>
+          <content eId="para_6970__content">
+            <p>Since the lack of genuine use of the earlier mark, when raised by the proprietor of a disputed EU trade mark in the context of an application for a declaration of invalidity, thus constitutes, in accordance with the wording of that provision, a reason justifying in itself the rejection of that application, it is without erring in law that the General Court held, in paragraph 76 of the judgment under appeal, that the question concerning the proof of that use had to be settled before a decision is taken on the application for a declaration of invalidity and, is, therefore, in that sense, a `preliminary issue'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6971">
+          <num>89</num>
+          <content eId="para_6971__content">
+            <p>In those circumstances, since the Board of Appeal considered, in the present case, that proof of genuine use had been furnished by the proprietor of the earlier national mark at issue for some of the services forming the basis of the applications for a declaration of invalidity, and annulled, on that ground alone, the decisions of the Cancellation Division, the General Court was correct in holding, in paragraph 77 of the judgment under appeal, that the Board of Appeal was entitled, under Article 64(1) of Regulation No 207/2009, to refer the examination of the applications for declarations of invalidity back to that Division in order for it to rule, inter alia, on the applicant's arguments alleging the inadmissibility of those applications, under Article 54 of that regulation, due to the alleged bad faith of the applicant for a declaration of invalidity.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6972">
+          <num>90</num>
+          <content eId="para_6972__content">
+            <p>It is apparent from the very wording of Article 64(1) that the Board of Appeal, when ruling on an appeal, is under no obligation to exercise the powers of the department which adopted the contested decision, having a wide discretion in that regard.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6973">
+          <num>91</num>
+          <content eId="para_6973__content">
+            <p>Furthermore, the appellant cannot complain that the General Court did not examine its arguments alleging the inadmissibility of the applications for a declaration of invalidity due to limitation, since it is apparent from the application at first instance that that line of argument was closely linked to that alleging bad faith on the part of the applicant.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6974">
+          <num>92</num>
+          <content eId="para_6974__content">
+            <p>Accordingly, it must be held that, by the reasoning set out in paragraphs 76 and 77 of the judgment under appeal, the General Court implicitly, but necessarily, rejected all the appellant's arguments alleging that, in essence, the applicant was acting in bad faith.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6975">
+          <num>93</num>
+          <content eId="para_6975__content">
+            <p>Consequently, the fifth ground of appeal must be rejected as unfounded.</p>
+            <tblock>
+              <p>The sixth ground of appeal</p>
+            </tblock>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>Arguments of the parties</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6976">
+          <num>94</num>
+          <content eId="para_6976__content">
+            <p>By its sixth ground of appeal, the appellant complains that the General Court, in breach of Article 64(1) of Regulation No 207/2009, has disregarded, in paragraphs 79 to 87 of the judgment under appeal, the fact that the Board of Appeal wrongly annulled the decisions of the Cancellation Division in their entirety.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6977">
+          <num>95</num>
+          <content eId="para_6977__content">
+            <p>Since the Board of Appeal found that proof of genuine use of the earlier national mark at issue had been furnished only in respect of advertising services for motor vehicles, it ought to have annulled those decisions in respect only of those services. As regards the other services for which proof of use was not produced, the Board of Appeal, in accordance with Article 57(2) of Regulation No 207/2009 and Rule 22(2) and Rule 40(6) of the Implementing Regulation, ought to have ruled definitively and shown the partial rejection of the applications for a declaration of invalidity in an operative part capable of acquiring the force of res judicata.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6978">
+          <num>96</num>
+          <content eId="para_6978__content">
+            <p>Indeed, the objection based on lack of genuine use does not constitute, contrary to the findings of the General Court in paragraph 82 of the judgment under appeal, a preliminary issue, but should be examined as are the conditions for admissibility or the existence of a likelihood of confusion. The Board of Appeal should therefore have annulled the decisions of the Cancellation Division and remitted the case to it, specifying that the examination of the likelihood of confusion could no longer be carried out except in respect of advertising services for motor vehicles.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6979">
+          <num>97</num>
+          <content eId="para_6979__content">
+            <p>In this respect, by holding, in paragraph 85 of that judgment, that, in the context of the remittal, the Cancellation Division is bound by the finding of the Board of Appeal, the General Court disregarded the fact that, in accordance with Article 64(2) of Regulation No 207/2009, that Division is bound by the decision of the Board of Appeal only `in so far as the facts are the same'. However, if, following the remittal of the case, the applicant for a declaration of invalidity were to produce new evidence of genuine use of the earlier national mark at issue and if the Cancellation Division were to take the view that that evidence could be taken into account, under Article 76(2) of Regulation No 207/2009, the facts of the case would cease to be identical. In those circumstances, the evidence of use submitted a posteriori could be taken into account in respect of services other than those of advertising motor vehicles.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6980">
+          <num>98</num>
+          <content eId="para_6980__content">
+            <p>EUIPO submits that that ground of appeal is unfounded.</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>Findings of the Court</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6981">
+          <num>99</num>
+          <content eId="para_6981__content">
+            <p>First of all, for the same reasons as those stated in paragraphs 87 and 88 of this judgment, the sixth ground of appeal must be rejected in so far as, by that ground of appeal, the appellant complains that the General Court held, in paragraph 82 of the judgment under appeal, that proof of genuine use of an earlier national trade mark, within the meaning of Article 57(2) of Regulation No 207/2009, is a preliminary question which must be resolved before a decision is made on the applications for a declaration of invalidity.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6982">
+          <num>100</num>
+          <content eId="para_6982__content">
+            <p>As for the remainder, in so far as the appellant complains that the General Court disregarded the fact that the Board of Appeal was incorrect to annul the decisions of the Cancellation Division in its entirety, it must be borne in mind that, as the General Court also noted in paragraph 83 of the judgment under appeal, the operative part of a measure must be read in the light of the grounds (see, to that effect, order of 10 July 2001, Irish Sugar v Commission, C‑497/99 P, EU:C:2001:393, paragraph 15, and judgment of 22 October 2013, Commission v Germany, C‑95/12, EU:C:2013:676, paragraph 40).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6983">
+          <num>101</num>
+          <content eId="para_6983__content">
+            <p>Thus, Article 64(2) of Regulation No 207/2009 expressly provides that, if the Board of Appeal remits a case for further prosecution to the division whose decision was appealed, that division is bound by the ratio decidendi of the Board of Appeal, in so far as the facts are the same.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6984">
+          <num>102</num>
+          <content eId="para_6984__content">
+            <p>In the present case, it is common ground that the Board of Appeal, as is apparent from paragraph 61 of each of the contested decisions, annulled the decisions of the Cancellation Division on the ground that, contrary to the conclusions they had reached, the proof of genuine use of the earlier national trade mark at issue had been adduced by the proprietor of that mark only in respect of advertising services for motor vehicles in Class 35 of the Nice Agreement.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6985">
+          <num>103</num>
+          <content eId="para_6985__content">
+            <p>In those circumstances, since the Cancellation Division was bound, as the General Court rightly pointed out in paragraph 86 of the judgment under appeal, by that ground in the context of the remittal made by the Board of Appeal by virtue of Article 64(2) of Regulation No 207/2009, the annulment by the Board, according to paragraph 62 of the contested decisions, of the decisions of the Cancellation Division must necessarily be understood as affecting only those decisions in so far as they rejected the applications for a declaration of invalidity on the ground of the lack of proof of genuine use of the earlier national mark in respect of those advertising services for motor vehicles.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6986">
+          <num>104</num>
+          <content eId="para_6986__content">
+            <p>However, since the Board of Appeal was of the view that the proof of genuine use of the earlier national mark had not been adduced by its proprietor in respect of the other services targeted by the applications for a declaration of invalidity, namely the services in Class 35 of the Nice Arrangement other than those of advertising for motor vehicles and the services in Class 42 of the Nice Arrangement, the decisions of the Cancellation Division must be regarded, in the absence of any action brought before the General Court on that point, as having definitively rejected the applications for a declaration of invalidity as regards those services (see, by analogy, judgment of 14 November 2017, British Airways v Commission, C‑122/16 P, EU:C:2017:861, paragraphs 82 to 85 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6987">
+          <num>105</num>
+          <content eId="para_6987__content">
+            <p>It follows therefrom that it is without erring in law that the General Court concluded, in paragraph 86 of the judgment under appeal, that the Cancellation Division, in the context of the remittal made under Article 64(2) of Regulation No 207/2009, in order to assess the merits of the applications for a declaration of invalidity in the light of the relative ground for refusal provided for in Article 8(1)(b) of that regulation, can take into account only the advertising services for motor vehicles in Class 35 of the Nice Agreement.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6988">
+          <num>106</num>
+          <content eId="para_6988__content">
+            <p>It is true, as the appellant rightly observes, that the Cancellation Division, pursuant to Article 64(2) of Regulation No 207/2009, is bound only by the grounds of the decisions of the Board of Appeal, `in so far as the facts are the same'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6989">
+          <num>107</num>
+          <content eId="para_6989__content">
+            <p>Nevertheless, as the Advocate General observed, in essence, in points 44 and 46 of her Opinion, the Cancellation Division cannot, without calling into question the definitive nature of its own decisions and undermining legal certainty, examine, under Article 76(2) of Regulation No 207/2009, evidence of genuine use of the earlier national trade mark at issue in respect of the services for which it was considered by the Board of Appeal without that being challenged by the applicant for a declaration of invalidity by an action brought before the General Court, that that evidence had not been adduced.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6990">
+          <num>108</num>
+          <content eId="para_6990__content">
+            <p>Consequently, the sixth ground of appeal must be rejected as unfounded and, accordingly, the appeal must be dismissed in its entirety.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_6991">
+          <num>109</num>
+          <content eId="para_6991__content">
+            <p>In accordance with Article 184(2) of the Rules of Procedure of the Court of Justice, where the appeal is unfounded, the Court is to make a decision as to costs. Under Article 138(1) of those Rules, applicable to appeal proceedings by virtue of Article 184(1) thereof, the unsuccessful party is to be ordered to pay the costs if they have been applied for in the successful party's pleadings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6992">
+          <num>110</num>
+          <content eId="para_6992__content">
+            <p>Since EUIPO and Rezon have requested that the appellant be ordered to pay the costs and the latter has been unsuccessful, it must be ordered to pay the costs. On those grounds, the Court (First Chamber) hereby: 1. Dismisses the appeal; 2. Orders mobile.de GmbH to pay the costs incurred by the European Intellectual Property Office (EUIPO) and by Rezon ODD.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: German.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

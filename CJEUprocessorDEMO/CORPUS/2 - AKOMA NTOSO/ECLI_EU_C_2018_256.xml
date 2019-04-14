@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Grand Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>17 April 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(References for a preliminary ruling -- Citizenship of the European Union -- Right to move and reside freely within the territory of the Member States -- Directive 2004/38/EC -- Article 28(3)(a) -- Enhanced protection against expulsion -- Conditions -- Right of permanent residence -- Residence in the host Member State for the 10 years preceding the decision to expel the person concerned from that Member State -- Period of imprisonment -- Consequences as regards the continuity of the 10-year period of residence -- Connection with the overall assessment of an integrative link -- Time at which that assessment must be carried out and criteria to be taken into account in that assessment) In Joined Cases C‑316/16 and C‑424/16, REQUESTS for a preliminary ruling under Article 267 TFEU from the Verwaltungsgerichtshof Baden-Württemberg (Higher Administrative Court, Baden-Württemberg, Germany) and the Supreme Court of the United Kingdom, made by decisions of 27 April and 27 July 2016, respectively, received at the Court on 3 June and 1 August 2016, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">B</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#">Land Baden-Württemberg</party>
+      </p>
+      <p>(C‑316/16), and</p>
+      <p>
+        <party as="appellant" refersTo="#">Secretary of State for the Home Department</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#">Franco Vomero</party>
+      </p>
+      <p>(C‑424/16), THE COURT (Grand Chamber) composed of K. Lenaerts, President, A. Tizzano, Vice-President, R. Silva de Lapuerta, M. Ilešič, J.L. da Cruz Vilaça, A. Rosas and C.G. Fernlund, Presidents of Chambers, E. Juhász, C. Toader, M. Safjan, D. Šváby, A. Prechal (Rapporteur) and E. Jarašiūnas, Judges, Advocate General: M. Szpunar, Registrar: L. Hewlett, Principal Administrator, having regard to the written procedure and further to the hearing on 17 July 2017, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>B, by R. Kugler, Rechtsanwalt,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>Mr Vomero, by R. Husain QC, P. Tridimas and N. Armstrong, Barristers, and by J. Luqmani, Solicitor,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the German Government, by T. Henze and J. Möller, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the United Kingdom Government, by C. Crane, C. Brodie and S. Brandon, acting as Agents, and by R. Palmer, Barrister,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Danish Government, by M. Wolff and by C. Thorning and N. Lyshøj, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>Ireland, by L. Williams, K. Skelly and E. Creedon and by A. Joyce, acting as Agents, and by K. Mooney and E. Farrell, BL,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Greek Government, by T. Papadopoulou, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Netherlands Government, by M. Bulterman and B. Koopman, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by E. Montaguti, M. Heller and M. Wilderspin, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 24 October 2017,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_10186">
+          <num>1</num>
+          <content eId="para_10186__content">
+            <p>These requests for a preliminary ruling concern the interpretation of Article 28(3)(a) of Directive 2004/38/EC of the European Parliament and of the Council of 29 April 2004 on the right of citizens of the Union and their family members to move and reside freely within the territory of the Member States amending Regulation (EEC) No 1612/68 and repealing Directives 64/221/EEC, 68/360/EEC, 72/194/EEC, 73/148/EEC, 75/34/EEC, 75/35/EEC, 90/364/EEC, 90/365/EEC and 93/96/EEC ( OJ 2004 L 158, p. 77 and corrigenda OJ 2004 L 229, p. 35 and OJ 2005 L 197, p. 34).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10187">
+          <num>2</num>
+          <content eId="para_10187__content">
+            <p>The requests have been made in proceedings between, on the one hand, B, a Greek national, and Land Baden-Württemberg (the state of Baden-Württemberg, Germany) and, on the other hand, Mr Franco Vomero, an Italian national, and the Secretary of State for the Home Department concerning expulsion decisions taken against B and Mr Vomero, respectively.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>European Union law</p>
+        </tblock>
+        <paragraph eId="para_10188">
+          <num>3</num>
+          <content eId="para_10188__content">
+            <p>Recitals 17, 18, 23 and 24 of Directive 2004/38 state: `</p>
+            <blockList>
+              <item>
+                <num>(17)</num>
+                <p>Enjoyment of permanent residence by Union citizens who have chosen to settle long term in the host Member State would strengthen the feeling of Union citizenship and is a key element in promoting social cohesion, which is one of the fundamental objectives of the Union. A right of permanent residence should therefore be laid down for all Union citizens and their family members who have resided in the host Member State in compliance with the conditions laid down in this Directive during a continuous period of five years without becoming subject to an expulsion measure.</p>
+              </item>
+              <item>
+                <num>(18)</num>
+                <p>In order to be a genuine vehicle for integration into the society of the host Member State in which the Union citizen resides, the right of permanent residence, once obtained, should not be subject to any conditions....</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(23)</num>
+                <p>Expulsion of Union citizens and their family members on grounds of public policy or public security is a measure that can seriously harm persons who, having availed themselves of the rights and freedoms conferred on them by the Treaty, have become genuinely integrated into the host Member State. The scope for such measures should therefore be limited in accordance with the principle of proportionality to take account of the degree of integration of the persons concerned, the length of their residence in the host Member State, their age, state of health, family and economic situation and the links with their country of origin.</p>
+              </item>
+              <item>
+                <num>(24)</num>
+                <p>Accordingly, the greater the degree of integration of Union citizens and their family members in the host Member State, the greater the degree of protection against expulsion should be. Only in exceptional circumstances, where there are imperative grounds of public security, should an expulsion measure be taken against Union citizens who have resided for many years in the territory of the host Member State, in particular when they were born and have resided there throughout their life. In addition, such exceptional circumstances should also apply to an expulsion measure taken against minors, in order to protect their links with their family, in accordance with the United Nations Convention on the Rights of the Child, of 20 November 1989.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10189">
+          <num>4</num>
+          <content eId="para_10189__content">
+            <p>In Chapter III of Directive 2004/38, entitled `Right of residence', Articles 6 and 7 of that directive, respectively entitled `Right of residence for up to three months' and `Right of residence for more than three months', specify the conditions under which Union citizens and their family members have such rights of residence in a Member State other than the Member State of which those citizens are nationals.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10190">
+          <num>5</num>
+          <content eId="para_10190__content">
+            <p>In Chapter IV of Directive 2004/38, entitled `Right of permanent residence', Article 16 of that directive states: `1.   Union citizens who have resided legally for a continuous period of five years in the host Member State shall have the right of permanent residence there. This right shall not be subject to the conditions provided for in Chapter III.... 3.   Continuity of residence shall not be affected by temporary absences not exceeding a total of six months a year, or by absences of a longer duration for compulsory military service, or by one absence of a maximum of 12 consecutive months for important reasons such as pregnancy and childbirth, serious illness, study or vocational training, or a posting in another Member State or a third country. 4.   Once acquired, the right of permanent residence shall be lost only through absence from the host member State for a period exceeding two consecutive years.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10191">
+          <num>6</num>
+          <content eId="para_10191__content">
+            <p>Chapter VI of Directive 2004/38, headed `Restrictions on the right of entry and the right of residence on grounds of public policy, public security or public health', contains Articles 27 to 33 of that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10192">
+          <num>7</num>
+          <content eId="para_10192__content">
+            <p>Article 27 of Directive 2004/38, entitled `General principles', provides, in paragraphs 1 and 2: `1.   Subject to the provisions of this Chapter, Member States may restrict the freedom of movement and residence of Union citizens and their family members, irrespective of nationality, on grounds of public policy, public security or public health. These grounds shall not be invoked to serve economic ends. 2.   Measures taken on grounds of public policy or public security shall comply with the principle of proportionality and shall be based exclusively on the personal conduct of the individual concerned. Previous criminal convictions shall not in themselves constitute grounds for taking such measures. The personal conduct of the individual concerned must represent a genuine, present and sufficiently serious threat affecting one of the fundamental interests of society. Justifications that are isolated from the particulars of the case or that rely on considerations of general prevention shall not be accepted.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10193">
+          <num>8</num>
+          <content eId="para_10193__content">
+            <p>Under Article 28 of that directive, entitled `Protection against expulsion': `1.   Before taking an expulsion decision on grounds of public policy or public security, the host Member State shall take account of considerations such as how long the individual concerned has resided on its territory, his/her age, state of health, family and economic situation, social and cultural integration into the host Member State and the extent of his/her links with the country of origin. 2.   The host Member State may not take an expulsion decision against Union citizens or their family members, irrespective of nationality, who have the right of permanent residence on its territory, except on serious grounds of public policy or public security. 3.   An expulsion decision may not be taken against Union citizens, except if the decision is based on imperative grounds of public security, as defined by Member States, if they:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>have resided in the host Member State for the previous ten years; or</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>are a minor, except if the expulsion is necessary for the best interests of the child, as provided for in the United Nations Convention on the Rights of the Child of 20 November 1989.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10194">
+          <num>9</num>
+          <content eId="para_10194__content">
+            <p>Article 33 of Directive 2004/38, entitled `Expulsion as a penalty or legal consequence', provides: `1.   Expulsion orders may not be issued by the host Member State as a penalty or legal consequence of a custodial penalty, unless they conform to the requirements of Articles 27, 28 and 29. 2.   If an expulsion order, as provided for in paragraph 1, is enforced more than two years after it was issued, the Member State shall check that the individual concerned is currently and genuinely a threat to public policy or public security and shall assess whether there has been any material change in the circumstances since the expulsion order was issued.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>German law</p>
+        </tblock>
+        <paragraph eId="para_10195">
+          <num>10</num>
+          <content eId="para_10195__content">
+            <p>Paragraph 6, entitled `Loss of the right of entry and residence', of the Gesetz über die allgemeine Freizügigkeit von Unionsbürgern (Law on freedom of movement of Union citizens) of 30 July 2004 ( `the FreizügG/EU'), which is intended, inter alia, to transpose Article 28 of Directive 2004/38, provides: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>[O]nly on grounds of public policy, public security or public health (Articles 45(3) and 52(1) [TFEU]) may the right laid down in Paragraph 2(1) be declared forfeit, a document attesting to a permanent right of residence be withdrawn, or a residence permit or permanent residence permit be revoked. Entry may also be refused on the grounds referred to in the first sentence. ...</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>The existence of a criminal conviction shall not in itself constitute a sufficient ground for the adoption of the decisions or measures referred to in subparagraph 1. Only criminal convictions which have not yet been deleted from the central register may be taken into account, and only in so far as the circumstances on which they are based disclose personal conduct that constitutes a present threat to the requirements of public policy. There must be a genuine and sufficiently serious threat affecting a fundamental interest of society.</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>When a decision under subparagraph 1 is made, account must be taken in particular of how long the person concerned has resided in Germany, his age, his state of health, his family and economic situation, his social and cultural integration in Germany and the extent of his ties to his State of origin.</p>
+              </item>
+              <item>
+                <num>(4)</num>
+                <p>Once a right of permanent residence has been acquired, a determination under subparagraph 1 may be made only on serious grounds.</p>
+              </item>
+              <item>
+                <num>(5)</num>
+                <p>In the case of Union citizens and their family members who have resided in Federal territory for the previous 10 years, and in the case of minors, a determination under subparagraph 1 may be made only on imperative grounds of public security. This shall not apply to minors where the forfeiture of the right of residence is necessary in the best interests of the child. Imperative grounds of public security may exist only if the person concerned, after being convicted of one or more intentional offences, has been definitively sentenced to at least five years' imprisonment or youth custody or if, on the occasion of the most recent definitive conviction, a term of preventive detention was ordered, where the security of the Federal Republic of Germany is affected or the person concerned poses a terrorist risk....'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>United Kingdom law</p>
+        </tblock>
+        <paragraph eId="para_10196">
+          <num>11</num>
+          <content eId="para_10196__content">
+            <p>Regulation 21 of the Immigration (European Economic Area) Regulations 2006 (SI 2006/1003) is intended to implement Articles 27 and 28 of Directive 2004/38.</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The disputes in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <tblock>
+          <p>Case C‑316/16</p>
+        </tblock>
+        <paragraph eId="para_10197">
+          <num>12</num>
+          <content eId="para_10197__content">
+            <p>B is a Greek national who was born in Greece in October 1989. In 1993, following the separation of his parents, he and his mother moved to Germany, where his maternal grandparents had been living and working since 1989. His mother has, since then, worked in that Member State and now holds German as well as Greek nationality.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10198">
+          <num>13</num>
+          <content eId="para_10198__content">
+            <p>Apart from a period of two months during which his father took him to Greece and a few brief holidays, B has resided continuously in Germany since 1993. He attended school in that Member State, and obtained a secondary school leaving certificate ( Hauptschulabschluss). He is fluent in German. His knowledge of Greek, on the other hand, is such that he is only able to communicate orally and in a rudimentary manner in that language.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10199">
+          <num>14</num>
+          <content eId="para_10199__content">
+            <p>B has not, to date, been able to complete a vocational training course, as a result of, amongst other things, psychological disorders, for which he has also had to undergo psychiatric and therapeutic treatments. B worked in November and December 2012. Since then he has been unemployed.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10200">
+          <num>15</num>
+          <content eId="para_10200__content">
+            <p>B has a right of permanent residence in Germany within the meaning of Article 16 of Directive 2004/38.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10201">
+          <num>16</num>
+          <content eId="para_10201__content">
+            <p>On 7 November 2012, the Amtsgericht Pforzheim (Local Court, Pforzheim, Germany) issued an order in simplified criminal proceedings ( Strafbefehl) imposing a sentence of 90 `day-fines' on B for unlawful appropriation of a mobile telephone, extortion, attempted blackmail and intentional unlawful possession of a prohibited weapon.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10202">
+          <num>17</num>
+          <content eId="para_10202__content">
+            <p>On 10 April 2013, B held up an amusement arcade, armed with a gun loaded with rubber bullets, with the intention, in particular, of obtaining the money required to pay that fine, and extorted the sum of EUR 4200. As a result of that offence, the Landgericht Karlsruhe (Regional Court, Karlsruhe, Germany) sentenced B, on 9 December 2013, to five years and eight months' imprisonment. B has been detained continuously since 12 April 2013, initially on remand and subsequently pursuant to a custodial sentence.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10203">
+          <num>18</num>
+          <content eId="para_10203__content">
+            <p>After hearing B, the Regierungspräsidium Karlsruhe (Regional Council, Karlsruhe, Germany) determined, by decision of 25 November 2014, adopted on the basis of Paragraph 6(5) of the FreizügG/EU in conjunction with Article 28(3)(a) of Directive 2004/38, that B had lost his right of entry to and residence in Germany. B was therefore ordered to leave that Member State within one month of the entry into force of that decision, failing which he would be expelled to Greece. The duration of the prohibition on entry and residence in Germany was set at 7 years from the date on which B actually left Germany.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10204">
+          <num>19</num>
+          <content eId="para_10204__content">
+            <p>B brought an action against that decision before the Verwaltungsgericht Karlsruhe (Administrative Court, Karlsruhe, Germany), which annulled it by judgment of 10 September 2015. Land Baden-Württemberg brought an appeal against that judgment before the Verwaltungsgerichtshof Baden-Württemberg (Higher Administrative Court, Baden-Württemberg).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10205">
+          <num>20</num>
+          <content eId="para_10205__content">
+            <p>As a preliminary point, that court finds that no imperative grounds of public security, within the meaning of Paragraph 6(5) of the FreizügG/EU and of Article 28(3)(a) of Directive 2004/38, could have arisen in the circumstances of the case before it. It indicates, consequently, that if B is entitled to enhanced protection against expulsion under those provisions, it should uphold the judgment setting aside the contested decision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10206">
+          <num>21</num>
+          <content eId="para_10206__content">
+            <p>In that regard, the referring court takes the view, in the first place, that, in view of the circumstances mentioned in paragraphs 12 and 13 of this judgment and, consequently, B's deep roots in Germany, the integrative link between B and that host Member State could not have been broken by the prison sentence imposed on him, with the result that he cannot be deprived of the enhanced protection against expulsion provided for in Article 28(3)(a) of Directive 2004/38.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10207">
+          <num>22</num>
+          <content eId="para_10207__content">
+            <p>In the second place, the referring court considers that the custodial sentence imposed as a result of the offence which constitutes the ground for expulsion from the host Member State should not, in any event, be taken into account in determining whether the integrative link has been broken, interrupting the continuity of residence in that Member State for the purposes of Article 28(3)(a). Otherwise, a person sentenced to a custodial sentence of more than five years' imprisonment and who, under the applicable provisions of German law, will, in principle, still be in detention when the administrative decision determining the loss of the right of entry and residence is adopted could never benefit from the enhanced protection provided for in that provision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10208">
+          <num>23</num>
+          <content eId="para_10208__content">
+            <p>By contrast, in Member States in which expulsion is ordered as an ancillary penalty to a custodial sentence and thus before imprisonment, that custodial sentence could never be taken into account in assessing whether the integrative link has been broken and, accordingly, whether the continuity of the period of residence has been interrupted. That would give rise to unequal treatment between Union citizens as regards the enhanced protection under Article 28(3)(a) of Directive 2004/38.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10209">
+          <num>24</num>
+          <content eId="para_10209__content">
+            <p>In the third place, the referring court takes the view that, as regards the overall assessment to verify whether the integrative links with the host Member State have been broken, with the consequent loss of that enhanced protection, it is appropriate, in a case such as that at issue in the main proceedings, to take account of factors related to the detention itself. It is not the offence as such, but rather the detention, which is the reason for the interruption of the continuity of residence. In that regard, the referring court considers that it is necessary to take account of the duration of the detention, but also other criteria, such as the methods of enforcement of the sentence, the general behaviour of the person concerned during his detention and, in particular, his reflection on the offence committed, the acceptance and completion of therapies approved by the prison, the person's participation in continuing education or vocational training programmes, his participation in the imprisonment programme and achievement of the objectives specified in that programme and the maintenance of personal and family ties in the host Member State.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10210">
+          <num>25</num>
+          <content eId="para_10210__content">
+            <p>In the fourth place, noting that the Court of Justice held in paragraph 35 of the judgment of 16 January 2014, G. ( C‑400/12, EU:C:2014:9), that, in determining the extent to which the non-continuous nature of the period of residence prevents the person concerned from enjoying enhanced protection under Article 28(3)(a) of Directive 2004/38, the overall assessment of that person's situation must be made at the precise time when the question of his expulsion arises, the referring court wishes to know if there are binding provisions of Union law which allow that time to be determined.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10211">
+          <num>26</num>
+          <content eId="para_10211__content">
+            <p>According to the referring court, that determination should be subject to a harmonised solution across the Union so as to prevent a situation in which the level of protection under Article 28(3)(a) of Directive 2004/38 varies from one Member State to another depending, inter alia, on whether the expulsion decision is taken as an ancillary penalty to the custodial sentence or, on the contrary, by an administrative decision adopted during or at the end of the period of detention. In that regard, the referring court considers that the question whether or not the integrative links with the host Member State are broken must be assessed at the date on which the first instance court rules on the lawfulness of the expulsion decision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10212">
+          <num>27</num>
+          <content eId="para_10212__content">
+            <p>In those circumstances, the Verwaltungsgerichtshof Baden-Württemberg (Higher Administrative Court, Baden-Württemberg) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Is it a priori impossible for a conviction and subsequent enforcement of a custodial sentence to have the result that the integrative links of a Union citizen who entered the host Member State at the age of three must be considered to be broken, with the consequence that there is no continuous period of residence of 10 years, for the purposes of Article 28(3)(a) of Directive 2004/38, and therefore that there is no requirement to grant him protection against expulsion under [that provision], if that Union citizen has, since entering the host Member State at the age of three, spent his entire life there and no longer has any ties to the Member State of his nationality, and if the offence that resulted in conviction and enforcement of a custodial sentence was committed after he had been resident for 20 years?</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>If the answer to Question 1 is in the negative: with regard to the question of whether enforcement of a custodial sentence leads to the breaking of integrative links, must the custodial sentence imposed in respect of the offence giving rise to the expulsion be disregarded?</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>If the answers to Question 1 and Question 2 are in the negative: what criteria are to be used to determine whether the Union citizen affected in such a case nevertheless qualifies for protection against expulsion under Article 28(3)(a) of Directive 2004/38?</p>
+              </item>
+              <item>
+                <num>(4)</num>
+                <p>If the answers to Question 1 and Question 2 are in the negative: are there mandatory provisions of EU law for determining ``the precise time when the question of expulsion arises '' and the point in time at which an overall assessment must be made of the affected Union citizen's situation in order to establish the extent to which the non-continuous nature of the period of residence in the 10 years preceding the decision to expel the person concerned prevents him from qualifying for enhanced protection against expulsion?'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Case C‑424/16</p>
+        </tblock>
+        <paragraph eId="para_10213">
+          <num>28</num>
+          <content eId="para_10213__content">
+            <p>Mr Vomero is an Italian national born on 18 December 1957. On 3 March 1985, Mr Vomero moved to the United Kingdom with his future wife, a United Kingdom national, whom he had met in 1983. They were married in the United Kingdom on 3 August 1985 and had five children there, for whom Mr Vomero cared, in addition to working occasionally, while his wife worked full-time.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10214">
+          <num>29</num>
+          <content eId="para_10214__content">
+            <p>Between 1987 and 1999, Mr Vomero received several convictions, in Italy and in the UK, none of which resulted in his imprisonment. In 1998, his marriage broke down. Mr Vomero left the family home and moved into accommodation with Mr M.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10215">
+          <num>30</num>
+          <content eId="para_10215__content">
+            <p>On 1 March 2001, Mr Vomero killed Mr M. The jury reduced the charge of murder to manslaughter by reason of provocation. On 2 May 2002, Mr Vomero was sentenced to eight years' imprisonment. He was released in early July 2006.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10216">
+          <num>31</num>
+          <content eId="para_10216__content">
+            <p>By decision of 23 March 2007, maintained on 17 May 2007, the Secretary of State for the Home Department determined to deport Mr Vomero under Regulation 21 of the Immigration (European Economic Area) Regulations 2006.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10217">
+          <num>32</num>
+          <content eId="para_10217__content">
+            <p>Mr Vomero challenged that decision before the Asylum and Immigration Tribunal. The decision of that tribunal was appealed before the Court of Appeal (England and Wales), the judgment of which, delivered on 14 September 2012, gave rise to the appeal currently pending before the Supreme Court of the United Kingdom. The proceedings were twice adjourned pending the determination of other cases, including those which gave rise to the requests for a preliminary ruling that led to the judgments of the Court of Justice of 16 January 2014, Onuekwere ( C‑378/12, EU:C:2014:13), and of 16 January 2014, G. ( C‑400/12, EU:C:2014:9).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10218">
+          <num>33</num>
+          <content eId="para_10218__content">
+            <p>Mr Vomero was detained with a view to his deportation until December 2007. Since then, he was convicted in January 2012 for having a bladed article and battery, which led to him being sentenced to 16 weeks' imprisonment. Another conviction, in July 2012, for burglary and theft, led to a further sentence of 12 weeks' imprisonment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10219">
+          <num>34</num>
+          <content eId="para_10219__content">
+            <p>In support of the abovementioned expulsion decision, the Secretary of State for the Home Department argued in particular that, having been in prison for manslaughter between 2001 and 2006, Mr Vomero has not acquired a right of permanent residence in the United Kingdom and cannot, therefore, enjoy enhanced protection under Article 28(3)(a) of Directive 2004/38.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10220">
+          <num>35</num>
+          <content eId="para_10220__content">
+            <p>The Supreme Court of the United Kingdom, referring to the judgments of 7 October 2010, Lassal ( C‑162/09, EU:C:2010:592), of 21 July 2011, Dias ( C‑325/09, EU:C:2011:498), and of 16 January 2014, Onuekwere ( C‑378/12, EU:C:2014:13), considers that, since no right of permanent residence could in law be acquired before 30 April 2006 -- the date on which the period prescribed for transposing Directive 2004/38 expired -- and since, moreover, it is common ground that, at that date, Mr Vomero had been in prison for more than five years, that he remained in prison for a further two months thereafter and that he had been out of prison for less than nine months when the decision to deport him was adopted, he had not acquired a right of permanent residence under Article 16(1) of that directive when that decision was adopted.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10221">
+          <num>36</num>
+          <content eId="para_10221__content">
+            <p>The referring court indicates that, in those circumstances, the primary question before it is whether the grant of enhanced protection under Article 28(3)(a) of Directive 2004/38 depends upon the possession of a right of permanent residence under Article 16 and Article 28(2) thereof.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10222">
+          <num>37</num>
+          <content eId="para_10222__content">
+            <p>If this is not the case, the referring court also observes that the 10-year period preceding the expulsion decision referred to in Article 28(3)(a) of Directive 2004/38 is, according to the Court's case-law, only `in principle' continuous (judgment of 16 January 2014, G., C‑400/12, EU:C:2014:9, paragraph 34). Thus, it notes that this period might also be non-continuous where, for example, it is interrupted by a period of absence from the territory or imprisonment. In those circumstances, the manner in which the 10-year period mentioned in that provision is to be calculated, and in particular whether or not such periods of absence from the territory or imprisonment should be included, remains unclear.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10223">
+          <num>38</num>
+          <content eId="para_10223__content">
+            <p>As regards the fact that the integrative link with the host Member State must be the subject of an overall assessment in order to determine, in that context, whether that link exists or whether it has been broken (judgment of 16 January 2014, G., C‑400/12, EU:C:2014:9, paragraphs 36 and 37), the referring court considers that the scope of that assessment and its effects are not yet sufficiently clear. That court is unsure, in particular, of the factors that may need to be examined in order to determine whether, at the time the expulsion decision was adopted in 2007, Mr Vomero's integrative links with the United Kingdom were such as to entitle him to enhanced protection on the basis of his residence in that Member State for the previous 10 years.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10224">
+          <num>39</num>
+          <content eId="para_10224__content">
+            <p>In those circumstances the Supreme Court of the United Kingdom decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>whether enhanced protection under [Article 28(3)(a) of Directive 2004/38] depends upon the possession of a right of permanent residence within Article 16 and [Article 28(2) of that directive]. If the answer to question one is in the negative, the following questions are also referred:</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>whether the period of residence for the previous 10 years, to which [Article 28(3)(a) of Directive 2004/38] refers, is:</p>
+                <blockList>
+                  <item>
+                    <num>(a)</num>
+                    <p>a simple calendar period looking back from the relevant date (here that of the decision to deport), including in it any periods of absence or imprisonment,</p>
+                  </item>
+                  <item>
+                    <num>(b)</num>
+                    <p>a potentially non-continuous period, derived by looking back from the relevant date and adding together period(s) when the relevant person was not absent or in prison, to arrive, if possible at a total of 10 years' previous residence.</p>
+                  </item>
+                </blockList>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>what the true relationship is between the 10 year residence test to which [Article 28(3)(a) of Directive 2004/38] refers and the overall assessment of an integrative link.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the questions referred</p>
+        </tblock>
+        <tblock>
+          <p>The first question in Case C‑424/16</p>
+        </tblock>
+        <paragraph eId="para_10225">
+          <num>40</num>
+          <content eId="para_10225__content">
+            <p>By its first question, the Supreme Court of the United Kingdom asks, in essence, whether Article 28(3)(a) of Directive 2004/38 must be interpreted as meaning that it is a prerequisite of eligibility for the protection against expulsion provided for in that provision that the person concerned must have a right of permanent residence, within the meaning of Article 16 and Article 28(2) of that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10226">
+          <num>41</num>
+          <content eId="para_10226__content">
+            <p>As a preliminary point, it should be noted that that question is based on the premiss that Mr Vomero does not have such a right of permanent residence in the United Kingdom.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10227">
+          <num>42</num>
+          <content eId="para_10227__content">
+            <p>Since the Court does not have all the information necessary in order to assess the merits of that premiss, it must be assumed, for the purposes of the question, that it is well founded.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10228">
+          <num>43</num>
+          <content eId="para_10228__content">
+            <p>In that respect, it must be borne in mind that it is emphasised in recital 23 in the preamble to Directive 2004/38 that the expulsion of Union citizens and their family members on grounds of public policy or public security can seriously harm persons who, having availed themselves of the rights and freedoms conferred on them by the Treaty, have become genuinely integrated into the host Member State.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10229">
+          <num>44</num>
+          <content eId="para_10229__content">
+            <p>That is why Directive 2004/38, as is apparent from recital 24 in the preamble, establishes a system of protection against expulsion measures which is based on the degree of integration of those persons in the host Member State, so that the greater the degree of integration of Union citizens and their family members in the host Member State, the greater the guarantees against expulsion they enjoy (see, to that effect, judgments of 23 November 2010, Tsakouridis, C‑145/09, EU:C:2010:708, paragraph 25, and of 8 December 2011, Ziebell, C‑371/08, EU:C:2011:809, paragraph 70).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10230">
+          <num>45</num>
+          <content eId="para_10230__content">
+            <p>In that context, first of all, Article 28(1) of Directive 2004/38 provides generally that, before taking an expulsion decision `on grounds of public policy or public security', the host Member State must take account in particular of considerations such as how long the individual concerned has resided on its territory, his or her age, state of health, family and economic situation, social and cultural integration into the host Member State and the extent of his or her links with the country of origin (judgment of 23 November 2010, Tsakouridis, C‑145/09, EU:C:2010:708, paragraph 26).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10231">
+          <num>46</num>
+          <content eId="para_10231__content">
+            <p>Next, under Article 28(2), Union citizens or their family members, irrespective of nationality, who have the right of permanent residence on the territory of the host Member State pursuant to Article 16 of the directive cannot be the subject of an expulsion decision `except on serious grounds of public policy or public security'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10232">
+          <num>47</num>
+          <content eId="para_10232__content">
+            <p>Lastly, in the case of Union citizens who have resided in the host Member State for the previous 10 years, Article 28(3)(a) of Directive 2004/38 considerably strengthens their protection against expulsion by providing that such a measure may not be taken except where the decision is based on `imperative grounds of public security, as defined by Member States' (judgment of 23 November 2010, Tsakouridis, C‑145/09, EU:C:2010:708, paragraph 28).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10233">
+          <num>48</num>
+          <content eId="para_10233__content">
+            <p>It thus follows from the wording and the structure of Article 28 of Directive 2004/38 that the protection against expulsion provided for in that provision gradually increases in proportion to the degree of integration of the Union citizen concerned in the host Member State.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10234">
+          <num>49</num>
+          <content eId="para_10234__content">
+            <p>In those circumstances, and even though it is not specified in the wording of the provisions concerned, the enhanced protection provided for in Article 28(3)(a) of Directive 2004/38 is available to a Union citizen only in so far as he first satisfies the eligibility condition for the protection referred to in Article 28(2) of that directive, namely having a right of permanent residence under Article 16 of that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10235">
+          <num>50</num>
+          <content eId="para_10235__content">
+            <p>That interpretation of Article 28(3)(a) of Directive 2004/38 is also supported by the context of that provision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10236">
+          <num>51</num>
+          <content eId="para_10236__content">
+            <p>In the first place, it should be noted that Directive 2004/38 introduced a gradual system as regards the right of residence in the host Member State, which reproduces, in essence, the stages and conditions set out in the various instruments of European Union law and case-law preceding that directive and culminates in the right of permanent residence (judgment of 21 December 2011, Ziolkowski and Szeja, C‑424/10 and C‑425/10, EU:C:2011:866, paragraph 38).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10237">
+          <num>52</num>
+          <content eId="para_10237__content">
+            <p>First, for periods of residence of up to three months, Article 6 of Directive 2004/38 limits the conditions and formalities of the right of residence to the requirement to hold a valid identity card or passport and, under Article 14(1) of the directive, that right is retained as long as the Union citizen and his family members do not become an unreasonable burden on the social assistance system of the host Member State (judgment of 21 December 2011, Ziolkowski and Szeja, C‑424/10 and C‑425/10, EU:C:2011:866, paragraph 39).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10238">
+          <num>53</num>
+          <content eId="para_10238__content">
+            <p>Secondly, for periods of residence longer than three months, the right of residence is subject to the conditions set out in Article 7(1) of Directive 2004/38 and, under Article 14(2) thereof, that right is retained only if the Union citizen and his family members satisfy those conditions. It is apparent from recital 10 in the preamble to the directive in particular that those conditions are intended, inter alia, to prevent such persons from becoming an unreasonable burden on the social assistance system of the host Member State (judgment of 21 December 2011, Ziolkowski and Szeja, C‑424/10 and C‑425/10, EU:C:2011:866, paragraph 40).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10239">
+          <num>54</num>
+          <content eId="para_10239__content">
+            <p>Thirdly, it follows from Article 16(1) of Directive 2004/38 that Union citizens acquire the right of permanent residence after residing legally for a continuous period of five years in the host Member State and that that right is not subject to the conditions referred to in the preceding paragraph. As stated in recital 18 in the preamble to the directive, once obtained, the right of permanent residence should not be subject to any further conditions, with the aim of it being a genuine vehicle for integration into the society of that State (judgment of 21 December 2011, Ziolkowski and Szeja, C‑424/10 and C‑425/10, EU:C:2011:866, paragraph 41).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10240">
+          <num>55</num>
+          <content eId="para_10240__content">
+            <p>It thus follows from the foregoing that, unlike a Union citizen with a right of permanent residence, who may only be expelled from the territory of the host Member State on the grounds stated in Article 28(2) of Directive 2004/38, a citizen who has not acquired that right may, where appropriate, be expelled from that territory if he becomes an unreasonable burden on the social assistance system of that Member State, as is apparent from Chapter III of that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10241">
+          <num>56</num>
+          <content eId="para_10241__content">
+            <p>As the Advocate General pointed out in points 57 and 58 of his Opinion, a Union citizen who, because he does not have a right of permanent residence, may be expelled if he becomes such an unreasonable burden, cannot, at the same time, enjoy the considerably enhanced protection provided for in Article 28(3)(a) of that directive, pursuant to which his expulsion could be authorised only on `imperative grounds' of public security, which relate to `exceptional circumstances', as indicated in recital 24 of that directive (see, to that effect, judgment of 23 November 2010, Tsakouridis, C‑145/09, EU:C:2010:708, paragraph 40).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10242">
+          <num>57</num>
+          <content eId="para_10242__content">
+            <p>In the second place, it must also be noted that, as recital 17 in the preamble to Directive 2004/38 states, the right of permanent residence is a key element in promoting social cohesion and was provided for by that directive in order to strengthen the feeling of Union citizenship. The EU legislature accordingly made the acquisition of the right of permanent residence pursuant to Article 16(1) of Directive 2004/38 subject to the integration of the citizen of the Union in the host Member State (judgment of 16 January 2014, Onuekwere, C‑378/12, EU:C:2014:13, paragraph 24 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10243">
+          <num>58</num>
+          <content eId="para_10243__content">
+            <p>As the Court has already held, integration, which is a precondition of the acquisition of the right of permanent residence laid down in Article 16(1) of Directive 2004/38, is based not only on territorial and temporal factors but also on qualitative elements, relating to the level of integration in the host Member State (judgment of 16 January 2014, Onuekwere, C‑378/12, EU:C:2014:13, paragraph 25 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10244">
+          <num>59</num>
+          <content eId="para_10244__content">
+            <p>It follows that the concept of `legal residence' implied by the terms `have resided legally' in Article 16(1) of Directive 2004/38 should be construed as meaning a period of residence which complies with the conditions laid down in the directive, in particular those set out in Article 7(1) (judgment of 21 December 2011, Ziolkowski and Szeja, C‑424/10 and C‑425/10, EU:C:2011:866, paragraph 46).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10245">
+          <num>60</num>
+          <content eId="para_10245__content">
+            <p>A Union citizen who has not acquired the right to reside permanently in the host Member State because he has not satisfied those conditions and who cannot, therefore, rely on the level of protection against expulsion guaranteed by Article 28(2) of Directive 2004/38 cannot, a fortiori, enjoy the considerably enhanced level of protection against expulsion provided for in Article 28(3)(a) of that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10246">
+          <num>61</num>
+          <content eId="para_10246__content">
+            <p>In the light of all the foregoing, the answer to the first question in Case C‑424/16 is that Article 28(3)(a) of Directive 2004/38 must be interpreted as meaning that it is a prerequisite of eligibility for the protection against expulsion provided for in that provision that the person concerned must have a right of permanent residence within the meaning of Article 16 and Article 28(2) of that directive.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The second and third questions in Case C-424/16</p>
+        </tblock>
+        <paragraph eId="para_10247">
+          <num>62</num>
+          <content eId="para_10247__content">
+            <p>Since the second and third questions were raised by the Supreme Court of the United Kingdom only in the event that the first question were to be answered in the negative, there is no need to examine them.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The first, second and third questions in Case C‑316/16</p>
+        </tblock>
+        <paragraph eId="para_10248">
+          <num>63</num>
+          <content eId="para_10248__content">
+            <p>By its first three questions, which should be examined together, the Verwaltungsgerichtshof Baden-Württemberg (Higher Administrative Court, Baden-Württemberg) seeks, in essence, to ascertain whether the requirement of having `resided in the host Member State for the previous ten years' set out in Article 28(3)(a) of Directive 2004/38 must be interpreted as meaning that it may be satisfied by a Union citizen who at a young age moved to a Member State other than that of which he is a national and who lived in that Member State for twenty years before receiving a custodial sentence there, which he is serving at the time an expulsion decision is taken against him, and, if so, under what conditions.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10249">
+          <num>64</num>
+          <content eId="para_10249__content">
+            <p>In that respect, it must be noted, in the first place, that while it is true that recitals 23 and 24 in the preamble to Directive 2004/38 refer to special protection for persons who are genuinely integrated into the host Member State, especially if they were born there and have spent all their life there, the fact remains that the decisive criterion for the grant of the enhanced protection provided for in Article 28(3)(a) of Directive 2004/38 is whether the Union citizen with a right of permanent residence in the host Member State, within the meaning of Article 16 and Article 28(2) of that directive, has, as required by Article 28(3), resided in that Member State for the 10 years preceding the expulsion decision (see, to that effect, judgments of 23 November 2010, Tsakouridis, C‑145/09, EU:C:2010:708, paragraph 31, and of 16 January 2014, G., C‑400/12, EU:C:2014:9, paragraph 23).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10250">
+          <num>65</num>
+          <content eId="para_10250__content">
+            <p>It follows, in particular, that the 10-year period of residence necessary for the grant of the enhanced protection provided for in Article 28(3)(a) of Directive 2004/38 must be calculated by counting back from the date of the decision ordering that person's expulsion (judgment of 16 January 2014, G., C‑400/12, EU:C:2014:9, paragraph 24).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10251">
+          <num>66</num>
+          <content eId="para_10251__content">
+            <p>In the second place, it follows from the case-law of the Court that the 10-year period of residence must, in principle, be continuous (see, to that effect, judgment of 16 January 2014, G., C‑400/12, EU:C:2014:9, paragraph 27).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10252">
+          <num>67</num>
+          <content eId="para_10252__content">
+            <p>In that respect, it must also be noted, however, that while Article 28(3)(a) of Directive 2004/38 makes the enjoyment of the enhanced protection against expulsion provided for in that provision subject to the person's presence in the Member State concerned for 10 years preceding the expulsion measure, it is silent as to the circumstances which are capable of interrupting the period of 10 years' residence for the purposes of the acquisition of the right to that enhanced protection (judgment of 23 November 2010, Tsakouridis, C‑145/09, EU:C:2010:708, paragraph 29).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10253">
+          <num>68</num>
+          <content eId="para_10253__content">
+            <p>Thus, the Court has held that, as regards the question of the extent to which absences from the host Member State during the period referred to in Article 28(3)(a) of Directive 2004/38 prevent the person concerned from enjoying that enhanced protection, an overall assessment must be made of the person's situation on each occasion at the precise time when the question of expulsion arises (judgment of 23 November 2010, Tsakouridis, C‑145/09, EU:C:2010:708, paragraph 32).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10254">
+          <num>69</num>
+          <content eId="para_10254__content">
+            <p>In doing so, the national authorities responsible for applying Article 28(3) of Directive 2004/38 are required to take all the relevant factors into consideration in each individual case, in particular the duration of each period of absence from the host Member State, the cumulative duration and the frequency of those absences, and the reasons why the person concerned left the host Member State. It must be ascertained whether those absences involve the transfer to another State of the centre of the personal, family or occupational interests of the person concerned (see, to that effect, judgment of 23 November 2010, Tsakouridis, C‑145/09, EU:C:2010:708, paragraph 33).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10255">
+          <num>70</num>
+          <content eId="para_10255__content">
+            <p>As to whether periods of imprisonment may, by themselves and irrespective of periods of absence from the host Member State, also lead, where appropriate, to a severing of the link with that State and to the discontinuity of the period of residence in that State, the Court has held that although, in principle, such periods of imprisonment interrupt the continuity of the period of residence, for the purpose of Article 28(3)(a) of Directive 2004/38, it is nevertheless necessary -- in order to determine whether those periods of imprisonment have broken the integrative links previously forged with the host Member State with the result that the person concerned is no longer entitled to the enhanced protection provided for in that provision -- to carry out an overall assessment of the situation of that person at the precise time when the question of expulsion arises. In the context of that overall assessment, periods of imprisonment must be taken into consideration together with all the relevant factors in each individual case, including, as the case may be, the circumstance that the person concerned resided in the host Member State for the 10 years preceding his imprisonment (see, to that effect, judgment of 16 January 2014, G., C‑400/12, EU:C:2014:9, paragraphs 33 to 38).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10256">
+          <num>71</num>
+          <content eId="para_10256__content">
+            <p>Indeed, particularly in the case of a Union citizen who was already in a position to satisfy the condition of 10 years' continuous residence in the host Member State in the past, even before he committed a criminal act that resulted in his detention, the fact that the person concerned was placed in custody by the authorities of that State cannot be regarded as automatically breaking the integrative links that that person had previously forged with that State and the continuity of his residence in that State for the purpose of Article 28(3)(a) of Directive 2004/38 and, therefore, depriving him of the enhanced protection against expulsion provided for in that provision. Moreover, such an interpretation would deprive that provision of much of its practical effect, since an expulsion measure will most often be adopted precisely because of the conduct of the person concerned that led to his conviction and detention.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10257">
+          <num>72</num>
+          <content eId="para_10257__content">
+            <p>As part of the overall assessment, mentioned in paragraph 70 above, which, in this case, is for the referring court to carry out, it is necessary to take into account, as regards the integrative links forged by B with the host Member State during the period of residence before his detention, the fact that, the more those integrative links with that State are solid -- including from a social, cultural and family perspective, to the point where, for example, the person concerned is genuinely rooted in the society of that State, as found by the referring court in the main proceedings -- the lower the probability that a period of detention could have resulted in those links being broken and, consequently, a discontinuity of the 10-year period of residence referred to in Article 28(3)(a) of Directive 2004/38.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10258">
+          <num>73</num>
+          <content eId="para_10258__content">
+            <p>Other relevant factors in that overall assessment may include, as observed by the Advocate General in points 123 to 125 of his Opinion, first, the nature of the offence that resulted in the period of imprisonment in question and the circumstances in which that offence was committed, and, secondly, all the relevant factors as regards the behaviour of the person concerned during the period of imprisonment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10259">
+          <num>74</num>
+          <content eId="para_10259__content">
+            <p>While the nature of the offence and the circumstances in which it was committed shed light on the extent to which the person concerned has, as the case may be, become disconnected from the society of the host Member State, the attitude of the person concerned during his detention may, in turn, reinforce that disconnection or, conversely, help to maintain or restore links previously forged with the host Member State with a view to his future social reintegration in that State.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10260">
+          <num>75</num>
+          <content eId="para_10260__content">
+            <p>On that last point, it should also be borne in mind that, as the Court has already pointed out, the social rehabilitation of the Union citizen in the State in which he has become genuinely integrated is not only in his interest but also in that of the European Union in general (judgment of 23 November 2010, Tsakouridis, C‑145/09, EU:C:2010:708, paragraph 50).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10261">
+          <num>76</num>
+          <content eId="para_10261__content">
+            <p>As regards the concerns expressed by the referring court that taking into account the period of imprisonment for the purposes of determining whether it has interrupted the continuity of the 10-year period of residence in the host Member State prior to the expulsion measure could lead to arbitrary or unfair results, depending on when that measure is adopted, it is appropriate to provide the following clarifications.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10262">
+          <num>77</num>
+          <content eId="para_10262__content">
+            <p>It is true that, in some Member States, an expulsion measure may be imposed as a penalty or legal consequence of a custodial sentence, a possibility expressly provided for in Article 33(1) of Directive 2004/38. In such a case, the future custodial sentence cannot, by definition, be taken into consideration for the purposes of assessing whether or not a Union citizen has been continuously resident in the host Member State for the 10 years preceding the adoption of that expulsion measure.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10263">
+          <num>78</num>
+          <content eId="para_10263__content">
+            <p>The result may therefore be, for example, that a Union citizen who has already resided continuously for 10 years in the host Member State at the date on which he receives a custodial sentence accompanied by an expulsion measure is entitled to the enhanced protection against expulsion provided for in Article 28(3)(a) of Directive 2004/38.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10264">
+          <num>79</num>
+          <content eId="para_10264__content">
+            <p>Conversely, as regards a citizen against whom such an expulsion measure is adopted after his detention, as in the main proceedings, the question arises whether or not that detention had the effect of interrupting the continuity of the period of residence in the host Member State and depriving him of the benefit of that enhanced protection.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10265">
+          <num>80</num>
+          <content eId="para_10265__content">
+            <p>However, it should be pointed out, in that regard, that, where a Union citizen has already resided in the host Member State for a period of 10 years when his detention begins, the fact that the expulsion measure is adopted during or at the end of the period of detention and the fact that that period of detention thus forms part of the 10-year period preceding the adoption of that measure do not automatically entail a discontinuity of that 10-year period as a result of which the person concerned would be deprived of the enhanced protection provided for under Article 28(3)(a) of Directive 2004/38.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10266">
+          <num>81</num>
+          <content eId="para_10266__content">
+            <p>Indeed, as is apparent from paragraphs 66 to 75 above, if the expulsion decision is adopted during or at the end of the period of detention, the situation of the citizen concerned must still, under the conditions laid down in those paragraphs, be subject to an overall assessment in order to determine whether or not he can avail of that enhanced protection.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10267">
+          <num>82</num>
+          <content eId="para_10267__content">
+            <p>Thus, in the situations referred to in paragraphs 77 to 81 of this judgment, whether or not the enhanced protection provided for in Article 28(3)(a) of Directive 2004/38 is granted will still depend on the duration of residence and the degree of integration of the citizen concerned in the host Member State.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10268">
+          <num>83</num>
+          <content eId="para_10268__content">
+            <p>In the light of all the foregoing, the answer to the first three questions in Case C‑316/16 is that Article 28(3)(a) of Directive 2004/38 must be interpreted as meaning that, in the case of a Union citizen who is serving a custodial sentence and against whom an expulsion decision is adopted, the condition of having `resided in the host Member State for the previous ten years' laid down in that provision may be satisfied where an overall assessment of the person's situation, taking into account all the relevant aspects, leads to the conclusion that, notwithstanding that detention, the integrative links between the person concerned and the host Member State have not been broken. Those aspects include, inter alia, the strength of the integrative links forged with the host Member State before the detention of the person concerned, the nature of the offence that resulted in the period of detention imposed, the circumstances in which that offence was committed and the conduct of the person concerned throughout the period of detention.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The fourth question in Case C‑316/16</p>
+        </tblock>
+        <paragraph eId="para_10269">
+          <num>84</num>
+          <content eId="para_10269__content">
+            <p>By its fourth question, the Verwaltungsgerichtshof Baden-Württemberg (Higher Administrative Court, Baden-Württemberg) wishes to know, in essence, at what point in time compliance with the condition of having `resided in the host Member State for the previous ten years', within the meaning of Article 28(3)(a) of Directive 2004/38, must be assessed.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10270">
+          <num>85</num>
+          <content eId="para_10270__content">
+            <p>Under Article 28(3)(a) of Directive 2004/38, `an expulsion decision may not be taken' against a Union citizen who has resided in the host Member State `for the previous ten years' except on imperative grounds of public security.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10271">
+          <num>86</num>
+          <content eId="para_10271__content">
+            <p>It follows from that wording that `the previous ten years' means the 10 years preceding that expulsion decision, with the result that the condition relating to the 10-year period of continuous residence must be verified at the time that decision is adopted.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10272">
+          <num>87</num>
+          <content eId="para_10272__content">
+            <p>As noted in paragraph 65 above, the Court has already stated that the 10-year period of residence necessary for the grant of the enhanced protection provided for in Article 28(3)(a) of Directive 2004/38 must be calculated by counting back from the date of the decision ordering the expulsion of the person concerned.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10273">
+          <num>88</num>
+          <content eId="para_10273__content">
+            <p>It follows from the foregoing that the question whether a person satisfies the condition of having resided in the host Member State for the 10 years preceding the expulsion decision and, accordingly, whether he is able to benefit from the enhanced protection provided for in Article 28(3)(a) of Directive 2004/38 must be assessed at the date on which the expulsion decision is initially adopted.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10274">
+          <num>89</num>
+          <content eId="para_10274__content">
+            <p>It must be noted, however, that that conclusion is without prejudice to the separate issue of when it is necessary to assess whether there are actually `grounds of public policy or public security' within the meaning of Article 28(1) of Directive 2004/38, `serious grounds of public policy or public security' within the meaning of Article 28(2) of that directive, or `imperative grounds of public security' within the meaning of Article 28(3) of that directive, on the basis of which expulsion may be justified.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10275">
+          <num>90</num>
+          <content eId="para_10275__content">
+            <p>In that regard, it is indeed for the authority which initially adopts the expulsion decision to make that assessment, at the time it adopts that decision, in accordance with the substantive rules laid down in Articles 27 and 28 of Directive 2004/38.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10276">
+          <num>91</num>
+          <content eId="para_10276__content">
+            <p>However, that does not preclude the possibility that, where the actual enforcement of that decision is deferred for a certain period of time, it may be necessary to carry out a fresh, updated assessment of whether there are still `grounds of public policy or public security', `serious grounds of public policy or public security' or `imperative grounds of public security', as applicable.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10277">
+          <num>92</num>
+          <content eId="para_10277__content">
+            <p>It must be borne in mind, in particular, that under the second subparagraph of Article 27(2) of Directive 2004/38, the issue of any expulsion measure is, in general, conditional on the requirement that the conduct of the person concerned must represent a genuine, present threat affecting one of the fundamental interests of society or of the host Member State (see, to that effect, judgments of 22 May 2012, I, C‑348/09, EU:C:2012:300, paragraph 30, and of 13 July 2017, E, C‑193/16, EU:C:2017:542, paragraph 23).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10278">
+          <num>93</num>
+          <content eId="para_10278__content">
+            <p>It should also be noted that where an expulsion measure has been adopted as a penalty or legal consequence of a custodial penalty, but is enforced more than two years after it was adopted, Article 33(2) of Directive 2004/38 expressly requires the Member State to check that the individual concerned is currently and genuinely a threat to public policy or public security and to assess whether there has been any material change in the circumstances since the expulsion order was issued (judgment of 22 May 2012, I, C‑348/09, EU:C:2012:300, paragraph 31).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10279">
+          <num>94</num>
+          <content eId="para_10279__content">
+            <p>Furthermore, it follows, more generally, from the case-law of the Court that the national courts must take into consideration, in reviewing the lawfulness of an expulsion measure taken against a national of another Member State, factual matters which occurred after the final decision of the competent authorities which may point to the cessation or the substantial diminution of the present threat which the conduct of the person concerned constitutes to the requirements of public policy or public security. That is so, above all, if a lengthy period has elapsed between the date of the expulsion order and that of the review of that decision by the competent court (see, by analogy, judgments of 29 April 2004, Orfanopoulos and Oliveri, C‑482/01 and C‑493/01, EU:C:2004:262, paragraph 82, and of 8 December 2011, Ziebell, C‑371/08, EU:C:2011:809, paragraph 84).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10280">
+          <num>95</num>
+          <content eId="para_10280__content">
+            <p>In the light of the foregoing, the answer to the fourth question in Case C‑316/16 is that Article 28(3)(a) of Directive 2004/38 must be interpreted as meaning that the question whether a person satisfies the condition of having `resided in the host Member State for the previous ten years', within the meaning of that provision, must be assessed at the date on which the initial expulsion decision is adopted.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_10281">
+          <num>96</num>
+          <content eId="para_10281__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the actions pending before the national courts, the decision on costs is a matter for those courts. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Grand Chamber) hereby rules: 1. Article 28(3)(a) of Directive 2004/38/EC of the European Parliament and of the Council of 29 April 2004 on the right of citizens of the Union and their family members to move and reside freely within the territory of the Member States amending Regulation (EEC) No 1612/68 and repealing Directives 64/221/EEC, 68/360/EEC, 72/194/EEC, 73/148/EEC, 75/34/EEC, 75/35/EEC, 90/364/EEC, 90/365/EEC and 93/96/EEC must be interpreted as meaning that it is a prerequisite of eligibility for the protection against expulsion provided for in that provision that the person concerned must have a right of permanent residence within the meaning of Article 16 and Article 28(2) of that directive. 2. Article 28(3)(a) of Directive 2004/38 must be interpreted as meaning that, in the case of a Union citizen who is serving a custodial sentence and against whom an expulsion decision is adopted, the condition of having `resided in the host Member State for the previous ten years' laid down in that provision may be satisfied where an overall assessment of the person's situation, taking into account all the relevant aspects, leads to the conclusion that, notwithstanding that detention, the integrative links between the person concerned and the host Member State have not been broken. Those aspects include, inter alia, the strength of the integrative links forged with the host Member State before the detention of the person concerned, the nature of the offence that resulted in the period of detention imposed, the circumstances in which that offence was committed and the conduct of the person concerned throughout the period of detention. 3. Article 28(3)(a) of Directive 2004/38 must be interpreted as meaning that the question whether a person satisfies the condition of having `resided in the host Member State for the previous ten years', within the meaning of that provision, must be assessed at the date on which the initial expulsion decision is adopted.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>Lenaerts Tizzano Silva de Lapuerta Ilešič Da Cruz Vilaça Rosas Fernlund Juhász Toader Safjan Šváby Prechal Jarašiūnas Delivered in open court in Luxembourg on 17 April 2018. A. Calot Escobar Registrar K. Lenaerts President( *1)Languages of the case: German and English.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

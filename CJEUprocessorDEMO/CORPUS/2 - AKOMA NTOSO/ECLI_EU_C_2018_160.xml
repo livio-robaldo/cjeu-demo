@@ -1,0 +1,841 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+      <references source="#source">
+        <TLCOrganization eId="company_55" showAs="" href="/akn/ontology/Organization/Company/company_55" />
+      </references>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Third Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>7 March 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Area of Freedom, Security and Justice -- Jurisdiction in civil and commercial matters -- Regulation (EC) No 44/2001 -- Article 5(1) -- Regulation (EU) No 1215/2012 -- Article 7(1) -- Concept of `matters relating to a contract' -- Contract for the provision of services -- Connecting flight operated by different air carriers -- Concept of `place of performance' -- Regulation (EC) No 261/2004 -- Right of air passengers to compensation for denied boarding and for the long delay of a flight -- Action for compensation brought against an operating air carrier not domiciled in the territory of a Member State or with which the passengers do not have contractual relations) In Joined Cases C‑274/16, C‑447/16 and C‑448/16, REQUESTS for a preliminary ruling under Article 267 TFEU from the Amtsgericht Düsseldorf (Local Court, Düsseldorf, Germany) and from the Bundesgerichtshof (Federal Court of Justice, Germany) made by decisions of 3 May (C‑274/16) and 14 June 2016 (C‑447/16 and C‑448/16), received at the Court on 13 May and 11 August 2016, in the proceedings flightright GmbH v</p>
+      <p>
+        <party as="respondent" refersTo="#">Air Nostrum</party>
+      </p>
+      <p>, Líneas Aéreas del Mediterráneo SA(C‑274/16),</p>
+      <p>
+        <party as="appellant" refersTo="#">Roland Becker</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#">Hainan Airlines Co</party>
+      </p>
+      <p>. Ltd(C‑447/16), and</p>
+      <p>
+        <party as="appellant" refersTo="#">Mohamed Barkan</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="appellant" refersTo="#">Souad Asbai</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="appellant" refersTo="#">Assia Barkan</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="appellant" refersTo="#">Zakaria Barkan</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="appellant" refersTo="#">Nousaiba Barkan</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#company_55">Air Nostrum</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="respondent" refersTo="#company_55">Líneas Aéreas del Mediterráneo SA</party>
+      </p>
+      <p>(C‑448/16), THE COURT (Third Chamber), composed of L. Bay Larsen, President of the Chamber, J. Malenovský, M. Safjan (Rapporteur), D. Šváby and M. Vilaras, Judges, Advocate General: M. Bobek, Registrar: R. Schiano, Administrator, having regard to the written procedure and further to the hearing on 6 July 2017, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>flightright GmbH, by J.A. Blaffert, F. Schaal, A. Seegers, D. Tuac and O. de Felice, Rechtsanwälte,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>Mr Becker, by C. Hormann, Rechtsanwalt,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>Mohamed Barkan, Souad Asbai and their minor children, Assia, Zakaria and Nousaiba Barkan, by J. Kummer and P. Wassermann, Rechtsanwälte,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>Air Nostrum, Líneas Aéreas del Mediterráneo SA, by V. Beck and E. Schott, Rechtsanwälte,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the French Government, by E. de Moustier, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Portuguese Government, by L. Inez Fernandes and M. Figueiredo and by M. Cancela Carvalho, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Swiss Government, by M. Schöll, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by M. Wilderspin and M. Heller, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 19 October 2017,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <tblock>
+        <p>Judgment</p>
+      </tblock>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_7551">
+          <num>1</num>
+          <content eId="para_7551__content">
+            <p>These requests for a preliminary ruling concern the interpretation of Article 5(1) of Council Regulation (EC) No 44/2001 of 22 December 2000 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters ( OJ 2001 L 12, p. 1), and of Article 7(1) of Regulation (EU) No 1215/2012 of the European Parliament and of the Council of 12 December 2012 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters ( OJ 2012 L 351, p. 1).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7552">
+          <num>2</num>
+          <content eId="para_7552__content">
+            <p>The requests have been made in proceedings between, firstly, flightright GmbH, an undertaking established in Potsdam (Germany), Mr Mohamed Barkan, Mrs Souad Asbai and their minor children Assia, Zakaria and Nousaiba Barkan ( `the Barkan family') and Air Nostrum, Líneas Aéreas del Mediterráneo SA ( `Air Nostrum'), an air carrier established in Valencia (Spain), concerning the payment of compensation for a flight delay (Cases C‑274/16 and C‑448/16), and, secondly, Mr Roland Becker and Hainan Airlines Co. Ltd, an air carrier established in Haikou (China), concerning the payment of compensation for denied boarding (Case C‑447/16).</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>Regulation No 44/2001</p>
+        </tblock>
+        <paragraph eId="para_7553">
+          <num>3</num>
+          <content eId="para_7553__content">
+            <p>It is apparent from recital 2 of Regulation No 44/2001 that the latter aims, in the interests of the sound operation of the internal market, to implement `provisions to unify the rules of conflict of jurisdiction in civil and commercial matters and to simplify the formalities with a view to rapid and simple recognition and enforcement of judgments from Member States bound by this Regulation'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7554">
+          <num>4</num>
+          <content eId="para_7554__content">
+            <p>Recitals 11 and 12 of that regulation state: `</p>
+            <blockList>
+              <item>
+                <num>(11)</num>
+                <p>The rules of jurisdiction must be highly predictable and founded on the principle that jurisdiction is generally based on the defendant's domicile and jurisdiction must always be available on this ground save in a few well-defined situations in which the subject matter of the litigation or the autonomy of the parties warrants a different linking factor. The domicile of a legal person must be defined autonomously so as to make the common rules more transparent and avoid conflicts of jurisdiction.</p>
+              </item>
+              <item>
+                <num>(12)</num>
+                <p>In addition to the defendant's domicile, there should be alternative grounds of jurisdiction based on a close link between the court and the action or in order to facilitate the sound administration of justice.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7555">
+          <num>5</num>
+          <content eId="para_7555__content">
+            <p>The rules of jurisdiction are set out in Chapter II of that regulation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7556">
+          <num>6</num>
+          <content eId="para_7556__content">
+            <p>Article 2(1) of Regulation No 44/2001, which is included in Section 1 of Chapter II thereof, provides: `Subject to this Regulation, persons domiciled in a Member State shall, whatever their nationality, be sued in the courts of that Member State.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7557">
+          <num>7</num>
+          <content eId="para_7557__content">
+            <p>Under Article 4(1) of Regulation No 44/2001: `If the defendant is not domiciled in a Member State, the jurisdiction of the courts of each Member State shall ... be determined by the law of that Member State.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7558">
+          <num>8</num>
+          <content eId="para_7558__content">
+            <p>Article 5(1) of that regulation, which is included in Section 2 of Chapter II thereof, entitled `Special jurisdiction', provides: `A person domiciled in a Member State may, in another Member State, be sued:(1)(a) in matters relating to a contract, in the courts for the place of performance of the obligation in question;</p>
+            <blockList>
+              <item>
+                <num>(b)</num>
+                <p>for the purpose of this provision and unless otherwise agreed, the place of performance of the obligation in question shall be:</p>
+                <blockList>
+                  <item>
+                    <num>--</num>
+                    <p>in the case of the sale of goods, the place in a Member State where, under the contract, the goods were delivered or should have been delivered,</p>
+                  </item>
+                  <item>
+                    <num>--</num>
+                    <p>in the case of the provision of services, the place in a Member State where, under the contract, the services were provided or should have been provided;</p>
+                  </item>
+                </blockList>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>if subparagraph (b) does not apply then subparagraph (a) applies.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7559">
+          <num>9</num>
+          <content eId="para_7559__content">
+            <p>Article 60(1) of that regulation provides: `For the purposes of this Regulation, a company or other legal person or association of natural or legal persons is domiciled at the place where it has its:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>statutory seat, or</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>central administration, or</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>principal place of business.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Regulation No 1215/2012</p>
+        </tblock>
+        <paragraph eId="para_7560">
+          <num>10</num>
+          <content eId="para_7560__content">
+            <p>Regulation No 1215/2012 repealed Regulation No 44/2001. The wording of recital 4 thereof is almost identical to that of recital 2 of Regulation No 44/2001.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7561">
+          <num>11</num>
+          <content eId="para_7561__content">
+            <p>Recitals 15 and 16 of Regulation No 1215/2012 state: `</p>
+            <blockList>
+              <item>
+                <num>(15)</num>
+                <p>The rules of jurisdiction should be highly predictable and founded on the principle that jurisdiction is generally based on the defendant's domicile. Jurisdiction should always be available on this ground save in a few well-defined situations in which the subject matter of the dispute or the autonomy of the parties warrants a different connecting factor. The domicile of a legal person must be defined autonomously so as to make the common rules more transparent and avoid conflicts of jurisdiction.</p>
+              </item>
+              <item>
+                <num>(16)</num>
+                <p>In addition to the defendant's domicile, there should be alternative grounds of jurisdiction based on a close connection between the court and the action or in order to facilitate the sound administration of justice. The existence of a close connection should ensure legal certainty and avoid the possibility of the defendant being sued in a court of a Member State which he could not reasonably have foreseen. ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7562">
+          <num>12</num>
+          <content eId="para_7562__content">
+            <p>Under Section 1 of Chapter II of that regulation, entitled `General provisions', Article 4(1) thereof is drafted in terms identical to those of Article 2(1) of Regulation No 44/2001.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7563">
+          <num>13</num>
+          <content eId="para_7563__content">
+            <p>Under Section 2 of Chapter II of Regulation No 1215/2012, entitled `Special jurisdiction', Article 7(1) thereof is drafted in terms almost identical to those of Article 5(1) of Regulation No 44/2001.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7564">
+          <num>14</num>
+          <content eId="para_7564__content">
+            <p>In accordance with Article 66(1) of Regulation No 1215/2012, that regulation applies only to legal proceedings instituted on or after 10 January 2015.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Regulation (EC) No 261/2004</p>
+        </tblock>
+        <paragraph eId="para_7565">
+          <num>15</num>
+          <content eId="para_7565__content">
+            <p>According to recitals 1, 2, 7 and 8 of Regulation (EC) No 261/2004 of the European Parliament and of the Council of 11 February 2004 establishing common rules on compensation and assistance to passengers in the event of denied boarding and of cancellation or long delay of flights, and repealing Regulation (EEC) No 295/91 ( OJ 2004 L 46, p. 1): `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Action by the Community in the field of air transport should aim, among other things, at ensuring a high level of protection for passengers. Moreover, full account should be taken of the requirements of consumer protection in general.</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>Denied boarding and cancellation or long delay of flights cause serious trouble and inconvenience to passengers. ...</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(7)</num>
+                <p>In order to ensure the effective application of this Regulation, the obligations that it creates should rest with the operating air carrier who performs or intends to perform a flight ...</p>
+              </item>
+              <item>
+                <num>(8)</num>
+                <p>This Regulation should not restrict the rights of the operating air carrier to seek compensation from any person, including third parties, in accordance with the law applicable.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7566">
+          <num>16</num>
+          <content eId="para_7566__content">
+            <p>Article 1 of Regulation No 261/2004, entitled `Subject', provides, in paragraph 1: `This Regulation establishes, under the conditions specified herein, minimum rights for passengers when:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>they are denied boarding against their will;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>their flight is cancelled;</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>their flight is delayed.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7567">
+          <num>17</num>
+          <content eId="para_7567__content">
+            <p>Article 2 of Regulation No 261/2004, entitled `Definitions', is worded as follows: `For the purposes of this Regulation: ...</p>
+            <blockList>
+              <item>
+                <num>(b)</num>
+                <p>``operating air carrier '' means an air carrier that performs or intends to perform a flight under a contract with a passenger or on behalf of another person, legal or natural, having a contract with that passenger; ...</p>
+                <blockList>
+                  <item>
+                    <num>(g)</num>
+                    <p>``reservation '' means the fact that the passenger has a ticket, or other proof, which indicates that the reservation has been accepted and registered by the air carrier or tour operator;</p>
+                  </item>
+                  <item>
+                    <num>(h)</num>
+                    <p>``final destination '' means the destination on the ticket presented at the check-in counter or, in the case of directly connecting flights, the destination of the last flight; alternative connecting flights available shall not be taken into account if the original planned arrival time is respected; ...'</p>
+                  </item>
+                </blockList>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7568">
+          <num>18</num>
+          <content eId="para_7568__content">
+            <p>Article 3 of Regulation No 261/2004, entitled `Scope', provides: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>This Regulation shall apply:</p>
+              </item>
+              <item>
+                <num>(a)</num>
+                <p>to passengers departing from an airport located in the territory of a Member State to which the Treaty applies; ...</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>Paragraph 1 shall apply on the condition that passengers:</p>
+              </item>
+              <item>
+                <num>(a)</num>
+                <p>have a confirmed reservation on the flight concerned ... ...</p>
+              </item>
+              <item>
+                <num>(5)</num>
+                <p>This Regulation shall apply to any operating air carrier providing transport to passengers covered by paragraphs 1 and 2. Where an operating air carrier which has no contract with the passenger performs obligations under this Regulation, it shall be regarded as doing so on behalf of the person having a contract with that passenger. ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7569">
+          <num>19</num>
+          <content eId="para_7569__content">
+            <p>Article 4 of Regulation No 261/2004, entitled `Denied boarding', states in paragraph 3: `If boarding is denied to passengers against their will, the operating air carrier shall immediately compensate them in accordance with Article 7 ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7570">
+          <num>20</num>
+          <content eId="para_7570__content">
+            <p>Article 5 of that regulation, entitled `Cancellation', provides, in paragraph 1(c): `In case of cancellation of a flight, the passengers concerned shall: ...</p>
+            <blockList>
+              <item>
+                <num>(c)</num>
+                <p>have the right to compensation by the operating air carrier in accordance with Article 7, unless:</p>
+                <blockList>
+                  <item>
+                    <num>(i)</num>
+                    <p>they are informed of the cancellation at least two weeks before the scheduled time of departure; or</p>
+                  </item>
+                  <item>
+                    <num>(ii)</num>
+                    <p>they are informed of the cancellation between two weeks and seven days before the scheduled time of departure and are offered re-routing, allowing them to depart no more than two hours before the scheduled time of departure and to reach their final destination less than four hours after the scheduled time of arrival; or</p>
+                  </item>
+                  <item>
+                    <num>(iii)</num>
+                    <p>they are informed of the cancellation less than seven days before the scheduled time of departure and are offered re-routing, allowing them to depart no more than one hour before the scheduled time of departure and to reach their final destination less than two hours after the scheduled time of arrival.'</p>
+                  </item>
+                </blockList>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7571">
+          <num>21</num>
+          <content eId="para_7571__content">
+            <p>Article 7 of that regulation, entitled `Right to compensation', provides, in paragraph 1: `Where reference is made to this Article, passengers shall receive compensation amounting to:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>EUR 250 for all flights of 1500 kilometres or less;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>EUR 400 for all intra-Community flights of more than 1500 kilometres, and for all other flights between 1500 and 3500 kilometres;</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>EUR 600 for all flights not falling under</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>or</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>. In determining the distance, the basis shall be the last destination at which the denial of boarding or cancellation will delay the passenger's arrival after the scheduled time.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The disputes in the main proceedings, the questions referred for a preliminary ruling and the procedure before the Court</p>
+        </tblock>
+        <tblock>
+          <p>Case C‑274/16</p>
+        </tblock>
+        <paragraph eId="para_7572">
+          <num>22</num>
+          <content eId="para_7572__content">
+            <p>As is apparent from the order for reference, two passengers booked air transport on two flights (a seat each) ( `the connecting flight') with the airline Air Berlin PLC &amp; Co.. Luftverkehrs KG ( ` Air Berlin ' ) , under a single booking reference , from Ibiza ( Balearic Islands , Spain ) to Düsseldorf ( Germany ) , with a connection in Palma de Majorca ( Balearic Islands , Spain ) .</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7573">
+          <num>23</num>
+          <content eId="para_7573__content">
+            <p>The first leg of that connecting flight, operated by Air Nostrum, was scheduled to leave Ibiza on 25 July 2015 at 18:40 and to land in Palma de Majorca on the same day at 19:20.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7574">
+          <num>24</num>
+          <content eId="para_7574__content">
+            <p>As regards the second leg, between Palma de Majorca and Düsseldorf, operated by Air Berlin, it was scheduled to leave on 25 July 2015 at 20:05 and to land in Düsseldorf the same day at 22:25.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7575">
+          <num>25</num>
+          <content eId="para_7575__content">
+            <p>However, the first flight, between Ibiza and Palma de Majorca, was delayed and the passengers, consequently, missed the second flight to Düsseldorf, where they finally arrived on 26 July 2015 at 11:32 on a flight operated by Air Berlin.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7576">
+          <num>26</num>
+          <content eId="para_7576__content">
+            <p>The two passengers at issue assigned their claims to possible compensation for that delay to flightright. The latter brought an action against Air Nostrum, as the operating air carrier carrying out the first flight, before the Amtsgericht Düsseldorf (District Court, Düsseldorf, Germany).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7577">
+          <num>27</num>
+          <content eId="para_7577__content">
+            <p>That court notes that the hearing of that action depends on the existence of its international jurisdiction. That jurisdiction is available only if, as regards the connecting flight at issue, Düsseldorf can be considered to be the `place of performance of the obligation in question', within the meaning of Article 7(1) of Regulation No 1215/2012.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7578">
+          <num>28</num>
+          <content eId="para_7578__content">
+            <p>In those circumstances the Amtsgericht Düsseldorf (District Court, Düsseldorf) decided to stay the proceedings before it and to refer the following question to the Court for a preliminary ruling: `In the case where passengers are carried on a flight which consists of two connecting flights without any significant stopover at the connecting airport, is the place of arrival of the second leg of the journey to be regarded as being the place of performance under Article 7(1)(a) of Regulation No 1215/2012 in the case where the claim which has been brought is directed against the air carrier which operated the first leg of the journey on which the irregularity took place and transport on the second leg of the journey was operated by a different air carrier?'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Case C‑447/16</p>
+        </tblock>
+        <paragraph eId="para_7579">
+          <num>29</num>
+          <content eId="para_7579__content">
+            <p>Mr Becker concluded with Hainan Airlines, which is domiciled outside the European Union and which does not have an establishment in Berlin (Germany), a contract for carriage by air comprising the flights under a single booking, on 7 August 2013, from Berlin to Beijing (China) with a connecting flight from Brussels (Belgium).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7580">
+          <num>30</num>
+          <content eId="para_7580__content">
+            <p>On the day of departure, at Berlin airport, Mr Becker was checked-in for both flights. He received the two corresponding boarding cards and his luggage was checked through directly to Beijing.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7581">
+          <num>31</num>
+          <content eId="para_7581__content">
+            <p>Carriage on the first flight, operated, in accordance with the booking, by the Belgian air carrier Brussels Airlines and which was scheduled to land in Brussels on 7 August 2013 at 08:00, took place according to schedule. Carriage on the second flight, which was to be operated by Hainan Airlines and which was scheduled to leave Brussels on 7 August 2013 at 13:40, did not take place. Mr Becker claims, in that regard, that he was denied boarding on that flight at the departure gate at Brussels airport without good reason and against his wishes.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7582">
+          <num>32</num>
+          <content eId="para_7582__content">
+            <p>Mr Becker returned by air to Berlin and booked a direct flight from Berlin to Beijing. He arrived in Beijing on 8 August 2013.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7583">
+          <num>33</num>
+          <content eId="para_7583__content">
+            <p>By his action brought before the Amtsgericht Berlin-Wedding (District Court, Berlin-Wedding, Germany), Mr Becker requested inter alia, in accordance with Article 7(1)(c) of Regulation No 261/2004, compensation amounting to EUR 600, plus interest.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7584">
+          <num>34</num>
+          <content eId="para_7584__content">
+            <p>By judgment of 4 November 2014, that court found that the German courts did not have international jurisdiction and dismissed Mr Becker's action as inadmissible. Mr Becker brought an appeal against that judgment before the Landgericht Berlin (Regional Court, Berlin, Germany). By judgment of 1 July 2015, that court dismissed Mr Becker's appeal on the ground that his action should have been brought before the Belgian courts, since only Brussels constitutes the place of performance of the flight from Brussels to Beijing.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7585">
+          <num>35</num>
+          <content eId="para_7585__content">
+            <p>Mr Becker brought an appeal on a point of law before the Bundesgerichtshof (Federal Court of Justice, Germany). The latter considers that, in light of the unitary character of Hainan Airlines' contractual obligation to carry Mr Becker from Berlin to Beijing, Berlin-Tegel airport can be considered, in accordance with the judgment of the Court of 9 July 2009, Rehder ( C‑204/08, EU:C:2009:439), to be the place of performance of all of Hainan Airlines' contractual obligations, including the obligations provided in connection with the flight from Brussels to Beijing which was subsequent to the flight from Berlin to Brussels, in so far as Mr Becker, as a passenger, had no influence over whether Hainan Airlines itself would also operate the latter flight or whether it would use another air carrier for that purpose.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7586">
+          <num>36</num>
+          <content eId="para_7586__content">
+            <p>In those circumstances the Bundesgerichtshof (Federal Court of Justice) decided to stay the proceedings before it and to refer the following question to the Court for a preliminary ruling: `Where passengers are carried on two flights without any significant stopover at the connecting airports, is the place of departure of the first leg of the journey to be regarded as being the place where the services were provided under the second indent of Article 5(1)(b) of Regulation ... No 44/2001, even when the claim advanced in the application for compensation under Article 7 of Regulation ... No 261/2004 is based on a disruption to the second leg of the journey and the action is brought against the party to the contract of carriage, which, although it was the operating air carrier for the second flight, was not the operating air carrier for the first flight?'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Case C‑448/16</p>
+        </tblock>
+        <paragraph eId="para_7587">
+          <num>37</num>
+          <content eId="para_7587__content">
+            <p>The Barkan family booked a connecting flight from Melilla (Spain) to Frankfurt am Main (Germany) via Madrid (Spain) with the airline Iberia, Líneas Aéreas de España ( `Iberia') for 7 August 2010. It is apparent from the booking confirmation issued by Iberia that the flight between Melilla and Madrid was to be operated by Air Nostrum and that the flight between Madrid and Frankfurt am Main was to be operated by Iberia, without a significant connecting time between those two flights.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7588">
+          <num>38</num>
+          <content eId="para_7588__content">
+            <p>Since the departure of the flight between Melilla and Madrid was delayed by 20 minutes, the Barkan family missed the second flight to Frankfurt am Main and reached its final destination with a four-hour delay.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7589">
+          <num>39</num>
+          <content eId="para_7589__content">
+            <p>By judgment of 28 January 2015, the Amtsgericht Frankfurt am Main (District Court, Frankfurt am Main, Germany), before which the Barkan family brought an action inter alia for compensation amounting to EUR 250 for each member of that family in relation to that delay, pursuant to Regulation No 261/2004, ordered Air Nostrum to pay compensation in accordance with the applicants' claims.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7590">
+          <num>40</num>
+          <content eId="para_7590__content">
+            <p>By judgment of 20 August 2015, the Landgericht Frankfurt am Main (Regional Court, Frankfurt am Main, Germany), ruling on an appeal brought by Air Nostrum, found that the German courts did not have international jurisdiction. According to that court, only Melilla and Madrid could be regarded as the places of performance for the flight between Melilla and Madrid, during which the incident took place, since both flights must be considered to be separate flights despite the single booking.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7591">
+          <num>41</num>
+          <content eId="para_7591__content">
+            <p>The Barkan family brought an appeal on a point of law before the Bundesgerichtshof (Federal Court of Justice). That court considers, in the first place, that, even if it is not disputed that there is no direct contractual relationship between the Barkan family and Air Nostrum, that fact has no impact on the contractual nature of the right to compensation provided for by Regulation No 261/2004. In the second place, according to that court, the fact that Air Nostrum, as operating air carrier, has no obligations to fulfil at the final destination of the connecting flight, namely Frankfurt am Main, does not preclude that that place can be classified as the `place of performance' for the purposes of Article 5(1) of Regulation No 44/2001, in so far as Regulation No 261/2004 seeks to enhance and not weaken the legal position of air passengers. Therefore, it seems justified that the contractual obligations to be fulfilled at the final destination of the connecting flight by the contracting partner of the Barkan family, namely Iberia, be imposed on Air Nostrum in its capacity as operating air carrier. Moreover, from the point of view of substantive law, the operating air carrier should, in any event, compensate the passenger where he reaches his final destination after a long delay as a result of a delayed feeder flight operated by that carrier.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7592">
+          <num>42</num>
+          <content eId="para_7592__content">
+            <p>In those circumstances the Bundesgerichtshof (Federal Court of Justice) decided to stay the proceedings before it and to refer the following questions to the Court for a preliminary ruling: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Is Article 5(1)(a) of ... Regulation ... No 44/2001 ... to be interpreted as meaning that the concept of ``matters relating to a contract '' also covers a claim for compensation made under Article 7 of Regulation ... No 261/2004 ... which is brought against an operating air carrier with which the passenger concerned does not have contractual relations?</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>In so far as Article 5(1) of Regulation ... No 44/2001 is applicable: Where passengers are transported on two flights without any significant stopover at the connecting airports, is the passenger's final destination to be regarded as the place where the services were provided under the second indent of Article 5(1)(b) of Regulation ... No 44/2001 even when the claim advanced in the application for compensation under Article 7 of Regulation ... No 261/2004 is based on a disruption to the first leg of the journey and the action is brought against the operating air carrier of the first flight, which is not party to the contract of carriage?'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7593">
+          <num>43</num>
+          <content eId="para_7593__content">
+            <p>By decision of the President of the Court of 19 August 2016, Cases C‑447/16 and C‑448/16 were joined for the purposes of the written and oral procedure and the judgment, and by decision of the President of the Court of 14 September 2016, Cases C‑274/16, C‑447/16 and C‑448/16 were joined for the purposes of the oral procedure and the judgment.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the questions referred</p>
+        </tblock>
+        <tblock>
+          <p>The question referred in Case C‑447/16</p>
+        </tblock>
+        <tblock>
+          <p>Admissibility</p>
+        </tblock>
+        <paragraph eId="para_7594">
+          <num>44</num>
+          <content eId="para_7594__content">
+            <p>The European Commission disputes the applicability of Regulation No 44/2001 in the main proceedings and, consequently, the admissibility of the question referred in Case C‑447/16.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7595">
+          <num>45</num>
+          <content eId="para_7595__content">
+            <p>According to the Commission, it is apparent from the order for reference and from the national case file that Hainan Airlines is domiciled outside the European Union and does not have an establishment in Berlin. It can be deduced therefrom that, pursuant to Article 60 of Regulation No 44/2001, that airline is not domiciled in the territory of a Member State, which excludes the application of Article 5 of that regulation and entails the application of Article 4 thereof, according to which, if the defendant is not domiciled in a Member State, the jurisdiction of the courts of each Member State shall be determined by the law of that Member State, subject to the application of exclusive jurisdiction and the prorogation of jurisdiction under Articles 22 and 23 of that regulation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7596">
+          <num>46</num>
+          <content eId="para_7596__content">
+            <p>In that regard, it should be recalled that, according to the Court's settled case-law, where the questions submitted concern the interpretation of EU law, the Court is in principle required to give a ruling. It follows that questions relating to EU law enjoy a presumption of relevance. The Court may refuse to give a ruling on a question referred by a national court only where it is quite obvious that the interpretation of EU law that is sought bears no relation to the actual facts of the main action or its purpose, where the problem is hypothetical, or where the Court does not have before it the factual or legal material necessary to enable it to give a useful answer to the questions submitted to it (judgment of 27 June 2017, Congregación de Escuelas Pías Provincia Betania, C‑74/16, EU:C:2017:496, paragraphs 24 and 25).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7597">
+          <num>47</num>
+          <content eId="para_7597__content">
+            <p>In this case, the Bundesgerichtshof (Federal Court of Justice) asks the Court about the interpretation of the concept of `place of performance', within the meaning of the second indent of Article 5(1)(b) of Regulation No 44/2001, in connection with the right of air passengers to compensation, based on Article 4(3) and Article 7 of Regulation No 261/2004. As is apparent from the order for reference, that interpretation is essential in order to determine the court having jurisdiction over the dispute in the main proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7598">
+          <num>48</num>
+          <content eId="para_7598__content">
+            <p>Therefore, even the question of the possible inapplicability of Regulation No 44/2001 to the dispute in the main proceedings implies the need, for the Court, to interpret the provisions of that regulation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7599">
+          <num>49</num>
+          <content eId="para_7599__content">
+            <p>Consequently, the question referred in Case C‑447/16 is admissible.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Substance</p>
+        </tblock>
+        <paragraph eId="para_7600">
+          <num>50</num>
+          <content eId="para_7600__content">
+            <p>By its question, the referring court asks, in essence, whether the second indent of Article 5(1)(b) of Regulation No 44/2001 must be interpreted as meaning that it applies to a defendant domiciled in a third State, such as the defendant in the main proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7601">
+          <num>51</num>
+          <content eId="para_7601__content">
+            <p>In that regard, it should be noted that Article 5 of Regulation No 44/2001 applies only to persons domiciled in a Member State. In accordance with Article 60(1) of that regulation, a company is domiciled at the place where it has its statutory seat, central administration, or principal place of business.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7602">
+          <num>52</num>
+          <content eId="para_7602__content">
+            <p>It is apparent from the order for reference that Hainan Airlines has its seat outside of the European Union, namely in China, and does not have a branch in Berlin (Germany). Moreover, nothing in that order allows it to be concluded that that airline operates a branch in another Member State.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7603">
+          <num>53</num>
+          <content eId="para_7603__content">
+            <p>Consequently, in this case, it is necessary to apply Article 4(1) of Regulation No 44/2001, in accordance with which, if the defendant is not domiciled in a Member State, the jurisdiction of the courts of each Member State is to be determined by the law of that Member State.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7604">
+          <num>54</num>
+          <content eId="para_7604__content">
+            <p>For the sake of completeness, it should be noted that it is settled case-law that, in accordance with the principle of effectiveness, rules under national law cannot make it impossible or excessively difficult to exercise the rights conferred by EU law (see, to that effect, judgment of 8 June 2017, Vinyls Italia, C‑54/16, EU:C:2017:433, paragraph 26 and the case-law cited), such as those resulting from Regulation No 261/2004.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7605">
+          <num>55</num>
+          <content eId="para_7605__content">
+            <p>In light of the foregoing considerations, the answer to the question referred in Case C‑447/16 is that the second indent of Article 5(1)(b) of Regulation No 44/2001 must be interpreted as not applying to a defendant domiciled in a third State, such as the defendant in the main proceedings.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The questions referred in Cases C‑274/16 and C‑448/16</p>
+        </tblock>
+        <tblock>
+          <p>Consideration of the first question in Case C‑448/16</p>
+        </tblock>
+        <paragraph eId="para_7606">
+          <num>56</num>
+          <content eId="para_7606__content">
+            <p>By its first question in Case C‑448/16, the referring court asks, in essence, whether Article 5(1)(a) of Regulation No 44/2001 must be interpreted as meaning that the concept of `matters relating to a contract', for the purposes of that provision, covers a claim brought by air passengers for compensation for the long delay of a connecting flight, made under Regulation No 261/2004, against an operating air carrier with which the passenger concerned does not have contractual relations.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7607">
+          <num>57</num>
+          <content eId="para_7607__content">
+            <p>As a preliminary remark, it is necessary to point out that, although the referring court in Case C‑274/16 does not raise any issues in that regard, the answer to the first question in Case C‑448/16 is relevant also to Case C‑274/16 in so far as it follows from the order for reference in that case that, in the circumstances of this case, the operating air carrier is not the contracting partner of the passengers concerned either. It should be added, in that regard, that Case C‑274/16 falls, ratione temporis, within the scope of Regulation No 1215/2012, Article 7(1) of which is worded in terms almost identical to those of Article 5(1) of Regulation No 44/2001, the Court's interpretation of which maintains the entire scope of that first provision (see, to that effect, judgment of 9 March 2017, Pula Parking, C‑551/15, EU:C:2017:193, paragraph 31 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7608">
+          <num>58</num>
+          <content eId="para_7608__content">
+            <p>It is apparent from the Court's case-law that the concept of `matters relating to a contract' must be interpreted independently in order to ensure that it is applied uniformly in all the Member States (see, to that effect, judgments of 17 June 1992, Handte, C‑26/91, EU:C:1992:268, paragraph 10, and of 28 January 2015, Kolassa, C‑375/13, EU:C:2015:37, paragraph 37).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7609">
+          <num>59</num>
+          <content eId="para_7609__content">
+            <p>In that regard, the Court has also held that in the case where non-performance of a contract is relied upon to support a claimant's action, all obligations arising under that contract must be considered to come within the concept of matters relating to a contract (judgment of 15 June 2017, Kareda, C‑249/16, EU:C:2017:472, paragraph 30 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7610">
+          <num>60</num>
+          <content eId="para_7610__content">
+            <p>The Court has also stated that, even if the application of the rule of special jurisdiction for matters relating to a contract does not require the conclusion of a contract between two persons, it nevertheless presupposes the existence of a legal obligation freely consented to by one person in respect of another and on which the claimant's action is based (see, to that effect, judgments of5 February 2004, Frahuil, C‑265/02, EU:C:2004:77, paragraphs 24 to 26; of 20 January 2005, Engler, C‑27/02, EU:C:2005:33, paragraphs 50 and 51; and of 28 January 2015, Kolassa, C‑375/13, EU:C:2015:37, paragraph 39).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7611">
+          <num>61</num>
+          <content eId="para_7611__content">
+            <p>It follows, as the Advocate General stated in point 54 of his Opinion, that the rule of special jurisdiction in matters relating to a contract provided for in Article 5(1)(a) of Regulation No 44/2001 and in Article 7(1)(a) of Regulation No 1215/2012 is based on the cause of action, not the identity of the parties (see, to that effect, judgment of 15 June 2017, Kareda, C‑249/16, EU:C:2017:472, paragraphs 31 and 33).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7612">
+          <num>62</num>
+          <content eId="para_7612__content">
+            <p>In that regard, the second sentence of Article 3(5) of Regulation No 261/2004 states that, where an operating air carrier which has no contract with the passenger performs obligations under this regulation, it is to be regarded as doing so on behalf of the person having a contract with that passenger.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7613">
+          <num>63</num>
+          <content eId="para_7613__content">
+            <p>Therefore, that carrier must be regarded as fulfilling the freely consented obligations vis-à-vis the contracting partner of the passengers concerned. Those obligations arise under the contract for carriage by air.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7614">
+          <num>64</num>
+          <content eId="para_7614__content">
+            <p>Consequently, in circumstances such as those at issue in the cases in the main proceedings, an application for compensation for the long delay of a flight carried out by an operating air carrier such as Air Nostrum, with which the passengers concerned do not have contractual relations, must be considered to have been introduced in respect of contracts for carriage by air concluded between those passengers and Air Berlin and Iberia respectively.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7615">
+          <num>65</num>
+          <content eId="para_7615__content">
+            <p>In light of the foregoing considerations, the answer to the first question in Case C‑448/16 is that Article 5(1)(a) of Regulation No 44/2001 must be interpreted as meaning that the concept of `matters relating to a contract', for the purposes of that provision, covers a claim brought by air passengers for compensation for the long delay of a connecting flight, made under Regulation No 261/2004, against an operating air carrier with which the passenger concerned does not have contractual relations.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The question in Case C‑274/16 and the second question in Case C‑448/16</p>
+        </tblock>
+        <paragraph eId="para_7616">
+          <num>66</num>
+          <content eId="para_7616__content">
+            <p>By the question in Case C‑274/16 and by the second question in Case C‑448/16, the referring courts ask, in essence, whether the second indent of Article 5(1)(b) of Regulation No 44/2001 and the second indent of Article 7(1)(b) of Regulation No 1215/2012 must be interpreted as meaning that, in the case of a connecting flight, the `place of performance' of that flight, for the purposes of those provisions, is the place of arrival of the second flight, where the carriage on both flights was operated by two different air carriers and the action for compensation for the long delay of that connecting flight under Regulation No 261/2004 is based on an irregularity which took place on the first of those flights, operated by the air carrier with which the passengers concerned do not have contractual relations.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7617">
+          <num>67</num>
+          <content eId="para_7617__content">
+            <p>In that regard, the Court has held, regarding the second indent of Article 5(1)(b) of Regulation No 44/2001, that, where there are several places at which services are provided in different Member States, the place of performance must, in principle, be understood as the place with the closest linking factor between the contract and the court having jurisdiction, which, as a general rule, will be at the place of the main provision of services (see, to that effect, judgments of 9 July 2009, Rehder, C‑204/08, EU:C:2009:439, paragraphs 35 to 38, and of 11 March 2010, Wood Floor Solutions Andreas Domberger, C‑19/09, EU:C:2010:137, paragraph 33). That place must be deduced, as far as possible, from the provisions of the contract itself (judgment of 11 March 2010, Wood Floor Solutions Andreas Domberger, C‑19/09, EU:C:2010:137, paragraph 38).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7618">
+          <num>68</num>
+          <content eId="para_7618__content">
+            <p>Therefore, the Court has held, in respect of that provision, in relation to a direct flight operated by the contracting partner of the passenger concerned, that the place of departure and the place of arrival of the aircraft must be considered, likewise, as the places of main provision of the services under a contract for carriage by air, justifying conferring jurisdiction for a claim for compensation founded on that carriage contract and on Regulation No 261/2004 -- at the applicant's choice -- on the court in whose territorial jurisdiction the place of departure or the place of arrival of the aircraft are situated, as those places are agreed in that contract (judgment of 9 July 2009, Rehder, C‑204/08, EU:C:2009:439, paragraphs 43 and 47).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7619">
+          <num>69</num>
+          <content eId="para_7619__content">
+            <p>In that regard, it should be noted that although the concept of `place of performance' set out in the judgment of 9 July 2009, Rehder ( C‑204/08, EU:C:2009:439), refers to a direct flight operated by the contracting partner of the passenger concerned, it also applies, mutatis mutandis, with respect to situations such as those at issue in the main proceedings, in which, first, the booked connecting flight consists of two legs, and, secondly, the operating air carrier on the flight at issue did not conclude a contract directly with the passengers concerned.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7620">
+          <num>70</num>
+          <content eId="para_7620__content">
+            <p>The rule relating to special jurisdiction in the provision of services, provided for in the second indent of Article 5(1)(b) of Regulation No 44/2001 and the second indent of Article 7(1)(b) of Regulation No 1215/2012, designates the court of `the place in a Member State where, under the contract, the goods were delivered or should have been delivered' as having jurisdiction.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7621">
+          <num>71</num>
+          <content eId="para_7621__content">
+            <p>In that regard, a contract for carriage by air, such as the contracts at issue in the cases in the main proceedings consisting of a single booking for the entire journey, establishes the obligation, for an air carrier, to carry a passenger from a point A to a point C. Such a carriage operation constitutes a service of which one of the principal places of provision is at point C.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7622">
+          <num>72</num>
+          <content eId="para_7622__content">
+            <p>That finding is not called into question by the fact that the operating air carrier with which the passengers concerned do not have contractual relations operates only the carriage on a flight which does not finish at the place of arrival of the second leg of a connecting flight in so far as the contract for carriage by air relating to the connecting flight covers the carriage of those passengers to the place of arrival of the second leg.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7623">
+          <num>73</num>
+          <content eId="para_7623__content">
+            <p>In those circumstances, it must be noted that, in the case of a connecting flight, the place of performance of such a flight, for the purposes of the second indent of Article 5(1)(b) of Regulation No 44/2001 and the second indent of Article 7(1)(b) of Regulation No 1215/2012, is the place of arrival of the second leg, as one of the main places of provision of services under a contract for carriage by air.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7624">
+          <num>74</num>
+          <content eId="para_7624__content">
+            <p>Given that that place has a sufficiently close link with the material elements of the dispute and, therefore, ensures the close connection required by the rules of special jurisdiction set out in Article 5(1) of Regulation No 44/2001 and Article 7(1) of Regulation No 1215/2012 between the contract for carriage by air and the court with jurisdiction, it satisfies the objective of proximity (see, to that effect, judgment of 9 July 2009, Rehder, C‑204/08, EU:C:2009:439, paragraph 44).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7625">
+          <num>75</num>
+          <content eId="para_7625__content">
+            <p>That solution also fulfils the principle of predictability pursued by those rules in so far as it allows both the applicant and the defendant to identify the court for the place of arrival of the second flight, as it is set out in that contract for carriage by air, as the court before which actions may be brought (see, to that effect, judgments of 9 July 2009, Rehder, C‑204/08, EU:C:2009:439, paragraph 45, and of 4 September 2014, Nickel &amp; Goeldner Spedition, C‑157/13, EU:C:2014:2145, paragraph 41).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7626">
+          <num>76</num>
+          <content eId="para_7626__content">
+            <p>In that regard, Air Nostrum's argument, according to which it would be impossible for it, as operator of a domestic flight in Spain, to assess the risk of being sued before a court in Germany, cannot be accepted.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7627">
+          <num>77</num>
+          <content eId="para_7627__content">
+            <p>First, it is not disputed that, in the circumstances of the cases in the main proceedings, the contracts for carriage by air related to a connecting flight made by a single booking covering both legs, so that that booking related both to the first flight carried out by the operating air carrier, and to the second flight to the final destination. Secondly, it is necessary to take into account the fact that, as is apparent from paragraphs 62 and 63 of the present judgment, in the context of commercial agreements freely entered into by air carriers, an operating air carrier which has not concluded a contract with the passenger is considered to act on behalf of the air carrier with which the passenger concerned has contractual relations.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7628">
+          <num>78</num>
+          <content eId="para_7628__content">
+            <p>In light of the foregoing considerations, the answer to the question in Case C‑274/16 and to the second question in Case C‑448/16 is that the second indent of Article 5(1)(b) of Regulation No 44/2001 and the second indent of Article 7(1)(b) of Regulation No 1215/2012 must be interpreted as meaning that, in the case of a connecting flight, the `place of performance' of that flight, for the purposes of those provisions, is the place of arrival of the second leg, where the carriage on both flights was operated by two different air carriers and the action for compensation for the long delay of that connecting flight under Regulation No 261/2004 is based on an irregularity which took place on the first of those flights, operated by the air carrier with which the passengers concerned do not have contractual relations.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_7629">
+          <num>79</num>
+          <content eId="para_7629__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Third Chamber) hereby rules: 1. The second indent of Article 5(1)(b) of Council Regulation (EC) No 44/2001 of 22 December 2000 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters must be interpreted as not applying to a defendant domiciled in a third State, such as the defendant in the main proceedings. 2. Article 5(1)(a) of Regulation No 44/2001 must be interpreted as meaning that the concept of `matters relating to a contract', for the purposes of that provision, covers a claim brought by air passengers for compensation for the long delay of a connecting flight, made under Regulation (EC) No 261/2004 of the European Parliament and of the Council of 11 February 2004 establishing common rules on compensation and assistance to passengers in the event of denied boarding and of cancellation or long delay of flights, and repealing Regulation (EEC) No 295/91, against an operating air carrier with which the passenger concerned does not have contractual relations. 3. The second indent of Article 5(1)(b) of Regulation No 44/2001 and the second indent of Article 7(1)(b) of Regulation (EU) No 1215/2012 of the European Parliament and of the Council of 12 December 2012 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters must be interpreted as meaning that, in the case of a connecting flight, the `place of performance' of that flight, for the purposes of those provisions, is the place of arrival of the second leg, where the carriage on both flights was operated by two different air carriers and the action for compensation for the long delay of that connecting flight under Regulation No 261/2004 is based on an irregularity which took place on the first of those flights, operated by the air carrier with which the passengers concerned do not have contractual relations.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: German.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

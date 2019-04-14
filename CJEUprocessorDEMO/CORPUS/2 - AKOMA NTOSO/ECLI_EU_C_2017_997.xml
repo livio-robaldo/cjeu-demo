@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+      <references source="#source">
+        <TLCOrganization eId="institution_3" showAs="" href="/akn/ontology/Organization/Institution/institution_3" />
+        <TLCOrganization eId="company_70" showAs="" href="/akn/ontology/Organization/Company/company_70" />
+      </references>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Third Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>20 December 2017 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Freedom of establishment and freedom of movement for workers -- Articles 45 and 49 TFEU -- Mutual recognition of diplomas, certificates and other evidence of formal qualifications in medicine -- Directives 75/363/EEC and 93/16/EEC -- Remuneration of trainee specialist doctors) in Case C‑419/16, REQUEST for a preliminary ruling under Article 267 TFEU from the Tribunale di Bolzano (District Court of Bolzano, Italy), made by decision of 15 July 2016, received at the Court on 28 July 2016, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">Sabine Simma Federspiel</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#institution_3">Provincia Autonoma di Bolzano</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="respondent" refersTo="#company_70">Equitalia Nord SpA</party>
+      </p>
+      <p>, THE COURT (Third Chamber), composed of L. Bay Larsen, President of the Chamber, J. Malenovský, M. Safjan (Rapporteur), D. Šváby and M. Vilaras, Judges, Advocate General: N. Wahl, Registrar: R. Schiano, Administrator, having regard to the written procedure and further to the hearing on 15 June 2017, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>Ms Simma Federspiel, by F. Dagostin and S. Fassa, avvocati,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Provincia autonoma di Bolzano, by J.A. Walther von Herbstenburg, Rechtsanwalt,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by H. Støvlbæk, M. Kellerbauer and L. Malferrari, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 13 September 2017,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_6161">
+          <num>1</num>
+          <content eId="para_6161__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Article 2(1)(c) of Council Directive 75/363/EEC of 16 June 1975 concerning the coordination of provisions laid down by law, regulation or administrative action in respect of activities of doctors ( OJ 1975 L 167, p. 14), as amended by Council Directive 82/76/EEC of 26 January 1982 ( OJ 1982 L 43, p. 21) ( `Directive 75/363'), and of Article 45 TFEU as well.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6162">
+          <num>2</num>
+          <content eId="para_6162__content">
+            <p>That request has been made in the context of proceedings between Ms Sabine Simma Federspiel, on the one hand, and the Provincia autonoma di Bolzano (Autonomous Province of Bolzano, Italy) and</p>
+            <p>
+              <organization refersTo="#company_70">Equitalia Nord SpA</organization>
+            </p>
+            <p>, on the other, concerning measures by which that province requested Ms Simma Federspiel to repay to it part of the specialist bursary, together with interest, received in relation to full-time training as a specialist doctor in neurology and psychiatry given in a Member State other than the Italian Republic.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>European Union law</p>
+        </tblock>
+        <tblock>
+          <p>Directive 75/363</p>
+        </tblock>
+        <paragraph eId="para_6163">
+          <num>3</num>
+          <content eId="para_6163__content">
+            <p>Article 2(1) of Directive 75/363 provided: `Member States shall ensure that the training leading to a diploma, certificate or other evidence of formal qualifications in specialised medicine, meets the following requirements at least:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>it shall entail the successful completion of six years' study within the framework of the training course referred to in Article 1;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>it shall comprise theoretical and practical instruction;</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>it shall be a full-time course supervised by the competent authorities or bodies pursuant to point 1 of the Annex hereto;</p>
+              </item>
+              <item>
+                <num>(d)</num>
+                <p>it shall be in a university centre, in a teaching hospital or, where appropriate, in a health establishment approved for this purpose by the competent authorities or bodies;</p>
+              </item>
+              <item>
+                <num>(e)</num>
+                <p>it shall involve the personal participation of the doctor training to be a specialist in the activity and in the responsibilities of the establishments concerned.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6164">
+          <num>4</num>
+          <content eId="para_6164__content">
+            <p>The Annex to that directive, entitled `Characteristics of full-time and part-time training of specialists', provided, in point 1 thereof, headed `Full-time training of specialists': `Such training shall be carried out in specific posts recognised by the competent authority. It shall involve participation in all the medical activities of the department where the training is carried out, including on-call duties, so that the trainee specialist devotes to this practical and theoretical training all his professional activity throughout the duration of the standard working week and throughout the year according to provisions agreed by the competent authorities. Accordingly these posts shall be subject to appropriate remuneration. ...'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Directive 93/16</p>
+        </tblock>
+        <paragraph eId="para_6165">
+          <num>5</num>
+          <content eId="para_6165__content">
+            <p>Directive 75/363 was repealed on 15 April 1993 by Council Directive 93/16/EEC of 5 April 1993 to facilitate the free movement of doctors and the mutual recognition of their diplomas, certificates and other evidence of formal qualifications ( OJ 1993 L 165, p. 1). The latter was repealed by Directive 2005/36/EC of the European Parliament and of the Council of 7 September 2005 on the recognition of professional qualifications ( OJ 2005 L 255, p. 22), with effect from 20 October 2007.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6166">
+          <num>6</num>
+          <content eId="para_6166__content">
+            <p>Title III of Directive 93/16, entitled `Coordination of provisions laid down by law, regulation or administrative action in respect of activities of doctors', included Article 24 thereof, which provided, in paragraph 1: `Member States shall ensure that the training leading to a diploma, certificate or other evidence of formal qualifications in specialised medicine, meets the following requirements at least:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>it shall entail the successful completion of six years' study within the framework of the training course referred to in Article 23 ...;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>it shall comprise theoretical and practical instruction;</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>it shall be a full-time course supervised by the competent authorities or bodies pursuant to point 1 of Annex I;</p>
+              </item>
+              <item>
+                <num>(d)</num>
+                <p>it shall be in a university centre, in a teaching hospital or, where appropriate, in a health establishment approved for this purpose by the competent authorities or bodies;</p>
+              </item>
+              <item>
+                <num>(e)</num>
+                <p>it shall involve the personal participation of the doctor training to be a specialist in the activity and in the responsibilities of the establishments concerned.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6167">
+          <num>7</num>
+          <content eId="para_6167__content">
+            <p>Annex I to Directive 93/16, entitled `Characteristics of full-time and part-time training of specialists as referred to in Articles 24(1) (c) and 25' provided in point 1, headed `Full-time training of specialists': `Such training shall be carried out in specific posts recognised by the competent authority. It shall involve participation in all the medical activities of the department where the training is carried out, including on-call duties, so that the trainee specialist devotes to this practical and theoretical training all his professional activity throughout the duration of the standard working week and throughout the year according to provisions agreed by the competent authorities. Accordingly these posts shall be subject to appropriate remuneration. ...'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Italian law</p>
+        </tblock>
+        <paragraph eId="para_6168">
+          <num>8</num>
+          <content eId="para_6168__content">
+            <p>Article 1 of the legge provinciale n.1 -- Formazione di medici specialisti (Provincial Law No 1 on the training of specialist doctors) of 3 January 1986 (B.U. of 14 January 1986, No 2, `Provincial Law No 1/86') applicable to the facts of the case in the main proceedings, provided: `1.   It being impossible to acquire specialist medical qualifications in the [Autonomous] Province of Bolzano, the competent provincial minister with jurisdiction is authorised ... to sign appropriate agreements to create additional posts for the training of medical specialists with Italian universities and with the competent Austrian public authorities, in accordance with the laws of that State in the field in question, subject to compliance with national and provincial legislation [in force]. 2.   The agreement signed with the Austrian public authorities pursuant to the preceding paragraph may provide for the [Autonomous] Province [of Bolzano] to pay those authorities an amount not exceeding the maximum for the bursary laid down in Article 3 ... if they provide for the payment of a corresponding remuneration to the trainee specialist.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6169">
+          <num>9</num>
+          <content eId="para_6169__content">
+            <p>Under Article 7 of Provincial Law No 1/86: `1.   [Recipient doctors] ... shall undertake to practise in the public health service of the [Autonomous] Province [of Bolzano] for a period to be determined by regulation of the Giunta provinciale (Provincial Government). That period may not be less than five years and shall be completed over a time span to be laid down in the same regulation. 2.   In the event of complete or partial failure to honour the undertaking referred to in the preceding paragraph, part of the specialist bursary or financial contribution shall be repaid, together with statutory interest. The part to be repaid shall be determined by decision of the Provincial Government on the basis of a regulation and shall not exceed 70% of the bursary or contribution.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6170">
+          <num>10</num>
+          <content eId="para_6170__content">
+            <p>The decreto del presidente della Giunta provinciale n o 6/1988 (Decree of the President of the Provincial Government No 6/1988) of 29 March 1988, provided: `1.[Doctors] in receipt of the specialist bursaries or contributions [referred to in Provincial Law No 1/86] shall undertake to practise for 5 years in the public health service of the [Autonomous] Province [of Bolzano], on a contractual basis where appropriate, within 10 years of the date of qualifying for the specialisation or completing the period of training. 2. The disbursement of bursaries and contributions shall be conditional on the person concerned producing [an express] declaration ... affirming the undertaking to comply with the condition laid down in paragraph 1. 3. Recipients shall be required:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>to repay up to 70% of the total amount of the bursary or contribution in the event of total failure to honour the undertaking referred to in paragraph 1;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>to repay up to 14% of the total amount of the bursary or contribution for each year or part of a year in excess of six months in which the recipient failed to practise, up to a maximum of five years, in the event of partial failure to honour the undertaking. ... 5. There will be no failure to honour the undertaking referred to in paragraph 1 if the person concerned proves that he or she applied for a post in the public health service of the [Autonomous] Province [of Bolzano] and, having taken part in the corresponding competitive examinations, was found suitable or was placed in the ranking lists for contracts but was not then called upon to commence work with the service. ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_6171">
+          <num>11</num>
+          <content eId="para_6171__content">
+            <p>Ms Simma Federspiel is an Italian citizen, who pursued, from 1992 until 2000, full-time training as a medical specialist in neurology and psychiatry given by the University Hospital of Innsbruck (Austria), and received, over that period, a study bursary awarded by the Autonomous Province of Bolzano on the basis of Article 1 of Provincial Law No 1/86. Until 31 July 2000, she resided in Bolzano. Since then, she has resided in Bregenz (Austria), where she practises medicine.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6172">
+          <num>12</num>
+          <content eId="para_6172__content">
+            <p>The award of that bursary was conditional upon an undertaking by Ms Simma Federspiel to work for the public health service of the Autonomous Province of Bolzano for a period of 5 years over a 10-year period, within 10 years of the date of qualifying for the specialisation, or to repay, if she failed entirely to honour that undertaking, up to 70% of the amount of that bursary or, if she failed in part to honour that undertaking, up to 14% of the amount of the bursary granted for each year or part of a year in excess of 6 months of work not provided. Ms Simma Federspiel signed an express declaration to that effect on 21 December 1992.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6173">
+          <num>13</num>
+          <content eId="para_6173__content">
+            <p>It follows from the order for reference that the Autonomous Province of Bolzano paid the University Hospital of Innsbruck the bursary at issue in accordance with an agreement entered into with the Land Tyrol (Austria). That university hospital then made the payments in favour of Ms Simma Federspiel. The referring court states that it does not appear that the latter received any other remuneration for the activity undertaken in the context of her specialisation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6174">
+          <num>14</num>
+          <content eId="para_6174__content">
+            <p>By letter of 20 February 2013, the Autonomous Province of Bolzano asked Ms Simma Federspiel to provide either a certificate concerning the work she carried out for the public health service of that province or proof that she had submitted an application for a position within that public health service and had successfully taken part in the relevant competitions or had been placed in the ranking lists, but had not, however, then been called upon to practise the activity in question.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6175">
+          <num>15</num>
+          <content eId="para_6175__content">
+            <p>In answer to that letter, Ms Simma Federspiel informed the Autonomous Province of Bolzano that she had not practised in that province since qualifying as a specialist.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6176">
+          <num>16</num>
+          <content eId="para_6176__content">
+            <p>In these circumstances, by decree of 5 August 2013, that province asked her to repay 70% of the amount of the bursary received, namely, the sum of EUR 68515.24, together with interest of an amount of EUR 51418.63, thus a total sum of EUR 119933.87.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6177">
+          <num>17</num>
+          <content eId="para_6177__content">
+            <p>Ms Simma Federspiel brought proceedings before the Tribunale di Bolzano (District Court of Bolzano, Italy) seeking annulment of the measures by which the Autonomous Province of Bolzano requested her to repay that sum. In support of her action, she claims that Provincial Law No 1/86, on the basis of which those measures were adopted, is unlawful.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6178">
+          <num>18</num>
+          <content eId="para_6178__content">
+            <p>In that regard, that court notes that the obligation, laid down by the provincial legislation, to repay 70% of the amount of the bursary received besides the statutory interest commits, in practice, the doctors concerned to repay a substantially higher sum that that awarded under that bursary.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6179">
+          <num>19</num>
+          <content eId="para_6179__content">
+            <p>Furthermore, the referring court has doubts as to whether the regime laid down by that legislation is compatible with EU law, and in particular with Article 45 TFEU, since those rules have the effect of deterring specialist doctors from leaving their Member State of origin in order to establish themselves and practise a profession in another Member State.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6180">
+          <num>20</num>
+          <content eId="para_6180__content">
+            <p>Taking the view that the outcome of the main proceedings depends on the interpretation of the relevant provisions of EU law, the Tribunale di Bolzano (District Court of Bolzano) decided to stay the proceedings and refer the following questions to the Court for a preliminary ruling: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Are Article 2(1)(c) of [Directive 75/363] and the Annex [to that directive] to be interpreted as precluding a provision of national law, such as that applicable in the main proceedings, which makes disbursement of the remuneration for doctors studying to become specialists subject to presentation of a declaration by the recipient doctor undertaking to work for at least 5 years in the public health service of the Autonomous Province of Bolzano within 10 years of completing training as a specialist and which, in the event of a total failure to honour that undertaking, expressly permits the Autonomous Province of Bolzano, as the body funding the remuneration, to reclaim up to 70% of the allowance paid together with statutory interest calculated from the moment at which the administration paid each individual instalment?</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>If the first question is answered in the negative: does the principle of freedom of movement for workers under Article 45 TFEU preclude a provision of national law, such as that applicable in the main proceedings, which makes disbursement of the remuneration for doctors studying to become specialists subject to presentation of a declaration by the recipient doctor undertaking to work for at least 5 years in the public health service of the Autonomous Province of Bolzano within 10 years of completing training as a specialist and which, in the event of a total failure to honour that undertaking, expressly permits the Autonomous Province of Bolzano, as the body funding the remuneration, to reclaim up to 70% of the allowance paid together with statutory interest calculated from the moment at which the administration paid each individual instalment?'</p>
+                <tblock>
+                  <p>Consideration of the questions referred</p>
+                </tblock>
+                <tblock>
+                  <p>The first question</p>
+                </tblock>
+                <p>21 By its first question, the referring court seeks, in essence, to ascertain whether Article 2(1)(c) of Directive 75/363 and its Annex must be interpreted as precluding the legislation of a Member State, such as that at issue in the main proceedings, under which the disbursement of a national bursary intended to fund training, delivered in another Member State, leading to qualification as a specialist doctor, is conditional upon the recipient doctor practising his profession in the Member State of training for a period of 5 years over a 10-year period following completion of the specialisation or, failing that, upon his repayment of up to 70% of the amount of the bursary received, together with interest.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6181">
+          <num>22</num>
+          <content eId="para_6181__content">
+            <p>As a preliminary point, it must be noted that, in the case in the main proceedings, Ms Simma Federspiel's training as a specialist doctor in neuropsychiatry offered by the University Hospital of Innsbruck started in the course of 1992 and finished in the course of 2000. Therefore, the case in the main proceedings is governed by the provisions of Directive 75/363 until 15 April 1993, the date on which its repeal by Directive 93/16 took effect, and by the provisions of that latter directive as of that date.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6182">
+          <num>23</num>
+          <content eId="para_6182__content">
+            <p>As regards Directive 75/363, Article 2(1)(c) thereof provided that the training leading to a diploma, certificate or other evidence of formal qualifications in specialised medicine had to be undertaken full time and be supervised by the competent authorities or bodies, in accordance with point 1 of the Annex to that directive. According to point 1 of that annex, that training was undertaken in posts which were appropriately remunerated.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6183">
+          <num>24</num>
+          <content eId="para_6183__content">
+            <p>Article 24(1)(c) of Directive 93/16, and Annex I, point 1 thereof, too, are drafted in terms similar to those set out in the previous paragraph.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6184">
+          <num>25</num>
+          <content eId="para_6184__content">
+            <p>In that regard, it must be noted that those provisions lay down the obligation to provide remuneration for periods of training in medical specialties in order to prevent the level of training in specialised medicine being compromised, in particular, by the parallel pursuit, in a private capacity, of a paid professional activity (see, to that effect, judgment of 25 February 1999, Carbonari and Others, C‑131/97, EU:C:1999:98, paragraph 40).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6185">
+          <num>26</num>
+          <content eId="para_6185__content">
+            <p>Indeed, that obligation is, in itself, unconditional and sufficiently precise (judgment of 25 February 1999, Carbonari and Others, C‑131/97, EU:C:1999:98, paragraph 44) and is thus entirely linked to fulfilling the requirements for training in specialised medicine (see, to that effect, judgment of 25 February 1999, Carbonari and Others, C‑131/97, EU:C:1999:98, paragraph 41).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6186">
+          <num>27</num>
+          <content eId="para_6186__content">
+            <p>Although it is true that trainee specialists enjoy the right to remuneration (see, to that effect, judgment of 25 February 1999, Carbonari and Others, C‑131/97, EU:C:1999:98, paragraph 42), it does not appear that the condition at issue in the main proceedings affects the corresponding obligation to remunerate them which, moreover, is not, as is apparent from the case-law of the Court, unconditional as regards its level (judgment of 25 February 1999, Carbonari and Others, C‑131/97, EU:C:1999:98, paragraph 47) nor, therefore, the fulfilment of the requirements for training in specialised medicine.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6187">
+          <num>28</num>
+          <content eId="para_6187__content">
+            <p>In that regard, it must be recalled that during her period of specialisation, Ms Simma Federspiel enjoyed remuneration which, furthermore, all the parties having submitted observations in the context of the present case, including Ms Federspiel, agree was sufficient for the purpose of completing her training.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6188">
+          <num>29</num>
+          <content eId="para_6188__content">
+            <p>Thus, the condition at issue in the main proceedings takes effect only at the end of the period of training of specialist doctors, without adversely affecting their training conditions, and is unrelated to the relationship between those doctors and the Member State providing the training.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6189">
+          <num>30</num>
+          <content eId="para_6189__content">
+            <p>Therefore, in such a context, Article 2(1)(c) of Directive 75/363 and Article 24(1)(c) of Directive 93/16 are not to be interpreted as precluding a condition such as that at issue in the main proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6190">
+          <num>31</num>
+          <content eId="para_6190__content">
+            <p>Having regard to the foregoing, the answer to the first question is that Article 2(1)(c) of Directive 75/363 and Article 24(1)(c) of Directive 93/16 must be interpreted as not precluding the legislation of a Member State, such as that at issue in the main proceedings, in accordance with which the disbursement of a national bursary intended to fund training given in another Member State, leading to qualification as a specialist doctor, is conditional upon the recipient doctor practising his profession in that first Member State for a period of 5 years over a 10-year period following completion of the specialisation or, failing that, upon his repayment of up to 70% of the amount of the bursary received, together with interest.</p>
+            <tblock>
+              <p>The second question</p>
+            </tblock>
+            <p>32 By its second question, the referring court asks, in essence, whether Article 45 TFEU must be interpreted as meaning that it precludes the legislation of a Member State, such as that at issue in the main proceedings, in accordance with which disbursement of a national bursary intended to fund training given in another Member State, leading to qualification as a specialist doctor, is conditional upon the recipient doctor practising his profession in that first Member State for a period of 5 years over a 10-year period following completion of the specialisation or, failing that, upon his repayment of up to 70% of the amount of the bursary received, together with interest.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6191">
+          <num>33</num>
+          <content eId="para_6191__content">
+            <p>As a preliminary point, it must be noted that, in accordance with Article 168(7) TFEU, as interpreted in the case-law of the Court, EU law does not detract from the power of the Member States to adopt provisions aimed at organising their health services. In exercising that power, however, the Member States must comply with EU law, in particular the provisions of TFEU on the freedom of establishment, which prohibit the Member States from introducing or maintaining unjustified restrictions of the exercise of that freedom in the health care sector (see, to that effect, judgment of 21 September 2017, Malta Dental Technologists Association and Reynaud, C‑125/16, EU:C:2017:707, paragraph 54 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6192">
+          <num>34</num>
+          <content eId="para_6192__content">
+            <p>In that regard, the legislation at issue in the main proceedings does not make a distinction according to whether or not the activity of the doctor in receipt of the bursary at issue in a Member State other than the Italian Republic must be classified as an activity of an employed worker. In addition, neither the decision to refer nor the file before the Court makes it possible to establish whether Ms Simma Federspiel practises as an employed doctor in Austria or as a self-employed professional and, therefore, whether the situation covered by the dispute in the main proceedings falls within the scope of freedom of movement for workers, set out in Article 45 TFEU or freedom of establishment laid down in Article 49 TFEU. Consequently, legislation such as that at issue in the main proceedings must be examined in the light of both Article 45 TFEU and Article 49 TFEU.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6193">
+          <num>35</num>
+          <content eId="para_6193__content">
+            <p>According to the settled case-law of the Court, all the provisions of the Treaty on freedom of movement for persons are intended to facilitate the pursuit by Union nationals of occupational activities of all kinds throughout the EU, and preclude measures that might place Union nationals at a disadvantage when they wish to pursue an activity in the territory of a Member State other than their Member State of origin. In that context, nationals of the Member States have in particular the right, which they derive directly from the Treaty, to leave their Member State of origin to enter the territory of another Member State and reside there in order to pursue an activity there. As a result, Article 45 TFEU precludes any national measure which is capable of hindering or rendering less attractive the exercise by Union nationals of the fundamental freedoms guaranteed by that article (see, to that effect, judgment of 18 July 2017, Erzberger, C‑566/15, EU:C:2017:562, paragraph 33 and the case-law cited). The same is true of restrictions of the freedom of establishment laid down in Article 49 TFEU (see, to that effect, judgments of 5 December 2013, Venturini and Others, C‑159/12 to C‑161/12, EU:C:2013:791, paragraph 30, and of 5 April 2017, Borta, C‑298/15, EU:C:2017:266, paragraph 47 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6194">
+          <num>36</num>
+          <content eId="para_6194__content">
+            <p>It must be held that a Member State's legislation, such as that at issue in the main proceedings, which makes the disbursement of a bursary intended to fund specialist doctor training given in another Member State conditional upon the recipient doctor practising in the Member State of training for a specific period after completion of his specialisation, is liable to deter that doctor from exercising his right to free movement or freedom of establishment, laid down in Articles 45 and 49 TFEU. Indeed, that doctor will be deterred from leaving his Member State of origin to work or establish himself in another Member State, if that leads him to repay up to 70% of the amount of the bursary received, together with interest (see, by analogy, judgment of 8 November 2012, Radziejewski, C‑461/11, EU:C:2012:704, paragraph 31).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6195">
+          <num>37</num>
+          <content eId="para_6195__content">
+            <p>Accordingly, such legislation amounts to a restriction of the free movement of workers prohibited, in principle, by Articles 45 and 49 TFEU.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6196">
+          <num>38</num>
+          <content eId="para_6196__content">
+            <p>It is settled case-law that national measures liable to hinder the exercise of fundamental freedoms guaranteed by the Treaty or make it less attractive may be allowed only if they pursue an objective in the public interest, are appropriate for ensuring the attainment of that objective and do not go beyond what is necessary to attain the objective pursued (see judgment of 13 July 2016, Pöpperl, C‑187/15, EU:C:2016:550, paragraph 29 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6197">
+          <num>39</num>
+          <content eId="para_6197__content">
+            <p>In the case in the main proceedings, it must be stated, in the first place, that the national legislation at issue applies without discrimination on grounds of nationality.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6198">
+          <num>40</num>
+          <content eId="para_6198__content">
+            <p>It must be noted that the question of establishing what objectives are in fact pursued by the national legislation is, in the context of a case referred to the Court under Article 267 TFEU, within the jurisdiction of the referring court (see, in particular, judgment of 15 September 2011, Dickinger and Ömer, C‑347/09, EU:C:2011:582, paragraph 51).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6199">
+          <num>41</num>
+          <content eId="para_6199__content">
+            <p>As the Autonomous Province of Bolzano and the European Commission stated in their written observations and at the hearing in the present case, the measures laid down by the national legislation at issue in the main proceedings are intended to guarantee for the population of that province specialised medical assistance of high quality, balanced and accessible to all, while maintaining the financial equilibrium of the social security system.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6200">
+          <num>42</num>
+          <content eId="para_6200__content">
+            <p>In that connection, it must be recalled that human health and life rank foremost among the assets and interests protected by the Treaty. Furthermore, not only may the risk of seriously compromising the financial equilibrium of a social security system constitute, per se, an overriding reason relating to the general interest capable of justifying an obstacle to the fundamental freedoms laid down by TFEU, but in addition the objective of maintaining, on grounds of public health, a balanced medical and hospital service open to all may also fall within one of the derogations on grounds of public health, in so far as it contributes to the attainment of a high level of health protection. This thus applies to measures that, on the one hand, meet the objective of guaranteeing in the territory of the Member State concerned sufficient and permanent access to a balanced range of high-quality medical treatment and, on the other, are intended to ensure cost efficiency and prevention, as far as possible, of any wastage of financial, technical and human resources (see, to that effect, judgment of 28 January 2016, CASTA and Others, C‑50/14, EU:C:2016:56, paragraph 60 and paragraph 61).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6201">
+          <num>43</num>
+          <content eId="para_6201__content">
+            <p>The national legislation at issue in the main proceedings is designed to create additional positions for the training of specialist doctors and thus facilitates an increase of specialised doctors on the labour market. Obliging doctors who have benefited from the bursary at issue in the main proceedings to practise in the Autonomous Province of Bolzano during a certain period after completing their specialisation helps meet the demand for specialist doctors in that province.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6202">
+          <num>44</num>
+          <content eId="para_6202__content">
+            <p>In these circumstances, it must be noted that the measures laid down by the national legislation at issue in the main proceedings pursue the legitimate aims referred to in paragraph 42 of the present judgment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6203">
+          <num>45</num>
+          <content eId="para_6203__content">
+            <p>In that regard, it must, first, be recalled that it follows from the case-law of the Court that it is for the Member States to determine the level of protection which they wish to afford to public health and the way in which that level is to be achieved. Since that level may vary from one Member State to another, Member States must be allowed a measure of discretion in that area (see, to that effect, judgment of 21 September 2017, Malta Dental Technologists Association and Reynaud, C‑125/16, EU:C:2017:707, paragraph 60).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6204">
+          <num>46</num>
+          <content eId="para_6204__content">
+            <p>Concerning, first, the appropriateness of the contested provisions, it must be observed that the obligation, under the legislation at issue, for a specialist doctor whose training was financed by that State, to work in the Autonomous Province of Bolzano of that State for a certain period following completion of that training helps meet the demand for specialist doctors in that province and therefore, meets the overall objective consisting in guaranteeing sufficient and permanent access to a balanced range of quality medical services and is such as to contribute to the cost efficiency linked to that service and, therefore, to protecting public health.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6205">
+          <num>47</num>
+          <content eId="para_6205__content">
+            <p>Secondly, as regards whether those provisions are appropriate, the referring court will have to take into account the fact that, as noted by the Advocate General in points 87 and 88 of his Opinion, the obligation, for specialist doctors having received funding for their training, to work in the Autonomous Province of Bolzano is restricted to 5 years within the first 10 years following qualification as a specialist, and arises, in accordance with the legislation at issue in the main proceedings, only in the situation in which a specialist doctor position is available in that province for the doctor in question and that position is offered to him at the right moment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6206">
+          <num>48</num>
+          <content eId="para_6206__content">
+            <p>Also of relevance for the purpose of that assessment are the specific needs of the Autonomous Province of Bolzano, mentioned by the European Commission and by the Advocate General in point 91 of his Opinion as well, namely, the necessity of ensuring that high-quality healthcare is available in both official languages of that region, that is to say, German and Italian, and, therefore, the difficulty in recruiting a sufficient number of medical specialists capable of practising in those two languages.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6207">
+          <num>49</num>
+          <content eId="para_6207__content">
+            <p>Moreover, nothing in the file before the Court shows that there exists any alternative measure that could enable that province to recruit a sufficient number of specialist doctors capable of practising in those two languages.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6208">
+          <num>50</num>
+          <content eId="para_6208__content">
+            <p>As regards the fact that, in the event of the failure to honour the obligation set out in paragraph 47 of the present judgment, the doctor in question is obliged to repay up to 70% of the amount of the bursary received intended to fund the training leading to qualification as a specialist doctor, it must be noted that, as the Advocate General noted in essence in point 94 of his Opinion, the amount to be repaid is not disproportionate, inasmuch as it does not exceed, besides the statutory interest which is a normal consequence of late payment, the sum received by virtue of that funding. Furthermore, Ms Simma Federspiel, by signing the declaration, had expressed her agreement to the obligation to repay the bursary received in the event of total failure to honour that undertaking.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6209">
+          <num>51</num>
+          <content eId="para_6209__content">
+            <p>Having regard to the foregoing, the answer to the second question is that Articles 45 and 49 TFEU must be interpreted as meaning that they do not preclude the legislation of a Member State, such as that at issue in the main proceedings, in accordance with which the disbursement of a national bursary intended to fund training given in another Member State, leading to qualification as a specialist doctor, is conditional upon the recipient doctor practising his profession in the Member State of training for a period of 5 years over a 10-year period following completion of the specialisation or, failing that, upon his repayment of up to 70% of the amount of the bursary received, together with interest, unless the measures laid down by that legislation do not actually contribute to the pursuit of the objectives of protection of public health and of the financial equilibrium of the social security system and go beyond what is necessary in that regard, which is a matter for the referring court to assess.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_6210">
+          <num>52</num>
+          <content eId="para_6210__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Third Chamber) hereby rules: 1. Article 2(1)(c) of Council Directive 75/363/EEC of 16 June 1975 concerning the coordination of provisions laid down by law, regulation or administrative action in respect of activities of doctors, as amended by Council Directive 82/76/EEC of 26 January 1982, as well as Article 24(1)(c) of Council Directive 93/16/EEC of 5 April 1993 to facilitate the free movement of doctors and the mutual recognition of their diplomas, certificates and other evidence of formal qualifications must be interpreted as not precluding the legislation of a Member State, such as that at issue in the main proceedings, in accordance with which the disbursement of a national bursary intended to fund training given in another Member State, leading to qualification as a specialist doctor, is conditional upon the recipient doctor practising his profession in that first Member State for a period of 5 years over a 10-year period following completion of the specialisation or, failing that, upon his repayment of up to 70% of the amount of the bursary received, together with interest. 2. Articles 45 and 49 TFEU must be interpreted as not precluding the legislation of a Member State, such as that at issue in the main proceedings, in accordance with which the disbursement of a national bursary intended to fund training given in another Member State, leading to qualification as a specialist doctor, is conditional upon the recipient doctor practising his profession in that first Member State for a period of 5 years over a 10-year period following completion of the specialisation or, failing that, upon his repayment of up to 70% of the amount of the bursary received, together with interest, unless the measures laid down by that legislation do not actually contribute to the pursuit of the objectives of protection of public health and of the financial equilibrium of the social security system and go beyond what is necessary in that regard, which is a matter for the referring court to assess.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Italian.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

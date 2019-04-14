@@ -1,0 +1,933 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+      <references source="#source">
+        <TLCOrganization eId="institution_56" showAs="" href="/akn/ontology/Organization/Institution/institution_56" />
+      </references>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Third Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>22 February 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Failure of a Member State to fulfil obligations -- Directive 91/271/EEC -- Urban waste-water treatment -- Judgment of the Court establishing a failure to fulfil obligations -- Non-implementation -- Article 260(2) TFEU -- Pecuniary penalties -- Lump sum -- Periodic penalty payment) In Case C‑328/16, ACTION for failure to fulfil obligations under Article 260(2) TFEU, brought on 10 June 2016, European Commission, represented by G. Zavvos, E. Manhaeve and D. Triantafyllou, acting as Agents, with an address for service in Luxembourg, applicant, v</p>
+      <p>
+        <party as="respondent" refersTo="#institution_56">Hellenic Republic</party>
+      </p>
+      <p>, represented by E. Skandalou, acting as Agent, with an address for service in Luxembourg, defendant, THE COURT (Third Chamber), composed of L. Bay Larsen, (Rapporteur), President of the Chamber, J. Malenovský, M. Safjan, D. Šváby and M. Vilaras, Judges, Advocate General: N. Wahl, Registrar: R. Schiano, Administrator, having regard to the written procedure and further to the hearing on 22 June 2017, having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,</p>
+      <p>gives the following</p>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_19999">
+          <num>1</num>
+          <content eId="para_19999__content">
+            <p>By its action, the European Commission claims that the Court should:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>declare that, by failing to adopt the measures necessary to comply with the judgment of 24 June 2004, Commission v Greece ( C‑119/02, not published, EU:C:2004:385), the Hellenic Republic has failed to fulfil its obligations under Article 260(1) TFEU,</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>order the Hellenic Republic to pay the Commission a proposed penalty payment of EUR 34 974 for each day of delay in complying with the judgment of 24 June 2004, Commission v Greece ( C‑119/02, not published, EU:C:2004:385), from the date of delivery of judgment in the present case until the date of compliance with the judgment of 24 June 2004, Commission v Greece ( C‑119/02, not published, EU:C:2004:385);</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>order the Hellenic Republic to pay to the Commission a lump sum of EUR 3 828 per day from the day on which judgment was delivered in the judgment of 24 June 2004, Commission v Greece ( C‑119/02, not published, EU:C:2004:385), until the date on which judgment is delivered in the present case, or the date on which the judgment of 24 June 2004, Commission v Greece ( C‑119/02, not published, EU:C:2004:385), is complied with, if that occurs earlier,</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>order the Hellenic Republic to pay the costs.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <paragraph eId="para_20000">
+          <num>2</num>
+          <content eId="para_20000__content">
+            <p>According to Article 1 of Council Directive 91/271/EEC of 21 May 1991 concerning urban waste-water treatment ( OJ 1991 L 135, p. 40), as amended by Commission Directive 98/15/EC of 27 February 1998 ( OJ 1998 L 67, p. 29) ( `Directive 91/271'), that directive concerns the collection, treatment and discharge of urban waste water and the treatment and discharge of waste water from certain industrial sectors. It aims to protect the environment from the adverse effects of the discharge of urban waste water.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20001">
+          <num>3</num>
+          <content eId="para_20001__content">
+            <p>Article 2 of that directive defines, in paragraph 1 thereof, `urban waste water' as `domestic waste water or the mixture of domestic waste water with industrial waste water and/or run-off rain water'. That article also defines, in paragraph 4 thereof, an `agglomeration' as an area where the population and/or economic activities are sufficiently concentrated for urban waste water to be collected and conducted to an urban waste water treatment plant or to a final discharge point and, in paragraph 6 thereof, the population equivalent ( `p.e.') as `the organic biodegradable load having a five-day biochemical oxygen demand (BOD5) of 60 g of oxygen per day'. In paragraph 8 of that article, the `secondary treatment' is defined as `treatment of urban waste water by a process generally involving biological treatment with a secondary settlement or other process in which the requirements established in Table 1 of Annex I are respected'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20002">
+          <num>4</num>
+          <content eId="para_20002__content">
+            <p>Under Article 3(1) of the directive: `Member States shall ensure that all agglomerations are provided with collecting systems for urban waste water ... For urban waste water discharging into receiving waters which are considered ``sensitive areas '' as defined under Article 5, States shall ensure that collection systems are provided at the latest by 31 December 1998 for agglomerations of more than 10000 p.e. Where the establishment of a collecting system is not justified either because it would produce no environmental benefit or because it would involve excessive cost, individual systems or other appropriate systems which achieve the same level of environmental protection shall be used.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20003">
+          <num>5</num>
+          <content eId="para_20003__content">
+            <p>The general rules applicable to urban waste water are contained in Article 4 of that directive, which provides, in paragraph 1 thereof: `Member States shall ensure that urban waste water entering collecting systems shall before discharge be subject to secondary treatment or an equivalent treatment as follows:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>at the latest by 31 December 2000 for all discharges from agglomerations of more than 15000 p.e., ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20004">
+          <num>6</num>
+          <content eId="para_20004__content">
+            <p>Article 5(1) and (2) of Directive 91/271 provides: `1.   For the purposes of paragraph 2, Member States shall by 31 December 1993 identify sensitive areas according to the criteria laid down in Annex II. 2.   Member States shall ensure that urban waste water entering collecting systems shall before discharge into sensitive areas be subject to more stringent treatment than that described in Article 4, by 31 December 1998 at the latest for all discharges from agglomerations of more than 10000 p.e.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The judgment of 24 June 2004, Commission v Greece (C‑119/02, not published,EU:C:2004:385)</p>
+        </tblock>
+        <paragraph eId="para_20005">
+          <num>7</num>
+          <content eId="para_20005__content">
+            <p>In the judgment of 24 June 2004, Commission v Greece ( C‑119/02, not published, EU:C:2004:385), the Court held that, by not taking the measures necessary for the installation of a collecting system for urban waste water from the Thriasio Pedio area and not subjecting urban waste water from that area to treatment more stringent than secondary treatment before its discharge into the sensitive area of the Gulf of Eleusina, the Hellenic Republic has failed to fulfil its obligations under the second subparagraph of Article 3(1) and Article 5(2) of Directive 91/271.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Pre-litigation procedure and the proceedings before the Court</p>
+        </tblock>
+        <paragraph eId="para_20006">
+          <num>8</num>
+          <content eId="para_20006__content">
+            <p>In the course of monitoring compliance with the judgment of 24 June 2004, Commission v Greece ( C‑119/02, not published, EU:C:2004:385), the Commission services asked the Greek authorities, by letter of 6 August 2004, for information concerning the measures taken in order to comply with that judgment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20007">
+          <num>9</num>
+          <content eId="para_20007__content">
+            <p>By letter of 14 June 2005, those authorities forwarded to the Commission services a timetable for carrying out the work necessary to comply with that judgment. According to that schedule, the urban waste water collecting system for the Thriasio Pedio area was to be brought into operation on 20 June 2009.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20008">
+          <num>10</num>
+          <content eId="para_20008__content">
+            <p>By letter of formal notice of 10 April 2006, the Commission informed the Greek authorities that compliance with the requirements of the judgment of 24 June 2004, Commission v Greece ( C‑119/02, not published, EU:C:2004:385), had not yet been achieved.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20009">
+          <num>11</num>
+          <content eId="para_20009__content">
+            <p>By several letters in response, the Greek authorities highlighted the deadline provided for in the Commission decisions approving co-financing, by the Cohesion Fund, of projects intended to ensure that compliance, namely on 31 December 2009. In particular, in their reply of 29 June 2006, the Greek authorities stated that this deadline would be respected despite the delays noted. In addition, the Greek authorities informed the Commission that an application for interim measures lodged against the result of a call for tenders which they had launched in that context was liable to cause delays.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20010">
+          <num>12</num>
+          <content eId="para_20010__content">
+            <p>The Hellenic Republic considered that the judgment of 24 June 2004, Commission v Greece ( C‑119/02, not published, EU:C:2004:385), should be implemented by carrying out various projects, namely:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>the creation of an urban waste water treatment centre ( `the treatment plant');</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>the construction of the main pipes for the urban waste water network ( `the main network'),</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>the construction of conduits for the urban waste water network ( `the secondary network'),</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>the connection of the various settlements and industries in the Thriasio Pedio area, more specifically the agglomerations of Aspropyrgos, Eleusina, Mandra and Magoula to the urban waste water network ( `the tertiary network').</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20011">
+          <num>13</num>
+          <content eId="para_20011__content">
+            <p>In their subsequent replies, the Greek authorities informed the Commission that construction work on the main network was continuing with delays due to technical difficulties and that construction work on the secondary network had been delayed due to an action brought before the Symvoulio tis Epikrateias (Council of State, Greece).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20012">
+          <num>14</num>
+          <content eId="para_20012__content">
+            <p>Citing a number of legal and technical difficulties which had slowed the progress of the compliance work, the Greek authorities requested an extension of the deadline set out in their co-financing decisions and attached to that request a new schedule for completion of the work. According to that schedule, the construction of the main network and the treatment plant was to be completed on 31 July 2010 and the construction of the secondary network on 1 August 2010.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20013">
+          <num>15</num>
+          <content eId="para_20013__content">
+            <p>On 2 February 2009 the Commission sent the Hellenic Republic a reasoned opinion and, on 7 May 2010, a supplementary letter of formal notice.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20014">
+          <num>16</num>
+          <content eId="para_20014__content">
+            <p>By several letters in response and at meetings between July 2010 and February 2015, the Greek authorities informed the Commission of developments.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20015">
+          <num>17</num>
+          <content eId="para_20015__content">
+            <p>Thus, in a letter of 27 November 2012, the Greek authorities informed the Commission that the waste water treatment plant had been functioning, in an experimental phase, since 27 July 2012 and, operationally, since 27 November 2012. By contrast, the secondary and tertiary networks were not yet completed, even though the first of those networks was practically finished, with the exception of a part of it serving the agglomeration of Eleusina, namely the Lower Eleusina section.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20016">
+          <num>18</num>
+          <content eId="para_20016__content">
+            <p>As regards the tertiary network, between March 2013 and August 2015, the Greek authorities regularly informed the Commission that, as a result of internal difficulties, the urban waste water collection rate had not reached a satisfactory level, with only 28% of it being collected.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20017">
+          <num>19</num>
+          <content eId="para_20017__content">
+            <p>The Commission considers, at the time the present proceedings were brought, that, although 12 years have elapsed since the judgment of 24 June 2004, Commission v Greece ( C‑119/02, not published, EU:C:2004:385), was delivered, it has not yet been fully implemented by the Hellenic Republic.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20018">
+          <num>20</num>
+          <content eId="para_20018__content">
+            <p>Moreover, it is claimed, the Commission did not receive from the competent national authorities any reliable timetable making it possible to estimate the date from which there could be real progress. In addition to the tertiary network, the secondary network also had not been completed, particularly as regards the part of the network serving the Lower Eleusina section in the agglomeration of Eleusina. According to the Commission, the archaeological findings relied on by the Hellenic Republic cannot be regarded as an instance of `force majeure' justifying such a delay in the execution of the works.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20019">
+          <num>21</num>
+          <content eId="para_20019__content">
+            <p>The Commission notes that, apart from the Greek authorities' response of 27 November 2012, it has not received any data establishing that the urban waste water that has been collected has been subjected to a more stringent treatment than the secondary treatment. However, in order to establish the adequacy of the treatment of waste water, the Greek authorities should have demonstrated the proper functioning of the treatment plant over a period of 12 months, by means of sampling taken in accordance with Section D of Annex I of Directive 91/271, indicating a percentage reduction of BOD5 and COD in accordance with the requirements of that directive with regard to secondary treatment and, with regard to tertiary treatment, a sufficient percentage of reduction of nitrogen in accordance with Table 2 of Annex I to that Directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20020">
+          <num>22</num>
+          <content eId="para_20020__content">
+            <p>In those circumstances, the Commission, considering that compliance with the judgment of 24 June 2004, Commission v Greece ( C‑119/02, not published, EU:C:2004:385), was still lacking, brought the present action.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The infringement</p>
+        </tblock>
+        <tblock>
+          <p>Arguments of the parties</p>
+        </tblock>
+        <paragraph eId="para_20021">
+          <num>23</num>
+          <content eId="para_20021__content">
+            <p>The Commission notes that the Hellenic Republic should have taken the necessary measures, by 31 December 1998 at the latest, to ensure that the urban waste water of the Thriasio Pedio area be collected and treated in accordance with Article 3(1) and Article 5(2) of Directive 91/271, before being discharged into the sensitive area of the Gulf of Eleusina.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20022">
+          <num>24</num>
+          <content eId="para_20022__content">
+            <p>In its defence, the Hellenic Republic submits that the judgment of 24 June 2004, Commission v Greece ( C‑119/02, not published, EU:C:2004:385), has been implemented and that, consequently, the Commission's action is unfounded.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20023">
+          <num>25</num>
+          <content eId="para_20023__content">
+            <p>In that regard, that Member State argues that the treatment of the urban waste water of the area in question should be carried out by the construction of the treatment plant, as well as the main, secondary and tertiary networks.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20024">
+          <num>26</num>
+          <content eId="para_20024__content">
+            <p>As regards, first of all, the construction of the treatment plant and of the main and secondary networks, this was started before the action was brought in the case which gave rise to the judgment of 24 June 2004, Commission v Greece ( C‑119/02, not published, EU:C:2004:385).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20025">
+          <num>27</num>
+          <content eId="para_20025__content">
+            <p>In that regard, the Greek authorities submitted to the Commission requests for co-financing of these works, which were accepted by the latter in December 2004.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20026">
+          <num>28</num>
+          <content eId="para_20026__content">
+            <p>The Hellenic Republic states that the reactions of the local population and the lodging of legal proceedings caused a considerable delay in the construction of the treatment plant.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20027">
+          <num>29</num>
+          <content eId="para_20027__content">
+            <p>That construction was finally completed on 7 April 2011 and, after an experimental period, the plant was not operational until 27 November 2012.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20028">
+          <num>30</num>
+          <content eId="para_20028__content">
+            <p>In order to ensure a more complete monitoring of the operation of the treatment plant, representative samples were, it claims, taken from the urban waste water at the entry and exit of the plant. The results obtained show that that water is subjected to a treatment that is more stringent than the secondary treatment. In that regard, that Member State submits to the Court data from 27 November 2012 until 28 July 2016 which, it is claimed, demonstrates that the water treatment complies with the requirements of Directive 91/271.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20029">
+          <num>31</num>
+          <content eId="para_20029__content">
+            <p>As regards, next, the main network, the Hellenic Republic maintains that, although main collectors were constructed, excavations and archaeological discoveries as well as various technical problems delayed the construction of that network on the territory of the Eleusina agglomeration.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20030">
+          <num>32</num>
+          <content eId="para_20030__content">
+            <p>With regard, moreover, to the secondary network, the Hellenic Republic maintains that legal proceedings, technical difficulties, bad hydrogeological conditions as well as excavations and archaeological discoveries caused a significant delay in the construction of that network and prevented the construction of certain parts of it. As a result, the secondary network had been entirely completed, with the exception of the part located in the Lower Eleusina section of the Eleusina agglomeration, thus serving 95% of the p.e. of the Thriasio Pedio area.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20031">
+          <num>33</num>
+          <content eId="para_20031__content">
+            <p>The Hellenic Republic states, however, that the treatment of waste water from the Lower Eleusina section is currently carried out by the Metamorfosi waste water treatment plant and that, therefore, there has been no discharge of untreated waste water into surface water.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20032">
+          <num>34</num>
+          <content eId="para_20032__content">
+            <p>Finally, the insufficient number of connections to the tertiary network, calculated in p.e. units, is, it is contended, linked to the fact that the connection cost is borne by the owners of the buildings, with the assistance of the State, as the economic crisis did not allow that Member State to finance those connections without the participation of residents. However, it is claimed, those residents are not able to finance those connections to the sewage system.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20033">
+          <num>35</num>
+          <content eId="para_20033__content">
+            <p>In those circumstances, the number of connections to the tertiary network reached 45% of the p.e. of the Thriasio Pedio area.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20034">
+          <num>36</num>
+          <content eId="para_20034__content">
+            <p>Nevertheless, the Hellenic Republic claims that the urban waste water of non-connected households is collected in holding tank and septic tank systems, before being transported by tanker trucks to neighbouring treatment plants for treatment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20035">
+          <num>37</num>
+          <content eId="para_20035__content">
+            <p>In its reply, the Commission claims that, by the Hellenic Republic's own admission, the secondary and tertiary networks have yet to be completed.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20036">
+          <num>38</num>
+          <content eId="para_20036__content">
+            <p>It thus maintains its complaints and reiterates that the Hellenic Republic has not yet complied with the judgment of 24 June 2004, Commission v Greece ( C‑119/02, not published, EU:C:2004:385).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20037">
+          <num>39</num>
+          <content eId="para_20037__content">
+            <p>That institution observes that that Member State finally provided, in its defence, the required sample results. On that point, the Commission agrees that those results demonstrate that the treatment plant is functioning properly and that all urban waste water currently collected is being treated in accordance with the requirements of Directive 91/271.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20038">
+          <num>40</num>
+          <content eId="para_20038__content">
+            <p>However, as regards the secondary network, the Commission recalls that the Hellenic Republic itself recognises the need to finalise the construction. Of the 198 km of pipes planned, only 184 have been put in place, with those for the Lower Eleusina section, in the Eleusina agglomeration, missing.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20039">
+          <num>41</num>
+          <content eId="para_20039__content">
+            <p>As regards the tertiary network, on the basis of the information presented by the Hellenic Republic in its defence, the Commission attributes to that Member State the fact that 45% of the Thriasio Pedio area is connected to it, the urban waste water collected by that system being therefore subject to appropriate treatment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20040">
+          <num>42</num>
+          <content eId="para_20040__content">
+            <p>However, it is claimed, the Hellenic Republic has failed to establish that the remaining 55% of the p.e. of that area is connected for the purposes of treatment in accordance with Directive 91/271. Apart from the statements concerning the Metamorfosi waste water treatment plant which, it is claimed, receives only 5% of the load expressed in p.e. units, that Member State does not provide any evidence to demonstrate that the provisional system installed by it is working properly, even if only temporarily.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20041">
+          <num>43</num>
+          <content eId="para_20041__content">
+            <p>According to that institution, even if the Hellenic Republic demonstrated that the system functions properly, that fact merely constitutes a mitigating circumstance and not compliance with the judgment of 24 June 2004, Commission v Greece ( C‑119/02, not published, EU:C:2004:385).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20042">
+          <num>44</num>
+          <content eId="para_20042__content">
+            <p>In its defence, the Hellenic Republic submits that the judgment of 24 June 2004, Commission v Greece ( C‑119/02, not published, EU:C:2004:385), has been implemented and that the Commission's action is therefore unfounded.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20043">
+          <num>45</num>
+          <content eId="para_20043__content">
+            <p>As regards the secondary network, that Member State admits that there is still a very small part to be constructed.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20044">
+          <num>46</num>
+          <content eId="para_20044__content">
+            <p>With regard to the connections of the residents of the Thriasio Pedio area to the tertiary network, it would appear from the information provided by the concerned agglomerations of Eleusina, Aspropyrgos, Mandra and Magoula that the private connections are progressing steadily.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20045">
+          <num>47</num>
+          <content eId="para_20045__content">
+            <p>Moreover, as regards the 49.3% of the p.e. of the Thriasio Pedio area which, according to the statement of that Member State made at the hearing, is not yet connected to the sewage system, the waste water is transported to a neighbouring treatment plant by private companies using tanker trucks. While a data register is kept of the convoys of tanker trucks arriving at the site, the information on the source of the waste water and the details of the owner, however, are not kept, except in relation to industrial liquid waste.</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>Findings of the Court</p>
+        </tblock>
+        <paragraph eId="para_20046">
+          <num>48</num>
+          <content eId="para_20046__content">
+            <p>In order to determine whether the Hellenic Republic has adopted all the measures necessary to comply with the judgment of 24 June 2004, Commission v Greece ( C‑119/02, not published, EU:C:2004:385), in accordance with its obligation under Article 260(1) TFEU, it is appropriate to ascertain whether that Member State has fully complied with the provisions of the second subparagraph of Article 3(1) and Article 5(2) of Directive 91/271, in particular by taking the measures necessary to install an urban waste water collection system in the Thriasio Pedio area and to subject the urban waste water from that area to a treatment that is more stringent than the secondary treatment referred to in Article 4 of that Directive before it is discharged into the sensitive area of the Gulf of Eleusina.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20047">
+          <num>49</num>
+          <content eId="para_20047__content">
+            <p>Concerning infringement proceedings under Article 260(2) TFEU, the reference date which must be used for assessing whether there has been a failure to fulfil obligations is that of the expiry of the period prescribed in the letter of formal notice issued under that provision (judgment of 22 June 2016, Commission v Portugal, C‑557/14, EU:C:2016:471, paragraph 36).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20048">
+          <num>50</num>
+          <content eId="para_20048__content">
+            <p>In the present case, as noted in paragraph 15 above, since the Commission sent the Hellenic Republic, on 7 May 2010, a supplementary letter of formal notice, in accordance with the procedure laid down in Article 260(2) TFEU, the reference date mentioned in the previous paragraph is the date of expiry of the period prescribed in that letter, namely 7 July 2010.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20049">
+          <num>51</num>
+          <content eId="para_20049__content">
+            <p>It is not disputed that, on the latter date, the urban waste water of the Thriasio Pedio area was not yet collected and treated in accordance with the provisions of the second subparagraph of Article 3(1) and Article 5(2) of Directive 91/271, before being discharged into the sensitive area of the Gulf of Eleusina. As is apparent from the defence of that Member State, the construction of the waste water treatment plant is subsequent to that date, that construction having only been completed on 7 April 2011 and the plant was only functional, other than for experimental periods, as from 27 November 2012.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20050">
+          <num>52</num>
+          <content eId="para_20050__content">
+            <p>In any event, the Hellenic Republic admits, first, that the secondary collection network has not yet been completed, since the Lower Eleusina section, in the Eleusina agglomeration, does not have such a network and, secondly, that not all of the residents of the Thriasio Pedio area are connected to the tertiary network.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20051">
+          <num>53</num>
+          <content eId="para_20051__content">
+            <p>As regards the Hellenic Republic's argument based on the difficulties which that Member State faced in complying with the judgment of 24 June 2004, Commission v Greece ( C‑119/02, not published, EU:C:2004:385), it should be recalled that, in accordance with the Court's settled case-law, a Member State cannot plead difficulties in its domestic legal order to justify a failure to observe obligations arising under EU law (see, to that effect, judgment of 4 May 2017, Commission v United Kingdom, C‑502/15, not published, EU:C:2017:334, paragraph 48).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20052">
+          <num>54</num>
+          <content eId="para_20052__content">
+            <p>In those circumstances, it must be stated that, by failing to take all the measures necessary to comply with the judgment of 24 June 2004, Commission v Greece ( C‑119/02, not published, EU:C:2004:385), the Hellenic Republic failed to fulfil its obligations under Article 260(1) TFEU.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The financial penalties</p>
+        </tblock>
+        <paragraph eId="para_20053">
+          <num>55</num>
+          <content eId="para_20053__content">
+            <p>The Commission claims that payment of both a penalty payment and a lump sum should be ordered.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20054">
+          <num>56</num>
+          <content eId="para_20054__content">
+            <p>As regards the amount of the penalty payment and the lump sum, the Commission bases its approach on its communication of 13 December 2005, entitled `Application of Article [260 TFEU]' (SEC(2005) 1658), as updated by Commission Communication C(2015/C 257/01) 6767 of 6 August 2015, entitled `Updating of data used to calculate lump sum and penalty payments to be proposed by the Commission to the Court of Justice in infringement proceedings' ( `the communication of 13 December 2005').</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Penalty payment</p>
+        </tblock>
+        <tblock>
+          <p>Arguments of the parties</p>
+        </tblock>
+        <paragraph eId="para_20055">
+          <num>57</num>
+          <content eId="para_20055__content">
+            <p>In accordance with paragraph 6 of the communication of 13 December 2005, the Commission is to rely on three main criteria in order to determine the amount of the penalty payment that it will suggest to the Court to impose, namely the seriousness of the infringement, its duration, and the need to ensure that the penalty is a deterrent to future infringements.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20056">
+          <num>58</num>
+          <content eId="para_20056__content">
+            <p>As regards the seriousness of the infringement established, the Commission emphasises that the discharge of untreated waste water to the surface causes pollution which is characterised by an imbalance of oxygen, whereas the nutrition supply is particularly detrimental to the quality of surface water bodies and related ecosystems. Furthermore, the discharge of such urban waste water could have a significant impact on public health.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20057">
+          <num>59</num>
+          <content eId="para_20057__content">
+            <p>In addition, the incomplete implementation of the judgment of 24 June 2004, Commission v Greece ( C‑119/02, not published, EU:C:2004:385), it is claimed, undermines the ability of residents to avail of surface water bodies that are sufficiently clean to allow recreational activities.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20058">
+          <num>60</num>
+          <content eId="para_20058__content">
+            <p>With regard to urban waste water which has undergone only insufficient treatment, the Commission stresses that the mere use of secondary treatment is not sufficient to prevent any risk of pollution and deterioration of water quality or of neighbouring ecosystems if the receiving waters have been identified as a sensitive area, in accordance with Article 5 of Directive 91/271. Despite the efforts made and the measures taken by the Greek authorities, 72% of the urban waste water was not, it is claimed, collected in accordance with the requirements of Directive 91/271, so that the failure to fulfil obligations, held in that regard at the end of the judgment of 24 June 2004, Commission v Greece ( C‑119/02, not published, EU:C:2004:385), was ongoing.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20059">
+          <num>61</num>
+          <content eId="para_20059__content">
+            <p>According to the Commission, the efforts made by the Greek authorities, particularly since the judgment of 24 June 2004, Commission v Greece ( C‑119/02, not published, EU:C:2004:385), was delivered, could possibly be regarded as a mitigating factor. The treatment plant is now in operation today, the main pipeline network has been built and the secondary network, with the exception of the Lower Eleusina section, has been built.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20060">
+          <num>62</num>
+          <content eId="para_20060__content">
+            <p>However, the Commission considers that those mitigating factors are, to a large extent, offset by the aggravating factors that characterise the present case. In particular, more than 12 years have passed since the judgment of 24 June 2004, Commission v Greece ( C‑119/02, not published, EU:C:2004:385), was delivered. In other words, the Hellenic Republic had, it is claimed, more than 16 years from the start of the infringement proceedings to fully comply with the requirements of Directive 91/271. Furthermore, the Commission does not have an indicative timetable or reliable data to specify when the Hellenic Republic will have completed the implementation of all the measures to comply with all the requirements arising from the judgment of 24 June 2004, Commission v Greece ( C‑119/02, not published, EU:C:2004:385).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20061">
+          <num>63</num>
+          <content eId="para_20061__content">
+            <p>Consequently, having regard to the importance of the Union's rules of law which are the subject matter of the failure to fulfil obligations found in that regard at the end of the judgment of 24 June 2004, Commission v Greece ( C‑119/02, not published, EU:C:2004:385), to the consequences of that failure for public and private interests, to the mitigating factor linked with the progress made to date, to the aggravating factors arising from the uncertainty regarding the date on which the Hellenic Republic will be fully compliant with that judgment, to the clarity of the infringed provisions of Directive 91/271 and to the repeated unlawful conduct of the Hellenic Republic regarding compliance with EU rules in the field of the environment and compliance with the judgments of the Court, the Commission proposes a seriousness coefficient of 5, calculated in accordance with the communication of 13 December 2005.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20062">
+          <num>64</num>
+          <content eId="para_20062__content">
+            <p>As regards the duration of the infringement, the Commission recalls that the Court gave the judgment in Commission v Greece ( C‑119/02, not published, EU:C:2004:385), on 24 June 2004, whereas the Commission decided to bring an action under Article 260, paragraph 2, TFEU on 19 November 2015. As the period elapsed is 137 months, the Commission requests that the coefficient for duration be fixed at 3, on a scale of 1 to 3.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20063">
+          <num>65</num>
+          <content eId="para_20063__content">
+            <p>Finally, as regards the coefficient relating to the defendant Member State's ability to pay, known as the `n' factor, the Commission states that its communication of 13 December 2005 fixes that coefficient at 3.48 for the Hellenic Republic.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20064">
+          <num>66</num>
+          <content eId="para_20064__content">
+            <p>The Commission notes that, according to the formula mentioned in that communication, the daily periodic penalty is to be equal to the initial flat-rate amount of EUR 670 multiplied by the coefficient for seriousness, the coefficient for duration and the `n' factor. Accordingly, it proposes the imposition in the present case of a daily penalty payment of EUR 34974.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20065">
+          <num>67</num>
+          <content eId="para_20065__content">
+            <p>According to that institution, however, it would be appropriate gradually to reduce the penalty payment in step with the progress made in complying with the judgment of 24 June 2004, Commission v Greece ( C‑119/02, not published, EU:C:2004:385). Thus, it proposes to apply, in accordance with paragraph 13.2 of that communication, a decreasing daily penalty payment, the actual amount of which must be calculated at the end of every six months, reducing the total amount relating to each of those periods by a percentage corresponding to the proportion of p.e. which has been brought into compliance with the judgment of 24 June 2004, Commission v Greece ( C‑119/02, not published, EU:C:2004:385), at the end of the period concerned.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20066">
+          <num>68</num>
+          <content eId="para_20066__content">
+            <p>In that regard, the Commission states in its application that the proportion of the population of the area concerned which does not have collection and processing systems that comply with the requirements of the second subparagraph of Article 3(1) and the Article 5(2) of Directive 91/271 corresponded, at the moment when it brought its proceedings, to a total p.e. of 35883, and, in its reply, that that figure was 27500.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20067">
+          <num>69</num>
+          <content eId="para_20067__content">
+            <p>According to the Commission, in order to establish the definitive amount of the daily penalty, account should be taken of each p.e. unit actually brought into compliance with the requirements of Directive 91/271, after the Hellenic Republic has forwarded data to that institution establishing that that compliance has been achieved.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20068">
+          <num>70</num>
+          <content eId="para_20068__content">
+            <p>The Hellenic Republic contends that, taking into account the seriousness and duration of the infringement, the cooperation and the diligence which it has demonstrated throughout the proceedings and the progress made in complying with the judgment of 24 June 2004, Commission v Greece ( C‑119/02, not published, EU:C:2004:385), there are no grounds for imposing a penalty payment. In the alternative, the Hellenic Republic contests the method used to calculate that payment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20069">
+          <num>71</num>
+          <content eId="para_20069__content">
+            <p>That Member State thus considers that the amount of the proposed penalty payment is disproportionate to the seriousness of the infringement, the environmental impact of which, by reason of the failure to comply with the specific obligations deriving from Directive 91/271, has not been specifically assessed.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20070">
+          <num>72</num>
+          <content eId="para_20070__content">
+            <p>The Hellenic Republic considers that it implemented the judgment of 24 June 2004, Commission v Greece ( C‑119/02, not published, EU:C:2004:385), in so far as it carried out the works necessary to comply with that judgment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20071">
+          <num>73</num>
+          <content eId="para_20071__content">
+            <p>As regards the seriousness and the duration of the infringement, the Commission's proposal to apply a coefficient of 5 does not, it contends, take into account the fact that that judgment, specifically, has already been implemented. In that regard, that Member State argues that damage to human health has not been established in the present case, since the urban waste water of households which have not been connected to the secondary network is not discharged directly and in an uncontrolled manner to receiving waters, but is collected in tank systems and septic tanks, before being transported by tanker trucks to neighbouring operational waste water treatment plants for treatment. That coefficient for seriousness is also excessive having regard to the coefficient proposed by the Commission and adopted by the Court in the case which gave rise to the judgment of 22 June 2016, Commission v Portugal ( C‑557/14, EU:C:2016:471).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20072">
+          <num>74</num>
+          <content eId="para_20072__content">
+            <p>Furthermore, it contends that the Commission's claim, that the allegedly incomplete execution of the judgment of 24 June 2004, Commission v Greece ( C‑119/02, not published, EU:C:2004:385), could affect the implementation of other directives of the Union or have an impact on public or private interests in the present case, is unfounded.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20073">
+          <num>75</num>
+          <content eId="para_20073__content">
+            <p>The Hellenic Republic also disputes the Commission's assertions that that Member State has engaged in repeated unlawful conduct in that specific area of EU law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20074">
+          <num>76</num>
+          <content eId="para_20074__content">
+            <p>In the present case, according to the Hellenic Republic, it established, first, that the urban waste water of the Thriasio Pedio area is subject to a more stringent treatment than the secondary treatment which makes it possible to eliminate phosphorus and nitrogen and, secondly, that the proportion of the population that is not yet connected, due to archaeological excavations or financial difficulties, is serviced by the Metamorfosi waste water treatment plant.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20075">
+          <num>77</num>
+          <content eId="para_20075__content">
+            <p>Since the Hellenic Republic has eliminated, or at least substantially reduced, the damage to the environment resulting from the failure to fulfil obligations found by the judgment of 24 June 2004, Commission v Greece ( C‑119/02, not published, EU:C:2004:385), the Hellenic Republic proposes, if the Court were to decide to order it to pay such a penalty, to calculate the amount of that penalty on the basis of a seriousness coefficient of 1.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20076">
+          <num>78</num>
+          <content eId="para_20076__content">
+            <p>Moreover, in the light of the circumstances of the case, that penalty payment is disproportionate in relation to the duration of the infringement, and the Hellenic Republic's reduced ability to pay as a result of the economic crisis suffered by that Member State.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20077">
+          <num>79</num>
+          <content eId="para_20077__content">
+            <p>Given that only 5% of the secondary network, it is contended, remains to be completed and the Hellenic Republic has already taken the necessary measures to that end, that Member State considers that it would be appropriate to set the coefficient for duration at 1 for the purposes of calculating any penalty payment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20078">
+          <num>80</num>
+          <content eId="para_20078__content">
+            <p>As regards that Member State's ability to pay, its gross domestic product (GDP) fell by 25.5% between the years 2010 and 2016.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20079">
+          <num>81</num>
+          <content eId="para_20079__content">
+            <p>Finally, if the Court decides to order it to pay a penalty payment, the Hellenic Republic requests endorsement of the Commission's proposal to apply a decreasing penalty according to the degree of implementation of the judgment of 24 June 2004, Commission v Greece ( C‑119/02, not published, EU:C:2004:385), and to calculate the amount thereof every six months.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Findings of the Court</p>
+        </tblock>
+        <paragraph eId="para_20080">
+          <num>82</num>
+          <content eId="para_20080__content">
+            <p>According to the settled case-law of the Court, the imposition of a penalty payment is, in principle, justified only in so far as the failure to comply with an earlier judgment of the Court continues up to the time of the Court's examination of the facts (judgment of 22 June 2016, Commission v Portugal, C‑557/14, EU:C:2016:471, paragraph 61 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20081">
+          <num>83</num>
+          <content eId="para_20081__content">
+            <p>In that regard, it should be pointed out that, as is apparent from paragraphs 30 and 39 of the present judgment, the Hellenic Republic communicated, in its defence, the results of representative samples taken in the waste water treatment plant which demonstrate its proper functioning and show, for the period from 27 November 2012 to 28 July 2016, the effectiveness of the treatment of urban waste water collected in accordance with Directive 91/271. In that regard, the Commission confirmed, both in its reply and at the hearing, that the urban waste water currently collected is in fact subject to treatment in accordance with the requirements of that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20082">
+          <num>84</num>
+          <content eId="para_20082__content">
+            <p>Nevertheless, first, while the main network has been fully completed in the Thriasio Pedio area, the secondary network has not yet been constructed in the Lower Eleusina sector of the Eleusina agglomeration, as the Commission claims and as the Hellenic Republic also acknowledges, including at the hearing before the Court. Therefore, it cannot be considered that the secondary network has been fully completed in the Thriasio Pedio area.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20083">
+          <num>85</num>
+          <content eId="para_20083__content">
+            <p>Secondly, with regard to the connection of the entire population of the Thriasio Pedio area to the tertiary network, even assuming that the statement, made by the Hellenic Republic at the hearing, that 50.7% of the p.e. of that area was already connected to that network, is well founded, which the Commission contests, the fact remains that 49.3% of the p.e. of that area still does not benefit from a connection to that tertiary network.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20084">
+          <num>86</num>
+          <content eId="para_20084__content">
+            <p>In those circumstances, the Court considers that the Hellenic Republic has not established that it had completely complied, at the date of the hearing before the Court, with the obligations arising from the judgment of 24 June 2004, Commission v Greece ( C‑119/02, not published, EU:C:2004:385).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20085">
+          <num>87</num>
+          <content eId="para_20085__content">
+            <p>Consequently, the Court considers that an order imposing a penalty payment on the Hellenic Republic is an appropriate financial means by which to induce it to take the measures necessary to bring to an end the failure to fulfil obligations established by the judgment of 24 June 2004, Commission v Greece ( C‑119/02, not published, EU:C:2004:385), and to ensure full compliance with therewith.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20086">
+          <num>88</num>
+          <content eId="para_20086__content">
+            <p>Nevertheless, it cannot be ruled out, a priori, that, on the date of delivery of the present judgment, full compliance with the judgment of 24 June 2004, Commission v Greece ( C‑119/02, not published, EU:C:2004:385), will have taken place. Accordingly, the penalty payment must be imposed only if the failure to fulfil obligations persists on the date of delivery of the present judgment (see, by analogy, judgment of 22 June 2016, Commission v Portugal, C‑557/14, EU:C:2016:471, paragraph 66).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20087">
+          <num>89</num>
+          <content eId="para_20087__content">
+            <p>It is apparent from the settled case-law of the Court that the penalty payment must be decided upon according to the degree of persuasion needed in order for the Member State, which has failed to comply with a judgment establishing a breach of obligations, to alter its conduct and bring to an end the infringement established (judgment of 22 June 2016, Commission v Portugal, C‑557/14, EU:C:2016:471, paragraph 67 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20088">
+          <num>90</num>
+          <content eId="para_20088__content">
+            <p>In exercising its discretion in the matter, it is for the Court to set the penalty payment so that it is both appropriate to the circumstances and proportionate to the infringement established and the ability to pay of the Member State concerned (judgment of 22 June 2016, Commission v Portugal, C‑557/14, EU:C:2016:471, paragraph 68).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20089">
+          <num>91</num>
+          <content eId="para_20089__content">
+            <p>The Commission's proposals concerning the penalty payment cannot bind the Court and constitute merely a useful point of reference. Similarly, guidelines such as those set out in the communications of the Commission are not binding on the Court but contribute to ensuring that the Commission's own actions are transparent, foreseeable and consistent with legal certainty when that institution makes proposals to the Court. In proceedings under Article 260(2) TFEU relating to a failure to fulfil obligations on the part of a Member State that has persisted notwithstanding the fact that that same failure to fulfil obligations has already been established in a first judgment delivered under Article 258 TFEU, the Court must remain free to set the penalty payment to be imposed in an amount and in a form that the Court considers appropriate for the purposes of inducing that Member State to bring to an end its failure to comply with the obligations arising under that first judgment of the Court (judgment of 22 June 2016, Commission v Portugal, C‑557/14, EU:C:2016:471, paragraph 69).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20090">
+          <num>92</num>
+          <content eId="para_20090__content">
+            <p>For the purposes of determining the amount of penalty payments, the basic criteria which must be taken into consideration in order to ensure that penalty payments have coercive effect and that EU law is applied uniformly and effectively are, in principle, the seriousness of the infringement, its duration and the ability of the Member State concerned to pay. In applying those criteria, regard must be had, in particular, to the effects on public and private interests of the failure to comply and to how urgent it is for the Member State concerned to be induced to fulfil its obligations (judgment of 22 June 2016, Commission v Portugal, C‑557/14, EU:C:2016:471, paragraph 70).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20091">
+          <num>93</num>
+          <content eId="para_20091__content">
+            <p>In the first place, concerning the seriousness of the infringement, it should be borne in mind that Directive 91/271 is intended to protect the environment. A lack or shortage of urban waste water treatment plants is likely to harm the environment and must be regarded as particularly serious (judgment of 22 June 2016, Commission v Portugal, C‑557/14, EU:C:2016:471, paragraph 71).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20092">
+          <num>94</num>
+          <content eId="para_20092__content">
+            <p>It is also necessary to cite as an aggravating circumstance the fact that the judgment of 24 June 2004, Commission v Greece ( C‑119/02, not published, EU:C:2004:385), has not yet been fully complied with, according to the statements of the Hellenic Republic, which is equivalent to a delay of almost 20 years, in so far as the obligation to ensure that the secondary treatment of the urban waste water in the Thriasio Pedio area complied with EU law should have been fulfilled on 31 December 1998 at the latest (see, to that effect, judgment of 24 June 2004, Commission v Greece, C‑119/02, not published, EU:C:2004:385, paragraph 51). Accordingly, the Court cannot but confirm the particularly lengthy character of an infringement which, in the light of the objective mentioned above, is also a matter of indisputable gravity (see, by analogy, judgment of 22 June 2016, Commission v Portugal, C‑557/14, EU:C:2016:471, paragraph 74).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20093">
+          <num>95</num>
+          <content eId="para_20093__content">
+            <p>With regard to the argument put forward by the Hellenic Republic, according to which the urban waste water discharged by the population of the Thriasio Pedio area who are not connected to the tertiary network is not discharged into nature but is transported to a neighbouring treatment plant by tanker trucks, that argument, which is also disputed by the Commission, cannot succeed, since the Hellenic Republic does not provide any evidence to prove the proper functioning of such a collection system.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20094">
+          <num>96</num>
+          <content eId="para_20094__content">
+            <p>However, it should be noted that the situation in the Thriasio Pedio area has improved as compared to that prevailing when the infringement proceedings, which gave rise to the judgment of 24 June 2004, Commission v Greece ( C‑119/02, not published, EU:C:2004:385), were brought. Whereas, at that time, the urban waste water collection system was completely lacking, at the time of the Court's examination of the facts, the main network was fully completed, the secondary system had to be completed only in the Lower Eleusina section and the connection of the population of the Thriasio Pedio area to the tertiary network, as the Hellenic Republic states in its written pleadings, reached a percentage of 45% of the p.e. of that area. In that regard, however, the percentage of 50.7% put forward by that Member State, as is clear from paragraph 85 of the present judgment, cannot be upheld, since it does not establish the validity of that figure.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20095">
+          <num>97</num>
+          <content eId="para_20095__content">
+            <p>It is clear that, in the present case, the extent of the damage which, on the date of delivery of the present judgment, continues to be inflicted on human health and the environment because of the infringement depends in large part on the number of sites affected by that infringement. Accordingly, that damage is less extensive than the damage to human health and the environment caused by the initial failure to fulfil obligations established in the judgment of 24 June 2004, Commission v Greece ( C‑119/02, not published, EU:C:2004:385) (see, by analogy, judgment of 2 December 2014, Commission v Greece, C‑378/13, EU:C:2014:2405, paragraph 56).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20096">
+          <num>98</num>
+          <content eId="para_20096__content">
+            <p>In addition, it must be considered to be a mitigating factor that, as the Hellenic Republic contends, the Thriasio Pedio area is home to an important archaeological heritage and that, because of archaeological excavations and the discovery of archaeological remains, the secondary network had been completed, with the exception of a part located in the Lower Eleusina section of the Eleusina agglomeration.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20097">
+          <num>99</num>
+          <content eId="para_20097__content">
+            <p>As regards, in the second place, the duration of the infringement, it should be recalled that that duration must be assessed by reference to the date on which the Court assesses the facts and not the date on which proceedings are brought before it by the Commission. In the present case, the duration of the infringement, nearly 14 years from the date of delivery of the judgment of 24 June 2004, Commission v Greece ( C‑119/02, not published, EU:C:2004:385), is considerable (see, by analogy, judgment of 22 June 2016, Commission v Portugal, C‑557/14, EU:C:2016:471, paragraph 76).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20098">
+          <num>100</num>
+          <content eId="para_20098__content">
+            <p>Although Article 260(1) TFEU does not specify the period within which a judgment must be complied with, it follows from settled case-law that the importance of immediate and uniform application of EU law means that the process of compliance must be initiated at once and completed as soon as possible (judgment of 22 June 2016, Commission v Portugal, C‑557/14, EU:C:2016:471, paragraph 77 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20099">
+          <num>101</num>
+          <content eId="para_20099__content">
+            <p>In the third place, with regard to the ability to pay of the Member State concerned, it is apparent from the case-law of the Court that it is necessary to take account of recent trends in that Member State's GDP at the time of the Court's examination of the facts (judgment of 22 June 2016, Commission v Portugal, C‑557/14, EU:C:2016:471, paragraph 78). In that regard, account must be taken of the arguments of the Hellenic Republic, according to which its GDP decreased by 25.5% between the year 2010 and 2016, when that Member State lodged its defence before the Court.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20100">
+          <num>102</num>
+          <content eId="para_20100__content">
+            <p>Furthermore, the Commission has proposed that the Court gradually reduce the penalty payment in accordance with the progress made in complying with the judgment of 24 June 2004, Commission v Greece ( C‑119/02, not published, EU:C:2004:385).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20101">
+          <num>103</num>
+          <content eId="para_20101__content">
+            <p>It should be noted in this connection that, even if, in order to ensure full compliance with the Court's judgment, the penalty payment should be payable in its entirety until such time as the Member State has taken all the measures necessary to bring to an end the failure to fulfil obligations established, nevertheless, in certain specific cases, a penalty which takes account of the progress that the Member State may have made in complying with its obligations may be envisaged (see, to that effect, judgment of 2 December 2014, Commission v Greece, C‑378/13, EU:C:2014:2405, paragraph 60).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20102">
+          <num>104</num>
+          <content eId="para_20102__content">
+            <p>In the present case, the Commission submits that, in order to calculate the amount of the penalty payment, consideration should be given to the gradual reduction in the number of p.e. units that do not comply with the requirements of Directive 91/271, which would make it possible to take account of the progress made by the Hellenic Republic in the execution of the judgment of 24 June 2004, Commission v Greece ( C‑119/02, not published, EU:C:2004:385), and the principle of proportionality. It is important, by means of this phased reduction, to encourage the Hellenic Republic not only to complete the installation of the collection system in the Lower Eleusina section as soon as possible, but also to ensure that a collection system complying with the requirements of Directive 91/271 has been put in place throughout the Thriasio Pedio area.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20103">
+          <num>105</num>
+          <content eId="para_20103__content">
+            <p>Having regard to all of the circumstances in the present case, the Court considers it appropriate to impose a sliding-scale periodic penalty payment of EUR 18000 per day.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20104">
+          <num>106</num>
+          <content eId="para_20104__content">
+            <p>With regard to the periodicity of the penalty payment, the phased reduction component of the periodic penalty payment is fixed, in accordance with the Commission proposal, on a six-monthly basis, since the provision of proof of compliance with Directive 91/271 may require a certain period of time and in order to take account of any progress made by the defendant Member State. It will therefore be necessary to reduce the total amount relating to each of those periods by a percentage corresponding to the proportion representing the number of p.e. units which have actually been brought into line with the judgment of 24 June 2004, Commission v Greece ( C‑119/02, not published, EU:C:2004:385), in the Thriasio Pedio area (see, by analogy, judgment of 15 October 2015, Commission v Greece, C‑167/14, not published, EU:C:2015:684, paragraph 66).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20105">
+          <num>107</num>
+          <content eId="para_20105__content">
+            <p>Consequently, the Court considers it appropriate, in the exercise of its discretion, to fix a six-monthly penalty of EUR 3276000.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20106">
+          <num>108</num>
+          <content eId="para_20106__content">
+            <p>It follows from all the foregoing that the Hellenic Republic must be ordered to pay to the Commission a penalty payment of EUR 3276000 for each six-month period of delay in implementing the measures necessary to comply with the judgment of 24 June 2004, Commission v Greece ( C‑119/02, not published, EU:C:2004:385), from the date of delivery of the present judgment until the judgment of 24 June 2004, Commission v Greece ( C‑119/02, not published, EU:C:2004:385), has been complied with in full, the actual amount of which must be calculated at the end of each six-month period by reducing the total amount relating to each of those periods by a percentage corresponding to the proportion representing the number of p.e. units that have actually been brought into compliance with the judgment of 24 June 2004, Commission v Greece ( C‑119/02, not published, EU:C:2004:385), in the Thriasio Pedio area, at the end of the period in question, in comparison to the number of p.e. units that have not been brought into compliance with the judgment of 24 June 2004, Commission v Greece ( C‑119/02, not published, EU:C:2004:385), in that area, on the day of delivery of the present judgment.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Lump sum payment</p>
+        </tblock>
+        <tblock>
+          <p>Arguments of the parties</p>
+        </tblock>
+        <paragraph eId="para_20107">
+          <num>109</num>
+          <content eId="para_20107__content">
+            <p>The Commission requests the Court to order the Hellenic Republic to pay a daily lump sum of EUR 3828, calculated on the basis of the communication of 13 December 2005, the amount of which results from the multiplication of the uniform basic flat rate, fixed at EUR 220, by the seriousness coefficient of 5 and by the `n' factor of 3.48, from the date of delivery of the judgment of 24 June 2004, Commission v Greece ( C‑119/02, not published, EU:C:2004:385), until the date of delivery of the present judgment or until the execution of the judgment of 24 June 2004, Commission v Greece ( C‑119/02, not published, EU:C:2004:385), if that execution takes place before the delivery of the present judgment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20108">
+          <num>110</num>
+          <content eId="para_20108__content">
+            <p>In the present case, 4165 days have, it is claimed, elapsed between the judgment of 24 June 2004, Commission v Greece ( C‑119/02, not published, EU:C:2004:385), and the Commission's decision to bring the present action under Article 260(2) TFEU, namely 19 November 2015. Consequently, the total lump sum on the date of that Commission decision is equal to the daily lump sum referred to in the preceding paragraph, multiplied by that number of days, namely EUR 15943620, which amount is higher than the minimum lump sum fixed for the Hellenic Republic which, it is claimed, is EUR 1933000.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20109">
+          <num>111</num>
+          <content eId="para_20109__content">
+            <p>In so far as the amount of the lump sum exceeds that of the minimum lump sum, a daily lump sum of EUR 3828 should be imposed in the manner specified in paragraph 110 of the present judgment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20110">
+          <num>112</num>
+          <content eId="para_20110__content">
+            <p>The Hellenic Republic contends that it has implemented the judgment of 24 June 2004, Commission v Greece ( C‑119/02, not published, EU:C:2004:385), since the work to ensure its execution has been carried out and, as regards the work still to be completed, the measures necessary for this purpose have already been taken. Moreover, that Member State has systematically and loyally cooperated with the Commission services. Moreover, there is no risk of re-offending since the Hellenic Republic has eliminated or, at least, considerably reduced, any additional damage to the environment. Therefore, that Member State contends that an order to pay a lump sum is not justified in the present case.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20111">
+          <num>113</num>
+          <content eId="para_20111__content">
+            <p>If the Court nevertheless decides to order the Hellenic Republic to pay a lump sum, that Member State points out that the day to be taken into consideration as the starting point for the calculation of that lump sum cannot be that of the delivery of the judgment of 24 June 2004, Commission v Greece ( C‑119/02, not published, EU:C:2004:385), since, in view of the construction work in progress, that judgment could not have been implemented on that date, but only on a date after the expiry of a reasonable period of time for its execution.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20112">
+          <num>114</num>
+          <content eId="para_20112__content">
+            <p>It is, in any case, for the Court to assess whether, in view of the `extremely difficult' economic situation with which the Hellenic Republic is confronted, it is objectively appropriate to require that Member State to pay such an amount or, on the contrary, to exempt it completely.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20113">
+          <num>115</num>
+          <content eId="para_20113__content">
+            <p>In any event, the Hellenic Republic contests the calculation method used by the Commission. It submits that, if it were to be ordered to pay a daily lump sum, that should amount to EUR 765.60 and, in the event that the Court decides to order payment of a single lump sum, that should be in the amount of EUR 1933000.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Findings of the Court</p>
+        </tblock>
+        <paragraph eId="para_20114">
+          <num>116</num>
+          <content eId="para_20114__content">
+            <p>The first point to note is that, in exercising the discretion conferred on it in such matters, the Court is empowered to impose a penalty payment and a lump sum payment cumulatively (judgment of 22 June 2016, Commission v Portugal, C‑557/14, EU:C:2016:471, paragraph 91).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20115">
+          <num>117</num>
+          <content eId="para_20115__content">
+            <p>The imposition of a lump sum payment and the fixing of that sum must depend in each individual case on all the relevant factors relating both to the characteristics of the failure to fulfil obligations established and to the conduct of the Member State involved in the procedure initiated under Article 260 TFEU. That provision confers a wide discretion on the Court in deciding whether to impose such a penalty and, if it decides to do so, in determining the amount thereof (judgment of 22 June 2016, Commission v Portugal, C‑557/14, EU:C:2016:471, paragraph 92).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20116">
+          <num>118</num>
+          <content eId="para_20116__content">
+            <p>In the present case, all of the factual and legal elements which have led to the establishment of the infringement under consideration, in particular, the fact that other judgments, namely, in addition to the judgment of 24 June 2004, Commission v Greece ( C‑119/02, not published, EU:C:2004:385), the judgments of 7 February 2013, Commission v Greece ( C‑517/11, not published, EU:C:2013:66), and of 15 October 2015, Commission v Greece ( C‑167/14, not published, EU:C:2015:684), establishing the failure of the Hellenic Republic to fulfil its obligations concerning the treatment of urban waste water, indicate that effective prevention of future repetition of similar infringements of EU law may require the adoption of a dissuasive measure, such as an order to make a lump sum payment (see, by analogy, judgment of 22 June 2016, Commission v Portugal, C‑557/14, EU:C:2016:471, paragraph 93).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20117">
+          <num>119</num>
+          <content eId="para_20117__content">
+            <p>In those circumstances, it is for the Court, in the exercise of its discretion, to fix the lump sum in an amount appropriate to the circumstances and proportionate to the infringement (judgment of 22 June 2016, Commission v Portugal, C‑557/14, EU:C:2016:471, paragraph 94).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20118">
+          <num>120</num>
+          <content eId="para_20118__content">
+            <p>Relevant considerations in this respect include factors such as the seriousness of the infringement and the length of time for which the infringement has persisted since the delivery of the judgment establishing it (judgment of 22 June 2016, Commission v Portugal, C‑557/14, EU:C:2016:471, paragraph 95).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20119">
+          <num>121</num>
+          <content eId="para_20119__content">
+            <p>The circumstances of the present case which must be taken into account are apparent from the considerations set out in paragraphs 92 to 101 above regarding the seriousness and the duration of the infringement and the ability to pay of the Member State concerned.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20120">
+          <num>122</num>
+          <content eId="para_20120__content">
+            <p>As regards the seriousness of the infringement in question, it should be noted that, as regards the construction of the secondary network, only part of an agglomeration still lacks such a network, namely the Lower Eleusina section, in the agglomeration of Eleusina, and, as regards the percentage of the p.e. of the Thriasio Pedio area connected to the tertiary network, that amounts to 45%. It must be pointed out, however, that, on average, during the greater part of the period between the date of delivery of the judgment of 24 June 2004, Commission v Greece ( C‑119/02, not published, EU:C:2004:385), and the date of delivery of the present judgment, that area did not even have a waste water treatment plant, which was not operational until 27 November 2012. Accordingly, it is necessary to regard that infringement as being more serious for the purposes of calculating the lump sum payment than for the purposes of determining the penalty payment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20121">
+          <num>123</num>
+          <content eId="para_20121__content">
+            <p>Furthermore, as regards the duration of the infringement, in addition to the considerations set out in paragraphs 99 and 100 of the present judgment, it is appropriate, for the purposes of fixing the lump sum, to take into account the fact that the Hellenic Republic, although it has systematically cooperated with the Commission services, has not respected the various timetables which it has set for itself with a view to ensuring compliance for the treatment of urban waste water in the entire Thriasio Pedio area. It is apparent from the file submitted to the Court that the Commission did not receive from that Member State any reliable timetable for estimating the date from which the Commission could see real progress in implementing the measures necessary in order to implement the judgment of 24 June 2004, Commission v Greece ( C‑119/02, not published, EU:C:2004:385), and, therefore, in order to comply with the requirements of Directive 91/271.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20122">
+          <num>124</num>
+          <content eId="para_20122__content">
+            <p>The arguments put forward by the Hellenic Republic in that regard, namely that the delay in the execution of that judgment was due to internal difficulties, cannot be upheld. As has been pointed out in paragraph 53 of the present judgment, a Member State cannot plead difficulties in its domestic legal order to justify a failure to observe obligations arising under EU law, with the result that such an argument cannot succeed.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20123">
+          <num>125</num>
+          <content eId="para_20123__content">
+            <p>Clearly, therefore, the infringement alleged against the Hellenic Republic persisted for a significant period of time.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20124">
+          <num>126</num>
+          <content eId="para_20124__content">
+            <p>Lastly, as the Commission has argued, regard must be had to the large number of judgments, referred to in paragraph 118 above, which have established failures by the Hellenic Republic to fulfil its obligations in relation to the treatment of urban waste water. Repetition of unlawful conduct by a Member State is all the more unacceptable where it takes place in a sector in which the effects on human health and the environment are particularly significant. In that regard, where a Member State repeatedly engages in unlawful conduct in a specific sector, this may be an indication that effective prevention of future repetition of similar infringements of EU law may require the adoption of a dissuasive measure, such as a lump sum payment (judgment of 22 June 2016, Commission v Portugal, C‑557/14, EU:C:2016:471, paragraph 99).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20125">
+          <num>127</num>
+          <content eId="para_20125__content">
+            <p>However, as stated in paragraph 121 of the present judgment, account should also be taken of the factors mentioned in paragraphs 92 to 101 of this judgment, including those relating to the difficulties connected with archaeological excavations and the discovery of archaeological remains in the Thriasio Pedio area and the effects of the economic crisis suffered by the Hellenic Republic on that Member State's ability to pay.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20126">
+          <num>128</num>
+          <content eId="para_20126__content">
+            <p>In the light of all the foregoing, the Court considers that proper account of the circumstances of the present case will be taken by setting the amount of the lump sum which the Hellenic Republic will have to pay at EUR 5 million.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20127">
+          <num>129</num>
+          <content eId="para_20127__content">
+            <p>The Hellenic Republic must therefore be ordered to pay to the Commission a lump sum of EUR 5 million.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_20128">
+          <num>130</num>
+          <content eId="para_20128__content">
+            <p>Under Article 138(1) of the Rules of Procedure, the unsuccessful party is to be ordered to pay the costs if they have been applied for in the successful party's pleadings. Since the Commission applied for costs and the Hellenic Republic's failure to fulfil its obligations has been established, the latter must be ordered to pay the costs. On those grounds, the Court (Third Chamber) hereby: 1. Declares that, by failing to adopt the measures necessary to comply with the judgment of 24 June 2004, Commission v Greece (C‑119/02, not published,EU:C:2004:385), the Hellenic Republic failed to fulfil its obligations under Article 260(1) TFEU; 2. Orders that, if the failure to fulfil obligations found in point 1 has continued until the day of delivery of the present judgment, the Hellenic Republic be required to pay to the European Commission a penalty payment of EUR 3276000 for each six-month period of delay in implementing the measures necessary to comply with the judgment of 24 June 2004, Commission v Greece (C‑119/02, not published,EU:C:2004:385), from the date of delivery of the present judgment until the judgment of 24 June 2004, Commission v Greece (C‑119/02, not published,EU:C:2004:385), has been complied with in full, the actual amount of which must be calculated at the end of each six-month period by reducing the total amount relating to each of those periods by a percentage corresponding to the proportion representing the number of population equivalent units that have actually been brought into compliance with the judgment of 24 June 2004, Commission v Greece (C‑119/02, not published,EU:C:2004:385), in the Thriasio Pedio area, at the end of the period in question, in comparison to the number of population equivalent units that have not been brought into compliance with the judgment of 24 June 2004, Commission v Greece (C‑119/02, not published,EU:C:2004:385), on the day of delivery of the present judgment; 3. Orders the Hellenic Republic to pay to the European Commission a lump sum of EUR 5 million; 4. Orders the Hellenic Republic to pay the costs of the proceedings.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Greek.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

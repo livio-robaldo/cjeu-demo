@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (First Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>11 April 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Common system of value added tax (VAT) -- Limitation of the right to deduct input tax -- Adjustment of the deduction of input tax paid -- Supply of land -- Mischaracterisation as `taxable activity' -- Indication of VAT on the initial invoice -- Amendment of that indication by the supplier) In Case C‑532/16, REQUEST for a preliminary ruling under Article 267 TFEU from the Lietuvos vyriausiasis administracinis teismas (Supreme Administrative Court of Lithuania), made by decision of 3 October 2016, received at the Court on 18 October 2016, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">Valstybinė mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#">SEB bankas AB</party>
+      </p>
+      <p>THE COURT (First Chamber), composed of R. Silva de Lapuerta, President of the Chamber, J.-C. Bonichot (Rapporteur), A. Arabadjiev, S. Rodin and E. Regan, Judges, Advocate General: M. Bobek, Registrar: M. Aleksejev, Administrator, having regard to the written procedure and further to the hearing on 4 October 2017, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>SEB bankas AB, by M. Bielskienė, acting as Adviser, and by A. Medelienė, advokatė,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Lithuanian Government, by D. Kriaučiūnas, R. Krasuckaitė and J. Prasauskienė, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by L. Lozano Palacios and J. Jokubauskaitė, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 20 December 2017,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_9393">
+          <num>1</num>
+          <content eId="para_9393__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Articles 184 to 186 of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax ( OJ 2006 L 347, p. 1; `the VAT Directive').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9394">
+          <num>2</num>
+          <content eId="para_9394__content">
+            <p>The request has been made in proceedings between the Valstybinė mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos (State Tax Inspectorate under the Ministry of Finance of the Republic of Lithuania; `the tax authority') and SEB bankas AB concerning a revised assessment to tax to which the latter company was subject for the purpose of adjusting the deduction, made by that company, of value added tax (VAT) which it had paid upon a purchase of land.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <paragraph eId="para_9395">
+          <num>3</num>
+          <content eId="para_9395__content">
+            <p>Article 12(1)(b) of the VAT Directive provides as follows: `1.   Member States may regard as a taxable person anyone who carries out, on an occasional basis, a transaction relating to the activities referred to in the second subparagraph of Article 9(1) and in particular one of the following transactions: ...</p>
+            <blockList>
+              <item>
+                <num>(b)</num>
+                <p>the supply of building land.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9396">
+          <num>4</num>
+          <content eId="para_9396__content">
+            <p>Article 135(1)(k) of the VAT Directive is worded as follows: `1.   Member States shall exempt the following transactions: ...</p>
+            <blockList>
+              <item>
+                <num>(k)</num>
+                <p>the supply of land which has not been built on other than the supply of building land as referred to in point (b) of Article 12(1).'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9397">
+          <num>5</num>
+          <content eId="para_9397__content">
+            <p>Article 179 of the VAT Directive provides: `The taxable person shall make the deduction by subtracting from the total amount of VAT due for a given tax period the total amount of VAT in respect of which, during the same period, the right of deduction has arisen and is exercised in accordance with Article 178. However, Member States may require that taxable persons who carry out occasional transactions, as defined in Article 12, exercise their right of deduction only at the time of supply.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9398">
+          <num>6</num>
+          <content eId="para_9398__content">
+            <p>Chapter 5 of the VAT Directive, entitled `Adjustment of deductions', contains, inter alia, Articles 184 to 189.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9399">
+          <num>7</num>
+          <content eId="para_9399__content">
+            <p>Article 184 of the VAT Directive provides: `The initial deduction shall be adjusted where it is higher or lower than that to which the taxable person was entitled.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9400">
+          <num>8</num>
+          <content eId="para_9400__content">
+            <p>Article 185 of the VAT Directive provides: `1.   Adjustment shall, in particular, be made where, after the VAT return is made, some change occurs in the factors used to determine the amount to be deducted, for example where purchases are cancelled or price reductions are obtained. 2.   By way of derogation from paragraph 1, no adjustment shall be made in the case of transactions remaining totally or partially unpaid or in the case of destruction, loss or theft of property duly proved or confirmed, or in the case of goods reserved for the purpose of making gifts of small value or of giving samples, as referred to in Article 16. However, in the case of transactions remaining totally or partially unpaid or in the case of theft, Member States may require adjustment to be made.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9401">
+          <num>9</num>
+          <content eId="para_9401__content">
+            <p>Article 186 of the VAT Directive states as follows: `Member States shall lay down the detailed rules for applying Articles 184 and 185.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9402">
+          <num>10</num>
+          <content eId="para_9402__content">
+            <p>Article 187 of the VAT directive is worded as follows: `1.   In the case of capital goods, adjustment shall be spread over five years including that in which the goods were acquired or manufactured. Member States may, however, base the adjustment on a period of five full years starting from the time at which the goods are first used. In the case of immovable property acquired as capital goods, the adjustment period may be extended up to 20 years. 2.   The annual adjustment shall be made only in respect of one-fifth of the VAT charged on the capital goods, or, if the adjustment period has been extended, in respect of the corresponding fraction thereof. The adjustment referred to in the first subparagraph shall be made on the basis of the variations in the deduction entitlement in subsequent years in relation to that for the year in which the goods were acquired, manufactured or, where applicable, used for the first time.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9403">
+          <num>11</num>
+          <content eId="para_9403__content">
+            <p>Article 188 of the VAT Directive provides: `1.   If supplied during the adjustment period, capital goods shall be treated as if they had been applied to an economic activity of the taxable person up until expiry of the adjustment period. The economic activity shall be presumed to be fully taxed in cases where the supply of the capital goods is taxed. The economic activity shall be presumed to be fully exempt in cases where the supply of the capital goods is exempt. 2.   The adjustment provided for in paragraph 1 shall be made only once in respect of all the time covered by the adjustment period that remains to run. However, where the supply of capital goods is exempt, Member States may waive the requirement for adjustment in so far as the purchaser is a taxable person using the capital goods in question solely for transactions in respect of which VAT is deductible.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9404">
+          <num>12</num>
+          <content eId="para_9404__content">
+            <p>Article 189 of the VAT Directive provides: `For the purposes of applying Articles 187 and 188, Member States may take the following measures:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>define the concept of capital goods;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>specify the amount of the VAT which is to be taken into consideration for adjustment;</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>adopt any measures needed to ensure that adjustment does not give rise to any unjustified advantage;</p>
+              </item>
+              <item>
+                <num>(d)</num>
+                <p>permit administrative simplifications.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9405">
+          <num>13</num>
+          <content eId="para_9405__content">
+            <p>Under Article 250(1) of the VAT Directive: `Every taxable person shall submit a VAT return setting out all the information needed to calculate the tax that has become chargeable and the deductions to be made including, in so far as is necessary for the establishment of the basis of assessment, the total value of the transactions relating to such tax and deductions and the value of any exempt transactions.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Lithuanian law</p>
+        </tblock>
+        <paragraph eId="para_9406">
+          <num>14</num>
+          <content eId="para_9406__content">
+            <p>Article 65 of the Lietuvos Respublikos pridėnitės vertės mokesč įstatymas (Lithuanian Law on value added tax), as amended by Law No IX-1960 of 15 January 2004, entitled `General rules on the adjustment of VAT deductions', provides: `Where, after the filing of the VAT return for a tax period, a VAT payer cancelled purchase of a certain amount of the acquired goods, additional price reductions were obtained from the supplier of goods or services, or the VAT amount payable to the supplier of goods or services has decreased for any other reason, as well as where the taxable person has obtained repayment of an import tax, and the above amounts of the input and/or import VAT were deducted, the VAT deductions shall be adjusted in the VAT return for the tax period in which the above circumstances became known by increasing the VAT amount payable into the budget or reducing the VAT amount refundable from the budget accordingly.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9407">
+          <num>15</num>
+          <content eId="para_9407__content">
+            <p>Article 83(1) of the Law on value added tax provides: `Where, after documenting the supply of goods or services, the taxable amount and/or quantity of the goods or services subject to taxation changes, a rebate is granted, the goods (or a portion of the goods) are returned to the vendor, the order for the goods (or a portion of the goods) or services is cancelled, or where the consideration payable by the purchaser/customer changes for any other reason, a credit document recording the above changes must be issued by the person who issued the initial accounting document recording the supply of goods or services. By mutual agreement of the parties, the restitution of goods or the cancellation of services can be put on a formal footing, not by a credit document drawn up by the supplier of the goods or services, but by a debit document (note) drawn up by the purchaser (the customer), when the latter is liable for VAT.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9408">
+          <num>16</num>
+          <content eId="para_9408__content">
+            <p>Article 68(1) of the Lietuvos Respublikos mokesčių administravimo įstatymas (Lithuanian Law on Tax Administration), in the version of Law No IX-2112 of 13 April 2004, provides: `Unless otherwise provided in this Article or by the Law on the tax concerned, the taxpayer or the tax authority may calculate or recalculate the tax in respect of a period not exceeding the current calendar year and five preceding calendar years counting back from 1 January of the year in which the tax was initially calculated or recalculated.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9409">
+          <num>17</num>
+          <content eId="para_9409__content">
+            <p>Article 80(1) of that law is worded as follows: `A taxpayer shall have the right to adjust the tax return if the period for the calculation (recalculation) of taxes laid down in Article 68 of this Law has not expired.'</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The facts in the dispute in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_9410">
+          <num>18</num>
+          <content eId="para_9410__content">
+            <p>SEB Lizingas UAB, whose successor in law is SEB bankas, with which it merged in November 2013, purchased six plots of land in March 2007 from VKK Investicija for the sum of 4800000 Lithuanian litas (LTL), being approximately EUR 1387200, inclusive of VAT. At the time of the transaction, the parties regarded it as a supply of building land, which is subject to VAT. Consequently, SEB Lizingas paid the amount of VAT due on that transaction and deducted it from the VAT payable in respect of March 2007.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9411">
+          <num>19</num>
+          <content eId="para_9411__content">
+            <p>At the same time, SEB Lizingas handed the plots of land over to VKK Investicija under the terms of a leasing contract. However, the latter company having failed to fulfil its obligations under the leasing contract, SEB Lizingas unilaterally terminated that contract in March 2009.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9412">
+          <num>20</num>
+          <content eId="para_9412__content">
+            <p>On 14 April 2010, VKK Investicija issued a credit note in the name of the applicant, which stated that, no VAT being due, the price inclusive of VAT shown on the initial invoice was the price excluding VAT, and issued a new invoice which stated that the price to be paid was LTL 4800000, with no mention of VAT. VKK Investicija considered that the sales transaction at issue ultimately was not a supply of building land and was therefore not subject to VAT. It thus submitted a revised VAT return for March 2007.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9413">
+          <num>21</num>
+          <content eId="para_9413__content">
+            <p>SEB Lizingas, which had refused to recognise the credit note and the new invoice and adjust the deduction made in March 2007 in line with those documents, was subject to a tax inspection in 2012. Considering that the supply of land at issue was in fact an exempt transaction, the tax authority ordered, by a decision of 16 May 2014, the payment of the unduly deducted VAT plus default interest and imposed a fine on SEB bankas.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9414">
+          <num>22</num>
+          <content eId="para_9414__content">
+            <p>SEB bankas contested that decision before the Mokestinių ginčų komisija prie Lietuvos Respublikos Vyriausybės (Commission on Tax Disputes under the Government of the Republic of Lithuania), which partially annulled the decision in so far as it concerned the VAT due and related amounts. The tax authority brought proceedings before the Vilniaus apygardos administracinis teismas (Vilnius Regional Administrative Court, Lithuania) in which it sought to have that part of the decision of the Commission on Tax Disputes set aside. The court dismissed the action. The tax authority appealed against the judgment delivered by the Vilniaus apygardos administracinis teismas (Vilnius Regional Administrative Court) before the Lietuvos vyriausiasis administracinis teismas (Supreme Administrative Court of Lithuania).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9415">
+          <num>23</num>
+          <content eId="para_9415__content">
+            <p>The referring court considered that this case came within the scope of the interpretation and application of EU law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9416">
+          <num>24</num>
+          <content eId="para_9416__content">
+            <p>In those circumstances, the Lietuvos vyriausiasis administracinis teismas (Supreme Administrative Court of Lithuania) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Must Articles 184 to 186 of the VAT Directive be interpreted as meaning that, in circumstances such as those at issue in the main proceedings, the deduction adjustment mechanism provided for in the VAT Directive is not applicable in cases where an initial deduction could not have been made at all because the transaction in question was a VAT-exempt transaction relating to the supply of land?</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>Is the answer to the first question affected by the fact that</p>
+                <blockList>
+                  <item>
+                    <num>(1)</num>
+                    <p>the VAT on the purchase price of the plots of land was initially deducted because of the tax authority's practice under which the supply in question was incorrectly regarded as being a supply of building land subject to VAT, as provided for in Article 12(1)(b) of the VAT Directive; and/or</p>
+                  </item>
+                  <item>
+                    <num>(2)</num>
+                    <p>after the initial deduction made by the purchaser, the supplier of the land issued a VAT credit note to the purchaser adjusting the amount of VAT shown on the initial invoice?</p>
+                  </item>
+                  <item>
+                    <num>(3)</num>
+                    <p>If the answer to the first question is in the affirmative, are, in circumstances such as those at issue in the main proceedings, Articles 184 and/or 185 of the VAT Directive to be interpreted as meaning that, in a case where an initial deduction could not have been made at all because the transaction in question was exempt from VAT, the taxable person's obligation to adjust that deduction must be considered to have arisen immediately or only when it became known that the initial deduction could not have been made?</p>
+                  </item>
+                  <item>
+                    <num>(4)</num>
+                    <p>If the answer to the first question is in the affirmative, is, in circumstances such as those at issue in the main proceedings, the VAT Directive, and in particular Articles 179, 184 to 186 and 250 thereof, to be interpreted as meaning that the adjusted amounts of deductible input VAT must be deducted in the tax period in which the taxable person's obligation and/or right to adjust the initial deduction arose?'</p>
+                  </item>
+                </blockList>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the questions referred</p>
+        </tblock>
+        <tblock>
+          <p>Preliminary observations</p>
+        </tblock>
+        <paragraph eId="para_9417">
+          <num>25</num>
+          <content eId="para_9417__content">
+            <p>As a preliminary point, it should be recalled that Article 184 of the VAT Directive sets out the obligation to adjust the initial deduction where it is higher or lower than that to which the taxable person was entitled. Article 185(1) of the VAT Directive further provides that that obligation applies, in particular, when, after the VAT return is made, some change occurs in the factors used to determine the amount to be deducted. Paragraph 2 of that article lists the situations in which, by way of derogation, no adjustment is to be made. Under Article 186 of that directive, Member States are required to lay down the detailed rules for applying Articles 184 and 185 of the VAT Directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9418">
+          <num>26</num>
+          <content eId="para_9418__content">
+            <p>Thus, the provisions of Articles 184 and 185, to which the first question referred for a preliminary ruling refers, set down an obligation to adjust unauthorised VAT deductions. Whilst illustrating and delimiting that obligation, they do not, however, provide for the manner in which such adjustments are to be made.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9419">
+          <num>27</num>
+          <content eId="para_9419__content">
+            <p>By contrast, Article 186 of the VAT Directive expressly makes Member States responsible for defining the conditions for such adjustments. It is only so far as concerns capital goods and, consequently, in a particular situation, that Articles 187 to 189 of the VAT Directive provide for certain detailed rules for the adjustment of VAT deductions.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9420">
+          <num>28</num>
+          <content eId="para_9420__content">
+            <p>Consequently, a distinction must be made between the extent of the obligation to adjust as set down in Article 184 of the VAT Directive and the scope of the adjustment mechanism described in Articles 187 to 189 of that directive.</p>
+            <tblock>
+              <p>The first and second questions</p>
+            </tblock>
+            <p>29 Inasmuch as the referring court refers, in its first question, both to Articles 184 to 186 of the VAT Directive and to the mechanism for the adjustment of unauthorised VAT deductions provided for by that directive, the question must be reformulated in the light of all the foregoing observations.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9421">
+          <num>30</num>
+          <content eId="para_9421__content">
+            <p>By its first and second questions, the referring court is asking, in essence</p>
+            <blockList>
+              <item>
+                <num>(i)</num>
+                <p>whether Article 184 of the VAT Directive must be interpreted as meaning that the obligation to adjust undue VAT deductions set down in that article also applies in cases where the initial deduction could not be made lawfully, because the transaction that led to it being made was exempt from VAT and</p>
+              </item>
+              <item>
+                <num>(ii)</num>
+                <p>whether Articles 187 to 189 of the VAT Directive must be interpreted as meaning that the mechanism for the adjustment of undue VAT deductions provided for in those articles is applicable in such cases, in particular in situations such as that at issue in the main proceedings, where the initial VAT deduction was unjustified inasmuch as it concerned a VAT-exempt transaction relating to the supply of land.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9422">
+          <num>31</num>
+          <content eId="para_9422__content">
+            <p>In addition, the referring court is seeking clarification as to the potential impact, for the purposes of the answer to the first question, of</p>
+            <blockList>
+              <item>
+                <num>(i)</num>
+                <p>the fact that, in the dispute in the main proceedings, the VAT on the purchase price of the land had been paid and deducted wrongly owing to the flawed practice of the tax authority and</p>
+              </item>
+              <item>
+                <num>(ii)</num>
+                <p>the fact that the supplier of that land sent a credit note to the purchaser amending the amount of VAT mentioned on the initial invoice.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9423">
+          <num>32</num>
+          <content eId="para_9423__content">
+            <p>First, it should be noted that the adjustment obligation is defined in Article 184 of the VAT directive as broadly as possible, inasmuch as `the initial deduction shall be adjusted where it is higher or lower than that to which the taxable person was entitled'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9424">
+          <num>33</num>
+          <content eId="para_9424__content">
+            <p>That wording does not exclude, a priori, any foreseeable situation of undue deductions. The general scope of the adjustment obligation is supported by the express enumeration of the derogations permitted by the VAT Directive in Article 185(2).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9425">
+          <num>34</num>
+          <content eId="para_9425__content">
+            <p>In particular, the situation in which a deduction has been made when there was no right of deduction comes within the scope of the first situation envisaged in Article 184 of the VAT Directive, namely that in which the initial deduction made is higher than that to which the taxable person was entitled.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9426">
+          <num>35</num>
+          <content eId="para_9426__content">
+            <p>It is, moreover, consistent with the logic of the common system of VAT that the VAT Directive, which in essence reproduces the provisions of Sixth Council Directive 77/388/EEC of 17 May 1977 on the harmonisation of the laws of the Member States relating to turnover taxes -- Common system of value added tax: uniform basis of assessment ( OJ 1977 L 145, p. 1; `the Sixth Directive'), sets down a general obligation to adjust VAT deductions.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9427">
+          <num>36</num>
+          <content eId="para_9427__content">
+            <p>On the one hand, that obligation is, in fact, inextricably linked to that, incumbent on each Member State, to take all legislative and administrative measures appropriate for ensuring collection of all the VAT due on its territory. To that end, the Member States are required to check taxable persons' returns, their accounts and other relevant documents, and to calculate and collect the tax due (judgment of 17 July 2008, Commission v Italy, C‑132/06, EU:C:2008:412, paragraph 37). Those checks would lack substance if no provision were made for the adjustment of unjustified deductions.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9428">
+          <num>37</num>
+          <content eId="para_9428__content">
+            <p>On the other hand, the general obligation to adjust unjustified VAT deductions also derives from the fiscal neutrality of VAT, which is a fundamental principle of the common system of VAT put in place by the EU legislature in the matter (judgment of 21 February 2006, Halifax, C‑255/02, EU:C:2006:121, paragraph 92 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9429">
+          <num>38</num>
+          <content eId="para_9429__content">
+            <p>Under that system, only the input taxes on goods or services used by a taxable person for its taxable transactions may be deducted. The deduction of input taxes is linked to the collection of output taxes. Where goods or services acquired by a taxable person are used for purposes of transactions that are exempt or do not fall within the scope of VAT, no output tax can be collected or input tax deducted (judgment of 30 March 2006, Uudenkaupungin kaupunki, C‑184/04, EU:C:2006:214, paragraph 24). The principle of the fiscal neutrality of VAT therefore also requires that undue deductions be adjusted in any case.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9430">
+          <num>39</num>
+          <content eId="para_9430__content">
+            <p>It follows from the above that Article 184 of the VAT Directive must be interpreted as meaning that the obligation to adjust undue VAT deductions also applies in cases where the initial deduction could not be made lawfully, as is the case when the transaction which has given rise to that deduction has proved to be amongst those which are exempt from VAT.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9431">
+          <num>40</num>
+          <content eId="para_9431__content">
+            <p>Secondly and by contrast, Articles 187 to 189 of the VAT Directive are not applicable in such cases.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9432">
+          <num>41</num>
+          <content eId="para_9432__content">
+            <p>It is apparent from the second subparagraph of Article 187(2) of the VAT Directive that the adjustment provided for by that provision, so far as concerns capital goods, is made on the basis of the variations in the deduction entitlement which arise subsequent to the acquisition of those goods, their manufacture or their first use. Thus the detailed rules for the adjustment of VAT described in Article 187 of the VAT Directive relate to the particular situation, referred to in Article 185(1) of the VAT Directive, of a change, subsequent to the VAT return, in the factors used to determine the amount to be deducted. They therefore cannot be used to adjust a deduction made in the absence of any initial right of deduction. Some of those rules, such as those on adjustment spread over five years, for which the first subparagraph of Article 187(2) of the VAT Directive provides, are, moreover, manifestly unsuited to such a situation. As regards Article 188 of the VAT Directive, this covers the even more special and equally different situation of the supply of capital goods during the adjustment period.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9433">
+          <num>42</num>
+          <content eId="para_9433__content">
+            <p>Furthermore, the Court has held, with regard to the provisions of the Sixth Directive, which are substantively identical to those of the VAT Directive (judgment of 30 September 2010, Uszodaépítő, C‑392/09, EU:C:2010:569, paragraph 31), that the adjustment mechanism provided for by the Sixth Directive is applicable only where there is a right of deduction (see, to that effect, judgment of 30 March 2006, Uudenkaupungin kaupunki, C‑184/04, EU:C:2006:214, paragraph 37).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9434">
+          <num>43</num>
+          <content eId="para_9434__content">
+            <p>It follows from the above that the mechanism for the adjustment of undue VAT deductions provided for in Articles 187 and 188 of the VAT Directive is not applicable when the deduction was initially made in the absence of any right of deduction. That mechanism is therefore not applicable, inter alia, to a transaction relating to the supply of land, such as that at issue in the main proceedings, which, according to the statements of the referring court, was exempt from VAT and should not, therefore, have given rise either to the collection of that tax or to its deduction.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9435">
+          <num>44</num>
+          <content eId="para_9435__content">
+            <p>Accordingly, the fact that in the dispute in the main proceedings</p>
+            <blockList>
+              <item>
+                <num>(i)</num>
+                <p>the VAT on the purchase price of the land was wrongly paid and deducted because of a flawed practice on the part of the tax authority and</p>
+              </item>
+              <item>
+                <num>(ii)</num>
+                <p>the supplier of that land sent the purchaser a credit note amending the amount of VAT mentioned on the initial invoice has no impact on the inapplicability of that mechanism.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9436">
+          <num>45</num>
+          <content eId="para_9436__content">
+            <p>In view of the foregoing considerations, the answer to the first and second questions is that Article 184 of the VAT Directive must be interpreted as meaning that the obligation to adjust undue VAT deductions set down in that article also applies to cases where the initial deduction could not be made lawfully because the transaction giving rise to that deduction was exempt from VAT. By contrast, Articles 187 to 189 of the VAT Directive must be interpreted as meaning that the mechanism for the adjustment of undue VAT deductions provided for in those articles is not applicable in such cases, in particular in a situation such as that at issue in the main proceedings, where the initial VAT deduction was unjustified as it concerned a VAT-exempt transaction relating to the supply of land.</p>
+            <tblock>
+              <p>The third and fourth questions</p>
+            </tblock>
+            <p>46 By its third and fourth questions, which it is appropriate to examine together, the referring court is asking, in essence, whether the provisions of the VAT Directive on the adjustment of deductions must be interpreted as meaning that, in cases where the initial VAT deduction could not be made lawfully, they serve to determine the date on which the obligation to adjust the undue VAT deduction arises and the period for which that adjustment must be made.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9437">
+          <num>47</num>
+          <content eId="para_9437__content">
+            <p>Those questions relate to the conditions for VAT adjustment. As stated in paragraph 43 of the present judgment, the VAT adjustment mechanism provided for in Articles 187 to 189 of the VAT Directive is not applicable to a situation such as that at issue in the dispute in the main proceedings. For that reason, it is for the Member States to determine the detailed rules for that adjustment in such cases, pursuant to Article 186 of the VAT Directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9438">
+          <num>48</num>
+          <content eId="para_9438__content">
+            <p>However, the Member States must comply with EU law when adopting national legislation establishing those detailed rules. Accordingly, the Court, when requested to give a preliminary ruling, must provide all the guidance as to interpretation needed in order for the national court to determine whether that legislation is compatible with EU law, the observance of which the Court ensures, in particular with its fundamental principles (see, to that effect, judgment of 29 May 1997, Kremzow, C‑299/95, EU:C:1997:254, paragraph 15, and order of 26 March 2009, Pignataro, C‑535/08, not published, EU:C:2009:204, paragraph 22).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9439">
+          <num>49</num>
+          <content eId="para_9439__content">
+            <p>In that regard, SEB bankas has argued in its written observations that it is contrary to the principles of legal certainty and the protection of legitimate expectations to make an adjustment of a VAT deduction concerning a transaction which took place in 2007 when, up until 2013, the tax authority itself defended the view that the transaction was subject to VAT.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9440">
+          <num>50</num>
+          <content eId="para_9440__content">
+            <p>However, it should be recalled, first, that legitimate expectations cannot be founded on an unlawful practice of the authorities (see, to that effect, judgment of 6 February 1986, Vlachou v Court of Auditors, 162/84, EU:C:1986:56, paragraph 6). According to the order for reference, the Lietuvos vyriausiasis administracinis teismas (Supreme Administrative Court of Lithuania) censured, as based on a misinterpretation of national law, the administrative practice whereby the transaction at issue had initially been classified as `a transaction subject to VAT', such that the initial VAT deduction was unlawful.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9441">
+          <num>51</num>
+          <content eId="para_9441__content">
+            <p>Secondly, it should be stated that the principle of legal certainty does not preclude an administrative practice on the part of national tax authorities consisting in revoking, within a mandatory time limit, a decision in which they acknowledged that the taxable person had a right to a VAT deduction, by demanding that he pay that tax (see, to that effect, judgment of 12 October 2016, Nigl and Others, C‑340/15, EU:C:2016:764, paragraph 48 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9442">
+          <num>52</num>
+          <content eId="para_9442__content">
+            <p>However, that principle requires the tax position of the taxable person, having regard to his rights and obligations vis-à-vis the tax authorities, not to be open to challenge indefinitely (see, to that effect, judgment of 6 February 2014, Fatorie, C‑424/12, EU:C:2014:50, paragraph 46 and the case-law cited). For that reason, the fact that the starting point of the mandatory time limit depends on the fortuitous circumstances in which the unlawfulness of the deduction came to light, and, in particular, that it should be set, as the Lithuanian Government claims, at the date of receipt by the purchaser of the credit note whereby the vendor unilaterally adjusted the price, net of VAT, of the land by including the VAT several years after the sale, is likely to breach the principle of legal certainty, a matter which it is for the national court to assess.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9443">
+          <num>53</num>
+          <content eId="para_9443__content">
+            <p>The answer to the third and fourth questions is that Article 186 of the VAT Directive must be interpreted as meaning that, in cases where the initial deduction of VAT could not be made lawfully, it is for the Member States to determine the date on which the obligation to adjust the undue VAT deduction arises and the time period for which that adjustment must be made, in accordance with the principles of EU law, in particular the principles of legal certainty and legitimate expectations. It is for the national court to determine whether, in cases such as that at issue in the main proceedings, those principles have been respected.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_9444">
+          <num>54</num>
+          <content eId="para_9444__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (First Chamber) hereby rules: 1. Article 184 of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax must be interpreted as meaning that the obligation to adjust undue value added tax (VAT) deductions set down in that article also applies to cases where the initial deduction could not be made lawfully because the transaction giving rise to that deduction was exempt from VAT. By contrast, Articles 187 to 189 of Directive 2006/112 must be interpreted as meaning that the mechanism for the adjustment of undue VAT deductions provided for in those articles is not applicable in such cases, in particular in a situation such as that at issue in the main proceedings, where the initial VAT deduction was unjustified as it concerned a VAT-exempt transaction relating to the supply of land. 2. Article 186 of Directive 2006/112 must be interpreted as meaning that, in cases where the initial deduction of VAT could not be made lawfully, it is for the Member States to determine the date on which the obligation to adjust the undue VAT deduction arises and the time period for which that adjustment must be made, in accordance with the principles of EU law, in particular the principles of legal certainty and legitimate expectations. It is for the national court to determine whether, in cases such as that at issue in the main proceedings, those principles have been respected.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Lithuanian.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

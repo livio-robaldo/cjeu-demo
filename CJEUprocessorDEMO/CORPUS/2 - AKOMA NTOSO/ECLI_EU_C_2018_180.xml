@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (First Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>14 March 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Social policy -- Article 45 TFEU -- Principle of non-discrimination on grounds of age -- Charter of Fundamental Rights of the European Union -- Article 21(1) -- Directive 2000/78/EC -- Articles 2, 6 and 16 -- Reference date for the purpose of advancement -- Discriminatory legislation of a Member State which does not allow periods of activity completed before reaching the age of 18 to be taken into account for the purpose of determining remuneration -- Abolition of provisions that are contrary to the principle of equal treatment) In Case C‑482/16, REQUEST for a preliminary ruling under Article 267 TFEU from the Oberlandesgericht Innsbruck (Higher Regional Court, Innsbruck, Austria), made by decision of 2 September 2016, received at the Court on 7 September 2016, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">Georg Stollwitzer</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#">ÖBB Personenverkehr AG</party>
+      </p>
+      <p>, THE COURT (First Chamber), composed of R. Silva de Lapuerta, President of the Chamber, J.C. Bonichot, A. Arabadjiev (Rapporteur), S. Rodin and E. Regan, Judges, Advocate General: P. Mengozzi, Registrar: K. Malacek, Administrator, having regard to the written procedure and further to the hearing on 5 July 2017, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>Mr Stollwitzer, by M. Orgler and J. Pfurtscheller, Rechtsanwälte,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>ÖBB Personenverkehr AG, by C. Wolf, Rechtsanwalt,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Austrian Government, by J. Schmoll and G. Hesse, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by D. Martin and B.-R. Killmann, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 23 November 2017,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_8372">
+          <num>1</num>
+          <content eId="para_8372__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Article 45 TFEU, Article 21 of the Charter of Fundamental Rights of the European Union and Articles 2, 6 and 16 of Council Directive 2000/78/EC of 27 November 2000 establishing a general framework for equal treatment in employment and occupation ( OJ 2000 L 303, p. 16).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8373">
+          <num>2</num>
+          <content eId="para_8373__content">
+            <p>The request has been made in proceedings between Mr Georg Stollwitzer and ÖBB-Personenverkehr AG ( `ÖBB') concerning the lawfulness of the occupational remuneration scheme established by the Austrian legislature with a view to eradicating discrimination on grounds of age.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>Directive 2000/78</p>
+        </tblock>
+        <paragraph eId="para_8374">
+          <num>3</num>
+          <content eId="para_8374__content">
+            <p>According to Article 1 of Directive 2000/78, its purpose is `to lay down a general framework for combating discrimination on the grounds of religion or belief, disability, age or sexual orientation as regards employment and occupation, with a view to putting into effect in the Member States the principle of equal treatment'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8375">
+          <num>4</num>
+          <content eId="para_8375__content">
+            <p>Article 2 of that directive provides as follows: `1.   For the purposes of this Directive, the ``principle of equal treatment '' shall mean that there shall be no direct or indirect discrimination whatsoever on any of the grounds referred to in Article 1. 2.   For the purposes of paragraph 1:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>direct discrimination shall be taken to occur where one person is treated less favourably than another is, has been or would be treated in a comparable situation, on any of the grounds referred to in Article 1;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>indirect discrimination shall be taken to occur where an apparently neutral provision, criterion or practice would put persons having a particular religion or belief, a particular disability, a particular age, or a particular sexual orientation at a particular disadvantage compared with other persons unless:</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(i)</num>
+                <p>that provision, criterion or practice is objectively justified by a legitimate aim and the means of achieving that aim are appropriate and necessary ... ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8376">
+          <num>5</num>
+          <content eId="para_8376__content">
+            <p>Article 3(1)(c) of Directive 2000/78 provides that the directive is to apply, within the limits of the areas of competence conferred on the European Union, to all persons, as regards both the public and private sectors, including public bodies, in relation to, inter alia, employment and working conditions, including pay.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8377">
+          <num>6</num>
+          <content eId="para_8377__content">
+            <p>Article 6(1) of the directive states as follows: `Notwithstanding Article 2(2), Member States may provide that differences of treatment on grounds of age shall not constitute discrimination, if, within the context of national law, they are objectively and reasonably justified by a legitimate aim, including legitimate employment policy, labour market and vocational training objectives, and if the means of achieving that aim are appropriate and necessary. Such differences of treatment may include, among others:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>the setting of special conditions on access to employment and vocational training, employment and occupation, including dismissal and remuneration conditions, for young people, older workers and persons with caring responsibilities in order to promote their vocational integration or ensure their protection;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>the fixing of minimum conditions of age, professional experience or seniority in service for access to employment or to certain advantages linked to employment; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8378">
+          <num>7</num>
+          <content eId="para_8378__content">
+            <p>Article 16(1)(a) of Directive 2000/78 provides that Member States are to take the necessary measures to ensure that any laws, regulations and administrative provisions contrary to the principle of equal treatment are abolished.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Austrian law</p>
+        </tblock>
+        <paragraph eId="para_8379">
+          <num>8</num>
+          <content eId="para_8379__content">
+            <p>Following the judgment of 18 June 2009, Hütter ( C‑88/08, EU:C:2009:381), the Bundesgesetz zur Neuordnung der Rechtsverhältnisse der Österreichischen Bundesbahnen (Bundesbahngesetz 1992) (Federal Law reorganising the legal relationships of the Austrian Federal Railways (1992 Federal Law on Railways), BGBl. I, 825/1992)) was amended in 2011 (BGBl. I, 129/2011; `the 2011 Federal Law on Railways'). That amendment introduced, in Paragraph 53a thereof and with effect from 1 January 2004, a new method of determining the reference date for the purpose of career advancement.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8380">
+          <num>9</num>
+          <content eId="para_8380__content">
+            <p>In the judgment of 28 January 2015, ÖBB Personenverkehr ( C‑417/13, EU:C:2015:38), the Court found that the scheme introduced by Paragraph 53a of the 2011 Federal Law on Railways was contrary to EU law, in particular to Article 2 and Article 6(1) of Directive 2000/78, in so far as, in order to end discrimination on grounds of age, the legislative amendment made took into account periods of service completed before the age of 18 but at the same time introduced, only in respect of workers subject to such discrimination, a provision which extended by one year the period required for advancement in each of the first three salary steps, thus ultimately maintaining different treatment on grounds of age. Following that judgment, the 2011 Federal Law on Railways was further amended in 2015 (BGBl. I, 64/2015; `the 2015 Federal Law on Railways').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8381">
+          <num>10</num>
+          <content eId="para_8381__content">
+            <p>Paragraph 53a of the 2015 Federal Law on Railways is worded as follows: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>The reference date for the purpose of advancement shall be the date on which the period allowing access to the higher salary step begins to run for the first time.</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>For the purpose of determining the reference date for advancement, the only periods to be taken into account shall be periods completed in the context of an employment relationship or a training relationship as an apprentice with:</p>
+                <blockList>
+                  <item>
+                    <num>(a)</num>
+                    <p>[ÖBB], one of its legal predecessors or, as of the entry into effect of regulated division or reorganisation procedures concerning ÖBB-Holding AG, any of the companies indicated in Part 3 of that federal law -- in the version of the federal law published in BGB1. I, 138/2003 -- their successors in title and undertakings that emerge from any one of those companies as a result of reorganisation measures adopted in accordance with company law in force, and undertakings to which the employment relationships of staff employed at 31 December 2003 by [ÖBB] have been transferred contractually or following a transfer/transfers of undertakings, and</p>
+                  </item>
+                  <item>
+                    <num>(b)</num>
+                    <p>railway infrastructure undertakings and/or rail transport undertakings of a Member State of the European Economic Area (EEA), the Republic of Turkey or the Swiss Confederation, as long as such an obligation stems from respective association or freedom of movement agreements.</p>
+                  </item>
+                </blockList>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>The advancement shall take place on 1 January following the expiry of the period for advancement. ...</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(5)</num>
+                <p>After duly communicating and establishing earlier periods of service no later than the expiry of the period indicated in paragraph 4, the person concerned shall be placed in the salary step of the pay scales set out in Annexes 2 and 2a to the [Allgemeine Vertragsbedingungen für Dienstverträge bei den Österreichischen Bundesbahnen (AVB) (general terms and conditions applicable to employment contracts with the Austrian railways)] on the basis of the reference date for the purpose of advancement determined in accordance with paragraph 2.(6)   The classification referred to in paragraph 5 shall not result in any reduction in the salaries received before the publication of the [2015 Federal Law on Railways]. If the classification under paragraph 5 does lead to a reduction in the salary received by comparison with that received in the last month before publication of the [2015 Federal Law on Railways], the latter salary shall be maintained until the salary determined as a result of the classification under paragraph 5 reaches the same level of the maintained salary, in accordance with Annexes 2 and 2a to the [general terms and conditions applicable to employment contracts with the Austrian railways]. ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_8382">
+          <num>11</num>
+          <content eId="para_8382__content">
+            <p>Mr Stollwitzer began working on 17 January 1983 for one of the predecessors in law of ÖBB. In view of the periods of service completed by Mr Stollwitzer before he took up his post, the reference date for the purpose of his advancement was established as being 2 July 1980.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8383">
+          <num>12</num>
+          <content eId="para_8383__content">
+            <p>That date determines, inter alia, the pay grade in the pay scales within which a worker obtains, at regular intervals, advancement to a higher step. At that time, it was determined by calculating the periods completed before entry into service, though it did not include periods completed before reaching the age of 18. The period required for advancement was two years for all steps.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8384">
+          <num>13</num>
+          <content eId="para_8384__content">
+            <p>As regards ÖBB, by adopting Paragraph 53a of the 2015 Federal Law on Railways, the Austrian legislature opted for a complete retroactive reform of the rules under which earlier periods of activity are taken into account, in order to eliminate discrimination on grounds of age, as the Court had found to exist in its judgment of 28 January 2015, ÖBB Personenverkehr ( C‑417/13, EU:C:2015:38).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8385">
+          <num>14</num>
+          <content eId="para_8385__content">
+            <p>Relying on the judgments of 18 June 2009, Hütter ( C‑88/08, EU:C:2009:381), and of 28 January 2015, ÖBB Personenverkehr ( C‑417/13, EU:C:2015:38), Mr Stollwitzer brought proceedings against ÖBB before the Landesgericht Innsbruck (Regional Court, Innsbruck, Austria) for an order that it pay him an amount corresponding to the difference between the salary he received between 2008 and 2015 and the sum which, in his view, would have been payable if the periods required for advancement had been calculated on the basis of the legal situation that existed before the entry into force of Paragraph 53a of the 2015 Federal Law on Railways but included the periods of service completed before his 18th birthday.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8386">
+          <num>15</num>
+          <content eId="para_8386__content">
+            <p>The Landesgericht Innsbruck (Regional Court, Innsbruck) dismissed the claim, taking the view that the retroactive application of Paragraph 53a of the 2015 Federal Law on Railways had put an end to all discrimination on grounds of age. As Mr Stollwitzer was unable to furnish proof of the periods of service required under Paragraph 53a(2) of that law, the calculation of the reference date for the purposes of remuneration did not in any way change in his case.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8387">
+          <num>16</num>
+          <content eId="para_8387__content">
+            <p>Mr Stollwitzer lodged an appeal against that decision before the referring court, the Oberlandesgericht Innsbruck (Higher Regional Court, Innsbruck, Austria). At the same time, he brought proceedings before the Verfassungsgerichtshof (Constitutional Court, Austria), at the conclusion of which that court declared Paragraph 53a of the 2015 Federal Law on Railways compatible with the Austrian constitutional system. The Verfassungsgerichtshof (Constitutional Court) indicated in that regard that, as a result of the judgment of 28 January 2015, ÖBB Personenverkehr ( C‑417/13, EU:C:2015:38), the reference dates for the purpose of the advancement of all the undertaking's workers had been recalculated scrupulously. If a change to the reference dates for the purpose of advancement were to have the effect of placing some of those workers at a disadvantage, existing salaries would be maintained, in accordance with Paragraph 53a(6) of that law ( `the safeguard clause'), in order to ensure compliance with the principle of legitimate expectations.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8388">
+          <num>17</num>
+          <content eId="para_8388__content">
+            <p>According to the referring court, it is necessary to examine whether Paragraph 53a of the 2015 Federal Law on Railways actually eliminated all discrimination on grounds of age. In that regard, it will be necessary to consider whether that provision introduces a different form of discrimination from that existing under the rules previously applicable.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8389">
+          <num>18</num>
+          <content eId="para_8389__content">
+            <p>In those circumstances, the Oberlandesgericht Innsbruck (Higher Regional Court, Innsbruck) decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Is EU law as it currently stands, in particular the general principle in EU law of equal treatment, the general principle of the prohibition of discrimination on grounds of age within the meaning of Article 6(3) TEU and Article 21 of the Charter of Fundamental Rights of the European Union and the prohibition of discrimination in connection with freedom of movement for workers under Article 45 TFEU and [Directive 2000/78] to be interpreted as precluding a national rule, such as that at issue in the main proceedings, which, for the removal of discrimination on grounds of age identified by the Court of Justice in [the judgment of 28 January 2015, ÖBB Personenverkehr ( C‑417/13, EU:C:2015:38)] (namely the failure to take into account previous periods of service completed before the age of 18 for [ÖBB] employees), takes into account a small number of ÖBB employees discriminated against under the old rules with a period of service completed before the age of 18 (but only those employees who actually worked for ÖBB or for similar public railway infrastructure undertakings or railway undertakings in the EU, in the EEA and in those countries connected with the EU by association or free movement arrangements), but does not take into account, for the vast majority of ÖBB employees originally discriminated against, all other periods of service completed before the age of 18, including in particular those not taken into account which enabled the ÖBB employees concerned better to perform their duties, such as, for example, previous periods of service with private and other public transport companies or infrastructure companies by which the infrastructure used by the employer [ÖBB] (rolling stock, rail construction, line construction, electrical and electronic equipment, signal boxes, station construction and the like) is produced, distributed or maintained, or similar undertakings, and therefore in reality ultimately maintains a difference in treatment based on age for the vast majority of the ÖBB employees discriminated against under the old rules?</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>Does the conduct of a Member State, which is the sole shareholder of a rail transport undertaking and the de facto employer of persons employed by that undertaking, where the right of those employees founded on EU law to additional pay on account of discrimination, inter alia, on the basis of age, which has been recognised by several judgments of the Court of Justice ..., as well as by a number of national court rulings, including a decision of the Oberster Gerichtshof (Supreme Court, Austria) ... and which the Member State sought to remove for purely fiscal reasons through retroactive changes to the law in 2011 and 2015, meet the conditions recognised in the case-law of the Court of Justice for that Member State to incur liability under EU law, in particular the condition that there be a sufficiently serious breach of EU law, in particular of Article 2(1), read in conjunction with Article 1, of Directive 2000/78, as interpreted in a number of judgments of the Court of Justice [judgments of 18 June 2009, Hütter ( C‑88/08, EU:C:2009:381); of 16 January 2014, Pohl ( C‑429/12, EU:C:2014:12); and of 28 January 2015, ÖBB Personenverkehr ( C‑417/13, EU:C:2015:38)]?'</p>
+                <tblock>
+                  <p>Consideration of the questions referred</p>
+                </tblock>
+                <tblock>
+                  <p>The first question</p>
+                </tblock>
+                <p>19 By its first question, the referring court seeks to ascertain, in essence, whether Article 45 TFEU and Articles 2, 6 and 16 of Directive 2000/78 are to be interpreted as precluding national legislation, such as that at issue in the main proceedings, which, in order to end discrimination on grounds of age arising as a result of the application of national law that took into account, for the purpose of the categorisation of the employees of an undertaking within pay scales, only periods of activity completed after the age of 18, retroactively abolishes that age limit in respect of all such workers and allows only experience acquired with other undertakings operating in the same economic sector to be taken into account.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8390">
+          <num>20</num>
+          <content eId="para_8390__content">
+            <p>First of all, it should be noted that, according to the Court's settled case-law, it is clear from the title of, and preamble to, Directive 2000/78, as well as from its content and purpose, that that directive is intended to establish a general framework for ensuring that everyone benefits from equal treatment in matters of employment and occupation by providing effective protection against discrimination based on any of the grounds referred to in Article 1 thereof, which include age (see, inter alia, judgment of 10 November 2016, de Lange, C‑548/15, EU:C:2016:850, paragraph 16 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8391">
+          <num>21</num>
+          <content eId="para_8391__content">
+            <p>According to Article 2(1) of Directive 2000/78, the `principle of equal treatment' means that there must be no direct or indirect discrimination whatsoever on any of the grounds referred to in Article 1 of the directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8392">
+          <num>22</num>
+          <content eId="para_8392__content">
+            <p>Article 2(2)(a) of that directive provides that direct discrimination is taken to occur where a person, on the basis of his age, is treated less favourably than another is, has been or would be treated in a comparable situation. Under Article 2(2)(b) of Directive 2000/78, indirect discrimination is taken to occur where an apparently neutral provision, criterion or practice would put persons having a particular age at a particular disadvantage compared with other persons, unless that provision, criterion or practice is objectively justified by a legitimate aim and the means of achieving that aim are appropriate and necessary.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8393">
+          <num>23</num>
+          <content eId="para_8393__content">
+            <p>As is clear from the documents available to the Court, Paragraph 53a of the 2015 Federal Law on Railways makes provision for three stages. The first stage entails the retroactive recalculation of the reference date for the purpose of the advancement of the worker concerned within the relevant pay scale for his position. Thus, for the purpose of calculating the new date, that provision takes into account, in their entirety and irrespective of the age at which the worker completed them, only periods of activity completed previously with national railway undertakings, other Member States, the Republic of Turkey and the Swiss Confederation. On the other hand, the new legislation no longer makes any provision for other periods of activity previously completed by the worker to be taken into account.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8394">
+          <num>24</num>
+          <content eId="para_8394__content">
+            <p>The second stage entails the reclassification of the worker concerned on the basis of the new reference date for the purpose of his advancement -- in other words, the scheme introduced by Paragraph 53a of the 2015 Federal Law on Railways is applied to him. The new reference date taken into account for the purpose of advancement may thus result in an increase in the salary received, therefore entitling the worker concerned to payment of arrears of salary. Under the safeguard clause, if the new reference date for the purpose of advancement results in the worker concerned being placed on a lower pay scale, the salary actually received at the time that new date is determined is to be maintained for reasons connected with the protection of acquired rights. The person concerned is guaranteed to receive that salary until he has completed the period of service necessary to be promoted to a higher pay scale on the basis of the new reference date for the purpose of advancement.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8395">
+          <num>25</num>
+          <content eId="para_8395__content">
+            <p>The third stage provided for by the Austrian legislature entails the introduction, for all ÖBB employees, of an additional pay scale before the final pay scale, which is intended to compensate for the negative pecuniary consequences which would otherwise occur as a result of the change in the reference date for the purpose of advancement.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8396">
+          <num>26</num>
+          <content eId="para_8396__content">
+            <p>It is necessary to examine whether that legislation perpetuates the age-based discrimination of the earlier schemes and gives rise to a new form of discrimination on grounds of age among ÖBB employees.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8397">
+          <num>27</num>
+          <content eId="para_8397__content">
+            <p>According to the referring court, the increase in salary resulting from periods of service completed before the age of 18 being taken into account, in accordance with the judgments of 18 June 2009, Hütter ( C‑88/08, EU:C:2009:381), and of 28 January 2015, ÖBB Personenverkehr ( C‑417/13, ECLI:EU:C:2015:38), will be cancelled out by the scheme introduced by Paragraph 53a of the 2015 Federal Law on Railways as a result of, first, the fact that periods of employment completed between the age of 18 and entry into service are almost never taken into account, even though such periods enable the worker concerned to perform his duties better, second, the introduction of a new penultimate pay scale and, third, the safeguard clause. Those measures lead, in any event, to a reduction in the amount of income received in the course of their working life as a whole by employees who had not, up to that point, been discriminated against.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8398">
+          <num>28</num>
+          <content eId="para_8398__content">
+            <p>In the first place, it should be noted that the referring court's premiss is based on a misreading of those judgments. The effect of ensuring that national legislation complies with the judgment of 28 January 2015, ÖBB Personenverkehr ( C‑417/13, EU:C:2015:38) is not necessarily to confer the right to a salary increase on workers who have been the subject of the discrimination identified by the Court. As the Court stated in paragraphs 43 to 45 of that judgment, although Member States are obliged, in accordance with Article 16 of Directive 2000/78, to ensure that any laws, regulations or administrative provisions contrary to the principle of equal treatment are abolished, that article does not require Member States to adopt specific measures to be taken in the event of a breach of the prohibition of discrimination but leaves them free to choose, between the different solutions suitable for achieving its intended objective, the one which appears to them to be the most appropriate for that purpose, depending on the situations which may arise.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8399">
+          <num>29</num>
+          <content eId="para_8399__content">
+            <p>Such compliance, with a view to abolishing discrimination on grounds of age, in accordance with Article 16 of that directive, will not therefore necessarily have the consequence of enabling a worker whose periods of activity completed before reaching the age of 18 have not been taken into account in the calculation of his advancement, as a result of the application of the discriminatory national legislation, to obtain financial compensation corresponding to the difference between the salary he would have received but for the discrimination and that which he actually received.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8400">
+          <num>30</num>
+          <content eId="para_8400__content">
+            <p>In other words, the elimination of discrimination does not, in any event, mean that the person discriminated against under the previous legal scheme will automatically enjoy the right to receive, with retroactive effect, that difference in salary or future increases in salary. That will be the case only if, and as long as, measures to restore equal treatment have not been adopted by the national legislature. In that case, observance of the principle of equality can be ensured only by granting to persons within the disadvantaged category the same advantages as those enjoyed by persons within the favoured category, the latter arrangements, for want of the correct application of EU law, being the only valid point of reference remaining (judgment of 28 January 2015, ÖBB Personenverkehr, C‑417/13, EU:C:2015:38, paragraph 46 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8401">
+          <num>31</num>
+          <content eId="para_8401__content">
+            <p>As the Advocate General observed in point 36 of his Opinion, in order to eradicate the discrimination on grounds of age identified by the Court in its judgment of 18 June 2009, Hütter ( C‑88/08, EU:C:2009:381), it was therefore permissible for the Austrian legislature to decide, as it did, to amend with retroactive effect the entire system by which previous periods of activity are taken into account. The simple removal of the prohibition on taking into account practical experience gained before the age of 18 was but one of the options available to that legislature for compliance with the provisions of Directive 2000/78.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8402">
+          <num>32</num>
+          <content eId="para_8402__content">
+            <p>It should also be noted that, as the amendment in question entered into force with retroactive effect, the criterion based on age was formally abolished, thus making it possible to take account of experience gained, irrespective of the age at which it was acquired.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8403">
+          <num>33</num>
+          <content eId="para_8403__content">
+            <p>Furthermore, Paragraph 53a of the 2015 Federal Law on Railways is applicable without distinction to all ÖBB employees and thus to both those who were discriminated against under the old scheme and those treated favourably by that scheme, and it transferred all those workers to the new remuneration scheme which it introduced.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8404">
+          <num>34</num>
+          <content eId="para_8404__content">
+            <p>Paragraph 53a of the 2015 Federal Law on Railways is different in that regard from the national legislation at issue in the cases which gave rise to the judgments of 11 November 2014, Schmitzer ( C‑530/13, EU:C:2014:2359), and of 28 January 2015, ÖBB Personenverkehr ( C‑417/13, EU:C:2015:38), in which the new legislation took effect only as regards workers discriminated against under the old scheme and thus continued to treat the two groups of workers differently with regard to how they were classified under the pay scales.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8405">
+          <num>35</num>
+          <content eId="para_8405__content">
+            <p>In the second place, the referring court states that workers who, before reaching the age of 18, completed periods of activity or training which are not periods taken into account under the scheme based on Paragraph 53a of the 2015 Federal Law on Railways ( `non-relevant experience') are, as before the entry into force of that law, denied the possibility of having such periods taken into account, both as regards the determination of the remuneration received before the publication of that law -- the maintenance of which is guaranteed under that law as a result of the safeguard clause -- and as regards the payment of arrears of salary that are not yet time-barred.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8406">
+          <num>36</num>
+          <content eId="para_8406__content">
+            <p>However, that category consists solely of workers who have only non-relevant experience.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8407">
+          <num>37</num>
+          <content eId="para_8407__content">
+            <p>Accordingly, the reasoning followed by the referring court to the effect that refusal to take account of periods completed before the age of 18 with other undertakings may give rise to discrimination on grounds of age has the effect of calling into question the new rules for taking account of experience adopted by the national legislature.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8408">
+          <num>38</num>
+          <content eId="para_8408__content">
+            <p>The Austrian Government contends in that regard that the fact that, under the old rules, non-relevant experience was taken into account as to 50% and without restriction went beyond the recognition of experience acquired in the relevant field and, in essence, entailed the same disadvantages as the criterion based on age, since it was not based on experience which enabled the worker concerned to perform his duties better as an employee of ÖBB.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8409">
+          <num>39</num>
+          <content eId="para_8409__content">
+            <p>In that regard, it should be noted, first, that according to the Court's established case-law, rewarding experience acquired in a particular field, which enables the worker to perform his duties better, constitutes a legitimate objective of pay policy (see, to that effect, judgment of 3 October 2006, Cadman, C‑17/05, EU:C:2006:633, paragraph 34 et seq., and of 18 June 2009, Hütter, C‑88/08, EU:C:2009:381, paragraph 47 and the case-law cited). The employer is therefore, in principle, free to take into account only such previously completed periods of activity when determining remuneration.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8410">
+          <num>40</num>
+          <content eId="para_8410__content">
+            <p>Second, the Court has taken the view that while a provision of national law that takes into account only certain previous periods of activity and disregards others is undoubtedly likely to entail a difference in treatment among workers according to the date of their recruitment by the undertaking concerned, such a difference is not, directly or indirectly, based on age or on an event linked to age. It is the experience acquired with other undertakings which is not taken into account, irrespective of the age at which it was acquired and the age at which the worker concerned was recruited (see, to that effect, judgment of 7 June 2012, Tyrolean Airways Tiroler Luftfahrt Gesellschaft, C‑132/11, EU:C:2012:329, paragraph 29).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8411">
+          <num>41</num>
+          <content eId="para_8411__content">
+            <p>In the third place, with regard to the safeguard clause, under which, if the new reference date for the purpose of advancement results in the worker concerned being placed on a lower pay scale, the salary actually received at the time that new date is determined will be maintained, it is apparent from the documents available to the Court that that clause provides workers with the guarantee that they will be transferred to the new scheme without any financial loss, in accordance with their acquired rights and with the protection of legitimate expectations, which is a legitimate employment policy and labour market aim.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8412">
+          <num>42</num>
+          <content eId="para_8412__content">
+            <p>In any event, such a clause is directed only at workers who are no longer able to have their non-relevant experience taken into account. Therefore, the alleged discrimination linked to the consequences of the application of the safeguard clause is not, in any event, based on the criterion of age but on the ways in which account is taken of previous experience. It is apparent from paragraphs 39 and 40 above that such a basis cannot be called into question in this case.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8413">
+          <num>43</num>
+          <content eId="para_8413__content">
+            <p>The same applies with regard to the introduction of a penultimate pay scale, which, as is clear, in particular, from the answers to the question put by the Court, is intended to compensate for the effects of reclassification in a lower grade.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8414">
+          <num>44</num>
+          <content eId="para_8414__content">
+            <p>Accordingly, in view of Member States' obligations under EU law with regard to the eradication of discrimination on grounds of age when taking account of previous periods of activity and of the freedom enjoyed by the national legislature to restructure the salary scheme for ÖBB employees, the Court finds that the change that had to be made to the law in force does not cease to be non-discriminatory by virtue of the fact that it does not have the effect, in the transfer of all workers to a new system for taking account of previous experience which does not entail different treatment on the basis of age, of conferring a benefit on all workers. It is therefore clear, in that context, that the Austrian legislature did not exceed the limits of its powers in this field.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8415">
+          <num>45</num>
+          <content eId="para_8415__content">
+            <p>In those circumstances, it must be concluded that, in view of the broad discretion enjoyed by Member States in the choice not only of the pursuit of a specific social policy and employment aim but also in the determination of measures for achieving that aim, the Austrian legislature, in adopting Paragraph 53a of the 2015 Federal Law on Railways, had due regard for the balance to be struck between the elimination of discrimination on grounds of age on the one hand and the preservation of rights acquired under the former legal system on the other.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8416">
+          <num>46</num>
+          <content eId="para_8416__content">
+            <p>Lastly, with regard to Article 45 TFEU, as Paragraph 53a of the 2015 Federal Law on Railways expressly provides that previous periods of activity in the railway sector completed in other Member States are to be taken into account, there is nothing before the Court to justify any finding of infringement of the freedom of movement for workers enshrined in that article.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8417">
+          <num>47</num>
+          <content eId="para_8417__content">
+            <p>In the light of the foregoing considerations, the answer to the first question is that Article 45 TFEU and Articles 2, 6 and 16 of Directive 2000/78 are to be interpreted as not precluding national legislation, such as that at issue in the main proceedings, which, in order to end discrimination on grounds of age arising as a result of the application of national law that took into account, for the purpose of the categorisation of the employees of an undertaking within pay scales, only periods of activity completed after the age of 18, retroactively abolishes that age limit in respect of all such workers and allows only experience acquired with other undertakings operating in the same economic sector to be taken into account.</p>
+            <tblock>
+              <p>The second question</p>
+            </tblock>
+            <p>48 In the light of the answer given to the first question, there is no need to answer the second question.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_8418">
+          <num>49</num>
+          <content eId="para_8418__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (First Chamber) hereby rules: Article 45 TFEU and Articles 2, 6 and 16 of Council Directive 2000/78/EC of 27 November 2000 establishing a general framework for equal treatment in employment and occupation are to be interpreted as not precluding national legislation, such as that at issue in the main proceedings, which, in order to end discrimination on grounds of age arising as a result of the application of national law that took into account, for the purpose of the categorisation of the employees of an undertaking within pay scales, only periods of activity completed after the age of 18, retroactively abolishes that age limit in respect of all such workers and allows only experience acquired with other undertakings operating in the same economic sector to be taken into account.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: German.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

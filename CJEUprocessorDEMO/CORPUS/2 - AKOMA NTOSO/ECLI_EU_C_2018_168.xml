@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+      <references source="#source">
+        <TLCOrganization eId="institution_76" showAs="" href="/akn/ontology/Organization/Institution/institution_76" />
+      </references>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (First Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>7 March 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Directive 2003/96/EC -- Taxation of energy products and electricity -- Article 14(1)(a) -- Energy products used for the generation of electricity -- Obligation to exempt -- Article 15(1)(c) -- Energy products used for combined heat and power generation -- Option to exempt or reduce the level of taxation -- Natural gas intended for use in the cogeneration of heat and electricity) In Case C-31/17, REQUEST for a preliminary ruling under Article 267 TFEU from the Conseil d'État (Council of State, France), made by decision of 18 January 2017, received at the Court on 23 January 2017, in the proceedings Cristal Union, the legal successor to Sucrerie de Toury SA, v</p>
+      <p>
+        <party as="respondent" refersTo="#institution_76">Ministre de l'Économie et des Finances</party>
+      </p>
+      <p>, THE COURT (First Chamber), composed of R. Silva de Lapuerta, President of the Chamber, C.G. Fernlund, J.C. Bonichot, A. Arabadjiev and E. Regan (Rapporteur), Judges, Advocate General: E. Tanchev, Registrar: V. Giacobbo-Peyronnel, Administrator, having regard to the written procedure and further to the hearing on 22 November 2017, after considering the observations submitted on behalf of</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>Cristal Union, the legal successor to Sucrerie de Toury SA, by C. Lesourd and J.M. Priol, avocats,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the French Government, by D. Colas, E. de Moustier, S. Ghiandoni and A. Alidière, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Finnish Government, by S. Hartikainen, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by C. Perrin and F. Tomat, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 22 February 2018,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_7897">
+          <num>1</num>
+          <content eId="para_7897__content">
+            <p>The present request for a preliminary ruling concerns the interpretation of Article 14(1)(a) and of Article 15(1)(c) of Council Directive 2003/96/EC of 27 October 2003 restructuring the Community framework for the taxation of energy products and electricity ( OJ 2003 L 283, p. 51).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7898">
+          <num>2</num>
+          <content eId="para_7898__content">
+            <p>The request has been made in proceedings between Cristal Union, the legal successor to Sucrerie de Toury SA, and the</p>
+            <p>
+              <organization refersTo="#institution_76">Ministre de l'Économie et des Finances</organization>
+            </p>
+            <p>(French Minister for the Economy and Finance) relating to the taxation of natural gas used by a cogeneration unit for the purposes of combined heat and electricity generation.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <paragraph eId="para_7899">
+          <num>3</num>
+          <content eId="para_7899__content">
+            <p>Recitals 2 to 7, 11, 12, 24 and 25 of Directive 2003/96 are worded as follows: `</p>
+            <blockList>
+              <item>
+                <num>(2)</num>
+                <p>The absence of Community provisions imposing a minimum rate of taxation on electricity and energy products other than mineral oils may adversely affect the proper functioning of the internal market.</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>The proper functioning of the internal market and the achievement of the objectives of other Community policies require minimum levels of taxation to be laid down at Community level for most energy products, including electricity, natural gas and coal.</p>
+              </item>
+              <item>
+                <num>(4)</num>
+                <p>Appreciable differences in the national levels of energy taxation applied by Member States could prove detrimental to the proper functioning of the internal market.</p>
+              </item>
+              <item>
+                <num>(5)</num>
+                <p>The establishment of appropriate Community minimum levels of taxation may enable existing differences in the national levels of taxation to be reduced.</p>
+              </item>
+              <item>
+                <num>(6)</num>
+                <p>In accordance with Article 6 of the [EC] Treaty, environmental protection requirements must be integrated into the definition and implementation of other Community policies.</p>
+              </item>
+              <item>
+                <num>(7)</num>
+                <p>As a party to the United Nations Framework Convention on Climate Change, the Community has ratified the Kyoto Protocol. The taxation of energy products and, where appropriate, electricity is one of the instruments available for achieving the Kyoto Protocol objectives. ...</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(11)</num>
+                <p>Fiscal arrangements made in connection with the implementation of this Community framework for the taxation of energy products and electricity are a matter for each Member State to decide. In this regard, Member States might decide not to increase the overall tax burden if they consider that the implementation of such a principle of tax neutrality could contribute to the restructuring and the modernisation of their tax systems by encouraging behaviour conducive to greater protection of the environment and increased labour use.</p>
+              </item>
+              <item>
+                <num>(12)</num>
+                <p>Energy prices are key elements of Community energy, transport and environment policies. ...</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(24)</num>
+                <p>Member States should be permitted to apply certain other exemptions or reduced levels of taxation where that will not be detrimental to the proper functioning of the internal market and will not result in distortions of competition.</p>
+              </item>
+              <item>
+                <num>(25)</num>
+                <p>In particular, combined heat and power generation and, in order to promote the use of alternative energy sources, renewable forms of energy may qualify for preferential treatment.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7900">
+          <num>4</num>
+          <content eId="para_7900__content">
+            <p>Article 1 of Directive 2003/96 provides: `Member States shall impose taxation on energy products and electricity in accordance with this Directive.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7901">
+          <num>5</num>
+          <content eId="para_7901__content">
+            <p>Under Article 14(1)(a) of that directive: `In addition to the general provisions set out in [Council] Directive 92/12/EEC [of 25 February 1992 on the general arrangements for products subject to excise duty and on the holding, movement and monitoring of such products ( OJ 1992 L 76, p. 1), as amended by Council Directive 2000/47/EC of 20 July 2000 ( OJ 2000 L 193, p. 73)] on exempt uses of taxable products, and without prejudice to other Community provisions, Member States shall exempt the following from taxation under conditions which they shall lay down for the purpose of ensuring the correct and straightforward application of such exemptions and of preventing any evasion, avoidance or abuse:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>energy products and electricity used to produce electricity and electricity used to maintain the ability to produce electricity. However, Member States may, for reasons of environmental policy, subject these products to taxation without having to respect the minimum levels of taxation laid down in this Directive. In such case, the taxation of these products shall not be taken into account for the purpose of satisfying the minimum level of taxation on electricity laid down in Article 10'.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7902">
+          <num>6</num>
+          <content eId="para_7902__content">
+            <p>Article 15(1)(c) of that directive provides: `1. Without prejudice to other Community provisions, Member States may apply under fiscal control total or partial exemptions or reductions in the level of taxation to: ...</p>
+            <blockList>
+              <item>
+                <num>(c)</num>
+                <p>energy products and electricity used for combined heat and power generation'.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7903">
+          <num>7</num>
+          <content eId="para_7903__content">
+            <p>The third subparagraph of Article 21(5) of Directive 2003/96 provides as follows: `An entity producing electricity for its own use is regarded as a distributor. Notwithstanding Article 14(1)(a), Member States may exempt small electricity producers provided that they tax the energy products used for the production of that electricity.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>French law</p>
+        </tblock>
+        <paragraph eId="para_7904">
+          <num>8</num>
+          <content eId="para_7904__content">
+            <p>Article 266 quinquies of the Code des douanes (Customs Code), in the version applicable from 1 January to 31 December 2006, provided: `1.   Natural gas ... is subject to a domestic tax on consumption on delivery to the end user. ... 3.   ... Supplies of gas are also exempt when it is intended for use: ...</p>
+            <blockList>
+              <item>
+                <num>(c)</num>
+                <p>as fuel for electricity generation from 1 January 2006 and excluding supplies of gas to be used in the units referred to in Article 266 quinquies A.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7905">
+          <num>9</num>
+          <content eId="para_7905__content">
+            <p>Article 266 quinquies A of the Customs Code, in the version applicable from 1 January 2006, states: `Supplies of natural gas and mineral oils intended for use in cogeneration units for the combined generation of heat and electricity or mechanical power and heat are exempt from the domestic taxes on consumption imposed by Articles 265 and 266 quinquies for a period of five years from their entry into service. ... That exemption applies to units put into service no later than 31 December 2007. ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7906">
+          <num>10</num>
+          <content eId="para_7906__content">
+            <p>From 1 January 2007, point (c) of the second subparagraph of paragraph 3 of Article 266 quinquies of the Customs Code was amended as follows: `3.   ... Supplies of gas are also exempt when it is intended for use: ...</p>
+            <blockList>
+              <item>
+                <num>(c)</num>
+                <p>as fuel for the generation of electricity, from 1 January 2006. The exemption provided for in paragraph 3(c) does not apply to supplies of gas intended for use in the units referred to Article 266 quinquies A. However, producers whose units do not benefit from a contract for the purchase of electricity ... benefit from the scheme provided for in paragraph 3(c) provided that they waive entitlement to the exemption from the domestic tax provided for in Article 266 quinquies A.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the question referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_7907">
+          <num>11</num>
+          <content eId="para_7907__content">
+            <p>Sucrerie de Toury, the legal successor to which is Cristal Union, operates a unit for the combined generation of heat and electricity using natural gas as fuel.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7908">
+          <num>12</num>
+          <content eId="para_7908__content">
+            <p>The natural gas supplied to Sucrerie de Toury between 1 January 2006 and 25 December 2007 was made subject by its supplier to the domestic tax on consumption of natural gas provided for in Article 266 quinquies of the Customs Code and was paid by that supplier.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7909">
+          <num>13</num>
+          <content eId="para_7909__content">
+            <p>As it took the view that those supplies of gas should have been exempt from that tax under Article 14(1)(a) of Directive 2003/96, Sucrerie de Toury brought an action before the tribunal administratif d'Orléans (Administrative Court, Orléans, France) asking that court to order the State to pay compensation for the harm that it claims to have suffered as a result of the delay on the part of the French Republic in transposing that provision into national law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7910">
+          <num>14</num>
+          <content eId="para_7910__content">
+            <p>By decision of 31 January 2013, the tribunal administratif d'Orléans (Administrative Court, Orléans) dismissed that application.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7911">
+          <num>15</num>
+          <content eId="para_7911__content">
+            <p>By judgment of 18 December 2014, the cour administrative d'appel de Nantes (Administrative Court of Appeal, Nantes, France) dismissed the appeal brought by Sucrerie de Toury against that decision on the ground, in essence, that natural gas intended for the combined generation of heat and electricity comes exclusively within the scope of Article 15(1)(c) of Directive 2003/96, which provides the option for Member States to exempt from taxation energy products used for such generation, and does not come within the scope of Article 14(1)(a) of the directive, according to which Member States are to exempt energy products used to generate electricity.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7912">
+          <num>16</num>
+          <content eId="para_7912__content">
+            <p>On 10 February 2015, Sucrerie de Toury brought an action before the Conseil d'État (Council of State, France) against that judgment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7913">
+          <num>17</num>
+          <content eId="para_7913__content">
+            <p>In those circumstances, the Conseil d'État (Council of State) decided to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling: `Do energy products used for the combined generation of heat and electricity fall exclusively within the scope of the power to exempt conferred by Article 15(1)(c) of Directive 2003/96 or do they also fall, as regards the portion of those products used to generate electricity, within the scope of the compulsory exemption provided for by Article 14(1)(a) of that directive?'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the question referred</p>
+        </tblock>
+        <paragraph eId="para_7914">
+          <num>18</num>
+          <content eId="para_7914__content">
+            <p>By its question, the referring court asks, in essence, whether Article 14(1)(a) of Directive 2003/96 must be interpreted as meaning that the compulsory exemption provided for in that provision applies to energy products used for electricity generation, when such products are used for the combined generation of electricity and heat within the meaning of Article 15(1)(c) of that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7915">
+          <num>19</num>
+          <content eId="para_7915__content">
+            <p>According to the French Government, energy products used for that latter purpose by a cogeneration unit, such as that at issue in the main proceedings, come exclusively within the scope of Article 15(1)(c) of Directive 2003/96, with the result that, notwithstanding Article 14(1)(a) of that directive, a Member State is not required to exempt the portion of those products used for the generation of electricity.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7916">
+          <num>20</num>
+          <content eId="para_7916__content">
+            <p>By contrast, Cristal Union, the Finnish Government and the European Commission submit that Article 15(1)(c) of Directive 2003/96 does not exclude the application of Article 14(1)(a) of that directive, which requires Member States to exempt the portion of those energy products which is used by a cogeneration unit, such as that at issue in the main proceedings, for the generation of electricity. Article 15(1)(c), they argue, seeks only to give Member States the option of exempting partially or totally the portion of the energy products used to generate heat.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7917">
+          <num>21</num>
+          <content eId="para_7917__content">
+            <p>According to settled case-law, provisions concerning exemptions provided for by Directive 2003/96 must be given an autonomous interpretation, based on their wording and the scheme of that directive and the objectives pursued by the latter (see, to that effect, judgments of 3 April 2014, Kronos Titan and Rhein-Ruhr Beschichtungs-Service, C‑43/13 and C‑44/13, EU:C:2014:216, paragraph 25, and of 13 July 2017, Vakarų Baltijos laivų statykla, C‑151/16, EU:C:2017:537, paragraph 24 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7918">
+          <num>22</num>
+          <content eId="para_7918__content">
+            <p>In the first place, it should be observed that it follows from the actual wording of the first sentence of Article 14(1)(a) of Directive 2003/96 that the Member States are obliged to exempt `energy products ... used to produce electricity' from taxation under that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7919">
+          <num>23</num>
+          <content eId="para_7919__content">
+            <p>It must be pointed out that such wording in no way excludes from the scope of compulsory exemption the energy products used for the generation of electricity by a cogeneration unit such as that at issue in the main proceedings. The fact remains that such a unit uses `energy products ... used to produce electricity', within the meaning of the first sentence of Article 14(1)(a) of Directive 2003/96.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7920">
+          <num>24</num>
+          <content eId="para_7920__content">
+            <p>Second, it should be recalled that the general scheme of Directive 2003/96 does not, it is true, seek to establish general exemptions (see, to that effect, judgments of 1 December 2011, Systeme Helmholz, C‑79/10, EU:C:2011:797, paragraph 23, and of 21 December 2011, Haltergemeinschaft, C‑250/10, not published, EU:C:2011:862, paragraph 19).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7921">
+          <num>25</num>
+          <content eId="para_7921__content">
+            <p>In addition, since Article 14(1) of Directive 2003/96 sets out an exhaustive list of the exemptions which Member States must apply in connection with the taxation of energy products and electricity (see judgments of 5 July 2007, Fendt Italiana, C‑145/06 and C‑146/06, EU:C:2007:411, paragraph 36, and of 4 June 2015, Kernkraftwerke Lippe-Ems, C‑5/14, EU:C:2015:354, paragraph 45), its provisions cannot be interpreted broadly without depriving the harmonised taxation established by that directive of all practical effect.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7922">
+          <num>26</num>
+          <content eId="para_7922__content">
+            <p>However, as the Court has already held, the first sentence of Article 14(1)(a) of Directive 2003/96, in so far as it imposes on Member States the compulsory exemption of energy products used to generate electricity, provides a precise and unconditional obligation, with the result that it confers on individuals the right to rely directly on it before national courts (see, to that effect, judgment of 17 July 2008, Flughafen Köln/Bonn, C‑226/07, EU:C:2008:429, paragraphs 29 to 33).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7923">
+          <num>27</num>
+          <content eId="para_7923__content">
+            <p>In addition, it should be noted that, when the EU legislature intended to allow Member States to derogate from that regime of mandatory exemption, it did so explicitly in, respectively, the second sentence of Article 14(1)(a) of Directive 2003/96, which states that Member States may tax energy products used to produce electricity for reasons relating to the protection of the environment, and in the third subparagraph of Article 21(5) of that directive, under which Member States which exempt electricity generated by small producers of electricity must tax the energy products used for the generation of that electricity.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7924">
+          <num>28</num>
+          <content eId="para_7924__content">
+            <p>It is thus apparent from the general scheme of Directive 2003/96 that, apart from those two specific cases, the compulsory exemption of energy products used to generate electricity referred to in the first sentence of Article 14(1)(a) of that directive is unconditionally binding on Member States.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7925">
+          <num>29</num>
+          <content eId="para_7925__content">
+            <p>Thirdly, as regards the objectives pursued by Directive 2003/96, it must be observed, first of all, that that directive, by making provision for a system of harmonised taxation of energy products and electricity, seeks, as is apparent from recitals 2 to 5 and 24 thereof, to promote the smooth functioning of the internal market in the energy sector by avoiding, in particular, distortions of competition (see, to that effect, inter alia, judgments of 3 April 2014, Kronos Titan and Rhein-Ruhr Beschichtungs-Service, C‑43/13 and C‑44/13, EU:C:2014:216, paragraphs 31 and 33; of 2 June 2016, ROZ-ŚWIT, C‑418/14, EU:C:2016:400, paragraph 32; and of 7 September 2017, Hüttenwerke Krupp Mannesmann, C‑465/15, EU:C:2017:640, paragraph 26).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7926">
+          <num>30</num>
+          <content eId="para_7926__content">
+            <p>To that end, with regard to electricity generation, the EU legislature made the choice, as is apparent, in particular, from page 5 of the explanatory memorandum to the proposal for a Council Directive restructuring the Community framework for the taxation of energy products ( OJ 1997 C 139, p. 14), to require Member States, in accordance with Article 1 of Directive 2003/96, to tax electricity; the energy products used for the generation of that electricity must, as a corollary, be exempted from taxation in order to avoid, as observed by the Advocate General in points 56 to 62 of his Opinion, the double taxation of electricity.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7927">
+          <num>31</num>
+          <content eId="para_7927__content">
+            <p>However, if the energy products used for the generation of electricity by a cogeneration unit, such as that at issue in the main proceedings, were not exempt from tax under the first sentence of Article 14(1)(a) of Directive 2003/96, there would be precisely a risk of double taxation, since the electricity generated would, in accordance with Article 1 of that directive, also be taxed.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7928">
+          <num>32</num>
+          <content eId="para_7928__content">
+            <p>Admittedly, Directive 2003/96 does not exclude all risk of double taxation, since, as has already been stated in paragraph 27 above, a Member State, in accordance with the second sentence of Article 14(1)(a) of that directive, may tax the energy products used to generate electricity for reasons of environmental protection (see judgment of 4 June 2015, Kernkraftwerke Lippe-Ems, C‑5/14, EU:C:2015:354, paragraph 51).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7929">
+          <num>33</num>
+          <content eId="para_7929__content">
+            <p>However, the fact remains that if a cogeneration unit, such as that at issue in the main proceedings, were to be deprived of the exemption under the first sentence of Article 14(1)(a) of Directive 2003/96 solely on the ground that it generates not only electricity but also combined heat and electricity, it could, as shown by the circumstances of the main proceedings in the present case, lead to unequal treatment between electricity producers, which would be a source of distortions of competition detrimental to the functioning of the internal market in the energy sector (see, to that effect, judgment of 21 December 2011, Haltergemeinschaft, C‑250/10, not published, EU:C:2011:862, paragraphs 17 and 18).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7930">
+          <num>34</num>
+          <content eId="para_7930__content">
+            <p>Moreover, it should be recalled that Directive 2003/96 also seeks to achieve the objective, as stated in recitals 6, 7, 11 and 12 thereof, of promoting environmental-policy objectives (judgment of 7 September 2017, Hüttenwerke Krupp Mannesmann, C‑465/15, EU:C:2017:640, paragraph 26).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7931">
+          <num>35</num>
+          <content eId="para_7931__content">
+            <p>However, the taxation of energy products when used for the generation of electricity by a cogeneration unit, such as that at issue in the main proceedings, would, in view of the risk of double taxation which it involves, run counter to that objective.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7932">
+          <num>36</num>
+          <content eId="para_7932__content">
+            <p>EU law seeks, as is apparent from, in particular, Directive 2012/27/EU of the European Parliament and of the Council of 25 October 2012 on energy efficiency, amending Directives 2009/125/EC and 2010/30/EU and repealing Directives 2004/8/EC and 2006/32/EC ( OJ 2012 L 315, p. 1), to promote cogeneration on the basis of a useful heat demand in the internal energy market, since high-efficiency cogeneration offers significant potential for saving primary energy.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7933">
+          <num>37</num>
+          <content eId="para_7933__content">
+            <p>Furthermore, it is common ground that, as is apparent from recital 20 of Directive 2003/87/EC of the European Parliament and of the Council of 13 October 2003 establishing a scheme for greenhouse gas emission allowance trading within the Community and amending Council Directive 96/61/EC ( OJ 2003 L 275, p. 32), cogeneration gives rise to fewer CO</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7934">
+          <num>2</num>
+          <content eId="para_7934__content">
+            <p>emissions per unit of output than the separate production of heat and electricity.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7935">
+          <num>38</num>
+          <content eId="para_7935__content">
+            <p>Accordingly, it must be held that it is clear, both from the wording of the first sentence of Article 14(1)(a) of Directive 2003/96 and from the general scheme and purpose of that directive, that energy products used for combined heat and electricity generation come within the scope of application of the compulsory exemption provided for in that provision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7936">
+          <num>39</num>
+          <content eId="para_7936__content">
+            <p>That conclusion cannot be brought into question by Article 15(1)(c) of Directive 2003/96.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7937">
+          <num>40</num>
+          <content eId="para_7937__content">
+            <p>The optional regime envisaged in that provision, under which Member States may exempt partially or totally or reduce the level of taxation for energy products used for combined heat and electricity generation, cannot be a determining factor for the purpose of defining the scope of the obligatory exemptions provided for in Article 14(1) of Directive 2003/96 (see, by analogy, judgment of 1 March 2007, Jan De Nul, C‑391/05, EU:C:2007:126, paragraph 29).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7938">
+          <num>41</num>
+          <content eId="para_7938__content">
+            <p>It should be recalled in this respect that, according to settled case-law, where a provision of EU law is open to several interpretations, preference must be given to that interpretation which ensures that the provision retains its effectiveness (see, inter alia, judgments of 18 December 2008, Afton Chemical, C‑517/07, EU:C:2008:751, paragraph 43, and of 10 September 2014, Holger Forstmann Transporte ( C‑152/13, EU:C:2014:2184, paragraph 26).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7939">
+          <num>42</num>
+          <content eId="para_7939__content">
+            <p>However, as is apparent from paragraphs 26 to 28 above, the first sentence of Article 14(1)(a) of Directive 2003/96 imposes on the Member States an unconditional obligation to exempt energy products used for electricity generation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7940">
+          <num>43</num>
+          <content eId="para_7940__content">
+            <p>In order not to deprive that provision of its effectiveness, the optional regime provided for in Article 15(1)(c) of Directive 2003/96 cannot therefore be merely residual in nature, in the sense of being limited to allowing Member States to give, as is apparent from recital 25 of that directive, `preferential treatment' to energy products used for the combined generation of heat and electricity, by adopting, in order to promote the environmental-policy objectives recalled in paragraphs 34 to 37 above, a specific regime providing for the exemption for such energy products, that is to say, reducing the level of taxation, provided that the level of taxation chosen ensures the compulsory exemption for the portion of such products used for electricity generation (see, by analogy, judgment of 1 March 2007, Jan De Nul, C‑391/05, EU:C:2007:126, paragraph 29).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7941">
+          <num>44</num>
+          <content eId="para_7941__content">
+            <p>Article 15(1)(c) of Directive 2003/96 thus seeks to grant Member States an additional possibility to derogate from the taxation of energy products laid down in Article 1 of that directive and not to exclude the application of the compulsory exemptions regime under the first sentence of Article 14(1)(a) of that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7942">
+          <num>45</num>
+          <content eId="para_7942__content">
+            <p>In this respect, it should be noted that possible practical difficulties resulting from the need to identify the portion of the energy products used by a cogeneration unit for electricity generation as compared with the generation of heat, highlighted by the French Government, cannot in any circumstances relieve the Member States of their unconditional obligation to exempt energy products used for the generation of electricity, in accordance with the first sentence of Article 14(1)(a) of Directive 2003/96. Moreover, as observed by the Advocate General in point 74 of his Opinion, it is apparent from the information provided by the Commission and Cristal Union at the hearing that it does not at all appear impossible to assess, in accordance with rules that, in the absence of detail in that directive, are for the Member States to determine, the quantity of energy products, which is liable to vary depending on the characteristics of cogeneration units, that is necessary to produce a given quantity of electricity or heat.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7943">
+          <num>46</num>
+          <content eId="para_7943__content">
+            <p>In the light of all the foregoing considerations, the answer to the question referred is that Article 14(1)(a) of Directive 2003/96 must be interpreted as meaning that the compulsory exemption provided for in that provision applies to energy products used for electricity generation, when such products are used for the combined generation of electricity and heat within the meaning of Article 15(1)(c) of that directive.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_7944">
+          <num>47</num>
+          <content eId="para_7944__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (First Chamber) hereby rules: Article 14(1)(a) of Council Directive 2003/96/EC of 27 October 2003 restructuring the Community framework for the taxation of energy products and electricity must be interpreted as meaning that the compulsory exemption provided for in that provision applies to energy products used for electricity generation, when such products are used for the combined generation of electricity and heat within the meaning of Article 15(1)(c) of that directive.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: French.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

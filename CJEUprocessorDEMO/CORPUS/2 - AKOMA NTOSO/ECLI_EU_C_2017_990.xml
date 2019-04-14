@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+      <references source="#source">
+        <TLCOrganization eId="company_55" showAs="" href="/akn/ontology/Organization/Company/company_55" />
+      </references>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Second Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>20 December 2017 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Approximation of laws -- Trade marks -- Directive 2008/95/EC -- Article 7(1) -- Exhaustion of the rights conferred by a trade mark -- Parallel trade marks -- Assignment of trade marks in respect of part of the European Economic Area (EEA) -- Commercial strategy deliberately promoting the image of a single global trade mark following that assignment -- Independent proprietors nonetheless maintaining close commercial and economic relations) In Case C‑291/16, REQUEST for a preliminary ruling under Article 267 TFEU from the Juzgado de lo Mercantil n o 8 de Barcelona (Commercial Court No 8, Barcelona, Spain), made by decision of 17 May 2016, received at the Court on 23 May 2016, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#company_55">Schweppes SA</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#">Red Paralela SL</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="respondent" refersTo="#">Red Paralela BCN SL</party>
+      </p>
+      <p>, formerly Carbòniques Montaner SL, other parties: Orangina Schweppes Holding BV, Schweppes International Ltd, Exclusivas Ramírez SL, THE COURT (Second Chamber), composed of M. Ilešič (Rapporteur), President of the Chamber, A. Rosas, C. Toader, A. Prechal and E. Jarašiūnas, Judges, Advocate General: P. Mengozzi, Registrar: L. Carrasco Marco, Administrator, having regard to the written procedure and further to the hearing on 31 May 2017, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>Schweppes SA, by I. López Chocarro, procurador and D. Gómez Sánchez, abogado,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>Red Paralela SL and Red Paralela BCN SL, by D. Pellisé Urquiza and J.C. Quero Navarro, abogados,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>Orangina Schweppes Holding BV, by Á. Joaniquet Tamburini, procurador and B. González Navarro, abogado,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>Schweppes International Ltd, by Á. Quemada Cuatrecasas, procurador and J.M. Otero Lastres, abogado,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Greek Government, by G. Alexaki, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Netherlands Government, by M.L. Noort and M.K. Bulterman, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by É. Gippini Fournier, T. Scharf, F. Castillo de la Torre and J. Samnadda, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 12 September 2017,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_5720">
+          <num>1</num>
+          <content eId="para_5720__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Article 7(1) of Directive 2008/95/EC of the European Parliament and of the Council of 22 October 2008 to approximate the laws of the Member States relating to trade marks ( OJ 2008 L 299, p. 25, and corrigendum OJ 2009 L 11, p. 86), and of Article 36 TFEU.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_5721">
+          <num>2</num>
+          <content eId="para_5721__content">
+            <p>The request has been made in the course of proceedings between Schweppes SA, a company operating under Spanish law, and Red Paralela SL and Red Paralela BCN SL, formerly Carbòniques Montaner SL (collectively, `Red Paralela') concerning the latter companies' import into Spain of bottles of tonic water bearing the Schweppes trade mark and originating in the United Kingdom.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <paragraph eId="para_5722">
+          <num>3</num>
+          <content eId="para_5722__content">
+            <p>Article 7 of Directive 2008/95, entitled `Exhaustion of the rights conferred by a trade mark', provides: `1.   The trade mark shall not entitle the proprietor to prohibit its use in relation to goods which have been put on the market in the Community under that trade mark by the proprietor or with his consent. 2.   Paragraph 1 shall not apply where there exist legitimate reasons for the proprietor to oppose further commercialisation of the goods, especially where the condition of the goods is changed or impaired after they have been put on the market.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_5723">
+          <num>4</num>
+          <content eId="para_5723__content">
+            <p>Directive 2008/95 is repealed with effect from 15 January 2019 by Directive (EU) 2015/2436 of the European Parliament and of the Council of 16 December 2015 to approximate the laws of the Member States relating to trade marks ( OJ 2015 L 336, p. 1), which entered into force on 12 January 2016 and Article 15 of which corresponds, in essence, to Article 7 of Directive 2008/95.</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_5724">
+          <num>5</num>
+          <content eId="para_5724__content">
+            <p>The sign `Schweppes' has a reputation worldwide for, in particular, `tonic water', available in several varieties. That sign is not the object of a single registration as an EU trade mark, but has been registered for a long time as a national word and figurative mark in each of the Member States of the European Union and the European Economic Area (EEA). Those national trade marks are, in essence, identical.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_5725">
+          <num>6</num>
+          <content eId="para_5725__content">
+            <p>Initially, all the Schweppes trade marks registered in the EEA ( `the parallel trade marks') belonged to Cadbury Schweppes.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_5726">
+          <num>7</num>
+          <content eId="para_5726__content">
+            <p>In 1999, Cadbury Schweppes assigned some of those parallel trade marks, including those registered in the United Kingdom, to Coca-Cola/Atlantic Industries ( `Coca-Cola'). Cadbury Schweppes remained the proprietor of the rest of the parallel trade marks, including those registered in Spain.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_5727">
+          <num>8</num>
+          <content eId="para_5727__content">
+            <p>The shaded areas of the map below indicate the Member States of the EEA and its environs in which Coca-Cola is the proprietor of Schweppes trade marks:</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_5728">
+          <num>9</num>
+          <content eId="para_5728__content">
+            <p>Following various acquisitions and restructurings, the parallel trade marks retained by Cadbury Schweppes now belong to Schweppes International Ltd, a company operating under United Kingdom law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_5729">
+          <num>10</num>
+          <content eId="para_5729__content">
+            <p>The latter company has granted Schweppes an exclusive licence over the Spanish parallel trade marks at issue in the main proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_5730">
+          <num>11</num>
+          <content eId="para_5730__content">
+            <p>Schweppes and Schweppes International are both controlled by Orangina Schweppes Holding BV, a company operating under Netherlands law, which is the ultimate parent company of the Orangina Schweppes group.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_5731">
+          <num>12</num>
+          <content eId="para_5731__content">
+            <p>On 29 May 2014, Schweppes initiated infringement proceedings against Red Paralela in respect of the Spanish parallel trade marks, on the ground that the defendants in the main proceedings had imported and distributed in Spain bottles of tonic water bearing the trade mark Schweppes and originating in the United Kingdom. Schweppes maintains that that marketing in Spain is unlawful, given that those bottles of tonic water were manufactured and placed on the market, not by itself or with its consent, but by Coca-Cola, which, according to Schweppes, has no economic or legal connection with the Orangina Schweppes group. It submits in that context that, in view of the identical nature of the signs and goods in question, consumers are in no position to distinguish the commercial origin of those bottles.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_5732">
+          <num>13</num>
+          <content eId="para_5732__content">
+            <p>In their defence, Red Paralela contend that the trade mark rights resulting from tacit consent, in so far as concerns the Schweppes goods originating in Member States of the European Union where Coca-Cola is the proprietor of the parallel trade marks, have been exhausted. In addition, Red Paralela consider that there are undeniable legal and economic links between Coca-Cola and Schweppes International in their joint exploitation of the sign `Schweppes' as a universal trade mark.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_5733">
+          <num>14</num>
+          <content eId="para_5733__content">
+            <p>According to the findings made by the referring court, the relevant facts for the purposes of the present proceedings are as follows:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>despite being the proprietor of the parallel trade marks in only some Member States of the EEA, Schweppes International has promoted a global image of the Schweppes trade mark;</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>Coca-Cola, which is the proprietor of the parallel trade marks registered in the other Member States of the EEA, has contributed to maintaining that global trade mark image;</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>that global image is a cause of confusion for the relevant public in Spain as regards the commercial origin of `Schweppes' goods;</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>Schweppes International is responsible for the European website that deals specifically with the Schweppes trade mark (www.schweppes.eu), which not only provides general information about goods bearing that trade mark, but also contains links to various local websites, in particular the United Kingdom website managed by Coca-Cola;</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>Schweppes International, which holds no rights in the Schweppes trade mark in the United Kingdom (where the mark is owned by Coca-Cola), refers on its website to the British origins of that mark;</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>Schweppes and Schweppes International use the image of `Schweppes' goods originating in the United Kingdom in their advertising;</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>Schweppes International engages, in the United Kingdom, in activities promoting `Schweppes' goods to customers and informing customers about those goods on social networks;</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>the presentation of `Schweppes' goods marketed by Schweppes International is very similar -- and in some Member States, such as Denmark and the Netherlands, identical -- to that of `Schweppes' goods originating in the United Kingdom;</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>Schweppes International, whose registered office is in the United Kingdom, and Coca-Cola coexist peacefully in the United Kingdom;</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>following the assignment, which took place in 1999, of a proportion of the parallel trade marks to Coca-Cola, the two proprietors of the parallel trade marks in the EEA have, in their respective territories, applied for the registration of new, identical or similar Schweppes trade marks in respect of the same goods (such as, for example, the trade mark SCHWEPPES ZERO);</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>even though Schweppes International is the proprietor of the parallel trade marks in the Netherlands, the trade mark is exploited in that country (that is to say, the product is prepared, bottled and marketed) by Coca-Cola in its capacity as licensee;</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>Schweppes International is not opposed to `Schweppes' goods originating in the United Kingdom being marketed online in various Member States of the EEA in which it is the proprietor of the parallel trade marks, such as Germany and France; furthermore, `Schweppes' goods are sold via websites throughout the EEA, with no distinction as to their origin;</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>Coca-Cola has made no opposition, on the basis of the rights which it holds in the parallel trade marks, to Schweppes International's application for registration of a Community design containing the word element `Schweppes'.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_5734">
+          <num>15</num>
+          <content eId="para_5734__content">
+            <p>The referring court considers that the circumstances of the dispute in the main proceedings are clearly distinct from those in the cases giving rise to the case-law of the Court regarding the exhaustion of trade mark rights and that they could make further reflection necessary on the balance between the protection of those rights and the free movement of goods within the European Union.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_5735">
+          <num>16</num>
+          <content eId="para_5735__content">
+            <p>In those circumstances, the Juzgado de lo Mercantil n o 8 de Barcelona (Commercial Court No 8, Barcelona, Spain) has decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Is it compatible with Article 36 TFEU and with Article 7(1) of Directive 2008/95 and Article 15(1) of Directive [2015/2436] for the proprietor of a trade mark in one or more Member States to prevent the parallel importing or marketing of goods coming from another Member State which bear a trade mark that is identical or practically identical and is owned by a third party, when that proprietor has promoted a global trade mark image that is associated with the Member State from which the goods whose import it seeks to prohibit originate?</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>Is it compatible with Article 36 TFEU and with Article 7(1) of Directive 2008/95 and Article 15(1) of Directive 2015/2436 for goods to be sold under a trade mark, which is well known, within the European Union when the registered proprietors maintain throughout the EEA a global trade mark image which gives rise to confusion in the minds of average consumers concerning the commercial origin of the goods?</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>Is it compatible with Article 36 TFEU and with Article 7(1) of Directive 2008/95 and Article 15(1) of Directive 2015/2436 for the proprietor of identical or similar national trade marks registered in various Member States to oppose the importation into a Member State where it owns the trade mark of goods, bearing a trade mark identical or similar to its own, coming from a Member State in which it is not the proprietor, when in at least one other Member State where it is ... the proprietor of the trade mark it has expressly or tacitly consented to the importation of those same goods?</p>
+              </item>
+              <item>
+                <num>(4)</num>
+                <p>Is it compatible with Article 7(1) of Directive 2008/95 and Article 15(1) of Directive 2015/2436 and with Article 36 TFEU for the proprietor A of a trade mark X registered in one Member State to oppose the importation of goods bearing that trade mark if those goods come from another Member State where a trade mark Y, identical to trade mark X, belongs to another proprietor B which markets it and:</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>proprietors A and B maintain intense commercial and economic relations, although, strictly speaking, there is no dependency between them regarding the joint exploitation of trade mark X;</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>proprietors A and B maintain a coordinated trade mark strategy deliberately promoting vis-à-vis the relevant public an appearance or image of a single global trade mark; or</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>proprietors A and B maintain intense commercial and economic relations, although, strictly speaking, there is no dependency between them regarding the joint exploitation of the trade mark X, and in addition they maintain a coordinated trade mark strategy deliberately promoting vis-à-vis the relevant public an appearance or image of a single global trade mark?'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the questions referred</p>
+        </tblock>
+        <tblock>
+          <p>Admissibility</p>
+        </tblock>
+        <paragraph eId="para_5736">
+          <num>17</num>
+          <content eId="para_5736__content">
+            <p>Schweppes, Schweppes International and Orangina Schweppes Holding maintain, primarily, that the reference for a preliminary ruling is inadmissible.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_5737">
+          <num>18</num>
+          <content eId="para_5737__content">
+            <p>In that regard, they assert, first of all, that the reference for a preliminary ruling is unfounded. The findings of fact made in the order for reference and summarised in paragraph 14 above on which that reference is based are, they claim, vitiated by manifest errors. They also argue that that order for reference is incomplete because, in particular, it deliberately neglects to set out the position of Schweppes and Schweppes International contesting those findings of fact, in breach of their rights of the defence.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_5738">
+          <num>19</num>
+          <content eId="para_5738__content">
+            <p>Next, Schweppes, Schweppes International and Orangina Schweppes Holding argue that the questions referred for a preliminary ruling are abstract and based on general and hypothetical assertions. It is thus impossible for the Court to assess the necessity and relevance of those questions.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_5739">
+          <num>20</num>
+          <content eId="para_5739__content">
+            <p>Lastly, Schweppes, Schweppes International and Orangina Schweppes Holding submit that the referring court's doubts do not concern the interpretation of EU law, but only whether certain factual situations, not yet dealt with by the case-law of the Court concerning the exhaustion of the rights conferred by a trade mark, may be covered thereby. They argue that, that case-law being perfectly defined and established, there is no longer any doubt as to the interpretation of the provisions of EU law sought by the referring court, so that it was not necessary to make a reference to the Court of Justice.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_5740">
+          <num>21</num>
+          <content eId="para_5740__content">
+            <p>In that regard, it should be borne in mind that, in accordance with the Court's settled case-law, in the preliminary ruling procedure under Article 267 TFEU, based on a clear separation of functions between the national courts and the Court of Justice, the national court alone has jurisdiction to find and assess the facts in the dispute in the main proceedings. In that context, the Court is empowered to rule solely on the interpretation or validity of EU law in the light of the factual and legal situation as described by the referring court, in order to provide that court with such guidance as will assist it in resolving the dispute before it (judgments of 28 July 2016, Kratzer, C‑423/15, EU:C:2016:604, paragraph 27, and of 27 April 2017, A-Rosa Flussschiff, C‑620/15, EU:C:2017:309, paragraph 35).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_5741">
+          <num>22</num>
+          <content eId="para_5741__content">
+            <p>Therefore, it is not for the Court to call in question the findings of fact on which the request for a preliminary ruling is based.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_5742">
+          <num>23</num>
+          <content eId="para_5742__content">
+            <p>In addition, the Court has repeatedly held that it is solely for the national court, before which the dispute has been brought and which must assume responsibility for the judicial decision to be made, to determine, in the light of the particular circumstances of the case, both the necessity and the relevance of the questions that it submits to the Court. Consequently, where the questions submitted concern the interpretation of EU law, the Court is in principle bound to give a ruling (judgments of 26 January 2017, Banco Primus, C‑421/14, EU:C:2017:60, paragraph 29, and of 20 September 2017, Andriciuc and Others, C‑186/16, EU:C:2017:703, paragraph 19).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_5743">
+          <num>24</num>
+          <content eId="para_5743__content">
+            <p>The Court may thus refuse to rule on a question referred for a preliminary ruling by a national court only where it is quite obvious that the interpretation of EU law that is sought bears no relation to the actual facts of the main action or its purpose, where the problem is hypothetical, or where the Court does not have before it the factual or legal material necessary to give a useful answer to the questions submitted to it (judgments of 14 March 2013, Allianz Hungária Biztosító and Others, C‑32/11, EU:C:2013:160, paragraph 26, and of 26 January 2017, Banco Primus, C‑421/14, EU:C:2017:60, paragraph 30).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_5744">
+          <num>25</num>
+          <content eId="para_5744__content">
+            <p>However, that is not the situation in the present case. Indeed, it is apparent from the request for a preliminary ruling that the questions submitted are directly connected with the dispute in the main proceedings and are relevant in order to enable the referring court to make a decision regarding that dispute. Moreover, that request contains sufficient elements for the Court to determine the implications of those questions and to provide a useful answer thereto.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_5745">
+          <num>26</num>
+          <content eId="para_5745__content">
+            <p>Lastly, it should be borne in mind that the national courts remain entirely at liberty to bring a matter before the Court if they consider it appropriate to do so, and the fact that the provisions whose interpretation is sought have already been interpreted by the Court does not deprive the Court of jurisdiction to give a further ruling (judgments of 17 July 2014, Torresi, C‑58/13 and C‑59/13, EU:C:2014:2088, paragraph 32, and of 20 September 2017, Andriciuc and Others, C‑186/16, EU:C:2017:703, paragraph 21).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_5746">
+          <num>27</num>
+          <content eId="para_5746__content">
+            <p>It follows from the foregoing that the request for a preliminary ruling is admissible.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Substance</p>
+        </tblock>
+        <paragraph eId="para_5747">
+          <num>28</num>
+          <content eId="para_5747__content">
+            <p>As a preliminary point, it should be noted that the questions referred for a preliminary ruling concern both secondary EU law, namely, Article 7(1) of Directive 2008/95 and its replacement, Article 15(1) of Directive 2015/2436, and primary EU law, namely, Article 36 TFEU.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_5748">
+          <num>29</num>
+          <content eId="para_5748__content">
+            <p>In that regard, it must be found that, on the one hand, regarding the two provisions of secondary law, the dispute in the main proceedings is governed, in view of the date of the material facts, by the first of those provisions. It is therefore only in relation to that provision that the Court is to give a ruling in the context of the present request for a preliminary ruling.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_5749">
+          <num>30</num>
+          <content eId="para_5749__content">
+            <p>On the other hand, it is important to bear in mind that Article 7 of Directive 2008/95 is worded in general terms and comprehensively regulates the question of the exhaustion of trade mark rights for goods traded in the European Union and that, where EU directives provide for the harmonisation of measures necessary to ensure the protection of the interests referred to in Article 36 TFEU, any national measure relating thereto must be assessed in relation to the provisions of that directive and not Articles 34 to 36 TFEU. Like any secondary EU legislation, however, that directive must be interpreted in the light of the TFEU rules on the free movement of goods and of Article 36 TFEU in particular (see, to that effect, judgments of 11 July 1996, Bristol-Myers Squibb and Others, C‑427/93, C‑429/93 and C‑436/93, EU:C:1996:282, paragraphs 25 to 27 and the case-law cited, and of 20 March 1997, Phytheron International, C‑352/95, EU:C:1997:170, paragraphs 17 and 18).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_5750">
+          <num>31</num>
+          <content eId="para_5750__content">
+            <p>Thus, by its four questions, which it is appropriate to examine together, the referring court asks, in essence, whether Article 7(1) of Directive 2008/95, read in the light of Article 36 TFEU, must be interpreted as precluding the proprietor of a national trade mark from opposing the import of identical goods bearing the same mark originating in another Member State in which that mark, which initially belonged to that proprietor, is now owned by a third party which has acquired the rights thereto by assignment, when one or more of the following elements are present:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>the proprietor has promoted a global trade mark image associated with the Member State of origin of the goods whose import it seeks to prohibit;</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>the proprietor and the third party maintain a coordinated trade mark strategy deliberately promoting, throughout the EEA, the appearance or image of a single global trade mark;</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>the single global trade mark image thus provided gives rise to confusion on the part of the average consumer as to the commercial origin of the goods bearing that mark;</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>the proprietor and the third party maintain close commercial and economic relations, even if, strictly speaking, there is no dependency between them regarding the joint exploitation of the mark;</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>the proprietor has expressly or tacitly agreed that the same goods as those whose import it seeks to prohibit may be imported into one or several other Member States where it still holds trade mark rights.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_5751">
+          <num>32</num>
+          <content eId="para_5751__content">
+            <p>Red Paralela, the Greek and Netherlands Governments, and the European Commission propose, albeit with differing emphases, that that question should be answered in the affirmative, while Schweppes, Schweppes International and Orangina Schweppes Holding consider that a negative response is called for.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_5752">
+          <num>33</num>
+          <content eId="para_5752__content">
+            <p>Under Article 7(1) of Directive 2008/95, a trade mark is not to entitle the proprietor to prohibit its use in relation to goods which have been put on the market in the European Union under that trade mark by the proprietor or with his consent.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_5753">
+          <num>34</num>
+          <content eId="para_5753__content">
+            <p>Article 7(1) of Directive 2008/95 is framed in terms corresponding to those used by the Court in judgments which, in interpreting Articles 30 and 36 of the EC Treaty (later Articles 28 and 30 EC, now Articles 34 and 36 TFEU), have recognised in EU law the principle that trade mark rights may be exhausted. It thus reiterates the case-law of the Court to the effect that a person holding trade mark rights protected by the legislation of a Member State may not rely on that legislation in order to oppose the import or marketing of a product which has been put into circulation in another Member State by him or with his consent (see, to that effect, judgments of 11 July 1996, Bristol-Myers Squibb and Others, C‑427/93, C‑429/93 and C‑436/93, EU:C:1996:282, paragraph 31, and of 20 March 1997, Phytheron International, C‑352/95, EU:C:1997:170, paragraph 20).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_5754">
+          <num>35</num>
+          <content eId="para_5754__content">
+            <p>That case-law relating to the principle that trade mark rights may be exhausted, based on Article 36 TFEU, is intended, like Article 7(1) of Directive 2008/95, to reconcile the fundamental interest in protecting trade mark rights, on the one hand, with the fundamental interest in the free movement of goods within the internal market, on the other (see, to that effect, judgment of 11 July 1996, Bristol-Myers Squibb and Others, C‑427/93, C‑429/93 and C‑436/93, EU:C:1996:282, paragraph 40).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_5755">
+          <num>36</num>
+          <content eId="para_5755__content">
+            <p>The Court has repeatedly held that trade mark rights constitute an essential element in the system of undistorted competition which EU law seeks to establish and maintain. Within such a system, undertakings must be able to retain customers by virtue of the quality of their goods or services, something which is possible only if there are distinctive signs enabling customers to identify those goods and services. For the trade mark to be able to play that part, it must offer a guarantee that all the goods which bear it have been manufactured under the control of a single undertaking that may be held accountable for the quality of those goods (judgments of 17 October 1990, HAG GF, C‑10/89, EU:C:1990:359, paragraph 13, and of 11 July 1996, Bristol-Myers Squibb and Others, C‑427/93, C‑429/93 and C‑436/93, EU:C:1996:282, paragraph 43 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_5756">
+          <num>37</num>
+          <content eId="para_5756__content">
+            <p>Consequently, as the Court has ruled on numerous occasions, the specific purpose of trade mark rights is, in particular, to guarantee to the proprietor of a trade mark that he has the right to use that trade mark for the purpose of putting a product into circulation for the first time and thus to protect him against competitors wishing to take advantage of the status and reputation of the trade mark by selling goods illegally bearing that mark. In order to determine the exact extent of this right exclusively conferred on the proprietor of the trade mark, regard must be had to the essential function of the trade mark, which is to guarantee the identity of the origin of the trade marked product to the consumer or end user by enabling him, without any possibility of confusion, to distinguish that product from goods having another origin (judgments of 17 October 1990, HAG GF, C‑10/89, EU:C:1990:359, paragraph 14, and of 11 July 1996, Bristol-Myers Squibb and Others, C‑427/93, C‑429/93 and C‑436/93, EU:C:1996:282, paragraph 44 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_5757">
+          <num>38</num>
+          <content eId="para_5757__content">
+            <p>The essential function of the trade mark would be jeopardised if, failing any consent on the proprietor's part, that proprietor could not oppose the import of an identical or similar product bearing an identical trade mark or one liable to lead to confusion, which had been manufactured and put into circulation in another Member State by a third party having no economic link with that proprietor (see, to that effect, judgments of 17 October 1990, HAG GF, C‑10/89, EU:C:1990:359, paragraphs 15 and 16, and of 22 June 1994, IHT Internationale Heiztechnik and Danziger, C‑9/93, EU:C:1994:261, paragraphs 33 to 37).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_5758">
+          <num>39</num>
+          <content eId="para_5758__content">
+            <p>That analysis cannot be altered by the mere fact that the proprietor's mark and that affixed to the product whose import that proprietor seeks to prohibit originally belonged to the same proprietor, irrespective of whether the division of those marks results from expropriation, and thus an act of public authority, or voluntary contractual assignment, on condition, however, that, notwithstanding their common origin, each of those marks has, from the date of expropriation or assignment, independently fulfilled its function, within its own territorial field of application, of guaranteeing that the trade marked goods originate from one single source (see, to that effect, judgments of 17 October 1990, HAG GF, C‑10/89, EU:C:1990:359, paragraphs 17 and 18, and of 22 June 1994, IHT Internationale Heiztechnik and Danziger, C‑9/93, EU:C:1994:261, paragraphs 46 to 48).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_5759">
+          <num>40</num>
+          <content eId="para_5759__content">
+            <p>That last condition is clearly not satisfied when, following the assignment of some national parallel trade marks to a third party, the proprietor, either acting alone or maintaining his coordinated trade mark strategy with that third party, has actively and deliberately continued to promote the appearance or image of a single global trade mark, thereby generating or increasing confusion on the part of the public concerned as to the commercial origin of goods bearing that mark. By that conduct, which results in the proprietor's trade mark no longer independently fulfilling its essential function within its own territorial field of application, the proprietor has himself compromised or distorted that function. Consequently, he may not rely on the necessity of protecting that function in order to oppose the import of identical goods bearing the same mark originating in another Member State where that mark is now owned by that third party.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_5760">
+          <num>41</num>
+          <content eId="para_5760__content">
+            <p>It is for the national courts to assess whether this is the case, taking account of all the features of the individual situation in question.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_5761">
+          <num>42</num>
+          <content eId="para_5761__content">
+            <p>In that context, it should nonetheless be noted that the mere fact that that proprietor continues, following the assignment, to evoke the historical geographical origin of the national parallel trade marks is not sufficient in that regard, even if he no longer holds the rights in respect of the territory in question and seeks to prohibit the import of goods bearing those marks and originating from that territory.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_5762">
+          <num>43</num>
+          <content eId="para_5762__content">
+            <p>If those courts should find that the condition set out in paragraph 39 above is satisfied, it should still be borne in mind that the essential function of the trade mark is in no way compromised by the freedom to import where the proprietor of the mark in the importing State and the proprietor of the mark in the exporting State are one and the same, or where, even if they are separate persons, they are economically linked (see, to that effect, judgment of 22 June 1994, IHT Internationale Heiztechnik and Danziger, C‑9/93, EU:C:1994:261, paragraphs 34 and 37).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_5763">
+          <num>44</num>
+          <content eId="para_5763__content">
+            <p>As the Court has already held, such an economic link exists where, inter alia, the goods in question have been put into circulation by a licensee, by a parent company, by a subsidiary of the same group, or by an exclusive distributor. In all those situations, the proprietor or the entity of which that proprietor is part can control the quality of the goods to which the mark is affixed (see, to that effect, judgment of 22 June 1994, IHT Internationale Heiztechnik and Danziger, C‑9/93, EU:C:1994:261, paragraphs 34 and 37).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_5764">
+          <num>45</num>
+          <content eId="para_5764__content">
+            <p>Moreover, the Court has emphasised that the decisive factor is the possibility of control over the quality of the goods, not the actual exercise of that control. In that context, it has observed by way of example that, if the licensor tolerates the manufacture of poor quality goods by the licensee, despite having contractual means of preventing it, he must bear the responsibility. Similarly, if the manufacture of goods is decentralised within a group of companies and the subsidiaries in each of the Member States manufacture goods whose quality is geared to the particularities of each national market, those differences in quality may not be invoked in order to oppose the import of goods manufactured by an affiliated company, as the group must bear the consequences of its choice (see, to that effect, judgment of 22 June 1994, IHT Internationale Heiztechnik and Danziger, C‑9/93, EU:C:1994:261, paragraph 38).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_5765">
+          <num>46</num>
+          <content eId="para_5765__content">
+            <p>As the Advocate General observed in points 72 to 82 of his Opinion, it follows from that case-law that the concept of `economic links', for the purposes of that case-law, refers to a substantive, rather than formal, criterion, which is in no way confined to the situations listed in paragraph 44 above and which, in particular, is also fulfilled where, following the division of national parallel trade marks resulting from a territorially limited assignment, the proprietors of those marks coordinate their commercial policies or reach an agreement in order to exercise joint control over the use of those marks, so that it is possible for them to determine, directly or indirectly, the goods to which the trade mark is affixed and to control the quality of those goods.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_5766">
+          <num>47</num>
+          <content eId="para_5766__content">
+            <p>Indeed, if such proprietors were permitted to protect their territories against the parallel import of those goods, that would lead to a partitioning of the national markets which is not justified by the purpose of trade mark rights and is, in particular, unnecessary in order to preserve the essential function of the marks concerned.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_5767">
+          <num>48</num>
+          <content eId="para_5767__content">
+            <p>Thus, in the circumstances described in paragraph 46 above, it must be held that the product was put on the market in the exporting Member State with the consent of the holder of the trade mark rights protected by the importing Member State, within the meaning of Article 7(1) of Directive 2008/95, read in the light of Article 36 TFEU.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_5768">
+          <num>49</num>
+          <content eId="para_5768__content">
+            <p>In that regard, it should be specified that the finding that there exist, following the division of national parallel trade marks resulting from a territorially limited assignment, economic links between the proprietors of those trade marks is not conditional upon those proprietors being formally dependent on each other for the purposes of the joint exploitation of those marks; nor is it conditional upon their actually taking advantage of their ability to control the quality of the goods concerned.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_5769">
+          <num>50</num>
+          <content eId="para_5769__content">
+            <p>Moreover, although it is true that the Court has previously found that a contract of assignment by itself, that is, where there is no economic link, gives the assignor no means of controlling the quality of the goods marketed by the assignee and to which the latter has affixed the trade mark, it follows precisely from that finding that that is not the case when economic links exist between the assignor and the assignee (see, to that effect, judgment of 22 June 1994, IHT Internationale Heiztechnik and Danziger, C‑9/93, EU:C:1994:261, paragraphs 41 and 43).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_5770">
+          <num>51</num>
+          <content eId="para_5770__content">
+            <p>It is for the national courts to assess whether such economic links exist, taking into account all the relevant circumstances of the case at hand.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_5771">
+          <num>52</num>
+          <content eId="para_5771__content">
+            <p>In that context, it should be noted that, although it is, in principle, for the trader alleging exhaustion of trade mark rights to prove that the conditions for applying Article 7(1) of Directive 2008/95 are satisfied (see, to that effect, judgment of 20 November 2001, Zino Davidoff and Levi Strauss, C‑414/99 to C‑416/99, EU:C:2001:617, paragraph 54), that rule must be qualified where it is liable to allow the proprietor to partition national markets and thus help to maintain price differences between Member States (see, to that effect, judgment of 8 April 2003, Van Doren + Q, C‑244/00, EU:C:2003:204, paragraphs 37 and 38).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_5772">
+          <num>53</num>
+          <content eId="para_5772__content">
+            <p>Such a qualification of the burden of proof is required in the event of a voluntary division of national parallel trade marks, because it is difficult or even impossible for such a trader to prove the existence of economic links between the proprietors of those marks, those links normally resulting from trade agreements or informal arrangements between those proprietors to which that trader does not have access.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_5773">
+          <num>54</num>
+          <content eId="para_5773__content">
+            <p>That being said, as the Advocate General also observed in point 94 of his Opinion, it is for that trader to put forward a body of precise and consistent evidence from which it may be inferred that such economic links exist. It is for the referring court to ascertain whether the facts summarised in paragraph 14 above constitute such evidence.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_5774">
+          <num>55</num>
+          <content eId="para_5774__content">
+            <p>In the light of all of the foregoing, the answer to the questions referred is that Article 7(1) of Directive 2008/95, read in the light of Article 36 TFEU, must be interpreted as precluding the proprietor of a national trade mark from opposing the import of identical goods bearing the same mark originating in another Member State in which that mark, which initially belonged to that proprietor, is now owned by a third party which has acquired the rights thereto by assignment, when, following that assignment,</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>the proprietor, either acting alone or maintaining its coordinated trade mark strategy with that third party, has actively and deliberately continued to promote the appearance or image of a single global trade mark, thereby generating or increasing confusion on the part of the public concerned as to the commercial origin of goods bearing that mark, or</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>there exist economic links between the proprietor and that third party, inasmuch as they coordinate their commercial policies or reach an agreement in order to exercise joint control over the use of the trade mark, so that it is possible for them to determine, directly or indirectly, the goods to which the trade mark is affixed and to control the quality of those goods.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_5775">
+          <num>56</num>
+          <content eId="para_5775__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the referring court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Second Chamber) hereby rules: Article 7(1) of Directive 2008/95/EC of the European Parliament and of the Council of 22 October 2008 to approximate the laws of the Member States relating to trade marks, read in the light of Article 36 TFEU, must be interpreted as precluding the proprietor of a national trade mark from opposing the import of identical goods bearing the same mark originating in another Member State in which that mark, which initially belonged to that proprietor, is now owned by a third party which has acquired the rights thereto by assignment, when, following that assignment,</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>the proprietor, either acting alone or maintaining its coordinated trade mark strategy with that third party, has actively and deliberately continued to promote the appearance or image of a single global trade mark, thereby generating or increasing confusion on the part of the public concerned as to the commercial origin of goods bearing that mark, or</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>there exist economic links between the proprietor and that third party, inasmuch as they coordinate their commercial policies or reach an agreement in order to exercise joint control over the use of the trade mark, so that it is possible for them to determine, directly or indirectly, the goods to which the trade mark is affixed and to control the quality of those goods.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Spanish.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

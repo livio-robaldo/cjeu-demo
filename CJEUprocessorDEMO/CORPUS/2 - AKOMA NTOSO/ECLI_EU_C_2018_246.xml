@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+      <references source="#source">
+        <TLCOrganization eId="institution_81" showAs="" href="/akn/ontology/Organization/Institution/institution_81" />
+        <TLCOrganization eId="institution_80" showAs="" href="/akn/ontology/Organization/Institution/institution_80" />
+        <TLCOrganization eId="institution_76" showAs="" href="/akn/ontology/Organization/Institution/institution_76" />
+      </references>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Sixth Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>12 April 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Approximation of laws -- Cosmetic products -- Regulation (EC) No 1223/2009 -- Article 10(2) -- Assessment of the safety of cosmetic products -- Qualifications of the safety assessor -- Recognition of equivalent training courses -- Disciplines similar to pharmacy, toxicology or medicine -- Member States' discretion) In Case C --13/17, REQUEST for a preliminary ruling under Article 267 TFEU from the Conseil d'État (Council of State, France), made by decision of 16 December 2016, received at the Court on 12 January 2017, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">Fédération des entreprises de la beauté</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#institution_81">Ministre des Affaires sociales, de la Santé and des Droits des femmes</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="respondent" refersTo="#institution_80">Ministre de l'Éducation nationale, de l'Enseignement supérieur et de la Recherche</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="respondent" refersTo="#institution_76">Ministre de l'Économie et des Finances</party>
+      </p>
+      <p>, formerly Ministre de l'Économie, de l'Industrie et du Numérique, THE COURT (Sixth Chamber), composed of C.G. Fernlund (Rapporteur), President of the Chamber, S. Rodin and E. Regan, Judges, Advocate General: H. Saugmandsgaard Øe, Registrar: V. Giacobbo-Peyronnel, Administrator, having regard to the written procedure and further to the hearing on 19 October 2017, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>Fédération des entreprises de la beauté, by A. Bost and M. Ragot, avocats,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the French Government, by D. Colas, J. Traband, B. Fodda and E. de Moustier, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by O. Beynet and P. Mihaylova, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 14 December 2017,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_9516">
+          <num>1</num>
+          <content eId="para_9516__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Article 10(2) of Regulation (EC) No 1223/2009 of the European Parliament and of the Council of 30 November 2009 on cosmetic products ( OJ 2009 L 342, p. 59).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9517">
+          <num>2</num>
+          <content eId="para_9517__content">
+            <p>The request has been made in proceedings between, on the one hand, the Fédération des entreprises de la beauté ( `FEBEA') and, on the other hand, the ministre des Affaires sociales, de la Santé et des Droits des femmes (Minister for Social Affairs, Health and Women's Rights), the</p>
+            <p>
+              <organization refersTo="#institution_80">ministre de l'Éducation nationale, de l'Enseignement supérieur et de la Recherche</organization>
+            </p>
+            <p>(Minister for Education, Higher Education and Research) and the ministre de l'Économie, de l'Industrie et du Numérique (Minister for the Economy, Industry and the Digital Sector), now the ministre de l'Économie et des Finances (Minister for the Economy and Finance) concerning an action seeking annulment of the order of 25 February 2015 on the professional qualifications of assessors of the safety of cosmetic products for human health (JORF of 17 March 2015, p. 4941) ( `the inter-ministerial order of 25 February 2015').</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <paragraph eId="para_9518">
+          <num>3</num>
+          <content eId="para_9518__content">
+            <p>According to recital 4 thereof, Regulation No 1223/2009 `comprehensively harmonises the rules in the Community in order to achieve an internal market for cosmetic products while ensuring a high level of protection of human health'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9519">
+          <num>4</num>
+          <content eId="para_9519__content">
+            <p>According to recital 19 of that regulation, the information that is to be made available to the competent authorities must include `in particular, ... a cosmetic product safety report documenting that a safety assessment has been conducted'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9520">
+          <num>5</num>
+          <content eId="para_9520__content">
+            <p>Article 1 of that regulation, entitled `Scope and objective', provides that the regulation `establishes rules to be complied with by any cosmetic product made available on the market, in order to ensure the functioning of the internal market and a high level of protection of human health'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9521">
+          <num>6</num>
+          <content eId="para_9521__content">
+            <p>Article 10 of the regulation, entitled `Safety assessment', provides, in its paragraphs 1 and 2: `1.   In order to demonstrate that a cosmetic product complies with Article 3, the responsible person shall, prior to placing a cosmetic product on the market, ensure that the cosmetic product has undergone a safety assessment on the basis of the relevant information and that a cosmetic product safety report is set up in accordance with Annex I. ... The Commission, in close cooperation with all stakeholders, shall adopt appropriate guidelines to enable undertakings, in particular small and medium-sized enterprises, to comply with the requirements laid down in Annex I. Those guidelines shall be adopted in accordance with the regulatory procedure referred to in Article 32(2). 2.   The cosmetic product safety assessment, as set out in Part B of Annex I, shall be carried out by a person in possession of a diploma or other evidence of formal qualifications awarded on completion of a university course of theoretical and practical study in pharmacy, toxicology, medicine or a similar discipline, or a course recognised as equivalent by a Member State.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9522">
+          <num>7</num>
+          <content eId="para_9522__content">
+            <p>Annex I to Regulation No 1223/2009, relating to the `Cosmetic product safety report', sets out the information which that report must, as a minimum, include. Specifically, in paragraph 4 of Part B of that annex, entitled `Cosmetic product safety assessment', it is stated, under the heading `Assessor's credentials and approval of Part B', that the report must, inter alia, include `proof of qualification of the safety assessor'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9523">
+          <num>8</num>
+          <content eId="para_9523__content">
+            <p>That regulation was integrated into the Agreement on the European Economic Area of 2 May 1992 ( OJ 1994 L 1, p. 3) ( `the EEA Agreement') by Decision No 49/2013 of the EEA Joint Committee of 5 April 2013 amending Annex II (Technical regulations, standards, testing and certification) to the EEA Agreement ( OJ 2013 L 231, p. 23).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9524">
+          <num>9</num>
+          <content eId="para_9524__content">
+            <p>Recital 5 of Commission Implementing Decision 2013/674/EU of 25 November 2013 on Guidelines on Annex I to Regulation No 1223/2009 ( OJ 2013 L 315, p. 82) states: `The guidelines should assist responsible persons in complying with their regulatory obligations. However, they are not meant to replace the knowledge and expertise of the qualified safety assessor, as required by Article 10(2) of Regulation (EC) No 1223/2009, who should remain the only professional allowed to carry out the cosmetic product safety assessment as described in Part B of Annex I.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9525">
+          <num>10</num>
+          <content eId="para_9525__content">
+            <p>The guidelines for the application of Annex I are set out in the annex to that implementing decision ( `the Guidelines'). Section 4.4 of those guidelines, entitled `Assessor's credentials and approval of Part B', provides: `The safety assessor is to be a professional with the necessary knowledge and expertise to draw up an accurate safety assessment, as indicated by the qualification requirements in Article 10(2) of Regulation (EC) No 1223/2009. That section of the cosmetic product safety report aims at ensuring that this requirement is met and that the necessary evidence is provided. ... A person who has obtained qualifications in a third country may act as a safety assessor if they have completed ``a course recognised as equivalent [to a university course of theoretical and practical study in pharmacy, toxicology, medicine or a similar discipline] by a Member State ''. Proof is to be provided of the safety assessor's qualification (i.e. copy of the diploma and, where needed, proof of equivalence) laid down in Article 10 of Regulation (EC) No 1223/2009.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>French law</p>
+        </tblock>
+        <paragraph eId="para_9526">
+          <num>11</num>
+          <content eId="para_9526__content">
+            <p>According to the third paragraph of Article L. 5131-2 of the Code de la santé publique (Public Health Code), as amended by Law No 2014-201 of 24 February 2014 (JORF of 25 February 2014, p. 3250, text No 4), `the qualified persons responsible for the safety assessment must have completed a university course as described in Article 10 of Regulation [No 1223/2009], or an equivalent course included in a list set out by order of the Ministers responsible for health, industry and higher education, or a course recognised as equivalent by a Member State of the European Union'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9527">
+          <num>12</num>
+          <content eId="para_9527__content">
+            <p>The purpose of the inter-ministerial order of 25 February 2015 is, as set out in its preamble, to define `the courses recognised as being equivalent to the diplomas in medicine, pharmacy or toxicology that are required for assessors of the safety of cosmetic products for human health'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9528">
+          <num>13</num>
+          <content eId="para_9528__content">
+            <p>Under Article 1 of that order, `the list of courses that are recognised as equivalent to the university courses referred to in Article 10 of Regulation [No 1223/2009] and Article L. 5131-2 of the Public Health Code [, as amended by Law No 2014‑201,] is set out in the annex'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9529">
+          <num>14</num>
+          <content eId="para_9529__content">
+            <p>The annex to that order sets out the following list of diplomas: `1. The French State diploma for the profession of veterinary surgeon, the State veterinary diploma or one of the diplomas, certificates or other documents evidencing formal qualifications in veterinary medicine issued by the other Member States of the European Union, the States party to the [EEA] Agreement or the Swiss Confederation. 2. The French doctoral degree, or one of the diplomas, certificates or other documents evidencing qualification at the same level as the French doctoral degree issued by the other Member States of the European Union, the States party to the [EEA] Agreement or the Swiss Confederation, awarded on completion of research in the field of toxicology or ecotoxicology. 3. The French master's degree or one of the diplomas, certificates or other documents evidencing qualification issued by the other Member States of the European Union, the States party to the [EEA] Agreement or the Swiss Confederation recognised, by the issuing State, as being at master's level (conferring 120 European credits (ECTS) after a first diploma conferring 180 ECTS credits). The diploma, certificate or other evidence of qualification must also confer at least 60 ECTS credits in the field of toxicology or ecotoxicology and in the field of risk assessment. 4. The diploma of advanced studies (Diplôme d'études approfondies (DEA)) in toxicology or ecotoxicology. 5. The diploma of higher studies (Diplôme d'études supérieures (DESS)) in toxicology or ecotoxicology.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9530">
+          <num>15</num>
+          <content eId="para_9530__content">
+            <p>Under Articles L. 613-3 and L. 613-4 of the code de l'éducation (Education Code), `any person may ... request certification of the advanced studies completed, especially abroad' and such a certification is `decided by a jury that consists of members appointed by the president of the university or head of the higher education institution according to the nature of the certification requested'.</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_9531">
+          <num>16</num>
+          <content eId="para_9531__content">
+            <p>FEBEA is a professional organisation representing more than 300 businesses operating in the cosmetics sector.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9532">
+          <num>17</num>
+          <content eId="para_9532__content">
+            <p>On 4 September 2015, FEBEA brought an action before the Conseil d'État (Council of State, France), the referring court, seeking the annulment of both the inter-ministerial order of 25 February 2015 and the decision of the Minister for Social Affairs, Health and Women's Rights of 10 July 2015 dismissing the administrative appeal brought by FEBEA against that order.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9533">
+          <num>18</num>
+          <content eId="para_9533__content">
+            <p>In support of its application for annulment, FEBEA claimed, inter alia, that that order infringes Article 10(2) of Regulation No 1223/2009, first, in that, in determining which disciplines are considered to be `similar' to pharmacy, toxicology and medicine, it includes ecotoxicology, although that regulation does not confer any such power on the Member States, and, second, in that it recognises the equivalence of training courses provided within the European Union, the European Economic Area (EEA) and the Swiss Confederation, although the recognition of equivalence of qualifications to which that provision refers can relate only to diplomas delivered in third countries.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9534">
+          <num>19</num>
+          <content eId="para_9534__content">
+            <p>The referring court takes the view that Article 10(2) of Regulation No 1223/2009 leaves it to the Member States to recognise which courses are `equivalent' to the university courses of theoretical and practical study in pharmacy, toxicology, medicine or a `similar discipline' which any person entrusted with a cosmetic product safety assessment must possess.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9535">
+          <num>20</num>
+          <content eId="para_9535__content">
+            <p>That court does not rule out that, even if the words `course recognised as equivalent', within the meaning of that provision, refer only to courses delivered in countries to which that regulation does not apply, as FEBEA maintains, the full implementation of that provision requires, for the purpose of allowing recognition of the equivalence of those courses, that both the content of the concept of `similar discipline', within the meaning of that provision, and the levels of qualification needed to satisfy the requirements of that regulation be specified in advance.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9536">
+          <num>21</num>
+          <content eId="para_9536__content">
+            <p>That court also notes that Articles L. 613-3 and L. 613-4 of the Education Code allow for the recognition of equivalence of a diploma awarded by a university or a higher education institution established in France and a training course that is not delivered in another EU Member State, an EEA State or the Swiss Confederation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9537">
+          <num>22</num>
+          <content eId="para_9537__content">
+            <p>In those circumstances, the Conseil d'État (Council of State) decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Does the recognition of the equivalence of courses by Member States under Article 10(2) of Regulation [No 1223/2009] relate solely to the courses delivered in countries outside the European Union?</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>Do the provisions of Article 10(2) of that regulation authorise a Member State to determine the disciplines that may be considered to be ``similar '' to medicine, pharmacy or toxicology, within the meaning of the regulation, and the levels of qualification that satisfy the requirements of the regulation?</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>If the second question is answered in the affirmative, according to what criteria may disciplines be considered to be ``similar '' to medicine, pharmacy or toxicology?'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the questions referred</p>
+        </tblock>
+        <tblock>
+          <p>Preliminary observations</p>
+        </tblock>
+        <paragraph eId="para_9538">
+          <num>23</num>
+          <content eId="para_9538__content">
+            <p>It should be recalled that, according to recital 4 of Regulation No 1223/2009, that regulation is intended comprehensively to harmonise the rules in the European Union in order to achieve an internal market for cosmetic products while ensuring a high level of protection of human health. To that end, Article 1 of that regulation establishes rules which must be complied with by any cosmetic product placed on the EU market. Consequently, a Member State cannot make the movement of cosmetic products subject to additional conditions (see, to that effect, judgment of 5 May 1993, Commission v France, C‑246/91, EU:C:1993:174, paragraph 7).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9539">
+          <num>24</num>
+          <content eId="para_9539__content">
+            <p>In order to ensure that high level of protection, any cosmetic product placed on the EU market must be safe for human health, its safety must be assessed on the basis of the relevant information and a safety report must be drafted and included in the cosmetic product information file (judgment of 21 September 2016, European Federation for Cosmetic Ingredients, C‑592/14, EU:C:2016:703, paragraph 33).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9540">
+          <num>25</num>
+          <content eId="para_9540__content">
+            <p>It follows that any placement of a cosmetic product on the EU market, and its free movement on that market, presupposes that the safety of that product for human health has been assessed in accordance with the detailed rules specifically defined by Regulation No 1223/2009.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9541">
+          <num>26</num>
+          <content eId="para_9541__content">
+            <p>In that regard, Article 10(2) of Regulation No 1223/2009 sets out the qualifications which must be held by the person entrusted with the assessment of the safety of such products, indicating that that person must possess a diploma or other evidence of formal qualifications awarded on completion of `a university course of theoretical and practical study in pharmacy, toxicology, medicine or a similar discipline' or `a course recognised as equivalent by a Member State'. Section 4.4 of the Guidelines adds that that person must be a professional with the necessary knowledge and expertise to draw up an accurate assessment as to the safety of cosmetic products.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9542">
+          <num>27</num>
+          <content eId="para_9542__content">
+            <p>Although Regulation No 1223/2009 does not include any requirement concerning the conditions of recognition of equivalence, for the purpose of the regulation, it follows from Section 4.4 of the Guidelines that the person responsible must be able to submit proof of the qualification of the safety assessor and, where necessary, proof of equivalence of his diploma.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9543">
+          <num>28</num>
+          <content eId="para_9543__content">
+            <p>In the present case, in order to define the courses that must be regarded as being `recognised as equivalent' by the French Republic, within the meaning of Article 10(2) of Regulation No 1223/2009, the ministers at issue in the main proceedings adopted the inter-ministerial order of 25 February 2015. The courses listed in that order include a number of French diplomas, inter alia diplomas in veterinary medicine and ecotoxicology, as well as certain similar formal qualifications awarded by other Member States.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9544">
+          <num>29</num>
+          <content eId="para_9544__content">
+            <p>The three questions referred for a preliminary ruling should be considered against that background.</p>
+            <tblock>
+              <p>The first question</p>
+            </tblock>
+            <p>30 By its first question, the referring court asks whether Article 10(2) of Regulation No 1223/2009 must be interpreted as meaning that the recognition of equivalence of courses, laid down in that provision, can cover only courses delivered in third countries.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9545">
+          <num>31</num>
+          <content eId="para_9545__content">
+            <p>It is apparent from the very wording of that provision that the recognition of equivalence by a Member State, for the purpose of that provision, must relate to a course that is considered to be equivalent to a university course of theoretical and practical study in either pharmacy, toxicology or medicine, or a similar discipline.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9546">
+          <num>32</num>
+          <content eId="para_9546__content">
+            <p>The EU legislature thus made the recognition of equivalence laid down in Article 10(2) of Regulation No 1223/2009 subject to requirements relating, first, to the level of the courses concerned and, second, to the category of the subjects taught during those courses.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9547">
+          <num>33</num>
+          <content eId="para_9547__content">
+            <p>As the Advocate General observed in point 31 of his Opinion, that provision, in the light of its wording, allows account to be taken not only of the great diversity of the appropriate courses of study that already exists, but also of the way in which those courses may yet develop.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9548">
+          <num>34</num>
+          <content eId="para_9548__content">
+            <p>Furthermore, it must be stated that Article 10(2) of Regulation No 1223/2009 does not contain any indication as to the place where diplomas or other evidence of formal qualifications awarded on completion of a university course of theoretical and practical study or the qualification recognised as equivalent were obtained.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9549">
+          <num>35</num>
+          <content eId="para_9549__content">
+            <p>It follows that training courses delivered both in third countries and in Member States may be recognised as equivalent to such a university course.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9550">
+          <num>36</num>
+          <content eId="para_9550__content">
+            <p>That interpretation cannot be called into question by the arguments put forward by FEBEA in that regard, whether they relate to the European Union's system of mutual recognition of diplomas obtained within the European Union or to Section 4.4 of the Guidelines, in so far as that section concerns courses provided in third countries.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9551">
+          <num>37</num>
+          <content eId="para_9551__content">
+            <p>First, it is true that the mutual recognition of diplomas obtained within the European Union has been the subject of harmonisation under Article 53 TFEU. Nevertheless, even if only the recognition of diplomas obtained outside the European Union came within the powers of the Member States, or even under their discretion, that situation would have no effect on the interpretation of Article 10(2) of Regulation No 1223/2009.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9552">
+          <num>38</num>
+          <content eId="para_9552__content">
+            <p>In that regard, it must be borne in mind that the mutual recognition of diplomas, certificates and other evidence of formal qualifications laid down in Article 53 TFEU, in particular by the introduction of a system which, as a result of the harmonisation of the rules and criteria for recognition, obliges the Member States to accept the equivalence of certain diplomas, without them being able to require the persons concerned to comply with additional requirements, seeks to promote the free movement of persons (see, to that effect, judgment of 14 September 2000, Hocsman, C‑238/98, EU:C:2000:440, paragraphs 31 to 34).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9553">
+          <num>39</num>
+          <content eId="para_9553__content">
+            <p>Regulation No 1223/2009, for its part, does not seek to govern the recognition of diplomas, so as to promote the free movement of persons, but to `[establish] rules to be complied with by any cosmetic product placed on the market', in the context of the free movement of goods, as has been pointed out in paragraph 23 of the present judgment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9554">
+          <num>40</num>
+          <content eId="para_9554__content">
+            <p>The EU legislature has thus, by that regulation, as is apparent from recital 4 thereof, comprehensively harmonised the rules in the European Union in order to achieve an internal market for cosmetic products, while ensuring a high level of protection of human health. To that effect, Article 10(2) of that regulation, read in conjunction with Section 4.4 of the Guidelines, provides that the person entrusted with the assessment of the safety of a cosmetic product must be appropriately and adequately qualified to carry out that task, so as to protect human health fully. Thus, a product the safety of which has been assessed by a person who has completed one of the courses set out in that provision may, in principle, be sold freely throughout the European Union.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9555">
+          <num>41</num>
+          <content eId="para_9555__content">
+            <p>Given its specific and limited purpose, the recognition of equivalence, within the meaning of that provision, does not therefore seek to supplement the system of mutual recognition of diplomas obtained within the European Union.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9556">
+          <num>42</num>
+          <content eId="para_9556__content">
+            <p>Secondly, while Section 4.4 of the Guidelines states that a person who has obtained his qualifications in a third country may act as a safety assessor provided that he has completed a course recognised by a Member State as being equivalent to a university course of theoretical and practical study in pharmacy, toxicology, medicine or a similar discipline, that situation does not mean, in the light of the actual wording of Article 10(2) of Regulation No 1223/2009, that only courses delivered in third countries can be recognised as equivalent to the reference university courses.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9557">
+          <num>43</num>
+          <content eId="para_9557__content">
+            <p>It follows from all of the foregoing considerations that the answer to the first question is that Article 10(2) of Regulation No 1223/2009 must be interpreted as meaning that the recognition of equivalence of courses, laid down in that provision, can cover courses other than those delivered in third countries.</p>
+            <tblock>
+              <p>The second and third questions</p>
+            </tblock>
+            <p>44 By its second and third questions, which it is appropriate to examine together, the referring court asks, in essence, whether Article 10(2) of Regulation No 1223/2009 must be interpreted as conferring on each Member State the power to determine the disciplines that may be regarded as `similar' to pharmacy, toxicology or medicine, as well as the levels of qualification satisfying the requirements of that regulation and, if so, the criteria according to which disciplines may be regarded as `similar', within the meaning of that provision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9558">
+          <num>45</num>
+          <content eId="para_9558__content">
+            <p>First of all, it must be stated that no clarification as to the meaning of the notion of `similar discipline', set out in Article 10(2), is provided in Regulation No 1223/2009.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9559">
+          <num>46</num>
+          <content eId="para_9559__content">
+            <p>Thus, the EU legislature intended, first, to ensure that some discretion should remain with the Member States, in order to ensure that it is permissible to take account of the great diversity of existing appropriate courses as well as their possible development and, second, to set boundaries to that discretion by providing that only courses undertaken in disciplines demonstrating similarities to pharmacy, toxicology and medicine may be recognised.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9560">
+          <num>47</num>
+          <content eId="para_9560__content">
+            <p>It follows that, for the purposes of implementing Article 10(2) of Regulation No 1223/2009, each Member State must be granted a certain margin of discretion to determine, under its own responsibility, both similar disciplines and the level of qualification required, on condition that it complies with the provisions and objectives of that regulation, in particular the objective of protecting human health.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9561">
+          <num>48</num>
+          <content eId="para_9561__content">
+            <p>In that regard, it should be noted that, in order to ensure a high level of protection of human health, the assessment of the safety of the cosmetic product must be carried out solely by persons who are able to prove that they possess the essential skills needed to guarantee that level of protection. Accordingly, Member States cannot, without exceeding the boundaries of the discretion available to them under Article 10(2) of Regulation No 1223/2009, recognise courses that do not offer the same types of relevant qualifications as do appropriate courses in pharmacy, toxicology or medicine.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9562">
+          <num>49</num>
+          <content eId="para_9562__content">
+            <p>In particular, it is clear from the wording of that provision that the qualifications required of the safety assessor must be obtained in the context of theoretical training in conjunction with practical implementation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9563">
+          <num>50</num>
+          <content eId="para_9563__content">
+            <p>As regards specifically the question of whether a discipline can be regarded as `similar' to pharmacy, toxicology or medicine, it must be stated, as the Advocate General observed in points 65 and 66 of his Opinion, first, that the Member States must verify the existence of a common body of scientific knowledge that is indispensable in order to assess, with the greatest certainty possible, the safety of a cosmetic product, in so far as concerns not only its ingredients, but also the finished product itself and, second, that the objective consisting in ensuring a high level of protection of human health cannot be properly attained unless that common body of knowledge includes both knowledge of the human body and its pathologies and knowledge of the substances used in the manufacture of cosmetic products and their physical and chemical properties.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9564">
+          <num>51</num>
+          <content eId="para_9564__content">
+            <p>Thus, in the light of all the foregoing considerations, the answer to the second and third questions is that Article 10(2) of Regulation No 1223/2009 must be interpreted as conferring on each Member State the power to determine disciplines that are `similar' to pharmacy, toxicology or medicine, as well as levels of qualification meeting the requirements of that regulation, on condition that it complies with the objectives laid down by that regulation, consisting, in particular, in guaranteeing that the person entrusted with the assessment of the safety of cosmetic products has a qualification that enables him to ensure a high level of protection of human health.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_9565">
+          <num>52</num>
+          <content eId="para_9565__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Sixth Chamber) hereby rules: 1. Article 10(2) of Regulation (EC) No 1223/2009 of the European Parliament and of the Council of 30 November 2009 on cosmetic products must be interpreted as meaning that the recognition of equivalence of courses, laid down in that provision, can cover courses other than those delivered in third countries. 2. Article 10(2) of Regulation No 1223/2009 must be interpreted as conferring on each Member State the power to determine disciplines that are `similar' to pharmacy, toxicology or medicine, as well as levels of qualification satisfying the requirements of that regulation, on condition that it complies with the objectives laid down by that regulation, consisting, in particular, in guaranteeing that the person entrusted with the assessment of the safety of cosmetic products has a qualification that enables him to ensure a high level of protection of human health.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>Fernlund Rodin Regan Delivered in open court in Luxembourg on 12 April 2018.[Signatures]( *1)Language of the case: French.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

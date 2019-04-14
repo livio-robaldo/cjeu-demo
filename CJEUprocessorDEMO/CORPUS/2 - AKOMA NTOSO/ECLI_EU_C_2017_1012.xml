@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Tenth Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>20 December 2017 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Road transport -- Driver's rest periods -- Regulation (EC) No 561/2006 -- Article 8(6) and (8) -- Whether it is possible to take daily rest periods and reduced weekly rest periods away from base and in a vehicle -- Exclusion of regular weekly rest periods) In Case C‑102/16, REQUEST for a preliminary ruling under Article 267 TFEU from the Raad van State (Council of State, Belgium), made by decision of 4 February 2016, received at the Court on 19 February 2016, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">Vaditrans BVBA</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#">Belgische Staat</party>
+      </p>
+      <p>, THE COURT (Tenth Chamber), composed of E. Levits, President of the Chamber, M. Berger (Rapporteur) and F. Biltgen, Judges, Advocate General: E. Tanchev, Registrar: A. Calot Escobar, having regard to the written procedure, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>Vaditrans BVBA, by F. Vanden Bogaerde, advocaat,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Belgian Government, by L. Van den Broeck and J. Van Holm, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the German Government, by T. Henze and A. Lippstreu, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Estonian Government, by K. Kraavi-Käerdi, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Spanish Government, by V. Ester Casas, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the French Government, by R. Coesme and D. Colas, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Austrian Government, by C. Pesendorfer, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Parliament, by L.G. Knudsen, M. Menegatti and R. van de Westelaken, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Council of the European Union, by R. Wiemann and K. Michoel, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by J. Hottiaux and F. Wilman, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 2 February 2017,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <tblock>
+        <p>Judgment</p>
+      </tblock>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_552">
+          <num>1</num>
+          <content eId="para_552__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Article 8(8) of Regulation (EC) No 561/2006 of the European Parliament and of the Council of 15 March 2006 on the harmonisation of certain social legislation relating to road transport and amending Council Regulations (EEC) No 3821/85 and (EC) No 2135/98 and repealing Council Regulation (EEC) No 3820/85 ( OJ 2006 L 102, p. 1).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_553">
+          <num>2</num>
+          <content eId="para_553__content">
+            <p>The request has been made in proceedings between Vaditrans BVBA and the Belgische Staat (Belgian State) concerning the annulment of the Koninklijk besluit tot wijziging van het koninklijk besluit van 19 juli 2000 betreffende de inning en de consignatie van een som bij het vaststellen van sommige inbreuken inzage het vervoer over de weg (Royal Decree amending the Royal Decree of 19 July 2000 on the levying and lodging of a sum of money upon the finding of certain offences in connection with the transport of persons and goods by road of 19 April 2014, Moniteur belge of 11 June 2014, p. 44159, hereafter the `Royal Decree of 19 April 2014'), which lays down, inter alia, a penalty of EUR 1800 to be paid by lorry drivers who take their compulsory weekly rest period in their vehicle and not elsewhere.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <paragraph eId="para_554">
+          <num>3</num>
+          <content eId="para_554__content">
+            <p>Recitals 1, 17, 26 and 27 of Regulation No 561/2006 state: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>In the field of road transport, Council Regulation (EEC) No 3820/85 of 20 December 1985 on the harmonisation of certain social legislation relating to road transport [ OJ 1985 L 370, p. 1] sought to harmonise the conditions of competition between modes of inland transport, especially with regard to the road transport sector, and to improve working conditions and road safety. Progress in these areas should be safeguarded and extended. ...</p>
+              </item>
+              <item>
+                <num>(17)</num>
+                <p>This Regulation aims to improve social conditions for employees who are covered by it, as well as to improve general road safety. It does so mainly by means of the provisions pertaining to maximum driving times per day, per week and per period of two consecutive weeks, the provision which obliges drivers to take a regular weekly rest period at least once per two consecutive weeks and the provisions which prescribe that under no circumstances should a daily rest period be less than an uninterrupted period of nine hours. ... ...</p>
+                <blockList>
+                  <item>
+                    <num>(26)</num>
+                    <p>The Member States should lay down rules on penalties applicable to infringements of this regulation and ensure that they are implemented. Those penalties must be effective, proportionate, dissuasive and non-discriminatory. The possibility of immobilising the vehicle where serious infringements are detected should also be included within the common range of measures open to Member States. The provisions contained in this regulation pertaining to penalties or proceedings should not affect national rules concerning the burden of proof.</p>
+                  </item>
+                  <item>
+                    <num>(27)</num>
+                    <p>It is desirable in the interests of clear and effective enforcement to ensure uniform provisions on the liability of transport undertakings and drivers for infringements of this Regulation. This liability may result in penal, civil or administrative penalties as may be the case in the Member States.'</p>
+                  </item>
+                </blockList>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_555">
+          <num>4</num>
+          <content eId="para_555__content">
+            <p>Article 1 of that regulation provides: `This Regulation lays down rules on driving times, breaks and rest periods for drivers engaged in the carriage of goods and passengers by road in order to harmonise the conditions of competition between modes of inland transport, especially with regard to the road sector, and to improve working conditions and road safety. This Regulation also aims to promote improved monitoring and enforcement practices by Member States and improved working practices in the road transport industry.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_556">
+          <num>5</num>
+          <content eId="para_556__content">
+            <p>Article 4 of the regulation defines, under</p>
+            <blockList>
+              <item>
+                <num>(g)</num>
+                <p>and</p>
+              </item>
+              <item>
+                <num>(h)</num>
+                <p>, daily and weekly rest periods: `</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(g)</num>
+                <p>``daily rest period '' means the daily period during which a driver may freely dispose of his time and covers a ``regular daily rest period '' and a ``reduced daily rest period '':</p>
+                <blockList>
+                  <item>
+                    <num>--</num>
+                    <p>``regular daily rest period '' means any period of rest of at least 11 hours. Alternatively, this regular daily rest period may be taken in two periods, the first of which must be an uninterrupted period of at least 3 hours and the second an uninterrupted period of at least nine hours,</p>
+                  </item>
+                  <item>
+                    <num>--</num>
+                    <p>``reduced daily rest period '' means any period of rest of at least nine hours but less than 11 hours;</p>
+                  </item>
+                </blockList>
+              </item>
+              <item>
+                <num>(h)</num>
+                <p>``weekly rest period '' means the weekly period during which a driver may freely dispose of his time and covers a ``regular weekly rest period '' and a ``reduced weekly rest period '':</p>
+                <blockList>
+                  <item>
+                    <num>--</num>
+                    <p>``regular weekly rest period '' means any period of rest of at least 45 hours,</p>
+                  </item>
+                  <item>
+                    <num>--</num>
+                    <p>``reduced weekly rest period '' means any period of rest of less than 45 hours, which may, subject to the conditions laid down in Article 8(6), be shortened to a minimum of 24 consecutive hours.'</p>
+                  </item>
+                </blockList>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_557">
+          <num>6</num>
+          <content eId="para_557__content">
+            <p>Article 8(6) of that regulation provides: `In any two consecutive weeks a driver shall take at least:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>two regular weekly rest periods, or</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>one regular weekly rest period and one reduced weekly rest period of at least 24 hours. However, the reduction shall be compensated by an equivalent period of rest taken en bloc before the end of the third week following the week in question. A weekly rest period shall start no later than at the end of six 24-hour periods from the end of the previous weekly rest period.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_558">
+          <num>7</num>
+          <content eId="para_558__content">
+            <p>Article 8(8) of Regulation No 561/2006 provides: `Where a driver chooses to do this, daily rest periods and reduced weekly rest periods away from base may be taken in a vehicle, as long as it has suitable sleeping facilities for each driver and the vehicle is stationary.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_559">
+          <num>8</num>
+          <content eId="para_559__content">
+            <p>Article 18 of that regulation states: `Member States shall adopt such measures as may be necessary for the implementation of this regulation.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_560">
+          <num>9</num>
+          <content eId="para_560__content">
+            <p>Article 19(1) of that regulation provides: `Member States shall lay down rules on penalties applicable to infringements of this Regulation and Regulation (EEC) No 3821/85 and shall take all measures necessary to ensure that they are implemented. Those penalties shall be effective, proportionate, dissuasive and non-discriminatory. No infringement of this Regulation and Regulation (EEC) No 3821/85 shall be subjected to more than one penalty or procedure. ...'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Belgian law</p>
+        </tblock>
+        <paragraph eId="para_561">
+          <num>10</num>
+          <content eId="para_561__content">
+            <p>The rapport au Roi (Report to the King) annexed to the Royal Decree of 19 April 2014 states that the decree is part of an action plan adopted by the Council of Ministers on 28 November 2013 to counter the fraudulent posting of EU workers in Belgium, the phenomenon referred to as `social dumping'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_562">
+          <num>11</num>
+          <content eId="para_562__content">
+            <p>The Royal Decree of 19 April 2014 provides for, first, an increase of the fine for infringement of the requirement to have a completed consignment note in the vehicle prior to consignment and, second, a fine for infringement of the prohibition on taking the regular weekly rest period in the vehicle.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_563">
+          <num>12</num>
+          <content eId="para_563__content">
+            <p>Article 2 of the Royal Decree of 19 April 2014 provides: `In Appendix I of Annex 1 [to the Royal Decree of 19 July 2000], subparagraph (c), Driving times and rest periods, is supplemented by a point 8, worded as follows:</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_564">
+          <num>8</num>
+          <content eId="para_564__content">
+            <p>The regular weekly rest period, which is mandatory at the time of inspection, is taken on board the vehicle. Regulation (EC) No 561/2006, Articles 8(6) and 8(8).- ERTA, Article 8.EUR 1 800'</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_565">
+          <num>13</num>
+          <content eId="para_565__content">
+            <p>Vaditrans, a transport company established in Belgium, brought an action before the Raad van State (Council of State, Belgium) on 8 August 2014 seeking the annulment of the Royal Decree of 19 April 2014, under which a fine in the amount of EUR 1800 may be imposed when a lorry driver takes his regular weekly rest period in the vehicle.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_566">
+          <num>14</num>
+          <content eId="para_566__content">
+            <p>In support of its action, Vaditrans submits that Article 2 of the Royal Decree of 19 April 2014 is incompatible with the principle that penalties must have a proper legal basis, given that that provision penalises the taking of the regular weekly rest period in the vehicle, whereas Regulation No 561/2006 does not contain any such prohibition.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_567">
+          <num>15</num>
+          <content eId="para_567__content">
+            <p>On the other hand, the Belgian State, represented by the Minister for Mobility, considers that it is clear from Regulation No 561/2006 that a driver may not take his regular weekly rest period in his vehicle.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_568">
+          <num>16</num>
+          <content eId="para_568__content">
+            <p>The referring court notes, in that regard, that the Royal Decree of 19 April 2014 is based on the principle, laid down, inter alia, in Article 8(6) and (8) of that regulation, which prohibits a driver from taking his regular weekly rest period in his vehicle. Without dwelling any further on the substance of the question, the referring court considers that there is some doubt as to the merits of that argument and that it entails interpretation of EU law, in respect of which the Court has jurisdiction.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_569">
+          <num>17</num>
+          <content eId="para_569__content">
+            <p>The referring court considers, moreover, that two further questions, which it does not further examine, arise in relation to the answer given by the Court to the abovementioned question. If the Court answers the first question in the affirmative, it is necessary, according to the referring court, to determine whether Regulation No 561/2006 is compatible with the principle that penalties must have a proper legal basis laid down in Article 49(1) of the Charter of Fundamental Rights of the European Union ( `the Charter'). If the answer is in the negative, the referring court asks whether a Member State may introduce a prohibition in its national law such as that at issue in the main proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_570">
+          <num>18</num>
+          <content eId="para_570__content">
+            <p>In those circumstances, the Raad van State (Council of State) decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Must Article 8(6) and (8) of Regulation No 561/2006 be interpreted as meaning that the regular weekly rest periods referred to in Article 8(6) of the regulation may not be spent inside the vehicle?</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>If the answer to the first question is in the affirmative, does Article 8(6) and (8) of Regulation No 561/2006, read in conjunction with Article 19 of that regulation, then breach the principle of legality in criminal proceedings, as expressed in Article 49 of the Charter ... in so far as those provisions of that regulation do not expressly prohibit spending the regular weekly rest periods referred to in Article 8(6) of that regulation inside the vehicle?</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>If the answer to the first question is in the negative, does that regulation then permit Member States to lay down a prohibition in their national law on spending the regular weekly rest periods referred to in Article 8(6) of the regulation inside a vehicle?'</p>
+                <tblock>
+                  <p>Consideration of the questions referred</p>
+                </tblock>
+                <tblock>
+                  <p>The first question</p>
+                </tblock>
+                <p>19 Concerning the first question, the Belgian, German, French and Austrian Governments and the European Commission consider that Article 8(8) of Regulation No 561/2006 does not permit a driver to spend the regular weekly rest periods in his vehicle. Vaditrans and the Estonian and Spanish Governments, on the other hand, take the opposite view.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_571">
+          <num>20</num>
+          <content eId="para_571__content">
+            <p>In that regard, it should be recalled that, in accordance with the Court's settled case-law, in interpreting a provision of EU law, it is necessary to consider not only its wording but also the context in which it occurs and the objectives pursued by the rules of which it is part (see, inter alia, judgment of 6 July 2017, Air Berlin, C‑290/16, EU:C:2017:523, paragraph 22 and the case-law cited) and, in the circumstances of this case, the history of that legislation (judgment of 1 July 2015, Bund für Umwelt und Naturschutz Deutschland, C‑461/13, EU:C:2015:433, paragraph 30).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_572">
+          <num>21</num>
+          <content eId="para_572__content">
+            <p>Concerning, in the first place, the words of the first subparagraph of Article 8(6) of Regulation No 561/2006, it should be observed that that provision lays down the rule that, in any two consecutive weeks, a driver must take at least two regular weekly rest periods or one regular weekly rest period and one reduced weekly rest period, in which case certain requirements must be satisfied.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_573">
+          <num>22</num>
+          <content eId="para_573__content">
+            <p>The second subparagraph of Article 8(6) of that regulation provides that a weekly rest period is to start no later than at the end of six 24-hour periods from the end of the previous weekly rest period.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_574">
+          <num>23</num>
+          <content eId="para_574__content">
+            <p>Lastly, Article 8(8) of that regulation provides that, where a driver chooses to do so, daily rest periods and reduced weekly rest periods away from base may be taken in a vehicle, as long as it has suitable sleeping facilities for each driver and the vehicle is stationary.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_575">
+          <num>24</num>
+          <content eId="para_575__content">
+            <p>Article 8(6) and (8) of Regulation No 561/2006 should be read in the light of Article 4 of that regulation, since the latter provision defines the terms used in the regulation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_576">
+          <num>25</num>
+          <content eId="para_576__content">
+            <p>Article 4(f) of Regulation No 561/2006 defines `rest' as `any uninterrupted period during which a driver may freely dispose of his time'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_577">
+          <num>26</num>
+          <content eId="para_577__content">
+            <p>Article 4(g) of that regulation defines the term `daily rest period' as `the daily period during which a driver may freely dispose of his time' and states that it covers a `regular daily rest period' and a `reduced daily rest period', before going on to define both those terms.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_578">
+          <num>27</num>
+          <content eId="para_578__content">
+            <p>Under Article 4(h) of that regulation the `weekly rest period' is defined as `the weekly period during which a driver may freely dispose of his time' and, in addition, that term covers a `regular weekly rest period' and a `reduced weekly rest period'. More specifically, a `regular weekly rest period' is defined as `any period of rest of at least 45 hours', whereas a `reduced weekly rest period' means `any period of rest of less than 45 hours, which may, subject to the conditions laid down in Article 8(6) [of Regulation No 561/2006], be shortened to a minimum of 24 consecutive hours'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_579">
+          <num>28</num>
+          <content eId="para_579__content">
+            <p>Therefore, Article 4(g) and (h) of Regulation No 561/2006 makes a distinction in the definition of the daily rest period and weekly rest period, inasmuch as they can be regular or reduced.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_580">
+          <num>29</num>
+          <content eId="para_580__content">
+            <p>That distinction is also used in Article 8(6) of that regulation, which refers, in its first subparagraph, to both regular and reduced weekly rest periods. By contrast, the second subparagraph of that provision merely refers to a `weekly rest period', thereby encompassing both of the above terms.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_581">
+          <num>30</num>
+          <content eId="para_581__content">
+            <p>Article 8(8) of that regulation reproduces the distinction introduced by Article 4(g) and (h), referring to the `daily rest periods', which encompass regular and reduced daily rest periods, and to `reduced weekly rest periods'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_582">
+          <num>31</num>
+          <content eId="para_582__content">
+            <p>Since Article 8(8) of Regulation No 561/2006 expressly refers to daily rest periods and reduced weekly rest periods, it follows that a driver may not take regular weekly rest periods in the vehicle.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_583">
+          <num>32</num>
+          <content eId="para_583__content">
+            <p>If the Union legislature had intended to cover, in Article 8(8) of that regulation, both regular and reduced weekly rest periods, it could have simply used the words `weekly rest periods' to encompass both those types of rest period.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_584">
+          <num>33</num>
+          <content eId="para_584__content">
+            <p>Furthermore, if all of a driver's rest periods could be taken in the vehicle, the distinction made in Article 8(8) of Regulation No 561/2006 would be devoid of any meaning and that provision would thus lose its effectiveness.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_585">
+          <num>34</num>
+          <content eId="para_585__content">
+            <p>That interpretation of Article 8(8) of Regulation No 561/2006 is supported by the legislative history of that provision, in that it shows, through the amendments made to that provision, the intention of the EU legislature.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_586">
+          <num>35</num>
+          <content eId="para_586__content">
+            <p>For reasons set out more fully by the Advocate General in points 45 to 51 of this Opinion, it is possible to conclude, by examining the process for the adoption of Article 8(8) of Regulation No 561/2006, that the EU legislature clearly intended to exclude regular weekly rest periods from the scope of that provision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_587">
+          <num>36</num>
+          <content eId="para_587__content">
+            <p>Thus, it is clear that the Commission's initial proposal concerning Article 8(8) of Regulation No 561/2006 (formerly Article 8(6), see Proposal for a European Parliament and Council Regulation on the harmonisation of certain social legislation relating to road transport, COM(2001) 573 final of 12 October 2001 ( OJ 2002 C 51 E, p. 234)), covered all rest periods, both daily and weekly, provided that the vehicle had suitable sleeping facilities for each driver and was stationary.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_588">
+          <num>37</num>
+          <content eId="para_588__content">
+            <p>However, the European Parliament having, in its legislative resolution of 14 January 2003 on the proposal for a European Parliament and Council regulation on the harmonisation of certain social legislation relating to road transport ( OJ 2004 C 38 E, p. 152), removed the reference to the weekly rest periods from the text of that provision on the ground that, without that amendment, the new scheme would, inter alia, be inadequate regarding drivers' hygiene and well-being, the Commission presented a compromise by proposing that only a reduced weekly rest period away from base may be taken in the vehicle (see Article 8(6) and paragraph 26 of the explanatory memorandum, COM(2003) 0490 final).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_589">
+          <num>38</num>
+          <content eId="para_589__content">
+            <p>It is that approach which was adopted by the Council of the European Union in its common position and which, even though the Parliament intended once again to make an amendment (European Parliament legislative resolution of 13 April 2005 on the common position adopted by the Council with a view to adopting a Regulation of the European Parliament and of the Council on the harmonisation of certain social legislation relating to road transport and amending Regulations (EEC) No 3821/85 and (EC) No 2135/98 ( OJ 2006 C 33 E, p. 424)), was finally accepted in the joint text approved by the Conciliation Committee (Doc PE-CONS 3671/3/05 REV 3, 31 January 2006; European Parliament legislative resolution, 2 February 2006; Doc 7580/06, 21 March 2006), the wording of which was reproduced in Article 8(8) of Regulation No 561/2006.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_590">
+          <num>39</num>
+          <content eId="para_590__content">
+            <p>As regards, in the second place, the context in which Article 8(8) of Regulation No 561/2006 was introduced, it should be noted that it confirms the above interpretation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_591">
+          <num>40</num>
+          <content eId="para_591__content">
+            <p>As is apparent from paragraphs 21 to 33 above, certain provisions of Regulation No 561/2006, in this case Article 4(f) and (g) and Article 8(6) of that regulation, which define the terms used in Article 8(8) of the regulation, preclude any other interpretation, because otherwise the structure which connects those different provisions would be called into question.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_592">
+          <num>41</num>
+          <content eId="para_592__content">
+            <p>In the third place, in respect of the purpose of Article 8(8) of Regulation No 561/2006, it is clear that it also supports the interpretation set out in paragraphs 31 to 33 above.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_593">
+          <num>42</num>
+          <content eId="para_593__content">
+            <p>Thus, it is settled case-law that, in accordance with recital 17 and Article 1 of Regulation No 561/2006, that regulation seeks to improve the working conditions of employees in the road transport sector, to improve general road safety and to harmonise the conditions of competition in road transport (see, inter alia, judgments of 9 February 2012, Urbán, C‑210/10, EU:C:2012:64, paragraph 25, of 9 June 2016, Eurospeed, C‑287/14, EU:C:2016:420, paragraphs 38 and 39 and the case-law cited, and of 19 October 2016, EL-EM-2001, C‑501/14, EU:C:2016:777, paragraph 21).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_594">
+          <num>43</num>
+          <content eId="para_594__content">
+            <p>The interpretation according to which Article 8(6) and (8) of Regulation No 561/2006 prohibits a driver from taking regular weekly rest periods in his vehicle is clearly intended to achieve the aims of that regulation of improving drivers' working conditions and road safety. The reasons put forward by the Parliament in the legislative resolution of 14 January 2003 confirm that view.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_595">
+          <num>44</num>
+          <content eId="para_595__content">
+            <p>In that regard, it should also be noted that, even if, as the Commission argued in its opinion of 27 June 2005 (COM(2005) 0310 final), vehicle design improved considerably in the 20 years prior to that opinion and cabin design has undoubtedly also undergone developments in recent years, the fact remains that a lorry's cabin does not appear to constitute an appropriate resting place for rest periods longer than daily rest periods and reduced weekly rest periods. Drivers should be able to spend their regular weekly rest periods in a place which offers them adequate and suitable accommodation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_596">
+          <num>45</num>
+          <content eId="para_596__content">
+            <p>In that respect, it must also be noted that if Article 8 of Regulation No 561/2006 were to be interpreted as meaning that regular weekly rest periods may be taken by the driver in his vehicle, that would imply that a driver could take all of his rest periods in the vehicle cabin. Accordingly, in such a case, that driver's rest period would be taken in a place which did not provide suitable accommodation. Such an interpretation of Article 8 of Regulation No 561/2006 is not likely to contribute to furthering the objective pursued by that regulation of improving drivers' working conditions.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_597">
+          <num>46</num>
+          <content eId="para_597__content">
+            <p>Vaditrans and the Estonian Government submit that such an interpretation could lead to a possible deterioration in the conditions in which drivers are able to take weekly rest periods. Furthermore, it might be difficult to prove compliance with that requirement, the administrative burden of vehicle drivers being, as a consequence, considerably increased.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_598">
+          <num>47</num>
+          <content eId="para_598__content">
+            <p>In that regard, while, admittedly, Regulation No 561/2006 does not contain any provision expressly governing the way in which a vehicle driver must take his regular weekly rest period, nevertheless, considerations such as those put forward by Vaditrans and the Estonian Government cannot, as the Advocate General observed in point 62 of his Opinion, justify failure to comply with the mandatory rules of that regulation concerning drivers' rest periods.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_599">
+          <num>48</num>
+          <content eId="para_599__content">
+            <p>In the light of all those considerations, the answer to the first question referred is that Article 8(6) and (8) of Regulation No 561/2006 must be interpreted as meaning that a driver may not take the regular weekly rest periods referred to in Article 8(6) in his vehicle.</p>
+            <tblock>
+              <p>The second question</p>
+            </tblock>
+            <p>49 As regards the second question, Vaditrans and the Spanish Government, suggesting that that question be answered in the affirmative, submit that, in the absence of express rules to that effect, an interpretation of Regulation No 561/2006 precluding a driver from taking regular weekly rest periods in the vehicle would amount to an interpretation that is a contrario or, by analogy, prohibited by the principle of legality.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_600">
+          <num>50</num>
+          <content eId="para_600__content">
+            <p>In that regard, it should be borne in mind that, under the principle that offences and penalties must have a proper basis in law ( nullum crimen, nulla poena sine lege), as enshrined in particular in the first sentence of Article 49(1) of the Charter, which constitutes a specific expression of the general principle of legal certainty, no one is to be held guilty of any criminal offence on account of any act or omission which did not constitute a criminal offence under national law or international law at the time when it was committed.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_601">
+          <num>51</num>
+          <content eId="para_601__content">
+            <p>That principle requires, according to the Court's case-law, EU legislation to give a clear definition of offences and the penalties which they attract. That requirement is satisfied where the individual concerned is in a position to ascertain from the wording of the relevant provision and, if need be, with the assistance of the courts' interpretation of it, what acts and omissions will make him criminally liable (see, inter alia, judgments of 3 June 2008, Intertanko and Others, C‑308/06, EU:C:2008:312, paragraph 71, and of 22 October 2015, AC-Treuhand v Commission, C‑194/14 P, EU:C:2015:717, paragraph 40 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_602">
+          <num>52</num>
+          <content eId="para_602__content">
+            <p>The principle that offences and penalties must have a proper basis in law cannot therefore be interpreted as precluding the gradual, case-by-case clarification of the rules on criminal liability by judicial interpretation, provided that the result was reasonably foreseeable at the time the offence was committed, especially in the light of the interpretation put on the provision in the case-law at the material time (judgment of 22 October 2015, AC-Treuhand v Commission, C‑194/14 P, EU:C:2015:717, paragraph 41 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_603">
+          <num>53</num>
+          <content eId="para_603__content">
+            <p>It must be noted, as is apparent from the answer given to the first question, that Article 8(6) and (8) of Regulation No 561/2006 contains a prohibition on taking regular weekly rest periods in a vehicle, although that provision does not itself impose any penalty. Article 19 of that regulation does not specify a penalty either, but, on the other hand, requires Member States to provide for penalties for infringement of that regulation and to take all necessary steps to ensure that those penalties are applied.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_604">
+          <num>54</num>
+          <content eId="para_604__content">
+            <p>Those penalties must be, as is, moreover, also apparent from recital 26 of Regulation No 561/2006, effective, proportionate, dissuasive and non-discriminatory. While Article 19 of that regulation requires the Member States to meet additional conditions concerning the rules to be laid down on penalties applicable to infringements of that regulation, those conditions have no effect on the nature of the penalties, which is confirmed by recital 27 of the regulation, under which the Member States may impose penal, civil or administrative penalties for infringement of the regulation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_605">
+          <num>55</num>
+          <content eId="para_605__content">
+            <p>In that regard, it is apparent from settled case-law that where an EU regulation does not specifically provide for any penalty for its infringement or refers, in that regard, to national laws, regulations and administrative provisions, Article 4(3) TFEU requires the Member States to take all measures necessary to guarantee the application and effectiveness of EU law. For that purpose, while the choice of penalties remains within their discretion, they must ensure in particular that infringements of EU law are penalised under conditions, both procedural and substantive, which are analogous to those applicable to infringements of national law of a similar nature and importance and which, in any event, make the penalty effective, proportionate and dissuasive (see, inter alia, judgments of 10 July 1990, Hansen, C‑326/88, EU:C:1990:291, paragraph 17, and of 27 March 2014, LCL Le Crédit Lyonnais, C‑565/12, EU:C:2014:190, paragraph 44 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_606">
+          <num>56</num>
+          <content eId="para_606__content">
+            <p>It should be noted, in that context, that the Court has frequently interpreted secondary legislation which requires Member States to lay down penalties to ensure effective implementation of that legislation in the light of the principle that offences and penalties must have a proper basis in law. Thus, according to that case-law, a directive cannot, of itself and independently of a national law adopted by a Member State for its implementation, have the effect of determining or aggravating the liability in criminal law of persons who act in contravention of the provisions of that directive (see, inter alia, judgment of 7 January 2004, X, C‑60/02, EU:C:2004:10, paragraph 61).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_607">
+          <num>57</num>
+          <content eId="para_607__content">
+            <p>It is also clear from that case-law that the Court's reasoning in respect of directives may be transposed to regulations, that is rules which, by their very nature, do not require any national implementing measures, where those regulations empower Member States to adopt penalties for infringements in respect of the behaviour prohibited by those regulations (see, to that effect, judgment of 7 January 2004, X, C‑60/02, EU:C:2004:10, paragraph 62).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_608">
+          <num>58</num>
+          <content eId="para_608__content">
+            <p>Therefore, given that, in accordance with Regulation No 561/2006, it is for the Member States to lay down penalties for infringement of that regulation, those States having a discretion as regards the nature of the applicable penalties (see, to that effect, judgment of 9 June 2016, Eurospeed, C‑287/14, EU:C:2016:420, paragraph 34).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_609">
+          <num>59</num>
+          <content eId="para_609__content">
+            <p>It follows that consideration of the second question referred has disclosed nothing to affect the validity of Regulation No 561/2006, having regard to the principle of legality in criminal proceedings, enshrined in Article 49(1) of the Charter.</p>
+            <tblock>
+              <p>The third question</p>
+            </tblock>
+            <p>60 In the light of the answer given to the first question, it is not necessary to answer the third question.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_610">
+          <num>61</num>
+          <content eId="para_610__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Tenth Chamber) hereby rules: 1. Article 8(6) and (8) of Regulation (EC) No 561/2006 of the European Parliament and of the Council of 15 March 2006 on the harmonisation of certain social legislation relating to road transport and amending Council Regulations (EEC) No 3821/85 and (EC) No 2135/98 and repealing Council Regulation (EEC) No 3820/85 must be interpreted as meaning that a driver may not take the regular weekly rest periods referred to in Article 8(6) in his vehicle. 2. Consideration of the second question referred has disclosed nothing to affect the validity of Regulation No 561/2006, having regard to the principle of legality in criminal proceedings, enshrined in Article 49(1) of the Charter of Fundamental Rights of the European Union.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Dutch.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

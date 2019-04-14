@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (First Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>22 February 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Common system of value added tax (VAT) -- Directive 2006/112/EC -- Articles 184 and 185 -- Adjustment of the deduction of input tax paid -- Change in the factors used to determine the amount to be deducted -- Notion of `transactions remaining totally or partially unpaid' -- Effect of a decision approving an arrangement with creditors having the force of res judicata) In Case C‑396/16, REQUEST for a preliminary ruling under Article 267 TFEU from the Vrhovno sodišče Republike Slovenije (Supreme Court of the Republic of Slovenia), made by decision of 5 July 2016, received at the Court on 15 July 2016, in the proceedings T‑2, družba za ustvarjanje, razvoj in trženje elektronskih komunikacij in opreme, d.o.o., in insolvency, v</p>
+      <p>
+        <party as="respondent" refersTo="#">Republika Slovenija</party>
+      </p>
+      <p>, THE COURT (First Chamber), composed of R. Silva de Lapuerta, President of the Chamber, C.G. Fernlund, J.C. Bonichot (Rapporteur), and E. Regan, Judges, Advocate General: H. Saugmandsgaard Øe, Registrar: A. Calot Escobar, having regard to the written procedure, after considering the observations submitted on behalf of</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>T‑2, družba za ustvarjanje, razvoj in trženje elektronskih komunikacij in opreme, d.o.o., in insolvency, by V. Bajuk, odvetnik, and J. Češnovar, odvetnica,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Slovenian Government, by B. Jovin Hrastnik, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by R. Lyal and M. Žebre, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 12 October 2017,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_6568">
+          <num>1</num>
+          <content eId="para_6568__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Articles 184 to 186 of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax ( OJ 2006 L 347, p. 1; `the VAT Directive').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6569">
+          <num>2</num>
+          <content eId="para_6569__content">
+            <p>The reference was made in the course of proceedings between T‑2, družba za ustvarjanje, razvoj in trženje elektronskih komunikacij in opreme, d.o.o. ( `T‑2'), a company in insolvency, and the Republika Slovenija (Republic of Slovenia), represented by the Ministrstvo za finance (Ministry of Finance), concerning the payment of value added tax (VAT) in the sum of EUR 7362080.27 claimed for the period from 1 to 29 February 2012.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <paragraph eId="para_6570">
+          <num>3</num>
+          <content eId="para_6570__content">
+            <p>Article 90 of the VAT Directive provides: `1.   In the case of cancellation, refusal or total or partial non-payment, or where the price is reduced after the supply takes place, the taxable amount shall be reduced accordingly under conditions which shall be determined by the Member States. 2.   In the case of total or partial non-payment, Member States may derogate from paragraph 1.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6571">
+          <num>4</num>
+          <content eId="para_6571__content">
+            <p>Article 184 of the VAT Directive reads as follows: `The initial deduction shall be adjusted where it is higher or lower than that to which the taxable person was entitled.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6572">
+          <num>5</num>
+          <content eId="para_6572__content">
+            <p>Article 185 of that directive provides: `1.   Adjustment shall, in particular, be made where, after the VAT return is made, some change occurs in the factors used to determine the amount to be deducted, for example where purchases are cancelled or price reductions are obtained. 2.   By way of derogation from paragraph 1, no adjustment shall be made in the case of transactions remaining totally or partially unpaid or in the case of destruction, loss or theft of property duly proved or confirmed, or in the case of goods reserved for the purpose of making gifts of small value or of giving samples, as referred to in Article 16. However, in the case of transactions remaining totally or partially unpaid or in the case of theft, Member States may require adjustment to be made.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6573">
+          <num>6</num>
+          <content eId="para_6573__content">
+            <p>Article 186 of the VAT Directive reads as follows: `Member States shall lay down the detailed rules for applying Articles 184 and 185.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Slovenian law</p>
+        </tblock>
+        <paragraph eId="para_6574">
+          <num>7</num>
+          <content eId="para_6574__content">
+            <p>Article 39 of the Zakon o davku na dodano vrednost (Law on value added tax) (Uradni list RS No 13/11, `the ZDDV‑1') provides in paragraphs 3 and 4: `</p>
+            <blockList>
+              <item>
+                <num>(3)</num>
+                <p>A taxable person may adjust (reduce) the amount of VAT declared if, on the basis of a court decision that has acquired the force of res judicata in insolvency proceedings which have concluded or on the basis of a procedure for reaching an arrangement with creditors brought successfully to completion, it will not be reimbursed or fully reimbursed. The taxable person may make a similar adjustment where it receives a final judicial decision suspending the enforcement proceedings or another attestation from which it is clear that, in enforcement proceedings that have been concluded, it has not been reimbursed or fully reimbursed, or where the taxable person has not been reimbursed or has not been fully reimbursed because the debtor has been removed from the register of companies or other relevant registers or documents. Where a taxable person subsequently receives full or partial payment in respect of the supply of goods or services in relation to which it has claimed an adjustment to the taxable amount in accordance with this paragraph, it shall declare the VAT on the amount received.</p>
+              </item>
+              <item>
+                <num>(4)</num>
+                <p>Notwithstanding the preceding paragraph, the taxable person may adjust (reduce) the amount of VAT declared but not paid on all admitted debts which it has declared in a procedure for reaching an arrangement with creditors or insolvency proceedings.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6575">
+          <num>8</num>
+          <content eId="para_6575__content">
+            <p>Article 68 of the ZDDV‑1, entitled `Adjustment of the deduction of VAT', provides: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>The taxable person shall adjust the initial deduction where it is higher or lower than that to which the taxable person was entitled.</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>A taxable person shall make an adjustment where, after the VAT deduction, some change occurs in the factors used to determine the amount to be deducted, for example where purchases are cancelled or price reductions are obtained.</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>By way of derogation from paragraph 2 of this article, the taxable person shall not adjust the initial deduction in the case of destruction or loss duly proved, or in the case of goods reserved for the purpose of making gifts of small value or of giving samples, as referred to in Article 7 of this law.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_6576">
+          <num>9</num>
+          <content eId="para_6576__content">
+            <p>By decision of 28 November 2011, the Okrožno sodišče v Mariboru (Regional Court, Maribor, Slovenia) approved an arrangement with creditors whereby T‑2, a Slovenian undertaking in the electronic communications sector, would be liable to pay only 44% of its debts within a period of nine years. That decision acquired the force of res judicata on 24 February 2012.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6577">
+          <num>10</num>
+          <content eId="para_6577__content">
+            <p>On that basis, the Davčni urad Ljubljana (tax directorate for Ljubljana, Slovenia) took the view that T‑2 had to adjust the VAT deductions, pursuant to Article 68 of the ZDDV‑1, and by decision of 27 May 2013, asked T‑2 to pay the sum of EUR 7362080.27 in VAT for the period from 1 to 29 February 2012.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6578">
+          <num>11</num>
+          <content eId="para_6578__content">
+            <p>The appeal against that decision brought by T‑2 before the Ministry of Finance was dismissed. The action brought before the Upravno sodišče Republike Slovenije (Administrative Court of the Republic of Slovenia) was also dismissed by judgment of 18 November 2014. That judgment was appealed on a point of law before the Vrhovno sodišče Republike Slovenije (Supreme Court of the Republic of Slovenia).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6579">
+          <num>12</num>
+          <content eId="para_6579__content">
+            <p>In that action, T‑2 disputes the adjustment of the deductions of the input VAT paid. It claims that the approval of an arrangement with creditors, having the force of res judicata, does not amount to a change in the factors used to determine the amount to be deducted, for the purposes of Article 68 of the ZDDV‑1, but is a specific case not covered by that law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6580">
+          <num>13</num>
+          <content eId="para_6580__content">
+            <p>According to the referring court, the approval of the arrangement with creditors in question, having the force of res judicata, could come within the scope of Article 68 of the ZDDV‑1, which transposes Articles 184 and 185 of the VAT Directive, under which the taxable person must adjust the deductions made if changes occur in the factors used to determine the amount of those deductions.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6581">
+          <num>14</num>
+          <content eId="para_6581__content">
+            <p>In that regard, the referring court explains that Article 63 of the ZDDV‑1 provides that a taxable person has the right to deduct from the amount of the VAT which it is liable to pay to the tax authority the amount of the VAT which it is due to pay or which it has paid to its supplier when the goods or services were purchased. In other words, where the final decision approving the arrangement with creditors relating to the taxable person affects that person's obligation to pay VAT to its supplier, that decision will also be decisive with regard to the taxable person's obligations to the tax authorities.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6582">
+          <num>15</num>
+          <content eId="para_6582__content">
+            <p>The referring court also states that Article 39 of the ZDDV‑1, which transposes Article 90 of the VAT Directive into Slovenian law, expressly provides that the approval of an arrangement with creditors enjoyed by a debtor enables the seller to adjust the VAT which it has declared.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6583">
+          <num>16</num>
+          <content eId="para_6583__content">
+            <p>In addition, it is clear from the order for reference that the fact that the decision approving the arrangement with creditors is final prevents the creditors from demanding that their claims be settled in full. On the other hand, the debtor's obligations are maintained. Thus, if the debtor voluntarily paid the debts for an amount greater than the amount fixed by the arrangement, then, in accordance with national provisions on unjust enrichment, it would not be entitled to claim reimbursement of that amount.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6584">
+          <num>17</num>
+          <content eId="para_6584__content">
+            <p>The referring court adds that, for the purposes of taxation, the approval of an arrangement with creditors must be assessed on the basis of its economic content. From that perspective, the procedure for an arrangement with creditors leads to a reduction of the debts, and not simply to the non-payment of those debts.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6585">
+          <num>18</num>
+          <content eId="para_6585__content">
+            <p>That being so, the referring court considers that, in order to apply Article 68 of the ZDDV‑1, it needs to understand the provisions of the VAT Directive which that article transposes, that is to say, inter alia, Article 185(2) of the VAT Directive, according to which no adjustment is to be made in cases of transactions remaining totally or partially unpaid, unless, however, the Member States require that adjustment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6586">
+          <num>19</num>
+          <content eId="para_6586__content">
+            <p>The referring court asks, in particular, whether the fact that a transaction remains totally or partially unpaid must be classified as a `change in the factors used to determine the amount to be deducted', for the purposes of Article 185(1) of the VAT Directive, and whether the approval of an arrangement with creditors must be considered to be a non-payment of transactions, for the purposes of Article 185(2) of that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6587">
+          <num>20</num>
+          <content eId="para_6587__content">
+            <p>In addition, it is uncertain as to the degree of precision required so that the provisions of national law transposing the VAT Directive may, in accordance with the second subparagraph of Article 185(2) of the VAT Directive, derogate properly from the rule that no adjustment of the deductions is to be made in the case of transactions remaining totally or partially unpaid. In that regard, it is clear from the order for reference that Article 68 of the ZDDV‑1 does not expressly govern the case of transactions remaining totally or partially unpaid.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6588">
+          <num>21</num>
+          <content eId="para_6588__content">
+            <p>It is in that context that the Vrhovno sodišče Republike Slovenije (Supreme Court of the Republic of Slovenia) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Should the reduction of the obligations on the basis of an arrangement with creditors, as in the main proceedings, which has been approved by judicial decree and has acquired the force of res judicata, be treated as a change in the factors used to determine the amount of input VAT to be deducted, within the meaning of Article 185(1) of the VAT Directive, or should it be treated as a different situation, in which the deduction is higher or lower than that to which the taxable person was entitled, within the meaning of Article 184 of the VAT Directive?</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>Should the reduction of the obligations on the basis of an arrangement with creditors, as in the main proceedings, which has been approved by judicial decree and has acquired the force of res judicata be regarded as a (partial) non-payment of a transaction, within the meaning of the first subparagraph of Article 185(2) of the VAT Directive?</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>Must a Member State, taking into account the requirements of clarity and certainty in legal situations imposed by the EU legislature and having regard for Article 186 of the VAT Directive, lay down, for the purpose of requiring adjustment of the deduction in the event of failure to make complete or partial payment, as permitted by the second subparagraph of Article 185(2) of that directive, detailed rules, in national law, to cover cases of non-payment, or may it include, in those rules, an arrangement with creditors approved by judicial decree which has acquired the force of res judicata(should this come within the notion of non-payment)?'</p>
+                <tblock>
+                  <p>Consideration of the questions referred</p>
+                </tblock>
+                <tblock>
+                  <p>The first question</p>
+                </tblock>
+                <p>22 By its first question, the referring court asks, in essence, whether Article 185(1) of the VAT Directive must be interpreted to the effect that the reduction of a debtor's obligations resulting from the final approval of an arrangement with creditors constitutes a change in the factors used to determine the amount to be deducted, for the purposes of that provision.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6589">
+          <num>23</num>
+          <content eId="para_6589__content">
+            <p>It must be recalled that Articles 184 to 186 of the VAT Directive lay down the conditions under which tax authorities may require adjustments to be made by taxable persons. The adjustment mechanism provided for in those articles is an integral part of the VAT deduction scheme established by the VAT Directive. It is intended to enhance the precision of deductions so as to ensure the neutrality of VAT (judgment of 13 March 2014, FIRIN, C‑107/13, EU:C:2014:151, paragraphs 48 and 50).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6590">
+          <num>24</num>
+          <content eId="para_6590__content">
+            <p>The principle of neutrality of VAT is maintained, since the system of deduction set out in Title X of the VAT Directive enables the intermediate links in the distribution chain to deduct from their own taxable amount the sums paid by each to its own supplier in respect of VAT on the corresponding transaction and thus pass on to the tax authorities the part of the VAT representing the difference between the price paid by each to its supplier and the price at which it supplied the goods to its purchaser (see, by analogy, judgments of 24 October 1996, Elida Gibbs, C‑317/94, EU:C:1996:400, paragraph 33; of 15 October 2002, Commission v Germany, C‑427/98, EU:C:2002:581; and of 29 April 2004, Terra Baubedarf-Handel, C‑152/02, EU:C:2004:268, paragraph 36).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6591">
+          <num>25</num>
+          <content eId="para_6591__content">
+            <p>As regards the obligation to make an adjustment to an input VAT deduction, Article 184 of the VAT Directive provides that the initial deduction must be adjusted where it is higher or lower than that to which the taxable person was entitled.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6592">
+          <num>26</num>
+          <content eId="para_6592__content">
+            <p>Article 185(1) of the VAT Directive states that an adjustment must, in particular, be made where, after the VAT return is made, some change occurs in the factors used to determine the amount to be deducted (see, to that effect, judgment of 13 March 2014, FIRIN, C‑107/13, EU:C:2014:151, paragraph 51).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6593">
+          <num>27</num>
+          <content eId="para_6593__content">
+            <p>A reading of Articles 184 and 185(1) of the VAT Directive in conjunction with one another reveals that, where an adjustment proves to be necessary because of the change in one of the factors used to determine the amount to be deducted, the amount of that adjustment must be calculated in such a way that the final amount to be deducted corresponds to that to which the taxable person would have been entitled if that change had been initially taken into account (judgment of 16 June 2016, Kreissparkasse Wiedenbrück, C‑186/15, EU:C:2016:452, paragraph 47).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6594">
+          <num>28</num>
+          <content eId="para_6594__content">
+            <p>In the present case, it is common ground that the final approval of an arrangement with creditors reduced the obligations of a purchaser, that is to say, T‑2, vis-à-vis its suppliers.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6595">
+          <num>29</num>
+          <content eId="para_6595__content">
+            <p>As a result, such an approval reduced the sums paid by T‑2 to its suppliers by way of VAT and consequently, in accordance with the principles set out at paragraph 24 above, changed the factors used to determine the amount to be deducted.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6596">
+          <num>30</num>
+          <content eId="para_6596__content">
+            <p>In the light of all the foregoing considerations, the answer to the first question is that Article 185(1) of the VAT Directive must be interpreted to the effect that the reduction of a debtor's obligations resulting from the final approval of an arrangement with creditors constitutes a change in the factors used to determine the amount to be deducted, for the purposes of that provision.</p>
+            <tblock>
+              <p>The second question</p>
+            </tblock>
+            <p>31 By its second question, the referring court asks whether the first subparagraph of Article 185(2) of the VAT Directive must be interpreted to the effect that the reduction of a debtor's obligations resulting from the final approval of an arrangement with creditors constitutes a case of a transaction remaining totally or partially unpaid that does not give rise to an adjustment of the initial deduction for the purposes of that provision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6597">
+          <num>32</num>
+          <content eId="para_6597__content">
+            <p>As regards the interpretation of Article 185(2) of the VAT Directive, it is clear from the case-law of the Court that, for the purposes of interpreting a provision of EU law, it is necessary to consider not only its wording, but also its context and the objectives of the rules of which it is part (judgment of 26 October 2017, I, C‑195/16, EU:C:2017:815, paragraph 32).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6598">
+          <num>33</num>
+          <content eId="para_6598__content">
+            <p>In that regard, it must be noted that Article 90(1) of the VAT Directive, which relates to cases of cancellation, refusal, or total or partial non-payment, or where the price is reduced after the supply takes place, requires the Member States to reduce the taxable amount, and consequently the amount of VAT payable by the taxable person whenever, after a transaction has been concluded, part or all of the consideration has not been received by the taxable person (judgment of 15 May 2014, Almos Agrárkülkereskedelmi, C‑337/13, EU:C:2014:328, paragraph 22).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6599">
+          <num>34</num>
+          <content eId="para_6599__content">
+            <p>As is apparent from paragraphs 23 to 29 above, such a situation also falls within Article 185 of the VAT Directive, which applies, inter alia, in the event of a reduction of a buyer's obligations vis-à-vis its supplier.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6600">
+          <num>35</num>
+          <content eId="para_6600__content">
+            <p>While Article 90 of that directive governs the right of a supplier to reduce the taxable amount where, after the transaction has been concluded, it does not receive the consideration stipulated or receives only a part of it, Article 185 of that directive concerns the adjustment of the deductions initially made by the other party to that transaction. Therefore, those two articles represent the two sides of the same economic transaction and they should be interpreted consistently.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6601">
+          <num>36</num>
+          <content eId="para_6601__content">
+            <p>The Court has already held that the situation of non-payment of the purchase price, for the purposes of Article 90 of the VAT Directive, does not restore the parties to their original situation. If the total or partial non-payment of the purchase price occurs without there being a cancellation or refusal of the contract, the purchaser remains liable for the agreed price and the seller, even though no longer proprietor of the goods, in principle continues to have the right to receive payment, which it can rely on before the courts. Since it cannot be excluded, however, that such a debt will become definitively irrecoverable, the EU legislature intended to leave it to each Member State to decide whether the situation of non-payment of the purchase price leads to an entitlement to have the taxable amount reduced accordingly under conditions which it determines, or whether such a reduction is not allowed in that situation (judgment of 12 October 2017, Lombard Ingatlan Lízing, C‑404/16, EU:C:2017:759, paragraph 29).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6602">
+          <num>37</num>
+          <content eId="para_6602__content">
+            <p>The power to derogate, which is strictly limited to situations of total or partial non-payment, is based on the notion that, in certain circumstances and because of the legal situation prevailing in the Member State concerned, non-payment of consideration may be difficult to establish or may only be temporary (judgment of 23 November 2017, Di Maura, C‑246/16, EU:C:2017:887, paragraph 17).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6603">
+          <num>38</num>
+          <content eId="para_6603__content">
+            <p>The exercise of such a power to derogate must be justified, so that the measures taken by the Member States for its implementation do not undermine the objective of fiscal harmonisation pursued by the VAT Directive (judgment of 23 November 2017, Di Maura, C‑246/16, EU:C:2017:887, paragraph 18).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6604">
+          <num>39</num>
+          <content eId="para_6604__content">
+            <p>It follows from the foregoing that the non-payment is characterised by the inherent uncertainty that stems from its non-definitive nature (judgment of 12 October 2017, Lombard Ingatlan Lízing, C‑404/16, EU:C:2017:759, paragraph 30).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6605">
+          <num>40</num>
+          <content eId="para_6605__content">
+            <p>Although it is relevant that the Member States may counteract that uncertainty, such a power of derogation cannot extend beyond that uncertainty, and in particular cannot extend to whether a reduction of the taxable amount may not be carried out in situations of non-payment (judgment of 23 November 2017, Di Maura, C‑246/16, EU:C:2017:887, paragraph 22).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6606">
+          <num>41</num>
+          <content eId="para_6606__content">
+            <p>In the light of the considerations set out in paragraphs 32 to 35 above, that interpretation of the notion of `non-payment', for the purposes of Article 90 of the VAT Directive, also applies to the notion of `transaction remaining totally or partially unpaid', for the purposes of Article 185(2) of that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6607">
+          <num>42</num>
+          <content eId="para_6607__content">
+            <p>Consequently, in order to establish whether the dispute before it concerns a transaction remaining totally or partially unpaid, it is for the referring court to assess, in accordance with the criteria set out in paragraphs 36 to 40 above, in particular whether, after the final approval of an arrangement with creditors and in accordance with the applicable national law, the purchaser remains liable for the agreed price and whether the seller or supplier still has a claim on which it may rely before the court. On the other hand, if the referring court were to find that the obligations of the debtor have been reduced, so that the corresponding part of the claims of its providers became definitively irrecoverable, the derogations provided for in Article 185(2) of the VAT Directive, in the case of transactions remaining totally or partially unpaid, could not be applied.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6608">
+          <num>43</num>
+          <content eId="para_6608__content">
+            <p>Furthermore, with regard to the criteria to be applied in the assessment of the finality or otherwise of a claim, it must be recalled that consideration of economic and commercial realities is a fundamental criterion for the application of the common system of VAT (judgments of 7 October 2010, Loyalty Management UKand Baxi Group, C‑53/09 and C‑55/09, EU:C:2010:590, paragraph 39, and of 20 June 2013, Newey, C‑653/11, EU:C:2013:409, paragraph 42).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6609">
+          <num>44</num>
+          <content eId="para_6609__content">
+            <p>In that regard, it is clear from the order for reference that the decision approving the arrangement with creditors at issue in the main proceedings prevents creditors from seeking full payment of their claims and that, from an economic point of view, that decision leads to a reduction of the debtor's obligations vis-à-vis its creditors, and not just to a default. Consequently, it does not appear that the reduction of a debtor's obligations resulting from the final approval of an arrangement with creditors constitutes a case of a transaction remaining totally or partially unpaid, although that is a matter for the referring court to determine.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6610">
+          <num>45</num>
+          <content eId="para_6610__content">
+            <p>It follows from the foregoing considerations that the answer to the second question is that the first subparagraph of Article 185(2) of the VAT Directive must be interpreted to the effect that the reduction of a debtor's obligations resulting from the final approval of an arrangement with creditors does not constitute a case of a transaction remaining totally or partially unpaid that does not give rise to an adjustment of the initial deduction, where that reduction is definitive, although that is a matter for the referring court to determine.</p>
+            <tblock>
+              <p>The third question</p>
+            </tblock>
+            <p>46 By its third question, the referring court asks, in essence, whether the second subparagraph of Article 185(2) of the VAT Directive must be interpreted to the effect that, in order to implement the option provided for in that provision, a Member State must, taking into account the requirements of clarity and certainty in legal situations, make express provision for an obligation to adjust the deductions in the case of transactions remaining totally or partially unpaid.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6611">
+          <num>47</num>
+          <content eId="para_6611__content">
+            <p>As regards the obligation to make an adjustment to an input-VAT deduction, Article 184 of the VAT Directive provides that the initial deduction must be adjusted where it is higher or lower than that to which the taxable person was entitled. Article 185(1) of the VAT Directive provides that an adjustment must, in particular, be made where, after the VAT return is made, some change occurs in the factors used to determine the amount to be deducted.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6612">
+          <num>48</num>
+          <content eId="para_6612__content">
+            <p>However, by way of a derogation from the rule in Article 185(1) of the VAT Directive, the first subparagraph of Article 185(2) provides that no adjustment is to be made in the case of transactions remaining totally or partially unpaid, or in the case of destruction, loss or theft of property duly proved or confirmed, or in the case of goods reserved for the purpose of making gifts of small value or of giving samples. Under the second subparagraph of Article 185(2), Member States may, however, require adjustment in cases of transactions remaining totally or partially unpaid, or in the case of theft.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6613">
+          <num>49</num>
+          <content eId="para_6613__content">
+            <p>It is apparent from the request for a preliminary ruling that Article 68(3) of the ZDDV‑1, which transposes Article 185(2) of the VAT Directive into Slovenian law, does not expressly require adjustment in the event of theft or of transactions remaining totally or partially unpaid, but simply does not include those cases in the list of derogations from the adjustment obligation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6614">
+          <num>50</num>
+          <content eId="para_6614__content">
+            <p>In that regard, the Court has made it clear that Member States, when exercising an option under the VAT Directive, may choose the legislative technique which they regard as the most appropriate (see, to that effect, judgments of 4 June 2009, SALIX Grundstücks-Vermietungsgesellschaft, C‑102/08, EU:C:2009:345, paragraph 56, and of 4 October 2012, PIGI, C‑550/11, EU:C:2012:614, paragraph 33). Thus, they may, for example, simply incorporate into national legislation the formula used in that directive or an equivalent expression, or set out exhaustively in a list the situations in which, by derogation from Article 185(1) of that directive, there is no need to adjust the initial deductions.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6615">
+          <num>51</num>
+          <content eId="para_6615__content">
+            <p>The fact that there is no mention of transactions remaining totally or partially unpaid in such a list may be regarded as the result of the exercise by the Member State of the power of derogation granted to it under the second subparagraph of Article 185(2) of the VAT Directive (see, by analogy, judgment of 15 May 2014, Almos Agrárkülkereskedelmi, C‑337/13, EU:C:2014:328, paragraph 24).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6616">
+          <num>52</num>
+          <content eId="para_6616__content">
+            <p>Since the referring court raises the issue of compliance with the requirement of clarity and certainty in legal situations, it must be recalled that the principle of legal certainty, the corollary of which is the principle of the protection of legitimate expectations, requires, on the one hand, that rules of law must be clear and precise and, on the other, that their application be foreseeable by those subject to them (judgment of 9 October 2014, Traum, C‑492/13, EU:C:2014:2267, paragraph 28).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6617">
+          <num>53</num>
+          <content eId="para_6617__content">
+            <p>In that regard, as is apparent from the preceding paragraphs of the present judgment, it does not appear that the national legislation in question prevents the taxable persons concerned from knowing precisely the extent of the obligations which are imposed on them or from knowing without ambiguity what their rights and obligations are and taking steps accordingly.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6618">
+          <num>54</num>
+          <content eId="para_6618__content">
+            <p>In the light of all the foregoing considerations, the answer to the third question is that the second subparagraph of Article 185(2) of the VAT Directive must be interpreted to the effect that, in order to implement the option provided for in that provision, a Member State is not required to make express provision for an obligation to adjust the deductions in the case of transactions remaining totally or partially unpaid.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_6619">
+          <num>55</num>
+          <content eId="para_6619__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (First Chamber) hereby rules: 1. Article 185(1) of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax must be interpreted to the effect that the reduction of a debtor's obligations resulting from the final approval of an arrangement with creditors constitutes a change in the factors used to determine the amount to be deducted, for the purposes of that provision. 2. The first subparagraph of Article 185(2) of Directive 2006/112 must be interpreted to the effect that the reduction of a debtor's obligations resulting from the final approval of an arrangement with creditors does not constitute a case of a transaction remaining totally or partially unpaid that does not give rise to an adjustment of the initial deduction, where that reduction is definitive, although that is a matter for the referring court to determine. 3. The second subparagraph of Article 185(2) of Directive 2006/112 must be interpreted to the effect that, in order to implement the option provided for in that provision, a Member State is not required to make express provision for an obligation to adjust the deductions in the case of transactions remaining totally or partially unpaid.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Slovenian.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

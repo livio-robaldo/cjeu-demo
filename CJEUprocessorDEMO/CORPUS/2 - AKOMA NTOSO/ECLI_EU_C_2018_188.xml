@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Ninth Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>15 March 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Directive 94/62/EC -- Packaging and packaging waste -- Recovery and recycling of waste -- National environmental fund contribution -- National marketing of packaged products and their packaging, without alteration -- `Polluter-pays' principle -- Status of polluter) In Case C‑104/17, REQUEST for a preliminary ruling under Article 267 TFEU from the Curtea de Apel Piteşti (Court of Appeal, Piteşti, Romania), made by decision of 2 February 2017, received at the Court on 27 February 2017, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">SC Cali Esprou SRL</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#">Administraţia Fondului pentru Mediu</party>
+      </p>
+      <p>, THE COURT (Ninth Chamber), composed of C. Vajda (Rapporteur), President of the Chamber, E. Juhász and K. Jürimäe, Judges, Advocate General: M. Campos Sánchez-Bordona, Registrar: A. Calot Escobar, having regard to the written procedure, after considering the observations submitted on behalf of</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>the Romanian Government, by R.-H. Radu, O.-C. Ichim and M. Chicu, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by L. Nicolae and E. Sanfrutos Cano, acting as Agents, having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_8573">
+          <num>1</num>
+          <content eId="para_8573__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Article 15 of European Parliament and Council Directive 94/62/EC of 20 December 1994 on packaging and packaging waste ( OJ 1994 L 365, p. 10).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8574">
+          <num>2</num>
+          <content eId="para_8574__content">
+            <p>The request has been made in proceedings between SC Cali Esprou SRL and the Administraţia Fondului pentru Mediu (Environment Fund Administration, Romania; `AFM') concerning the lawfulness of a contribution imposed on Cali Esprou by AFM, calculated on the basis of the packaging which it placed on the Romanian market in 2013 and 2014.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <paragraph eId="para_8575">
+          <num>3</num>
+          <content eId="para_8575__content">
+            <p>The first and second recitals of Directive 94/62 are worded as follows: `... the differing national measures concerning the management of packaging and packaging waste should be harmonised in order, on the one hand, to prevent any impact thereof on the environment or to reduce such impact, thus providing a high level of environmental protection, and, on the other hand, to ensure the functioning of the internal market and to avoid obstacles to trade and distortion and restriction of competition within the Community; ... the best means of preventing the creation of packaging waste is to reduce the overall volume of packaging'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8576">
+          <num>4</num>
+          <content eId="para_8576__content">
+            <p>The 29th recital of that directive states: `... it is essential that all those involved in the production, use, import and distribution of packaging and packaged products become more aware of the place of packaging waste generation, and that in accordance with the polluter-pays principle they accept responsibility for it; whereas the development and implementation of the measures provided for in this directive should involve and require the close cooperation of all the partners in a spirit of common responsibility'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8577">
+          <num>5</num>
+          <content eId="para_8577__content">
+            <p>Article 1 of that directive, entitled `Objectives', provides: `1.   This Directive aims to harmonise national measures concerning the management of packaging and packaging waste in order, on the one hand, to prevent any impact thereof on the environment of all Member States as well as of third countries or to reduce such impact, thus providing a high level of environmental protection, and, on the other hand, to ensure the functioning of the internal market and to avoid obstacles to trade and distortion and restriction of competition within the Community. 2.   To this end this directive lays down measures aimed, as a first priority, at preventing the production of packaging waste and, as additional fundamental principles, at reusing packaging, at recycling and other forms of recovering packaging waste and, hence, at reducing the final disposal of such waste.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8578">
+          <num>6</num>
+          <content eId="para_8578__content">
+            <p>Article 2(1) of that directive provides: `This directive covers all packaging placed on the market in the Community and all packaging waste, whether it is used or released at industrial, commercial, office, shop, service, household or any other level, regardless of the material used.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8579">
+          <num>7</num>
+          <content eId="para_8579__content">
+            <p>Article 3, point 11, of Directive 94/62 provides: `For the purposes of this directive: ...</p>
+            <blockList>
+              <item>
+                <num>(11)</num>
+                <p>``economic operators '' in relation to packaging shall mean suppliers of packaging materials, packaging producers and converters, fillers and users, importers, traders and distributors, authorities and statutory organisations.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8580">
+          <num>8</num>
+          <content eId="para_8580__content">
+            <p>Article 15 of that directive provides: `Acting on the basis of the relevant provisions of the Treaty, the Council adopts economic instruments to promote the implementation of the objectives set by this directive. In the absence of such measures, the Member States may, in accordance with the principles governing Community environmental policy, inter alia the polluter-pays principle, and the obligations arising out of the Treaty, adopt measures to implement those objectives.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Romanian law</p>
+        </tblock>
+        <paragraph eId="para_8581">
+          <num>9</num>
+          <content eId="para_8581__content">
+            <p>Article 16(1) and (4) of the Hotărârea Guvernului nr. 621/2005 privind gestionarea ambalajelor și a deșeurilor de ambalaje (Governmental Decision No 621/2005 on the management of packaging and packaging waste) ( Monitorul Oficial al României, Part I, No 639 of 20 July 2005; `Governmental Decision No 621/2005'), in the version applicable to the dispute in the main proceedings, provides: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Economic operators which are Romanian legal persons shall be responsible for all the waste produced by the packaging which they place on the national market, as follows:</p>
+                <blockList>
+                  <item>
+                    <num>(a)</num>
+                    <p>economic operators who place packaged products on the market shall be responsible for waste generated by primary, secondary and tertiary packaging used in the packaging of their products, with the exception of retail packaging used for packaging at the point of sale of the products which they place on the national market;</p>
+                  </item>
+                  <item>
+                    <num>(b)</num>
+                    <p>economic actors who over-package individually packed products for resale or for redistribution shall be responsible for the waste generated by the secondary and tertiary packaging which they place on the market;</p>
+                  </item>
+                  <item>
+                    <num>(c)</num>
+                    <p>economic operators who place retail packaging on the market shall be responsible for the waste resulting from such packaging. ...</p>
+                  </item>
+                </blockList>
+              </item>
+              <item>
+                <num>(4)</num>
+                <p>The economic operators referred to in paragraph 2 shall achieve at least the objectives set out in Annex 3 to the [Ordonanța de urgență a guvernului nr. 196/2005 privind Fondul pentru mediu (Government Emergency Order No 196/2005 on the Environmental Fund) ( Monitorul Oficial al României, Part I, No 1193 of 30 December 2005)], approved with amendments and additions by [Legea nr.105/2006 (Law No 105/2006)], with its subsequent amendments and additions, applied to packaging waste resulting from packaging placed on the national market/recovered on a contractual basis and of which the traceability is ensured.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8582">
+          <num>10</num>
+          <content eId="para_8582__content">
+            <p>Article 9(1)(d) of Government Emergency Order No 196/2005 on the Environment Fund ( `OUG No 196/2005'), in the version application to the dispute in the main proceedings, provides: `The revenue of the Environmental Fund shall be as follows: ...</p>
+            <blockList>
+              <item>
+                <num>(d)</num>
+                <p>a contribution of 2 [Romanian lei (RON)]/kg, payable by economic operators who place packaged products on the national market, who distribute retail packaging on the national market for the first time, and by economic operators who rent out, in the course of a profession, packaging in any form, for the difference between, on the one hand, the quantities of packaging waste corresponding to the minimum targets for recovery or incineration at waste incineration plants with energy recovery and of recovery by recycling provided for in Annex 3 and, on the other, the quantities of packaging waste actually recovered or incinerated at waste incineration plants with energy recovery and recovered by recycling.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8583">
+          <num>11</num>
+          <content eId="para_8583__content">
+            <p>The Ordinul nr. 578/2006 pentru aprobarea metodologiei de calcul al contribuțiilor și taxelor datorate la Fondul pentru mediu (Decree No 578/2006 adopting the method for the calculation of the contributions and taxes owed to the Environmental Fund) ( Monitorul Oficial al României, Part I, No 516 of 14 June 2006), as amended by, inter alia, the Ordinul nr. 1032 (Decree No 1032) of 10 March 2011 ( Monitorul Oficial al României, Part I, No 196 of 22 March 2011) provides, in point 11 of its Annex: `The placing of a product on the national market consists in the act of making a product available on the national market, for the first time, for consideration or free of charge, for the purposes of distribution and/or use, including personal use/consumption. ...'</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the question referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_8584">
+          <num>12</num>
+          <content eId="para_8584__content">
+            <p>Cali Esprou purchases various products ready-packaged abroad, which it sells and supplies, without it making any alteration to them, to retailers on the Romanian market.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8585">
+          <num>13</num>
+          <content eId="para_8585__content">
+            <p>It has placed products on the Romanian market which were offered for sale between 19 August 2011 and 31 December 2014. Between 30 March and 2 April 2015, a tax inspection took place at the headquarters of Cali Esprou concerning compliance with the obligations to pay the contribution payable to the AFM, by virtue of Article 9(1)(d) of the OUG No 196/2005, for the packaging of packaged products placed on the Romanian market during the period 2011-2014.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8586">
+          <num>14</num>
+          <content eId="para_8586__content">
+            <p>Following that inspection, Cali Esprou was not made subject to any additional payment obligation under Article 9(1)(d) of OUG No 196/2005 for the years 2011 and 2012. However, the tax authorities imposed, on the basis of that provision, an additional payment obligation on Cali Esprou of RON 4242 (approximately EUR 909) in respect of 2013 and 2014.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8587">
+          <num>15</num>
+          <content eId="para_8587__content">
+            <p>Cali Esprou lodged an administrative appeal before the AFM against that additional payment obligation, arguing that it was not bound by the obligations of payment laid down in Article 9(1)(d) of OUG No 196/2005 because it could not be classified as a `polluter'. On 3 July 2015, the AFM rejected that appeal. On 21 December 2015, Cali Esprou brought an action before the Tribunalul Vâlcea (Regional Court, Vâlcea, Romania), seeking, inter alia, the annulment of the decision of the AFM. That action was dismissed by a judgment of 6 May 2016.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8588">
+          <num>16</num>
+          <content eId="para_8588__content">
+            <p>Cali Esprou appealed against that judgment before the referring court, the Curtea de Apel Piteşti (Court of Appeal, Piteşti, Romania), claiming that, in so far as it manages packaging and not packaging waste, it cannot be regarded as a polluter. Furthermore, according to Cali Esprou, Article 9(1)(d) of OUG No 196/2005 is contrary to the `polluter-pays' principle enshrined in Article 15 of Directive 94/62, which provides for the adoption of national measures in order to achieve the objectives of that directive in accordance with the principles which govern EU environmental policy, in particular the `polluter-pays' principle.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8589">
+          <num>17</num>
+          <content eId="para_8589__content">
+            <p>In that regard, the referring court notes that the contribution provided for in Article 9(1)(d) of OUG No 196/2005 is a `measure' which falls within the scope of Article 15 of Directive 94/62. Nonetheless, it is doubtful as to whether that contribution is compatible with the `polluter-pays' principle enshrined in that article. In particular, having regard to the definition of economic operator given in Article 3, point 11, of that directive, it considers that a polluter, within the meaning of Article 15 of that directive, must be connected with the processing of packaging waste. However, Cali Esprou is an intermediary which makes no alteration as regards the packaging, so that the referring court is unsure whether the obligation imposed on Cali Esprou to pay a contribution to the AFM, under Article 9(1)(d) of OUG No 196/2005, complies with Article 15 of that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8590">
+          <num>18</num>
+          <content eId="para_8590__content">
+            <p>In those circumstances, the Curtea de Apel Piteşti (Court of Appeal, Piteşti) has decided to stay the proceedings and refer the following question to the Court for a preliminary ruling: `Can Article 15 of [Directive 94/62] be interpreted as precluding the adoption, in a Member State of the European Union, of legislation that imposes a contribution payable by the economic operator which places packaged products and packaging on the market, without in any way making any alteration to the products or packaging, and sells them in the same form to an economic operator which, in turn, sells them on to the final consumer, the amount of the contribution being fixed per kilogram (kg), on the basis of the difference between, on the one hand, the quantities of packaging waste corresponding to the minimum targets for recovery or incineration in waste incineration plants with energy recovery and waste recycling facilities, and, on the other, the quantities of packaging waste actually recovered or incinerated in waste incineration plants with energy recovery and waste recycling facilities?'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the question referred</p>
+        </tblock>
+        <paragraph eId="para_8591">
+          <num>19</num>
+          <content eId="para_8591__content">
+            <p>By its question, the referring court asks, in essence, whether Article 15 of Directive 94/62 and the `polluter-pays' principle which it implements preclude national legislation, such as that at issue in the main proceedings, which imposes a contribution on an economic operator which does not make any alteration to the packaging which it places on the market, calculated on the basis of the difference in weight between, on the one hand, the quantity of packaging waste corresponding to the minimum targets for energy recovery and recovery by recycling and the quantity of packaging waste actually recovered or recycled.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8592">
+          <num>20</num>
+          <content eId="para_8592__content">
+            <p>Article 15 of Directive 94/62 provides that the Council is to adopt economic instruments to promote the implementation of the objectives set in that directive and that, in the absence of such instruments, the Member States may, in accordance with the principles governing the EU's policy in the field of the environment, inter alia the `polluter-pays' principle, and the obligations arising out of the FEU Treaty, adopt measures to achieve those objectives.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8593">
+          <num>21</num>
+          <content eId="para_8593__content">
+            <p>As the Council has not adopted such economic instruments imposing a contribution in respect of packaging waste placed on the market of the Member States, the latter may adopt measures, in compliance with the conditions laid down in the second sentence of Article 15 thereof.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8594">
+          <num>22</num>
+          <content eId="para_8594__content">
+            <p>In that regard, it should be noted, on the one hand, that the `polluter-pays' principle, referred to in Article 15 and the 29th recital of Directive 94/62 requires, according to that recital, that `all those involved in the production, use, import and distribution of packaging and packaged products become more aware of the place of packaging waste generation' and `agree to assume liability'. That principle does not cover only those directly responsible for the production of waste, but has a broader scope. It also covers those who contribute to that production of waste, which includes importers and distributors of packaged products (see, by analogy, judgment of 30 March 2017, VG Čistoća, C‑335/16, EU:C:2017:242, paragraph 24 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8595">
+          <num>23</num>
+          <content eId="para_8595__content">
+            <p>On the other hand, with regard to the objectives set by Directive 94/62, Article 1 thereof, entitled `Subject matter', provides in paragraph 1 thereof that that directive seeks to `ensure ... a high level of protection for the environment'. Furthermore, under Article 1(2), the directive lays down `measures aimed, as a first priority, at preventing the production of packaging waste and, as additional fundamental principles, at reusing packaging, at recycling and other forms of recovering packaging waste and, hence, at reducing the final disposal of such waste'. For those purposes, Article 2 of Directive 94/62 confirms the wide scope of the directive, by providing that the directive applies to all packaging placed on the market in the European Union and all packaging waste.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8596">
+          <num>24</num>
+          <content eId="para_8596__content">
+            <p>These objectives are confirmed by the wording of the first and second recitals of Directive 94/62, according to which, respectively, that directive seeks, firstly, to `prevent or reduce' the impact of packaging waste `on the environment, thus ensuring a high level of environmental protection' and, secondly, `to reduce the overall volume of packaging'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8597">
+          <num>25</num>
+          <content eId="para_8597__content">
+            <p>It is appropriate to assess the conformity with EU law of the contribution at issue in the main proceedings, in the light, in particular, of the objectives of Directive 94/62 and of the `polluter-pays' principle.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8598">
+          <num>26</num>
+          <content eId="para_8598__content">
+            <p>However, it is clear from Article 9(1)(d) of OUG No 196/2005 that the contribution at issue in the main proceedings, which is payable by the economic operators who place packaged products on the national market for the first time, is calculated on the basis of the difference in weight between, on the one hand, the quantities of packaging waste corresponding to the minimum targets for recovery or incineration and, on the other, the quantities of packaging waste actually recovered or incinerated at waste incineration plants with energy recovery and recycling.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8599">
+          <num>27</num>
+          <content eId="para_8599__content">
+            <p>According to the Romanian Government, this contribution seeks, in general, to make those who place packaging on the Romanian market liable for it. Indeed, subject to verification by the referring court, by imposing a contribution calculated on the basis of the weight of packaging waste exceeding the minimum targets for recovery or incineration at waste incineration plants with energy recovery and recovery by recycling, that contribution promotes, on the one hand, the reduction of packaging placed on the national market and, on the other, the recovery or recycling of such waste.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8600">
+          <num>28</num>
+          <content eId="para_8600__content">
+            <p>Thus, the contribution at issue in the main proceedings meets the objectives of Directive 94/62, in particular, in so far as it seeks to reduce the final disposal of waste provided for in Article 1(2) of that Directive and the second recital thereof, on the one hand, by promoting the recovery or incineration at waste incineration plants with energy recovery and recovery by recycling and, on the other, by deterring, by a pecuniary charge, non-compliance with the minimum targets for recovery or incineration at waste incineration plants with energy recovery and recovery by recycling.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8601">
+          <num>29</num>
+          <content eId="para_8601__content">
+            <p>Similarly, a contribution such as that at issue in the main proceedings clearly complies with the `polluter-pays' principle enshrined in Article 15 of Directive 94/62. The contribution at issue in the main proceedings, as described in paragraph 26 of the present judgment, imposes a pecuniary charge on persons placing packaging on the national market in excess of certain minimum targets for energy recovery and recovery by waste recycling. As is apparent from the order for reference, it follows from Article 9(1)(d) of OUG No 196/2005 and point 11 of the Annex to Decree No 578/2006 adopting the method of calculation of the contributions and taxes owed to the Environmental Fund, as amended, that that charge applies only to those placing such packaging on the market for the first time and not to interveners downstream. Moreover, that charge applies only in so far as the minimum recovery targets for energy recovery and recovery by recycling of waste are not observed.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8602">
+          <num>30</num>
+          <content eId="para_8602__content">
+            <p>It follows from the foregoing that a contribution such as that at issue in the main proceedings complies with both the objectives of Directive 94/62 and the polluter-pays' principle within the meaning of Article 15 of that Directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8603">
+          <num>31</num>
+          <content eId="para_8603__content">
+            <p>Such a conclusion cannot be called into question by the argument put forward by Cali Esprou before the national court, that an economic operator which does not make any alteration to the packaging of products imported and placed on the Romanian market is not a `polluter' within the meaning of the `polluter-pays' principle.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8604">
+          <num>32</num>
+          <content eId="para_8604__content">
+            <p>Indeed, as is apparent from paragraph 22 of this judgment, the `polluter-pays' principle has a scope which extends to importers and distributors of packaged products and is not restricted to those who make an alteration to the packaging of the products at issue. Importers and distributors, irrespective of whether or not they make any alteration to the packaging, have contributed to the placing of waste, in the form of packaging, on the national market.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8605">
+          <num>33</num>
+          <content eId="para_8605__content">
+            <p>That conclusion is confirmed by a systematic reading of Directive 94/62. An economic operator, such as that at cause in the main proceedings, which does not make any alteration to the packaging of products imported and placed on the Romanian market is covered by that directive which, in Article 3, point 11, defines `economic actors' broadly, including in particular `importers, traders and distributors'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8606">
+          <num>34</num>
+          <content eId="para_8606__content">
+            <p>It is therefore permissible for a Member State, without, however, disregarding the `polluter-pays' principle enshrined in Article 15 of Directive 94/62, to require economic actors which do not make any alteration to packaging they place on the national market to pay a contribution, as described in paragraph 26 of this judgment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8607">
+          <num>35</num>
+          <content eId="para_8607__content">
+            <p>It is appropriate to add that the Court has held that Article 15 of Directive 94/62 does not carry out an exhaustive harmonisation of the national measures in the fields covered by that directive, as recalled in paragraph 20 of this judgment, but authorises the Council to adopt economic instruments to promote the implementation of the objectives set by that directive or, in the absence of such measures, authorises the Member States, acting `in accordance with the obligations arising out of the Treaty', to adopt measures to implement those objectives. Thus, that provision also requires the application of the relevant provisions of the FEU Treaty (judgment of 12 November 2015, Visnapuu, C‑198/14, EU:C:2015:751, paragraph 47).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8608">
+          <num>36</num>
+          <content eId="para_8608__content">
+            <p>In this respect, it is apparent from Article 110 TFEU, on the one hand, that no Member State is to impose on the products of other Member States any internal taxation in excess of that imposed on similar domestic products and, on the other, that no Member State is to impose on the products of other Member States any internal taxation of such a nature as to afford indirect protection to other products.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8609">
+          <num>37</num>
+          <content eId="para_8609__content">
+            <p>The Court has held on a number of occasions that a pecuniary charge constitutes internal taxation within the meaning of Article 110 TFEU if it relates to a general system of internal dues applied systematically to categories of products in accordance with objective criteria irrespective of the origin or destination of the products (see, inter alia, judgments of 8 June 2006, Koornstra, C‑517/04, EU:C:2006:375, paragraph 16, and of 8 November 2007, Stadtgemeinde Frohnleiten and Gemeindebetriebe Frohnleiten, C‑221/06, EU:C:2007:657, paragraph 31).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8610">
+          <num>38</num>
+          <content eId="para_8610__content">
+            <p>In addition, waste is to be regarded as products within the meaning of Article 110 TFEU (see, to that effect, judgment of 9 July 1992, Commission v Belgium, C‑2/90, EU:C:1992:310, paragraphs 25 to 28).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8611">
+          <num>39</num>
+          <content eId="para_8611__content">
+            <p>In the light of the foregoing and the description of the contribution at issue in the main proceedings set out in paragraph 26 of the present judgment, it must be held that that contribution is a pecuniary charge relating to a general system of internal dues applied systematically to a category of products, namely the quantities of packaging waste exceeding the minimum recovery or incineration targets and which have not been effectively recovered or incinerated in waste incineration plants with energy recovery and recovered by recycling.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8612">
+          <num>40</num>
+          <content eId="para_8612__content">
+            <p>It follows that the contribution at issue in the main proceedings constitutes internal taxation within the meaning of Article 110 TFEU.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8613">
+          <num>41</num>
+          <content eId="para_8613__content">
+            <p>It is settled case-law that an infringement of Article 110 TFEU occurs when the tax on the imported product and the tax on the similar domestic product are calculated in a different way and under different conditions so that the imported product, even if only in certain cases, is more heavily taxed (judgments of 12 November 2015, Visnapuu, C‑198/14, EU:C:2015:751, paragraph 59, and of 16 June 2016, Commission v Portugal, C‑200/15, not published, EU:C:2016:453, paragraph 24).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8614">
+          <num>42</num>
+          <content eId="para_8614__content">
+            <p>However, it is apparent from the order for reference that the contribution at issue in the main proceedings is charged on packaging waste in accordance with objective criteria applied irrespective of the origin or destination of the packaging. That contribution is payable by economic operators which place packaged products on the national market, regardless of their origin. Furthermore, the order for reference does not provide any information to show that the contribution is also liable to be more onerous as regards packaging waste of imported products than as regards packaging waste of domestic products.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8615">
+          <num>43</num>
+          <content eId="para_8615__content">
+            <p>It follows from all of the foregoing that Article 15 of Directive 94/62 and the `polluter-pays' principle which it implements do not preclude national legislation, such as that at issue in the main proceedings, which imposes a contribution on an economic operator which does not make any alteration to the packaging it places on the market, calculated on the basis of the difference in weight between, on the one hand, the quantity of packaging waste corresponding to the minimum targets for energy recovery and recovery by recycling and, on the other, the quantity of packaging waste actually recovered or recycled.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_8616">
+          <num>44</num>
+          <content eId="para_8616__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Ninth Chamber) hereby rules: Article 15 of European Parliament and Council Directive 94/62/EC of 20 December 1994 on packaging and packaging waste and the `polluter-pays' principle which it implements do not preclude national legislation, such as that at issue in the main proceedings, which imposes a contribution on an economic operator which does not make any alteration to the packaging which it places on the market, calculated on the basis of the difference in weight between, on the one hand, the quantity of packaging waste corresponding to the minimum targets for energy recovery and recovery by recycling and the quantity of packaging waste actually recovered or recycled.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Romanian.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

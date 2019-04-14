@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Tenth Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>22 February 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Common Customs Tariff -- Classification of goods -- Harmonised European standard EN 590:2013 -- Subheading 2710 19 43 of the Combined Nomenclature -- Relevant criteria for the classification of goods as gas oil) In Case C‑185/17 REQUEST for a preliminary ruling under Article 267 TFEU from the Administrativen sad -- Varna (Varna Administrative Court, Bulgaria), made by decision of 30 March 2017, received at the Court on 10 April 2017, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">Mitnitsa Varna</party>
+      </p>
+      <p>v SAKSA ООD, other party in the proceedings: Okrazhna prokuratura -- Varna, THE COURT (Tenth Chamber), composed of E. Levits, President of the Chamber, M. Berger (Rapporteur) and F. Biltgen, Judges, Advocate General: Y. Bot, Registrar: A. Calot Escobar, having regard to the written procedure, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>Mitnitsa Varna, by G. Kostov, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>SAKSA ООD, by S. Zhelyazkova, адвокат,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Bulgarian Government, by E. Petranova and L. Zaharieva, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by A. Caeiros, Y.G. Marinova and P. Mihaylova, acting as Agents, having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_6523">
+          <num>1</num>
+          <content eId="para_6523__content">
+            <p>This request for a preliminary ruling concerns the interpretation of note g to Table 3 of harmonised standard EN 590, in the version dated September 2013, entitled `Automotive fuels -- Diesel -- Requirements and test methods' ( `standard EN 590:2013') and additional note 2(d) and</p>
+            <blockList>
+              <item>
+                <num>(e)</num>
+                <p>to Chapter 27 of the Combined Nomenclature set out in Annex I to Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff ( OJ 1987 L 256, p. 1), in the version resulting from Commission Implementing Regulation (EU) No 1101/2014 of 16 October 2014 ( OJ 2014 L 312, p. 1) ( `the CN').</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6524">
+          <num>2</num>
+          <content eId="para_6524__content">
+            <p>The request has been made in proceedings between Mitnitsa Varna (Varna Customs Office, Bulgaria) and SAKSA OOD concerning the tariff classification of a mineral oil in the CN declared by that company.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <tblock>
+          <p>The CN</p>
+        </tblock>
+        <paragraph eId="para_6525">
+          <num>3</num>
+          <content eId="para_6525__content">
+            <p>The CN, introduced by Regulation No 2658/87, is based on the Harmonised Commodity Description and Coding System, drawn up by the Customs Cooperation Council, now the World Customs Organisation (WCO), and established by the International Convention on the Harmonised Commodity Description and Coding System, concluded in Brussels on 14 June 1983. That convention, and the protocol of amendment thereto of 24 June 1986, was approved on behalf of the European Economic Community by Council Decision 87/369/EEC of 7 April 1987 ( OJ 1987 L 198, p. 1).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6526">
+          <num>4</num>
+          <content eId="para_6526__content">
+            <p>The general rules for the interpretation of the CN, set out in Part One, Section I, A, state inter alia: `Classification of goods in the Combined Nomenclature shall be governed by the following principles: 1. The titles of sections, chapters and sub-chapters are provided for ease of reference only; for legal purposes, classification shall be determined according to the terms of the headings and any relative section or chapter notes and, provided such headings or notes do not otherwise require, according to the following provisions. ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6527">
+          <num>5</num>
+          <content eId="para_6527__content">
+            <p>Part II of the CN, entitled `Schedule of customs duties', contains a Section V, which, inter alia, contains Chapter 27, entitled `Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6528">
+          <num>6</num>
+          <content eId="para_6528__content">
+            <p>Chapter 27 of the CN includes heading 2710, which is worded as follows: `2710 Petroleum oils and oils obtained from bituminous minerals, other than crude ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6529">
+          <num>7</num>
+          <content eId="para_6529__content">
+            <p>Chapter 27 also includes the following subheadings: `2710 12 -- -- Light oils and preparations: ... ... 2710 19 -- -- Other: -- -- -- Medium oils: ... ... -- -- -- -- For other purposes: -- -- -- -- -- Kerosene: 2710 19 21 -- -- -- -- -- -- Jet fuel 2710 19 25 -- -- -- -- -- -- Other ... ... -- -- -- Heavy oils: -- -- -- -- Gas oils: ... ... -- -- -- -- -- For other purposes: 2710 19 43 -- -- -- -- -- -- With a sulphur content not exceeding 0,001% by weight'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6530">
+          <num>8</num>
+          <content eId="para_6530__content">
+            <p>Additional note 2 to Chapter 27 of the CN states: `For the purposes of heading 2710: ...</p>
+            <blockList>
+              <item>
+                <num>(c)</num>
+                <p>``medium oils '' (subheadings 2710 19 11 to 2710 19 29) mean oils and preparations of which less than 90% by volume (including losses) distils at 210 °C and 65% or more by volume (including losses) distils at 250 °C by the ISO 3405 method (equivalent to the ASTM D 86 method);</p>
+              </item>
+              <item>
+                <num>(d)</num>
+                <p>``heavy oils '' (subheadings 2710 19 31 to 2710 19 99 and 2710 20 11 to 2710 20 90) mean oils and preparations of which less than 65% by volume (including losses) distils at 250 °C by the ISO 3405 method (equivalent to the ASTM D 86 method) or of which the distillation percentage at 250 °C cannot be determined by that method;</p>
+              </item>
+              <item>
+                <num>(e)</num>
+                <p>``gas oils '' (subheadings 2710 19 31 to 2710 19 48 and 2710 20 11 to 2710 20 19) mean heavy oils as defined in paragraph (d) above of which 85% or more by volume (including losses) distils at 350 °C by the ISO 3405 method (equivalent to the ASTM D 86 method); ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Directive 98/70</p>
+        </tblock>
+        <paragraph eId="para_6531">
+          <num>9</num>
+          <content eId="para_6531__content">
+            <p>Article 1 of Directive 98/70/EC of the European Parliament and of the Council of 13 October 1998 relating to the quality of petrol and diesel fuels and amending Council Directive 93/12/EEC ( OJ 1998, L 350, p. 58), as amended by Commission Directive 2014/77/EU of 10 June 2014 ( OJ 2014, L 170, p. 62) ( `Directive 98/70'), entitled `Scope', provides as follows: `This Directive sets, in respect of road vehicles ...:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>technical specifications on health and environmental grounds for fuels to be used with positive ignition and compression-ignition engines, taking account of the technical requirements of those engines; and</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>a target for the reduction of life cycle greenhouse gas emissions.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6532">
+          <num>10</num>
+          <content eId="para_6532__content">
+            <p>Article 4 of that directive, entitled `Diesel fuel' provides as follows: `1.   Member States shall ensure that diesel fuel may be placed on the market in their territory only if it complies with the specifications set out in Annex II. ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6533">
+          <num>11</num>
+          <content eId="para_6533__content">
+            <p>Annex II to that directive sets out environmental specifications for market fuels to be used for vehicles equipped with compression ignition engines. Footnote 1 to that annex states as follows: `Test methods shall be those specified in EN 590:2013. Member States may adopt the analytical method specified in replacement EN 590:2013 standard if it can be shown to give at least the same accuracy and at least the same level of precision as the analytical method it replaces.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Standard EN 590:2013</p>
+        </tblock>
+        <paragraph eId="para_6534">
+          <num>12</num>
+          <content eId="para_6534__content">
+            <p>Standard EN 590:2013 was drawn up by the Technical Committee CEN/TC 19 `Gaseous and liquid fuels, lubricants and related products of petroleum, synthetic and biological origin' and approved by the European Committee for Standardisation (CEN), on 26 July 2013, in accordance with a European Commission mandate, issued on 13 November 2006 (M 394 -- Mandate to CEN on the revision of EN 590 to increase the concentration of FAME and FAEE to 10% v/v).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6535">
+          <num>13</num>
+          <content eId="para_6535__content">
+            <p>The foreword to that standard states: `This European standard shall be given the status of a national standard ..., and conflicting national standards shall be withdrawn at the latest by March 2014. ... This document has been prepared under a mandate given to CEN by the European Commission and the European Free Trade Association ... The requirements of [Directive 98/70] ... , including amendments ... , have been included . ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6536">
+          <num>14</num>
+          <content eId="para_6536__content">
+            <p>Point 1 of that standard states as follows: `This European standard specifies requirements and test methods for marketed and delivered automotive diesel fuel.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6537">
+          <num>15</num>
+          <content eId="para_6537__content">
+            <p>Point 5.6.1 of standard EN 590:2013 is worded as follows: `For climate-dependent requirements, options are given to allow for seasonal grades to be set nationally. The options are for temperate climates six CFPP (cold filter plugging point) grades and for arctic or severe winter climates five different classes. Climate-dependent requirements are given in Table 2 (temperate climates) and Table 3 (arctic or severe winter climates). When tested by the methods given in Table 2 and Table 3, automotive diesel fuel shall be in accordance with the limits specified in these tables.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6538">
+          <num>16</num>
+          <content eId="para_6538__content">
+            <p>Table 3 of that standard, entitled `Climate-related requirements and test methods -- Arctic or severe winter climates' contains the following: `Property Units Limits Test method class 0 class 1 class 2 class 3 class 4 ... Distillation</p>
+            <blockList>
+              <item>
+                <num>( g)</num>
+                <p>,</p>
+              </item>
+              <item>
+                <num>( h)</num>
+                <p>EN ISO 3405 ( i) EN ISO 3924 recovered at 180 °C % ( V/V) max. 10,0 10,0 10,0 10,0 10,0 recovered at 340 °C % ( V/V) min. 95,0 95,0 95,0 95,0 95,0 ...</p>
+              </item>
+              <item>
+                <num>(g)</num>
+                <p>EU Common Customs Tariff definition of gas oil may not apply to the grades defined for use in arctic or severe winter climates. ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Bulgarian law</p>
+        </tblock>
+        <tblock>
+          <p>The Customs Code</p>
+        </tblock>
+        <paragraph eId="para_6539">
+          <num>17</num>
+          <content eId="para_6539__content">
+            <p>Under Article 234(1)(1) of the Zakon za mitnitsite (Customs Code), in the version applicable in the present case, anyone who evades or attempts to evade full or partial payment of customs duties commits customs fraud.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6540">
+          <num>18</num>
+          <content eId="para_6540__content">
+            <p>It follows from Article 234(3)(1) of that code that customs fraud concerning goods in respect of which excise duty is payable is punishable, for individuals, by a fine equivalent to 150% to 250% of the amount of the unpaid duties.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Standard BDS EN 590:2014</p>
+        </tblock>
+        <paragraph eId="para_6541">
+          <num>19</num>
+          <content eId="para_6541__content">
+            <p>Standard EN 590:2013 was transposed in Bulgaria by the Bulgarian Institute for Standardisation by means of standard BDS EN 590:2014.</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_6542">
+          <num>20</num>
+          <content eId="para_6542__content">
+            <p>On 10 August 2015, the oil tanker Cosmo arrived in the port of Varna, carrying in total 4384630 gross kg in vacuum storage of mineral oil. SAKSA was identified as the recipient of the goods and declared them under the description `10 PPM hydrotreated gas oil with up to 0.001% sulphur for arctic climate zones, Class 4 under standard EN 590, 1236742 kg under vacuum conditions, 1235100 kg in air,1517660 litres, density at 15 °C -- 816.1 kg/m</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6543">
+          <num>3</num>
+          <content eId="para_6543__content">
+            <p>in 24 railway tank wagons in accordance with the attached inventory' was declared at the customs office of the port of Varna under tariff subheading 2710 19 43 of the CN in order to obtain their release for free circulation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6544">
+          <num>21</num>
+          <content eId="para_6544__content">
+            <p>By letter of 11 August 2015, the Varna Customs Office sent two samples of the goods declared to the regional customs laboratory in Ruse (Bulgaria) for analysis, in order to have their nature established and the tariff classification determined. That laboratory considered that the sample studied was made up of petroleum oil, to which paraffin and naphthenic hydrocarbons had been added. The distillation characteristics and other defined indicators showed that that sample possessed the characteristics of `medium oils', in accordance with additional note 2(c) to Chapter 27 of the CN. On the basis of the results obtained, the sample was considered a processed petroleum product, more specifically kerosene.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6545">
+          <num>22</num>
+          <content eId="para_6545__content">
+            <p>Given that the goods in question were not sold for reaction engines, the customs office considered that they ought to have been classified under a different tariff code from that declared on 10 August 2015, that is to say, that they ought to have been registered under CN subheading 2710 19 25, subject to customs duties of 4.7% in respect of third countries. Consequently, the head of the Varna Customs Office, by decision of 3 November 2015, corrected the tariff code and imposed an additional payment of customs duties, in the amount of 53864.18 Bulgarian leva (BGN) (approximately EUR 27560) and value added tax in the amount of BGN 10772.83 (approximately EUR 5500).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6546">
+          <num>23</num>
+          <content eId="para_6546__content">
+            <p>Moreover, the customs office considered that SAKSA should be held liable for an administrative criminal offence, within the meaning of Article 234(1)(1) of the Customs Code. Consequently, on 18 February 2016, the head of the Varna Customs Office imposed a fine on SAKSA in the amount of BGN 96955.52 (approximately EUR 49600) on the basis of Article 234(3)(1) of the Customs Code, read in conjunction with Article 234(1)(1) of that code.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6547">
+          <num>24</num>
+          <content eId="para_6547__content">
+            <p>SAKSA brought an action against that penalty before the Varnenski Rayonen sad (Varna District Court, Bulgaria). By decision of 20 October 2016, that court annulled the fine, having found, on the basis of a chemical report ordered at SAKSA's request, that the mineral oil at issue corresponded to the definition of a fuel for diesel engines, intended for arctic climates or severe winter conditions, Class 4, whose characteristics are determined by standard `EN 590:2014'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6548">
+          <num>25</num>
+          <content eId="para_6548__content">
+            <p>The customs office brought an appeal on a point of law against that decision before the Administrativen sad Varna (Varna Administrative Court, Bulgaria). It claims that standard EN 590, relied upon by SAKSA, which lays down requirements and test methods for marketed automotive diesel fuel, is not decisive for the purposes of establishing the tariff classification of fuels.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6549">
+          <num>26</num>
+          <content eId="para_6549__content">
+            <p>According to the Administrativen sad Varna (Varna Administrative Court), it appears necessary to interpret the note set out in standard EN 590 which states that the `EU Common Customs Tariff definition of gas oil may not apply to the grades defined for use in arctic or severe winter climates'. The definition which must be used as regards that fuel is not clear from that note and does not make it possible to determine the discretion of the customs office which is competent in that regard. Moreover, the link between the requirements and test methods of that standard, on the one hand, and the tariff classification of fuels, on the other, is not indicated.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6550">
+          <num>27</num>
+          <content eId="para_6550__content">
+            <p>It was in those circumstances that the Administrativen sad Varna (Varna Administrative Court) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Does the rule provided for in the explanatory notes in Table 3 of standard EN 590 (now EN 590:2014), which states that the ``EU Common Customs Tariff definition of gas oil may not apply to the grades defined for use in arctic or severe winter climates '', mean that, for that type of fuel, it is possible that the general rules contained in additional note 2(d) and</p>
+              </item>
+              <item>
+                <num>(e)</num>
+                <p>to Chapter 27 [of the CN] do not apply for the purposes of tariff classification of the goods?</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>If the answer to the first question is in the affirmative, and if it is established that the goods in respect of which customs duties arise correspond to the definition of diesel for use in ``arctic or severe winter climates '' in accordance with the criteria set out in Standard EN 590, must that fuel be classified under tariff subheading 2710 19 43 of the CN, which corresponds to ``gas oils '', or must the general rules contained in additional note 2(d) and</p>
+              </item>
+              <item>
+                <num>(e)</num>
+                <p>to Chapter 27 [of the CN] apply?</p>
+                <blockList>
+                  <item>
+                    <num>(3)</num>
+                    <p>If the answer to the first question is in the affirmative, what are the criteria to be used to determine when the definition of gas oil under the Customs Tariff of the European Union should apply and when it is necessary to use the requirements and test methods in accordance with standard EN 590, for the purposes of the tariff classification of the goods?</p>
+                  </item>
+                  <item>
+                    <num>(4)</num>
+                    <p>Are the methods and analysis indicators set out in additional note 2(d) and</p>
+                  </item>
+                </blockList>
+              </item>
+              <item>
+                <num>(e)</num>
+                <p>to Chapter 27 [of the CN] sufficient in order to characterise a product fully and accurately as a ``gas oil '', or is it necessary to take into consideration all of the product's characteristic chemical indicators?'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the questions referred</p>
+        </tblock>
+        <paragraph eId="para_6551">
+          <num>28</num>
+          <content eId="para_6551__content">
+            <p>It should be observed as a preliminary point that, according to the Court's settled case-law, in the procedure laid down by Article 267 TFEU, providing for cooperation between national courts and the Court of Justice, it is for the latter to provide the national court with an answer which will be of use to it and enable it to determine the case before it. With this in mind, the Court may have to reformulate the questions referred to it (judgment of 16 February 2017, Aramex Nederland, C‑145/16, EU:C:2017:130, paragraph 19 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6552">
+          <num>29</num>
+          <content eId="para_6552__content">
+            <p>Furthermore, it must be specified that, while the referring court refers to standard `EN 590:2014', the version of standard EN 590 applicable at the time of the facts in the main proceedings is that of the month of September 2013, which was designated by the CEN as standard EN 590:2013 and remains in force.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6553">
+          <num>30</num>
+          <content eId="para_6553__content">
+            <p>By its questions, which should be examined together, the referring court asks, in essence, whether the CN must be interpreted as meaning that a mineral oil, such as that at issue in the main proceedings, may be classified as gas oil under subheading 2710 19 43, when it meets the requirements laid down in standard EN 590:2013 relating to gas oil for arctic or severe winter climates.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6554">
+          <num>31</num>
+          <content eId="para_6554__content">
+            <p>According to the settled case-law of the Court, the decisive criterion for the classification of goods for customs purposes is in general to be sought in their objective characteristics and properties as defined in the wording of the relevant heading of the CN and of the notes to the section or chapter (judgment of 19 October 2017, Lutz, C‑556/16, EU:C:2017:777, paragraph 37 and the case-law cited). The objective characteristics and properties of products must be capable of being assessed at the time of customs clearance (judgment of 26 May 2016, Latvijas propāna gāze, C‑286/15, EU:C:2016:363, paragraph 33 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6555">
+          <num>32</num>
+          <content eId="para_6555__content">
+            <p>In the present case, it should be noted that CN subheading 2710 19 43, the wording of which refers to gas oils with a sulphur content not exceeding 0.001% by weight comes under CN heading 2710, which concerns petroleum oils and oils obtained from bituminous minerals, other than crude. For the purposes of that heading, additional note 2 to Chapter 27 of the CN defines the concept of `gas oils' in point (e) thereof.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6556">
+          <num>33</num>
+          <content eId="para_6556__content">
+            <p>In that regard, it follows from the wording of point (e), read in combination with point (d) of that additional note, that, inter alia, oils and preparations of which less than 65% by volume (including losses) distils at 250 °C and 85% or more at 350 °C, by the ISO 3405 method, are considered to be `gas oils'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6557">
+          <num>34</num>
+          <content eId="para_6557__content">
+            <p>Accordingly, it is clear from the wording of those points that, for the purpose of the tariff classification of a product as gas oil, the only determining factor in the context of CN heading 2710 is the distillation rate at the temperatures indicated, by the ISO 3405 method.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6558">
+          <num>35</num>
+          <content eId="para_6558__content">
+            <p>Consequently, since, in the present case, the parties to the main proceedings do not dispute that more than 65% of the mineral oil in question distils, by the ISO 3405 method, at 250 °Celsius, it does not fall within the definition of `gas oils' in accordance with additional note 2(e) to Chapter 27 of the CN and cannot be classified under the subheadings relating to products which fall within the scope of that definition.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6559">
+          <num>36</num>
+          <content eId="para_6559__content">
+            <p>Furthermore, while SAKSA claims that the product in question was sold, after being imported, as gas oil (diesel fuel), it should be noted that the intended use of a product is a relevant criterion only if the classification cannot be made on the sole basis of the objective characteristics and properties of the product (judgment of 16 February 2017, Aramex Nederland, C‑145/16, EU:C:2017:130, paragraph 23 and the case-law cited). That is not the case here, for it is clear from the distillation characteristics of that product that it does not, for the purposes of CN heading 2710, fall within the definition of gas oils, within the meaning of additional note 2(e).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6560">
+          <num>37</num>
+          <content eId="para_6560__content">
+            <p>The fact that SAKSA referred to note g to Table 3 of standard EN 590:2013, to the effect that the definition of gas oil given in the CN `may not apply to the grades defined for use in arctic or severe winter climates', is irrelevant in that regard.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6561">
+          <num>38</num>
+          <content eId="para_6561__content">
+            <p>Standard EN 590:2013 was adopted not by an EU body, but by the CEN, an organisation governed by private law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6562">
+          <num>39</num>
+          <content eId="para_6562__content">
+            <p>It is true that it may be inferred from the case-law of the Court that a harmonised standard, drawn up by an organisation governed by private law, may be considered to be part of the EU legal order when that standard was conceived, managed and monitored by the Commission and when it produces binding legal effects following publication of its references in the Official Journal of the European Union(see, to that effect, judgment of 27 October 2016, James Elliott Construction, C‑613/14, EU:C:2016:821, paragraphs 40, 43 and 44).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6563">
+          <num>40</num>
+          <content eId="para_6563__content">
+            <p>Moreover, it is true that standard EN 590:2013 was drawn up by the CEN on the basis of mandate M 394 issued by the Commission on 13 November 2006. In addition, after CEN established that standard, the Commission, by Directive 2014/77, updated the reference to that standard in footnote 1 to Annex II to Directive 98/70</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6564">
+          <num>41</num>
+          <content eId="para_6564__content">
+            <p>However, it suffices to note that the reference to standard EN 590:2013, in accordance with footnote 1 to Annex II to Directive 98/70, relates solely to the test methods referred to in that standard.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6565">
+          <num>42</num>
+          <content eId="para_6565__content">
+            <p>Since note g to Table 3 of standard EN 590:2013 contains no test method, it cannot be considered to form part of EU law and is irrelevant for the purposes of establishing the tariff classification of goods.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6566">
+          <num>43</num>
+          <content eId="para_6566__content">
+            <p>In the light of the foregoing considerations, the answer to the questions submitted is that the CN must be interpreted as meaning that a mineral oil, such as that at issue in the main proceedings, may not, on account of its distillation characteristics, be classified as gas oil under subheading 2710 19 43, even when it meets the requirements laid down in standard EN 590:2013 relating to gas oil for arctic or severe winter climates.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_6567">
+          <num>44</num>
+          <content eId="para_6567__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Tenth Chamber) hereby rules: The Combined Nomenclature contained in Annex I to Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff, in the version resulting from Commission Implementing Regulation (EU) No 1101/2014 of 16 October 2014 must be interpreted as meaning that a mineral oil, such as that at issue in the main proceedings, may not, on account of its distillation characteristics, be classified as gas oil under subheading 2710 19 43 of that nomenclature, even when that oil meets the requirements referred to in harmonised standard EN 590:2013, in the version of the month of September 2013, relating to gas oil for arctic or severe winter climates.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Bulgarian.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

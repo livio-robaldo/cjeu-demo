@@ -1,0 +1,831 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+      <references source="#source">
+        <TLCOrganization eId="company_55" showAs="" href="/akn/ontology/Organization/Company/company_55" />
+      </references>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (First Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>7 February 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Directive (EU) 2015/2366 -- Payment services in the internal market -- Article 35(1) -- Obligation to provide authorised or registered payment service providers with access to payment systems -- Point (b) of the first subparagraph of Article 35(2) -- Inapplicability of that obligation to payment systems composed exclusively of payment service providers belonging to a group -- Applicability of that obligation to three party payment card schemes that have entered into co-branding or agency arrangements -- Validity) In Case C‑643/16, REQUEST for a preliminary ruling under Article 267 TFEU from the High Court of Justice (England &amp; Wales), Queen's Bench Division (Administrative Court) (United Kingdom), made by decision of 19 October 2016, received at the Court on 12 December 2016, in the proceedings The Queen, on the application of:</p>
+      <p>
+        <party as="appellant" refersTo="#">American Express Company</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#">The Lords Commissioners of Her Majesty's Treasury</party>
+      </p>
+      <p>, intervening parties:</p>
+      <p>
+        <party as="intervening" refersTo="#">Diners Club International Limited</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="intervening" refersTo="#company_55">MasterCard Europe SA</party>
+      </p>
+      <p>, THE COURT (First Chamber), composed of R. Silva de Lapuerta, President of the Chamber, C.G. Fernlund, J.C. Bonichot, S. Rodin and E. Regan (Rapporteur), Judges, Advocate General: M. Campos Sánchez-Bordona, Registrar: A. Calot Escobar, having regard to the written procedure, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>American Express Company, by J. Turner QC, J. Holmes QC and L. John, Barrister, and by I. Taylor and H. Ware, Solicitors,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>MasterCard Europe SA, by P. Harrison and S. Kinsella, Solicitors, and by S. Pitt and J. Bedford, advocates,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the United Kingdom Government, by D. Robertson, acting as Agent, and by G. Facenna QC,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Parliament, by R. van de Westelaken and A. Tamás, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Council of the European Union, by J. Bauerschmidt, I. Gurov and by E. Moro, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by H. Tserepa-Lacombe and J. Samnadda, acting as Agents, having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_19131">
+          <num>1</num>
+          <content eId="para_19131__content">
+            <p>This request for a preliminary ruling concerns the interpretation and validity of Article 35 of Directive (EU) 2015/2366 of the European Parliament and of the Council of 25 November 2015 on payment services in the internal market, amending Directives 2002/65/EC, 2009/110/EC and 2013/36/EU and Regulation (EU) No 1093/2010, and repealing Directive 2007/64/EC ( OJ 2015 L 337, p. 35).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19132">
+          <num>2</num>
+          <content eId="para_19132__content">
+            <p>The request has been made in proceedings between American Express Company and the Lords Commissioners of Her Majesty's Treasury ( `the national authority'), on the conditions for the application to three party payment card schemes of the rules governing the access of authorised or registered payment service providers to payment systems.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>Regulation (EU) 2015/751</p>
+        </tblock>
+        <paragraph eId="para_19133">
+          <num>3</num>
+          <content eId="para_19133__content">
+            <p>Article 2 of Regulation (EU) 2015/751 of the European Parliament and of the Council of 29 April 2015 on interchange fees for card-based payment transactions ( OJ 2015 L 123, p. 1), headed `Definitions', provides: `For the purposes of this Regulation, the following definitions shall apply:...</p>
+            <blockList>
+              <item>
+                <num>(17)</num>
+                <p>``four party payment card scheme '' means a payment card scheme in which card-based payment transactions are made from the payment account of a payer to the payment account of a payee through the intermediation of the scheme, an issuer (on the payer's side) and an acquirer (on the payee's side);...</p>
+              </item>
+              <item>
+                <num>(30)</num>
+                <p>``payment brand '' means any material or digital name, term, sign, symbol or combination of them, capable of denoting under which payment card scheme card-based payment transactions are carried out;...</p>
+              </item>
+              <item>
+                <num>(32)</num>
+                <p>``co-branding '' means the inclusion of at least one payment brand and at least one non-payment brand on the same card-based payment instrument;...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Directive 2015/2366</p>
+        </tblock>
+        <paragraph eId="para_19134">
+          <num>4</num>
+          <content eId="para_19134__content">
+            <p>Recitals 2, 6, 49, 50 and 52 of Directive 2015/2366 are worded as follows: `</p>
+            <blockList>
+              <item>
+                <num>(2)</num>
+                <p>The revised Union legal framework on payment services is complemented by [Regulation 2015/751] ......</p>
+              </item>
+              <item>
+                <num>(6)</num>
+                <p>New rules should be established to close the regulatory gaps while at the same time providing more legal clarity and ensuring consistent application of the legislative framework across the Union. ......</p>
+                <blockList>
+                  <item>
+                    <num>(49)</num>
+                    <p>It is essential for any payment service provider to be able to access the services of technical infrastructures of payment systems. Such access should, however, be subject to appropriate requirements in order to ensure integrity and stability of those systems. Each payment service provider applying for a participation in a payment system should furnish proof to the participants of the payment system that its internal arrangements are sufficiently robust against all kinds of risk. These payment systems typically include e.g. the four-party card schemes as well as major systems processing credit transfers and direct debits. In order to ensure equality of treatment throughout the Union as between the different categories of authorised payment service providers, according to the terms of their licence, it is necessary to clarify the rules concerning access to payment systems.</p>
+                  </item>
+                  <item>
+                    <num>(50)</num>
+                    <p>Provision should be made for the non-discriminatory treatment of authorised payment institutions and credit institutions so that any payment service provider competing in the internal market is able to use the services of the technical infrastructures of these payment systems under the same conditions. It is appropriate to provide for different treatment for authorised payment service providers and for those benefiting from an exemption under this Directive as well as from the exemption under Article 3 of [Directive 2009/110/EC of the European Parliament and of the Council of 16 September 2009 on the taking up, pursuit and prudential supervision of the business of electronic money institutions amending Directives 2005/60/EC and 2006/48/EC and repealing Directive 2000/46/EC ( OJ 2009 L 267, p. 7)], due to the differences in their respective prudential framework. In any case, differences in price conditions should be allowed only where that is motivated by differences in costs incurred by the payment service providers. ......</p>
+                  </item>
+                </blockList>
+              </item>
+              <item>
+                <num>(52)</num>
+                <p>the provisions relating to access to payment systems should not apply to systems set up and operated by a single payment service provider. Such payment systems can operate either in direct competition to payment systems, or, more typically, in a market niche not adequately covered by payment systems. Such systems include three-party schemes, such as three-party card schemes, to the extent that they never operate as de facto four-party card schemes, for example by relying upon licensees, agents or co-brand partners. Such systems also typically include payment services offered by telecommunication providers where the scheme operator is the payment service provider both to the payer and to the payee, as well as internal systems of banking groups. In order to stimulate the competition that can be provided by such closed payment systems to established mainstream payment systems, it would not be appropriate to grant third parties access to those closed proprietary payment systems. ...</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19135">
+          <num>5</num>
+          <content eId="para_19135__content">
+            <p>Article 1(1) of Directive 2015/2366, that article being headed `Subject matter', and being within Title I of the directive, headed `Subject matter, scope and definitions', provides: `This Directive establishes the rules in accordance with which Member States shall distinguish between the following categories of payment service provider:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>credit institutions as defined in point (1) of Article 4(1) of [Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 ( OJ 2013 L 176, p. 1)], including branches thereof within the meaning of point (17) of Article 4(1) of that Regulation where such branches are located in the Union, whether the head offices of those branches are located within the Union or, in accordance with Article 47 of [Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC ( OJ 2013 L 176, p. 338)] and with national law, outside the Union;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>electronic money institutions within the meaning of point (1) of Article 2 of [Directive 2009/110], including, in accordance with Article 8 of that Directive and with national law, branches thereof, where such branches are located within the Union and their head offices are located outside the Union, in as far as the payment services provided by those branches are linked to the issuance of electronic money</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>post office giro institutions which are entitled under national law to provide payment services;</p>
+              </item>
+              <item>
+                <num>(d)</num>
+                <p>payment institutions;</p>
+              </item>
+              <item>
+                <num>(e)</num>
+                <p>the [European Central Bank (ECB)] and national central banks when not acting in their capacity as monetary authority or other public authorities;</p>
+              </item>
+              <item>
+                <num>(f)</num>
+                <p>Member States or their regional or local authorities when not acting in their capacity as public authorities.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19136">
+          <num>6</num>
+          <content eId="para_19136__content">
+            <p>Article 4 of Directive 2015/2366, headed `Definitions', provides: `For the purposes of this Directive, the following definitions apply:...</p>
+            <blockList>
+              <item>
+                <num>(3)</num>
+                <p>``payment service '' means any business activity set out in Annex I;</p>
+              </item>
+              <item>
+                <num>(4)</num>
+                <p>``payment institution '' means a legal person that has been granted authorisation in accordance with Article 11 to provide and execute payment services throughout the Union;...</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(7)</num>
+                <p>``payment system '' means a funds transfer system with formal and standardised arrangements and common rules for the processing, clearing and/or settlement of payment transactions;...</p>
+              </item>
+              <item>
+                <num>(11)</num>
+                <p>``payment service provider '' means a body referred to in Article 1(1) or a natural or legal person benefiting from an exemption pursuant to Article 32 or 33;...</p>
+              </item>
+              <item>
+                <num>(38)</num>
+                <p>``agent '' means a natural or legal person who acts on behalf of a payment institution in providing payment services;...</p>
+              </item>
+              <item>
+                <num>(40)</num>
+                <p>``group '' means a group of undertakings which are linked to each other by a relationship referred to in Article 22(1), (2) or (7) of [Directive 2013/34/EU of the European Parliament and of the Council of 26 June 2013 on the annual financial statements, consolidated financial statements and related reports of certain types of undertakings, amending Directive 2006/43/EC of the European Parliament and of the Council and repealing Council Directives 78/660/EEC and 83/349/EEC ( OJ 2013 L 182, p. 19)] or undertakings as defined in Articles 4, 5, 6 and 7 of [Commission Delegated Regulation (EU) No 241/2014 of 7 January 2014 supplementing Regulation No 575/2013 with regard to regulatory technical standards for Own Funds requirements for institutions ( OJ 2014 L 74, p. 8)] which are linked to each other by a relationship referred to in Article 10(1) or in Article 113(6) or (7) of [Regulation No 575/2013];...</p>
+              </item>
+              <item>
+                <num>(47)</num>
+                <p>``payment brand '' means any material or digital name, term, sign, symbol or combination of them, capable of denoting under which payment card scheme card-based payment transactions are carried out;...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19137">
+          <num>7</num>
+          <content eId="para_19137__content">
+            <p>Article 11 of Directive 2015/2366, headed `Granting of authorisation', is within Chapter 1, headed `Payment institutions', of Title II of Directive 2015/2366, itself headed `Payment service providers'. Article 11(1) provides: `Member States shall require undertakings other than those referred to in points (a), (b), (c), (e) and (f) of Article 1(1) and other than natural or legal persons benefiting from an exemption pursuant to Article 32 or 33, who intend to provide payment services, to obtain authorisation as a payment institution before commencing the provision of payment services. ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19138">
+          <num>8</num>
+          <content eId="para_19138__content">
+            <p>Article 35 of that directive, headed `Access to payment systems', is within Chapter 2 of Title II of that directive, that chapter being headed `Common provisions'. Article 35 provides: `1.   Member States shall ensure that the rules on access of authorised or registered payment service providers that are legal persons to payment systems shall be objective, non-discriminatory and proportionate and that those rules do not inhibit access more than is necessary to safeguard against specific risks such as settlement risk, operational risk and business risk and to protect the financial and operational stability of the payment system. Payment systems shall not impose on payment service providers, on payment service users or on other payment systems any of the following requirements:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>restrictive rule on effective participation in other payment systems;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>rule which discriminates between authorised payment service providers or between registered payment service providers in relation to the rights, obligations and entitlements of participants;</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>restriction on the basis of institutional status. 2.   Paragraph 1 shall not apply to:...</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(b)</num>
+                <p>payment systems composed exclusively of payment service providers belonging to a group....'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19139">
+          <num>9</num>
+          <content eId="para_19139__content">
+            <p>Annex I to Directive 2015/2366, headed `Payment services' lists the activities referred to in Article 4(3) of that directive that are accordingly to be deemed to be `payment services' for the purposes of that directive.</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_19140">
+          <num>10</num>
+          <content eId="para_19140__content">
+            <p>The order for reference indicates that American Express is an international services company, which, with the support of its subsidiaries, provides payment, travel, exchange and loyalty rewards platform services to consumers and to businesses. It also carries out activities relating to the issuing and acquisition of cards worldwide, including in the European Union. American Express operates, with its subsidiaries, the American Express payment cards scheme ( `Amex'), which is a three party payment card scheme. Amex has entered into co-branding and service provision arrangements within the European Union, which might mean, depending on the Court's answer to the question concerning the interpretation of point (b) of the first subparagraph of Article 35(2) of Directive 2015/2366, that Amex is subject to access obligations, laid down in Article 35(1) of that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19141">
+          <num>11</num>
+          <content eId="para_19141__content">
+            <p>The national authority has charge of Her Majesty's Treasury (United Kingdom). The latter has ultimate responsibility for fulfilling the obligations imposed on the United Kingdom of Great Britain and Northern Ireland with respect to applying, enforcing and otherwise giving effect to Directive 2015/2366.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19142">
+          <num>12</num>
+          <content eId="para_19142__content">
+            <p>American Express sought from the referring court permission to apply for judicial review of `[the national authority's] obligation and/or intention to apply, enforce, or otherwise give effect to Article 35(1) [of Directive 2015/2366] in so far as it provides for the [co-branding condition and/or agency condition]'. That permission was granted by the referring court.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19143">
+          <num>13</num>
+          <content eId="para_19143__content">
+            <p>The referring court seeks to ascertain whether point (b) of the first subparagraph of Article 35(2) of Directive 2015/2366 must be interpreted as meaning that a three party payment card scheme that has entered into co-branding or agency arrangements is exempted from the access obligation laid down in Article 35(1) of that directive. In particular, in the view of that court, recital 52 of that directive is such that no clear answer to that question can be given.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19144">
+          <num>14</num>
+          <content eId="para_19144__content">
+            <p>Further, that court considers that if the Court were to hold that that obligation is applicable to three party payment card schemes that have entered into co-branding or agency arrangements, it would be necessary to give a ruling on the argument put forward by American Express that Article 35(1) of Directive 2015/2366 is invalid on the grounds of a failure to provide reasons, a manifest error of assessment and a breach of the principle of proportionality.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19145">
+          <num>15</num>
+          <content eId="para_19145__content">
+            <p>In those circumstances, the High Court of Justice (England &amp; Wales), Queen's Bench Division (Administrative Court) (United Kingdom), decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Does a payment system, to which the Access Obligation provided for in Article 35(1) of [Directive 2015/2366] would otherwise not apply, by virtue of Article 35(2)(b) [of that directive], render itself subject to that Obligation</p>
+                <blockList>
+                  <item>
+                    <num>(i)</num>
+                    <p>by entering into co-brand arrangements with co-brand partners who do not themselves provide payment services on that system in relation to that co-branded product offering and/or</p>
+                  </item>
+                  <item>
+                    <num>(ii)</num>
+                    <p>by using an agent to act on its behalf in providing payment services?</p>
+                  </item>
+                </blockList>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>If the answer to Question (1) is ``yes '', is Article 35(1) of [Directive 2015/2366] invalid in so far as it provides that systems with such arrangements are to be subject to the Access Obligation, on the grounds of:</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>failure to provide reasons in accordance with Article 296 TFEU;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>manifest error of assessment, and/or</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>breach of the principle of proportionality?'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the questions referred</p>
+        </tblock>
+        <tblock>
+          <p>Admissibility of the request for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_19146">
+          <num>16</num>
+          <content eId="para_19146__content">
+            <p>The European Parliament, the Council of the European Union and the European Commission maintain that the request for a preliminary ruling is wholly inadmissible on the grounds that</p>
+            <blockList>
+              <item>
+                <num>(i)</num>
+                <p>there is no genuine dispute between the parties in the main proceedings;</p>
+              </item>
+              <item>
+                <num>(ii)</num>
+                <p>the national court does not provide in its order for reference the minimum information required, in that it does not set out the relevant facts or the reasons why it is uncertain as to the interpretation and validity of the provisions at issue in the main proceedings, and</p>
+              </item>
+              <item>
+                <num>(iii)</num>
+                <p>the bringing of an action in the main proceedings seeking review of the legality of the `intention and/or obligation' of the national authority to apply or give effect to those provisions is a means of circumventing the system of legal remedies provided for by the FEU Treaty, in circumstances such as those in the main proceedings.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19147">
+          <num>17</num>
+          <content eId="para_19147__content">
+            <p>It must first be borne in mind that it is solely for the national court hearing the case, which must assume responsibility for the subsequent judicial decision, to determine, with regard to the particular aspects of the case, both the need for a preliminary ruling in order to enable it to deliver judgment and the relevance of the questions which it refers to the Court. Consequently, where the questions submitted concern the interpretation or the validity of a rule of EU law, the Court is in principle bound to give a ruling (judgment of 16 June 2015, Gauweiler and Others, C‑62/14, EU:C:2015:400, paragraph 24).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19148">
+          <num>18</num>
+          <content eId="para_19148__content">
+            <p>It follows that questions relating to EU law enjoy a presumption of relevance. The Court may refuse to rule on a question referred for a preliminary ruling by a national court only where it is quite obvious that the interpretation of EU law that is sought bears no relation to the actual facts of the main action or its purpose, where the problem is hypothetical, or where the Court does not have before it the factual or legal material necessary to give a useful answer to the questions submitted to it (judgment of 16 June 2015, Gauweiler and Others, C‑62/14, EU:C:2015:400, paragraph 25).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19149">
+          <num>19</num>
+          <content eId="para_19149__content">
+            <p>As regards, first, whether the dispute in the main proceedings is genuine, it must be observed that the action brought by American Express before the referring court seeks review of the legality of the `intention and/or obligation' of the national authority to apply or give effect to the provisions at issue. In that regard, it is apparent from the order for reference that the parties in the main proceedings hold opposing views on the substance of the action. Since the referring court has been called upon to resolve that disagreement and since it considers that there is a real point of contention between the parties in the main proceedings as to the interpretation and validity of the relevant provisions of that directive, it is not obvious that the dispute in the main proceedings is not genuine (see, by analogy, judgments of 10 December 2002, British American Tobacco (Investments) and Imperial Tobacco, C‑491/01, EU:C:2002:741, paragraphs 36 and 38, and of 4 May 2016, Pillbox 38, C‑477/14, EU:C:2016:324, paragraph 17).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19150">
+          <num>20</num>
+          <content eId="para_19150__content">
+            <p>Further, the arguments designed to establish the artificiality of the dispute in the main proceedings, relying on the claim to that there is no act or omission on the part of a national authority the legality of which could be the subject of an action for review, are based on criticism of the admissibility of the action at issue in the main proceedings and of the findings of fact made by the referring court for the purpose of applying criteria laid down by national law. It is not, however, for the Court to call those findings into question since that falls, in the context of the present proceedings, within the jurisdiction of the national courts, or to determine whether the order for reference was made in accordance with the rules of national law governing the organisation of the courts and legal proceedings. Those arguments are therefore again not sufficient to rebut the presumption of relevance referred to in paragraph 18 of the present judgment (see, by analogy, judgment of 16 June 2015, Gauweiler and Others, C‑62/14, EU:C:2015:400, paragraph 26).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19151">
+          <num>21</num>
+          <content eId="para_19151__content">
+            <p>Second, as regards the argument that the referring court has not set out either the relevant facts or the reasons why it is uncertain as to the interpretation and validity of the provisions at issue in the main proceedings, it must be observed that, in accordance with Article 94(a) of the Court's Rules of Procedure, all requests for a preliminary ruling must contain `a summary of the subject matter of the dispute and the relevant findings of fact as determined by the referring court or tribunal, or, at least, an account of the facts on which the questions are based'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19152">
+          <num>22</num>
+          <content eId="para_19152__content">
+            <p>In that regard, it is sufficient that both the subject matter of the dispute in the main proceedings and the main issues raised for the EU legal order may be understood from the request for a preliminary ruling in order to enable the Member States and other interested parties to submit their observations in accordance with Article 23 of the Statute of the Court of Justice of the European Union and to participate effectively in the proceedings before the Court (see judgment of 8 September 2009, Liga Portuguesa de Futebol Profissional and Bwin International, C‑42/07, EU:C:2009:519, paragraph 41 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19153">
+          <num>23</num>
+          <content eId="para_19153__content">
+            <p>In this case, it is apparent from the order for reference that Amex is composed exclusively of payment service providers belonging to a group, within the meaning of point (b) of the first subparagraph of Article 35(2) of Directive 2015/2366, and may therefore qualify for the exemption provided for by that provision. It is, however, also apparent from that order that Amex has entered into a number of co-branding and service provision arrangements within the European Union which, subject to the question of interpretation raised by the referring court, might deprive it of the benefit of that provision, in which case it would be subject to the access obligation, laid down in Article 35(1) of that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19154">
+          <num>24</num>
+          <content eId="para_19154__content">
+            <p>Accordingly, the order for reference sets out, briefly but precisely, the origin and nature of the dispute in the main proceedings, the resolution of which it regards as dependent on the interpretation and validity of those provisions. It follows that the referring court has adequately defined the factual and legal framework within which it has made its request for an interpretation of EU law so as to enable the Court to provide a useful reply to that request (see, by analogy, judgment of 7 July 2016, Genentech, C‑567/14, EU:C:2016:526, paragraph 27).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19155">
+          <num>25</num>
+          <content eId="para_19155__content">
+            <p>As regards, further, whether the referring court has adequately set out the reasons why it is uncertain as to the interpretation and validity of the provisions at issue in the main proceedings, it does in fact follow from the spirit of cooperation which must prevail in the operation of the preliminary reference procedure that it is essential that the national court sets out in its order for reference the precise reasons why it considers a reply to its questions concerning the interpretation or validity of certain provisions of EU law to be necessary to enable it to give judgment (see, to that effect, judgment of 4 May 2016, Pillbox 38, C‑477/14, EU:C:2016:324, paragraph 24 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19156">
+          <num>26</num>
+          <content eId="para_19156__content">
+            <p>It is therefore important that the national court should set out, in particular, the precise reasons that prompted it to enquire about the interpretation or validity of certain provisions of EU law and set out the grounds of invalidity which, consequently, appear to it capable of being upheld. That requirement is also stated in Article 94(c) of the Rules of Procedure (see, to that effect, judgment of 4 May 2016, Pillbox 38, C‑477/14, EU:C:2016:324, paragraph 25 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19157">
+          <num>27</num>
+          <content eId="para_19157__content">
+            <p>In this case, in the request for a preliminary ruling, the referring court stated, reproducing some of the arguments put forward by American Express and MasterCard Europe SA in that regard, that the interpretation of some provisions of Directive 2015/2366 was uncertain. Likewise, the referring court suggested that the Court might be required, depending on the interpretation of those provisions that it adopts, to give a ruling on the grounds of invalidity relied on by American Express.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19158">
+          <num>28</num>
+          <content eId="para_19158__content">
+            <p>It follows that the referring court considers not only that the arguments submitted by the parties in the main proceedings raise a question of interpretation to which the answer is uncertain, but also that the grounds of invalidity relied on by American Express and set out in the order for reference are capable of being upheld.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19159">
+          <num>29</num>
+          <content eId="para_19159__content">
+            <p>As regards, third, the argument that the bringing of the action in the main proceedings, seeking review of the legality of `intention and/or obligation' of the national authority to apply or give effect to Directive 2015/2366, is a means of circumventing the system of legal remedies provided for by the FEU Treaty and, more specifically, the Parliament's comment that, in this case, nothing has been done by the national authority that adversely affects Amex, it must be recalled that the Court has previously held to be admissible a number of requests for a preliminary ruling concerning the interpretation and/or validity of secondary legislation submitted in the context of such actions for review of legality, including the cases that gave rise to the judgments of 10 December 2002, British American Tobacco (Investments) and Imperial Tobacco ( C‑491/01, EU:C:2002:741); of 3 June 2008, Intertanko and Others ( C‑308/06, EU:C:2008:312); of 8 July 2010, Afton Chemical ( C‑343/09, EU:C:2010:419); of 4 May 2016, Pillbox 38 ( C‑477/14, EU:C:2016:324); and of 4 May 2016, Philip Morris Brands and Others ( C‑547/14, EU:C:2016:325).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19160">
+          <num>30</num>
+          <content eId="para_19160__content">
+            <p>Moreover, the opportunity open to individuals to plead the invalidity of an EU act of general application before national courts is not conditional upon that act actually having been the subject of implementing measures adopted pursuant to national law. In that respect, it is sufficient if the national court is called upon to hear a genuine dispute in which the question of the validity of such an act is raised indirectly. That condition is fulfilled in the circumstances of the case in the main proceedings, as is apparent from paragraphs 14, 19, 20, 27 and 28 of the present judgment (see, by analogy, judgments of 10 December 2002, British American Tobacco (Investments) and Imperial Tobacco, C‑491/01, EU:C:2002:741, paragraph 40; of 16 June 2015, Gauweiler and Others, C‑62/14, EU:C:2015:400, paragraph 29; of 4 May 2016, Pillbox 38, C‑477/14, EU:C:2016:324, paragraph 19; and of 4 May 2016, Philip Morris Brands and Others, C‑547/14, EU:C:2016:325, paragraph 35).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19161">
+          <num>31</num>
+          <content eId="para_19161__content">
+            <p>In those circumstances, it is not apparent that the action in the main proceedings was brought in order to circumvent the system of remedies provided for by the FEU Treaty.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19162">
+          <num>32</num>
+          <content eId="para_19162__content">
+            <p>It follows from all the foregoing that the request for a preliminary ruling is admissible.</p>
+            <tblock>
+              <p>The first question</p>
+            </tblock>
+            <p>33 By its first question, the referring court seeks, in essence, to ascertain whether point (b) of the first subparagraph of Article 35(2) of Directive 2015/2366 must be interpreted as meaning that a three party payment card scheme that has entered into a co-branding agreement with a co-branding partner, which does not itself supply payment services within that scheme with respect to the co-branded products, or that uses an agent for the supply of payment services, is deprived of the benefit of the exemption provided for in that provision and is, therefore, subject to the obligation laid down in Article 35(1) of that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19163">
+          <num>34</num>
+          <content eId="para_19163__content">
+            <p>It must first be recalled that, under the first subparagraph of Article 35(1) of Directive 2015/2366, `Member States shall ensure that the rules on access of authorised or registered payment service providers that are legal persons to payment systems are objective, non-discriminatory and proportionate and that they do not inhibit access more than is necessary to safeguard against specific risks such as settlement risk, operational risk and business risk and to protect the financial and operational stability of the payment system'. The second subparagraph of Article 35(1) of that directive lists, in addition, the requirements that payment systems can under no circumstances impose on payment service providers, payment service users or other payment systems.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19164">
+          <num>35</num>
+          <content eId="para_19164__content">
+            <p>Point (b) of the first subparagraph of Article 35(2) of Directive 2015/2366 provides that Article 35(1) of that directive does not apply to `payment systems composed exclusively of payment service providers belonging to a group'. The concept of `group' is defined in Article 4(40) of that directive to mean `a group of undertakings which are linked to each other by a relationship referred to in Article 22(1), (2) or (7) of [Directive 2013/34] or undertakings as defined in Articles 4, 5, 6 and 7 of [Delegated Regulation No 241/2014], which are linked to each other by a relationship referred to in Article 10(1) or in Article 113(6) or (7) of [Regulation No 575/2013]'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19165">
+          <num>36</num>
+          <content eId="para_19165__content">
+            <p>As stated in paragraph 23 of the present judgment, it is undisputed that a three party payment card scheme such as Amex is composed exclusively of payment service providers belonging to a group, within the meaning of the preceding paragraph.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19166">
+          <num>37</num>
+          <content eId="para_19166__content">
+            <p>It follows that, as a general rule, such a three party payment card scheme is not subject to the access obligation laid down in Article 35(1) of Directive 2015/2366, unless a third party takes part in its operation in such a way that it can no longer be considered to be composed exclusively of payment service providers belonging to a group, within the meaning of point (b) of the first subparagraph of Article 35(2) of that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19167">
+          <num>38</num>
+          <content eId="para_19167__content">
+            <p>In this case, American Express maintains that point (b) of the first subparagraph of Article 35(2) of Directive 2015/2366 must be interpreted as meaning that the mere fact that a three party payment card scheme has entered into co-branding and agency arrangements does not result in its being subject to the access obligation. As regards co-branding arrangements within the framework of which the co-branding partner does not provide any payment service, the scheme remains the sole issuer of cards and the sole acquirer of transactions carried out using those cards. Likewise, the use of an agent for the supply of payment services does not alter the identity of the payment service provider in a payment card scheme. Consequently, according to American Express, it is only if a three party payment card scheme licenses an additional payment service provider within that scheme that the access obligation is applicable to that scheme.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19168">
+          <num>39</num>
+          <content eId="para_19168__content">
+            <p>Conversely, MasterCard Europe contends that the mere fact that a three party payment card scheme makes use of a co-branding partner or an agent is in itself enough to subject it to the access obligation, since, in such a situation, that scheme can no longer be regarded as falling within the scope of the exclusion provided for in point (b) of the first subparagraph of Article 35(2) of Directive 2015/2366.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19169">
+          <num>40</num>
+          <content eId="para_19169__content">
+            <p>In that regard, it must be borne in mind that, in accordance with the Court's settled case-law, in interpreting a provision of EU law it is necessary to consider not only its wording but also the context in which it occurs and the objectives pursued by the rules of which it is part (judgment of 21 September 2017, Commission v Germany, C‑616/15, EU:C:2017:721, paragraph 43 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19170">
+          <num>41</num>
+          <content eId="para_19170__content">
+            <p>First, it follows from the wording of point (b) of the first subparagraph of Article 35(2) of Directive 2015/2366 that the effect of participation, in one and the same payment system, of payment service providers that do not belong to the same group is that that system is deprived of the benefit of the exception laid down in that provision and, therefore, that the system is subject to the access obligation, laid down in Article 35(1) of that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19171">
+          <num>42</num>
+          <content eId="para_19171__content">
+            <p>Article 4(11) of Directive 2015/2366 states that a payment service provider is defined as being `a body referred to in Article 1(1) [of that directive] or a natural or legal person benefiting from an exemption pursuant to Article 32 or 33 [of that directive]'. Article 1(1) distinguishes six categories of payment service providers, namely certain credit institutions, electronic money institutions within the meaning of point (1) of Article 2 of Directive 2009/110, post office giro institutions which are entitled under national law to provide payment services, payment institutions, the ECB and national central banks when not acting in their capacity as monetary authority or other public authorities, and Member States or their regional or local authorities when not acting in their capacity as public authorities. As regards Articles 32 and 33, they provide for exemptions for natural and legal persons providing certain payment services.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19172">
+          <num>43</num>
+          <content eId="para_19172__content">
+            <p>As regards the issue of whether a co-branding partner or an agent is covered by the concept of `payment service provider' as described in the preceding paragraph, it is true, as regards, first, the term `co-branding', that that term is not defined in Directive 2015/2366. However, it is stated in recital 2 of Directive 2015/2366 that the revised EU legal framework, which led to the adoption of that directive, is complemented by Regulation 2015/751. It is apparent, moreover, from recital 6 of that directive that the intention of the EU legislature was that a consistent application across the European Union of the legislative framework on payment services should be guaranteed.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19173">
+          <num>44</num>
+          <content eId="para_19173__content">
+            <p>According to Article 2(32) of Regulation 2015/751, co-branding is defined as being `the inclusion of at least one payment brand and at least one non-payment brand on the same card-based payment instrument'. As regards the term `payment brand', that is itself defined both in Article 2(30) of that regulation and in Article 4(47) of Directive 2015/2366 as being `any material or digital name, term, sign, symbol or combination of them, capable of denoting under which payment card scheme card-based payment transactions are carried out'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19174">
+          <num>45</num>
+          <content eId="para_19174__content">
+            <p>As regards, second, the term `agent', that is defined in Article 4(38) of Directive 2015/2366 as being `a natural or legal person who acts on behalf of a payment institution in providing payment services'. As is apparent from paragraph 42 of the present judgment, payment institutions constitute one of six categories of payment service providers listed in Article 1(1) of that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19175">
+          <num>46</num>
+          <content eId="para_19175__content">
+            <p>Accordingly, it cannot be inferred from the relevant definitions of the terms `co-branding' and `agent' that a co-branding partner or agent is necessarily a payment service provider, within the meaning of Article 4(11) of Directive 2015/2366.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19176">
+          <num>47</num>
+          <content eId="para_19176__content">
+            <p>It must therefore be held that it is not expressly stated in the wording of point (b) of the first subparagraph of Article 35(2) of Directive 2015/2366 that the fact that a payment system composed exclusively of payment service providers belonging to a group makes use of a co-branding partner or an agent necessarily entails that that system loses the benefit of the exception laid down in that provision. If, however, the EU legislature had wished to restrict the scope of that provision, so that that would be the case, it could have made express provision to that effect (see, by analogy, judgment of 19 March 2009, Commission v Italy, C‑275/07, EU:C:2009:169, paragraph 99).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19177">
+          <num>48</num>
+          <content eId="para_19177__content">
+            <p>In the second place, as regards the context of point (b) of the first subparagraph of Article 35(2) of Directive 2015/2366, it must be recalled that the objective of Article 35 of that directive, as is apparent from the first subparagraph of Article 35(1), is to regulate, inter alia, the conditions for access of authorised or registered payment service providers to payment systems. That objective is compatible with an interpretation of point (b) of the first subparagraph of Article 35(2) to the effect that a three party payment card scheme that chooses to open up by bringing about the participation of a payment service provider that does not belong to the group is subject to the access obligation laid down in Article 35(1) of that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19178">
+          <num>49</num>
+          <content eId="para_19178__content">
+            <p>Admittedly, recital 52 of Directive 2015/2366 states that systems set up and operated by a single payment service provider `include three-party schemes, such as three-party card schemes, to the extent that they never operate as de facto four party card schemes, for example by relying upon licensees, agents or co-brand partners'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19179">
+          <num>50</num>
+          <content eId="para_19179__content">
+            <p>Nonetheless, contrary to what is claimed by MasterCard Europe, that recital cannot justify an interpretation that any co-branding or agency contract concluded by a three party payment card scheme necessarily results in that scheme moving outside the scope of point (b) of the first subparagraph of Article 35(2) of Directive 2015/2366.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19180">
+          <num>51</num>
+          <content eId="para_19180__content">
+            <p>In that regard, it must be recalled that while a recital in secondary EU legislation may cast light on the interpretation to be given to a legal rule, it cannot in itself constitute such a rule (see, to that effect, judgment of 13 July 1989, Casa Fleischhandel, 215/88, EU:C:1989:331, paragraph 31).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19181">
+          <num>52</num>
+          <content eId="para_19181__content">
+            <p>In any event, as maintained, in essence, by the Commission, there is nothing in recital 52 of Directive 2015/2366, or in any other provision of that directive, that precludes point (b) of the first subparagraph of Article 35(2) of that directive being interpreted as meaning that, in a situation where a payment card scheme makes use of a co-branding partner or an agent, it is necessary that the co-branding partner or agent should be a payment service provider or that their role within that scheme can be treated as equivalent to the activity of such a provider, if that scheme is to cease to be regarded as being composed exclusively of payment service providers belonging to a group, within the meaning of the latter provision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19182">
+          <num>53</num>
+          <content eId="para_19182__content">
+            <p>It must be observed that, first, the first sentence of recital 52 of that directive provides that the provisions relating to access to payment systems should not apply to payment systems `set up and operated by a single payment service provider', thereby emphasising the number of payment service providers involved in the operation of the system concerned.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19183">
+          <num>54</num>
+          <content eId="para_19183__content">
+            <p>Second, while it follows from that recital that payment card schemes relying on co-branding partners or agents may be regarded as operating as de facto four party payment card schemes, it must also be noted that a four party payment card scheme is defined in Article 2(17) of Regulation 2015/751 as being a scheme `in which card-based payment transactions are made from the payment account of a payer to the payment account of a payee through the intermediation of the scheme, an issuer (on the payer's side) and an acquirer (on the payee's side)'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19184">
+          <num>55</num>
+          <content eId="para_19184__content">
+            <p>Consequently, and in light of the considerations set out in paragraph 43 of the present judgment, a classic four party payment card scheme within the meaning of Directive 2015/2366 is characterised by the presence of various payment service providers, which carry out `acquirer' and `issuer' services within the framework of the card-based payment transactions.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19185">
+          <num>56</num>
+          <content eId="para_19185__content">
+            <p>It must therefore be held that, as maintained by the Commission, the examples, set out in recital 52 of Directive 2015/2366, of situations in which three party payment card schemes enter into arrangements with agents or co-branding partners are only illustrative of ways in which schemes can organise their operating structure in such a way that they are liable to behave, in practice, as four party payment card schemes for the purposes of the application of the access obligation laid down by that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19186">
+          <num>57</num>
+          <content eId="para_19186__content">
+            <p>In the third place, as regards the objectives pursued by Directive 2015/2366, including the provisions at issue in the main proceedings, it must be recalled that, according to recital 49 of that directive, `[i]t is essential for any payment service provider to be able to access the services of technical infrastructures of payment systems', and that `[i]n order to ensure equality of treatment throughout the Union as between the different categories of authorised payment service providers, according to the terms of their licence, it is necessary to clarify the rules concerning access to payment systems'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19187">
+          <num>58</num>
+          <content eId="para_19187__content">
+            <p>Likewise, recital 50 of Directive 2015/2366 states that `[p]rovision should be made for the non-discriminatory treatment of authorised payment institutions and credit institutions so that any payment service provider competing in the internal market is able to use the services of the technical infrastructures of those payment systems under the same conditions'. Recital 50 adds that `[i]t is appropriate to provide for different treatment for authorised payment service providers and for those benefiting from an exemption under this Directive as well as from the exemption under the Article 3 of Directive [2009/110], due to the differences in their respective prudential framework'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19188">
+          <num>59</num>
+          <content eId="para_19188__content">
+            <p>Last, recital 52 of Directive 2015/2366 states, inter alia, that, in order to stimulate the competition that can be provided by closed payment systems, such as three party payment card schemes that never operate as de facto four-party card schemes, to established mainstream payment systems, it would not be appropriate to grant third parties access to those closed proprietary payment systems.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19189">
+          <num>60</num>
+          <content eId="para_19189__content">
+            <p>It follows from the considerations set out in paragraphs 57 to 59 of the present judgment that the aim of Article 35 of Directive 2015/2366 is to ensure that, as a general rule, all payment service providers can have access to the services of the technical infrastructures of payment systems so as to guarantee, throughout the European Union, equal treatment of the various categories of payment service providers. As is also apparent from those considerations, the EU legislature intended to ensure that all payment service providers can make use of such services under the same conditions in order to maintain effective competition in payments markets.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19190">
+          <num>61</num>
+          <content eId="para_19190__content">
+            <p>It follows, however, from the same considerations, in particular what is stated in paragraphs 58 and 59 of the present judgment, that while, as general rule, the access obligation, laid down in Article 35(1) of Directive 2015/2366, must enable any payment service provider to have access, on the prescribed conditions, to the payment systems, the EU legislature also intended to make provision for payment service providers to be treated differently when differences between them justify it.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19191">
+          <num>62</num>
+          <content eId="para_19191__content">
+            <p>More specifically, as regards closed three party payment systems, it is apparent from paragraph 59 of the present judgment that the EU legislature considered it appropriate to exempt those systems from the access obligation in order to stimulate competition between payment systems. However, as follows from, in particular, paragraphs 54 to 56 of the present judgment, where a three party payment card scheme decides to open up, making use of a payment service provider that is outside the group, its operation becomes similar to that of a classic four party payment system, with the result that the need to stimulate the competition that it creates in the market no longer justifies its being exempted from the access obligation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19192">
+          <num>63</num>
+          <content eId="para_19192__content">
+            <p>It might be difficult to achieve the objectives of Directive 2015/2366, in particular the objective of Article 35(1) of that directive, to ensure a level playing field in the provision of payment services, if a three party payment card scheme that relies on a third party which has the status of a payment service provider, within the meaning of Article 4(11) of that directive, or the role of which can be treated as equivalent to that of such a provider, were not to be subject to the requirement that payment service providers must have access to payment systems, as laid down in Article 35(1) of that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19193">
+          <num>64</num>
+          <content eId="para_19193__content">
+            <p>Consequently, it is clear that such an obligation is applicable to a three party payment card scheme that has entered into a co-branding agreement, within the meaning of Article 2(32) of Regulation 2015/751, where the co-branding partner concerned is a payment service provider, within the meaning of Article 4(11) of Directive 2015/2366, even though that partner does not itself provide, within the framework of that agreement, any payment service with respect to the co-branded products.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19194">
+          <num>65</num>
+          <content eId="para_19194__content">
+            <p>Likewise, where a three party payment card scheme has entered into an agreement with an agent, within the meaning of Article 4(38) of Directive 2015/2366, the access obligation is necessarily applicable to that scheme. Since, as was stated in paragraph 45 of the present judgment, an agent is defined in Article 4(38) of that directive as being `a natural or legal person who acts on behalf of a payment institution in providing payment services', and even though an agent is therefore not necessarily itself a payment service provider, its role must be treated as equivalent, in view of the nature of agency, to that of a payment service provider.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19195">
+          <num>66</num>
+          <content eId="para_19195__content">
+            <p>That interpretation is not called into question by the argument put forward by MasterCard Europe that the situations in which a three party payment card scheme is subject to the access obligation should be the same as those in which such a system is subject to the obligations relating to interchange fees pursuant to Article 1(5) and Article 2(18) of Regulation 2015/751, the scope and validity of which are the subject matter of the questions referred for a preliminary ruling in the case that gave rise to the judgment of today's date, American Express(C‑304/16).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19196">
+          <num>67</num>
+          <content eId="para_19196__content">
+            <p>In that regard, suffice it to observe, first, that the wording of both Article 1(5) and Article 2(18) of Regulation 2015/751, which relate to, inter alia, the situations in which three party payment card schemes should be considered to be four party payment card schemes for the purposes of the application of the obligations laid down by that regulation, including those relating to the capping of interchange fees, differs, in a number of respects, from the wording of point (b) of the first subparagraph of Article 35(2) of Directive 2015/2366.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19197">
+          <num>68</num>
+          <content eId="para_19197__content">
+            <p>Second, while it is true that the objectives pursued by the two categories of obligations to which reference is made in paragraph 66 of the present judgment overlap in that they both seek, inter alia, to ensure equal treatment of competitors and effective competition in payment markets, the fact remains that the nature of those two categories of obligations and the legislative act of which each is part are different.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19198">
+          <num>69</num>
+          <content eId="para_19198__content">
+            <p>In the light of all the foregoing, the answer to the first question is that point (b) of the first subparagraph of Article 35(2) of Directive 2015/2366 must be interpreted as meaning that a three party payment card scheme that has entered into a co-branding agreement with a co-branding partner does not lose the benefit of the exception provided for by that provision and, therefore, is not subject to the obligation laid down in Article 35(1) of that directive in a situation where that co-branding partner is not a payment service provider and does not provide payment services within that scheme with respect to the co-branded products. However, a three party payment card scheme that makes use of an agent for the purposes of supplying payment services loses the benefit of that exception and, therefore, is subject to the obligation laid down in Article 35(1).</p>
+            <tblock>
+              <p>The second question</p>
+            </tblock>
+            <p>70 By the second question referred for a preliminary ruling, the referring court seeks, in essence, to ascertain whether Article 35 of Directive 2015/2366 is invalid, in so far as it imposes an access obligation that is applicable to a three party payment card scheme that has entered into a co-branding agreement with a co-branding partner which, itself, does not provide payment services within that scheme with respect to the co-branded products, or that has made use of an agent for the purpose of supplying payment services.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19199">
+          <num>71</num>
+          <content eId="para_19199__content">
+            <p>It must, first, be observed that the interpretation of point (b) of the first subparagraph of Article 35(2) of Directive 2015/2366, as set out in paragraph 69 of the present judgment, is not entirely congruent, so far as co-branding contracts are concerned, with the interpretation on the basis of which the referring court submits the second question referred for a preliminary ruling.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19200">
+          <num>72</num>
+          <content eId="para_19200__content">
+            <p>Accordingly, having regard to the answer given to the first question referred for a preliminary ruling, an answer need be given to the second question only in so far as it seeks to determine whether Article 35 of Directive 2015/2366 is invalid by reason of the fact that the obligation laid down in Article 35(1) is applicable to a three party payment card scheme that has made use of an agent for the purposes of supplying payment services.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Whether there is a breach of the duty to state reasons</p>
+        </tblock>
+        <paragraph eId="para_19201">
+          <num>73</num>
+          <content eId="para_19201__content">
+            <p>As regards the duty to state reasons, it must be recalled that, in accordance with the Court's settled case-law, although the statement of reasons for an EU measure, which is required by Article 296(2) TFEU, must show clearly and unequivocally the reasoning of the author of the measure in question, so as to enable the persons concerned to ascertain the reasons for the measure and to enable the Court to exercise its power of review, it is not required to go into every relevant point of fact and law. In addition, the question whether the duty to state reasons has been satisfied must be assessed with reference not only to the wording of the measure but also to its context and the whole body of legal rules governing the matter in question (judgment of 16 June 2015, Gauweiler and Others, C‑62/14, EU:C:2015:400, paragraph 70 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19202">
+          <num>74</num>
+          <content eId="para_19202__content">
+            <p>Furthermore, the Court has repeatedly held that if an act of general application discloses the essential objective pursued by the institution, it would be excessive to require a specific statement of reasons for the various technical choices made (judgment of 3 March 2016, Spain v Commission, C‑26/15 P, not published, EU:C:2016:132, paragraph 31 and the case-law cited)</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19203">
+          <num>75</num>
+          <content eId="para_19203__content">
+            <p>In this case, recitals 49, 50 and 52 of Directive 2015/2366 show with sufficient clarity the reasoning that underlies the application of the obligation laid down in Article 35(1) of that directive to three party payment card schemes which cause a payment service provider, external to the group, or a third party whose role can be treated as equivalent to that of such a provider, to act in the operation of the scheme. In particular, as follows from paragraph 60 of the present judgment, those recitals show that the aim of Article 35 is to ensure that, as a general rule, all payment service providers can have access to the services of the technical infrastructures of payment systems in order to ensure, throughout the European Union, equal treatment of the various categories of payment service providers and, thereby, to maintain effective competition in payment markets.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19204">
+          <num>76</num>
+          <content eId="para_19204__content">
+            <p>Moreover, it is apparent from the same recitals that while, as a general rule, the access obligation must enable all payment service providers to have access, under the conditions laid down by Directive 2015/2366, to the services of the technical infrastructures of payment systems, the EU legislature also intended to make provision for payment service providers to be treated differently when the differences between them justify it. Accordingly, while on the one hand the EU legislature considered it appropriate to exempt closed three party payment card schemes from that access obligation in order to stimulate competition between payment systems, on the other it held that, in a situation where a three party payment card scheme decides to open up, bringing in a payment service provider that is external to the group or a third party, such as an agent, whose role can be treated as equivalent to that of such a provider, the operation of that system becomes similar to that of a classic four party system, with the result that the need to stimulate such competition no longer justifies its exemption from that access obligation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19205">
+          <num>77</num>
+          <content eId="para_19205__content">
+            <p>Further, recital 52 of Directive 2015/2366 shows the differences that exist between closed proprietary three party payment card schemes and established mainstream payment systems, differences that explain why the application to three party payment card schemes of the access obligation is justified only where the operation of those schemes has the effect of removing them from the scope of point (b) of the first subparagraph of Article 35(2) of that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19206">
+          <num>78</num>
+          <content eId="para_19206__content">
+            <p>It follows that the provisions of Directive 2015/2366 to which reference is made in paragraph 75 of the present judgment set out both the overall situation that led the EU legislature to decide to subject three party payment card schemes that have entered into agency contracts to the access obligation laid down in Article 35(1) of that directive, and the general objectives which that decision sought to achieve, and thereby enables persons concerned to understand the reasons for that decision and the Court to exercise its power of review, in accordance with the case-law cited in paragraph 73 of the present judgment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19207">
+          <num>79</num>
+          <content eId="para_19207__content">
+            <p>That being the case, in accordance with the case-law set out in paragraphs 73 and 74 of the present judgment, the EU legislature was not required to set out in Directive 2015/2366, specifically, the reasons why, in each of the situations concerned, a three party payment card scheme should be subject to the access obligation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19208">
+          <num>80</num>
+          <content eId="para_19208__content">
+            <p>It cannot therefore be held that Directive 2015/2366 is vitiated by a failure to state reasons in that regard, of such a kind as to entail the invalidity of Article 35 of that directive.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Whether there was a manifest error of assessment</p>
+        </tblock>
+        <paragraph eId="para_19209">
+          <num>81</num>
+          <content eId="para_19209__content">
+            <p>It is stated in the order for reference that the validity of Article 35 of Directive 2015/2366 is challenged in the main proceedings on the ground that that provision is vitiated by a manifest error of assessment, in that the access obligation laid down in Article 35 is applicable to three party payment card schemes that have entered into agency arrangements, when the EU legislature could not reasonably have adopted a provision of such scope.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19210">
+          <num>82</num>
+          <content eId="para_19210__content">
+            <p>However, it is not apparent from the material sent to the Court in relation to the present procedure that the EU legislature, for that reason, caused Article 35 of Directive 2015/2366 to be vitiated by a manifest error of assessment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19211">
+          <num>83</num>
+          <content eId="para_19211__content">
+            <p>In particular, nothing that has been submitted to the Court is such as to suggest that an error was committed by the EU legislature when it held that the inclusion of such a system within the scope of Article 35(1) of Directive 2015/2366 would contribute to the achievement of the objectives set out in paragraphs 57 to 63 of the present judgment.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Whether there was a breach of the principle of proportionality</p>
+        </tblock>
+        <paragraph eId="para_19212">
+          <num>84</num>
+          <content eId="para_19212__content">
+            <p>It must be recalled that, according to the Court's settled case-law, the principle of proportionality requires that acts of the EU institutions should be appropriate for attaining the legitimate objectives pursued by the legislation at issue and should not go beyond what is necessary in order to achieve those objectives (judgment of 16 June 2015, Gauweiler and Others, C‑62/14, EU:C:2015:400, paragraph 67 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19213">
+          <num>85</num>
+          <content eId="para_19213__content">
+            <p>With regard to judicial review of compliance with those conditions the Court has accepted that in the exercise of the powers conferred on it the EU legislature must be allowed a broad discretion in areas in which its action involves political, economic and social choices and in which it is called upon to undertake complex assessments and evaluations. Thus the criterion to be applied is not whether a measure adopted in such an area was the only or the best possible measure, since its legality can be affected only if the measure is manifestly inappropriate having regard to the objective which the competent institution is seeking to pursue (judgment of 8 June 2010, Vodafone and Others, C‑58/08, EU:C:2010:321, paragraph 52 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19214">
+          <num>86</num>
+          <content eId="para_19214__content">
+            <p>In this case, nothing has been submitted to the Court to suggest that Article 35 of Directive 2015/2366 is not appropriate for attaining the legitimate objectives pursued by that directive, as described in paragraphs 57 to 62 of the present judgment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19215">
+          <num>87</num>
+          <content eId="para_19215__content">
+            <p>On the contrary, given that, as was stated in paragraphs 63 and 65 of the present judgment, it might be difficult to achieve the objectives of Directive 2015/2366, in particular the objective of Article 35 of that directive, of ensuring a level playing field in the provision of payment services, if a three party payment card scheme that made use of an agent was not subject to the access obligation, it was not manifestly inappropriate, in the light of such objectives, to decide that such a scheme should also be subject to that obligation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19216">
+          <num>88</num>
+          <content eId="para_19216__content">
+            <p>It follows from all the foregoing that consideration of the second question has revealed nothing capable of affecting the validity of Article 35 of Directive 2015/2366.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_19217">
+          <num>89</num>
+          <content eId="para_19217__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (First Chamber) hereby rules: 1. Point (b) of the first subparagraph of Article 35(2) of Directive (EU) 2015/2366 of the European Parliament and of the Council of 25 November 2015 on payment services in the internal market, amending Directives 2002/65/EC, 2009/110/EC and 2013/36/EU and Regulation (EU) No 1093/2010, and repealing Directive 2007/64/EC, must be interpreted as meaning that a three party payment card scheme that has entered into a co-branding agreement with a co-branding partner does not lose the benefit of the exception provided for by that provision and, therefore, is not subject to the obligation laid down in Article 35(1) of that directive in a situation where that co-branding partner is not a payment service provider and does not provide payment services within that scheme with respect to the co-branded products. However, a three party payment card scheme that makes use of an agent for the purposes of supplying payment services loses the benefit of that exception and, therefore, is subject to the obligation laid down in Article 35(1). 2. Consideration of the second question has revealed nothing capable of affecting the validity of Article 35 of Directive 2015/2366.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>Silva de Lapuerta Fernlund Bonichot Rodin Regan Delivered in open court in Luxembourg on 7 February 2018. A. Calot Escobar Registrar R. Silva de Lapuerta President of the First Chamber( *1)Language of the case: English.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

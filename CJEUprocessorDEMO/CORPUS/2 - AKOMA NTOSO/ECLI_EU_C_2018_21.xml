@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Ninth Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>18 January 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(References for a preliminary ruling -- Article 56 TFEU -- Freedom to provide services -- Restrictions -- Motor vehicle leased by a resident of one Member State from a leasing company established in another Member State -- Registration tax calculated proportionately to the duration of use of the vehicle -- Requirement of approval from the national tax authorities before use -- Justification -- Prevention of circumvention of tax rules and fraud or abuse -- Safeguarding States' powers of taxation -- Proportionality) In Case C‑249/15, REQUEST for a preliminary ruling under Article 267 TFEU from the Østre Landsret (Eastern Regional Court of Appeal, Denmark), made by decision of 22 May 2015, received at the Court on 28 May 2015, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">Wind 1014 GmbH</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="appellant" refersTo="#">Kurt Daell</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#">Skatteministeriet</party>
+      </p>
+      <p>, THE COURT (Ninth Chamber), composed of C. Vajda (Rapporteur), President of the Chamber, K. Jürimäe and C. Lycourgos, Judges, Advocate General: M. Wathelet, Registrar: V. Giacobbo-Peyronnel, Administrator, having regard to the written procedure and further to the hearing on 14 July 2016, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>Wind 1014 GmbH and M. Kurt Daell, by P. Lambert, Advokat,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Skatteministeriet, by D. Auken, Advokat,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Danish Government, by C. Thorning, acting as Agent, and by D. Auken, Advokat,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>Ireland, by L. Williams and E. Creedon and by A. Joyce and D. McDonald, acting as Agents, and by M. Collins, Senior Counsel, N. O'Driscoll, Barrister‑at-Law and S. Kingston, Barrister-at-Law,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by M. Wasmeier and L. Grønfeldt, acting as Agents, having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_9086">
+          <num>1</num>
+          <content eId="para_9086__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Article 56 TFEU.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9087">
+          <num>2</num>
+          <content eId="para_9087__content">
+            <p>The reference has been made in two sets of proceedings between, on the one hand, Wind 1014 GmbH ( `Wind') and M. Kurt Daell and, on the other, the Skatteministeriet (Ministry of Taxation, Denmark) concerning, in the first set of proceedings, the refusal by the tax authorities to authorise the use, in Denmark, of a vehicle covered by a leasing contract signed by Mr Daell with Wind, established in another Member State, before those authorities approved the application submitted by Wind and Mr Daell seeking to have the registration tax on the vehicle calculated proportionately to the time of use in Danish territory and, in the second set of proceedings, those same authorities' refusal to approve that application.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Danish law</p>
+        </tblock>
+        <paragraph eId="para_9088">
+          <num>3</num>
+          <content eId="para_9088__content">
+            <p>The Lov om registrering af køretøjer (Law on Registration of Vehicles), in the version thereof applicable to the facts in the main proceedings, provides in Paragraph 2 that motor vehicles `must be registered in the motor vehicle registry and equipped with number plates before the vehicle is put to use within the meaning of the [færdselsloven (Road Traffic Law)], subject to Paragraphs 3 and 5 and Paragraph 7(5)'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9089">
+          <num>4</num>
+          <content eId="para_9089__content">
+            <p>Paragraph 1(1) of the Lov om registreringsafgift af motorkøretøjer (Law on Registration Tax for Motor Vehicles), in the version thereof applicable to the facts in the main proceedings, provides: `A tax shall be paid to the State on motor vehicles which must be registered in the registry of vehicles pursuant to the Law on Registration of Vehicles, including trailers and semi-trailers of such vehicles. No tax shall however be payable on vehicles registered with export plates or test plates. The tax shall be payable upon the first registration of a vehicle, unless otherwise provided for herein. ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9090">
+          <num>5</num>
+          <content eId="para_9090__content">
+            <p>Paragraph 3b of the Law on Registration Tax for Motor Vehicles is worded as follows: `1.   The customs and tax authorities may, upon application, grant authorisation for the tax on leasing vehicles subject to registration with a view to temporary use in Denmark to be paid under subparagraphs 2 and 3 when the vehicle belongs to a business or a permanent place of business in Denmark or elsewhere and when the vehicle is leased for a fixed period of time under a written contract to a natural or legal person resident in Denmark. The contract must contain detailed information on the agreed-upon leasing period. The application shall be submitted either by the leasing company or by the person leasing the vehicle. 2.   A tax shall be paid on vehicles subject to registration under the Law on Registration of Vehicles. The registration obligation and therefore obligation to pay the appurtenant tax arises on the date when the vehicle is first used in Denmark by a person resident in Denmark. The tax shall be levied for the entire leasing period under the contract. The tax shall be calculated as follows:</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>for vehicles between zero and three months old, calculated from the time of first registration or use, whether in Denmark or elsewhere, 2% of the calculated registration tax per month begun following the time of first registration or use during the first three months;</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>for vehicles which, at the time the registration obligation arises, are more than three months old at the time of first registration or use in Denmark or elsewhere, 1% of the calculated registration tax per month begun during the following 33 months; and</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>for vehicles which, at the time the registration obligation arises, are more than 36 months old at the time of first registration or use in Denmark or elsewhere, 0.5% of the calculated registration tax per month begun during the following months. 3.   At the time of payment, interest shall be added to that portion of the calculated registration tax remaining after payment. Interest shall be calculated at the average lending rate granted by banks to non-financial corporations, as published most recently on 1 January or 1 July, as the case may be, by Danmarks Statistik (Statistics Denmark) as at the date of calculation of the tax. ... 9.   Leased vehicles on which tax must be paid under subparagraphs 2 and 3 must be covered by a written leasing contract. The contract must state how the vehicle is being leased and include specific information enabling identification of the vehicle, the name and address of the leasing company and the lessee, as well as the leasing amount. The contract must also contain information on whether an option or purchasing obligation has been agreed upon and also the terms thereof. The leasing contract must state specifically the duration of the lease. All users must be referred to in the leasing contract. The type and accessory equipment of the vehicle must be attached to the contract.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9091">
+          <num>6</num>
+          <content eId="para_9091__content">
+            <p>Under that legislation, the Danish administrative practice, as described in an administrative information circular from the Danish tax authorities of 13 January 2011, consists in making the authorisation to pay the registration tax calculated in accordance with Paragraph 3b(2) and (3) of the Law on Registration Tax for Motor Vehicles, that is to say, proportionate to the duration of use of the vehicle concerned in Danish territory ( `the proportionate registration tax') subject to a check by the tax authorities of compliance with the formal and substantive conditions of the leasing contract concerning that vehicle. Under that administrative practice, a vehicle in respect of which an application to pay the proportionate registration tax has been made may not be used in Denmark while that application is being processed by the tax authorities, unless the full amount of registration tax has been paid beforehand, in which case the surplus paid by the taxpayer, plus interest, will be repaid to the taxpayer if and when those authorities authorise the payment of the proportionate registration tax.</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_9092">
+          <num>7</num>
+          <content eId="para_9092__content">
+            <p>Mr Daell, a resident of Denmark, signed a leasing contract covering a motor vehicle ( `the vehicle in question') for the period from 15 June to 15 November 2010. The contract was signed with Wind, a leasing company established in Germany whose sole activity consisted in having concluded that contract with Mr Daell.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9093">
+          <num>8</num>
+          <content eId="para_9093__content">
+            <p>Previously, Mr Daell had signed -- also with Wind -- a leasing contract pertaining to the vehicle in question, although on behalf of the company Harald Nyborg A/S and for the periods from 27 August to 27 October 2008 and 1 July to 3 November 2009. In both cases, the tax authorities had given Mr Daell and Wind authorisation to pay, for the relevant periods, the tax on the vehicle in question under the proportionate registration tax scheme. The vehicle had then been registered in Denmark for those periods.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9094">
+          <num>9</num>
+          <content eId="para_9094__content">
+            <p>On 9 June 2010, Wind once again applied for authorisation to pay the tax on the vehicle in question under the proportionate registration tax scheme. At the time of the application, the vehicle was no longer registered in any Member State.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9095">
+          <num>10</num>
+          <content eId="para_9095__content">
+            <p>On 12 July 2010, whilst the first application was still being processed by the tax authorities, which had requested certain additional information from Wind, Mr Daell submitted a second application to those authorities, seeking authorisation to use the vehicle in question while the first application was being processed.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9096">
+          <num>11</num>
+          <content eId="para_9096__content">
+            <p>After the tax authorities refused that second application, Mr Daell and Wind instituted legal proceedings against the Ministry of Finance. Those proceedings led to the first set of proceedings before the referring court, the Østre Landsret (Eastern Regional Court of Appeal, Denmark).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9097">
+          <num>12</num>
+          <content eId="para_9097__content">
+            <p>In the meantime, by decision of 21 October 2010, the tax authorities rejected the first application seeking authorisation to pay proportionate registration tax on the vehicle in question. Those authorities took the view that the substantive conditions for paying the proportionate tax were not met in the present case, on grounds relating to the actual situation of the leasing arrangement.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9098">
+          <num>13</num>
+          <content eId="para_9098__content">
+            <p>By decision of 29 June 2011, the Landsskatteretten (National Tax Tribunal, Denmark) ruled that the tax authorities' refusal decision of 21 October 2010 was valid.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9099">
+          <num>14</num>
+          <content eId="para_9099__content">
+            <p>Mr Daell and Wind challenged the decision before the referring court, which decided to join the two cases.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9100">
+          <num>15</num>
+          <content eId="para_9100__content">
+            <p>The referring court has questions about the compatibility with Union law of the prior approval scheme for registration of leased motor vehicles, as provided for under Paragraph 3b of the Law on Registration Tax for Motor Vehicles and as implemented in Danish administrative practice, under which a leased vehicle can be used temporarily in Danish territory only if -- and only as of the time when -- the tax authorities have given authorisation for payment of the proportionate registration tax ( `the prior approval'), unless the entire amount of that tax has been paid at the outset, in which case the taxpayer will be refunded the surplus paid, plus interest, if the application is successful.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9101">
+          <num>16</num>
+          <content eId="para_9101__content">
+            <p>In those circumstances, the Østre Landsret (Eastern Regional Court of Appeal), decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Is it consistent with EU law, including Article 56 TFEU, that a vehicle covered by a leasing agreement between a leasing company domiciled in one Member State and a lessee resident or domiciled in another Member State (please see question 2 below) basically cannot begin being used on the roads of the latter Member State while the authorities process an application for permission to pay proportionate registration tax on that vehicle in respect of the period for which it is desired to use the vehicle in that Member State?</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>Is it compatible with EU law, including Article 56 TFEU, that a national measure serving as a prerequisite for the registration/proportionate adjustment of tax on a vehicle for only temporary, not permanent, use requires prior approval or means that:</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(i)</num>
+                <p>the authorities require full payment of Danish registration tax as a prerequisite for immediate use, and that the difference between the full amount of tax and the proportionate amount of tax that has been calculated is to be repaid with interest if permission is subsequently given; and/or that;</p>
+              </item>
+              <item>
+                <num>(ii)</num>
+                <p>the authorities require full payment of the registration tax as a prerequisite for immediate use, and this is not adjusted, and the surplus is not repaid when temporary use ceases, in the event that permission is not given?'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the questions referred</p>
+        </tblock>
+        <paragraph eId="para_9102">
+          <num>17</num>
+          <content eId="para_9102__content">
+            <p>By its questions, which it is appropriate to consider together, the referring court asks, in essence, whether Article 56 TFEU must be interpreted as precluding a Member State's legislation and administrative practice, such as those at issue in the main proceedings, under which:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>use by a resident in that Member State of a vehicle leased from a leasing company established in another Member State for the purpose of temporary use of that vehicle in the first Member State, in return for payment of a proportionate registration tax calculated proportionately to the duration of that use, is subject to prior approval of that payment by that Member State's tax authorities, without which the vehicle may not, in principle, be used in its territory, and</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>the possibility of making immediate use of such a vehicle in that first Member State whilst the taxpayer's application to pay a proportionate registration tax on that vehicle based on the duration of use in that first Member State is being processed, is subject to advance payment of the full amount of registration tax, with provision made for repayment of the surplus paid, plus interest, if and when the taxpayer is eventually authorised by the tax authorities to pay the registration tax calculated proportionately.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9103">
+          <num>18</num>
+          <content eId="para_9103__content">
+            <p>It must be determined whether such legislation and administrative practice entails a restriction on the freedom to provide services and, if so, whether such a restriction can be justified.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Restriction on the freedom to provide services</p>
+        </tblock>
+        <paragraph eId="para_9104">
+          <num>19</num>
+          <content eId="para_9104__content">
+            <p>First of all, it should be noted that, apart from certain exceptions not relevant to the main proceedings, taxation of motor vehicles has not been harmonised at European Union level. The Member States are thus free to exercise their powers of taxation in that area provided that they do so in compliance with EU law (judgment of 19 September 2017, Commission v Ireland, C‑552/15, EU:C:2017:698, paragraph 71 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9105">
+          <num>20</num>
+          <content eId="para_9105__content">
+            <p>Leasing is a `service' within the meaning of Article 56 TFEU (judgment of 21 March 2002, Cura Anlagen, C‑451/99, EU:C:2002:195, paragraph 18).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9106">
+          <num>21</num>
+          <content eId="para_9106__content">
+            <p>According to the Court of Justice's settled case-law, restrictions on the freedom to provide services enshrined in Article 56 TFEU are those measures which prohibit, impede or render less attractive the exercise of that freedom (see, to that effect, judgment of 14 January 2016, Commission v Greece, C‑66/15, not published, EU:C:2016:5, paragraph 24 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9107">
+          <num>22</num>
+          <content eId="para_9107__content">
+            <p>In the present case, under the Danish legislation, motor vehicles must be registered and equipped with number plates before being used in Denmark. The registration of a vehicle in Denmark is subject to the payment of a registration tax.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9108">
+          <num>23</num>
+          <content eId="para_9108__content">
+            <p>As regards vehicles leased by residents in Denmark for the purpose of temporary use of those vehicles in Denmark, the tax authorities may, when application is made for them to do so, authorise payment of the proportionate registration tax.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9109">
+          <num>24</num>
+          <content eId="para_9109__content">
+            <p>It is apparent from the case file submitted to the Court that, under the Danish administrative practice, that authorisation is issued by the tax authorities at the end of a procedure aimed at verifying compliance with the substantive and formal conditions laid down in the Law on Registration Tax for Motor Vehicles. That procedure takes about one month in the more straightforward cases, although it may be longer in more complex cases.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9110">
+          <num>25</num>
+          <content eId="para_9110__content">
+            <p>Moreover, under that same administrative practice, while that procedure is ongoing, the vehicle concerned is not to be used in Denmark unless the full amount of registration tax has been paid beforehand, in which case the surplus paid, plus interest, will be repaid to the taxpayer, if and when the application for the proportionate registration tax has been successful.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9111">
+          <num>26</num>
+          <content eId="para_9111__content">
+            <p>It is appropriate to begin by considering whether, in circumstances such as those referred to in paragraphs 22 to 24 above, the prior approval scheme gives rise to a restriction on the freedom to provide services before then examining whether the conditions in which such a vehicle may be used immediately, such as those referred to in the preceding paragraph, also give rise to such a restriction.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The prior approval scheme</p>
+        </tblock>
+        <paragraph eId="para_9112">
+          <num>27</num>
+          <content eId="para_9112__content">
+            <p>As evidenced by paragraphs 22 to 24 of this judgment, under the Danish legislation and administrative practice, use by a resident of Denmark of a vehicle leased from a leasing company established in another Member State for the purpose of temporary use of that vehicle in Denmark, in return for payment of a proportionate registration tax, is subject a prior approval procedure of that payment, the purpose of which is to allow the tax authorities to verify compliance with the conditions laid down in the Law on Registration Tax for Motor Vehicles.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9113">
+          <num>28</num>
+          <content eId="para_9113__content">
+            <p>It is true that the prior approval scheme also applies where a resident of Denmark wishes to use, in the same conditions, a vehicle leased from a leasing company established in Denmark.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9114">
+          <num>29</num>
+          <content eId="para_9114__content">
+            <p>However, the derogation provided for in Paragraph 3b of the Law on Registration Tax for Motor Vehicles is used more for vehicles leased from companies established in other Member State, as those vehicles are, as a rule, intended to be used temporarily in Denmark, than for vehicles leased by residents of Denmark from Danish companies and used in Denmark, which are, as a rule, intended essentially to be used permanently in that Member State's territory and which accordingly were registered in that Member State after the full amount of registration tax was paid.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9115">
+          <num>30</num>
+          <content eId="para_9115__content">
+            <p>The Court has held previously that the obligation to register in the Member State where they are used vehicles which have been leased from an undertaking established in another Member State has the effect of making cross-border leasing activities more difficult, with the result that such an obligation amounts to a restriction (see, to that effect, judgment of 21 March 2002, Cura Anlagen, C‑451/99, EU:C:2002:195, paragraphs 37 and 38).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9116">
+          <num>31</num>
+          <content eId="para_9116__content">
+            <p>The same finding holds true in respect of a prior approval scheme, such as the one at issue in the main proceedings. In the present case, where no authorisation has been given by the tax authorities, a vehicle leased by a resident from a leasing company established in another Member State cannot be registered or used in Denmark unless the full amount of registration tax has been paid beforehand. A fortiori is this the case when one considers that the prior approval is not a mere formality, due mainly to the time involved in obtaining it, which can be a month or sometimes longer.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9117">
+          <num>32</num>
+          <content eId="para_9117__content">
+            <p>It follows from the foregoing considerations that a Member State's legislation and practice, such as described in paragraphs 22 to 24 of this judgment, are liable to impede and make less attractive the pursuit of leasing activities in the territory of that State by leasing companies established in other Member States and discourage residents of the first Member State from calling on those providers' services. It follows that such legislation and practice constitute a restriction on the freedom to provide services, prohibited in principle by Article 56 TFEU.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The conditions for immediate use of a vehicle leased by a resident of one Member State from a company established in another Member State for the purpose of temporary use</p>
+        </tblock>
+        <paragraph eId="para_9118">
+          <num>33</num>
+          <content eId="para_9118__content">
+            <p>It follows from the Danish legislation and administrative practice, the respective scopes of which have, in essence, been discussed above in paragraphs 22 to 25, that the possibility for a resident of Denmark to make immediate use of a vehicle leased from a leasing company established in another Member State whilst the taxpayer's application to pay a proportionate registration tax is being processed is subject to advance payment by that taxpayer of the full amount of registration tax on that vehicle, with provision made for repayment of the surplus paid, plus interest, if and when the taxpayer is eventually authorised by the tax authorities to pay a proportionate registration tax.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9119">
+          <num>34</num>
+          <content eId="para_9119__content">
+            <p>The Court has held in that regard in paragraphs 77 and 78 of its judgment of 19 September 2017, Commission v Ireland ( C‑552/15, EU:C:2017:698), that the obligation imposed on persons resident or established in a Member State who rent or lease a vehicle in another Member State, even for a limited period that is known in advance, to pay an amount of tax identical to that applicable where the vehicle is imported permanently is liable to render the rental or leasing of vehicles from a company established in another Member State more onerous than when the rental or leasing contract is entered into with a company established in the first Member State, in the light, in particular, of the discriminatory nature of such an obligation with respect to amortisation of the tax, to the detriment of rental or leasing undertakings established in another Member State. In the case that gave rise to that judgment, the national legislation requiring payment of the full amount of registration tax applied equally to residents of the Member State who rented or leased a vehicle from a company established in its territory.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9120">
+          <num>35</num>
+          <content eId="para_9120__content">
+            <p>Such considerations apply with even greater force in a situation where the immediate use of such a vehicle is subject to advance payment of the full amount of registration tax.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9121">
+          <num>36</num>
+          <content eId="para_9121__content">
+            <p>It is irrelevant in that regard that, under the Danish administrative practice, the surplus registration tax paid is repaid together with interest if and when authorisation is granted for payment of the proportionate registration tax.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9122">
+          <num>37</num>
+          <content eId="para_9122__content">
+            <p>Given the very high amount of registration tax due upon first registration of a vehicle in Denmark, which, according to the explanations provided by the Danish Government, amounts to 105% of the taxable value of the vehicle on the first 81700 Danish Crowns (DKK) (around EUR 10980) and 180% of the remaining taxable value of the vehicle over that amount, the obligation to pay the full amount of registration tax in advance entails the freezing of substantial funds and therefore represents a considerable cash-flow disadvantage for the person liable to pay the tax (see, by analogy, judgment of 19 September 2017, Commission v Ireland ( C‑552/15, EU:C:2017:698, paragraphs 80 and 81).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9123">
+          <num>38</num>
+          <content eId="para_9123__content">
+            <p>Making immediate use of a vehicle leased by the residents of one Member State from a leasing company established in another Member State subject to advance payment of the full amount of registration tax is, therefore, liable to deter both residents of the first Member State from calling on vehicle leasing services offered by service providers established in other Member States and those service providers from offering vehicle rental or leasing services to those residents. Such an obligation thus constitutes a restriction on the freedom to provide services, prohibited, in principle, by Article 56 TFEU (see, by analogy, judgment of 19 September 2017, Commission v Ireland ( C‑552/15, EU:C:2017:698, paragraph 82).</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Justification for the restrictions on the freedom to provide services</p>
+        </tblock>
+        <paragraph eId="para_9124">
+          <num>39</num>
+          <content eId="para_9124__content">
+            <p>According to the Court's settled case-law, restrictions on the freedom to provide services are allowed only by way of exception as expressly provided for in Article 52 TFEU, which applies here by virtue of Article 62 TFEU, or only if justified by overriding reasons relating to the public interest, provided that they are suitable for securing the attainment of the objective which they pursue and do not go beyond what is strictly necessary in order to attain it (see, to that effect, judgment of 21 March 2002, Cura Anlagen, C‑451/99, EU:C:2002:195, paragraphs 31 and 32 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9125">
+          <num>40</num>
+          <content eId="para_9125__content">
+            <p>As regards, more specifically, vehicle registration taxes, it is settled case-law of the Court that a Member State may levy a registration tax on a vehicle made available to a person residing in that State by a company established in another Member State when that vehicle is intended to be used essentially in the first Member State on a permanent basis or is in fact used in that way (judgment of 19 September 2017, Commission v Ireland ( C‑552/15, EU:C:2017:698, paragraph 72 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9126">
+          <num>41</num>
+          <content eId="para_9126__content">
+            <p>On the other hand, if the conditions set out in the previous paragraph are not satisfied, the connection with the territory of the first Member State is weaker, so that another justification for the taxation is necessary (judgment of 19 September 2017, Commission v Ireland ( C‑552/15, EU:C:2017:698, paragraph 73 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9127">
+          <num>42</num>
+          <content eId="para_9127__content">
+            <p>Even if such a justification, founded on an overriding reason in the public interest, exists, it is also necessary for the tax to comply with the principle of proportionality (judgment of 19 September 2017, Commission v Ireland ( C‑552/15, EU:C:2017:698, paragraph 74 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9128">
+          <num>43</num>
+          <content eId="para_9128__content">
+            <p>In the present case, none of the parties concerned who have lodged observations before the Court and the referring court considers that the restrictions of the freedom to provide services arising under the legislation and administrative practice at issue in the main proceedings may be justified on grounds of public policy, public security or public health.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9129">
+          <num>44</num>
+          <content eId="para_9129__content">
+            <p>It must then be considered whether those restrictions may be justified by overriding reasons relating to the public interest, consistently with the Court's case-law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9130">
+          <num>45</num>
+          <content eId="para_9130__content">
+            <p>The Danish Government highlights two points:</p>
+            <blockList>
+              <item>
+                <num>(i)</num>
+                <p>safeguarding the Danish State's powers of taxation; and</p>
+              </item>
+              <item>
+                <num>(ii)</num>
+                <p>the need to prevent circumvention of the taxation rules as well as fraud or abuse.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9131">
+          <num>46</num>
+          <content eId="para_9131__content">
+            <p>The Danish Government submits in that regard that Paragraph 3b of the Law on Registration Tax for Motor Vehicles on the proportionate registration tax departs from the general rules which require, as part of that Member State's powers of taxation in this area, payment of the full amount of registration tax before a vehicle is used in Danish territory. The purpose of the prior approval scheme is to enable the tax authorities to ensure, before the vehicle is used, that the conditions for payment of the proportionate registration tax are met and, therefore, to ensure compliance with the Danish State's powers of taxation. The system is also aimed at preventing residents from concluding artificial leasing contracts for vehicles that are actually intended for long-term use in Denmark and/or actually are theirs, thereby avoiding payment of the full amount of registration tax. The Danish Government observes in that regard that the verification of duration of use and actual leasing arrangement, which are points covered in the examination procedure for prior approval, is inherent in the principle of payment of a tax, such as the proportionate registration tax, the amount of which is calculated proportionately to that duration (see, to that effect, judgment of 21 March 2002, Cura Anlagen, C‑451/99, EU:C:2002:195, paragraph 69).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9132">
+          <num>47</num>
+          <content eId="para_9132__content">
+            <p>As regards the conditions under which a vehicle leased by a resident of Denmark from a company established in another Member State for the purpose of temporary use in Denmark may be used immediately in Denmark, the Danish Government submits that the prohibition on such use for as long as the taxpayer has not been authorised to pay the proportionate registration tax is the natural corollary to the Danish legislation under which, first, vehicles used in Danish territory must be registered there and, second, payment of the proportionate registration tax on leased vehicles is subject to prior approval. The Danish Government states that the objective pursued by the authorisation scheme, as set out in the preceding paragraph, would be undermined if the leased vehicle could be used in Denmark simply upon payment of the proportionate registration tax, before the outcome of the procedure aimed at ascertaining compliance with the conditions laid down in the national legislation for payment of that tax, and payment of the full amount of registration tax on that vehicle would thus be avoided.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9133">
+          <num>48</num>
+          <content eId="para_9133__content">
+            <p>As regards, firstly, the objective of safeguarding the Danish State's powers of taxation, as evidenced by paragraph 19 of this judgment, although Member States are free to exercise their powers of taxation in the area of taxation of vehicles, they must do so in compliance with EU law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9134">
+          <num>49</num>
+          <content eId="para_9134__content">
+            <p>The fact that vehicle taxation falls within the Danish State's powers of taxation cannot therefore justify the restriction on the freedom to provide services (see, by analogy, judgment of 19 September 2017, Commission v Ireland ( C‑552/15, EU:C:2017:698, paragraph 87).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9135">
+          <num>50</num>
+          <content eId="para_9135__content">
+            <p>Secondly, regarding the need to prevent circumvention of the taxation rules as well as fraud or abuse, it is apparent from the Court's settled case-law that a restriction on the freedom to provide services can be justified by the need to prevent abusive practices where it specifically targets wholly artificial arrangements which do not reflect economic reality and whose only purpose is to obtain a tax advantage (judgment of 22 December 2010, Tankreederei I, C‑287/10, EU:C:2010:827, paragraph 28 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9136">
+          <num>51</num>
+          <content eId="para_9136__content">
+            <p>In the case of the prior approval scheme, as evidenced by paragraphs 45, 46 and 50 of this judgment, it is aimed at preventing circumvention of the taxation rules as well as fraud or abuse which, according to the Court's case-law, is an objective that may justify a restriction on the freedom to provide services.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9137">
+          <num>52</num>
+          <content eId="para_9137__content">
+            <p>It should be noted that a prior approval scheme, such as that at issue in the main proceedings, may be held to be suitable for ensuring attainment of the objective referred to in the preceding paragraph. In the present case, in the course of the administrative procedure leading, where successful, to prior approval, the tax authorities verify whether the conditions of application of the proportionate tax are met, including the duration of the leasing contract and the identity of the actual owner of the vehicle in question. That check enables the amount of the tax to be calculated according to the duration of the lease in question and, therefore, the planned period of use of the vehicle in Danish territory. In that regard, the Court's case-law is to the effect that, in order to be consistent with the principle of proportionality, the national legislation laying down the detailed rules for calculating such a tax must take into account the period of use of a vehicle leased from a company established in another Member State in the territory of the Member State in question (see, to that effect, judgment of 19 September 2017, Commission v Ireland ( C‑552/15, EU:C:2017:698, paragraph 95 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9138">
+          <num>53</num>
+          <content eId="para_9138__content">
+            <p>However, the fact that a resident of Denmark uses temporarily in Danish territory a vehicle leased from a leasing company established in another Member State does not by itself provide the basis for a general presumption that there is an abusive practice and justify a measure undermining the exercise of a fundamental freedom guaranteed by the FEU Treaty (see, by analogy, judgment of 4 December 2008, Jobra, C‑330/07, EU:C:2008:685, paragraph 37 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9139">
+          <num>54</num>
+          <content eId="para_9139__content">
+            <p>It must be emphasised in that context that the requirement of prior approval applies to any vehicle leased by a resident of Denmark from a leasing company established in another Member State for the purpose of temporary use in Danish territory, notwithstanding the complete lack of objective factors liable to establish the existence of a purely artificial construct.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9140">
+          <num>55</num>
+          <content eId="para_9140__content">
+            <p>As evidenced by paragraph 25 of this judgment, under the Danish legislation and administrative practice, the possibility of making immediate use of a vehicle leased by a resident of Denmark from a company established in another Member State for the purpose of temporary use of that vehicle in Danish territory is subject to payment of the full amount of registration tax, with provision made for subsequent repayment of any surplus paid, plus interest.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9141">
+          <num>56</num>
+          <content eId="para_9141__content">
+            <p>It should be observed in that regard that that possibility, provided for under the Danish legislation and administrative practice, takes no account of the duration of use of the vehicle in question in Denmark.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9142">
+          <num>57</num>
+          <content eId="para_9142__content">
+            <p>As rightly observed by the Commission at the hearing, a national measure under which the use of vehicles leased by residents of the Member State in question from a leasing company established in another Member State for the purpose of temporary use of those vehicles in the first Member State is permitted upon payment of a tax calculated proportionately to the duration of use of such a vehicle in the first Member State, upon notification of the lease to the tax authorities, with the contract stating, as applicable, information such as that required under Article 3b(9) of the Law on Registration Tax for Motor Vehicles and, subject to a subsequent verification by those authorities, of compliance with the conditions of application of that tax, is a less restrictive measure than those resulting from a Member State's legislation and administrative practice, such as described in paragraphs 22 to 25 of this judgment. As part of such a measure, the Member State in question may also limit the validity of the registration to the duration of the leasing contract. Such measures comprising, where necessary, in proven cases of circumvention of the tax rules or abuse, an obligation for the resident of Denmark, alone or, as the case may be, jointly and severally with the relevant leasing company, to pay the difference between the proportionate registration tax registration and the full amount of the registration tax, and also appropriate criminal sanctions, give the Member State in question the means to prevent and combat the risk referred to in paragraph 46 of this judgment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9143">
+          <num>58</num>
+          <content eId="para_9143__content">
+            <p>As regards the concern expressed by the Danish Government that, upon expiry of the lease, the vehicle will be exported without the amount of registration tax due actually being paid, the preceding paragraph makes it clear that, in proven cases of circumvention of the tax rules or abuse, the State would be entitled to require its resident, alone or, as the case may be, jointly and severally with the relevant leasing company, to pay the registration tax in full, and also to provide for appropriate criminal sanctions.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9144">
+          <num>59</num>
+          <content eId="para_9144__content">
+            <p>Accordingly, the conclusion is that a Member State's legislation and administrative practice, such as described in paragraphs 22 to 25 of this judgment, go beyond what is necessary to achieve the objectives pursued by that legislation and practice.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9145">
+          <num>60</num>
+          <content eId="para_9145__content">
+            <p>In the light of the foregoing considerations, the answer to the questions referred is that Article 56 TFEU must be interpreted as precluding a Member State's legislation and administrative practice, such as those at issue in the main proceedings, under which:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>use by a resident in that Member State of a vehicle leased from a leasing company established in another Member State for the purpose of temporary use of that vehicle in the first Member State, in return for payment of a proportionate registration tax calculated proportionately to the duration of that use, is subject to prior approval of that payment by that Member State's tax authorities, without which the vehicle may not, in principle, be used in its territory, and</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>the possibility of making immediate use of such a vehicle in that first Member State whilst the taxpayer's application to pay a proportionate registration tax on that vehicle based on the duration of use in that first Member State is being processed, is subject to advance payment of the full amount of registration tax, with provision made for repayment of the surplus paid, plus interest, if and when the taxpayer is eventually authorised by the tax authorities to pay the registration tax calculated proportionately.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_9146">
+          <num>61</num>
+          <content eId="para_9146__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Ninth Chamber) hereby rules: Article 56 TFEU must be interpreted as precluding a Member State's legislation and administrative practice, such as those at issue in the main proceedings, under which:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>use by a resident in that Member State of a vehicle leased from a leasing company established in another Member State for the purpose of temporary use of that vehicle in the first Member State, in return for payment of a proportionate registration tax calculated proportionately to the duration of that use, is subject to prior approval of that payment by that Member State's tax authorities, without which the vehicle may not, in principle, be used in its territory, and</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>the possibility of making immediate use of such a vehicle in that first Member State whilst the taxpayer's application to pay a proportionate registration tax on that vehicle based on the duration of use in that first Member State is being processed, is subject to advance payment of the full amount of registration tax, with provision made for repayment of the surplus paid, plus interest, if and when the taxpayer is eventually authorised by the tax authorities to pay the registration tax calculated proportionately.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Danish.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

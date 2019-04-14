@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Grand Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>17 April 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Social policy -- Directive 2000/78/CE -- Equal treatment -- Difference of treatment on grounds of religion or belief -- Occupational activities within churches and other organisations the ethos of which is based on religion or belief -- Religion or belief constituting a genuine, legitimate and justified occupational requirement, having regard to the organisation's ethos -- Concept -- Nature and context of the activities -- Article 17 TFEU -- Articles 10, 21 and 47 of the Charter of Fundamental Rights of the European Union) In Case C‑414/16, REQUEST for a preliminary ruling under Article 267 TFEU from the Bundesarbeitsgericht (Federal Labour Court, Germany), made by decision of 17 March 2016, received at the Court on 27 July 2016, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">Vera Egenberger</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#">Evangelisches Werk für Diakonie und Entwicklung eV</party>
+      </p>
+      <p>, THE COURT (Grand Chamber), composed of K. Lenaerts, President, A. Tizzano, Vice-President, R. Silva de Lapuerta, T. von Danwitz, J.L. da Cruz Vilaça and A. Rosas, Presidents of Chambers, E. Juhász, M. Safjan, D. Šváby, M. Berger, A. Prechal, E. Jarašiūnas, F. Biltgen (Rapporteur), M. Vilaras and E. Regan, Judges, Advocate General: E. Tanchev, Registrar: K. Malacek, Administrator, having regard to the written procedure and further to the hearing on 18 July 2017, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>Ms Egenberger, by K. Bertelsmann, Rechtsanwalt, and P. Stein,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>Evangelisches Werk für Diakonie und Entwicklung eV, by M. Sandmaier, Rechtsanwalt, M. Ruffert and G. Thüsing,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the German Government, by T. Henze and J. Möller, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>Ireland, by E. Creedon, M. Browne, L. Williams and A. Joyce, acting as Agents, and C. Toland SC and S. Kingston BL,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by D. Martin and B.-R. Killmann, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 9 November 2017,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_10282">
+          <num>1</num>
+          <content eId="para_10282__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Article 4(2) of Council Directive 2000/78/EC of 27 November 2000 establishing a general framework for equal treatment in employment and occupation ( OJ 2000 L 303, p. 16).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10283">
+          <num>2</num>
+          <content eId="para_10283__content">
+            <p>The request has been made in proceedings between Ms Vera Egenberger and Evangelisches Werk für Diakonie und Entwicklung eV ( `Evangelisches Werk') concerning a claim by Ms Egenberger for compensation for discrimination on grounds of religion allegedly suffered by her in a recruitment procedure.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <paragraph eId="para_10284">
+          <num>3</num>
+          <content eId="para_10284__content">
+            <p>Recitals 4, 23, 24 and 29 of Directive 2000/78 state: `</p>
+            <blockList>
+              <item>
+                <num>(4)</num>
+                <p>The right of all persons to equality before the law and protection against discrimination constitutes a universal right recognised by the Universal Declaration of Human Rights, the United Nations Convention on the Elimination of All Forms of Discrimination against Women, United Nations Covenants on Civil and Political Rights and on Economic, Social and Cultural Rights and by the European Convention for the Protection of Human Rights and Fundamental Freedoms, to which all Member States are signatories. Convention No 111 of the International Labour Organisation (ILO) prohibits discrimination in the field of employment and occupation. ...</p>
+                <blockList>
+                  <item>
+                    <num>(23)</num>
+                    <p>In very limited circumstances, a difference of treatment may be justified where a characteristic related to religion or belief, disability, age or sexual orientation constitutes a genuine and determining occupational requirement, when the objective is legitimate and the requirement is proportionate. Such circumstances should be included in the information provided by the Member States to the Commission.</p>
+                  </item>
+                  <item>
+                    <num>(24)</num>
+                    <p>The European Union in its Declaration No 11 on the status of churches and non-confessional organisations, annexed to the Final Act of the Amsterdam Treaty, has explicitly recognised that it respects and does not prejudice the status under national law of churches and religious associations or communities in the Member States and that it equally respects the status of philosophical and non-confessional organisations. With this in view, Member States may maintain or lay down specific provisions on genuine, legitimate and justified occupational requirements which might be required for carrying out an occupational activity. ...</p>
+                  </item>
+                </blockList>
+              </item>
+              <item>
+                <num>(29)</num>
+                <p>Persons who have been subject to discrimination based on religion or belief, disability, age or sexual orientation should have adequate means of legal protection. To provide a more effective level of protection, associations or legal entities should also be empowered to engage in proceedings, as the Member States so determine, either on behalf or in support of any victim, without prejudice to national rules of procedure concerning representation and defence before the courts.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10285">
+          <num>4</num>
+          <content eId="para_10285__content">
+            <p>Article 1 of Directive 2000/78 provides: `The purpose of this Directive is to lay down a general framework for combating discrimination on the grounds of religion or belief, disability, age or sexual orientation as regards employment and occupation, with a view to putting into effect in the Member States the principle of equal treatment.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10286">
+          <num>5</num>
+          <content eId="para_10286__content">
+            <p>Article 2(1), (2) and (5) of Directive 2000/78 provides: `1.   For the purposes of this Directive, the ``principle of equal treatment '' shall mean that there shall be no direct or indirect discrimination whatsoever on any of the grounds referred to in Article 1. 2.   For the purposes of paragraph 1:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>direct discrimination shall be taken to occur where one person is treated less favourably than another is, has been or would be treated in a comparable situation, on any of the grounds referred to in Article 1; ... 5.   This Directive shall be without prejudice to measures laid down by national law which, in a democratic society, are necessary for public security, for the maintenance of public order and the prevention of criminal offences, for the protection of health and for the protection of the rights and freedoms of others.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10287">
+          <num>6</num>
+          <content eId="para_10287__content">
+            <p>Article 4 of that directive reads as follows: `1.   Notwithstanding Article 2(1) and (2), Member States may provide that a difference of treatment which is based on a characteristic related to any of the grounds referred to in Article 1 shall not constitute discrimination where, by reason of the nature of the particular occupational activities concerned or of the context in which they are carried out, such a characteristic constitutes a genuine and determining occupational requirement, provided that the objective is legitimate and the requirement is proportionate. 2.   Member States may maintain national legislation in force at the date of adoption of this Directive or provide for future legislation incorporating national practices existing at the date of adoption of this Directive pursuant to which, in the case of occupational activities within churches and other public or private organisations the ethos of which is based on religion or belief, a difference of treatment based on a person's religion or belief shall not constitute discrimination where, by reason of the nature of these activities or of the context in which they are carried out, a person's religion or belief constitute a genuine, legitimate and justified occupational requirement, having regard to the organisation's ethos. This difference of treatment shall be implemented taking account of Member States' constitutional provisions and principles, as well as the general principles of Community law, and should not justify discrimination on another ground. Provided that its provisions are otherwise complied with, this Directive shall thus not prejudice the right of churches and other public or private organisations, the ethos of which is based on religion or belief, acting in conformity with national constitutions and laws, to require individuals working for them to act in good faith and with loyalty to the organisation's ethos.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10288">
+          <num>7</num>
+          <content eId="para_10288__content">
+            <p>Article 9(1) of the directive provides: `Member States shall ensure that judicial and/or administrative procedures, including where they deem it appropriate conciliation procedures, for the enforcement of obligations under this Directive are available to all persons who consider themselves wronged by failure to apply the principle of equal treatment to them, even after the relationship in which the discrimination is alleged to have occurred has ended.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10289">
+          <num>8</num>
+          <content eId="para_10289__content">
+            <p>Article 10(1) of the directive provides: `Member States shall take such measures as are necessary, in accordance with their national judicial systems, to ensure that, when persons who consider themselves wronged because the principle of equal treatment has not been applied to them establish, before a court or other competent authority, facts from which it may be presumed that there has been direct or indirect discrimination, it shall be for the respondent to prove that there has been no breach of the principle of equal treatment.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>German law</p>
+        </tblock>
+        <tblock>
+          <p>The GG</p>
+        </tblock>
+        <paragraph eId="para_10290">
+          <num>9</num>
+          <content eId="para_10290__content">
+            <p>Article 4(1) and (2) of the Grundgesetz für die Bundesrepublik Deutschland (Basic Law for the Federal Republic of Germany, `the GG') provides: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Freedom of belief and of conscience and freedom to profess a religious or philosophical creed shall be inviolable.</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>The undisturbed practice of religion shall be guaranteed.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10291">
+          <num>10</num>
+          <content eId="para_10291__content">
+            <p>In accordance with Article 140 of the GG, the provisions of Articles 136 to 139 and 141 of the Weimar Constitution of 11 August 1919 ( `the WRV') are an integral part of the GG.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10292">
+          <num>11</num>
+          <content eId="para_10292__content">
+            <p>Article 137 of the WRV provides: `1.   There shall be no State church. 2.   Freedom of association to form religious societies shall be guaranteed. There shall be no restrictions on the combination of religious societies within the territory of the State. 3.   Each religious society shall arrange and administer its affairs independently within the limits of the law that applies to everyone. It shall confer its offices without the involvement of the State or the civil municipality. ... 7.   Associations which devote themselves to the communal nurture of a philosophical belief shall be equated with religious societies.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10293">
+          <num>12</num>
+          <content eId="para_10293__content">
+            <p>According to the case-law of the Bundesverfassungsgericht (Federal Constitutional Court, Germany), the holders of the churches' right of self-determination guaranteed by Article 140 of the GG in conjunction with Article 137(3) of the WRV are not only the churches themselves as religious communities but also all institutions affiliated to them in a particular way, if and to the extent that they are called on, in accordance with the churches' faith-defined self-perception and with their own purpose or task, to undertake and fulfil the churches' mandate and mission.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The AGG</p>
+        </tblock>
+        <paragraph eId="para_10294">
+          <num>13</num>
+          <content eId="para_10294__content">
+            <p>The Allgemeines Gleichbehandlungsgesetz (General Law on equal treatment) of 14 August 2006 (BGBl. 2006 I, p. 1897, `the AGG') aims to transpose Directive 2000/78 into German law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10295">
+          <num>14</num>
+          <content eId="para_10295__content">
+            <p>Paragraph 1 of the AGG, defining the objective of the law, states: `The objective of this law is to prevent or eliminate discrimination on grounds of race, ethnic origin, sex, religion or belief, disability, age or sexual identity.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10296">
+          <num>15</num>
+          <content eId="para_10296__content">
+            <p>Paragraph 7(1) of the AGG provides: `Workers must not be discriminated against on any of the grounds mentioned in Paragraph 1; this applies also where the person responsible for the discrimination merely assumes in the course of the discrimination that one of the grounds mentioned in Paragraph 1 exists.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10297">
+          <num>16</num>
+          <content eId="para_10297__content">
+            <p>Under Paragraph 9 of the AGG: `1.   Without prejudice to Paragraph 8 [of this law], a difference of treatment on grounds of religion or belief in connection with employment by religious societies, institutions affiliated to them regardless of their legal form, or associations which devote themselves to the communal nurture of a religion or belief shall also be permitted if a particular religion or belief constitutes a justified occupational requirement, having regard to the self-perception of the religious society or association concerned, in view of its right of self-determination or because of the type of activity. 2.   The prohibition of difference of treatment on grounds of religion or belief shall not affect the right of the religious societies, institutions affiliated to them regardless of their legal form, or associations which devote themselves to the communal nurture of a religion or belief, mentioned in subparagraph 1, to be able to require their employees to act in good faith and loyalty in accordance with their self-perception.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10298">
+          <num>17</num>
+          <content eId="para_10298__content">
+            <p>Paragraph 15 of the AGG reads as follows: `1.   Where there is an infringement of the prohibition of discrimination, the employer shall be required to make good the damage caused thereby. This shall not apply if the employer is not responsible for the breach of duty. 2.   For damage which is not pecuniary damage, the employee may claim appropriate compensation in money. In the case of non-recruitment, the compensation may not exceed three months' pay if the employee would not have been recruited even if the selection had been free from discrimination. ...'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Ecclesiastical law of the Evangelische Kirche in Deutschland</p>
+        </tblock>
+        <paragraph eId="para_10299">
+          <num>18</num>
+          <content eId="para_10299__content">
+            <p>The Grundordnung der Evangelischen Kirche in Deutschland (Basic Code of the Protestant Church in Germany) of 13 July 1948, as last amended by Kirchengesetz (church law) of 12 November 2013, is the basis of the ecclesiastical law of the Evangelische Kirche in Deutschland (Protestant Church in Germany, `the EKD').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10300">
+          <num>19</num>
+          <content eId="para_10300__content">
+            <p>Adopted pursuant to Article 9(b) of that basic code, the Richtlinie des Rates der Evangelischen Kirche in Deutschland über die Anforderungen der privatrechtlichen beruflichen Mitarbeit in der Evangelischen Kirche in Deutschland und des Diakonischen Werkes (Guidelines of the Council of the Protestant Church in Germany on the requirements for occupational work under private law in the EKD and for the Diaconal Work, `the EKD Employment Guidelines') of 1 July 2005, as amended, provides in Paragraph 2(1): `The service of the Church is defined by the mission to bear witness to the Gospel in word and deed. All women and men who work in employment relationships in the Church and Diaconate contribute in different ways to making it possible to fulfil that mission. That mission is the basis of the rights and duties of employers and workers.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10301">
+          <num>20</num>
+          <content eId="para_10301__content">
+            <p>Paragraph 3 of the EKD Employment Guidelines provides: `1.   Occupational work in the Protestant Church and its Diaconate presupposes in principle membership of a member church of the [EKD] or of a church with which the [EKD] is in communion. 2.   For tasks which are not to be regarded as proclamation [of the Gospel], pastoral care, instruction or direction, an exception may be made to subparagraph 1 where other suitable workers cannot be found. In that case persons who belong to another member church of the Working Group of Christian Churches in Germany or the Association of Protestant Free Churches may also be recruited. Recruitment of persons who do not meet the requirements of subparagraph 1 must be examined in each individual case having regard to the size of the workplace or institution and its other workers and the duties to be performed in the particular environment. This is without prejudice to the second sentence of Paragraph 2(1).'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10302">
+          <num>21</num>
+          <content eId="para_10302__content">
+            <p>Entitled `Ecclesio-diaconal mission', Paragraph 2 of the Dienstvertragsordnung der Evangelischen Kirche in Deutschland (EKD Regulation on contracts of employment) of 25 August 2008, which governs the general conditions of work of employees of the EKD under private law, issued by the Central Office of the Diaconal Work and other works and institutions, provides: `Service in the Church is defined by the mission to proclaim the gospel of Jesus Christ in word and deed. Diaconal service is an expression of the life and essence of the Protestant Church.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10303">
+          <num>22</num>
+          <content eId="para_10303__content">
+            <p>Under Paragraph 4 of the EKD Regulation on contracts of employment, `General duties': `Workers contribute according to their gifts, tasks and areas of responsibility to the fulfilment of their ecclesial and diaconal mission. Their whole conduct in service and outside service must correspond to the responsibility which they have accepted as workers in the service of the Church.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10304">
+          <num>23</num>
+          <content eId="para_10304__content">
+            <p>The EKD Employment Guidelines and the EKD Regulation on contracts of employment both apply to Evangelisches Werk.</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_10305">
+          <num>24</num>
+          <content eId="para_10305__content">
+            <p>In November 2012 Evangelisches Werk published an offer of fixed-term employment for a project for producing a parallel report on the United Nations International Convention on the Elimination of All Forms of Racial Discrimination. According to the offer of employment, the work to be done extended to accompanying the process for drawing up the country reports on that convention for 2012 to 2014; drawing up the parallel report to the country report on Germany, and observations and specialist contributions; project-related representation of the diaconate of Germany vis-à-vis the political world, the general public and human rights organisations, and collaboration in certain bodies; providing information and coordinating the opinion-forming process in relation to the association; and organisation, administration and reporting in relation to the work.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10306">
+          <num>25</num>
+          <content eId="para_10306__content">
+            <p>The offer of employment also specified the conditions to be satisfied by candidates. One of these read as follows: `We presuppose membership of a Protestant church or a church belonging to the [Working Group of Christian Churches in Germany] and identification with the diaconal mission. Please state your church membership in your curriculum vitae.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10307">
+          <num>26</num>
+          <content eId="para_10307__content">
+            <p>Ms Egenberger, of no denomination, applied for the post offered. Although her application was shortlisted after a preliminary selection by Evangelisches Werk, she was not invited to an interview. The candidate who was eventually successful had stated with respect to his church membership that he was a `Protestant Christian active in the Berlin regional church'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10308">
+          <num>27</num>
+          <content eId="para_10308__content">
+            <p>Since she considered that her application had been rejected because she did not belong to any denomination, Ms Egenberger brought an action before the Arbeitsgericht Berlin (Labour Court, Berlin, Germany), seeking for Evangelisches Werk to be ordered to pay her EUR 9788.65 in accordance with Paragraph 15(2) of the AGG. She argued that the taking of religion into account in the recruitment procedure, as was apparent from the advertisement of the post in question, was not compatible with the prohibition of discrimination in the AGG, if interpreted in accordance with EU law, and that Paragraph 9(1) of the AGG could not justify the discrimination of which she had been the victim.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10309">
+          <num>28</num>
+          <content eId="para_10309__content">
+            <p>Evangelisches Werk submitted that in the present case a difference of treatment on grounds of religion was justified under Paragraph 9(1) of the AGG. The right to require membership of a Christian church was, in the view of Evangelisches Werk, covered by the churches' right of self-determination protected by Article 140 of the GG in conjunction with Article 137(3) of the WRV. Such a right was consistent with EU law, by reason in particular of the provisions of Article 17 TFEU. Moreover, because of the nature of the activity to which the offer of employment at issue in the main proceedings related, membership of a church constituted a justified occupational requirement, having regard to the ecclesial self-perception of Evangelisches Werk.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10310">
+          <num>29</num>
+          <content eId="para_10310__content">
+            <p>The Arbeitsgericht Berlin (Labour Court, Berlin) allowed Ms Egenberger's action in part. It held that she had been the victim of discrimination, but limited the compensation to EUR 1957.73. After her appeal against that decision was dismissed by the Landesarbeitsgericht Berlin-Brandenburg (Higher Labour Court for Berlin and Brandenburg, Germany), Ms Egenberger brought an appeal on a point of law before the referring court, seeking payment of appropriate compensation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10311">
+          <num>30</num>
+          <content eId="para_10311__content">
+            <p>The Bundesarbeitsgericht (Federal Labour Court, Germany) considers that the outcome of the dispute in the main proceedings depends on whether the differentiation according to church membership by Evangelisches Werk was lawful under Paragraph 9(1) of the AGG. However, that provision must be interpreted in conformity with EU law. The outcome of the dispute therefore depends on the interpretation of Article 4(2) of Directive 2000/78, which Paragraph 9 of the AGG was intended to transpose into national law. The referring court observes that the difference of treatment must also comply with the constitutional provisions and principles of the Member States and with the general provisions of EU law and Article 17 TFEU.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10312">
+          <num>31</num>
+          <content eId="para_10312__content">
+            <p>In the first place, the referring court observes that, according to the express intention of the German legislature, Article 4(2) of Directive 2000/78 was transposed into German law in Paragraph 9 of the AGG in such a way that the legal provisions and practices in force at the time of adoption of the directive were maintained. The legislature took that decision in the light of the case-law of the Bundesverfassungsgericht (Federal Constitutional Court) on the churches' privilege of self-determination. In accordance with that case-law, judicial review should be limited to a review of plausibility on the basis of the church's self-perception. It follows that, where the church's self-perception itself distinguishes between activities `close to' and activities `remote from' proclamation of the church's message, the courts should not review whether and to what extent that distinction is justified. Even if a church's self-perception meant that all posts were to be filled by reference to religious affiliation, whatever the nature of the posts, that would have to be accepted without more extensive judicial review. The question arises, however, of whether that interpretation of Paragraph 9(1) of the AGG is consistent with EU law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10313">
+          <num>32</num>
+          <content eId="para_10313__content">
+            <p>According to the referring court, neither from the wording of Article 4(2) of Directive 2000/78 nor from the recitals of that directive does it follow that an employer such as Evangelisches Werk can itself determine authoritatively that religion, regardless of the nature of the activity concerned, is a justified occupational requirement, having regard to the employer's ethos, and that the national courts can carry out only a review of plausibility in that respect. On the contrary, the statement in that provision that religion must constitute a `genuine, legitimate and justified occupational requirement, having regard to the organisation's ethos' could speak in favour of the national courts having the jurisdiction and the obligation to carry out a review going beyond a mere review of plausibility.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10314">
+          <num>33</num>
+          <content eId="para_10314__content">
+            <p>The referring court observes, however, that, in the opinion of some German legal writers, Article 4(2) of Directive 2000/78 must be interpreted in accordance with primary law, more particularly Declaration No 11 on the status of churches and non-confessional organisations annexed to the Final Act of the Treaty of Amsterdam ( `Declaration No 11') or Article 17 TFEU.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10315">
+          <num>34</num>
+          <content eId="para_10315__content">
+            <p>In the second place, the referring court observes that it will have to decide, if need be, taking into account the whole body of national law and the methods of interpretation recognised by that law, whether and to what extent Paragraph 9(1) of the AGG can be interpreted consistently with Article 4(2) of Directive 2000/78, as interpreted by the Court, without requiring an interpretation contra legem, or whether that provision of the AGG must be disapplied.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10316">
+          <num>35</num>
+          <content eId="para_10316__content">
+            <p>The referring court asks whether the prohibition of discrimination on grounds of religion or belief in Article 21(1) of the Charter of Fundamental Rights of the European Union ( `the Charter') confers a subjective right on an individual which can be enforced by that person before the national courts and which, in disputes between private persons, requires those courts to disapply national provisions which are not compatible with that prohibition.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10317">
+          <num>36</num>
+          <content eId="para_10317__content">
+            <p>The referring court further notes that the Court has not yet stated whether the obligation to disapply national provisions that are incompatible with the prohibition of discrimination on grounds of religion or belief in Article 21(1) of the Charter also applies where an employer such as Evangelisches Werk, in order to justify a difference of treatment on grounds of religion, relies not only on provisions of national constitutional law but also on those of primary law of the EU, in this case Article 17 TFEU.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10318">
+          <num>37</num>
+          <content eId="para_10318__content">
+            <p>In the third place, the referring court observes that it will also have to answer the question, if need be, of what requirements related to religion may, in a case such as that at issue in the main proceedings, by reason of the nature of the activity or the context in which it is carried out, be regarded as constituting a genuine, legitimate and justified occupational requirement, having regard to the organisation's ethos, within the meaning of Article 4(2) of Directive 2000/78.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10319">
+          <num>38</num>
+          <content eId="para_10319__content">
+            <p>The European Court of Human Rights has indeed identified individual criteria in cases concerning conflicts of loyalty, referring inter alia to Directive 2000/78, but those criteria concerned existing employment relationships and were essentially specific to the individual cases.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10320">
+          <num>39</num>
+          <content eId="para_10320__content">
+            <p>In those circumstances, the referring court is uncertain whether such criteria are relevant for the interpretation of Article 4(2) of Directive 2000/78 where the difference of treatment on grounds of religion takes place at the recruitment stage, and whether Article 17 TFEU has an effect on the interpretation of that provision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10321">
+          <num>40</num>
+          <content eId="para_10321__content">
+            <p>The question also arises of whether the national courts must carry out a comprehensive review, or merely a review of plausibility, or simply a review as to abuse, where they are required to ascertain whether, taking into account the nature of the activity concerned or the context in which it is carried out, religion constitutes a genuine, legitimate and justified occupational requirement, having regard to the organisation's ethos, within the meaning of Article 4(2) of Directive 2000/78.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10322">
+          <num>41</num>
+          <content eId="para_10322__content">
+            <p>In those circumstances, the Bundesarbeitsgericht (Federal Labour Court) decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Is Article 4(2) of Directive [2000/78] to be interpreted as meaning that an employer, such as the defendant in the present case, or the church on its behalf, may itself authoritatively determine whether a particular religion of an applicant, by reason of the nature of the activities or of the context in which they are carried out, constitutes a genuine, legitimate and justified occupational requirement, having regard to the employer or church's ethos?</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>If the answer to Question 1 is in the negative: In a case such as the present, is it necessary to disapply a provision of national law -- such as, in this case, the first alternative of Paragraph 9(1) of the AGG -- which provides that a difference of treatment on the ground of religion in the context of employment with religious bodies and the organisations affiliated to them is also lawful where a particular religion, in accordance with the self-perception of the religious community, having regard to its right of self-determination, constitutes a justified occupational requirement?</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>If the answer to Question 1 is in the negative: What requirements are there as regards the nature of the activity or the context in which it is carried out, as genuine, legitimate and justified occupational requirements, having regard to the organisation's ethos, in accordance with Article 4(2) of Directive [2000/78]?'</p>
+                <tblock>
+                  <p>Consideration of the questions referred</p>
+                </tblock>
+                <tblock>
+                  <p>Question 1</p>
+                </tblock>
+                <p>42 By its first question, the referring court essentially asks whether Article 4(2) of Directive 2000/78 must be interpreted as meaning that a church or other organisation whose ethos is based on religion or belief intending to recruit an employee may itself determine authoritatively the occupational activities for which religion, by reason of the nature of the activity concerned or the context in which it is carried out, constitutes a genuine, legitimate and justified occupational requirement, having regard to the ethos of the church or organisation.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10323">
+          <num>43</num>
+          <content eId="para_10323__content">
+            <p>It should be noted, as a preliminary point, that it is not disputed between the parties to the main proceedings that the rejection of Ms Egenberger's application on the ground that she was of no denomination constitutes a difference of treatment on grounds of religion within the meaning of Article 4(2) of Directive 2000/78.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10324">
+          <num>44</num>
+          <content eId="para_10324__content">
+            <p>That said, in accordance with the settled case-law of the Court, in interpreting a provision of EU law it is necessary to consider not only its wording but also its context and the objectives of the legislation of which it forms part, and in particular the origin of that legislation (see, to that effect, judgment of 1 July 2015, Bund für Umwelt und Naturschutz Deutschland, C‑461/13, EU:C:2015:433, paragraph 30).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10325">
+          <num>45</num>
+          <content eId="para_10325__content">
+            <p>As regards, first, the wording of the first subparagraph of Article 4(2) of Directive 2000/78, it follows from that provision that a church or other organisation the ethos of which is based on religion or belief may lay down a requirement related to religion or belief if, having regard to the nature of the activity concerned or the context in which it is carried out, `religion or belief constitute[s] a genuine, legitimate and justified occupational requirement, having regard to the organisation's ethos'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10326">
+          <num>46</num>
+          <content eId="para_10326__content">
+            <p>Clearly, if review of compliance with those criteria were, in the event of doubt as to that compliance, the task not of an independent authority such as a national court but of the church or organisation intending to practise a difference of treatment on grounds of religion or belief, it would be deprived of effect.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10327">
+          <num>47</num>
+          <content eId="para_10327__content">
+            <p>As regards, secondly, the objective of Directive 2000/78 and the context of Article 4(2) of the directive, it must be recalled that that directive's objective, as stated in Article 1, is to lay down a general framework for combating discrimination on the grounds inter alia of religion or belief as regards employment and occupation, with a view to putting into effect in the Member States the principle of equal treatment. The directive is thus a specific expression, in the field covered by it, of the general prohibition of discrimination laid down in Article 21 of the Charter.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10328">
+          <num>48</num>
+          <content eId="para_10328__content">
+            <p>In order to ensure that that general principle is observed, Article 9 of Directive 2000/78, read in the light of recital 29 of the directive, requires the Member States to provide procedures, including judicial procedures, for enforcement of the obligations under the directive. Moreover, Article 10 of the directive requires the Member States to take the necessary measures, in accordance with their national judicial systems, to ensure that, when persons who consider themselves wronged because the principle of equal treatment has not been applied to them establish, before a court or other competent authority, facts from which it may be presumed that there has been direct or indirect discrimination, it is for the respondent to prove that there has been no breach of that principle.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10329">
+          <num>49</num>
+          <content eId="para_10329__content">
+            <p>Furthermore, Article 47 of the Charter, which applies to a dispute such as that in the main proceedings, given that the AGG implements Directive 2000/78 in German law for the purposes of Article 51(1) of the Charter and that the dispute concerns a person who was the subject of a difference of treatment on grounds of religion in connection with access to employment, lays down the right of individuals to effective judicial protection of their rights under EU law (see, to that effect, judgment of 16 May 2017, Berlioz Investment Fund, C‑682/15, EU:C:2017:373, paragraph 50).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10330">
+          <num>50</num>
+          <content eId="para_10330__content">
+            <p>While Directive 2000/78 thus aims to protect the fundamental right of workers not to be discriminated against on grounds of their religion or belief, the fact remains that, by means of Article 4(2), that directive also aims to take into account the right of autonomy of churches and other public or private organisations whose ethos is based on religion or belief, as recognised by Article 17 TFEU and Article 10 of the Charter, which corresponds to Article 9 of the European Convention for the Protection of Human Rights and Fundamental Freedoms signed at Rome on 4 November 1950.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10331">
+          <num>51</num>
+          <content eId="para_10331__content">
+            <p>The objective of Article 4(2) of Directive 2000/78 is thus to ensure a fair balance between the right of autonomy of churches and other organisations whose ethos is based on religion or belief, on the one hand, and, on the other hand, the right of workers, inter alia when they are being recruited, not to be discriminated against on grounds of religion or belief, in situations where those rights may clash.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10332">
+          <num>52</num>
+          <content eId="para_10332__content">
+            <p>To that end, that provision sets out the criteria to be taken into account in the balancing exercise which must be performed in order to ensure a fair balance between those competing fundamental rights.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10333">
+          <num>53</num>
+          <content eId="para_10333__content">
+            <p>In the event of a dispute, however, it must be possible for the balancing exercise to be the subject if need be of review by an independent authority, and ultimately by a national court.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10334">
+          <num>54</num>
+          <content eId="para_10334__content">
+            <p>In this context, the fact that Article 4(2) of Directive 2000/78 refers to national legislation in force at the date of adoption of the directive and national practices existing at that date cannot be interpreted as authorising the Member States to withdraw compliance with the criteria set out in that provision from the scope of effective judicial review.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10335">
+          <num>55</num>
+          <content eId="para_10335__content">
+            <p>In the light of the foregoing, it must be concluded that, where a church or other organisation whose ethos is based on religion or belief asserts, in support of an act or decision such as the rejection of an application for employment by it, that by reason of the nature of the activities concerned or the context in which the activities are to be carried out, religion constitutes a genuine, legitimate and justified occupational requirement, having regard to the ethos of the church or organisation, it must be possible for such an assertion to be the subject, if need be, of effective judicial review by which it can be ensured that the criteria set out in Article 4(2) of Directive 2000/78 are satisfied in the particular case.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10336">
+          <num>56</num>
+          <content eId="para_10336__content">
+            <p>Article 17 TFEU cannot invalidate that conclusion.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10337">
+          <num>57</num>
+          <content eId="para_10337__content">
+            <p>To begin with, the wording of that provision corresponds in substance to that of Declaration No 11. The fact that Declaration No 11 is expressly mentioned in recital 24 of Directive 2000/78 shows that the EU legislature must have taken that declaration into account when adopting the directive, especially Article 4(2), since that provision refers precisely to the national legislation and practices in force on the date of adoption of the directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10338">
+          <num>58</num>
+          <content eId="para_10338__content">
+            <p>Next, it must be stated that Article 17 TFEU expresses the neutrality of the European Union towards the organisation by the Member States of their relations with churches and religious associations and communities. On the other hand, that article is not such as to exempt compliance with the criteria set out in Article 4(2) of Directive 2000/78 from effective judicial review.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10339">
+          <num>59</num>
+          <content eId="para_10339__content">
+            <p>Having regard to all the above considerations, the answer to Question 1 is that Article 4(2) of Directive 2000/78, read in conjunction with Articles 9 and 10 of the directive and Article 47 of the Charter, must be interpreted as meaning that, where a church or other organisation whose ethos is based on religion or belief asserts, in support of an act or decision such as the rejection of an application for employment with it, that by reason of the nature of the activities concerned or the context in which the activities are to be carried out, religion constitutes a genuine, legitimate and justified occupational requirement, having regard to the ethos of the church or organisation, it must be possible for such an assertion to be the subject, if need be, of effective judicial review by which it can be ensured that the criteria set out in Article 4(2) of that directive are satisfied in the particular case.</p>
+            <tblock>
+              <p>Question 3</p>
+            </tblock>
+            <p>60 By its third question, which should be considered before the second question, the referring court essentially asks what the criteria should be for ascertaining in the particular case whether, having regard to the ethos of the church or organisation in question, religion or belief constitutes, in view of the nature of the activity concerned or the context in which it is carried out, a genuine, legitimate and justified occupational requirement within the meaning of Article 4(2) of Directive 2000/78.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10340">
+          <num>61</num>
+          <content eId="para_10340__content">
+            <p>In this respect, it is true that in the balancing exercise provided for in Article 4(2) of Directive 2000/78, recalled in paragraphs 51 and 52 above, the Member States and their authorities, including judicial authorities, must, except in very exceptional cases, refrain from assessing whether the actual ethos of the church or organisation concerned is legitimate (see, to that effect, ECtHR, 12 June 2014, Fernández Martínez v. Spain, CE:ECHR:2014:0612JUD005603007, § 129). They must nonetheless ensure that there is no infringement of the right of workers not to be discriminated against on grounds inter alia of religion or belief. Thus, by virtue of Article 4(2), the purpose of the examination is to ascertain whether the occupational requirement imposed by the church or organisation, by reason of the nature of the activities concerned or the context in which they are carried out, is genuine, legitimate and justified, having regard to that ethos.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10341">
+          <num>62</num>
+          <content eId="para_10341__content">
+            <p>As regards the interpretation of the concept of `genuine, legitimate and justified occupational requirement' in Article 4(2) of Directive 2000/78, it follows expressly from that provision that it is by reference to the `nature' of the activities concerned or the `context' in which they are carried out that religion or belief may constitute such an occupational requirement.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10342">
+          <num>63</num>
+          <content eId="para_10342__content">
+            <p>Thus the lawfulness from the point of view of that provision of a difference of treatment on grounds of religion or belief depends on the objectively verifiable existence of a direct link between the occupational requirement imposed by the employer and the activity concerned. Such a link may follow either from the nature of the activity, for example where it involves taking part in the determination of the ethos of the church or organisation in question or contributing to its mission of proclamation, or else from the circumstances in which the activity is to be carried out, such as the need to ensure a credible presentation of the church or organisation to the outside world.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10343">
+          <num>64</num>
+          <content eId="para_10343__content">
+            <p>Furthermore, the occupational requirement must, as required by Article 4(2) of Directive 2000/78, be `genuine, legitimate and justified', having regard to the ethos of the church or organisation. Although in principle, as stated in paragraph 61 above, it is not for the national courts to rule on the ethos as such on which the purported occupational requirement is founded, they are nevertheless called on to decide on a case-by-case basis whether those three criteria are satisfied from the point of view of that ethos.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10344">
+          <num>65</num>
+          <content eId="para_10344__content">
+            <p>With respect to those criteria, it should be stated, first, as regards the `genuine' nature of the requirement, that the use of that adjective means that, in the mind of the EU legislature, professing the religion or belief on which the ethos of the church or organisation is founded must appear necessary because of the importance of the occupational activity in question for the manifestation of that ethos or the exercise by the church or organisation of its right of autonomy.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10345">
+          <num>66</num>
+          <content eId="para_10345__content">
+            <p>Secondly, as regards the `legitimate' nature of the requirement, the use of that term shows that the EU legislature wished to ensure that the requirement of professing the religion or belief on which the ethos of the church or organisation is founded is not used to pursue an aim that has no connection with that ethos or with the exercise by the church or organisation of its right of autonomy.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10346">
+          <num>67</num>
+          <content eId="para_10346__content">
+            <p>Thirdly, as regards the `justified' nature of the requirement, that term implies not only that compliance with the criteria in Article 4(2) of Directive 2000/78 can be reviewed by a national court, but also that the church or organisation imposing the requirement is obliged to show, in the light of the factual circumstances of the case, that the supposed risk of causing harm to its ethos or to its right of autonomy is probable and substantial, so that imposing such a requirement is indeed necessary.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10347">
+          <num>68</num>
+          <content eId="para_10347__content">
+            <p>The requirement in Article 4(2) of Directive 2000/78 must comply with the principle of proportionality. While that provision, unlike Article 4(1) of the directive, does not expressly provide that the requirement must be `proportionate', it nonetheless provides that any difference of treatment must take account of the `general principles of Community law'. As the principle of proportionality is one of the general principles of EU law (see, to that effect, judgments of 6 March 2014, Siragusa, C‑206/13, EU:C:2014:126, paragraph 34 and the case-law cited, and of 9 July 2015, K and A, C‑153/14, EU:C:2015:453, paragraph 51), the national courts must ascertain whether the requirement in question is appropriate and does not go beyond what is necessary for attaining the objective pursued.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10348">
+          <num>69</num>
+          <content eId="para_10348__content">
+            <p>In the light of those considerations, the answer to Question 3 is that Article 4(2) of Directive 2000/78 must be interpreted as meaning that the genuine, legitimate and justified occupational requirement it refers to is a requirement that is necessary and objectively dictated, having regard to the ethos of the church or organisation concerned, by the nature of the occupational activity concerned or the circumstances in which it is carried out, and cannot cover considerations which have no connection with that ethos or with the right of autonomy of the church or organisation. That requirement must comply with the principle of proportionality.</p>
+            <tblock>
+              <p>Question 2</p>
+            </tblock>
+            <p>70 By its second question, the referring court essentially asks whether a national court is required, in a dispute between individuals, to disapply a provision of national law which it is not possible to interpret in conformity with Article 4(2) of Directive 2000/78.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10349">
+          <num>71</num>
+          <content eId="para_10349__content">
+            <p>It must be recalled that it is for the national courts, taking into account the whole body of rules of national law and applying methods of interpretation recognised by that law, to decide whether and to what extent a national provision such as Paragraph 9(1) of the AGG can be interpreted in conformity with Article 4(2) of Directive 2000/78, without having recourse to an interpretation contra legem of the national provision (see, to that effect, judgment of 19 April 2016, DI, C‑441/14, EU:C:2016:278, paragraphs 31 and 32 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10350">
+          <num>72</num>
+          <content eId="para_10350__content">
+            <p>The Court has held, moreover, that the requirement to interpret national law in conformity with EU law includes the obligation for national courts to change their established case-law, where necessary, if it is based on an interpretation of national law that is incompatible with the objectives of a directive (judgment of 19 April 2016, DI, C‑441/14, EU:C:2016:278, paragraph 33 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10351">
+          <num>73</num>
+          <content eId="para_10351__content">
+            <p>Consequently, a national court cannot validly consider that it is impossible for it to interpret a provision of national law in conformity with EU law merely because that provision has consistently been interpreted in a manner that is incompatible with EU law (see, to that effect, judgment of 19 April 2016, DI, C‑441/14, EU:C:2016:278, paragraph 34).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10352">
+          <num>74</num>
+          <content eId="para_10352__content">
+            <p>In the present case, therefore, it is for the referring court to ascertain whether the national provision in question lends itself to an interpretation in conformity with Directive 2000/78.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10353">
+          <num>75</num>
+          <content eId="para_10353__content">
+            <p>In the event that it is impossible to interpret the national provision at issue in the main proceedings in conformity with EU law, it must be pointed out, first, that Directive 2000/78 does not itself establish the principle of equal treatment in the field of employment and occupation, which originates in various international instruments and the constitutional traditions common to the Member States, but has the sole purpose of laying down, in that field, a general framework for combating discrimination on various grounds, including religion and belief, as may be seen from its title and from Article 1 (see, to that effect, judgment of 10 May 2011, Römer, C‑147/08, EU:C:2011:286, paragraph 59 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10354">
+          <num>76</num>
+          <content eId="para_10354__content">
+            <p>The prohibition of all discrimination on grounds of religion or belief is mandatory as a general principle of EU law. That prohibition, which is laid down in Article 21(1) of the Charter, is sufficient in itself to confer on individuals a right which they may rely on as such in disputes between them in a field covered by EU law (see, with respect to the principle of non-discrimination on grounds of age, judgment of 15 January 2014, Association de médiation sociale, C‑176/12, EU:C:2014:2, paragraph 47).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10355">
+          <num>77</num>
+          <content eId="para_10355__content">
+            <p>As regards its mandatory effect, Article 21 of the Charter is no different, in principle, from the various provisions of the founding Treaties prohibiting discrimination on various grounds, even where the discrimination derives from contracts between individuals (see, by analogy, judgment of 8 April 1976, Defrenne, 43/75, EU:C:1976:56, paragraph 39; of 6 June 2000, Angonese, C‑281/98, EU:C:2000:296, paragraphs 33 to 36; of 3 October 2000, Ferlini, C‑411/98, EU:C:2000:530, paragraph 50; and of 11 December 2007, International Transport Workers' Federation and Finnish Seamen's Union, C‑438/05, EU:C:2007:772, paragraphs 57 to 61).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10356">
+          <num>78</num>
+          <content eId="para_10356__content">
+            <p>Secondly, it must be pointed out that, like Article 21 of the Charter, Article 47 of the Charter on the right to effective judicial protection is sufficient in itself and does not need to be made more specific by provisions of EU or national law to confer on individuals a right which they may rely on as such.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10357">
+          <num>79</num>
+          <content eId="para_10357__content">
+            <p>Consequently, in the situation mentioned in paragraph 75 above, the national court would be required to ensure within its jurisdiction the judicial protection for individuals flowing from Articles 21 and 47 of the Charter, and to guarantee the full effectiveness of those articles by disapplying if need be any contrary provision of national law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10358">
+          <num>80</num>
+          <content eId="para_10358__content">
+            <p>That conclusion is not called into question by the fact that a court may, in a dispute between individuals, be called on to balance competing fundamental rights which the parties to the dispute derive from the provisions of the FEU Treaty or the Charter, and may even be obliged, in the review that it must carry out, to make sure that the principle of proportionality is complied with. Such an obligation to strike a balance between the various interests involved has no effect on the possibility of relying on the rights in question in such a dispute (see, to that effect, judgments of 12 June 2003, Schmidberger, C‑112/00, EU:C:2003:333, paragraphs 77 to 80, and of 11 December 2007, International Transport Workers' Federation and Finnish Seamen's Union, C‑438/05, EU:C:2007:772, paragraphs 85 to 89).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10359">
+          <num>81</num>
+          <content eId="para_10359__content">
+            <p>Further, where the national court is called on to ensure that Articles 21 and 47 of the Charter are observed, while possibly balancing the various interests involved, such as respect for the status of churches as laid down in Article 17 TFEU, it will have to take into consideration the balance struck between those interests by the EU legislature in Directive 2000/78, in order to determine the obligations deriving from the Charter in circumstances such as those at issue in the main proceedings (see, by analogy, judgment of 22 November 2005, Mangold, C‑144/04, EU:C:2005:709, paragraph 76, and order of 23 April 2015, Commission v Vanbreda Risk &amp; Benefits, C‑35/15 P(R), EU:C:2015:275, paragraph 31).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10360">
+          <num>82</num>
+          <content eId="para_10360__content">
+            <p>In the light of the foregoing, the answer to Question 2 is that a national court hearing a dispute between two individuals is obliged, where it is not possible for it to interpret the applicable national law in conformity with Article 4(2) of Directive 2000/78, to ensure within its jurisdiction the judicial protection deriving for individuals from Articles 21 and 47 of the Charter and to guarantee the full effectiveness of those articles by disapplying if need be any contrary provision of national law.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_10361">
+          <num>83</num>
+          <content eId="para_10361__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Grand Chamber) hereby rules:(1) Article 4(2) of Council Directive 2000/78/EC of 27 November 2000 establishing a general framework for equal treatment in employment and occupation, read in conjunction with Articles 9 and 10 of the directive and Article 47 of the Charter of Fundamental Rights of the European Union, must be interpreted as meaning that, where a church or other organisation whose ethos is based on religion or belief asserts, in support of an act or decision such as the rejection of an application for employment with it, that by reason of the nature of the activities concerned or the context in which the activities are to be carried out, religion constitutes a genuine, legitimate and justified occupational requirement, having regard to the ethos of the church or organisation, it must be possible for such an assertion to be the subject, if need be, of effective judicial review by which it can be ensured that the criteria set out in Article 4(2) of that directive are satisfied in the particular case.(2) Article 4(2) of Directive 2000/78 must be interpreted as meaning that the genuine, legitimate and justified occupational requirement it refers to is a requirement that is necessary and objectively dictated, having regard to the ethos of the church or organisation concerned, by the nature of the occupational activity concerned or the circumstances in which it is carried out, and cannot cover considerations which have no connection with that ethos or with the right of autonomy of the church or organisation. That requirement must comply with the principle of proportionality.(3) A national court hearing a dispute between two individuals is obliged, where it is not possible for it to interpret the applicable national law in conformity with Article 4(2) of Directive 2000/78, to ensure within its jurisdiction the judicial protection deriving for individuals from Articles 21 and 47 of the Charter of Fundamental Rights of the European Union and to guarantee the full effectiveness of those articles by disapplying if need be any contrary provision of national law.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: German.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

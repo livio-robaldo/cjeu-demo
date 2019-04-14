@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+      <references source="#source">
+        <TLCOrganization eId="institution_69" showAs="" href="/akn/ontology/Organization/Institution/institution_69" />
+      </references>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Fifth Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>12 April 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Failure of a Member State to fulfil obligations -- Regulation (EC) No 1072/2009 -- Article 2(6) -- Article 8 -- Cabotage operations -- Definition -- Definition contained in a `Questions and answers' document drawn up by the European Commission -- Legal force -- National implementing measures limiting the number of loading points and unloading points which may be part of the same cabotage operation -- Discretion -- Restriction -- Proportionality) In Case C‑541/16, ACTION for failure to fulfil obligations under Article 258 TFEU, brought on 25 October 2016, European Commission, represented by J. Hottiaux, L. Grønfeldt and U. Nielsen, acting as Agents, applicant, v</p>
+      <p>
+        <party as="respondent" refersTo="#institution_69">Kingdom of Denmark</party>
+      </p>
+      <p>, represented initially by C. Thorning then by J. Nymann-Lindegren and M. Sønndahl Wolff, acting as Agents, defendant, THE COURT (Fifth Chamber), composed of J.L. da Cruz Vilaça, President of the Chamber, E. Levits, A. Borg Barthet, M. Berger and F. Biltgen (Rapporteur), Judges, Advocate General: E. Tanchev, Registrar: R. Schiano, Administrator, having regard to the written procedure and further to the hearing on 11 October 2017, after hearing the Opinion of the Advocate General at the sitting on 23 November 2017,</p>
+      <p>gives the following</p>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_9841">
+          <num>1</num>
+          <content eId="para_9841__content">
+            <p>By its application, the European Commission seeks a declaration that the Kingdom of Denmark has failed to fulfil its obligations under Article 2(6) and Article 8 of Regulation (EC) No 1072/2009 of the European Parliament and of the Council of 21 October 2009 on common rules for access to the international road haulage market ( OJ 2009 L 300, p. 72).</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>European Union law</p>
+        </tblock>
+        <tblock>
+          <p>Regulation No 1072/2009</p>
+        </tblock>
+        <paragraph eId="para_9842">
+          <num>2</num>
+          <content eId="para_9842__content">
+            <p>The objective of Regulation No 1072/2009 is the establishment of a common transport policy, inter alia, by laying down common rules applicable to access to the market in the international carriage of goods by road within the territory of the European Union, as well as laying down the conditions under which non-resident hauliers may operate transport services within a Member State. That regulation lays down the principle that international carriage is to be carried out subject to possession of a Community licence. That licence may be issued to any haulier carrying goods by road for hire or reward.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9843">
+          <num>3</num>
+          <content eId="para_9843__content">
+            <p>Recitals 4 to 6, 13 and 15 of Regulation No 1072/2009 state: `</p>
+            <blockList>
+              <item>
+                <num>(4)</num>
+                <p>The establishment of a common transport policy implies the removal of all restrictions against the person providing transport services on the grounds of nationality or the fact that he is established in a different Member State from the one in which the services are to be provided.</p>
+              </item>
+              <item>
+                <num>(5)</num>
+                <p>In order to achieve this smoothly and flexibly, provision should be made for a transitional cabotage regime as long as harmonisation of the road haulage market has not yet been completed.</p>
+              </item>
+              <item>
+                <num>(6)</num>
+                <p>The gradual completion of the single European market should lead to the elimination of restrictions on access to the domestic markets of Member States. Nevertheless, this should take into account the effectiveness of controls and the evolution of employment conditions in the profession, the harmonisation of the rules in the fields of, inter alia, enforcement and road user charges, and social and safety legislation. The Commission should closely monitor the market situation as well as the harmonisation mentioned above and propose, if appropriate, the further opening of domestic road transport markets, including cabotage. ...</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(13)</num>
+                <p>Hauliers who are holders of Community licences provided for in this Regulation and hauliers authorised to operate certain categories of international haulage service should be permitted to carry out national transport services within a Member State on a temporary basis in conformity with this Regulation, without having a registered office or other establishment therein. ... ...</p>
+              </item>
+              <item>
+                <num>(15)</num>
+                <p>Without prejudice to the provisions of the Treaty on the right of establishment, cabotage operations consist of the provision of services by hauliers within a Member State in which they are not established and should not be prohibited as long as they are not carried out in a way that creates a permanent or continuous activity within that Member State. To assist the enforcement of this requirement, the frequency of cabotage operations and the period in which they can be performed should be more clearly defined. In the past, such national transport services were permitted on a temporary basis. In practice, it has been difficult to ascertain which services are permitted. Clear and easily enforceable rules are thus needed.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9844">
+          <num>4</num>
+          <content eId="para_9844__content">
+            <p>Article 2 of Regulation No 1072/2009, headed `Definitions', provides: `For the purposes of this Regulation: ...</p>
+            <blockList>
+              <item>
+                <num>(6)</num>
+                <p>``cabotage operations '' means national carriage for hire or reward carried out on a temporary basis in a host Member State, in conformity with this Regulation; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9845">
+          <num>5</num>
+          <content eId="para_9845__content">
+            <p>Chapter III of Regulation No 1072/2009, entitled `Cabotage', includes Article 8 thereof, which provides in paragraphs 1 and 2: `1.   Any haulier for hire or reward who is a holder of a Community licence and whose driver, if he is a national of a third country, holds a driver attestation, shall be entitled, under the conditions laid down in this Chapter, to carry out cabotage operations. 2.   Once the goods carried in the course of an incoming international carriage have been delivered, hauliers referred to in paragraph 1 shall be permitted to carry out, with the same vehicle, or, in the case of a coupled combination, the motor vehicle of that same vehicle, up to three cabotage operations following the international carriage from another Member State or from a third country to the host Member State. The last unloading in the course of a cabotage operation before leaving the host Member State shall take place within 7 days from the last unloading in the host Member State in the course of the incoming international carriage. Within the time limit referred to in the first subparagraph, hauliers may carry out some or all of the cabotage operations permitted under that subparagraph in any Member State under the condition that they are limited to one cabotage operation per Member State within 3 days of the unladen entry into the territory of that Member State.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Danish law</p>
+        </tblock>
+        <paragraph eId="para_9846">
+          <num>6</num>
+          <content eId="para_9846__content">
+            <p>Paragraph 3 of the Cabotagevejledning gældende fra den 14 maj 2010. En vejdledning om cabotagereglerne i Europarlamentets og Rådets forordnung nr. 1072/2009 om fælles regler for adgang til markedet for international godskørsel (Guidelines of 14 May 2010 on the rules on road transport cabotage in Regulation No 1072/2009 of the European Parliament and of the Council on common rules for access to the international road haulage market, `the Cabotage Guidelines') that the Trafikstyrelsen (Transport Office, Denmark) published on its website on 21 May 2010 states: `A cabotage operation is defined as national carriage of a consignment from the picking-up of the goods until their delivery at the consignee as specified in the consignment note. An operation can involve several loading points or several unloading points.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Pre-litigation procedure</p>
+        </tblock>
+        <paragraph eId="para_9847">
+          <num>7</num>
+          <content eId="para_9847__content">
+            <p>On 2 October 2013, the Commission requested further information from the Kingdom of Denmark within the framework of the EU Pilot Procedure (No 5703/13) in order to determine whether the Danish rules on cabotage operations were compatible with Regulation No 1072/2009 and raised three complaints based on the obligation to submit the relevant documents at the time the checks as to compliance with the rules on cabotage were carried out, the level of fines imposed on hauliers in the event of infringement of those rules, and the limit applied to the possibility to carry out cabotage operations having several loading points and several unloading points.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9848">
+          <num>8</num>
+          <content eId="para_9848__content">
+            <p>The Kingdom of Denmark complied with that request by letters of 18 November and 12 December 2013.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9849">
+          <num>9</num>
+          <content eId="para_9849__content">
+            <p>Taking the view that those answers were unsatisfactory, on 11 July 2014, the Commission sent a letter of formal notice to that Member State and repeated the three complaints referred to in paragraph 7 of the present judgment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9850">
+          <num>10</num>
+          <content eId="para_9850__content">
+            <p>By letter of 9 September 2014, the Kingdom of Denmark challenged those complaints.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9851">
+          <num>11</num>
+          <content eId="para_9851__content">
+            <p>On 25 September 2015, the Commission sent the Kingdom of Denmark a reasoned opinion in which it stated that it was satisfied by the explanations of the Danish authorities and the amendments to the Danish legislation with respect to the complaint about the obligation to submit the relevant documents at the time the checks were carried out. Therefore, the reasoned opinion only concerned the other two complaints.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9852">
+          <num>12</num>
+          <content eId="para_9852__content">
+            <p>The Kingdom of Denmark replied to that reasoned opinion by letter of 25 November 2015 in which it provided further explanations.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9853">
+          <num>13</num>
+          <content eId="para_9853__content">
+            <p>The Commission was satisfied with the explanations relating to the complaint concerning the level of fines imposed on hauliers in the case of infringements of the rules of cabotage. Therefore, it decided to bring the present action, limiting its scope to the complaint relating to the restriction of the number of loading points and unloading points which may be included in a cabotage operation.</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The action</p>
+        </tblock>
+        <tblock>
+          <p>Arguments of the parties</p>
+        </tblock>
+        <paragraph eId="para_9854">
+          <num>14</num>
+          <content eId="para_9854__content">
+            <p>In support of its action, the Commission claims that the definition of `cabotage operations' referred to in Article 2(6) and Article 8 of Regulation No 1072/2009 must be interpreted as meaning that one single cabotage operation may include several loading points, several unloading points or even several loading points and several unloading points.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9855">
+          <num>15</num>
+          <content eId="para_9855__content">
+            <p>The Commission submits that, during the meeting of the Committee on Road Transport of 25 October 2010, the representatives of the Member States reached an agreement on that interpretation which was published on the website of Commission Directorate-General (DG) `Mobility and Transport', in the form of a `Questions and answers' document and is, therefore, binding on all Member States.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9856">
+          <num>16</num>
+          <content eId="para_9856__content">
+            <p>The Commission takes the view that, in so far as the Cabotage Guidelines adopted by the Kingdom of Denmark provide that a cabotage operation may include either several loading points or several unloading points, they fail to comply either with that interpretation or the objective pursued by Regulation No 1072/2009.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9857">
+          <num>17</num>
+          <content eId="para_9857__content">
+            <p>Finally, in its reply, the Commission refutes the argument of the Kingdom of Denmark that the Member States have discretion to adopt national implementing measures in order to clarify the definition of `cabotage operations' within the meaning of Regulation No 1072/2009. According to the Commission, such discretion cannot exist as that definition was harmonised by Article 2(6) and Article 8 of that regulation and, in any event, the Cabotage Guidelines are not consistent with the principle of proportionality.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9858">
+          <num>18</num>
+          <content eId="para_9858__content">
+            <p>The Kingdom of Denmark challenges the interpretation of the definition of `cabotage operations' recommended by the Commission. It observes that Article 8(2) of Regulation No 1072/2009 simply states that up to three cabotage operations can be carried out with the same vehicle, but fails to indicate the number of loading points and unloading points which may be included in a single cabotage operation. Thus, that regulation lacks clarity as regards that definition.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9859">
+          <num>19</num>
+          <content eId="para_9859__content">
+            <p>That argument is supported by the fact that the rules relating to cabotage operations laid down by Regulation No 1072/2009 are interpreted and applied differently in the Member States, as is clear more specifically from pages 18 and 19 of the Report from the Commission to the European Parliament and the Council on the State of the Union Road Transport Market (COM(2014) 222 final). Furthermore, the Commission itself acknowledged that the definition of cabotage operations in Regulation No 1072/2009 is problematic and plans to revise that regulation in order to remedy that problem.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9860">
+          <num>20</num>
+          <content eId="para_9860__content">
+            <p>As to the argument that the interpretation of the definition of cabotage operations was clarified as a result of a meeting of the Committee on Road Transport, and that the new definition drawn up by the representatives of the Member States on that occasion appeared in a `Questions and answers' document is binding on the Member States, the Kingdom of Denmark submits that that document has no legal force and that the definition that it contains is not based on an agreement between the Member States.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9861">
+          <num>21</num>
+          <content eId="para_9861__content">
+            <p>The Kingdom of Denmark states that the Court held, in paragraph 48 of the judgment of 21 December 2011, Danske Svineproducenter ( C‑316/10, EU:C:2011:863), that, when a regulation lacks clarity, the Member States have discretion to adopt measures at national level in order to remedy that, provided however that those measures are proportionate and consistent with the objectives pursued by the regulation in question.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9862">
+          <num>22</num>
+          <content eId="para_9862__content">
+            <p>That Member State observes that, in accordance with Article 2(6) and Article 8(2) of Regulation No 1072/2009, read in the light of recital 15 thereof, the latter's objective is to limit national transport of goods by road in the host Member State carried out by a non-resident road haulier by prohibiting, in particular, cabotage operations carried out in such a way as to create a permanent or continuous activity in that Member State.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9863">
+          <num>23</num>
+          <content eId="para_9863__content">
+            <p>If no limit were imposed on the number of loading and unloading points, it would be possible for a non-resident road haulier to carry out a large number of transport operations in the host Member State which would be regarded as constituting a single cabotage operation, so that the limit on three operations laid down by Regulation No 1072/2009 could be circumvented.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9864">
+          <num>24</num>
+          <content eId="para_9864__content">
+            <p>The Kingdom of Denmark concludes that, in so far as they ensure the temporary nature of the cabotage and help to improve the load factor of heavy goods vehicles and avoid empty journeys to improve transport efficiency, the Cabotage Guidelines are consistent with the objective pursued by Regulation No 1072/2009. Those measures also help to enhance legal certainty and ensure the effectiveness of the checks on compliance with the regulation.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Findings of the Court</p>
+        </tblock>
+        <paragraph eId="para_9865">
+          <num>25</num>
+          <content eId="para_9865__content">
+            <p>In order to rule on the substance of the present action, it must be recalled, as a preliminary point, that it is established case-law that in proceedings for failure to fulfil obligations it is for the Commission to prove the existence of the alleged infringement and to provide the Court with the information necessary for it to determine whether the infringement is made out, and the Commission may not rely on any presumption for that purpose (judgments of 12 May 2005, Commission v Belgium, C‑287/03, EU:C:2005:282, paragraph 27 and the case-law cited, and of 19 May 2011, Commission v Malta, C‑376/09, EU:C:2011:320, paragraph 32 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9866">
+          <num>26</num>
+          <content eId="para_9866__content">
+            <p>In the present case, the Commission criticises the Kingdom of Denmark for having failed to fulfil its obligations under Article 2(6) and Article 8 of Regulation No 1072/2009 by adopting national implementing measures intended to clarify the interpretation of the definition of `cabotage operations' within the meaning of that regulation, even though that Member State was not competent to do so. In any event, those measures are not consistent with the objective pursued by Regulation No 1072/2009.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9867">
+          <num>27</num>
+          <content eId="para_9867__content">
+            <p>In that connection, it should also be recalled that, if, by virtue of the very nature of regulations and of their function in the system of sources of European Union law, the provisions of regulations generally have immediate effect in the national legal systems without its being necessary for the national authorities to adopt measures of application, however, some of their provisions may necessitate, for their implementation, the adoption of measures of application by the Member States (judgments of 21 December 2011, Danske Svineproducenter, C‑316/10, EU:C:2011:863, paragraphs 39 and 40, and of 30 March 2017, Lingurár, C‑315/16, EU:C:2017:244, paragraph 17 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9868">
+          <num>28</num>
+          <content eId="para_9868__content">
+            <p>It is established that Member States may adopt implementing measures for a regulation provided that they do not thereby obstruct its direct applicability or conceal its nature as an act of EU law; that they specify that they are acting in exercise of a discretion conferred on them under that regulation; and that they adhere to the parameters laid down thereunder (judgments of 21 December 2011, Danske Svineproducenter, C‑316/10, EU:C:2011:863, paragraph 41, and of 30 March 2017, Lingurár, C‑315/16, EU:C:2017:244, paragraph 18 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9869">
+          <num>29</num>
+          <content eId="para_9869__content">
+            <p>It is by referring to the relevant provisions of the regulation concerned, interpreted in the light of its objectives, that it may be determined whether they prohibit, require or allow Member States to adopt certain implementing measures and, particularly in the latter case, whether the measure concerned comes within the scope of the discretion that each Member State is recognised as having (judgment of 30 March 2017, Lingurár, C‑315/16, EU:C:2017:244, paragraph 19 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9870">
+          <num>30</num>
+          <content eId="para_9870__content">
+            <p>In that connection, it must be recalled that the relevant provisions of Regulation No 1072/2009, that is Article 2(6) and Article 8 thereof, do not expressly authorise the Member States to adopt national implementing measures as far as concerns cabotage operations.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9871">
+          <num>31</num>
+          <content eId="para_9871__content">
+            <p>However, as is clear from paragraph 28 of the present judgment, and as the Advocate General noted in point 41 of his Opinion, the Member States may adopt national implementing regulations in respect of a regulation even though that regulation does not expressly authorise them to do so.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9872">
+          <num>32</num>
+          <content eId="para_9872__content">
+            <p>Thus the Court has already held, in paragraphs 48 to 50 of the judgment of 21 December 2011, Danske Svineproducenter ( C‑316/10, EU:C:2011:863), in the context of Council Regulation (EC) No 1/2005 of 22 December 2004 on the protection of animals during transport and related operations and amending Directives 64/432/EEC and 93/119/EC and Regulation (EC) No 1255/97 ( OJ 2005 L 3, p. 1), that Member States must be recognised as having some discretion enabling them to adopt national measures laying down numerical standards as regards the internal height of compartments for the transportation of pigs by road, in so far as, even though that regulation did not expressly authorise the Member States to adopt those standards it did not specifically lay down the height of those compartments.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9873">
+          <num>33</num>
+          <content eId="para_9873__content">
+            <p>Likewise, the Court held, in paragraphs 36 and 40 to 43 of the judgment of 28 October 2010, SGS Belgium and Others ( C‑367/09, EU:C:2010:648), that even though Council Regulation (EC, Euratom) No 2988/95 of 18 December 1995 on the protection of the European Communities financial interests ( OJ 1995 L 312, p. 1) did not expressly authorise the Member States to do so, they were entitled to adopt national implementing measures laying down penalties which may be imposed if the infringement of EU law prejudices the EU budget, since the relevant provisions of that regulation simply lay down general rules and do not specify in which situations or to whom each of those penalties applies.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9874">
+          <num>34</num>
+          <content eId="para_9874__content">
+            <p>Therefore, in the same way, it is important to verify whether, as the Kingdom of Denmark states, the definition of `cabotage operations' set out in Regulation No 1072/2009 lacks precision, in particular as regards the question whether a cabotage operation may include several points of loading and several points of unloading, so that the adoption of national implementing measures intended to clarify the scope of that definition appears justified.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9875">
+          <num>35</num>
+          <content eId="para_9875__content">
+            <p>In that connection, it must be observed, first, that Article 2(6) of Regulation No 1072/2009 defines `cabotage operations' as `national carriage for hire or reward carried out on a temporary basis in a host Member State' without, however, any indication of the number of loading or unloading points that may constitute such an operation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9876">
+          <num>36</num>
+          <content eId="para_9876__content">
+            <p>Article 8(2) of that regulation states that once the goods carried in the course of an incoming international carriage have been delivered, non-resident hauliers are to be permitted to carry out up to three cabotage operations following the international carriage from another Member State or from a third country to the host Member State. The provision states that the last unloading in the course of a cabotage operation before leaving the host Member State must take place within 7 days from the last unloading in the host Member State in the course of the incoming international carriage.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9877">
+          <num>37</num>
+          <content eId="para_9877__content">
+            <p>While it follows from the words `last unloading in the course of a cabotage operation' in that article that a cabotage operation may consist of a number of unloading points, that provision does not state however whether a cabotage operation may also include several loading points.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9878">
+          <num>38</num>
+          <content eId="para_9878__content">
+            <p>Consequently, it must be held that the wording of Article 2(6) and Article 8(2) of Regulation No 1072/2009 do not give an answer to the question whether the definition of `cabotage operations' referred to in that regulation must be understood as meaning that a cabotage operation may include a number of loading points and a number of unloading points.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9879">
+          <num>39</num>
+          <content eId="para_9879__content">
+            <p>As the Advocate General observed, in point 44 of his Opinion, the fact that a provision of a regulation is worded in general or imprecise terms is an indication that domestic measures of application are required.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9880">
+          <num>40</num>
+          <content eId="para_9880__content">
+            <p>Furthermore, since the objective of Regulation No 1072/2009 is to ensure a coherent framework for international road haulage throughout the European Union, that regulation does not preclude a Member State from adopting certain implementing measures for that regulation. In particular, as far as concerns cabotage operations, recital 5 of that regulation states that provision should be made for a transitional regime for that type of transport so long as the harmonisation of the road transport market has not yet been completed.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9881">
+          <num>41</num>
+          <content eId="para_9881__content">
+            <p>Second, it should be pointed out that, in order to decide when the limit of three transport operations laid down in Article 8(2) of Regulation No 1072/2009 must be regarded as being reached, it must be determined whether a transport operation consisting of several loading points and unloading points is one single cabotage operation or several cabotage operations.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9882">
+          <num>42</num>
+          <content eId="para_9882__content">
+            <p>Third, it is common ground that the definition of `cabotage operations', within the meaning of Regulation No 1072/2009 is interpreted differently in different Member States. As the Advocate General observed, in point 49 of his Opinion, the Kingdom of Denmark and, until recently, the Republic of Finland consider that one operation cannot not have several loading points and several unloading points. The Kingdom of Belgium, the Federal Republic of Germany and the Republic of Poland allow several loading points and several unloading points where there is one single freight contract or where the goods have the same consignor or the same consignee. The Kingdom of the Netherlands and the Kingdom of Sweden consider that a cabotage operation can always have several loading and several unloading points. Such a difference of interpretation shows the lack of clarity and precision of Regulation No 1072/2009 regarding the definition of cabotage operations.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9883">
+          <num>43</num>
+          <content eId="para_9883__content">
+            <p>Fourth, it must be observed that, in paragraph 19 of its report COM(2014) 222 final, in its written observations and at the hearing, the Commission itself acknowledged the need to clarify the definition of `cabotage operations' within the meaning of Regulation No 1072/2009.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9884">
+          <num>44</num>
+          <content eId="para_9884__content">
+            <p>Therefore, it must be held that, even though Article 2(6) and Article 8 of Regulation No 1072/2009 do not expressly provide for the adoption of national implementing measures, they are unclear as regards the definition of cabotage operation, so that the Member States must be granted discretion to adopt such measures.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9885">
+          <num>45</num>
+          <content eId="para_9885__content">
+            <p>As the Advocate General states, in points 57 and 58 of his Opinion, that finding cannot be called into question by the draft regulation of the European Parliament and the Council amending Regulation (EC) No 1071/2009 and Regulation (EC) No 1072/2009 with a view to adapting them to developments in the sector (COM(2017) 281 final), which aims, inter alia, to amend Regulation No 1072/2009 with respect to the definition of cabotage operations in Article 2(6) thereof. Since the draft regulation is still under discussion, it is irrelevant for the purposes of the present case.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9886">
+          <num>46</num>
+          <content eId="para_9886__content">
+            <p>The Commission's argument that the interpretation of the definition of cabotage operations was clarified in a `Questions and answers' document adopted following the meeting of the Committee on Road Transport on 25 October 2010 also cannot be accepted.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9887">
+          <num>47</num>
+          <content eId="para_9887__content">
+            <p>Even if, as the Commission claims, that document was published on the website of Commission DG `Mobility and Transport', it was not published in the Official Journal of the European Union. Furthermore, as the Advocate General observed, in points 82 to 84 of his Opinion, Article 2(2) of the Rules of Procedure for the Committee on Road Transport states that the agenda drawn up for each meeting is to make a distinction between, on the one hand, proposed measures about which that committee is asked to give an opinion, in accordance with the regulatory procedure with scrutiny, and, on the other hand, other issues put to that committee for information or a simple exchange of views. It is clear from the file before the Court that the interpretation of the definition of `cabotage operations', as set out in that document, does in fact appear on the agenda of the Committee on Road Transport of 25 October 2010, but that it was not put to the vote. Therefore, that interpretation cannot be regarded as resulting from an agreement between the representatives of the Member States. In any event, the Commission itself acknowledged in its written observations and at the hearing that that document is not legally binding.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9888">
+          <num>48</num>
+          <content eId="para_9888__content">
+            <p>In those circumstances, the Kingdom of Denmark cannot be criticised for having adopted national implementing measures for Regulation No 1072/2009 and, more specifically, for Article 2(6) and Article 8 thereof, in order to clarify the scope of the definition of `cabotage operations' within the meaning of the latter with a view to its application on the territory of that Member State.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9889">
+          <num>49</num>
+          <content eId="para_9889__content">
+            <p>However, it is important to verify whether the national implementing measures adopted by the Kingdom of Denmark, namely the Cabotage Guidelines, are consistent with the principle of proportionality.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9890">
+          <num>50</num>
+          <content eId="para_9890__content">
+            <p>The principle of proportionality, which applies to, inter alia, the legislative and regulatory authorities of the Member States when they apply European Union law, requires that measures implemented by means of a provision must be appropriate for attaining the objective pursued and must not go beyond what is necessary to achieve it (judgment of 21 December 2011, Danske Svineproducenter, C‑316/10, EU:C:2011:863, paragraph 52).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9891">
+          <num>51</num>
+          <content eId="para_9891__content">
+            <p>First, as regards whether the Cabotage Guidelines are appropriate to achieve the objective intended by Regulation No 1072/2009 as far as concerns that type of transport, the Kingdom of Denmark submits that, by prohibiting non-resident road hauliers from carrying out cabotage operations with several loading points and several unloading points, those measures aim, in particular, to ensure that cabotage operations are not carried out in such a manner as to create a permanent or continuous activity.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9892">
+          <num>52</num>
+          <content eId="para_9892__content">
+            <p>In that connection it must be observed, as stated in recital 5 thereof, that, as Regulation No 1072/2009 is intended to establish a transitional cabotage regime, the Member States are not required to completely open national markets to non-resident hauliers. This is why, under Article 8(2) of Regulation No 1072/2009, cabotage is permitted only following an international carriage and is limited to three operations within 7 days from the unloading of that international carriage. Furthermore, recitals 13 and 15 of Regulation No 1072/2009 emphasise the temporary nature of cabotage and state, in particular, that cabotage operations should not be carried out so as to create a permanent or continuous activity in the host Member State.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9893">
+          <num>53</num>
+          <content eId="para_9893__content">
+            <p>As the Advocate General noted, in points 66 and 68 of his Opinion, allowing non-resident hauliers to carry out cabotage operations with an unlimited number of loadings points and an unlimited number of unloading points could render meaningless the three-operation limit laid down in Article 8(2) of Regulation No 1072/2009 and, thereby, run counter to the temporary nature of the cabotage and the objective pursued by that regulation with regard to that type of transport. In those circumstances, therefore, the temporary nature of the cabotage is ensured only through the 7-day limit laid down in Article 8(2) of Regulation No 1072/2009.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9894">
+          <num>54</num>
+          <content eId="para_9894__content">
+            <p>Therefore, the prohibition laid down by the Cabotage Guidelines is of such a nature as to ensure compliance with the limit of three transport operations laid down in Article 8(2) of that regulation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9895">
+          <num>55</num>
+          <content eId="para_9895__content">
+            <p>Accordingly, those measures are appropriate to achieve the objective pursued by Regulation No 1072/2009 with regard to cabotage.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9896">
+          <num>56</num>
+          <content eId="para_9896__content">
+            <p>Second, it must be ascertained whether the Cabotage Guidelines go beyond what is necessary to achieve that objective.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9897">
+          <num>57</num>
+          <content eId="para_9897__content">
+            <p>The Kingdom of Denmark submits that the limit on the number of loading points and unloading points in a cabotage operation provided for in the Cabotage Guidelines is necessary to ensure the temporary nature of the cabotage operation and that that limit is not too restrictive because those guidelines do not go as far as stating that a cabotage operation may have only one loading point and one unloading point.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9898">
+          <num>58</num>
+          <content eId="para_9898__content">
+            <p>It must be observed in that regard that the Cabotage Guidelines provide that a cabotage operation may have several loading points or several unloading points. Therefore, those measures do not limit the number of consignors or principles for the same cabotage operation and impliedly allow a cabotage operation to have several loading points and one unloading point or several unloading points and one loading point.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9899">
+          <num>59</num>
+          <content eId="para_9899__content">
+            <p>It follows that, according to the Cabotage Guidelines, only cabotage operations having several loading points and several unloading points are prohibited.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9900">
+          <num>60</num>
+          <content eId="para_9900__content">
+            <p>Therefore, those measures do not go beyond what is necessary to achieve the objective pursued by Regulation No 1072/2009.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9901">
+          <num>61</num>
+          <content eId="para_9901__content">
+            <p>Taking account of the foregoing, it must be held that the Cabotage Guidelines are consistent with the principle of proportionality.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9902">
+          <num>62</num>
+          <content eId="para_9902__content">
+            <p>In those circumstances, it must be held that the Commission has failed to establish that, by adopting national implementing measures aiming to clarify the definition of cabotage operation within the meaning of Regulation No 1072/2009, the Kingdom of Denmark has failed to fulfil its obligations under Article 2(6) and Article 8 thereof.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9903">
+          <num>63</num>
+          <content eId="para_9903__content">
+            <p>Therefore, the Commission's application must be dismissed.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_9904">
+          <num>64</num>
+          <content eId="para_9904__content">
+            <p>Under Article 138(1) of the Rules of Procedure, the unsuccessful party is to be ordered to pay the costs, if costs have been applied for. Since the Kingdom of Denmark has applied for costs and the Commission has been unsuccessful, the latter must be ordered to pay the costs. On those grounds, the Court (Fifth Chamber) hereby: 1. Dismisses the action; 2. Orders the European Commission to pay the costs.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Danish.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

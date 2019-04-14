@@ -1,0 +1,928 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Fifth Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>22 December 2017 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Urgent preliminary ruling procedure -- Police and judicial cooperation in criminal matters -- European arrest warrant -- Framework Decision 2002/584/JHA -- Surrender procedures between Member States -- Conditions for execution -- Grounds for optional non-execution -- Article 4a(1) of Framework Decision 2009/299/JHA -- Arrest warrant issued for the purpose of executing a custodial sentence -- `Trial resulting in the decision' -- Scope -- Person sentenced to a custodial sentence in final proceedings conducted in his presence -- Execution of sentence subsequently suspended in part subject to certain conditions -- Subsequent proceedings leading to revocation of the suspension due to non-compliance with those conditions -- Revocation proceedings conducted in the absence of the person concerned) In Case C‑571/17 PPU, REQUEST for a preliminary ruling under Article 267 TFEU from the Rechtbank Amsterdam (District Court, Amsterdam, Netherlands), made by decision of 28 September 2017, received at the Court on the same date, in the proceedings relating to the execution of a European arrest warrant issued against Samet Ardic, THE COURT (Fifth Chamber), composed of J.L. da Cruz Vilaça, President of the Chamber, E. Levits, A. Borg Barthet, M. Berger and F. Biltgen (Rapporteur), Judges, Advocate General: M. Bobek, Registrar: M. Ferreira, Principal Administrator, having regard to the written procedure and further to the hearing on 22 November 2017, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>Openbaar Ministerie, by K. van der Schaft and U.E.A. Weitzel, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>Mr Ardic, by T.O.M. Dieben, L.J. Woltring and J.W. Ebbink, advocaten,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Netherlands Government, by J. Langer and M.K. Bulterman, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the German Government, by T. Henze and M. Hellmann, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>Ireland, by G. Hodge, acting as Agent, and by G. Mullan, BL,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by R. Troosters and S. Grünheid, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 20 December 2017,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_713">
+          <num>1</num>
+          <content eId="para_713__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Article 4a(1) of Council Framework Decision 2002/584/JHA of 13 June 2002 on the European arrest warrant and the surrender procedures between Member States ( OJ 2002 L 190, p. 1), as amended by Council Framework Decision 2009/299/JHA of 26 February 2009 ( OJ 2009 L 81, p. 24) ( `Framework Decision 2002/584').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_714">
+          <num>2</num>
+          <content eId="para_714__content">
+            <p>The request has been made in connection with the execution in the Netherlands of a European arrest warrant issued by the Staatsanwaltschaft Stuttgart (Public Prosecutor's Office, Stuttgart, Germany) against Mr Samet Ardic with a view to executing two custodial sentences in Germany.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>International law</p>
+        </tblock>
+        <paragraph eId="para_715">
+          <num>3</num>
+          <content eId="para_715__content">
+            <p>Article 6 of the European Convention for the Protection of Human Rights and Fundamental Freedoms, signed at Rome on 4 November 1950 ( `the ECHR'), which is entitled `Right to a fair trial', provides: `1.   In the determination of his civil rights and obligations or of any criminal charge against him, everyone is entitled to a fair and public hearing within a reasonable time by an independent and impartial tribunal established by law. ... 2.   Everyone charged with a criminal offence shall be presumed innocent until proved guilty according to law. 3.   Everyone charged with a criminal offence has the following minimum rights:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>to be informed promptly, in a language which he understands and in detail, of the nature and cause of the accusation against him;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>to have adequate time and facilities for the preparation of his defence;</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>to defend himself in person or through legal assistance of his own choosing or, if he has not sufficient means to pay for legal assistance, to be given it free when the interests of justice so require;</p>
+              </item>
+              <item>
+                <num>(d)</num>
+                <p>to examine or have examined witnesses against him and to obtain the attendance and examination of witnesses on his behalf under the same conditions as witnesses against him;</p>
+              </item>
+              <item>
+                <num>(e)</num>
+                <p>to have the free assistance of an interpreter if he cannot understand or speak the language used in court.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <tblock>
+          <p>The Charter</p>
+        </tblock>
+        <paragraph eId="para_716">
+          <num>4</num>
+          <content eId="para_716__content">
+            <p>Articles 47 and 48 of the Charter of Fundamental Rights of the European Union ( `the Charter') form part of title VI thereof, entitled `Justice'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_717">
+          <num>5</num>
+          <content eId="para_717__content">
+            <p>Article 47 of the Charter, entitled `Right to an effective remedy and to a fair trial' provides that: `Everyone whose rights and freedoms guaranteed by the law of the Union are violated has the right to an effective remedy before a tribunal in compliance with the conditions laid down in this Article. Everyone is entitled to a fair and public hearing within a reasonable time by an independent and impartial tribunal previously established by law. Everyone shall have the possibility of being advised, defended and represented. ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_718">
+          <num>6</num>
+          <content eId="para_718__content">
+            <p>The Explanations relating to the Charter of Fundamental Rights ( OJ 2007 C 303, p. 17) state that the second paragraph of Article 47 of the Charter corresponds to Article 6(1) of the ECHR.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_719">
+          <num>7</num>
+          <content eId="para_719__content">
+            <p>Article 48 of the Charter, entitled `Presumption of innocence and right of defence', provides: `1.   Everyone who has been charged shall be presumed innocent until proved guilty according to law. 2.   Respect for the rights of the defence of anyone who has been charged shall be guaranteed.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_720">
+          <num>8</num>
+          <content eId="para_720__content">
+            <p>The Explanations referred to in paragraph 6 of the present judgment state in that regard: `Article 48 is the same as Article 6(2) and (3) of the ECHR, ... ... In accordance with Article 52(3), this right has the same meaning and scope as the right guaranteed by the ECHR.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_721">
+          <num>9</num>
+          <content eId="para_721__content">
+            <p>Article 52 of the Charter, entitled `Scope and interpretation of rights and principles', provides: ` ... 3.   In so far as this Charter contains rights which correspond to rights guaranteed by the Convention for the Protection of Human Rights and Fundamental Freedoms, the meaning and scope of those rights shall be the same as those laid down by the said Convention. This provision shall not prevent Union law providing more extensive protection. ... 7.   The explanations drawn up as a way of providing guidance in the interpretation of this Charter shall be given due regard by the courts of the Union and of the Member States.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Framework Decisions 2002/584 and 2009/299</p>
+        </tblock>
+        <paragraph eId="para_722">
+          <num>10</num>
+          <content eId="para_722__content">
+            <p>Article 1 of Framework Decision 2002/584, entitled `Definition of the European arrest warrant and obligation to execute it', provides: `1.   The European arrest warrant is a judicial decision issued by a Member State with a view to the arrest and surrender by another Member State of a requested person, for the purposes of conducting a criminal prosecution or executing a custodial sentence or detention order. 2.   Member States shall execute any European arrest warrant on the basis of the principle of mutual recognition and in accordance with the provisions of this Framework Decision. 3.   This Framework Decision shall not have the effect of modifying the obligation to respect fundamental rights and fundamental legal principles as enshrined in Article 6 [EU].'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_723">
+          <num>11</num>
+          <content eId="para_723__content">
+            <p>Articles 3, 4 and 4a of that Framework Decision set out exhaustively the grounds for mandatory and optional non-execution of the European arrest warrant.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_724">
+          <num>12</num>
+          <content eId="para_724__content">
+            <p>Framework Decision 2009/299 sets out the grounds on the basis of which the executing judicial authority of a Member State may refuse to execute a European arrest warrant where the person concerned did not appear in person at his trial.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_725">
+          <num>13</num>
+          <content eId="para_725__content">
+            <p>Article 1 of Framework Decision 2009/299, entitled `Objectives and scope' provides as follows: `1.   The objectives of this Framework Decision are to enhance the procedural rights of persons subject to criminal proceedings, to facilitate judicial cooperation in criminal matters and, in particular, to improve mutual recognition of judicial decisions between Member States. 2.   This Framework Decision shall not have the effect of modifying the obligation to respect fundamental rights and fundamental legal principles as enshrined in Article 6 of the Treaty, including the right of defence of persons subject to criminal proceedings, and any obligations incumbent upon judicial authorities in this respect shall remain unaffected. 3.   This Framework Decision establishes common rules for the recognition and/or execution of judicial decisions in one Member State (the executing Member State) issued by another Member State (the issuing Member State) following proceedings at which the person concerned was not present ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_726">
+          <num>14</num>
+          <content eId="para_726__content">
+            <p>Article 4a of Framework Decision 2002/584, inserted by Article 2 of Framework Decision 2009/299, is entitled `Decisions rendered following a trial at which the person did not appear in person'. Article 4a(1) provides as follows: `The executing judicial authority may also refuse to execute the European arrest warrant issued for the purpose of executing a custodial sentence or a detention order if the person did not appear in person at the trial resulting in the decision, unless the European arrest warrant states that the person, in accordance with further procedural requirements defined in the national law of the issuing Member State:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>in due time:</p>
+                <blockList>
+                  <item>
+                    <num>(i)</num>
+                    <p>either was summoned in person and thereby informed of the scheduled date and place of the trial which resulted in the decision, or by other means actually received official information of the scheduled date and place of that trial in such a manner that it was unequivocally established that he or she was aware of the scheduled trial, and</p>
+                  </item>
+                  <item>
+                    <num>(ii)</num>
+                    <p>was informed that a decision may be handed down if he or she does not appear for the trial; or</p>
+                  </item>
+                </blockList>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>being aware of the scheduled trial had given a mandate to a legal counsellor, who was either appointed by the person concerned or by the State, to defend him or her at the trial, and was indeed defended by that counsellor at the trial; or</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>after being served with the decision and being expressly informed of the right to a retrial, or an appeal, in which the person has the right to participate and which allows the merits of the case, including fresh evidence, to be re-examined, and which may lead to the original decision being reversed:</p>
+                <blockList>
+                  <item>
+                    <num>(i)</num>
+                    <p>expressly stated that he or she does not contest the decision; or</p>
+                  </item>
+                  <item>
+                    <num>(ii)</num>
+                    <p>did not request a retrial or appeal within the applicable time frame; or</p>
+                  </item>
+                </blockList>
+              </item>
+              <item>
+                <num>(d)</num>
+                <p>was not personally served with the decision but:</p>
+                <blockList>
+                  <item>
+                    <num>(i)</num>
+                    <p>will be personally served with it without delay after the surrender and will be expressly informed of his or her right to a retrial, or an appeal, in which the person has the right to participate and which allows the merits of the case, including fresh evidence, to be re-examined, and which may lead to the original decision being reversed; and</p>
+                  </item>
+                  <item>
+                    <num>(ii)</num>
+                    <p>will be informed of the time frame within which he or she has to request such a retrial or appeal, as mentioned in the relevant European arrest warrant.'</p>
+                  </item>
+                </blockList>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_727">
+          <num>15</num>
+          <content eId="para_727__content">
+            <p>Article 8(1) of Framework Decision 2002/584 is worded as follows: `The European arrest warrant shall contain the following information set out in accordance with the form contained in the Annex:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>the identity and nationality of the requested person;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>the name, address, telephone and fax numbers and e-mail address of the issuing judicial authority;</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>evidence of an enforceable judgment, an arrest warrant or any other enforceable judicial decision having the same effect, coming within the scope of Articles 1 and 2;</p>
+              </item>
+              <item>
+                <num>(d)</num>
+                <p>the nature and legal classification of the offence, particularly in respect of Article 2;</p>
+              </item>
+              <item>
+                <num>(e)</num>
+                <p>a description of the circumstances in which the offence was committed, including the time, place and degree of participation in the offence by the requested person;</p>
+              </item>
+              <item>
+                <num>(f)</num>
+                <p>the penalty imposed, if there is a final judgment, or the prescribed scale of penalties for the offence under the law of the issuing Member State;</p>
+              </item>
+              <item>
+                <num>(g)</num>
+                <p>if possible, other consequences of the offence.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_728">
+          <num>16</num>
+          <content eId="para_728__content">
+            <p>Article 15 of that Framework Decision, headed `Surrender decision', provides: `1.   The executing judicial authority shall decide, within the time limits and under the conditions defined in this Framework Decision, whether the person is to be surrendered. 2.   If the executing judicial authority finds the information communicated by the issuing Member State to be insufficient to allow it to decide on surrender, it shall request that the necessary supplementary information, in particular with respect to Articles 3 to 5 and Article 8, be furnished as a matter of urgency and may fix a time limit for the receipt thereof, taking into account the need to observe the time limits set in Article 17. 3.   The issuing judicial authority may at any time forward any additional useful information to the executing judicial authority.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>National law</p>
+        </tblock>
+        <tblock>
+          <p>Netherlands law</p>
+        </tblock>
+        <paragraph eId="para_729">
+          <num>17</num>
+          <content eId="para_729__content">
+            <p>The Overleveringswet (Law on surrender) of 29 April 2004 (Stb. 2004, No 195) transposes Framework Decision 2002/584 into Netherlands law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_730">
+          <num>18</num>
+          <content eId="para_730__content">
+            <p>Article 12 of that law is worded as follows: `Surrender shall not be authorised if the European arrest warrant was issued for the purpose of executing a sentence if the defendant did not appear in person at the court hearing resulting in the judgment, unless the European arrest warrant states, in accordance with the procedural requirements of the issuing Member State:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>that the defendant was, in due time, either summoned in person and thereby informed of the scheduled date and place of the court hearing which resulted in the sentence, or by other means actually received official information of the scheduled date and place of that court hearing in such a manner that it was unequivocally established that he or she was aware of the scheduled court hearing and was informed that a sentence may be handed down if he or she does not appear for the court hearing; or</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>that the defendant, being aware of the scheduled court hearing, had given a mandate to a lawyer, who was either appointed by the defendant or by the State, to defend him or her at the court hearing, and that that lawyer did indeed defend the defendant at the court hearing; or</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>that the defendant, after being served with the judgment and being expressly informed about the right to a retrial, or an appeal, in which the defendant has the right to participate and which allows the merits of the case, including fresh evidence, to be re-examined, and which may lead to the original decision being reversed:</p>
+                <blockList>
+                  <item>
+                    <num>(i)</num>
+                    <p>expressly stated that he or she does not contest the decision;</p>
+                  </item>
+                  <item>
+                    <num>(ii)</num>
+                    <p>did not request a retrial or appeal within the applicable time frame; or</p>
+                  </item>
+                </blockList>
+              </item>
+              <item>
+                <num>(d)</num>
+                <p>that the defendant was not personally served with the notification of the decision but:</p>
+                <blockList>
+                  <item>
+                    <num>(i)</num>
+                    <p>will be personally served with it without delay after the surrender and will be expressly informed of his or her right to a retrial, or an appeal, in which the person has the right to participate and which allows the merits of the case, including fresh evidence, to be re-examined, and which may lead to the original decision being reversed; and</p>
+                  </item>
+                  <item>
+                    <num>(ii)</num>
+                    <p>will be informed of the time frame within which he or she has to request such a retrial or appeal, as mentioned in the relevant European arrest warrant.'</p>
+                  </item>
+                </blockList>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>German law</p>
+        </tblock>
+        <paragraph eId="para_731">
+          <num>19</num>
+          <content eId="para_731__content">
+            <p>Paragraph 56a of the Strafgesetzbuch (German Criminal Code, `StGB') provides as follows: `1.   The court shall determine the length of the term of probation. It may not exceed five years nor be less than two years. 2.   The term of probation shall begin when the decision to suspend execution of the sentence becomes final. It may subsequently be reduced to the minimum or prolonged to the maximum before its expiration.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_732">
+          <num>20</num>
+          <content eId="para_732__content">
+            <p>Paragraph 56b of the StGB provides: `1.   The court may impose conditions on the convicted person to the end of making amends for the wrong committed. No unreasonable demands should thereby be made on the convicted person. 2.   The court may order the convicted person to</p>
+            <blockList>
+              <item>
+                <num>(i)</num>
+                <p>make restitution to the best of his ability for the harm caused by the act committed,</p>
+              </item>
+              <item>
+                <num>(ii)</num>
+                <p>pay a sum of money to a non-profit-making institution if this is appropriate in light of the act committed and the personality of the perpetrator,</p>
+              </item>
+              <item>
+                <num>(iii)</num>
+                <p>render some other community service or</p>
+              </item>
+              <item>
+                <num>(iv)</num>
+                <p>pay a sum of money to the public treasury. ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_733">
+          <num>21</num>
+          <content eId="para_733__content">
+            <p>Paragraph 56c of the StGB is worded as follows: `1.   The court shall issue directions to the convicted person for the duration of his term of probation, if he requires such assistance to cease committing crimes. No unreasonable demands should thereby be made on the way the convicted person conducts his life. 2.   In particular, the court may direct the convicted person</p>
+            <blockList>
+              <item>
+                <num>(i)</num>
+                <p>to follow orders which relate to residence, education, work or leisure, or to the ordering of his financial affairs,</p>
+              </item>
+              <item>
+                <num>(ii)</num>
+                <p>to report at specified times to the court or some other agency,</p>
+              </item>
+              <item>
+                <num>(iii)</num>
+                <p>not to associate with, employ, train or shelter particular persons or persons of a particular group, who can offer him the opportunity or stimulus to commit further crimes,</p>
+              </item>
+              <item>
+                <num>(iv)</num>
+                <p>not to possess, carry or entrust to another for safekeeping, particular objects which could provide him with the opportunity or stimulus to commit further crimes or</p>
+              </item>
+              <item>
+                <num>(v)</num>
+                <p>to meet maintenance obligations. ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_734">
+          <num>22</num>
+          <content eId="para_734__content">
+            <p>Paragraph 56d of the StGB states: `1.   The court shall place the convicted person under the supervision and guidance of a probation officer for all or part of the term of probation when advisable to prevent him from committing crimes. 2.   The court shall issue a direction pursuant to subparagraph (1), as a rule, if it suspends execution of a custodial sentence of more than nine months and the convicted person is less than twenty-seven years of age. 3.   The probation officer shall supervise and assist the convicted person. With the approval of the court he shall supervise the fulfilment of the conditions and directions and of any offers and promises made. He shall report on the way the convicted person is conducting his life at intervals determined by the court. The probation officer shall inform the court as to gross or persistent infringements of the conditions, directions, offers or promises made. ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_735">
+          <num>23</num>
+          <content eId="para_735__content">
+            <p>Under the heading `Revocation of suspended execution of sentence', Paragraph 56f of the StGB provides: `1.   The court shall revoke the suspended execution of a sentence if the convicted person</p>
+            <blockList>
+              <item>
+                <num>(i)</num>
+                <p>commits a crime during the term of probation and thereby shows that the expectation on which the suspended execution of the sentence was based was not fulfilled,</p>
+              </item>
+              <item>
+                <num>(ii)</num>
+                <p>grossly and persistently infringes directions or persistently evades the supervision and guidance of the probation officer, thereby causing reason for fear that he will re-offend, or</p>
+              </item>
+              <item>
+                <num>(iii)</num>
+                <p>grossly and persistently infringes conditions. ... 2.   The court shall, however, refrain from revocation when it suffices</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(i)</num>
+                <p>to impose further conditions or directions, in particular to place the convicted person under the supervision of a probation officer, or</p>
+              </item>
+              <item>
+                <num>(ii)</num>
+                <p>to prolong the term of probation or supervision. In the second case, the term of probation may not be prolonged for more than one-half of the term of probation initially imposed. ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_736">
+          <num>24</num>
+          <content eId="para_736__content">
+            <p>Under Paragraph 57 of the StGB, entitled `Suspension of execution of the remaining period of a fixed term custodial sentence': `1.   The court shall suspend the execution of the remainder of a fixed term custodial sentence and grant probation if</p>
+            <blockList>
+              <item>
+                <num>(i)</num>
+                <p>two-thirds of the imposed punishment, but not less than two months, have been served,</p>
+              </item>
+              <item>
+                <num>(ii)</num>
+                <p>this can be justified upon consideration of the security interests of the general public, and</p>
+              </item>
+              <item>
+                <num>(iii)</num>
+                <p>the convicted person consents. To be considered in making the decision shall be, in particular, the personality of the convicted person, his previous history, the circumstances of the act committed, the importance of the legal interest at stake in case of recidivism, the conduct of the convicted person while serving his sentence, his living conditions and the effects which can be expected as a result of the suspension. 2.   After half of a fixed term custodial sentence has been served, but not less than six months, the court may suspend execution of the remainder and grant probation if</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(i)</num>
+                <p>the convicted person is serving his custodial sentence and it does not exceed two years, or</p>
+              </item>
+              <item>
+                <num>(ii)</num>
+                <p>a comprehensive assessment of the act committed, the personality of the convicted person and his development while serving the sentence reveals that special circumstances exist, and the remaining requirements of subparagraph (1) have been fulfilled. 3.   Paragraphs 56a to 56e shall apply mutatis mutandis; the term of probation, even if subsequently reduced, may not be less than the remainder of the sentence. Where the convicted person has served at least one year of his sentence before the remainder is suspended and probation granted, the court shall, as a rule, place him under the supervision and guidance of a probation officer for all or a part of the term of probation. 4.   To the extent a custodial sentence has been completed by setting of detention periods, it shall qualify as having been served within the meaning of subparagraphs (1) to (3). 5.   Paragraphs 56f and 56g shall apply mutatis mutandis. The court shall also revoke the suspension of execution of a sentence where</p>
+                <blockList>
+                  <item>
+                    <num>(i)</num>
+                    <p>in the interval between the conviction and the suspension decision, the convicted person has committed an offence which the court was unable to take into consideration, for practical reasons, at the time when the suspension of execution was granted and which would have resulted in refusal of the suspension had it been taken into consideration and</p>
+                  </item>
+                  <item>
+                    <num>(ii)</num>
+                    <p>the judgment in which findings of fact as to the substance could be examined for the last time is classified as a criminal conviction. 6.   The court may refrain from suspending execution of the remainder of a fixed term custodial sentence with probation if the convicted person makes insufficient or false statements concerning the whereabouts of objects which, as proceeds of a criminal offence, are subject to confiscation. ...'</p>
+                  </item>
+                </blockList>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_737">
+          <num>25</num>
+          <content eId="para_737__content">
+            <p>Under the heading `Restoration to previous state where right to be heard has not been granted', Paragraph 33a of the Strafprozeßordnung (Code of Criminal Procedure, hereinafter the `StPO') provides: `Where the court, in a decision detrimental to a party,</p>
+            <blockList>
+              <item>
+                <num>(i)</num>
+                <p>has made an assessment in respect of which that party not yet been heard and</p>
+              </item>
+              <item>
+                <num>(ii)</num>
+                <p>that party is not entitled either to lodge a complaint against that decision or to any other legal remedy, the court shall, automatically or on request, reinstate the proceedings at the stage they were at prior to the adoption of that decision, insofar as the detriment still exists. The provisions of Article 47 apply mutatis mutandis.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_738">
+          <num>26</num>
+          <content eId="para_738__content">
+            <p>Paragraph 35 of the StPO, entitled `Notification', is worded as follows: `1.   Decisions which are given in the presence of the person to whom they refer shall be notified to him orally. Upon request a copy shall be given to him. 2.   Other decisions shall be notified by service thereof. Where notification of the decision does not cause commencement of a time limit, the decision may be notified informally. 3.   Documents served on persons deprived of liberty shall be read out to them upon request.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_739">
+          <num>27</num>
+          <content eId="para_739__content">
+            <p>Under the heading `Notification procedure', Paragraph 37 of the StPO provides as follows: `1.   The provisions of the Civil Procedure Code shall apply mutatis mutandis to the procedure for service of notice. 2.   Where documents addressed to a party are served on several persons authorised to receive them, time limits shall be calculated from the date of the service last effected. ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_740">
+          <num>28</num>
+          <content eId="para_740__content">
+            <p>Paragraph 40 of the StPO, entitled `Service by publication' provides as follows: `1.   Service by publication shall be considered effected if service on a defendant, upon whom a summons for the main hearing has not yet been served, cannot be effected in Germany in the prescribed manner, and if compliance with the provisions for service abroad appears impracticable or would be in vain. The service shall be considered effected after two weeks have elapsed after publication. 2.   Where the summons for the main hearing has previously been served on the defendant, service by publication shall be deemed to have been effected on him if it is not possible to effect service in Germany in the prescribed manner. 3.   Service by publication shall be admissible in proceedings concerning an appeal on fact and law filed by the defendant if it is not possible to serve documents at an address at which documents were last served or which the defendant last provided.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_741">
+          <num>29</num>
+          <content eId="para_741__content">
+            <p>Paragraph 311 of the StPO, entitled `Immediate complaint' provides as follows: `1.   The following special provisions shall apply to cases of immediate complaint. 2.   The complaint shall be lodged within one week; the time limit shall begin to run upon notification (Paragraph 35) of the decision. 3.   The court shall not be competent to amend a decision which it has handed down and which is contested by a complaint. The court shall, however, redress the complaint where, to the detriment of the complainant, it has used facts or evidentiary conclusions in respect of which the complainant has not yet been heard and where, as a result of subsequent submissions, it considers the complaint to be well-founded.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_742">
+          <num>30</num>
+          <content eId="para_742__content">
+            <p>Under the title `Subsequent decision on suspension of sentence with probation or on warning with sentence reserved', Paragraph 453 of the StPO provides as follows: `1.   Subsequent decisions relating to the suspension of a sentence on probation or a warning with sentence reserved (Paragraphs 56a to 56g, 58, 59a, 59b StGB) shall be made by the court, with no oral hearing, by means of an order. The public prosecution service and the defendant shall be heard. Article 246a(2) and the fourth sentence of Article 454(2) shall apply mutatis mutandis. If the court has to decide on a revocation of suspension of sentence due to infringement of conditions or directions, it shall give the convicted person an opportunity to be heard orally. Where a probation officer has been appointed, the court shall inform him if a decision on revocation of suspension of sentence or of remission of sentence is being considered; the court shall give him information obtained from other criminal proceedings where this is appropriate in the light of the objective of the probationary supervision. 2.   A complaint shall be admissible against decisions pursuant to subparagraph (1). The complaint may be based only on the ground that an order made is unlawful or that the probation period has been subsequently prolonged. Revocation of suspension, remission of sentence, revocation of remission, conviction with sentence reserved and a ruling that a warning is sufficient (Paragraphs 56f, 56g, 59b StGB) may be contested by immediate complaint.'</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the question referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_743">
+          <num>31</num>
+          <content eId="para_743__content">
+            <p>It appears from the order for reference that, on 13 June 2017, an application for the execution of a European arrest warrant issued on 9 May 2017 by the Public Prosecutor's Office, Stuttgart (Germany) was made before the referring court, namely the Rechtbank Amsterdam (District Court, Amsterdam, Netherlands), by the officier van justitie bij de Rechtbank (Public Prosecutor's Office, Netherlands).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_744">
+          <num>32</num>
+          <content eId="para_744__content">
+            <p>That European arrest warrant seeks the arrest and surrender of Mr Ardic, a German national residing in the Netherlands, for the purpose of executing in Germany two custodial sentences, each for a period of one year and eight months, imposed by final judgments of 4 March 2009 and 10 November 2010, which were handed down, respectively by the Amtsgericht Böblingen (District Court, Böblingen, Germany) and the Amtsgericht Stuttgart-Bad Cannstatt (District Court, Bad Cannstatt district, Stuttgart, Germany), following trials at which the interested party appeared in person.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_745">
+          <num>33</num>
+          <content eId="para_745__content">
+            <p>It is apparent from the order for reference that, after Mr Ardic had served a portion of those two sentences, the competent German courts granted a suspension of the execution of the remainder of those sentences. However, by decisions of 4 April and 18 April 2013, the Amtsgericht Stuttgart-Bad Cannstatt (District Court, Bad Cannstatt district, Stuttgart) revoked those suspensions and ordered the execution of the remainder of those sentences, namely 338 and 340 days, on the ground that the interested party had persisted in infringing the prescribed conditions and evading the supervision and guidance of his probation officer and the supervision of the courts.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_746">
+          <num>34</num>
+          <content eId="para_746__content">
+            <p>The referring court concludes from statements set out in the European arrest warrant in question in the main proceedings that Mr Ardic did not appear at the proceedings which resulted in the revocation decisions.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_747">
+          <num>35</num>
+          <content eId="para_747__content">
+            <p>That European arrest warrant also states that the revocation decisions at issue were the subject of service by publication only within the meaning of Paragraph 40 of the StPO, so that it would therefore be necessary to grant Mr Ardic a posteriori the right to be heard in relation to those decisions, but that that does not affect their enforceable nature.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_748">
+          <num>36</num>
+          <content eId="para_748__content">
+            <p>Mr Ardic confirmed that he had not appeared at the trials which resulted in the revocation decisions at issue in the main proceedings and stated that, had he known of the date and place of that trial, he would have appeared in order to convince the German courts to refrain from revoking the suspension of the sentences.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_749">
+          <num>37</num>
+          <content eId="para_749__content">
+            <p>According to the referring court, the German courts are obliged to revoke the suspension, inter alia, if the convicted person persists in evading the supervision and guidance of the probation officer or persists in failing to comply with the stipulated conditions. Those courts must, on the other hand, refrain from revoking the suspension if, in essence, the setting of further conditions or the extension of the probationary period would suffice.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_750">
+          <num>38</num>
+          <content eId="para_750__content">
+            <p>It is evident from the revocation decisions at issue in the main proceedings that the Amtsgericht Stuttgart-Bad Cannstatt (District Court, Bad Cannstatt district, Stuttgart) has established that the imposition of further conditions or the extension of the probationary period were insufficient and that the revocation was in accordance with the principle of proportionality.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_751">
+          <num>39</num>
+          <content eId="para_751__content">
+            <p>The referring court concludes that the German court has a margin of discretion when taking a revocation decision which allows it to take into account the situation or personality of the person concerned.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_752">
+          <num>40</num>
+          <content eId="para_752__content">
+            <p>In that context, that court notes that, in its judgment of 10 August 2017, Zdziaszek ( C‑271/17 PPU, EU:C:2017:629), the Court of Justice made a distinction between measures which modify the quantum of the penalty imposed and measures relating to the methods for execution of such a penalty. In paragraph 85 of that judgment, the Court of Justice indicated that, according to the case-law of the European Court of Human Rights, Article 6(1) of the ECHR does not apply to measures concerning the methods for executing a custodial sentence, `in particular those relating to provisional release'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_753">
+          <num>41</num>
+          <content eId="para_753__content">
+            <p>In the present case, the revocation decisions in the main proceedings did not modify the quantum of the custodial sentences imposed on Mr Ardic, who must serve the full duration of those sentences, with the deduction of any time already served.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_754">
+          <num>42</num>
+          <content eId="para_754__content">
+            <p>In the view of the referring court, it is apparent from the case-law of the European Court of Human Rights that issues relating to the execution of sentences do not come within the scope of the determination of a criminal charge as referred to in Article 6(1) of the ECHR (ECtHR, 17 September 2009, Enea v. Italy, CE:ECHR:2009:0917JUD007491201, § 97, and 23 October 2012, Ciok v. Pologne, CE:ECHR:2012:1023DEC000049810, § 38).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_755">
+          <num>43</num>
+          <content eId="para_755__content">
+            <p>The foregoing is consistent with the case-law of the European Court of Human Rights on the concept of a `finding of guilt' within the meaning of Article 7(1) of the ECHR, which case-law is closely linked with the concept of the `determination ... of any criminal charge' as referred to in Article 6(1) of the ECHR. That court held that such a finding of guilt also did not cover cases concerning the execution of sentences (ECtHR, 10 July 2003, Grava v. Italy, CE:ECHR:2003:0710JUD004352298, § 51, and 23 October 2012, Giza v. Poland, CE:ECHR:2012:1023DEC000199711, § 36).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_756">
+          <num>44</num>
+          <content eId="para_756__content">
+            <p>The referring court goes on to observe that the judgment of the European Court of Human Rights of 3 April 2012, Boulois v. Luxembourg(CE:ECHR:2012:0403JUD003757504), to which the Court of Justice referred in paragraph 85 of the judgment of 10 August 2017, Zdziaszek ( C‑271/17 PPU, EU:C:2017:629), and in the judgments of the European Court of Human Rights to which the Court of Justice referred in paragraph 87 of the former judgment, reference is made to detainees who brought an action relating to permission to leave prison temporarily, to the lifting of pre-trial detention, to their detention in a maximum security prison and to the granting of amnesty.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_757">
+          <num>45</num>
+          <content eId="para_757__content">
+            <p>The referring court also states that the European Commission of Human Rights held that proceedings concerning revocation of suspension of execution of a custodial sentence or revocation of a conditional release do not come within the scope of Article 6(1) of the ECHR. Such proceedings do not entail the determination of civil rights and obligations or the determination of any criminal charge (EComHR, 5 October 1967, X v. the Federal Republic of Germany, CE:ECHR:1967:1005DEC000242865; 6 December 1977, X v. Switzerland, CE:ECHR:1977:1206DEC000764876, and 9 May 1994, Sampson v. Cyprus, CE:ECHR:1994:0509DEC001977492).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_758">
+          <num>46</num>
+          <content eId="para_758__content">
+            <p>The referring court infers from this that Article 6(1) of the ECHR does not apply to revocation decisions such as those at issue in the main proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_759">
+          <num>47</num>
+          <content eId="para_759__content">
+            <p>However, it is not necessarily the case that those decisions do not also come within the scope of Article 4a(1) of Framework Decision 2002/584.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_760">
+          <num>48</num>
+          <content eId="para_760__content">
+            <p>First, such decisions, it is submitted, were not of the same nature as those in the case resulting in the judgment of 10 August 2017, Zdziaszek ( C‑271/17 PPU, EU:C:2017:629).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_761">
+          <num>49</num>
+          <content eId="para_761__content">
+            <p>Secondly, although the second paragraph of Article 47 of the Charter corresponds to Article 6(1) of the ECHR, with the result that the content and scope of the former provision are the same as those conferred by the ECHR, EU law could, however, under Article 52(3) of the Charter, offer more extensive protection than that derived from Article 6(1) of the ECHR.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_762">
+          <num>50</num>
+          <content eId="para_762__content">
+            <p>In that regard, the referring court points out that, according to the Court of Justice, Article 4a of Framework Decision 2002/584 is designed to ensure a high level of protection (judgments of 24 May 2016, Dworzecki, C‑108/16 PPU, EU:C:2016:346, paragraph 37, and of 10 August 2017, Tupikas, C‑270/17 PPU, EU:C:2017:628, paragraph 58).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_763">
+          <num>51</num>
+          <content eId="para_763__content">
+            <p>Furthermore, it can be argued that a decision to revoke the suspension of execution of a sentence could, due to its consequences for individual liberty, be as significant for the convicted person as a `cumulative sentence' which re-establishes the duration of the sentences imposed, with the result that the person concerned should therefore be able to exercise his rights of defence in proceedings which could lead to a suspension revocation decision and in which the judge has a margin of discretion when making that decision (see, by analogy, judgment of 10 August 2017, Zdziaszek, C‑271/17 PPU, EU:C:2017:629, paragraph 88).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_764">
+          <num>52</num>
+          <content eId="para_764__content">
+            <p>Although paragraph 85 of the judgment of 10 August 2017, Zdziaszek ( C‑271/17 PPU, EU:C:2017:629), suggest that suspension revocation decisions do not come within the scope of Article 4a(1) of Framework Decision 2002/584, the referring court observes that such a circumstance, having regard to the foregoing considerations, cannot constitute a sufficient basis to autonomously conclude that that provision does not in fact apply in the present case.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_765">
+          <num>53</num>
+          <content eId="para_765__content">
+            <p>It was in those circumstances that the Rechtbank Amsterdam (District Court, Amsterdam) decided to stay the proceedings and to refer the following question to the Court for a preliminary ruling: `If the requested person has been found guilty in final proceedings conducted in his presence and has had imposed on him a custodial sentence, the execution of which has been suspended subject to certain conditions, do subsequent proceedings, in which the court, in the absence of the requested person, orders that suspension to be revoked on the ground of non-compliance with conditions and evasion of the supervision and guidance of a probation officer, constitute a ``trial resulting in the decision '' as referred to in Article 4a of Framework Decision [2002/584]?'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The urgent preliminary ruling procedure</p>
+        </tblock>
+        <paragraph eId="para_766">
+          <num>54</num>
+          <content eId="para_766__content">
+            <p>The referring court requested that this reference for a preliminary ruling should be dealt with under the urgent procedure provided for in Article 107 of the Rules of Procedure of the Court.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_767">
+          <num>55</num>
+          <content eId="para_767__content">
+            <p>In support of its request, that court relies on the fact that Mr Ardic is currently in custody in the Netherlands, pending a decision on the further course to take concerning the execution of the European arrest warrant at issue in the main proceedings, issued against him by the competent authorities of the Federal Republic of Germany.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_768">
+          <num>56</num>
+          <content eId="para_768__content">
+            <p>The referring court further stated that it could not take a decision in that regard until the Court has given a ruling on the present reference for a preliminary ruling. The Court's answer to the question raised therefore has a direct and decisive impact on the length of Mr Ardic's detention in the Netherlands with a view to his possible surrender by way of execution of the European arrest warrant at issue in the main proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_769">
+          <num>57</num>
+          <content eId="para_769__content">
+            <p>In that regard, it should be stated, first of all, that the present reference for a preliminary ruling concerns the interpretation of Framework Decision 2002/584, which comes within the sectors covered by Title V of Part Three of the TFEU on the area of freedom, security and justice. Consequently, the reference may be dealt with under the urgent preliminary ruling procedure.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_770">
+          <num>58</num>
+          <content eId="para_770__content">
+            <p>Secondly, as regards the criterion relating to urgency, it is necessary, in accordance with the settled case-law of the Court, to take into account the fact that the person concerned in the case in the main proceedings is currently deprived of his liberty and that the question as to whether he may continue to be held in custody depends on the outcome of the dispute in the main proceedings. Moreover, the situation of the person concerned must be assessed as it stood at the time when consideration was given to whether the reference should be dealt with under the urgent preliminary ruling procedure (judgments of 10 August 2017, Tupikas, C‑270/17 PPU, EU:C:2017:628, paragraph 45 and the case-law cited, and of 10 August 2017, Zdziaszek, C‑271/17 PPU, EU:C:2017:629, paragraph 72 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_771">
+          <num>59</num>
+          <content eId="para_771__content">
+            <p>In the present case, it is common ground that, on that date, Mr Ardic was deprived of his liberty. Moreover, his continued detention depends on the outcome of the main proceedings, the detention measure against him having been ordered, according to the referring court, in the context of the execution of the European arrest warrant at issue in the main proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_772">
+          <num>60</num>
+          <content eId="para_772__content">
+            <p>In those circumstances, on 12 October 2017 the Fifth Chamber of the Court, acting on a proposal from the Judge-Rapporteur and after hearing the Advocate General, decided to accede to the referring court's request that the present reference for a preliminary ruling be dealt with under the urgent preliminary ruling procedure.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the question referred</p>
+        </tblock>
+        <paragraph eId="para_773">
+          <num>61</num>
+          <content eId="para_773__content">
+            <p>As a preliminary point, it should be borne in mind that, in the present case, although Mr Ardic appeared in person at the trials that resulted in the judgments which finally imposed on him two custodial sentences, it is common ground that the suspension revocation decisions at issue in the main proceedings, which were made subsequently, were handed down in absentia.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_774">
+          <num>62</num>
+          <content eId="para_774__content">
+            <p>In those circumstances, the question submitted by the referring court must be understood as seeking to determine, in essence, whether, in a situation where, as in the main proceedings, the person concerned appeared in person in the criminal proceedings resulting in the judicial decision which definitively found him guilty of an offence and, as a consequence, imposed a custodial sentence the execution of which was subsequently suspended in part subject to certain conditions, the concept of `trial resulting in the decision', as referred to in Article 4a(1) of Framework Decision 2002/584, must be interpreted to include subsequent proceedings in which that suspension is revoked on the grounds of infringement of those conditions during the probationary period.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_775">
+          <num>63</num>
+          <content eId="para_775__content">
+            <p>In order to answer that question, it should be recalled, in the first place, that the concept of `trial resulting in the decision' as referred to in Article 4a of Framework Decision 2002/584, must be given an autonomous and uniform interpretation within the European Union, independently of the classifications and substantive and procedure rules in criminal matters, which by nature diverge in the various Member States (see, to that effect, judgment of 10 August 2017, Tupikas, C‑270/17 PPU, EU:C:2017:628, paragraphs 65, 67 and 76).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_776">
+          <num>64</num>
+          <content eId="para_776__content">
+            <p>In the second place, the Court of Justice has already held that that concept must be understood as referring to the proceeding that led to the judicial decision which finally sentenced the person whose surrender is sought in connection with the execution of a European arrest warrant (judgment of 10 August 2017, Tupikas, C‑270/17 PPU, EU:C:2017:628, paragraph 74).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_777">
+          <num>65</num>
+          <content eId="para_777__content">
+            <p>Where criminal proceedings have taken place at several instances which have given rise to successive decisions, the Court of Justice has held that that concept refers to the last instance in those proceedings during which a court, after assessing the case in fact and in law, made a final ruling on the guilt of the person concerned and imposed a penalty on him (see, to that effect, judgment of 10 August 2017, Tupikas, C‑270/17 PPU, EU:C:2017:628, paragraphs 81, 83, 89, 90 and 98).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_778">
+          <num>66</num>
+          <content eId="para_778__content">
+            <p>The Court also stated that that concept also referred to subsequent proceedings at the end of which a judicial decision that finally amended the level of one or several previous sentences was handed down, in so far as the authority which adopted the latter decision enjoyed some discretion in that regard (see, to that effect, judgment of 10 August 2017, Zdziaszek, C‑271/17 PPU, EU:C:2017:629, paragraphs 83, 90 and 96).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_779">
+          <num>67</num>
+          <content eId="para_779__content">
+            <p>It follows from the above that Article 4a(1) of Framework Decision 2002/584 must be interpreted as meaning that the concept of `decision' referred to therein relates to the judicial decision or decisions concerning the criminal conviction of the interested person, namely the decision or decisions that definitively rule, after an assessment of the case in fact and in law, on the guilt of that person and, where relevant, on the custodial sentence imposed on him.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_780">
+          <num>68</num>
+          <content eId="para_780__content">
+            <p>In the present case, it must be determined whether a decision to revoke suspension of execution of a custodial sentence previously imposed is of such a nature that it can be equated, for the purposes of applying that provision, to a decision such as that defined in the preceding paragraph.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_781">
+          <num>69</num>
+          <content eId="para_781__content">
+            <p>In that regard, it should be pointed out that Framework Decision 2002/584 seeks, by the establishment of a simplified and effective system for the surrender of persons convicted or accused of having infringed criminal law, to facilitate and accelerate judicial cooperation with a view to contributing to the objective set for the European Union to become an area of freedom, security and justice, founded on the high level of trust which should exist between the Member States in accordance with the principle of mutual recognition (see, to that effect, judgments of 26 February 2013, Melloni, C‑399/11, EU:C:2013:107, paragraphs 36 and 37, and of 5 April 2016, Aranyosi and Căldăraru, C‑404/15 and C‑659/15 PPU, EU:C:2016:198, paragraphs 75 and 76).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_782">
+          <num>70</num>
+          <content eId="para_782__content">
+            <p>To that end, Article 1(2) of the Framework Decision lays down the rule that Member States are required to execute any European arrest warrant on the basis of the principle of mutual recognition and in accordance with the provisions of that Framework Decision. Except in exceptional circumstances, the executing judicial authorities may therefore refuse to execute such a warrant only in the exhaustively listed cases of non-execution provided for by Framework Decision 2002/584 and the execution of the European arrest warrant may be made subject only to one of the conditions listed exhaustively therein. Accordingly, while the execution of the European arrest warrant constitutes the rule, the refusal to execute is intended to be an exception which must be interpreted strictly (see judgment of 10 August 2017, Tupikas, C‑270/17 PPU, EU:C:2017:628, paragraph 50 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_783">
+          <num>71</num>
+          <content eId="para_783__content">
+            <p>As regards, more particularly, Article 4a of Framework Decision 2002/584, inserted by Article 2 of Framework Decision 2009/299, this seeks to restrict the possibility of refusing to execute the European arrest warrant by listing, in a precise and uniform manner, the conditions under which the recognition and enforcement of a decision given following a trial in which the person concerned did not appear in person may not be refused (judgment of 10 August 2017, Tupikas, C‑270/17 PPU, EU:C:2017:628, paragraph 53 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_784">
+          <num>72</num>
+          <content eId="para_784__content">
+            <p>Under that provision, the executing judicial authority is obliged to execute a European arrest warrant, notwithstanding the absence of the person concerned at the trial resulting in the decision, where one of the situations referred to in Article 4a(1)(a), (b), (c) or (d) of that Framework Decision is established (judgment of 10 August 2017, Tupikas, C‑270/17 PPU, EU:C:2017:628, paragraph 55).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_785">
+          <num>73</num>
+          <content eId="para_785__content">
+            <p>Accordingly, that provision seeks to improve judicial cooperation in criminal matters by harmonising the conditions of execution of European arrest warrants issued for the purposes of executing decisions rendered in absentia, which is likely to facilitate mutual recognition of judicial decisions between Member States. At the same time, that provision strengthens the procedural rights of persons subject to criminal proceedings, guaranteeing them a high level of protection by ensuring full observance of their rights of defence, flowing from the right to a fair trial, enshrined in Article 6 of the ECHR (see, to that effect, judgments of 26 February 2013, Melloni, C‑399/11, EU:C:2013:107, paragraph 51, and of 10 August 2017, Tupikas, C‑270/17 PPU, EU:C:2017:628, paragraphs 58 to 60).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_786">
+          <num>74</num>
+          <content eId="para_786__content">
+            <p>To that end, the Court ensures that Article 4a(1) of Framework Decision 2002/584 is interpreted and applied in accordance with the requirements of Article 6 of the ECHR and the relevant case-law of the European Court of Human Rights (see, to that effect, judgments of 10 August 2017, Tupikas, C‑270/17 PPU, EU:C:2017:628, paragraphs 78 to 80, and of 10 August 2017, Zdziaszek, C‑271/17 PPU, EU:C:2017:629, paragraphs 87 to 89).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_787">
+          <num>75</num>
+          <content eId="para_787__content">
+            <p>While the final judicial decision convicting the person concerned, including the decision determining the custodial sentence to be served, falls fully within Article 6 of the ECHR, it is apparent from the case-law of the European Court of Human Rights that that provision does not apply, however, to questions relating to the detailed rules for the execution or application of such a custodial sentence (see, to that effect, ECtHR, 3 April 2012, Boulois v. Luxembourg, CE:ECHR:2012:0403JUD003757504, § 87; 25 November 2014, Vasilescu v. Belgium, CE:ECHR:2014:1125JUD006468212, § 121, and 2 June 2015, Pacula v. Belgium, CE:ECHR:2015:0602DEC006849512, § 47).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_788">
+          <num>76</num>
+          <content eId="para_788__content">
+            <p>The position is different only where, following a finding of guilt of the person concerned and having imposed a custodial sentence on him, a new judicial decision modifies either the nature or the quantum of sentence previously imposed, as is the case when a prison sentence is replaced by an expulsion measure (ECtHR, 15 December 2009, Gurguchiani v. Spain, CE:ECHR:2009:1215JUD001601206, §§ 40, 47 and 48) or where the duration of the detention previously imposed is increased (ECtHR, 9 October 2003, Ezeh and Connors v. United Kingdom, CE:ECHR:2003:1009JUD003966598).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_789">
+          <num>77</num>
+          <content eId="para_789__content">
+            <p>In the light of the foregoing, it must therefore be considered that, for the purposes of Article 4a(1) of Framework Decision 2002/584, the concept of `decision' referred to therein does not cover a decision relating to the execution or application of a custodial sentence previously imposed, except where the purpose or effect of that decision is to modify either the nature or quantum of that sentence and the authority which adopted it enjoyed some discretion in that regard (see, to that effect, judgments of 10 August 2017, Tupikas, C‑270/17 PPU, EU:C:2017:628, paragraphs 78 to 80, and of 10 August 2017, Zdziaszek, C‑271/17 PPU, EU:C:2017:629, paragraphs 85, 90 and 96).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_790">
+          <num>78</num>
+          <content eId="para_790__content">
+            <p>As regards, in particular, decisions to revoke the suspension of the execution of previously imposed custodial sentences, such as those at issue in the main proceedings, it is apparent from the case file before the Court that, in the present case, those decisions did not affect the nature or the quantum of custodial sentences imposed by final conviction judgments of the person concerned, which form the basis of the European arrest warrant which the German authorities are seeking to execute in the Netherlands.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_791">
+          <num>79</num>
+          <content eId="para_791__content">
+            <p>Since the proceedings leading to those revocation decisions were not intended to review the merits of the cases, but only concerned the consequences which, from the point of view of the application of the penalties initially imposed and whose execution had, subsequently, been partially suspended subject to compliance with certain conditions, it was necessary to consider the fact that the convicted person had not complied with those conditions during the probationary period.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_792">
+          <num>80</num>
+          <content eId="para_792__content">
+            <p>In that context, under the relevant national rules, the competent court only had to determine if such a circumstance justified requiring the convicted person to serve, in part or in full, the custodial sentences that had been initially imposed and the execution of which, subsequently, had been partially suspended. As the Advocate General pointed out in point 71 of his Opinion, while that court enjoyed a margin of discretion in that regard, that margin did not concern the level or the nature of the sentences imposed on the person concerned, but only whether the suspensions should be revoked or could be maintained, with additional conditions if necessary.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_793">
+          <num>81</num>
+          <content eId="para_793__content">
+            <p>Accordingly, the only effect of suspension revocation decisions, such as those in the main proceedings, is that the person concerned must at most serve the remainder of the sentence initially imposed. Where, as in the main proceedings, the suspension is revoked in its entirety, the sentence once again produces all its effects and the determination of the quantum of the sentence still remaining to be served is derived from a purely arithmetic operation, with the number of days already served in custody being simply deducted from the total sentence imposed by the final criminal conviction.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_794">
+          <num>82</num>
+          <content eId="para_794__content">
+            <p>In those circumstances, and in the light of what was stated in paragraph 77 of the present judgment, suspension revocation decisions, such as those at issue in the main proceedings, are not covered by Article 4a(1) of Framework Decision 2002/584, since those decisions leave unchanged the sentences imposed by the final conviction decisions with regard to both their nature and level.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_795">
+          <num>83</num>
+          <content eId="para_795__content">
+            <p>While it cannot be denied that a suspension revocation measure is likely to affect the situation of the person concerned, the fact remains that that person cannot be unaware of the consequences that may result from an infringement of the conditions to which the benefit of such a suspension is subject.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_796">
+          <num>84</num>
+          <content eId="para_796__content">
+            <p>Moreover, in the present case, it is precisely the fact that the person concerned left the German territory, in breach of an express condition of the grant of suspension, which made it impossible for the competent German authorities to notify him personally of the information relating to the introduction of proceedings seeking revocation of the suspension previously granted and, consequently, the adoption in his absence of the revocation decisions at issue in the main proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_797">
+          <num>85</num>
+          <content eId="para_797__content">
+            <p>Nevertheless, even where, as in the case in the main proceedings, a convicted person has been the subject of a suspension revocation decision adopted following proceedings in which he has not appeared, that person is not deprived of all rights, in so far as, as is clear from the relevant national rules, he has the right to be heard a posteriori by the judge and inasmuch as that judge is required to determine whether, in light of the hearing, the suspension revocation decision must be amended.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_798">
+          <num>86</num>
+          <content eId="para_798__content">
+            <p>In any event, in the context of Article 4a(1) of Framework Decision 2002/584, the relevant criterion which can be uniformly applied is that based on the nature of the `decision' referred to therein, as is apparent from paragraphs 75 to 77 of the present judgment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_799">
+          <num>87</num>
+          <content eId="para_799__content">
+            <p>Moreover, as already stated in paragraph 70 of the present judgment, an interpretation of the concept of `decision', within the meaning of Article 4a(1) of Framework Decision 2002/584, which is broader than that set out in paragraph 77 of this judgment would risk undermining the effectiveness of the European arrest warrant mechanism.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_800">
+          <num>88</num>
+          <content eId="para_800__content">
+            <p>It should also be added that the Court's interpretation in paragraph 77 of this judgment merely implies that a decision, which relates solely to the execution or application of a custodial sentence finally imposed at the conclusion of criminal proceedings and which does not affect either the finding of guilt or the nature or level of that sentence, does not fall within the scope of Article 4a(1) of Framework Decision 2002/584, so that the absence of the person concerned during the proceedings leading to that decision cannot constitute a valid ground for refusing execution of the European arrest warrant.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_801">
+          <num>89</num>
+          <content eId="para_801__content">
+            <p>On the contrary, as the Advocate General pointed out in points 76 and 77 of his Opinion, and as is made expressly clear Article 1(2) of Framework Decision 2009/299, that interpretation in no way means that Member States are exempt from the obligation to respect the fundamental rights and fundamental legal principles enshrined in Article 6 TEU, including the right of defence of persons subject to criminal proceedings, nor of the obligation to ensure that those rights and principles are respected by their judicial authorities.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_802">
+          <num>90</num>
+          <content eId="para_802__content">
+            <p>Indeed, such an obligation reinforces the high level of trust that must exist between Member States and, consequently, the principle of mutual recognition on which the mechanism of the European arrest warrant is based. That principle is founded on mutual trust between the Member States that their national legal systems are capable of providing equivalent and effective protection of the fundamental rights recognised at EU level (see, to that effect, judgments of 30 May 2013, F., C‑168/13 PPU, EU:C:2013:358, paragraphs 49 and 50, and of 5 April 2016, Aranyosi and Căldăraru, C‑404/15 and C‑659/15 PPU, EU:C:2016:198, paragraphs 77 and 78).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_803">
+          <num>91</num>
+          <content eId="para_803__content">
+            <p>In that context and with a view to effective judicial cooperation in criminal matters, the issuing and executing judicial authorities must make full use of the instruments provided for, in particular in Article 8(1) and Article 15 of Framework Decision 2002/584, in order to foster mutual trust on the basis of that cooperation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_804">
+          <num>92</num>
+          <content eId="para_804__content">
+            <p>In the light of all the foregoing, the answer to the question referred is that, where a party appears in person in criminal proceedings that result in the judicial decision which definitively finds him guilty of an offence and, as a consequence, imposes a custodial sentence the execution of which is subsequently suspended in part, subject to certain conditions, the concept of `trial resulting in the decision', as referred to in Article 4a(1) of Framework Decision 2002/584, must be interpreted as not including subsequent proceedings in which that suspension is revoked on the grounds of infringement of those conditions during the probationary period, provided that the revocation decision adopted at the end of those proceedings does not change the nature or the level of the sentence initially imposed.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_805">
+          <num>93</num>
+          <content eId="para_805__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Fifth Chamber) hereby rules: Where a party has appeared in person in criminal proceedings that result in a judicial decision which definitively finds him guilty of an offence and, as a consequence, imposes a custodial sentence the execution of which is subsequently suspended in part, subject to certain conditions, the concept of `trial resulting in the decision', as referred to in Article 4a(1) of Framework Decision 2002/584/JHA of 13 June 2002 on the European arrest warrant and the surrender procedures between Member States, as amended by Council Framework Decision 2009/299/JHA of 26 February 2009, must be interpreted as not including subsequent proceedings in which that suspension is revoked on grounds of infringement of those conditions during the probationary period, provided that the revocation decision adopted at the end of those proceedings does not change the nature or the level of the sentence initially imposed.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Dutch.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

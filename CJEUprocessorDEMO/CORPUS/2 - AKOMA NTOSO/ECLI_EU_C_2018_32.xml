@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+      <references source="#source">
+        <TLCOrganization eId="institution_92" showAs="" href="/akn/ontology/Organization/Institution/institution_92" />
+        <TLCOrganization eId="institution_93" showAs="" href="/akn/ontology/Organization/Institution/institution_93" />
+      </references>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Eighth Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>24 January 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Coordination of provisions laid down by law, regulation or administrative action in respect of activities of doctors -- Directives 75/363/EEC and 82/76/EEC -- Specialist medical training -- Appropriate remuneration -- Application of Directive 82/76/EEC to training begun before the prescribed deadline for the Member States to transpose it and completed after that date) In Joined Cases C‑616/16 and C‑617/16, REQUESTS for a preliminary ruling under Article 267 TFEU from the Corte suprema di cassazione (Supreme Court of Cassation, Italy), made by decisions of 5 July 2016, received at the Court on 28 November 2016, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">Presidenza del Consiglio dei Ministri</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="appellant" refersTo="#">Università degli Studi di Palermo</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="appellant" refersTo="#institution_92">Ministero della Salute</party>
+      </p>
+      <p>, Ministero dell `Istruzione, dell `Università e della Ricerca,</p>
+      <p>
+        <party as="appellant" refersTo="#institution_93">Ministero del Tesoro</party>
+      </p>
+      <p>, v</p>
+      <p>
+        <party as="respondent" refersTo="#">Gianni Pantuso</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="respondent" refersTo="#">Angelo Tralongo</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="respondent" refersTo="#">Maria Michela D'Alessandro</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="respondent" refersTo="#">Nello Grassi</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="respondent" refersTo="#">Carmela Amato</party>
+      </p>
+      <p>(C‑616/16), Giovanna Castellano, Maria Concetta Pandolfo, Antonio Marletta, Vito Mannino, Olga Gagliardo, Emilio Nardi, Maria Catania, Massimo Gallucci, Giovanna Pischedda, Giambattista Gagliardo(C‑617/16), THE COURT (Eighth Chamber), composed of J. Malenovský, President of the Chamber, M. Safjan (Rapporteur) and M. Vilaras, Judges, Advocate General: Y. Bot, Registrar: A. Calot Escobar, having regard to the written procedure, after considering the observations submitted on behalf of</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>Castellano and Others, by F. Mazzarella and G. Mazzarella, avvocati,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Italian Government, by G. Palmieri, acting as Agent, and by G. Pignatone and B. Tidore, avvocati dello Stato,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by H. Støvlbæk and L. Malferrari, acting as Agents, having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_11623">
+          <num>1</num>
+          <content eId="para_11623__content">
+            <p>These requests for a preliminary ruling concern the interpretation of Council Directive 75/363/EEC of 16 June 1975 concerning the coordination of provisions laid down by law, regulation or administrative action in respect of activities of doctors ( OJ 1975 L 167, p. 14), as amended by Council Directive 82/76/EEC of 26 January 1982 ( OJ 1982 L 43, p. 21) ( `Directive 75/363 as amended').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11624">
+          <num>2</num>
+          <content eId="para_11624__content">
+            <p>The requests have been made in proceedings between, on the one hand, the Presidenza del Consiglio dei Ministri (Presidency of the Council of Ministers, Italy), the Università degli Studi di Palermo (University of Palermo, Italy), the</p>
+            <p>
+              <organization refersTo="#institution_92">Ministero della Salute</organization>
+            </p>
+            <p>(</p>
+            <p>
+              <organization refersTo="#institution_92">Ministry of Health</organization>
+            </p>
+            <p>, Italy), the Ministero dell `Istruzione, dell `Università e della Ricerca (Ministry of Education, of Universities and Research, Italy), and the</p>
+            <p>
+              <organization refersTo="#institution_93">Ministero del Tesoro</organization>
+            </p>
+            <p>(Ministry of Treasury, Italy), and, on the other, specialist doctors, concerning, primarily, payment to the latter of appropriate remuneration, within the meaning of the Annex to the Directive 75/363 as amended, or, in the alternative, compensation for the damage suffered by the latter as a result of the failure to transpose Directive 82/76 in an appropriate and timely manner.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <tblock>
+          <p>Directive 75/363</p>
+        </tblock>
+        <paragraph eId="para_11625">
+          <num>3</num>
+          <content eId="para_11625__content">
+            <p>Article 2(1) of Directive 75/363 provided: `Member States shall ensure that the training leading to a diploma, certificate or other evidence of formal qualifications in specialised medicine, meets the following requirements at least:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>it shall entail the successful completion of six years' study within the framework of the training course referred to in Article 1 ...;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>it shall comprise theoretical and practical instruction;</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>it shall be a full-time course supervised by the competent authorities or bodies;</p>
+              </item>
+              <item>
+                <num>(d)</num>
+                <p>it shall be in a university centre, in a teaching hospital or, where appropriate, in a health establishment approved for this purpose by the competent authorities or bodies;</p>
+              </item>
+              <item>
+                <num>(e)</num>
+                <p>it shall involve the personal participation of the doctor training to be a specialist in the activity and in the responsibilities of the establishments concerned.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11626">
+          <num>4</num>
+          <content eId="para_11626__content">
+            <p>Article 3 of that directive provided: `1.   Without prejudice to the principle of full-time training as set out in Article 2(1)(c), and until such time as the Council takes a decision in accordance with paragraph 3, Member States may permit part-time specialist training, under conditions approved by the competent national authorities, when training on a full-time basis would not be practicable for well-founded reasons. 2.   The total period of specialised training may not be shortened by virtue of paragraph 1. The standard of the training may not be impaired, either by its part-time nature or by the practice of private, remunerated professional activity. 3.   Four years at the latest after notification of this directive and in the light of a review of the situation, acting on a proposal from the Commission, and bearing in mind that the possibility of part-time training should continue to exist in certain circumstances to be examined separately for each specialty, the Council shall decide whether the provisions of paragraphs 1 and 2 should be retained or amended.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11627">
+          <num>5</num>
+          <content eId="para_11627__content">
+            <p>Article 7 of that directive was worded as follows: `As a transitional measure and notwithstanding Articles 2(1)(c) and 3, Member States whose provisions laid down by law, regulation or administrative action permit a method of part-time specialist training at the time of notification of this Directive may continue to apply these provisions to candidates who have begun their training as specialists no later than four years after the notification of this Directive. This period may be extended if the Council has not taken a decision in accordance with Article 3(3).'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11628">
+          <num>6</num>
+          <content eId="para_11628__content">
+            <p>Directive 75/363 was notified to the Member States on 20 June 1976.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Directive 82/76</p>
+        </tblock>
+        <paragraph eId="para_11629">
+          <num>7</num>
+          <content eId="para_11629__content">
+            <p>Under Article 9(1) of Directive 82/76, Article 2(1)(c) of Directive 75/363 has been replaced by the following: `</p>
+            <blockList>
+              <item>
+                <num>(c)</num>
+                <p>it shall be a full-time course supervised by the competent authorities or bodies pursuant to point 1 of the Annex hereto'.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11630">
+          <num>8</num>
+          <content eId="para_11630__content">
+            <p>Under Article 10 of Directive 82/76, Article 3 of Directive 75/363 has been replaced by the following: `1.   Without prejudice to the principle of full-time training as set out in Article 2(1)(c), and until such time as the Council takes a decision in accordance with paragraph 3, Member States may permit part-time specialist training, under conditions approved by the competent national authorities, when training on a full-time basis would not be practicable for well-founded reasons. 2.   Part-time training shall be given in accordance with point 2 of Annex I hereto and at a standard qualitatively equivalent to full-time training. This standard of training shall not be impaired, either by its part-time nature or by the practice of private, remunerated professional activity. The total duration of training may not be shortened because it is being followed on a part-time basis. 3.   The Council shall decide, not later than 25 January 1989, whether the provisions of paragraphs 1 and 2 are to be maintained or amended, in the light of a re-examination of the situation and on a proposal by the Commission, with due regard to the fact that the possibility of part-time training should continue to exist in certain circumstances to be examined specialty by specialty.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11631">
+          <num>9</num>
+          <content eId="para_11631__content">
+            <p>Under Article 12 of Directive 82/76, Article 7 of Directive 75/363 has been replaced by the following: `As a transitional measure and notwithstanding Articles 2(1)(c) and 3, Member States whose provisions, laid down by law, regulation or administrative action, provided for part-time specialist training at the time of notification of [Directive 75/362] may continue to apply these provisions to candidates who have begun training as specialists not later than 31 December 1983. Each host Member State shall be authorised to require the beneficiaries of the first paragraph to produce, in addition to their diplomas, certificates and other evidence of formal qualifications, an attestation certifying that for at least three consecutive years out of the five years preceding the issue of the attestation they have in fact been lawfully practising as specialists in the field concerned.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11632">
+          <num>10</num>
+          <content eId="para_11632__content">
+            <p>Article 13 of Directive 82/76 added to Directive 75/363 an annex entitled `Characteristics of full-time and part-time training of specialists'. That annex provided: `1. Full-time training of specialists Such training shall be carried out in specific posts recognised by the competent authority. It shall involve participation in all the medical activities of the department where the training is carried out, including on-call duties, so that the trainee specialist devotes to this practical and theoretical training all his professional activity throughout the duration of the standard working week and throughout the year according to provisions agreed by the competent authorities. Accordingly these posts shall be subject to appropriate remuneration. Training may be interrupted for reasons such as military service, secondment, pregnancy or sickness. The total duration of the training shall not be reduced by reason of any interruption. 2. Part-time training of specialists This training shall meet the same requirements as full-time training, from which it shall differ only in the possibility of limiting participation in medical activities to a period at least half of that provided for in the second paragraph of point 1. The competent authorities shall ensure that the total duration and quality of part-time training of specialists are not less than those of full-time trainees. Appropriate remuneration shall consequently be attached to such part-time training.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11633">
+          <num>11</num>
+          <content eId="para_11633__content">
+            <p>Article 14 of Directive 82/76 provided: `Part-time specialist training begun before 1 January 1983 under Article 3 of Directive 75/363/EEC may be completed in accordance with that article.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11634">
+          <num>12</num>
+          <content eId="para_11634__content">
+            <p>Under Article 16 of Directive 82/76: `Member States shall take the necessary measures to comply with this Directive by 31 December 1982 at the latest. They shall forthwith inform the Commission thereof.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11635">
+          <num>13</num>
+          <content eId="para_11635__content">
+            <p>Directive 82/76 was notified to the Member States on 29 January 1982 and entered into force on the same day, in accordance with the second paragraph of Article 191 of the EEC Treaty.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11636">
+          <num>14</num>
+          <content eId="para_11636__content">
+            <p>Directive 75/363 as amended was repealed on 15 April 1993 by Council Directive 93/16/EEC of 5 April 1993 to facilitate the free movement of doctors and the mutual recognition of their diplomas, certificates and other evidence of formal qualifications ( OJ 1993 L 165, p. 1), which has itself been repealed by Directive 2005/36/EC of the European Parliament and of the Council of 7 September 2005 on the recognition of professional qualifications ( OJ 2005 L 255, p. 22).</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Italian law</p>
+        </tblock>
+        <paragraph eId="para_11637">
+          <num>15</num>
+          <content eId="para_11637__content">
+            <p>Directive 82/76 has been transposed into Italian law by decreto legislativo n. 257 -- Attuazione della direttiva n. 82/76/CEE del Consiglio del 26 gennaio 1982, recante modifica di precedenti direttive in tema di formazione dei medici specialisti, a norma dell `art. 6 della legge 29 dicembre 1990, n. 428 (Legislative Decree No 257, transposing Council Directive 82/76/EEC of 26 January 1982, which amends the previous Directives on the training of specialist doctors on the basis of Article 6 of the Law of Community interest of 29 December 1990, No 428), of 8 August 1991 (GURI No 191, of 16 August 1991, `Legislative Decree No 257'). That Legislative Decree came into force 15 days after the date of its publication and was subsequently replaced by decreto legislativo n. 368 -- Attuazione della direttiva 93/16/CEE in materia di libera circolazione dei medici e di reciproco riconoscimento dei loro diplomi, certificati ed altri titoli e delle direttive 97/50/CE, 98/21/CE, 98/63/CE e 99/46/CE che modificano la direttiva 93/16/CEE (Legislative Decree No 368 transposing Directive 93/16/EEC on the free movement of doctors and the mutual recognition of diplomas, certificates and other titles, and Directives 97/50/EC, 98/21/EC, 98/63/EC and 99/46/EC which amend Directive 93/16/EEC), of 17 August 1999 (ordinary supplement to GURI No 250, of 23 October 1999).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11638">
+          <num>16</num>
+          <content eId="para_11638__content">
+            <p>Article 8.2 of Legislative Decree No 257 stated that its provisions were to apply from the 1991/1992 academic year.</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The disputes in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_11639">
+          <num>17</num>
+          <content eId="para_11639__content">
+            <p>The doctors who brought the disputes in the main proceedings undertook training to become specialist doctors in Italy between 1982 and 1990.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11640">
+          <num>18</num>
+          <content eId="para_11640__content">
+            <p>On 16 February 2001 (Case C‑617/16) and on 18 March 2003 (Case C‑616/16), they brought actions against the University of Palermo, the Ministry of Education, Universities and Research, the</p>
+            <p>
+              <organization refersTo="#institution_92">Ministry of Health</organization>
+            </p>
+            <p>, the Ministry of the Treasury and the Presidency of the Council of Ministers before the Tribunale di Palermo (Palermo Court, Italy).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11641">
+          <num>19</num>
+          <content eId="para_11641__content">
+            <p>Those doctors have asked, principally, for that university and those State administrations to be ordered to pay them appropriate remuneration, within the meaning of the Annex to Directive 75/363 as mended, for the training of medical specialists which they had completed. In the alternative, they sought compensation for the damage suffered as a result of the failure to transpose Directive 82/76 in an appropriate and timely manner.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11642">
+          <num>20</num>
+          <content eId="para_11642__content">
+            <p>By judgments of 27 April and 17 June 2006 (Case C‑616/16) and of 30 April and 28 May 2007 (Case C‑617/16), the Tribunale di Palermo (Palermo Court) dismissed those claims.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11643">
+          <num>21</num>
+          <content eId="para_11643__content">
+            <p>Hearing appeals against those judgments, the Corte d'Appello di Palermo (Palermo Court of Appeal, Italy), by judgments of 18 July and 27 September 2012 (Case C‑616/16) and of 10 October 2012 (Case C‑617/16), ordered the Presidency of the Council of Ministers to pay to each of the doctors concerned the sum of EUR 11103.82 (Case C‑616/16) and that of EUR 6713.93 (Case C‑617/16), plus statutory interest.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11644">
+          <num>22</num>
+          <content eId="para_11644__content">
+            <p>The Presidency of the Council of Ministers and certain other parties in the main proceedings have lodged an appeal against those judgments.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11645">
+          <num>23</num>
+          <content eId="para_11645__content">
+            <p>The referring court finds that the cases in the main proceedings concern the assessment of the legal scheme applicable to the training of specialist doctors which was begun before 31 December 1982 and was completed after that date.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11646">
+          <num>24</num>
+          <content eId="para_11646__content">
+            <p>Taking the view that the resolution of the disputes in the cases in the main proceedings depends on the interpretation of Directive 75/363 as amended, the Corte suprema di cassazione (Court of Cassation, Italy) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling, worded in identical terms in Cases C‑616/16 and C‑617/16: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Is Directive [75/363 as amended] to be interpreted as including within its scope full-time and part-time courses for trainee medical specialists which had already begun by 31 December 1982 and continued after that date, that being the date by which the Member States were to have adopted the necessary measures to comply with the directive, in accordance with Article 16 thereof? If Question 1 is answered in the affirmative,</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>Is the Annex which was appended to [Directive 75/363] by Article 13 of Directive [82/76], to be interpreted as meaning that, with respect to specialist training courses which had already begun by 31 December 1982, the obligation to provide trainee specialists with adequate remuneration is dependent on fulfilment of the obligation to reorganise courses or on compliance with the requirements of the abovementioned directives?</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>With respect to specialist doctors who pursued specialist training courses which began before 1 January 1983 but had not ended by that date, was there any obligation to pay them adequate remuneration for the entire duration of the course or for the period after 31 December 1982 alone and, if so, to what conditions, if any, was that obligation subject?'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11647">
+          <num>25</num>
+          <content eId="para_11647__content">
+            <p>By decision of the President of the Court of 16 December 2016, Cases C‑616/16 and C‑617/16 were joined for the purposes of the written and oral procedure and the judgment.</p>
+            <tblock>
+              <p>Consideration of the questions referred</p>
+            </tblock>
+            <tblock>
+              <p>The first question</p>
+            </tblock>
+            <p>26 By its first question, the referring court seeks, in essence, to ascertain whether Article 2(1)(c), Article 3(1) and (2) and the Annex to Directive 75/363 as amended mean that any period of full-time or part-time specialist medical training begun in 1982 and continued up to 1990 should be subject to appropriate remuneration, within the meaning of that annex.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11648">
+          <num>27</num>
+          <content eId="para_11648__content">
+            <p>It should first be recalled that, pursuant to the provisions referred to in the preceding paragraph, repealed on 15 April 1993 by Directive 93/16, training leading to a diploma, certificate or other evidence of formal qualifications in specialised medicine, whether full-time or part-time, is normally subject to appropriate remuneration.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11649">
+          <num>28</num>
+          <content eId="para_11649__content">
+            <p>It should be borne in mind, next, that the obligation to provide appropriate remuneration is binding only in respect of the medical specialties which are common to all the Member States or to two or more of them and are mentioned in Article 5 or Article 7 of Council Directive 75/362/EEC of 16 June 1975 concerning the mutual recognition of diplomas, certificates and other evidence of formal qualifications in medicine, including measures to facilitate the effective exercise of the right of establishment and freedom to provide services ( OJ 1975 L 167, p. 1) (see, to that effect, judgment of 3 October 2000, Gozza and Others, C‑371/97, EU:C:2000:526, paragraph 35 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11650">
+          <num>29</num>
+          <content eId="para_11650__content">
+            <p>It follows from settled case-law of the Court that the obligation on Member States to provide remuneration for periods of training in medical specialties, laid down by the Annex to Directive 75/363 as amended, is, in itself, unconditional and sufficiently precise (see, to that effect, judgments of 25 February 1999, Carbonari and Others, C‑131/97, EU:C:1999:98, paragraph 44, and of 3 October 2000, Gozza and Others, C‑371/97, EU:C:2000:526, paragraphs 34 and 41).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11651">
+          <num>30</num>
+          <content eId="para_11651__content">
+            <p>In that regard, it should be noted that that obligation, which was not provided for initially by Directive 75/363, was introduced by Directive 82/76, entered into force on 29 January 1982 and the Member States, in accordance with Article 16 thereof, were required to comply with it by 31 December 1982 at the latest.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11652">
+          <num>31</num>
+          <content eId="para_11652__content">
+            <p>Directive 82/76 has been transposed into Italian law by Legislative Decree No 257, which entered into force 15 days after the date of its publication, which took place on 16 August 1991.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11653">
+          <num>32</num>
+          <content eId="para_11653__content">
+            <p>Admittedly, Article 14 of Directive 82/76 laid down that part-time specialist training begun before 1 January 1983 under Article 3 of Directive 75/363 could be completed in accordance with that article.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11654">
+          <num>33</num>
+          <content eId="para_11654__content">
+            <p>However, as the Commission pointed out in its written observations, the transitional rule laid down in Article 14 of Directive 82/76 concerned the legality of such part-time training of specialist doctors, and not the obligation to remunerate them.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11655">
+          <num>34</num>
+          <content eId="para_11655__content">
+            <p>The possibility for the Member States to allow part-time training of specialist doctors was already provided for in Article 3 of Directive 75/363 as being an exception to the obligation to perform full-time training, the need to maintain that exception being subject to periodic review by the EU legislature.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11656">
+          <num>35</num>
+          <content eId="para_11656__content">
+            <p>Similarly, the transitional rule concerning part-time training of specialist doctors provided for in Article 12 of Directive 82/76, which amended Article 7 of Directive 75/363, can also not be considered as having temporally limited the obligation to pay appropriate remuneration for training.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11657">
+          <num>36</num>
+          <content eId="para_11657__content">
+            <p>That interpretation is supported by the preparatory works to Directive 82/76. Indeed, it is apparent from points 4 and 8 of Title II of the explanatory memorandum to the proposal for a Council Directive amending Directive 75/363 [COM(80) 914 final], at the origin of Directive 82/76, that the two transitional provisions referred to in paragraphs 33 and 35 of the present judgment have been provided for the benefit of doctors who began their training before the expiry of the deadline for the transposition of that directive, in order to ensure the continuity of that training.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11658">
+          <num>37</num>
+          <content eId="para_11658__content">
+            <p>In the light of the foregoing considerations, it is not apparent from Directive 75/363 as amended that the obligation on Member States to provide appropriate remuneration for periods of full-time and part-time specialist training would not apply to such training begun before the expiry, on 1 January 1983, of the deadline for the transposition of Directive 82/76 and continued after that date.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11659">
+          <num>38</num>
+          <content eId="para_11659__content">
+            <p>In those circumstances, the answer to the first question referred is that Article 2(1)(c), Article 3(1) and (2) and the Annex to Directive 75/363 as amended must be interpreted as meaning that any period of full-time or part-time specialist medical training begun in 1982 and continued up to 1990 must be subject to appropriate remuneration, within the meaning of that annex, provided that that training concerns a medical speciality common to all the Member States or to two or more of them and is referred to in Articles 5 or 7 of Directive 75/362.</p>
+            <tblock>
+              <p>The second question</p>
+            </tblock>
+            <p>39 By its second question, the referring court seeks, in essence, to ascertain whether Article 2(1)(c), Article 3(1) and (2) and the Annex to Directive 75/363 as amended must be interpreted as meaning that the existence of the obligation, for a Member State, to provide appropriate remuneration, within the meaning of that annex, for any period of full-time or part-time specialist medical training begun in 1982 and continued up to 1990 depends on the adoption, by that Member State, of measures transposing Directive 82/76 and the effective implementation of those measures.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11660">
+          <num>40</num>
+          <content eId="para_11660__content">
+            <p>In that regard, in accordance with the case-law of the Court referred to in paragraph 29 of the present judgment, the obligation to provide for appropriate remuneration, laid down by Directive 75/363 as amended is, as such, unconditional and sufficiently precise.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11661">
+          <num>41</num>
+          <content eId="para_11661__content">
+            <p>It is true that it follows from that case-law that Directive 75/363 as amended does not contain any definition either of the remuneration which is to be regarded as appropriate or of the methods by which that remuneration is to be fixed. Such definitions are in principle a matter for the Member States, which must adopt specific implementing measures in the field (see, to that effect, judgments of 25 February 1999, Carbonari and Others, C‑131/97, EU:C:1999:98, paragraph 45, and of 3 October 2000, Gozza and Others, C‑371/97, EU:C:2000:526, paragraphs 36).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11662">
+          <num>42</num>
+          <content eId="para_11662__content">
+            <p>Nevertheless, the Court has already held that the Member States' obligation arising from a directive to achieve the result envisaged by the directive and their duty to take all appropriate measures, whether general or particular, to ensure the fulfilment of that obligation is binding on all the authorities of Member States, including, for matters within their jurisdiction, the courts. Accordingly, in applying national law and in particular the provisions of a law which were specifically introduced in order to implement a directive, the national court is required to interpret its national law, as far as possible, in the light of the wording and the purpose of the directive in order to achieve the result pursued by the latter (see, to that effect, judgments of 25 February 1999, Carbonari and Others, C‑131/97, EU:C:1999:98, paragraph 48 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11663">
+          <num>43</num>
+          <content eId="para_11663__content">
+            <p>Here, as was stated in paragraph 31 of the present judgment, Directive 82/76 has been transposed into Italian law by Legislative Decree No 257, which entered into force 15 days after the date of its publication, which took place on 16 August 1991.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11664">
+          <num>44</num>
+          <content eId="para_11664__content">
+            <p>When ruling, inter alia, on references for a preliminary ruling brought for an interpretation of Directive 75/363 as amended, the Court has held that a national court is required, when it applies provisions of national law adopted either before or after a directive, to interpret them as far as possible in the light of the wording and the purpose of that directive (judgments of 25 February 1999, Carbonari and Others, C‑131/97, EU:C:1999:98, paragraph 54, and of 3 October 2000, Gozza and Others, C‑371/97, EU:C:2000:526, paragraph 45).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11665">
+          <num>45</num>
+          <content eId="para_11665__content">
+            <p>In this respect, it must be recalled that, even in the absence of specific national measures to transpose a directive, it is for the national court to interpret the national law, so far as possible, in the light of the wording and the purpose of the directive concerned in order to achieve the result sought by the directive, which requires that national court to do whatever lies within its jurisdiction, taking the whole body of domestic law into consideration and applying the interpretative methods recognised by that law (see, to that effect, judgment of 18 December 2014, Schoenimport Italmoda Mariano Previti and Others, C‑131/13, C‑163/13 and C‑164/13, EU:C:2014:2455, paragraph 52 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11666">
+          <num>46</num>
+          <content eId="para_11666__content">
+            <p>With regard to the purpose of the Annex to Directive 75/363 as amended, the Court has already held that it aims to ensure that the doctors concerned devote all their professional activity to their practical and theoretical training throughout the week, or, in the case of a specialist in part-time training, a significant proportion of it (see, to that effect, judgments of 25 February 1999, Carbonari and Others, C‑131/97, EU:C:1999:98, paragraph 33, and of 3 October 2000, Gozza and Others, C‑371/97, EU:C:2000:526, paragraph 43).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11667">
+          <num>47</num>
+          <content eId="para_11667__content">
+            <p>Therefore, in interpreting national law in accordance with Directive 75/363 as amended, the national court is required to take into account the purpose of that directive, referred to in the preceding paragraph. In that regard, in order to determine the level and methods of fixing appropriate remuneration for the period prior to the transposition into Italian law of Directive 82/76, account should be taken in particular of the remedies provided in this respect in the national legislation transposing that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11668">
+          <num>48</num>
+          <content eId="para_11668__content">
+            <p>As is clear from the answer to the first question, the obligation to provide the doctors concerned with appropriate remuneration extends to all full-time or part-time medical specialist training begun in 1982 and continued until 1990.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11669">
+          <num>49</num>
+          <content eId="para_11669__content">
+            <p>It is sufficient to recall that the Court of Justice has repeatedly held that if the result prescribed by that directive cannot be achieved by way of interpretation, by taking account of the entirety of domestic law and applying the methods of interpretation recognised by it, EU law requires the Member States to make good damage caused to individuals through failure to transpose that directive, provided that three conditions are fulfilled: the rule of law infringed is intended to confer rights on individuals and the content of those rights can be identified; the breach is sufficiently serious; and there is a direct causal link between the breach of the State's obligation and the damage suffered by the persons affected (see, to that effect, judgment of 25 February 1999, Carbonari and Others, C‑131/97, EU:C:1999:98, paragraph 52).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11670">
+          <num>50</num>
+          <content eId="para_11670__content">
+            <p>In that regard, retroactive application in full of the measures implementing Directive 82/76 will enable the harmful consequences of its belated transposition to be remedied, provided that the directive was properly transposed. However, it is for the national court to ensure that reparation of the loss or damage sustained by the beneficiaries is adequate. Retroactive and proper application in full of the measures implementing Directive 82/76 will suffice for that purpose unless the beneficiaries establish the existence of complementary loss sustained on account of the fact that they were unable to benefit at the appropriate time from the financial advantages guaranteed by that directive with the result that such loss must also be made good (see, to that effect, judgments of 25 February 1999, Carbonari and Others, C‑131/97, EU:C:1999:98, paragraph 53, and of 3 October 2000, Gozza and Others, C‑371/97, EU:C:2000:526, paragraph 39).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11671">
+          <num>51</num>
+          <content eId="para_11671__content">
+            <p>Taking account of the foregoing considerations, the answer to the second question is that Article 2(1)(c), Article 3(1) and (2) and the Annex to Directive 75/363 as amended must be interpreted as meaning that the existence of the obligation, for a Member State, to provide appropriate remuneration, within the meaning of that annex, for any period of full-time or part-time specialist medical training begun in 1982 and continued up to 1990 does not depend on the adoption, by that Member State, of measures transposing Directive 82/76. The national court is required, when it applies provisions of national law adopted either before or after a directive, to interpret them as far as possible in the light of the wording and the purpose of those directives. Where, owing to the absence of national measures transposing Directive 82/76, the result prescribed by that directive cannot be achieved by way of interpretation, by taking account of the entirety of domestic law and applying the methods of interpretation recognised by it, EU law requires the Member State concerned to make good damage caused to individuals through failure to transpose that directive. It is for the referring court to determine whether all the conditions laid down in that regard by the case-law of the Court of Justice are met for the Member State to have incurred liability under EU law.</p>
+            <tblock>
+              <p>The third question</p>
+            </tblock>
+            <p>52 By its third question, the referring court seeks, in essence, to ascertain whether Article 2(1)(c), Article 3(1) and (2) and the Annex to Directive 75/363 as amended must be interpreted as meaning that appropriate remuneration, within the meaning of that annex, for any period of full-time or part-time specialist medical training begun in 1982 and continued up to 1990 must be paid for the entirety of the period of that training.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11672">
+          <num>53</num>
+          <content eId="para_11672__content">
+            <p>In that regard, it must be borne in mind that since the transposition period for a directive is intended in particular to give the Member States the time necessary to adopt the transposing measures, those States cannot be reproached for not having yet adopted measures implementing it in national law (see, to that effect, judgment of 27 October 2016, Milev, C‑439/16 PPU, EU:C:2016:818, paragraph 30 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11673">
+          <num>54</num>
+          <content eId="para_11673__content">
+            <p>In the present case, it follows from the wording of Directive 82/76 that the Member States were required to take the measures necessary to comply with that directive by 31 December 1982 at the latest.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11674">
+          <num>55</num>
+          <content eId="para_11674__content">
+            <p>It is true that it follows from the Court's case-law that, from the date upon which a directive has entered into force, the authorities and courts of the Member States must refrain as far as possible from interpreting domestic law in a manner which might seriously compromise, after the period for transposition has expired, attainment of the objective pursued by that directive (judgment of 27 October 2016, Milev, C‑439/16 PPU, EU:C:2016:818, paragraph 32 and the case-law cited.)</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11675">
+          <num>56</num>
+          <content eId="para_11675__content">
+            <p>However, there is no evidence that, in the case of a period of full-time or part-time specialist medical training begun in 1982 and continued up to 1990, the fact that providing for adequate remuneration only for the period after the expiry of the period for the transposition of Directive 82/76 could seriously undermine the objective pursued by it.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11676">
+          <num>57</num>
+          <content eId="para_11676__content">
+            <p>In those circumstances, the answer to the third question is that Article 2(1)(c), Article 3(1) and (2) and the Annex to Directive 75/363 as amended must be interpreted as meaning that appropriate remuneration, within the meaning of that annex, for any period of full-time or part-time specialist medical training begun in 1982 and continued up to 1990 must be paid for the period of that training from 1 January 1983 and until the end of that training.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_11677">
+          <num>58</num>
+          <content eId="para_11677__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Eighth Chamber) hereby rules: 1. Article 2(1)(c), Article 3(1) and (2) and the Annex to Council Directive 75/363/EEC of 16 June 1975 concerning the coordination of provisions laid down by law, regulation or administrative action in respect of activities of doctors, as amended by Council Directive 82/76/EEC of 26 January 1982, must be interpreted as meaning that any period of full-time or part-time specialist medical training begun in 1982 and continued up to 1990 must be subject to appropriate remuneration, within the meaning of that annex, provided that that training concerns a medical speciality common to all the Member States or to two or more of them and is referred to in Articles 5 or 7 of Council Directive 75/362/EEC of 16 June 1975 concerning the mutual recognition of diplomas, certificates and other evidence of formal qualifications in medicine, including measures to facilitate the effective exercise of the right of establishment and freedom to provide services. 2. Article 2(1)(c), Article 3(1) and (2) and the Annex to Directive 75/363, as amended by Directive 82/76, must be interpreted as meaning that the existence of the obligation, for a Member State, to provide appropriate remuneration, within the meaning of that annex, for any period of full-time or part-time specialist medical training begun in 1982 and continued up to 1990, does not depend on the adoption, by that Member State, of measures transposing Directive 82/76. The national court is required, when it applies provisions of national law adopted either before or after a directive, to interpret them as far as possible in the light of the wording and the purpose of those directives. Where, owing to the absence of national measures transposing Directive 82/76, the result prescribed by that directive cannot be achieved by interpretation, by taking account of the entirety of domestic law and applying the methods of interpretation recognised by it, EU law requires the Member State concerned to make good damage caused to individuals through failure to transpose that directive. It is for the referring court to determine whether all the conditions laid down in that regard by the case-law of the Court of Justice are met for the Member State to have incurred liability under EU law. 3. Article 2(1)(c), Article 3(1) and (2) and the Annex to Directive 75/363, as amended by Directive 82/76, must be interpreted as meaning that appropriate remuneration, within the meaning of that annex, for any period of full-time or part-time specialist medical training begun in 1982 and continued up to 1990 must be paid for the period of that training from 1 January 1983 and until the end of that training.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the cases: Italian.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

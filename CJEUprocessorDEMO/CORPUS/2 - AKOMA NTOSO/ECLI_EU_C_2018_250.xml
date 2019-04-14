@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+      <references source="#source">
+        <TLCOrganization eId="institution_31" showAs="" href="/akn/ontology/Organization/Institution/institution_31" />
+        <TLCOrganization eId="institution_47" showAs="" href="/akn/ontology/Organization/Institution/institution_47" />
+      </references>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Sixth Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>12 April 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Failure of a Member State to fulfil obligations -- Free movement of capital -- Article 63 TFEU -- Article 40 of the EEA Agreement -- Tax on the income of Belgian residents -- Calculation of income from immovable property -- Application of two different calculation methods depending on the place in which the immovable property is situated -- Calculation on the basis of the cadastral value for immovable property located in Belgium -- Calculation based on the actual rental value for immovable property located in another Member State of the European Union or the European Economic Area (EEA) -- Difference in treatment -- Restriction on the free movement of capital) In Case C‑110/17, ACTION under Article 258 TFEU for failure to fulfil obligations, brought on 3 March 2017,</p>
+      <p>
+        <party as="appellant" refersTo="#institution_31">European Commission</party>
+      </p>
+      <p>, represented by W. Roels and N. Gossement, acting as Agents, applicant, v</p>
+      <p>
+        <party as="respondent" refersTo="#institution_47">Kingdom of Belgium</party>
+      </p>
+      <p>, represented by P. Cottin, M. Jacobs and L. Cornelis, acting as Agents, defendant, THE COURT (Sixth Chamber), composed of C.G. Fernlund, President of the Chamber, J.-C. Bonichot (Rapporteur) and A. Arabadjiev, Judges, Advocate General: E. Sharpston, Registrar: A. Calot Escobar, having regard to the written procedure, having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,</p>
+      <p>gives the following</p>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_9775">
+          <num>1</num>
+          <content eId="para_9775__content">
+            <p>By its application, the European Commission asks the Court to declare that, by retaining provisions under which, in respect of the estimation of income relating to unrented immovable property or immovable property rented either to natural persons who do not use it for professional purposes or to legal persons which make such property available to natural persons for private purposes, the tax base is calculated on the basis of the cadastral value so far as immovable property on national territory is concerned, and on the actual rental value so far as immovable property located abroad is concerned, the Kingdom of Belgium has failed to fulfil its obligations under Article 63 TFEU and Article 40 of the Agreement on the European Economic Area of 2 May 1992 ( OJ 1994 L 1, p. 3) ( `the EEA Agreement').</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <paragraph eId="para_9776">
+          <num>2</num>
+          <content eId="para_9776__content">
+            <p>According to Article 40 of the EEA Agreement: `Within the framework of the provisions of this Agreement, there shall be no restrictions between the Contracting Parties on the movement of capital belonging to persons resident in [European Community (EC)] Member States or [European Free Trade Association (EFTA)] States and no discrimination based on the nationality or on the place of residence of the parties or on the place where such capital is invested. Annex XII contains the provisions necessary to implement this Article.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Belgian law</p>
+        </tblock>
+        <paragraph eId="para_9777">
+          <num>3</num>
+          <content eId="para_9777__content">
+            <p>Article 7 of the Wetboek van de inkomstenbelastingen 1992 (Income Tax Code 1992; `the ITC 92') provides: `1.   Income from immovable property shall be: 1° in the case of immovable property that is not rented out:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>in respect of property situated in Belgium:</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>the cadastral income, in the case of immovable property which has not been built on, material and equipment which are immovable by nature or by the use to which they are put or dwellings of the kind referred to in Article 12(3);</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>the cadastral income increased by 40 [percent (%)], where other property is concerned;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>in respect of property situated abroad: the rental value; 2° in the case of immovable property that is rented out:</p>
+              </item>
+              <item>
+                <num>(a)</num>
+                <p>in respect of property situated in Belgium rented out to a natural person who uses it neither in whole nor in part to carry out his professional activity:</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>the cadastral income, in the case of immovable property which has not been built on, or material and equipment which are immovable by nature or by the use to which they are put;</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>the cadastral income increased by 40[%], where other property is concerned; ...</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>a the cadastral income increased by 40[%], in the case of immovable property which has been built on, rented out to a legal person other than a company, in order to make it available to:</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>a natural person for occupation exclusively for residential purposes; ...</p>
+              </item>
+              <item>
+                <num>(d)</num>
+                <p>the total amount of the rent and the rental benefits, in the case of immovable property situated abroad; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9778">
+          <num>4</num>
+          <content eId="para_9778__content">
+            <p>Paragraph 3 of Article 12 of the ITC 92 provides: `Without prejudice to the levying of immovable property tax, the cadastral income of the dwelling which the taxpayer occupies and of which it is the owner shall be exempted ... ... Where the taxpayer occupies a dwelling situated in a Member State of the [European Economic Area (EEA)] and is the owner of it, ... the exemption provided for in this paragraph shall apply to the rental value of that dwelling ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9779">
+          <num>5</num>
+          <content eId="para_9779__content">
+            <p>Article 13 of the ITC 92 states: `As regards the rental value, the rent and the rental benefits of immovable property, net income shall mean the amount of the gross income reduced, for the costs of maintenance and repair, by:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>40[%] in the case of immovable property which has been built on and in the case of material and equipment which are immovable by nature or by the use to which they are put, ...</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>10[%] for immovable property which has not been built on.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9780">
+          <num>6</num>
+          <content eId="para_9780__content">
+            <p>Under Article 155 of the ITC 92: `Income exempted under international conventions for the prevention of double taxation shall be taken into account for the purposes of calculating tax, but the tax shall be reduced according to the proportion of the overall income represented by the exempted income. ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9781">
+          <num>7</num>
+          <content eId="para_9781__content">
+            <p>Article 156 of the ITC 92 provides: `The part of the tax which corresponds proportionately to the following shall be reduced by half: 1° income from immovable property situated abroad; ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9782">
+          <num>8</num>
+          <content eId="para_9782__content">
+            <p>Article 251 of the ITC 92 states: `Immovable property tax shall be payable, according to the detailed rules determined by the King, by the owner, possessor, leaseholder, superficiary or usufructuary of taxable property.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9783">
+          <num>9</num>
+          <content eId="para_9783__content">
+            <p>Article 471 of the ITC 92 provides: `1.   Cadastral income shall be established for all immovable property which has been built on or not, as well as for material and equipment which are immovable by nature or by the use to which they are put. 2.   Cadastral income means the net normal average income of a year. ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9784">
+          <num>10</num>
+          <content eId="para_9784__content">
+            <p>The administrative commentary on the ITC 92 provides: `13/7 Before being reduced to 60% or to 90% of their amount, the rental value referred to in point 13/6, subsection 1, together with the rent and the rental benefits referred to in point 13/6, subsection 2, must, however, be reduced by the amount of foreign taxes actually charged on income from the immovable property in question (excluding foreign taxes based on total income calculated on a flat-rate basis depending on the presumed income of such properties). 13/8 The rental value represents the annual average gross rent which, in the case of renting, could have been obtained during the taxable period, both in the form of rent itself and in that of charges assumed by the tenant ..., all in accordance with the practices of the country in which the property is situated. In support of the rental value that he declares, the owner must, at the request of the taxing officer, produce all requisite supporting documents such as deeds of acquisition of property, inheritance declarations, documents relating to personal and property taxes. To check that amount, investigations may, where necessary, be carried out by the competent inheritance tax collectors. ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9785">
+          <num>11</num>
+          <content eId="para_9785__content">
+            <p>Point 13/8 of the administrative commentary on the ITC 92 was supplemented as follows by circular AGFisc No 22/2016 (No Ci.704.681) of 29 June 2016: `The notional income expressly approved or set by a foreign authority for that immovable property may be taken into account as rental value. The use of that value is not an obligation, but an option which the taxpayer may use to set that income from immovable property. In that case, the document which makes that value apparent counts as a supporting document (tax assessment notices, property tax, etc.). That value may, inter alia, be:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>an estimated gross rent for that property which is taken into account in a country for the establishment of a tax;</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>a gross rent determined on a flat-rate basis which is taken into account in a country for the establishment of a tax (e.g. a gross rental value that has been established on the basis of reference parcels);</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>the taxable income for that immovable property which is taken into account in a country for the calculation of a tax on income. The amount indicated in the supporting document may be reduced (by costs, exemptions or reductions, which, on the basis of the legislation applicable abroad, have for example been deducted). Where necessary, the amount of costs, exemptions or reductions must be added to the amount indicated in the supporting document, so that the gross amount is taken into account when setting the rental value.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Pre-litigation procedure</p>
+        </tblock>
+        <paragraph eId="para_9786">
+          <num>12</num>
+          <content eId="para_9786__content">
+            <p>By a letter of formal notice of 7 November 2007, the Commission pointed out that the Belgian tax provisions on income from immovable property located abroad ( `the legislation at issue') might be incompatible with the obligations arising from Article 63 TFEU and Article 40 of the EEA Agreement. That incompatibility arises, in its view, from the different methods of calculating taxable income according to whether the immovable property is situated in Belgium or in another State. In the latter case, as part of the taxation of Belgian residents' income, income from immovable property is treated disadvantageously in comparison with income relating to immovable property located in Belgium. That difference in treatment is, it claims, liable to restrict the free movement of capital. By letter of 17 March 2008, the Kingdom of Belgium rejected those claims.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9787">
+          <num>13</num>
+          <content eId="para_9787__content">
+            <p>By a supplementary letter of formal notice of 26 June 2009, the Commission confirmed that the complaints raised concerned both income from immovable property which has been built on and income from immovable property which has not been built on. By letter of 16 November 2009, the Kingdom of Belgium confirmed its initial position.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9788">
+          <num>14</num>
+          <content eId="para_9788__content">
+            <p>On 26 March 2012, the Commission issued a reasoned opinion. By letter of 9 October 2012, the Kingdom of Belgium indicated that it accepted the Commission's position and undertook to prepare draft legislation making it possible to rectify the infringement.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9789">
+          <num>15</num>
+          <content eId="para_9789__content">
+            <p>The Commission suspended the infringement proceedings in the light of the referral to the Court of Justice, on 3 September 2013, of a question for a preliminary ruling concerning the tax treatment in Belgium of immovable property situated in France, which gave rise to the judgment of 11 September 2014, Verest and Gerards ( C‑489/13, EU:C:2014:2210).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9790">
+          <num>16</num>
+          <content eId="para_9790__content">
+            <p>In paragraph 34 of that judgment, the Court ruled that Article 63 TFEU had to be interpreted as precluding legislation of a Member State on the taxation of income of residents of that State, in so far as it is liable to lead, when a progressivity clause contained in a convention for the prevention of double taxation is applied, to a higher rate of tax on income merely because the method for determining income from immovable property results in income deriving from immovable property that is not rented out situated in another Member State being assessed at a higher amount than income from such property situated in the first Member State. In addition, the Court left to the national court the task of ascertaining whether that was the effect of the legislation in question.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9791">
+          <num>17</num>
+          <content eId="para_9791__content">
+            <p>In the light of that judgment, the Commission decided to continue the infringement proceedings before the Court by bringing the present action.</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The action</p>
+        </tblock>
+        <tblock>
+          <p>Arguments of the parties</p>
+        </tblock>
+        <paragraph eId="para_9792">
+          <num>18</num>
+          <content eId="para_9792__content">
+            <p>The Commission submits that the Kingdom of Belgium has infringed Article 63 TFEU and Article 40 of the EEA Agreement by applying, for the purpose of determining the calculation of income tax, the provisions of Articles 7 and 13 of the ITC 92, read in conjunction with points 13/7 and 13/8 of the administrative commentary on that code, under which income relating to unrented immovable property or immovable property rented either to natural persons who do not use them for professional purposes or to legal persons which make such property available to natural persons for private purposes, is determined on a flat-rate basis for immovable property situated in Belgium and on the basis of the actual rental value or the actual rent for immovable property situated in another Member State of the European Union or the EEA.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9793">
+          <num>19</num>
+          <content eId="para_9793__content">
+            <p>With regard to the flat-rate basis, this consists of the cadastral value of immovable property reduced by maintenance and repair costs estimated on a flat‑rate basis. It applies only to immovable property, whether or not rented out, that is situated in Belgium.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9794">
+          <num>20</num>
+          <content eId="para_9794__content">
+            <p>As regards immovable property situated in another Member State of the European Union or of the EEA, a distinction should be drawn between immovable property that is rented out and that which is not. While, in the first case, the taxable amount is calculated on the basis of the rent received, in the second case the calculation is based on the amount of the actual rental value of the immovable property. In both cases, the value thus obtained is reduced, first, by taxes paid to the State on whose territory the immovable property is situated and, second, maintenance and repair costs estimated on a flat-rate basis.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9795">
+          <num>21</num>
+          <content eId="para_9795__content">
+            <p>In the absence of any convention for the prevention of double taxation concluded between the Kingdom of Belgium and the State on whose territory the immovable property is situated, income relating to that property is subject to tax in Belgium, while benefiting from a 50% rebate. By contrast, where there is such a convention, that income, although exempted from tax in Belgium, would be taken into account for the purposes of calculating the tax rate applicable to income which is not exempted.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9796">
+          <num>22</num>
+          <content eId="para_9796__content">
+            <p>In that regard, the Commission claims that the cadastral value of immovable property situated in Belgium is, in spite of its indexation and increases and adjustments applicable since 1997, lower than the actual rental value of that property and the actual rent.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9797">
+          <num>23</num>
+          <content eId="para_9797__content">
+            <p>This, the Commission contends, results in a difference in treatment to the detriment of Belgian residents who own immovable property situated in Member States of the European Union or the EEA other than Belgium, which is likely to discourage those persons from investing their capital in such immovable property and to restrict the free movement of capital.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9798">
+          <num>24</num>
+          <content eId="para_9798__content">
+            <p>The Commission claims, moreover, that the judgment of 11 September 2014, Verest and Gerards, C‑489/13, EU:C:2014:2210), confirms that, under the conventions for the prevention of double taxation, the taking into account, by virtue of a progressivity clause, of income which is exempted for the purposes of calculating the tax rate applicable to income which is not exempted could in itself constitute a disadvantage for the taxpayer in so far as it results in a higher tax rate than that which would apply if the immovable property were situated in Belgium.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9799">
+          <num>25</num>
+          <content eId="para_9799__content">
+            <p>Finally, the Commission states that, in response to the letters of formal notice, the Belgian authorities argued that, by circular No AGFisc 22/2016, they had relaxed the administrative interpretation of fiscal legislation by allowing for a value set by the authorities of another State on whose territory the immovable property owned by a Belgian resident is situated to be used instead of the actual rental value. However, that relaxation of the administrative interpretation of fiscal legislation concerned only property that is not rented out, was not legally binding for the Belgian tax authorities and was laid down by a circular the legal value of which is lower than the provisions of the ITC 92. Moreover, rental values calculated by foreign authorities for the purposes of establishing their taxes are not always lower than the actual rent charged on the immovable property market.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9800">
+          <num>26</num>
+          <content eId="para_9800__content">
+            <p>The Kingdom of Belgium does not dispute that the methods of assessing income from immovable property differ according to whether or not that property is situated on Belgian territory. It submits, however, that it is apparent from the judgment of 11 September 2014, Verest and Gerards ( C‑489/13, EU:C:2014:2210, paragraph 20), that the use of differing methods of assessing income from immovable property is permitted, provided that the freedoms of movement are guaranteed. That is the case with regard to the Belgian legislation, which does not necessarily lead to higher taxation on the part of a Belgian taxpayer who owns immovable property situated on the territory of another State.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9801">
+          <num>27</num>
+          <content eId="para_9801__content">
+            <p>The Kingdom of Belgium submits, in this regard, that the cadastral value of immovable property situated in Belgium is determined, like the rental value of immovable property situated in another State, on the basis of an estimate of the rent that could be collected, taking into account variables such as the age of the property and the amount of the rent on the local rental market. The gap between the cadastral value and the actual rental value is larger or smaller depending on those variables.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9802">
+          <num>28</num>
+          <content eId="para_9802__content">
+            <p>Admittedly, the estimate on the basis of the cadastral value is historical and thus, in general, significantly lower than the actual rental value. However, the cadastral value is indexed every year according to changes in the consumer price index and increased by 40%.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9803">
+          <num>29</num>
+          <content eId="para_9803__content">
+            <p>Furthermore, a gap between the cadastral value and the actual rental value of immovable property located in Belgium does not mean that there is a gap between the cadastral value of the immovable property located in Belgium and the actual rental value of comparable immovable property situated in another State. In that regard, the Kingdom of Belgium contends that the cost of immovable property in the Member States of the European Union and the EEA may vary considerably. In some of those States, rents could be lower than those charged in Belgium.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9804">
+          <num>30</num>
+          <content eId="para_9804__content">
+            <p>As regards, in particular, property that is exempted from taxation in Belgium under a convention for the prevention of double taxation, the Kingdom of Belgium submits that, in so far as the tax rate applicable to income taxable in Belgium increases with each tax bracket, taking foreign income from immovable property into account under a progressivity clause does not necessarily affect the tax rate applicable to other income taxable in Belgium. That would be the case only where a potential overvaluation would have the effect of moving the marginal income of the taxpayer into a higher tax bracket on the tax scale. As is apparent, in its view, from the judgment of 11 September 2014, Verest and Gerards ( C‑489/13, EU:C:2014:2210, paragraph 23), the national court, which has jurisdiction to ascertain whether there is a potential higher rate of tax, should carry out a case-by-case assessment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9805">
+          <num>31</num>
+          <content eId="para_9805__content">
+            <p>For the purposes of taking foreign income from immovable property into account when determining the tax rate applicable to income taxable in Belgium, a distinction should also be drawn between immovable property that is rented out and that which is not.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9806">
+          <num>32</num>
+          <content eId="para_9806__content">
+            <p>In the case of property that is not rented out, Belgian taxpayers have the possibility, provided for in circular AGFisc No 22/2016, to indicate in their tax return the `gross rental value' determined by the tax authorities of the State on whose territory their immovable property is situated. Accordingly, that circular gives rise to legitimate expectations on the part of taxpayers, which the hof van beroep te Antwerpen (Court of Appeal, Antwerp, Belgium) recognised, on 2 June 2015, in the case of Verest &amp; Gerards v Belgische Staat.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9807">
+          <num>33</num>
+          <content eId="para_9807__content">
+            <p>To the extent that certain Member States of the European Union or the EEA do not conduct any assessment of income from immovable property that is not rented out, estimating the rental value of such property falls to the taxpayer. However, depending on the living standards and rent generally charged in those States, that estimate would not necessarily be higher than the cadastral value of comparable immovable property located in Belgium.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9808">
+          <num>34</num>
+          <content eId="para_9808__content">
+            <p>As regards immovable property that is rented out, higher taxation than for such property situated in another Member State of the European Union or the EEA other than the Kingdom of Belgium could apply only if three conditions are satisfied, namely, first, if the rent and the rental benefits are higher than the cadastral value of comparable immovable property located in Belgium, second, if the Belgian taxpayer has other income taxable in Belgium and, third, if taking the income from immovable property into account triggers the transition to a higher tax bracket in the tax scale.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9809">
+          <num>35</num>
+          <content eId="para_9809__content">
+            <p>Moreover, the cadastral value of immovable property situated in Belgium is brought closer to the amount of income from immovable property situated in a State other than the Kingdom of Belgium through the deduction from that income of foreign taxes and maintenance and repair costs in the amount of 40%. Concerning those costs, the Kingdom of Belgium admits, however, that the cadastral value of immovable property situated in Belgium is also reduced by an identical lump sum for costs.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9810">
+          <num>36</num>
+          <content eId="para_9810__content">
+            <p>The Kingdom of Belgium submits, furthermore, that income from immovable property situated in Belgium is part of the overall income subject to personal income tax and is subject in advance to immovable property tax, which is a separate property tax. Accordingly, whereas in the case of immovable property located in another State, income from such property would be taken into account only in order to determine the tax rate applicable to income taxable in Belgium, income from immovable property located in Belgium would not only determine the tax rate applicable, but would additionally be subject to double taxation. Overall, the taxation of Belgian residents who own immovable property in Belgium would therefore be higher than that of Belgian residents who own immovable property situated in another Member State of the European Union or the EEA.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Findings of the Court</p>
+        </tblock>
+        <tblock>
+          <p>Preliminary observations</p>
+        </tblock>
+        <paragraph eId="para_9811">
+          <num>37</num>
+          <content eId="para_9811__content">
+            <p>By its action, the Commission claims that the Kingdom of Belgium is restricting the free movement of capital laid down by Article 63 TFEU and Article 40 of the EEA Agreement by providing for tax treatment that is unfavourable to Belgian residents who own immovable property in the territory of a Member State of the European Union or the EEA other than the Kingdom of Belgium.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9812">
+          <num>38</num>
+          <content eId="para_9812__content">
+            <p>In so far as the Kingdom of Belgium refers to circular No AGFisc 22/2016, which, according to that Member State, has the purpose of bringing the legislation at issue into line with Article 63 TFEU and Article 40 of the EEA Agreement, suffice it to recall that it is settled case-law that the question whether a Member State has failed to fulfil obligations must be determined by reference to the situation prevailing at the end of the period laid down in the reasoned opinion, and the Court cannot take account of any subsequent changes (judgment of 29 October 2015, Commission v Belgium, C‑589/14, not published, EU:C:2015:736, paragraph 49).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9813">
+          <num>39</num>
+          <content eId="para_9813__content">
+            <p>Since, as is apparent from the file before the Court, that period expired on 26 March 2012, there is no need to take into account the Kingdom of Belgium's arguments relating to that circular dated 29 June 2016.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The existence of a restriction on the free movement of capital</p>
+        </tblock>
+        <paragraph eId="para_9814">
+          <num>40</num>
+          <content eId="para_9814__content">
+            <p>It should be recalled that the measures prohibited by Article 63(1) TFEU as restrictions on the movement of capital include all those which are likely to discourage residents of one Member State from making investments in immovable property in other Member States (judgment of 11 September 2014, Verest and Gerards, C‑489/13, EU:C:2014:2210, paragraph 21 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9815">
+          <num>41</num>
+          <content eId="para_9815__content">
+            <p>In the present case, Articles 7 and 13 of the ITC 92, read in conjunction with points 13/7 and 13/8 of the administrative commentary on that code, provide that income relating to unrented immovable property or property rented either to natural persons who do not use them for professional purposes or to legal persons which make such property available to natural persons for private purposes, is determined on a flat-rate basis for property situated in Belgium and on the basis of the actual rental value or the actual rent for that situated in another State.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9816">
+          <num>42</num>
+          <content eId="para_9816__content">
+            <p>The flat rate that applies to immovable property situated in Belgium is formed by its cadastral value, which was determined, on 1 January 1975, from an estimate of the net normal rental value determined on the basis of the rent which, should that property be rented, could have been collected on that date.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9817">
+          <num>43</num>
+          <content eId="para_9817__content">
+            <p>Furthermore, it is common ground that, since 1991, the cadastral value of immovable property situated in Belgium has been adjusted by an increase coefficient the rate of which changes every year according to the consumer price index. In addition, an increase has applied since 1994 to the cadastral value of immovable property which has been built on, the rate of which was set at 25% for 1995 and raised to 40% from 1997 onwards.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9818">
+          <num>44</num>
+          <content eId="para_9818__content">
+            <p>As regards the actual rental value of immovable property, this represents the annual average gross rent which, should that property be rented, could have been collected. It is used in order to determine income relating to unrented immovable property situated in a State other than the Kingdom of Belgium.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9819">
+          <num>45</num>
+          <content eId="para_9819__content">
+            <p>The Kingdom of Belgium does not dispute that the cadastral value of immovable property situated in Belgium is lower than the actual rent of that property or its actual rental value. It is clear, in that regard, from the Commission's application that the general development in immovable property prices since 1975 has followed an upward trend in all Belgian regions, leading to a corresponding increase in rent, and that the indexing and increasing of the cadastral value of immovable property situated in Belgium were not sufficient to bring that value closer to the amount of rent that may be obtained on the Belgian rental market.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9820">
+          <num>46</num>
+          <content eId="para_9820__content">
+            <p>Admittedly, as the Kingdom of Belgium correctly observes, that gap between the cadastral value and actual rental value of immovable property situated in Belgium does not necessarily mean that the income from immovable property situated in a State other than the Kingdom of Belgium is higher than the cadastral value of comparable immovable property on Belgian territory. It cannot be ruled out that rent charged in another Member State of the European Union or the EEA may be much lower than that charged in Belgium.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9821">
+          <num>47</num>
+          <content eId="para_9821__content">
+            <p>However, as is apparent from paragraphs 42 to 44 of the present judgment, the income from immovable property, situated in Belgium or elsewhere, used by the Belgian tax authorities is ultimately calculated according to the rent that property is likely to generate, as confirmed by the Kingdom of Belgium in its observations submitted to the Court.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9822">
+          <num>48</num>
+          <content eId="para_9822__content">
+            <p>Consequently, in order to determine whether the differentiated assessment of income from immovable property -- depending on whether the property is situated in Belgium or in another Member State of the European Union or the EEA -- gives rise to a difference in treatment, it is necessary to compare the cadastral value, the rental value and the rents that may in fact be obtained on the rental market.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9823">
+          <num>49</num>
+          <content eId="para_9823__content">
+            <p>In that regard, it is apparent from the considerations set out in paragraphs 41 to 45 of the present judgment that, first, the cadastral value of immovable property situated in Belgium is lower than the rent that may be obtained on the Belgian rental market and, secondly, the actual rental value of immovable property corresponds, in principle, to the annual average gross rent which, should that property be rented, could be collected. It follows that, through the differentiated assessment of income from immovable property depending on the State in whose territory that property is situated, income from immovable property situated in a Member State of the European Union or the EEA other than the Kingdom of Belgium is overvalued in relation to income from immovable property situated in Belgium.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9824">
+          <num>50</num>
+          <content eId="para_9824__content">
+            <p>Furthermore, as the Commission points out, given the significance of that overvaluation, the fact that the actual rental value of immovable property situated in a Member State of the European Union or the EEA other than the Kingdom of Belgium is reduced by an amount corresponding to the taxes imposed on the income from immovable property generated by that property in the first State does not result in a conclusive approximation of the rental value and the cadastral value.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9825">
+          <num>51</num>
+          <content eId="para_9825__content">
+            <p>In so far as the Kingdom of Belgium is exercising its power to tax income from immovable property of rented and unrented property situated in a Member State of the European Union or the EEA other than the Kingdom of Belgium, it follows from the overvaluation of income from such property that the taxable base used is higher than it would be if a value similar to the cadastral value as laid down by the regulation at issue for property situated in Belgium were used to determine the level of that income.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9826">
+          <num>52</num>
+          <content eId="para_9826__content">
+            <p>Where there are conventions for the prevention of double taxation which provide for the maintenance of progressivity, income from immovable property located in another State is not taxed in Belgium. It is, however, taken into account for the purpose of applying the rule of progressivity when calculating the amount of tax on the taxpayer's remaining income taxable in Belgium (see, to that effect, judgment of 11 September 2014, Verest and Gerards, C‑489/13, EU:C:2014:2210, paragraphs 29 and 30). In this case, the overvaluation of income from property situated in a Member State of the European Union or the EEA other than the Kingdom of Belgium may lead to the application of a more onerous tax rate, which the Kingdom of Belgium acknowledges in its observations submitted to the Court.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9827">
+          <num>53</num>
+          <content eId="para_9827__content">
+            <p>In the light of the foregoing, it must be held that the legislation at issue providing that income relating to unrented immovable property or property rented either to natural persons who do not use them for professional purposes or to legal persons which make such property available to natural persons for private purposes is determined on a flat‑rate basis for property situated in Belgium and on the basis of the actual rental value or the actual rent for that situated in another State results in a difference in treatment that is liable to discourage Belgian residents from making investments in immovable property in Member States of the European Union or the EEA other than the Kingdom of Belgium.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9828">
+          <num>54</num>
+          <content eId="para_9828__content">
+            <p>Consequently, that legislation constitutes a restriction of the free movement of capital, which is prohibited in principle by Article 63 TFEU.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The existence of a justification for the restriction of the free movement of capital under Article 65 TFEU</p>
+        </tblock>
+        <paragraph eId="para_9829">
+          <num>55</num>
+          <content eId="para_9829__content">
+            <p>According to settled case-law, a distinction must be made between the differences in treatment authorised by Article 65(1)(a) TFEU and discrimination prohibited by Article 65(3) TFEU. For national tax legislation such as the legislation at issue to be capable of being regarded as compatible with the provisions of the FEU Treaty on the free movement of capital, it is necessary that the difference in treatment should concern situations which are not objectively comparable or be justified by an overriding reason in the public interest (see, to that effect, judgments of 3 September 2014, Commission v Spain, C‑127/12, not published, EU:C:2014:2130, paragraph 73; of 11 September 2014, Verest and Gerards, C‑489/13, EU:C:2014:2210, paragraph 28; and of 17 September 2015, Miljoen and Others, C‑10/14, C‑14/14 and C‑17/14, EU:C:2015:608, paragraph 64).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9830">
+          <num>56</num>
+          <content eId="para_9830__content">
+            <p>In that regard, the Kingdom of Belgium submits that, under the conventions for the prevention of double taxation that it has concluded with most of the Member States of the European Union or the EEA, income from immovable property located in the territory of those States is not taxed in Belgium as part of personal income tax, whereas income relating to immovable property situated in Belgium is part of the taxable base for the calculation of tax in Belgium. Consequently, an infringement of Article 63 TFEU can be found to exist only if the amount actually payable in Belgium as part of the overall taxation of resident natural persons' income were higher for the owner of immovable property situated in another Member State of the European Union or the EEA.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9831">
+          <num>57</num>
+          <content eId="para_9831__content">
+            <p>That argument must be rejected.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9832">
+          <num>58</num>
+          <content eId="para_9832__content">
+            <p>As the Kingdom of Belgium observes in its statement of defence, income exempted under a convention for the prevention of double taxation is, in accordance with Article 155 of the ITC 92, taken into account for the purposes of determining the tax rate applicable to income taxable in Belgium.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9833">
+          <num>59</num>
+          <content eId="para_9833__content">
+            <p>The objective of such an exemption with `maintenance of progressivity' is to prevent, in Belgium, a situation in which a lower rate of tax is applied to the taxable income of a taxpayer who is the owner of immovable property situated in another Member State than the rate applicable to the income of taxpayers who are the owners of comparable properties in Belgium (see, to that effect, judgment of 11 September 2014, Verest and Gerards, C‑489/13, EU:C:2014:2210, paragraph 31).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9834">
+          <num>60</num>
+          <content eId="para_9834__content">
+            <p>In the light of that objective, the situation of taxpayers who have acquired immovable property in Belgium is comparable to that of taxpayers who have acquired such property in another Member State of the European Union or the EEA (see, to that effect, judgment of 11 September 2014, Verest and Gerards, C‑489/13, EU:C:2014:2210, paragraph 32).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9835">
+          <num>61</num>
+          <content eId="para_9835__content">
+            <p>The same conclusion applies where there is no convention for the prevention of double taxation. In that case, the objective of the legislation at issue to tax income relating to immovable property owned by Belgian residents is equally applicable to income from immovable property situated in Belgium or in another State. In both cases, such income is included in the taxable base for the purposes of taxing income.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9836">
+          <num>62</num>
+          <content eId="para_9836__content">
+            <p>As regards, moreover, the question whether the difference in treatment of Belgian taxpayers according to whether they own immovable property in Belgium or in another Member State of the European Union or the EEA may be justified by an overriding reason in the public interest, it must be held that the Kingdom of Belgium has not put before the Court any overriding reason in the public interest which could, in the present case, justify the restriction on the free movement of capital within the meaning of Article 63 TFEU.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The failure to fulfil obligations under Article 40 of the EEA Agreement</p>
+        </tblock>
+        <paragraph eId="para_9837">
+          <num>63</num>
+          <content eId="para_9837__content">
+            <p>In so far as the provisions of Article 40 of the EEA Agreement have the same legal scope as the substantially identical provisions of Article 63 TFEU, all of the foregoing considerations, concerning the existence of a restriction on the free movement of capital within the meaning of Article 63 TFEU, may, in the circumstances of the present action, be transposed mutatis mutandis to Article 40 of the EEA Agreement (judgment of 4 May 2017, Commission v Greece, C‑98/16, not published, EU:C:2017:346, paragraph 49).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9838">
+          <num>64</num>
+          <content eId="para_9838__content">
+            <p>Having regard to all of the foregoing considerations, it must be held that the Commission's action is well founded.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9839">
+          <num>65</num>
+          <content eId="para_9839__content">
+            <p>Consequently, it must be held that, by retaining provisions under which, in respect of the estimation of income relating to unrented immovable property or immovable property rented either to natural persons who do not use them for professional purposes or to legal persons which make such property available to natural persons for private purposes, the tax base is calculated on the basis of the cadastral value so far as immovable property on national territory is concerned, and on the actual rental value so far as immovable property located outside Belgium is concerned, the Kingdom of Belgium has failed to fulfil its obligations under Article 63 TFEU and Article 40 of the EEA Agreement.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_9840">
+          <num>66</num>
+          <content eId="para_9840__content">
+            <p>Under Article 138(1) of the Rules of Procedure of the Court of Justice, the unsuccessful party is to be ordered to pay the costs if they have been applied for in the successful party's pleadings. Since the Commission has applied for costs and the Kingdom of Belgium has been unsuccessful, the latter must be ordered to pay the costs. On those grounds, the Court (Sixth Chamber) hereby: 1. Declares that, by retaining provisions under which, in respect of the estimation of income relating to unrented immovable property or immovable property rented either to natural persons who do not use them for professional purposes or to legal persons which make such property available to natural persons for private purposes, the tax base is calculated on the basis of the cadastral value so far as immovable property on national territory is concerned, and on the actual rental value so far as immovable property located outside Belgium is concerned, the Kingdom of Belgium has failed to fulfil its obligations under Article 63 TFEU and Article 40 of the Agreement on the European Economic Area of 2 May 1992; 2. Orders the Kingdom of Belgium to pay the costs.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: French.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

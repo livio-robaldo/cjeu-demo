@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Grand Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>10 April 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Services in the field of transport -- Directive 2006/123/EC -- Services in the internal market -- Directive 98/34/EC -- Information society services -- Rule on information society services -- Definition -- Intermediation service making it possible, by means of a smartphone application and for remuneration, to put non-professional drivers using their own vehicle in contact with persons who wish to make urban journeys -- Criminal penalties) In Case C‑320/16, REQUEST for a preliminary ruling under Article 267 TFEU from the tribunal de grande instance de Lille (Regional Court, Lille, France), made by decision of 17 March 2016, received at the Court on 6 June 2016, in the criminal proceedings against Uber France SAS, the other party to the proceedings being: Nabil Bensalem, THE COURT (Grand Chamber), composed of K. Lenaerts, President, A. Tizzano, Vice-President, R. Silva de Lapuerta, M. Ilešič, A. Rosas, J. Malenovský and E. Levits, Presidents of Chambers, E. Juhász, A. Borg Barthet, D. Šváby (Rapporteur), K. Jürimäe, C. Lycourgos and M. Vilaras, Judges, Advocate General: M. Szpunar, Registrar: V. Giacobbo-Peyronnel, Administrator, having regard to the written procedure and further to the hearing on 24 April 2017, after considering the observations submitted on behalf of</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>Uber France SAS, by Y. Chevalier, Y. Boubacir and H. Calvet, avocats,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>Mr Bensalem, by T. Ismi-Nedjadi, avocat,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the French Government, by D. Colas and R. Coesme, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Estonian Government, by N. Grünberg, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Netherlands Government, by H. Stergiou and M. Bulterman, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Polish Government, by B. Majczyna, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Finnish Government, by S. Hartikainen, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by H. Tserepa-Lacombe, J. Hottiaux, Y.G. Marinova, G. Braga da Cruz and F. Wilman, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the EFTA Surveillance Authority, by C. Zatschler, Ø. Bø, M.L. Hakkebo and C. Perrin, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 4 July 2017,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_9309">
+          <num>1</num>
+          <content eId="para_9309__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Article 1 and Article 8(1) of Directive 98/34/EC of the European Parliament and of the Council of 22 June 1998 laying down a procedure for the provision of information in the field of technical standards and regulations and of rules on Information Society services ( OJ 1998 L 204, p. 37), as amended by Directive 98/48/EC of the European Parliament and of the Council of 20 July 1998 ( OJ 1998 L 217, p. 18) ( `Directive 98/34'), and of Article 2(2)(d) of Directive 2006/123/EC of the European Parliament and of the Council of 12 December 2006 on services in the internal market ( OJ 2006 L 376, p. 36).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9310">
+          <num>2</num>
+          <content eId="para_9310__content">
+            <p>The request has been made in proceedings before a criminal court in a private prosecution and civil action brought against Uber France SAS, in relation to the illegal organisation of a system for putting non-professional drivers using their own vehicle in contact with persons who wish to make urban journeys.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <tblock>
+          <p>Directive 98/34</p>
+        </tblock>
+        <paragraph eId="para_9311">
+          <num>3</num>
+          <content eId="para_9311__content">
+            <p>According to Article 1(2), (5), (11) and (12) of Directive 98/34: `For the purposes of this Directive, the following meanings shall apply: ... 2. ``service '', any Information Society service, that is to say, any service normally provided for remuneration, at a distance, by electronic means and at the individual request of a recipient of services. For the purposes of this definition:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>``at a distance '' means that the service is provided without the parties being simultaneously present,</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>``by electronic means '' means that the service is sent initially and received at its destination by means of electronic equipment for the processing (including digital compression) and storage of data, and entirely transmitted, conveyed and received by wire, by radio, by optical means or by other electromagnetic means,</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>``at the individual request of a recipient of services '' means that the service is provided through the transmission of data on individual request. An indicative list of services not covered by this definition is set out in Annex V. ... 5. ``rule on services '', requirement of a general nature relating to the taking-up and pursuit of service activities within the meaning of point 2, in particular provisions concerning the service provider, the services and the recipient of services, excluding any rules which are not specifically aimed at the services defined in that point. ... For the purposes of this definition:</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>a rule shall be considered to be specifically aimed at Information Society services where, having regard to its statement of reasons and its operative part, the specific aim and object of all or some of its individual provisions is to regulate such services in an explicit and targeted manner,</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>a rule shall not be considered to be specifically aimed at Information Society services if it affects such services only in an implicit or incidental manner. ... 11. ``technical regulation '', technical specifications and other requirements or rules on services, including the relevant administrative provisions, the observance of which is compulsory, de jure or de facto, in the case of marketing, provision of a service, establishment of a service operator or use in a Member State or a major part thereof, as well as laws, regulations or administrative provisions of Member States, except those provided for in Article 10, prohibiting the manufacture, importation, marketing or use of a product or prohibiting the provision or use of a service, or establishment as a service provider. ... 12. ``draft technical regulation '', the text of a technical specification or other requirement or of a rule on services, including administrative provisions, formulated with the aim of enacting it or of ultimately having it enacted as a technical regulation, the text being at a stage of preparation at which substantial amendments can still be made.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9312">
+          <num>4</num>
+          <content eId="para_9312__content">
+            <p>The first subparagraph of Article 8(1) of that directive provides: `Subject to Article 10, Member States shall immediately communicate to the Commission any draft technical regulation, except where it merely transposes the full text of an international or European standard, in which case information regarding the relevant standard shall suffice; they shall also let the Commission have a statement of the grounds which make the enactment of such a technical regulation necessary, where these have not already been made clear in the draft.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9313">
+          <num>5</num>
+          <content eId="para_9313__content">
+            <p>In accordance with Articles 10 and 11 of Directive (EU) 2015/1535 of the European Parliament and of the Council of 9 September 2015 laying down a procedure for the provision of information in the field of technical regulations and of rules on Information Society services ( OJ 2015 L 241, p. 1), Directive 98/34 was repealed on 7 October 2015.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Directive 2006/123</p>
+        </tblock>
+        <paragraph eId="para_9314">
+          <num>6</num>
+          <content eId="para_9314__content">
+            <p>According to recital 21 of Directive 2006/123, `transport services, including urban transport, taxis and ambulances as well as port services, should be excluded from the scope of this Directive'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9315">
+          <num>7</num>
+          <content eId="para_9315__content">
+            <p>Article 2(2)(d) of Directive 2006/123 provides that the directive does not apply to services in the field of transport, including port services, falling within the scope of Title V of the EC Treaty, which is now Title VI of Part Three of the FEU Treaty.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>French law</p>
+        </tblock>
+        <paragraph eId="para_9316">
+          <num>8</num>
+          <content eId="para_9316__content">
+            <p>Loi n o 2014-1104 du 1 er octobre 2014 relative aux taxis et aux voitures de transport avec chauffeur (Law No 2014-1104 of 1 October 2014 on taxis and private hire vehicles) ( JORF of 2 October 2014, p. 15938) inserted Article L. 3124-13 into the code des transports (Transport Code). That article is worded as follows: `The organisation of a system for putting customers in contact with persons carrying on the activities mentioned in Article L.3120-1 [namely, the carriage of persons by road for remuneration using vehicles with fewer than 10 seats, with the exception of collective public transport and private carriage of persons by road] where such persons are neither road transport undertakings entitled to provide occasional services as mentioned in Chapter II of Title 1 of this book nor taxi drivers, or two or three-wheeled motorised vehicles or private hire vehicles within the meaning of this title shall be punishable by a two-year term of imprisonment and a fine of EUR 300000. Legal persons who incur criminal liability for the offence laid down in this article incur, in addition to a fine in accordance with Article 131-38 of the Criminal Code, the penalties laid down in paragraphs 2 to 9 of Article 131-39 of the Criminal Code. The prohibition referred to in paragraph 2 of Article 131-39 of the Criminal Code extends to the activity in the exercise of which or at the time of the exercise of which the offence was committed. The penalties laid down in paragraphs 2 to 7 of Article 131-39 of the Criminal Code may not exceed five years in duration.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9317">
+          <num>9</num>
+          <content eId="para_9317__content">
+            <p>Paragraphs 2 to 9 of Article 131-19 provide: `Where a statute so provides against a legal person, a crime or offence may be punished by one or more of the following penalties: ...</p>
+            <blockList>
+              <item>
+                <num>(2)</num>
+                <p>prohibition, either permanently or for a maximum period of five years, of the direct or indirect exercise of one or more professional or social activities;</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>placement, for a maximum period of five years, under judicial supervision;</p>
+              </item>
+              <item>
+                <num>(4)</num>
+                <p>closure, either permanently or for a maximum period of five years, of the establishments or of one or more of the establishments of the undertaking used to commit the offences;</p>
+              </item>
+              <item>
+                <num>(5)</num>
+                <p>disqualification, either permanently or for a maximum period of five years, from public tendering;</p>
+              </item>
+              <item>
+                <num>(6)</num>
+                <p>prohibition, either permanently or for a maximum period of five years, of the public offering of shares or of allowing shares to be traded on a regulated market;</p>
+              </item>
+              <item>
+                <num>(7)</num>
+                <p>prohibition, for a maximum period of five years, of the issuing of cheques, except those allowing the withdrawal of funds by the drawer from the drawee or certified cheques, or of the use of payment cards.</p>
+              </item>
+              <item>
+                <num>(8)</num>
+                <p>confiscation of property, under the conditions laid down in Article 131-21;</p>
+              </item>
+              <item>
+                <num>(9)</num>
+                <p>posting of a public notice of the decision or dissemination of that decision in the press or through any form of communication to the public by electronic means.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the question referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_9318">
+          <num>10</num>
+          <content eId="para_9318__content">
+            <p>Uber France provides, by means of a smartphone application, a service called `UberPop', through which it puts non-professional drivers using their own vehicle in contact with persons who wish to make urban journeys. In the context of the service provided by means of that application, that company, as established by the tribunal de grande instance de Lille (Regional Court, Lille, France) in the order for reference, fixes the rates, collects the fare for each journey from the customer before paying part of it to the non-professional driver of the vehicle, and prepares the invoices.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9319">
+          <num>11</num>
+          <content eId="para_9319__content">
+            <p>Uber France is a defendant before that court in a private prosecution and civil action brought by Mr Nabil Bensalem in relation to</p>
+            <blockList>
+              <item>
+                <num>(i)</num>
+                <p>misleading commercial practices from 2 February 2014 and 10 June 2014 onwards,</p>
+              </item>
+              <item>
+                <num>(ii)</num>
+                <p>the aiding and abetting of the unlawful exercise of the profession of taxi driver from 10 June 2014 onwards, and</p>
+              </item>
+              <item>
+                <num>(iii)</num>
+                <p>the unlawful organisation from 1 October 2014 onwards of a system for putting customers in contact with persons carrying passengers by road for remuneration using vehicles with fewer than 10 seats.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9320">
+          <num>12</num>
+          <content eId="para_9320__content">
+            <p>By judgment of 17 March 2016, the tribunal de grande instance de Lille (Regional Court, Lille) found Uber France guilty of misleading commercial practices and not guilty of the offence of aiding and abetting the unlawful exercise of the profession of taxi driver.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9321">
+          <num>13</num>
+          <content eId="para_9321__content">
+            <p>As regards the offence of the unlawful organisation of a system for putting customers in contact with non-professional drivers, an offence under Article L. 3124-13 of the code des transports (Transport Code), that court was uncertain as to whether that provision should be regarded as establishing a `rule on Information Society services' within the meaning of Article 1(5) of Directive 98/34, the non-notification of which in accordance with Article 8(1) of that directive means that it is unenforceable against individuals, or as a rule on `services in the field of transport' within the meaning of Article 2(2)(d) of Directive 2006/123.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9322">
+          <num>14</num>
+          <content eId="para_9322__content">
+            <p>In those circumstances, the tribunal de grande instance de Lille (Regional Court, Lille) decided to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling: `Does Article L. 3124-13 of the Transport Code, inserted by Law No 2014-1104 of 1 October 2014 on taxis and private hire vehicles, constitute a new technical regulation that is not implicit and that relates to one or more information society services, within the meaning of [Directive 98/34], such that, pursuant to Article 8 of that directive, it had to be notified in advance to the European Commission, or does it fall within the scope of [Directive 2006/123], Article 2[</p>
+            <blockList>
+              <item>
+                <num>(2)</num>
+                <p>]</p>
+              </item>
+              <item>
+                <num>(d)</num>
+                <p>of which excludes transport? In the event that that question is answered in the affirmative, does a failure to satisfy the notification requirement laid down in Article 8 of [Directive 98/34] mean that Article L. 3124-13 of the Transport Code is unenforceable against individuals?'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the question referred</p>
+        </tblock>
+        <paragraph eId="para_9323">
+          <num>15</num>
+          <content eId="para_9323__content">
+            <p>By the first part of its question, the referring court asks, in essence, whether Article 1 of Directive 98/34 and Article 2(2)(d) of Directive 2006/123 must be interpreted as meaning that a provision of national law that lays down criminal penalties for the organisation of a system for putting customers in contact with persons carrying passengers by road for remuneration using vehicles with fewer than 10 seats, without being authorised to do so, must be classified as a rule on information society services, subject to the obligation of prior notification to the Commission as provided for in the first subparagraph of Article 8(1) of Directive 98/34 or that, on the contrary, such a provision concerns a service in the field of transport, excluded from the scope of Directive 98/34 and from that of Directive 2006/123.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9324">
+          <num>16</num>
+          <content eId="para_9324__content">
+            <p>As a preliminary point, it must be noted that the legislation at issue in the main proceedings makes the organisation of a system putting customers in contact with persons carrying passengers by road without authorisation subject to criminal penalties such as imprisonment, a fine, the prohibition on exercising a social or professional activity, the closure of the undertaking's establishment and the confiscation of property.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9325">
+          <num>17</num>
+          <content eId="para_9325__content">
+            <p>In the case in the main proceedings, the service in question consists in putting, by means of a smartphone application and for remuneration, non-professional drivers in contact with persons who wish to make urban journeys, and in the context of which, as stated in paragraph 10 of the present judgment, the provider of that service fixes the rates, collects the fare for each journey from the customer before paying part of it to the non-professional driver of the vehicle, and prepares the invoices.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9326">
+          <num>18</num>
+          <content eId="para_9326__content">
+            <p>Having been requested to deliver a preliminary ruling in the context of civil litigation, the Court explained in its judgment of 20 December 2017, Asociación Profesional Elite Taxi ( C‑434/15, EU:C:2017:981), the legal classification of such a service in the light of EU law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9327">
+          <num>19</num>
+          <content eId="para_9327__content">
+            <p>Thus, the Court first took the view that an intermediation service that enables the transfer, by means of a smartphone application, of information concerning the booking of a transport service between the passenger and the non-professional driver who will carry out the transportation using his own vehicle meets, in principle, the criteria for classification as an `information society service' within the meaning of Article 1(2) of Directive 98/34 (judgment of 20 December 2017, Asociación Profesional Elite Taxi, C‑434/15, EU:C:2017:981, paragraph 35).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9328">
+          <num>20</num>
+          <content eId="para_9328__content">
+            <p>However, the Court noted that the intermediation service at issue in the case giving rise to that judgment was more than an intermediation service consisting of putting, by means of a smartphone application, non-professional drivers using their own vehicles in contact with persons who wish to make an urban journey (see, to that effect, judgment of 20 December 2017, Asociación Profesional Elite Taxi, C‑434/15, EU:C:2017:981, paragraph 37).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9329">
+          <num>21</num>
+          <content eId="para_9329__content">
+            <p>In that regard, the Court found that the intermediation service provided by the company concerned was inherently linked to the offer by that company of non-public urban transport services, in view of the fact that, in the first place, that company provided an application without which those drivers would not have been led to provide transport services, and the persons who wished to make an urban journey would not have used the services provided by those drivers and, in the second place, that company exercised decisive influence over the conditions under which services were provided by those drivers, inter alia by determining the maximum fare, by collecting that fare from the customer before paying part of it to the non-professional driver of the vehicle, and by exercising a certain control over the quality of the vehicles, the drivers and their conduct, which could, in some circumstances, result in their exclusion (see, to that effect, judgment of 20 December 2017, Asociación Profesional Elite Taxi, C‑434/15, EU:C:2017:981, paragraphs 38 and 39).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9330">
+          <num>22</num>
+          <content eId="para_9330__content">
+            <p>The Court found, on the basis of those factors, that the intermediation service at issue in that case had to be regarded as forming an integral part of an overall service the main component of which was a transport service and, accordingly, had to be classified, not as an `information society service' within the meaning of Article 1(2) of Directive 98/34, but as a `service in the field of transport' within the meaning of Article 2(2)(d) of Directive 2006/123 (see, to that effect, judgment of 20 December 2017, Asociación Profesional Elite Taxi, C‑434/15, EU:C:2017:981, paragraph 40).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9331">
+          <num>23</num>
+          <content eId="para_9331__content">
+            <p>The Court inferred from that finding, in particular, that that intermediation service did not come under Directive 2006/123, since services in the field of transport are among those expressly excluded from the scope of that directive pursuant to Article 2(2)(d) thereof (see, to that effect, judgment of 20 December 2017, Asociación Profesional Elite Taxi, C‑434/15, EU:C:2017:981, paragraph 43).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9332">
+          <num>24</num>
+          <content eId="para_9332__content">
+            <p>The same holds true, for the same reasons, with regard to the intermediation service at issue in the main proceedings, as the information available to the Court shows that that service is not essentially different from the service described in paragraph 21 of the present judgment, that, however, being a matter for the referring court to verify.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9333">
+          <num>25</num>
+          <content eId="para_9333__content">
+            <p>Accordingly, subject to that verification, legislation such as that in the main proceedings, relied on in criminal proceedings against the company providing that intermediation service, cannot come within the scope of Directive 2006/123.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9334">
+          <num>26</num>
+          <content eId="para_9334__content">
+            <p>It follows that that legislation cannot be classified as a rule on information society services within the meaning of Article 1 of Directive 98/34, and is not therefore subject to the obligation of prior notification to the Commission provided for in the first subparagraph of Article 8(1) of that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9335">
+          <num>27</num>
+          <content eId="para_9335__content">
+            <p>In the light of the foregoing considerations, the answer to the first part of the question referred is that Article 1 of Directive 98/34 and Article 2(2)(d) of Directive 2006/123 must be interpreted as meaning that a provision of national law that lays down criminal penalties for the organisation of a system for putting customers in contact with persons carrying passengers by road for remuneration using vehicles with fewer than 10 seats, without being authorised to do so, concerns a `service in the field of transport' in so far as it applies to an intermediation service that is provided by means of a smartphone application and forms an integral part of an overall service the principal element of which is the transport service. Such a service is excluded from the scope of application of those directives.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9336">
+          <num>28</num>
+          <content eId="para_9336__content">
+            <p>Having regard to the answer to the first part of the question, there is no need to answer the second part, concerning the question of whether such a provision of national law should, inasmuch as it applies to a service such as that at issue in the main proceedings, have been notified in accordance with the first subparagraph of Article 8(1) of Directive 98/34.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_9337">
+          <num>29</num>
+          <content eId="para_9337__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Grand Chamber) hereby rules: Article 1 of Directive 98/34/EC of the European Parliament and of the Council of 22 June 1998 laying down a procedure for the provision of information in the field of technical standards and regulations and of rules on Information Society services, as amended by Directive 98/48/EC of the European Parliament and of the Council of 20 July 1998, and Article 2(2)(d) of Directive 2006/123/EC of the European Parliament and of the Council of 12 December 2006 on services in the internal market must be interpreted as meaning that a provision of national law that lays down criminal penalties for the organisation of a system for putting customers in contact with persons carrying passengers by road for remuneration using vehicles with fewer than 10 seats, without being authorised to do so, concerns a `service in the field of transport' in so far as it applies to an intermediation service that is provided by means of a smartphone application and forms an integral part of an overall service the principal element of which is the transport service. Such a service is excluded from the scope of application of those directives.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: French.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>
