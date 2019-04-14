@@ -1,0 +1,53 @@
+TLC -> top level classes
+
+Classi top per annotare alcuni elementi semantici dentro il testo.
+
+<object>: per gli oggetti fisici (la sedia, il frigorifero).
+<term>: parola o sintagma giuridico (insieme di parole con significato atomico, e.g. "firma digitale"). NON UNA FRASE!
+<concept>: tutto ciò che mi esprime un concetto (anche interi paragrafi)
+<person>:
+<role>:
+<organization>:
+<event>:
+<time>:
+<quantity>:
+<data>:
+<location>:
+<process>: 
+
+------------------------
+
+Questi tre:
+
+<person>
+<role>
+<organization>
+
+sono classi ontologiche che sono collegati agli agenti (data protection, officer, ... )
+
+------------------------
+
+Esempio su eventi:
+
+<event refersTo="#evt_1">MIREL, <date data="2017-14-3"> March, 14th 2017</date><location refersTo="...">Lux</location></event>
+
+------------------------
+
+La cosa più difficile da capire è la differenza tra <term> e <concept>
+
+------------------------
+
+Nei metadati, dentro un blocco <references> ci sono i corrispondenti TLC.
+
+<TLCEvent eId="evt_1" href="riferimento all'ontologia ESTERNA"/>
+
+Quindi inline si mette solo #evt_1.
+
+------------------------
+
+Quelli sopra sono le classi base, ma se ne ho bisogno di specifiche, posso usare <span> oppure <inline>. 
+
+inline possiede gli attributi "refersTo" e "name". Con "name" ci metto quello che voglio, e.g. "rioFormulaFragment"
+
+
+
