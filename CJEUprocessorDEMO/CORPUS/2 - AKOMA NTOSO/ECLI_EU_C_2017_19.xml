@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Third Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>18 January 2017 (</p>
+      </tblock>
+      <tblock>
+        <p>1)</p>
+      </tblock>
+      <p>`Reference for a preliminary ruling -- Customs Union and Common Customs Tariff -- Reimbursement of import duties -- Regulation (EEC) No 2913/92 (Customs Code) -- Article 241, first paragraph, first indent -- Obligation of a Member State to provide for the payment of default interest even where no action has been brought before the national courts' In Case C‑365/15, REQUEST for a preliminary ruling under Article 267 TFEU from the Finanzgericht Düsseldorf (Finance Court, Düsseldorf, Germany), made by decision of 24 June 2015, received at the Court on 14 July 2015, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">Wortmann KG Internationale Schuhproduktionen</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#">Hauptzollamt Bielefeld</party>
+      </p>
+      <p>, THE COURT (Third Chamber), composed of L. Bay Larsen, President of the Chamber, M. Vilaras (Rapporteur), J. Malenovský, M. Safjan and D. Šváby, Judges, Advocate General: M. Campos Sánchez-Bordona, Registrar: I. Illéssy, Administrator, having regard to the written procedure and further to the hearing on 25 May 2016, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>Wortmann KG Internationale Schuhproduktionen, by D. Ehle, Rechtsanwalt, A. Willems, avocat, and S. De Knop, advocaat,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>Hauptzollamt Bielefeld, initially by K. Greven, acting as Agent, and latterly by K. Greven and S. Holtmann, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the German Government, by J. Möller and T. Henze, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Italian Government, by A. Collabolletta and G. Palmieri, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Council of the European Union, by M. Balta and J.-P. Hix, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by L. Grønfeldt and T. Maxian Rusche, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 8 September 2016,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <tblock>
+        <p>Judgment</p>
+      </tblock>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_2585">
+          <num>1</num>
+          <content eId="para_2585__content">
+            <p>The present request for a preliminary ruling concerns the interpretation of Article 241 of Council Regulation (EEC) No 2913/92 of 12 October 1992 establishing the Community Customs Code ( OJ 1992 L 302, p. 1) ( `the Customs Code').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2586">
+          <num>2</num>
+          <content eId="para_2586__content">
+            <p>The request has been made in proceedings between Wortmann KG Internationale Schuhproduktionen ( `Wortmann') and Hauptzollamt Bielefeld (Principal Customs Office, Bielefeld, Germany) concerning the payment of interest in connection with the reimbursement of anti-dumping duties paid by Wortmann pursuant to Council Regulation (EC) No 1472/2006 of 5 October 2006 imposing a definitive anti-dumping duty and collecting definitely the provisional duty imposed on imports of certain footwear with uppers of leather originating in the People's Republic of China and Vietnam ( OJ 2006 L 275, p. 1), which was partially annulled by the judgment of 2 February 2012, Brosmann Footwear (HK) and Others v Council ( C‑249/10 P, EU:C:2012:53).</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>European Union law</p>
+        </tblock>
+        <tblock>
+          <p>The Customs Code</p>
+        </tblock>
+        <paragraph eId="para_2587">
+          <num>3</num>
+          <content eId="para_2587__content">
+            <p>Article 4 of the Customs Code provides: `For the purposes of this Code, the following definitions shall apply: ...</p>
+            <blockList>
+              <item>
+                <num>(10)</num>
+                <p>``Import duties '' means:</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>customs duties and charges having an effect equivalent to customs duties payable on the importation of goods, ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2588">
+          <num>4</num>
+          <content eId="para_2588__content">
+            <p>Article 232 of the Customs Code provides: `1.   Where the amount of duty due has not been paid within the prescribed period: ...</p>
+            <blockList>
+              <item>
+                <num>(b)</num>
+                <p>interest on arrears shall be charged over and above the amount of duty. The rate of interest on arrears may be higher than the rate of credit interest. It may not be lower than that rate. ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2589">
+          <num>5</num>
+          <content eId="para_2589__content">
+            <p>Article 236 of the Customs Code provides: `1.   Import duties or export duties shall be repaid in so far as it is established that when they were paid the amount of such duties was not legally owed or that the amount has been entered in the accounts contrary to Article 220(2). ... 2.   Import duties or export duties shall be repaid or remitted upon submission of an application to the appropriate customs office within a period of three years from the date on which the amount of those duties was communicated to the debtor. That period shall be extended if the person concerned provides evidence that he was prevented from submitting his application within the said period as a result of unforeseeable circumstances or force majeure. Where the customs authorities themselves discover within this period that one or other of the situations described in the first and second subparagraphs of paragraph 1 exists, they shall repay or remit on their own initiative.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2590">
+          <num>6</num>
+          <content eId="para_2590__content">
+            <p>Article 241 of the Customs Code provides: `Repayment by the competent authorities of amounts of import duties or export duties or of credit interest or interest on arrears collected on payment of such duties shall not give rise to the payment of interest by those authorities. However, interest shall be paid:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>where a decision to grant a request for repayment is not implemented within three months of the date of adoption of that decision,</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>where national provisions so stipulate. The amount of such interest shall be calculated in such a way that it is equivalent to the amount which would be charged for this purpose on the national money or financial market.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Regulation No 1472/2006,</p>
+        </tblock>
+        <paragraph eId="para_2591">
+          <num>7</num>
+          <content eId="para_2591__content">
+            <p>Article 1 of Regulation No 1472/2006 provides: `1.   A definitive anti-dumping duty is hereby imposed on imports of footwear with uppers of leather or composition leather, excluding sports footwear, footwear involving special technology, slippers and other indoor footwear and footwear with a protective toecap, originating in the People's Republic of China and Vietnam and falling within [Common Nomenclature] codes: ...' 4.   Unless otherwise specified, the provisions in force concerning customs duties shall apply.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>German law</p>
+        </tblock>
+        <paragraph eId="para_2592">
+          <num>8</num>
+          <content eId="para_2592__content">
+            <p>Paragraph 1 of the Abgabenordnung (General Tax Code), in the version applicable to the facts in the main proceedings ( `the Tax Code'), provides as follows: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>The present Code shall apply to all taxes, including the tax rebates governed by German federal law or by the law of the European Union in so far as these are administered by the revenue authorities of the Bund or of the Länder. It may be applied only subject to the law of the European Union. ...</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>Subject to the law of the European Union, the provisions of the present Code shall be applied mutatis mutandis to ancillary tax payments. ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2593">
+          <num>9</num>
+          <content eId="para_2593__content">
+            <p>Paragraph 3(3) and (4) of the Tax Code is worded as follows: `</p>
+            <blockList>
+              <item>
+                <num>(3)</num>
+                <p>Import and export duties pursuant to Article 4(10) and (11) of the Customs Code shall be taxes within the meaning of the present Code.</p>
+              </item>
+              <item>
+                <num>(4)</num>
+                <p>Ancillary tax payments shall mean ... interest (paragraphs 233 to 237), ... as well as interest within the meaning of the Customs Code ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2594">
+          <num>10</num>
+          <content eId="para_2594__content">
+            <p>Paragraph 37 of the Tax Code provides: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Claims arising from the tax debtor-creditor relationship shall be ... [inter alia] the refund claim pursuant to subparagraph (2) ...</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>Where a tax ... has been paid or repaid without any legal basis, the person on whose account the payment was made shall be entitled to a refund from the recipient of the amount paid or repaid. ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2595">
+          <num>11</num>
+          <content eId="para_2595__content">
+            <p>Paragraph 233 of the Tax Code is worded as follows: `Interest shall be charged on claims arising from the tax debtor-creditor relationship (Paragraph 37) only to the extent to which this is legally prescribed ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2596">
+          <num>12</num>
+          <content eId="para_2596__content">
+            <p>Lastly, Paragraph 236(1) of the Tax Code provides: `Subject to the provisions of subparagraph (3) below, where an assessed tax is reduced or a tax rebate granted by a final and unchallengeable judicial ruling or as a result of such a ruling, interest shall accrue on the amount to be refunded or rebated from the day on which the proceedings were brought to the day of payment. ...'</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_2597">
+          <num>13</num>
+          <content eId="para_2597__content">
+            <p>Between 2006 and 2012 Wortmann placed in free circulation within the European Union, in its own name, shoes with leather uppers originating in the People's Republic of China and in Vietnam, produced by Brosmann Footwear (HK) Ltd ( `Brosmann') and by Seasonable Footwear (Zhongshan) Ltd ( `Seasonable'). Since those shoes came within one of the Common Nomenclature codes referred to in Article 1(1) of Regulation No 1472/2006, the Principal Customs Office, Bielefeld, imposed anti-dumping duties on Wortmann pursuant to that regulation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2598">
+          <num>14</num>
+          <content eId="para_2598__content">
+            <p>On 22 July 2010, Wortmann applied to the defendant Principal Customs Office, Bielefeld, for reimbursement of the anti-dumping duties paid in respect of the period from June 2007 to June 2010. On 14 February 2011, it made a new application for reimbursement of the anti-dumping duties paid up to 31 December 2010. Lastly, on 7 May 2012 it applied for reimbursement of the anti-dumping duties, on this occasion those paid since 2006. In support of all of those applications it relied on, inter alia, the case pending initially before the General Court and subsequently before the Court of Justice, which resulted in the judgment of 2 February 2012, Brosmann Footwear (HK) and Others v Council ( C‑249/10 P, EU:C:2012:53).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2599">
+          <num>15</num>
+          <content eId="para_2599__content">
+            <p>By that judgment the Court partially annulled Regulation No 1472/2006, inter alia in so far as it related to Brosmann and Seasonable. The basis for that annulment was that the European Commission had wrongly failed to examine the applications for market economy treatment or, failing that, for individual treatment of the appellants.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2600">
+          <num>16</num>
+          <content eId="para_2600__content">
+            <p>On 17 April 2013, the Principal Customs Office, Bielefeld, therefore, decided to reimburse to Wortmann anti-dumping duties in the amounts of EUR 61895.49 for 2007 and of EUR 92870.62 for 2008.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2601">
+          <num>17</num>
+          <content eId="para_2601__content">
+            <p>By letter of 29 November 2013, Wortmann applied to the Principal Customs Office, Bielefeld, for the payment of interest on the sums repaid at a rate of 8% above the basic interest rate, to be calculated from the time of payment of the anti-dumping duties. By decision of 15 January 2014, the Principal Customs Office, Bielefeld, refused that request. A complaint submitted by Wortmann against that decision was also rejected by the Principal Customs Office, Bielefeld, on 17 September 2014.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2602">
+          <num>18</num>
+          <content eId="para_2602__content">
+            <p>Wortmann brought proceedings before the referring court by which it sought an order that the Principal Customs Office, Bielefeld, pay interest to Wortmann on the amounts reimbursed.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2603">
+          <num>19</num>
+          <content eId="para_2603__content">
+            <p>The referring court takes the view that the decision in the main proceedings hinges on the interpretation to be given to Article 241 of the Customs Code. According to the referring court, the payment of interest on the sums reimbursed to Wortmann is precluded under Article 241, first sentence, of the Customs Code.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2604">
+          <num>20</num>
+          <content eId="para_2604__content">
+            <p>According to the referring court, in so far as the preconditions of Article 241, second sentence, first indent, of the Customs Code are not met in the dispute in the main proceedings, the national provisions alone can be considered to be the basis for the applicant's application for the payment of interest, in accordance with Article 241, second sentence, second indent, of that code. The referring court states, in that regard, that it follows from Paragraph 37(2), first sentence, read in conjunction with Paragraph 233, first sentence, of the Tax Code that interest is to be charged on claims arising from the tax debitor-creditor relationship only to the extent to which this is statutorily prescribed. Consequently, under German law, only Paragraph 236 of the Tax Code comes into consideration as a legal basis for the payment of interest. However, without the applicant in the main proceedings bringing legal proceedings for the reimbursement of anti-dumping duties paid to the Principal Customs Office, Bielefeld, that provision does not apply to the dispute in the main proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2605">
+          <num>21</num>
+          <content eId="para_2605__content">
+            <p>However, the referring court states that it has doubts as to whether that approach is consistent with EU law. It refers to the case-law to the effect that the principle of the obligation on Member States to repay with interest amounts of tax levied in infringement of EU law follows from that law (judgment of 18 April 2013, Irimie, C‑565/11, EU:C:2013:250, paragraph 22). It is for that reason unsure whether the `unwritten law' of the EU requires, in circumstances such as those obtaining in the main proceedings, the payment of interest on import duties which have been reimbursed. In that regard, according to the referring court, it is necessary to take into account, in particular, the fact that the national provisions on the payment of interest, in this case Paragraph 233 et seq. of the Tax Code, are applicable mutatis mutandis only subject to EU law, as is clear from Paragraph 1(3), first sentence, and Paragraph 3(4) of that code.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2606">
+          <num>22</num>
+          <content eId="para_2606__content">
+            <p>In those circumstances, the Finanzgericht Düsseldorf (Finance Court, Düsseldorf) decided to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling: `Is Article 241 of the Customs Code to be interpreted as meaning that the national law referred to therein must, having regard to the general EU law principle of effectiveness, provide for the payment of interest on reimbursed import duties from the time of payment of those duties up to the time of their reimbursement, even in cases in which the right to reimbursement has not been the subject of a claim before a national court?'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The question referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_2607">
+          <num>23</num>
+          <content eId="para_2607__content">
+            <p>By its question, the referring court asks, in essence, whether Article 241 of the Customs Code must be interpreted as meaning that the national law to which that article refers must provide for the payment of interest on reimbursed import duties from the time of payment of those duties up to the time of their reimbursement.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2608">
+          <num>24</num>
+          <content eId="para_2608__content">
+            <p>In that regard, it must, admittedly, be observed that Article 241, first sentence, of the Customs Code provides that repayment by the customs authorities of amounts of import duties or export duties or of credit interest or interest on arrears collected upon payment of such duties is not to give rise to the payment of interest by those authorities.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2609">
+          <num>25</num>
+          <content eId="para_2609__content">
+            <p>However, that provision cannot, in itself, mean that, in a situation such as that at issue in the main proceedings, national legislation can legitimately provide that there is no need to pay interest on reimbursed import duties from the time of payment of those duties up to the time of their reimbursement.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2610">
+          <num>26</num>
+          <content eId="para_2610__content">
+            <p>It follows both from the legislative history of Article 241 of the Customs Code and from the context of that provision that it does not apply in circumstances such as those in the case in the main proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2611">
+          <num>27</num>
+          <content eId="para_2611__content">
+            <p>Thus, it is clear from the analysis of the legislative history of that provision carried out by the Advocate General in points 48 to 50 of his Opinion that Article 241 of the Customs Code relates to a situation in which, after the customs authority has released the merchandise concerned, it becomes apparent that the initial calculation of the import duties should be revised downwards and, therefore, that all or a part of the import duties paid by an operator must be repaid to him.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2612">
+          <num>28</num>
+          <content eId="para_2612__content">
+            <p>The explanations as to the legislative history of the provision which became Article 241 of the Customs Code, provided by the Commission at the hearing, show that the reason for its adoption was that in most cases the customs authorities carry out only an a posteriori review of the customs declarations, with the result that there is a real possibility that such a review will give rise to reimbursement of import duties already paid.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2613">
+          <num>29</num>
+          <content eId="para_2613__content">
+            <p>Furthermore, the Customs Code establishes a certain symmetry concerning the question of payment of interest between, on the one hand, operators to whom overpaid import duties must be reimbursed because of errors due to the speed of the customs clearance system, carried out in many cases without inspection of the goods before their release, and, on the other hand, operators who, because of errors of the same kind, must, on the contrary, pay the customs authority additional import duties.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2614">
+          <num>30</num>
+          <content eId="para_2614__content">
+            <p>As is apparent from the judgment of 31 March 2011, Aurubis Balgaria ( C‑546/09, EU:C:2011:199, paragraphs 26 to 34), where, following a recalculation of customs duties on the basis of additional information, a certain amount of those duties is still to be recovered, interest on arrears in respect of that amount may be charged, pursuant to Article 232(1)(b) of the Customs Code, only in respect of the period after the deadline by which those duties had to be paid.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2615">
+          <num>31</num>
+          <content eId="para_2615__content">
+            <p>Conversely, if the recalculation of customs duties gives rise to the reimbursement to the operator concerned of part or all of the customs duties previously paid, it follows from Article 241 of the Customs Code that interest is due only after the expiry of the three-month period referred to in that provision, without prejudice to the possibility for the national legislature also to provide for the payment of interest in other circumstances.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2616">
+          <num>32</num>
+          <content eId="para_2616__content">
+            <p>However, it is apparent from the decision to refer that the reimbursement of anti-dumping duties from which Wortmann benefited did not arise from an error in the calculation of those duties that was discovered after the competent customs authority had released the goods to Wortmann. Therefore, the rule set out in the first sentence of Article 241 of the Customs Code cannot, in a situation such as that in issue in the main proceedings, be interpreted as in principle excluding the payment of interest.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2617">
+          <num>33</num>
+          <content eId="para_2617__content">
+            <p>It must be noted, however, that, even though, formally, the referring court has limited its question to the interpretation of Article 241 of the Customs Code, such a situation does not prevent the Court from providing the referring court with all the elements of interpretation of EU law which may be of assistance in adjudicating on the case before it, whether or not that court has specifically referred to them in that question (see, by analogy, judgment of 29 October 2015Nagy, C‑583/14, EU:C:2015:737, paragraphs 20 and 21 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2618">
+          <num>34</num>
+          <content eId="para_2618__content">
+            <p>In that regard, it must be observed that, according to the case-law of the Court, it is for the national authorities to draw the consequences, in their legal system, of the annulment or declaration of invalidity of a regulation imposing anti-dumping duties, which has the consequence that anti-dumping duties paid under the regulation concerned are not legally owed within the meaning of Article 236(1) of the Customs Code and must, in principle, be repaid by the customs authorities in accordance with that provision, provided that the conditions to which such repayment is subject, including that set out in Article 236(2) of that code, are satisfied (see, to that effect, judgments of 27 September 2007, Ikea Wholesale, C‑351/04, EU:C:2007:547, paragraph 67, and of 18 March 2010, Trubowest Handel and Makarov v Council and Commission, C‑419/08 P, EU:C:2010:147, paragraph 25).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2619">
+          <num>35</num>
+          <content eId="para_2619__content">
+            <p>In the present case, following the annulment of Regulation No 1472/2006 by the judgment of 2 February 2012, Brosmann Footwear (HK) and Others v Council ( C‑249/10 P, EU:C:2012:53), in so far as that regulation concerned, inter alia, Brosmann and Seasonable, whose shoes had been released for free circulation in the territory of the European Union by Wortmann, the competent German customs authority, taking the view that the anti-dumping duties levied were not legally owed, within the meaning of Article 236(1), first subparagraph, of the Customs Code, reimbursed Wortmann in the amount of those duties without, however, adding the default interest claimed by that undertaking.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2620">
+          <num>36</num>
+          <content eId="para_2620__content">
+            <p>In that regard, it should be noted that, whilst Article 236(1), first subparagraph, of the Customs Code provides for the reimbursement of anti-dumping duties in a situation such as that at issue in the main proceedings, it does not expressly state whether that reimbursement must give rise to the payment of interest on the amounts of duties thus repaid.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2621">
+          <num>37</num>
+          <content eId="para_2621__content">
+            <p>Furthermore, it should be pointed out that it is clear from the case-law of the Court that, where taxes or duties have been levied by a Member State pursuant to an EU regulation that has been declared invalid or annulled by the EU judicature, the interested parties who have paid the taxes or duties in question have the right, in principle, to obtain not only the repayment of the amounts levied but also interest on those amounts (see, to that effect, judgment of 27 September 2012, Zuckerfabrik Jülich and Others, C‑113/10, C‑147/10 and C‑234/10, EU:C:2012:591, paragraphs 65 to 67 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2622">
+          <num>38</num>
+          <content eId="para_2622__content">
+            <p>In that context, given, first, that neither Article 236(1) nor Article 241 of the Customs Code excludes the repayment of interest in a situation such as that at issue in the main proceedings and, second, that the reimbursement of the anti-dumping duties at issue occurred following the annulment by the Court of the regulation on the basis of which those duties had been levied and, therefore, because of the inconsistency of the levying of those duties with EU law, which is a matter for the referring court to determine, it must be held that the amount of those duties reimbursed to the undertaking concerned by the competent national authority must be increased by the corresponding interest.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2623">
+          <num>39</num>
+          <content eId="para_2623__content">
+            <p>In the light of all of the foregoing considerations, the answer to the question referred is that where import duties, including anti-dumping duties, are reimbursed on the ground that they have been levied in breach of EU law, this being a matter for the referring court to determine, there is an obligation on Member States, arising from EU law, to pay to individuals with a right to reimbursement the corresponding interest which runs from the date of payment by those individuals of the duties reimbursed.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_2624">
+          <num>40</num>
+          <content eId="para_2624__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the referring court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Third Chamber) hereby rules: Where import duties, including anti-dumping duties, are reimbursed on the ground that they have been levied in breach of EU law, this being a matter for the referring court to determine, there is an obligation on Member States, arising from EU law, to pay to individuals with a right to reimbursement the corresponding interest which runs from the date of payment by those individuals of the duties reimbursed.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures](</p>
+      <p>1</p>
+      <p>)Language of the case: German.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

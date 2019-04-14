@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+      <references source="#source">
+        <TLCOrganization eId="institution_9" showAs="" href="/akn/ontology/Organization/Institution/institution_9" />
+      </references>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Third Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>9 February 2017 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>`Reference for a preliminary ruling -- Area of freedom, security and justice -- Directive 2004/83/EC -- Minimum standards for the qualification and status of third country nationals or stateless persons as refugees -- Application for subsidiary protection -- Lawfulness of the national procedure for examining an application for subsidiary protection made after the rejection of an application for refugee status -- Right to be heard -- Scope -- Right to an interview -- Right to call and cross-examine witnesses' In Case C‑560/14, REQUEST for a preliminary ruling under Article 267 TFEU from the Supreme Court (Ireland), made by decision of 24 November 2014, received at the Court on 5 December 2014, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">M</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#institution_9">Minister for Justice and Equality</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="respondent" refersTo="#">Ireland</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="respondent" refersTo="#">Attorney General</party>
+      </p>
+      <p>, THE COURT (Third Chamber), composed of L. Bay Larsen (Rapporteur), President of the Chamber, M. Vilaras, J. Malenovský, M. Safjan and D. Šváby, Judges, Advocate General: P. Mengozzi, Registrar: L. Hewlett, Principal Administrator, having regard to the written procedure and further to the hearing on 18 February 2016, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>M, by B. Burns and S. Man, Solicitors, and I. Whelan and P. O'Shea, Barristers-at-Law,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>Ireland, by E. Creedon, J. Davis and J. Stanley, acting as Agents, N. Butler, Senior Counsel, and K. Mooney, Barrister-at-Law,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Czech Government, by M. Smolek and J. Vláčil, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the French Government, by D. Colas and F.-X. Bréchot, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by M. Wilderspin and M. Condou-Durande, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 3 May 2016,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_398">
+          <num>1</num>
+          <content eId="para_398__content">
+            <p>This request for a preliminary ruling concerns the interpretation of the right to be heard in the context of the procedure for grant of subsidiary protection status under Council Directive 2004/83/EC of 29 April 2004 on minimum standards for the qualification and status of third country nationals or stateless persons as refugees or as persons who otherwise need international protection and the content of the protection granted ( OJ 2004 L 304, p. 12).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_399">
+          <num>2</num>
+          <content eId="para_399__content">
+            <p>The request has been made in proceedings between</p>
+            <blockList>
+              <item>
+                <num>(i)</num>
+                <p>M, a Rwandan national, and</p>
+              </item>
+              <item>
+                <num>(ii)</num>
+                <p>the</p>
+                <p>
+                  <organization refersTo="#institution_9">Minister for Justice and Equality</organization>
+                </p>
+                <p>(Ireland) ( `the Minister'), Ireland and the Attorney General concerning the lawfulness of the procedure for examining the application for subsidiary protection made by M to the Irish authorities.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <tblock>
+          <p>Directive 2004/83</p>
+        </tblock>
+        <paragraph eId="para_400">
+          <num>3</num>
+          <content eId="para_400__content">
+            <p>Article 2 of Directive 2004/83, headed `Definitions', stated: `For the purposes of this Directive:...</p>
+            <blockList>
+              <item>
+                <num>(e)</num>
+                <p>``person eligible for subsidiary protection '' means a third country national or a stateless person who does not qualify as a refugee but in respect of whom substantial grounds have been shown for believing that the person concerned, if returned to his or her country of origin, or in the case of a stateless person, to his or her country of former habitual residence, would face a real risk of suffering serious harm as defined in Article 15, and to whom Article 17(1) and (2) do not apply, and is unable, or, owing to such risk, unwilling to avail himself or herself of the protection of that country;...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_401">
+          <num>4</num>
+          <content eId="para_401__content">
+            <p>Article 4 of Directive 2004/83, headed `Assessment of facts and circumstances', was worded as follows: `1.   Member States may consider it the duty of the applicant to submit as soon as possible all elements needed to substantiate the application for international protection. In cooperation with the applicant it is the duty of the Member State to assess the relevant elements of the application. 2.   The elements referred to in paragraph 1 consist of the applicant's statements and all documentation at the applicant's disposal regarding the applicant's age, background, including that of relevant relatives, identity, nationality(ies), country(ies) and place(s) of previous residence, previous asylum applications, travel routes, identity and travel documents and the reasons for applying for international protection. 3.   The assessment of an application for international protection is to be carried out on an individual basis and includes taking into account:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>all relevant facts as they relate to the country of origin at the time of taking a decision on the application; including laws and regulations of the country of origin and the manner in which they are applied;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>the relevant statements and documentation presented by the applicant including information on whether the applicant has been or may be subject to persecution or serious harm;</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>the individual position and personal circumstances of the applicant, including factors such as background, gender and age, so as to assess whether, on the basis of the applicant's personal circumstances, the acts to which the applicant has been or could be exposed would amount to persecution or serious harm;</p>
+              </item>
+              <item>
+                <num>(d)</num>
+                <p>whether the applicant's activities since leaving the country of origin were engaged in for the sole or main purpose of creating the necessary conditions for applying for international protection, so as to assess whether these activities will expose the applicant to persecution or serious harm if returned to that country;</p>
+              </item>
+              <item>
+                <num>(e)</num>
+                <p>whether the applicant could reasonably be expected to avail himself of the protection of another country where he could assert citizenship. 4.   The fact that an applicant has already been subject to persecution or serious harm or to direct threats of such persecution or such harm, is a serious indication of the applicant's well-founded fear of persecution or real risk of suffering serious harm, unless there are good reasons to consider that such persecution or serious harm will not be repeated. 5.   Where Member States apply the principle according to which it is the duty of the applicant to substantiate the application for international protection and where aspects of the applicant's statements are not supported by documentary or other evidence, those aspects shall not need confirmation, when the following conditions are met:</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>the applicant has made a genuine effort to substantiate his application;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>all relevant elements, at the applicant's disposal, have been submitted, and a satisfactory explanation regarding any lack of other relevant elements has been given;</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>the applicant's statements are found to be coherent and plausible and do not run counter to available specific and general information relevant to the applicant's case;</p>
+              </item>
+              <item>
+                <num>(d)</num>
+                <p>the applicant has applied for international protection at the earliest possible time, unless the applicant can demonstrate good reason for not having done so; and</p>
+              </item>
+              <item>
+                <num>(e)</num>
+                <p>the general credibility of the applicant has been established.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_402">
+          <num>5</num>
+          <content eId="para_402__content">
+            <p>Article 15 of Directive 2004/83, headed `Serious harm', provided: `Serious harm consists of:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>death penalty or execution; or</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>torture or inhuman or degrading treatment or punishment of an applicant in the country of origin; or</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>serious and individual threat to a civilian's life or person by reason of indiscriminate violence in situations of international or internal armed conflict.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Directive 2005/85/EC</p>
+        </tblock>
+        <paragraph eId="para_403">
+          <num>6</num>
+          <content eId="para_403__content">
+            <p>Headed `Scope', Article 3 of Council Directive 2005/85/EC of 1 December 2005 on minimum standards on procedures in Member States for granting and withdrawing refugee status ( OJ 2005 L 326, p. 13) stated: `1.   This Directive shall apply to all applications for asylum made in the territory, including at the border or in the transit zones of the Member States, and to the withdrawal of refugee status.... 3.   Where Member States employ or introduce a procedure in which asylum applications are examined both as applications on the basis of the Geneva Convention and as applications for other kinds of international protection given under the circumstances defined by Article 15 of Directive 2004/83 ..., they shall apply this Directive throughout their procedure....'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Irish law</p>
+        </tblock>
+        <paragraph eId="para_404">
+          <num>7</num>
+          <content eId="para_404__content">
+            <p>Irish law draws a distinction between two types of application seeking international protection, namely:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>an application for asylum, and</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>an application for subsidiary protection.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_405">
+          <num>8</num>
+          <content eId="para_405__content">
+            <p>Each of those applications is dealt with in a distinct procedure, the procedure relating to an application for subsidiary protection -- which is begun only if the asylum application is rejected -- taking place after the procedure for examination of the asylum application.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_406">
+          <num>9</num>
+          <content eId="para_406__content">
+            <p>It is apparent from the order for reference that the national provisions governing the processing of asylum applications are to be found in the main in the Refugee Act 1996, in the version in force at the material time. The procedure for examining asylum applications includes a personal interview with the applicant.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_407">
+          <num>10</num>
+          <content eId="para_407__content">
+            <p>The provisions relating to the procedure for examining applications for subsidiary protection are set out in the European Communities (Eligibility for Protection) Regulations 2006 ( `the 2006 Regulations'), made by the Minister on 9 October 2006, whose purpose is, in particular, to transpose Directive 2004/83 into national law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_408">
+          <num>11</num>
+          <content eId="para_408__content">
+            <p>An application for subsidiary protection is made using a form the model for which is set out in a schedule to the 2006 Regulations.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_409">
+          <num>12</num>
+          <content eId="para_409__content">
+            <p>There is no provision in the 2006 Regulations for the applicant for subsidiary protection to be heard orally in the course of examination of his application.</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the question referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_410">
+          <num>13</num>
+          <content eId="para_410__content">
+            <p>M was admitted to Ireland in September 2006 on a student visa. After his studies ended he made an asylum application, which was rejected by the Refugee Applications Commissioner (Ireland) on 30 August 2008. An appeal against that decision was dismissed by a decision of the Refugee Appeals Tribunal (Ireland) of 28 October 2008.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_411">
+          <num>14</num>
+          <content eId="para_411__content">
+            <p>M then made an application for subsidiary protection. That application was rejected on 30 September 2010 and the Minister signed a deportation order in respect of M on 5 October 2010. In his decision of 30 September 2010, the Minister relied, to a large extent, on the earlier decisions concerning M's asylum application for his conclusion that M had not established that there were substantial grounds for considering that he was at risk of suffering serious harm, in the light, in particular, of the serious doubts as to the credibility of the claims set out in his application.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_412">
+          <num>15</num>
+          <content eId="para_412__content">
+            <p>On 6 January 2011, M brought an action before the High Court (Ireland) challenging the decision rejecting his application for subsidiary protection.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_413">
+          <num>16</num>
+          <content eId="para_413__content">
+            <p>In the course of considering that action, the High Court referred the following question to the Court of Justice for a preliminary ruling: `In a case where an applicant seeks subsidiary protection status following a refusal to grant refugee status and it is proposed that such an application should be refused, does the requirement to cooperate with an applicant imposed on a Member State in Article 4(1) of ... Directive 2004/83 ... require the administrative authorities of the Member State in question to supply such applicant with the results of such an assessment before a decision is finally made so as to enable him or her to address those aspects of the proposed decision which suggest a negative result?'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_414">
+          <num>17</num>
+          <content eId="para_414__content">
+            <p>In its judgment of 22 November 2012, M. ( C‑277/11, EU:C:2012:744), the Court held, in particular, that, in a system such as that established by the national legislation at issue in the case giving rise to that judgment, a feature of which is that there are two separate procedures, one after the other, for examining applications for refugee status and applications for subsidiary protection respectively, it is for the national court to ensure observance, in each of those procedures, of the applicant's fundamental rights and, more particularly, of the right to be heard in the sense that the applicant must be able to make known his views before the adoption of any decision that does not grant the protection requested. In such a system, the fact that the applicant has already been duly heard when his application for refugee status was examined does not mean that that procedural requirement may be dispensed with in the procedure relating to the application for subsidiary protection.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_415">
+          <num>18</num>
+          <content eId="para_415__content">
+            <p>Following the judgment of 22 November 2012, M. ( C‑277/11, EU:C:2012:744), the High Court held on 23 June 2013 that the Minister had wrongly failed to afford M an effective hearing when his application for subsidiary protection was being examined.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_416">
+          <num>19</num>
+          <content eId="para_416__content">
+            <p>The Minister brought an appeal against that decision before the Supreme Court (Ireland). M brought a cross-appeal against the decision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_417">
+          <num>20</num>
+          <content eId="para_417__content">
+            <p>In those circumstances, the Supreme Court, by order of 24 November 2014, decided to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling: `Does the ``right to be heard '' in European Union law require that an applicant for subsidiary protection, made pursuant to Council Directive 2004/83/EC, be accorded an oral hearing of that application, including the right to call or cross-examine witnesses, when the application is made in circumstances where the Member State concerned operates two separate procedures, one after the other, for examining applications for refugee status and applications for subsidiary protection, respectively?'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the question referred</p>
+        </tblock>
+        <paragraph eId="para_418">
+          <num>21</num>
+          <content eId="para_418__content">
+            <p>By its question, the referring court asks, in essence, whether the right to be heard requires that, where national legislation, such as that at issue in the main proceedings, provides for two separate procedures, one after the other, for examining applications for refugee status and applications for subsidiary protection respectively, the applicant for subsidiary protection is to have the right to an interview relating to his application and the right to call or cross-examine witnesses when that interview takes place.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_419">
+          <num>22</num>
+          <content eId="para_419__content">
+            <p>Directive 2005/85 establishes minimum standards concerning the procedures for examining applications for international protection and specifies the rights of applicants for asylum. Article 3(1) and (3) of that directive states that it is to apply to applications for asylum which are examined both as applications on the basis of the Convention relating to the Status of Refugees, signed in Geneva on 28 July 1951 ( United Nations Treaty Series, vol. 189, p. 150, No 2545 (1954)), and as applications for other kinds of international protection given under the circumstances defined by Article 15 of Directive 2004/83 (judgment of 20 October 2016, Danqua, C‑429/15, EU:C:2016:789, paragraph 26).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_420">
+          <num>23</num>
+          <content eId="para_420__content">
+            <p>Accordingly, the Court has held that Directive 2005/85 applies to applications for subsidiary protection only where a Member State has established a single procedure, under which an application is examined by reference to both forms of international protection, namely asylum and subsidiary protection (judgment of 20 October 2016, Danqua, C‑429/15, EU:C:2016:789, paragraph 27).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_421">
+          <num>24</num>
+          <content eId="para_421__content">
+            <p>However, it is apparent from the documents before the Court that that was not the case in Ireland at the material time, so that Directive 2005/85 did not apply to the processing of applications for subsidiary protection in Ireland.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_422">
+          <num>25</num>
+          <content eId="para_422__content">
+            <p>That said, since the right to be heard forms an integral part of the rights of the defence, the observance of which constitutes a general principle of EU law, when the authorities of the Member States take measures which fall within the scope of EU law, they are, as a rule, subject to the obligation to observe the right to be heard enjoyed by addressees of decisions which significantly affect their interests, even where the applicable legislation does not expressly provide for such a procedural requirement (see, to that effect, judgments of 5 November 2014, Mukarubega, C‑166/13, EU:C:2014:2336, paragraphs 49 and 50, and of 11 December 2014, Boudjlida, C‑249/13, EU:C:2014:2431, paragraphs 39 and 40).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_423">
+          <num>26</num>
+          <content eId="para_423__content">
+            <p>Accordingly, as the Court stated in paragraph 91 of the judgment of 22 November 2012, M. ( C‑277/11, EU:C:2012:744), where national legislation, such as that at issue in the main proceedings, provides for two separate procedures, one following upon the other, for examining applications for refugee status and applications for subsidiary protection respectively, the applicant's right to be heard must be fully guaranteed in each of those two procedures.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_424">
+          <num>27</num>
+          <content eId="para_424__content">
+            <p>However, the foregoing cannot mean that, in a situation such as that at issue in the main proceedings, that right requires that an interview must necessarily take place in the course of the procedure for examining the application for subsidiary protection.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_425">
+          <num>28</num>
+          <content eId="para_425__content">
+            <p>First, it does not follow from what the Court held in the judgment of 22 November 2012, M. ( C‑277/11, EU:C:2012:744), that an interview must necessarily be arranged in the procedure relating to the grant of subsidiary protection.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_426">
+          <num>29</num>
+          <content eId="para_426__content">
+            <p>As the Advocate General has observed in points 52 to 55 of his Opinion, in paragraph 90 of the judgment of 22 November 2012, M. ( C‑277/11, EU:C:2012:744), the Court merely stated that it could not accept the view put forward by the referring court and Ireland that the fact that the applicant has already been heard in the course of examination of the asylum application makes it unnecessary to arrange a hearing when a subsequent application for subsidiary protection is being examined. Thus, the Court simply pointed out the need to ensure that the right of the applicant for subsidiary protection to be heard is observed even if he has already been heard in the course of examination of his asylum application, and did not thereby find an obligation that an interview relating to the application for subsidiary protection must be arranged in all circumstances.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_427">
+          <num>30</num>
+          <content eId="para_427__content">
+            <p>Secondly, it is to be pointed out that, in the absence of EU rules governing the matter that are applicable in Ireland, it is for the domestic legal system of that Member State to lay down the detailed procedural rules relating to examination of an application for subsidiary protection, Ireland being responsible for ensuring, in that context, that the rights conferred by the legal order of the European Union are effectively protected and, in particular, for ensuring compliance with the right of the applicant for subsidiary protection to be heard (see, to that effect, judgment of 8 November 2016, Lesoochranárske zoskupenie VLK, C‑243/15, EU:C:2016:838, paragraph 65).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_428">
+          <num>31</num>
+          <content eId="para_428__content">
+            <p>The right to be heard guarantees the applicant for subsidiary protection the opportunity to put forward effectively, in the course of the administrative procedure, his views regarding his application for subsidiary protection and grounds that may give the competent authority reason to refrain from adopting an unfavourable decision (see, by analogy, judgments of 11 December 2014, Boudjlida, C‑249/13, EU:C:2014:2431, paragraph 54, and of 17 March 2016, Bensada Benallal, C‑161/15, EU:C:2016:175, paragraph 33).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_429">
+          <num>32</num>
+          <content eId="para_429__content">
+            <p>Moreover, the right to be heard must allow that authority to investigate the matter in such a way that it adopts a decision in full knowledge of the facts, while taking account of all relevant factors, and to state reasons for that decision adequately, so that, where appropriate, the applicant can exercise his right of appeal (see, to that effect, judgments of 18 December 2008, Sopropé, C‑349/07, EU:C:2008:746, paragraph 49, and of 11 December 2014, Boudjlida, C‑249/13, EU:C:2014:2431, paragraph 59).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_430">
+          <num>33</num>
+          <content eId="para_430__content">
+            <p>Furthermore, it is clear from the Court's case-law that the question whether there is an infringement of the right to be heard must be examined in relation, inter alia, to the legal rules governing the matter concerned (see, to that effect, judgment of 10 September 2013, G. and R., C‑383/13 PPU, EU:C:2013:533, paragraph 34 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_431">
+          <num>34</num>
+          <content eId="para_431__content">
+            <p>It follows that the detailed rules under which applicants for subsidiary protection are to be able to exercise their right to be heard prior to the adoption of a final decision on their application must be assessed in the light of the provisions of Directive 2004/83, which are intended, inter alia, to lay down minimum standards relating to the conditions which third country nationals must satisfy in order to be entitled to subsidiary protection (see, by analogy, judgments of 5 November 2014, Mukarubega, C‑166/13, EU:C:2014:2336, paragraph 55, and of 11 December 2014, Boudjlida, C‑249/13, EU:C:2014:2431, paragraph 45).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_432">
+          <num>35</num>
+          <content eId="para_432__content">
+            <p>In order to take a decision on an application for subsidiary protection, the competent authority must establish whether the applicant satisfies the conditions laid down in Article 2(e) of Directive 2004/83, which involves, in particular, determining whether substantial grounds have been shown for believing that, if returned to his country of origin, he would face a real risk of suffering serious harm and whether he is unable, or, owing to such risk, unwilling, to avail himself of the protection of that country.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_433">
+          <num>36</num>
+          <content eId="para_433__content">
+            <p>For that purpose, it is apparent from Article 4 of Directive 2004/83 that the elements which the competent authority must take into account include statements and documentation regarding the applicant's age, background, identity, nationality or nationalities, countries of previous residence, previous asylum applications, travel routes and reasons for applying and, more broadly, the serious harm to which he has been or may be subject. Where necessary, the competent authority must also take account of the explanation provided regarding a lack of relevant elements, and of the applicant's general credibility.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_434">
+          <num>37</num>
+          <content eId="para_434__content">
+            <p>Therefore, the right to be heard before the adoption of a decision on an application for subsidiary protection must allow the applicant to set out his views on all those elements, in order to substantiate his application and to allow the authorities to carry out the individual assessment of the facts and circumstances that is provided for in Article 4 of Directive 2004/83 with full knowledge thereof, with a view to determining whether there would be a real risk of the applicant suffering serious harm, within the meaning of the directive, if he were returned to his country of origin.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_435">
+          <num>38</num>
+          <content eId="para_435__content">
+            <p>That being so, the fact that an applicant for subsidiary protection has been able to set out his views only in written form cannot, generally, be regarded as not allowing effective observance of his right to be heard before a decision on his application is adopted.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_436">
+          <num>39</num>
+          <content eId="para_436__content">
+            <p>Indeed, having regard to the nature of the elements referred to in paragraph 36 of the present judgment, it cannot, in principle, be ruled out that they may be effectively brought to the attention of the competent authority by means of written statements by the applicant for subsidiary protection or of an appropriate form prescribed for that purpose, accompanied, where appropriate, by the documentary evidence which he wishes to annex to his application.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_437">
+          <num>40</num>
+          <content eId="para_437__content">
+            <p>Provided that a procedural mechanism of that kind is sufficiently flexible to let the applicant express his views and that he can, if need be, receive appropriate assistance, it is such as to allow him to comment in detail on the elements that must be taken into account by the competent authority and to set out, if he thinks it appropriate, information or assessments different from those already submitted to the competent authority when his asylum application was examined.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_438">
+          <num>41</num>
+          <content eId="para_438__content">
+            <p>Likewise, that mechanism is capable of providing the competent authority with the elements relating to the applicant for international protection which are mentioned in Article 4(2) to (5) of Directive 2004/83 and on the basis of which it must carry out the individual assessment of the relevant facts and circumstances, and, therefore, of allowing it to adopt its decision with full knowledge of the facts and to state reasons for that decision adequately.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_439">
+          <num>42</num>
+          <content eId="para_439__content">
+            <p>Furthermore, it should be recalled that, in a situation such as that at issue in the main proceedings, the examination of the application for subsidiary protection takes place following an asylum procedure, during which the applicant for international protection had an interview relating to his asylum application.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_440">
+          <num>43</num>
+          <content eId="para_440__content">
+            <p>Certain information or material gathered at that interview could also prove useful for assessing the merits of an application for subsidiary protection. In particular, material relating to the applicant's individual position or his personal circumstances could be relevant both for examination of his asylum application and for examination of his application for subsidiary protection.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_441">
+          <num>44</num>
+          <content eId="para_441__content">
+            <p>Accordingly, whilst an interview conducted during the asylum procedure is not, as such, sufficient to ensure observance of the applicant's right to be heard in relation to his application for subsidiary protection (see, to that effect, judgment of 22 November 2012, M., C‑277/11, EU:C:2012:744, paragraph 90), it is, however, possible for the competent authority to take into account, for the purpose of examining the application for subsidiary protection, certain information or material gathered at such an interview which contribute to its ability to determine that application with full knowledge of the facts.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_442">
+          <num>45</num>
+          <content eId="para_442__content">
+            <p>In this connection, it should, moreover, be pointed out that the right of the applicant for subsidiary protection to comment in writing on the grounds that may substantiate his application provides him with the opportunity to set out his views on the assessment of such information or material by the competent authority in taking a decision on his asylum application.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_443">
+          <num>46</num>
+          <content eId="para_443__content">
+            <p>Furthermore, it should be pointed out that, whilst arrangement of a fresh interview when the application for subsidiary protection is examined is capable of providing the applicant with an opportunity to add new material to that which he has already set out in writing, the right to be heard does not render it necessary for him to be offered that chance (see, to that effect, judgment of 5 November 2014, Mukarubega, C‑166/13, EU:C:2014:2336, paragraph 71).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_444">
+          <num>47</num>
+          <content eId="para_444__content">
+            <p>That said, the fact remains that, in certain cases, specific circumstances may make it necessary for an interview to be arranged in order that the right of the applicant for subsidiary protection to be heard is effectively observed.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_445">
+          <num>48</num>
+          <content eId="para_445__content">
+            <p>If, for any reason whatsoever, the elements provided by an applicant for international protection are not complete, up to date or relevant, it follows from Article 4(1) of Directive 2004/83 that the Member State concerned must actively cooperate with the applicant so that all the elements enabling his application to be assessed may be assembled (see, to that effect, judgment of 22 November 2012, M., C‑277/11, EU:C:2012:744, paragraph 66).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_446">
+          <num>49</num>
+          <content eId="para_446__content">
+            <p>Therefore, an interview must be arranged if the competent authority is not objectively in a position -- on the basis of the elements available to it following the written procedure and the interview with the applicant conducted when his asylum application was examined -- to determine with full knowledge of the facts whether substantial grounds have been shown for believing that, if returned to his country of origin, he would face a real risk of suffering serious harm, and whether he is unable, or, owing to such risk, unwilling, to avail himself of the protection of that country.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_447">
+          <num>50</num>
+          <content eId="para_447__content">
+            <p>In such a situation, an interview could in fact allow the competent authority to question the applicant regarding the elements which are lacking for the purpose of taking a decision on his application and, as the case may be, of establishing whether the conditions laid down in Article 4(5) of Directive 2004/83 are met.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_448">
+          <num>51</num>
+          <content eId="para_448__content">
+            <p>An interview must also be arranged if it is apparent -- in the light of the personal or general circumstances in which the application for subsidiary protection has been made, in particular any specific vulnerability of the applicant, due for example to his age, his state of health or the fact that he has been subjected to serious forms of violence -- that one is necessary in order to allow him to comment in full and coherently on the elements capable of substantiating that application.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_449">
+          <num>52</num>
+          <content eId="para_449__content">
+            <p>Consequently, the referring court has the task of establishing whether in the main proceedings there are specific circumstances that render an interview with the applicant for subsidiary protection necessary in order that his right to be heard is effectively observed.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_450">
+          <num>53</num>
+          <content eId="para_450__content">
+            <p>In the event that such an interview should have been arranged in a procedure such as that at issue in the main proceedings, the referring court is uncertain whether the applicant for subsidiary protection must have the right to call and cross-examine witnesses at that interview.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_451">
+          <num>54</num>
+          <content eId="para_451__content">
+            <p>In that regard, it should be pointed out, first, that such a right goes beyond the requirements which ordinarily arise from the right to be heard in administrative procedures (see, to that effect, judgment of 7 January 2004, Aalborg Portland and Others v Commission, C‑204/00 P, C‑205/00 P, C‑211/00 P, C‑213/00 P, C‑217/00 P and C‑219/00 P, EU:C:2004:6, paragraph 200) and, secondly, that the rules applicable to the examination of applications for subsidiary protection, in particular those laid down in Article 4 of Directive 2004/83, do not confer particular importance on testimony in order to assess the facts and the relevant circumstances.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_452">
+          <num>55</num>
+          <content eId="para_452__content">
+            <p>It follows that the right to be heard does not imply that an applicant for subsidiary protection has the right to call or cross-examine witnesses at any interview in the course of examination of his application.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_453">
+          <num>56</num>
+          <content eId="para_453__content">
+            <p>In the light of all the foregoing considerations, the answer to the question referred is that the right to be heard, as applicable in the context of Directive 2004/83, does not require, as a rule, that, where national legislation, such as that at issue in the main proceedings, provides for two separate procedures, one after the other, for examining applications for refugee status and applications for subsidiary protection respectively, the applicant for subsidiary protection is to have the right to an interview relating to his application and the right to call or cross-examine witnesses when that interview takes place.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_454">
+          <num>57</num>
+          <content eId="para_454__content">
+            <p>An interview must nonetheless be arranged where specific circumstances, relating to the elements available to the competent authority or to the personal or general circumstances in which the application for subsidiary protection has been made, render it necessary in order to examine that application with full knowledge of the facts, a matter which is for the referring court to establish.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_455">
+          <num>58</num>
+          <content eId="para_455__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the referring court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Third Chamber) hereby rules: The right to be heard, as applicable in the context of Council Directive 2004/83/EC of 29 April 2004 on minimum standards for the qualification and status of third country nationals or stateless persons as refugees or as persons who otherwise need international protection and the content of the protection granted, does not require, as a rule, that, where national legislation, such as that at issue in the main proceedings, provides for two separate procedures, one after the other, for examining applications for refugee status and applications for subsidiary protection respectively, the applicant for subsidiary protection is to have the right to an interview relating to his application and the right to call or cross-examine witnesses when that interview takes place. An interview must nonetheless be arranged where specific circumstances, relating to the elements available to the competent authority or to the personal or general circumstances in which the application for subsidiary protection has been made, render it necessary in order to examine that application with full knowledge of the facts, a matter which is for the referring court to establish.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>Bay Larsen Vilaras Malenovský Safjan Šváby Delivered in open court in Luxembourg on 9 February 2017. A. Calot Escobar Registrar L. Bay Larsen President of the Third Chamber( *1)Language of the case: English.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

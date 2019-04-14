@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+      <references source="#source">
+        <TLCOrganization eId="institution_34" showAs="" href="/akn/ontology/Organization/Institution/institution_34" />
+      </references>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Eighth Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>26 January 2017 (</p>
+      </tblock>
+      <tblock>
+        <p>1)</p>
+      </tblock>
+      <p>`Appeal -- European Agricultural Fund for Rural Development (EAFRD) -- Expenditure excluded from EU financing -- Regulations (EC) No 1698/2005, (EC) No 1975/2006 and (EC) No 796/2004 -- Rural development support measures -- Areas with natural handicaps -- On-the-spot controls -- Coefficient density of livestock -- Counting of animals' In Case C‑373/15 P, APPEAL under Article 56 of the Statute of the Court of Justice of the European Union, brought on 15 July 2015, French Republic, represented initially by F. Alabrune, G. de Bergues, D. Colas and C. Candat, and subsequently by G. de Bergues, D. Colas, F. Fize and A. Daly, acting as Agents, appellant, supported by:</p>
+      <p>
+        <party as="intervening" refersTo="#institution_34">Kingdom of Spain</party>
+      </p>
+      <p>, represented by A. Sampol Pucurull, acting as Agent, intervener in the appeal, the other party to the proceedings being: European Commission, represented by D. Bianchi and G. von Rintelen, acting as Agents, defendant at first instance, THE COURT (Eighth Chamber), composed of M. Vilaras (Rapporteur), President of the Chamber, J. Malenovský and M. Safjan, Judges, Advocate General: N. Wahl, Registrar: A. Calot Escobar, having regard to the written procedure, having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,</p>
+      <p>gives the following</p>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_13363">
+          <num>1</num>
+          <content eId="para_13363__content">
+            <p>By its appeal, the French Republic asks the Court to set aside the judgment of the General Court of the European Union of 30 April 2015, France v Commission ( T‑259/13, not published, the judgment under appeal, EU:T:2015:250), by which it dismissed its action for the partial annulment of Commission Implementing Decision 2013/123/EU of 26 February 2013 excluding from European Union financing certain expenditure incurred by the Member States under the Guarantee Section of the European Agricultural Guidance and Guarantee Fund (EAGGF), under the European Agricultural Guarantee Fund (EAGF) and under the European Agricultural Fund for Rural Development (EAFRD) ( OJ 2013 L 67, p. 20, `the decision at issue').</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <tblock>
+          <p>Regulation (EC) No 1698/2005</p>
+        </tblock>
+        <paragraph eId="para_13364">
+          <num>2</num>
+          <content eId="para_13364__content">
+            <p>Article 4(1)(b) of Council Regulation (EC) No 1698/2005 of 20 September 2005 on support for rural development by the European Agricultural Fund for Rural Development (EAFRD) ( OJ 2005 L 277, p. 1) provides: `Support for rural development shall contribute to achieving the following goals: ...</p>
+            <blockList>
+              <item>
+                <num>(b)</num>
+                <p>improving the environment and the countryside by supporting land management;'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13365">
+          <num>3</num>
+          <content eId="para_13365__content">
+            <p>Under Title IV of Regulation No 1698/2005, entitled `Aid for rural development', Chapter I of that Regulation, relating to `Axes', sets out, in each of its four sections, the various fields of intervention and the measures that may be employed. Section 2 of that chapter, entitled `Axis 2 Improvement of the environment and rural areas', includes in particular Article 36, which provides, at paragraph (a)(i) and (ii) thereof: `Support under this section shall concern:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>measures targeting the sustainable use of agricultural land through:</p>
+                <blockList>
+                  <item>
+                    <num>(i)</num>
+                    <p>natural handicap payments to farmers in mountain areas;</p>
+                  </item>
+                  <item>
+                    <num>(ii)</num>
+                    <p>payments to farmers in areas with handicaps, other than mountain areas'.</p>
+                  </item>
+                </blockList>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13366">
+          <num>4</num>
+          <content eId="para_13366__content">
+            <p>Article 37(1) and (2) of Regulation No 1698/2005 provides: `1.   Payments provided for in Article 36(a)(i) and (ii) shall be granted annually per hectare of utilised agricultural area ... within the meaning of Commission Decision 2000/115/EC of 24 November 1999 relating to the definitions of the characteristics, the list of agricultural products, the exceptions to the definitions and the regions and districts regarding the surveys on the structure of agricultural holdings [( OJ 2000 L 38, p. 1)]. Payments should compensate for farmers' additional costs and income forgone related to the handicap for agricultural production in the area concerned. 2.   Payments shall be granted to farmers who undertake to pursue their farming activity in areas designated pursuant to Article 50(2) and (3) for at least five years from the first payment.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13367">
+          <num>5</num>
+          <content eId="para_13367__content">
+            <p>Article 71 of Regulation No 1698/2005, entitled `Eligibility of expenditure', in paragraph 2 thereof, reads: `Expenditure shall be eligible for a EAFRD contribution only where incurred for operations decided on by the Managing Authority of the programme in question or under its responsibility, in accordance with the selection criteria fixed by the competent body.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Regulation (EC) No 1975/2006;</p>
+        </tblock>
+        <paragraph eId="para_13368">
+          <num>6</num>
+          <content eId="para_13368__content">
+            <p>Article 5 of Commission Regulation (EC) No 1975/2006 of 7 December 2006 laying down detailed rules for the implementation of Regulation No 1698/2005, as regards the implementation of control procedures as well as cross-compliance in respect of rural development support measures ( OJ 2006 L 368, p. 74), entitled `General principles of control', provides, at paragraphs 1 and 2 thereof: `1.   Without prejudice to specific provisions in this Regulation, Member States shall ensure that all the eligibility criteria established by Community or national legislation or by the rural development programmes can be controlled according to a set of verifiable indicators to be established by the Member States. 2.   Where possible, on-the-spot checks provided for in Articles 12, 20 and 27 and other checks provided for in [EU] rules regarding agricultural subsidies shall be carried out at the same time.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13369">
+          <num>7</num>
+          <content eId="para_13369__content">
+            <p>It follows from Articles 6 to 8 of Regulation No 1975/2006 that, first, Title I of that regulation applies to aid granted pursuant to Article 36 of Regulation No 1698/2005, with those based on the size of the declared area being referred to as `area-related measures'. Second, those articles provide that several provisions of Commission Regulation (EC) No 796/2004 of 21 April 2004 laying down detailed rules for the implementation of cross-compliance, modulation and the integrated administration and control system provided for in Council Regulation (EC) No 1782/2003 of 29 September 2003 establishing common rules for direct support schemes under the common agricultural policy and establishing certain support schemes for farmers ( OJ 2004 L 141, p. 18), as amended by Commission Regulation (EC) No 972/2007 of 20 August 2007 ( OJ 2007 L 216, p. 3) ( `Regulation No 796/2004') apply mutatis mutandis for the purposes of Title I of Regulation No 1975/2006.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13370">
+          <num>8</num>
+          <content eId="para_13370__content">
+            <p>According to Article 10(1) to (4) of Regulation No 1975/2006: `1.   Applications for support and subsequent payment claims shall be checked in a manner which ensures effective verification of compliance with the conditions for granting support. 2.   The Member States shall define suitable methods and means for verifying the conditions for granting support for each support measure. 3.   Member States shall make use of the integrated administration and control system ... 4.   Verification of the eligibility criteria shall consist of administrative and on-the-spot checks.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13371">
+          <num>9</num>
+          <content eId="para_13371__content">
+            <p>Article 12 of that regulation, entitled `On-the-spot checks', provides, at paragraph 2 thereof: `Article 26(3) and (4) of Regulation (EC) No 796/2004 shall apply to on-the-spot checks provided for in this Article.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13372">
+          <num>10</num>
+          <content eId="para_13372__content">
+            <p>Article 14 of that regulation, entitled `General principles concerning on-the-spot checks', provides: `1.   On-the-spot checks shall be spread over the year on the basis of an analysis of the risks presented by the different commitments under each rural development measure. 2.   On-the-spot checks shall cover all the commitments and obligations of a beneficiary which can be checked at the time of the visit.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13373">
+          <num>11</num>
+          <content eId="para_13373__content">
+            <p>Article 15 of Regulation No 1975/2006, entitled `Elements of the on-the-spot checks and determination of areas', provides at paragraphs 2 and 3 thereof: `2.   With regard to controls on area-related measures, the on-the-spot checks shall be carried out in accordance with Articles 29, 30 and 32 of Regulation (EC) No 796/2004. ... 3.   With regard to controls on animal-related measures, the on-the-spot checks shall be carried out in accordance with Article 35 of Regulation (EC) No 796/2004.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Regulation No 796/2004</p>
+        </tblock>
+        <paragraph eId="para_13374">
+          <num>12</num>
+          <content eId="para_13374__content">
+            <p>Part II of Regulation No 796/2004 on the integrated administration and control system includes a Title III on controls. Chapter II of that title, entitled `Controls with regard to eligibility criteria', contains a section II concerning on-the-spot checks. This section is divided into several subsections, including, in particular, Sub-section I, entitled `Common provisions', comprising Article 25 to 28 of the regulation, Sub-section II, `On-the-spot checks of the Single applications with regard to area-related aid schemes', comprising Articles 29 to 33 of the regulation, and Sub-section III, `On-the-spot checks of livestock aid applications', comprising Articles 34 to 39 of the regulation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13375">
+          <num>13</num>
+          <content eId="para_13375__content">
+            <p>Articles 29, 30 and 32 of Regulation No 796/2004, applicable to aid for the improvement of the environment and the countryside under Article 15(2) of Regulation No 1975/2006, lay down the procedures for on-the-spot checks and for the determination of the areas for area-related measures.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13376">
+          <num>14</num>
+          <content eId="para_13376__content">
+            <p>Article 35 of Regulation No 796/2004 provides: `1.   On-the-spot checks shall cover all livestock for which aid applications have been submitted under the aid schemes to be checked and, in the case of checks of the bovine aid schemes, also the unclaimed bovine animals. 2.   On-the-spot checks shall include in particular:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>a check that the number of animals present on the holding for which aid applications have been submitted and the number of unclaimed bovine animals corresponds to the number of animals entered in the registers and, in the case of bovine animals, to the number of animals notified to the computerised database for bovine animals; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Regulation (EC) No 885/2006</p>
+        </tblock>
+        <paragraph eId="para_13377">
+          <num>15</num>
+          <content eId="para_13377__content">
+            <p>Article 11(3) of Commission Regulation (EC) No 885/2006 of 21 June 2006 laying down detailed rules for the application of Council Regulation (EC) No 1290/2005 as regards the accreditation of paying agencies and other bodies and the clearance of the accounts of the EAGF and of the EAFRD ( OJ 2006 L 171, p. 90), provides: `The Member State shall inform the Commission of the corrective measures it has undertaken to ensure compliance with Community rules and the effective date of their implementation. The Commission, after having examined any report drawn up by the Conciliation Body in accordance with Chapter 3 of this Regulation, shall adopt, if necessary, one or more decisions under Article 31 of [Council Regulation (EC) No 1290/2005 of 21 June 2005 on the financing of the common agricultural policy ( OJ 2005 L 209, p. 1)] in order to exclude from Community financing expenditure affected by the non-compliance with Community rules until the Member State has effectively implemented the corrective measures. When evaluating the expenditure to be excluded from Community financing, the Commission may take into account any information communicated by the Member State after the expiry of the period referred to in paragraph 2 if this is necessary for a better estimate of the financial damage caused to the Community budget, provided that the late transmission of the information is justified by exceptional circumstances.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>French law</p>
+        </tblock>
+        <paragraph eId="para_13378">
+          <num>16</num>
+          <content eId="para_13378__content">
+            <p>The DGPAAT/SDEA/C2008-3016 circular of 5 September 2008 sets out the statutory conditions for Compensatory Allowances for Natural Handicaps ( `CANH') for 2008 ( `CANH circular').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13379">
+          <num>17</num>
+          <content eId="para_13379__content">
+            <p>Point 7.2 of that circular, entitled `On-the-spot checks', provides that those checks consist of three parts: the first relates to the actual area covered by an application for CANH aid, the second relates to the commitments of the aid beneficiary other than those relating to the area and the third relates to the online declaration. In respect of on-the-spot checks on commitments other than those relating to the area, point 7.2 specifies that counting of animals should be undertaken. Under the integrated aid management and control system, bovine animals are checked in relation to livestock aid and are not specifically checked in relation to CANH. The ovine animals used for the calculation of the livestock are those declared as such in an application for the ewe premium and filed in the year in which the CANH dossier was submitted. For new applicants, the ovine animals used are checked by counting the animals present on the day of the check.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Background to the dispute</p>
+        </tblock>
+        <paragraph eId="para_13380">
+          <num>18</num>
+          <content eId="para_13380__content">
+            <p>The background to the dispute and the content of the decision at issue are set out in paragraphs 24 to 39 of the judgment under appeal. For the purposes of these proceedings, they may be summarised as follows.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13381">
+          <num>19</num>
+          <content eId="para_13381__content">
+            <p>Under Article 36(a)(i) and (ii) of Regulation No 1698/2005, the French authorities adopted a Plan for Rural Development in France for the period 2007 to 2013, which provides for, inter alia, the granting of CANH to farmers located in areas of natural handicaps. That programme was approved by Commission Decision C(2007) 3446 final of 19 July 2007. It accordingly states that the payment of compensation for forage areas to farmers located in areas of natural handicaps is subject to compliance by the latter with a stocking criterion. This criterion, expressed as a unit of livestock per hectare ( `LU'), allows the density of livestock on forage areas to be controlled so as to avoid under-grazing or overgrazing. The stock amount is defined at the departmental level and falls between thresholds defined by area or by sub-area.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13382">
+          <num>20</num>
+          <content eId="para_13382__content">
+            <p>Following the control of expenditure carried out in France in respect of rural development measures, the Commission, by the decision at issue, excluded from the financing of the Union certain expenditure declared by that Member State due to, inter alia, deficiencies in the on-the-spot checks in respect of the amounts of EUR 21056869.75 and EUR 7898813.60, concluding that there was a weakness in a key control for which a flat-rate correction of 5% was provided for.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13383">
+          <num>21</num>
+          <content eId="para_13383__content">
+            <p>It is apparent from the whole of the administrative procedure that the Commission based the financial correction applied to expenditure made under rural development measures on the fact that the audit carried out by its departments had revealed shortcomings in terms of the control of the livestock density, also referred to as the `stock density', in the bovine and ovine animal `sectors', which should have been checked on-the-spot. However, the Commission services found that the stock density was not verified during the on-the-spot checks, which constituted a failure to comply with Article 14(2) of Regulation No 1975/2006.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The procedure before the General Court and the judgment under appeal</p>
+        </tblock>
+        <paragraph eId="para_13384">
+          <num>22</num>
+          <content eId="para_13384__content">
+            <p>By application lodged at the Registry of the General Court on 7 May 2013, the French Republic brought an action for annulment of the decision at issue.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13385">
+          <num>23</num>
+          <content eId="para_13385__content">
+            <p>By document lodged at the Registry of the General Court on 30 October 2013, the Kingdom of Spain sought leave to intervene in support of the form of order sought by the French Republic. By order of 2 December 2013, the President of the Ninth Chamber of the General Court granted it leave to intervene.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13386">
+          <num>24</num>
+          <content eId="para_13386__content">
+            <p>The French Republic raised three pleas in support of its action. The first plea alleged infringement of Article 10(2) and (4) and Article 14(2) of Regulation No 1975/2006. The second plea concerned breach of Article 2(2) of Commission Regulation (EC) No 1082/2003 of 23 June 2003 laying down detailed rules for the implementation of Regulation (EC) No 1760/2000 of the European Parliament and of the Council as regards the minimum level of controls to be carried out in the framework of the system for the identification and registration of bovine animals ( OJ 2003 L 156, p. 9) and Article 26(2)(b) of Regulation No 796/2004. Last, the third plea, alleged, in the alternative, unlawful extension by the Commission of the application of the flat-rate correction to ovine holdings which are not eligible for the ewe premium and to bovine holdings inspected in the context of the identification of bovine animals or beef premiums.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13387">
+          <num>25</num>
+          <content eId="para_13387__content">
+            <p>In paragraphs 59 to 63 of the judgment under appeal, the General Court stated that it was necessary to examine both parts of the first plea together on the ground that they both sought to establish that the Commission had infringed Article 10(2) and (4) and Article 14(2) of Regulation No 1975/2006. To that end, the General Court examined whether those provisions required the French Republic to count animals during on-the-spot checks or whether administrative checks put in place in respect of a database, for whose establishment on-the-spot checks had been carried out, constituted suitable methods and means for verifying the conditions for granting the support.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13388">
+          <num>26</num>
+          <content eId="para_13388__content">
+            <p>In paragraphs 64 to 69 of the judgment under appeal, the General Court considered that it was not expressly stated in Articles 10 and 14 of Regulation No 1975/2006 that Member States were under an obligation to count animals during on-the-spot checks. However, it held that, by virtue of those articles and Article 35 of Regulation No 796/2004, which provide for on-the-spot checks, Member States have a limited margin of discretion as to the suitable methods and means to verify the conditions for granting the support.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13389">
+          <num>27</num>
+          <content eId="para_13389__content">
+            <p>Pursuing that line of reasoning, it stated, in paragraph 70 of that judgment, that nothing in Regulation No 1975/2006 can be interpreted as meaning that, in the event that administrative checks are carried out using information derived from a reliable database, the national authorities may forgo the counting of animals during on-the-spot checks. In its view, such an interpretation disregarded the objective of on-the-spot checks, which included verifying the conformity of the information contained in the databases drawn up by the Member States in accordance with Article 15(3) of Regulation No 1975/2006 and Article 35 of Regulation No 796/2004.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13390">
+          <num>28</num>
+          <content eId="para_13390__content">
+            <p>The General Court accordingly held, at paragraph 71 of the judgment under appeal, that the Commission had rightly considered that Articles 10 and 14 of Regulation No 1975/2006 required the counting of animals when on-the-spot checks are carried out in accordance with Article 15(3) of Regulation No 1975/2006 and Article 35 of Regulation No 796/2004.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13391">
+          <num>29</num>
+          <content eId="para_13391__content">
+            <p>In paragraphs 73 to 82 of the judgment under appeal, the General Court dismissed the arguments of the French Republic contending that the controls put in place by the national authorities were in compliance with the requirements of Regulation No 1975/2006.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13392">
+          <num>30</num>
+          <content eId="para_13392__content">
+            <p>Accordingly, in paragraphs 73 to 76 of that judgment, the General Court rejected the argument that the existence of on-the-spot checks carried out for the purpose of establishing databases relieved the French authorities of the need to carry out on-the-spot checks under Article 12 et seq. of Regulation No 1975/2006. In its view, the arguments of the French Republic concerning the reliability of the national database were not relevant in that regard. On the one hand, it considered that the administration and control rules provided for in that regulation constituted specific measures in those areas. On the other hand, it considered that the checks carried out for the establishment of that database could not be regarded as on-the-spot checks within the meaning of that regulation, since the aim of those checks was not to assess the particular conditions of the measures in support of rural development, but to verify compliance of all the animals on a holding for which identification of bovine animals is provided for under Regulation (EC) No 1760/2000 of the European Parliament and of the Council of 17 July 2000 establishing a system for the identification and registration of bovine animals and regarding the labelling of beef and beef products and repealing Council Regulation (EC) No 820/97 ( OJ 2000 L 204, p. 1).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13393">
+          <num>31</num>
+          <content eId="para_13393__content">
+            <p>In paragraph 81 of the judgment under appeal, the General Court rejected the argument that the Commission's interpretation is contrary to the continuity of the stock density criterion. According to the Commission, although the required number of LUs must be present on a holding throughout the reference year, it does not follow that the on-the-spot checks provided for in Regulation No 1975/2006 should not be carried out. The General Court stated that the purpose of those checks is to verify that the information contained in the databases used to carry out administrative checks is correct and that those databases are accurate. It thus noted, in paragraph 82 of the judgment under appeal, that the counting of animals during on-the-spot checks made it possible to carry out the checks required under Regulation No 1975/2006 and to ensure the conformity of the databases when calculating the stock density, even if this did not make it possible to take account of the parameter relating to the time spent by the animals on a holding or, in a precise manner, the parameter relating to the age of the bovine animals.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13394">
+          <num>32</num>
+          <content eId="para_13394__content">
+            <p>In paragraphs 84 to 89 of the judgment under appeal, the General Court rejected the second plea.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13395">
+          <num>33</num>
+          <content eId="para_13395__content">
+            <p>In paragraphs 92 to 110 of the judgment under appeal, the General Court accepted the first part of the third plea, that the application of the flat-rate correction to ovine animals which are not eligible for ewe premiums was unfounded in so far as the alleged deficiencies of the on-the-spot checks system concerned only ovine animals which had been the subject of an application for a ewe premium.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13396">
+          <num>34</num>
+          <content eId="para_13396__content">
+            <p>In paragraphs 111 to 114 of the judgment under appeal, the General Court rejected the second part of the third plea.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13397">
+          <num>35</num>
+          <content eId="para_13397__content">
+            <p>The General Court therefore partially annulled the decision at issue in so far as it applied a financial correction to the rural development support measures for ovine animals which had not been the subject of applications for ewe premiums for the accounting years 2008 and 2009 and dismissed the application as to the remainder.</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>Forms of order sought by the parties before the Court of Justice</p>
+        </tblock>
+        <paragraph eId="para_13398">
+          <num>36</num>
+          <content eId="para_13398__content">
+            <p>The French Republic contends that the Court of Justice should:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>set aside the contested judgment in so far as it rejected the first plea for annulment directed against the decision at issue;</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>adjudicate definitively on the dispute by annulling the decision at issue to the extent to which that decision excludes certain expenditure incurred by the French Republic in relation to Axis 2 of the Plan for Rural Development in France in respect of the accounting years 2008 and 2009, or refer the case back to the General Court for it to adjudicate on the dispute, and</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>reserve the costs.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13399">
+          <num>37</num>
+          <content eId="para_13399__content">
+            <p>The Commission contends that the Court of Justice should:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>dismiss the appeal as inadmissible in part or at least, dismiss it as unfounded; and</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>order the French Republic to pay the costs.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13400">
+          <num>38</num>
+          <content eId="para_13400__content">
+            <p>The Kingdom of Spain claims that the Court of Justice should grant the appeal.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The appeal</p>
+        </tblock>
+        <paragraph eId="para_13401">
+          <num>39</num>
+          <content eId="para_13401__content">
+            <p>In support of its appeal, the French Republic advances three grounds.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13402">
+          <num>40</num>
+          <content eId="para_13402__content">
+            <p>By its first ground of appeal, it argues that the General Court erred in law in failing to raise, of its own motion, a ground concerning the Commission's infringement of an essential procedural requirement, in failing to adopt the decision at issue within a reasonable period. By its second ground of appeal, raised in the alternative, it argues that the General Court erred in law in finding that the Commission had not misinterpreted Articles 10 and 14 of Regulation No 1975/2006 by imposing the obligation to count animals during the on-the-spot controls. By its third ground of appeal, it argues that the General Court erred in law in taking the view that the on-the-spot checks carried out in the context of managing the identification of bovine animals or ewe premiums did not constitute on-the-spot checks within the meaning of Regulation No 1975/2006.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The first plea in law</p>
+        </tblock>
+        <tblock>
+          <p>Arguments of the parties</p>
+        </tblock>
+        <paragraph eId="para_13403">
+          <num>41</num>
+          <content eId="para_13403__content">
+            <p>By its first ground, the French Republic, supported by the Kingdom of Spain, submits that the General Court erred in law in not raising of its own motion an infringement of essential procedural requirements by the Commission in so far as the latter failed to adopt its decision within a reasonable period. In that regard, it observes that the Court of Justice has already held, in its judgment of 4 September 2014, Spain v Commission ( C‑192/13 P, EU:C:2014:2156), that the General Court had erred in law by considering that the Commission was not required to comply with any legal time limit for adopting decisions imposing the financial correction. The French Republic considers that allowing the Commission to adopt such decisions after the expiry of the time limit is contrary not only to the general principle of good administration but also to the principle of loyal cooperation between the parties, in so far as Member States are, for their part, subject to strict time limits.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13404">
+          <num>42</num>
+          <content eId="para_13404__content">
+            <p>It is of the opinion that Article 11(3) of Regulation No 885/2006 necessarily requires the Commission to take a decision within a reasonable period after the report of the Conciliation Body has been drawn up.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13405">
+          <num>43</num>
+          <content eId="para_13405__content">
+            <p>It considers that, in order to comply with a reasonable period, the Commission should adopt a clearance decision within a maximum period of six months from the termination of the conciliation procedure.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13406">
+          <num>44</num>
+          <content eId="para_13406__content">
+            <p>The Commission disputes the arguments of the French Republic.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Findings of the Court</p>
+        </tblock>
+        <paragraph eId="para_13407">
+          <num>45</num>
+          <content eId="para_13407__content">
+            <p>The French Republic refers in particular to the judgment of 4 September 2014, Spain v Commission ( C‑192/13 P, EU:C:2014:2156), in support of its contention that the General Court should have raised of its own motion an infringement of essential procedural requirements by the Commission, on the ground that the latter did not adopt the decision at issue within a reasonable period.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13408">
+          <num>46</num>
+          <content eId="para_13408__content">
+            <p>It is true that, according to the Court's case-law, failure to comply with the procedural rules relating to the adoption of an act adversely affecting an individual, such as a failure on the part of the Commission to adopt a decision within the time limit prescribed by the EU legislature, constitutes an infringement of essential procedural requirements, which it is a matter for the EU judicature to raise of its own motion (see, to that effect, judgments of 4 September 2014, Spain v Commission, C‑192/13 P, EU:C:2014:2156, paragraph 103, and of 24 June 2015, Germany v Commission, C‑549/12 P and C‑54/13 P, EU:C:2015:412,, paragraph 92).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13409">
+          <num>47</num>
+          <content eId="para_13409__content">
+            <p>However, it must be held that, in the present case, the EU legislation on the clearance of agricultural funds, in particular Article 11(3) of Regulation No 885/2006, does not lay down a period within which the Commission must adopt a decision terminating the clearance of accounts procedure, so that the case-law cited in paragraph 45 above is not applicable.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13410">
+          <num>48</num>
+          <content eId="para_13410__content">
+            <p>It follows that, in the present case, it was not for the General Court to raise of its own motion an infringement of essential procedural requirements.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13411">
+          <num>49</num>
+          <content eId="para_13411__content">
+            <p>Consequently, the first ground of appeal must be dismissed.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The second plea in law</p>
+        </tblock>
+        <tblock>
+          <p>Arguments of the parties</p>
+        </tblock>
+        <paragraph eId="para_13412">
+          <num>50</num>
+          <content eId="para_13412__content">
+            <p>By its second ground of appeal, raised in the alternative, the French Republic argues that the General Court erred in law in finding that the Commission had not misinterpreted Articles 10 and 14 of Regulation No 1975/2006 by imposing the obligation to count animals during the on-the-spot checks.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13413">
+          <num>51</num>
+          <content eId="para_13413__content">
+            <p>First, the French Republic considers that the General Court distorted its argument by considering that the French Republic had maintained that Articles 10 and 14 of Regulation No 1975/2006 did not require on-the-spot checks, whereas it considered that those provisions did not require the animals to be counted during such checks. It notes that the CANH circular stipulates that the French authorities are to carry out on-the-spot checks and that during the clearance procedure the Commission did not dispute that such checks had been carried out. Furthermore, it contends that, contrary to the finding in paragraph 62 of the judgment under appeal, it did not claim that the completeness of the administrative checks made counting animals on the spot superfluous.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13414">
+          <num>52</num>
+          <content eId="para_13414__content">
+            <p>Second, the French Republic submits that, in paragraphs 65 to 71 of the judgment under appeal, the General Court committed several errors of law. First, it distorted the content of the decision at issue by substituting its own reasoning for that of the Commission. Thus, it does not appear from that decision that the Commission considered that the controls put in place by the French authorities were governed by Article 15(3) of Regulation No 1975/2006 and Article 35 of Regulation No 796/2004. Moreover, the General Court erred in interpreting and applying Article 15(3) of Regulation No 1975/2006 and Article 35 of Regulation No 796/2004, by considering that the CANH control system had to comply with the controls provided for in those provisions, which apply to the control of animal-related measures and not to area-related measures. Article 37(1) of Regulation No 1698/2005 and the Annex to that regulation provide that CANHs are area-related measures within the meaning of Article 6(2)(a) of Regulation No 1975/2006.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13415">
+          <num>53</num>
+          <content eId="para_13415__content">
+            <p>Accordingly, the obligation to count animals during on-the-spot checks in order to verify the livestock density criterion could not arise from Article 15(3) of Regulation No 1975/2006 or Article 35 of Regulation No 796/2004.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13416">
+          <num>54</num>
+          <content eId="para_13416__content">
+            <p>Third, the French Republic submits that, in paragraphs 66 and 69 to 71 of the judgment under appeal, the General Court did not respond to the requisite legal standard by holding that the carrying out of administrative checks on the basis of reliable databases did not relieve Member States of their obligation to carry out on-the-spot checks, and in particular of their obligation to count animals during such checks in order to verify that the livestock density criterion was complied with. According to the French Republic, Article 14(2) of Regulation No 1975/2006, on which the decision at issue is based and which the General Court did not examine, provides that on-the-spot checks cover all commitments which can be checked at the time of the visit. Counting animals during a visit</p>
+            <blockList>
+              <item>
+                <num>(i)</num>
+                <p>does not make it possible to verify compliance with this criterion, which is expressed in LUs,</p>
+              </item>
+              <item>
+                <num>(ii)</num>
+                <p>depends on the age of the animals and</p>
+              </item>
+              <item>
+                <num>(iii)</num>
+                <p>requires compliance with average thresholds over the course of a year.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13417">
+          <num>55</num>
+          <content eId="para_13417__content">
+            <p>The French Republic submits that the legality of the decision at issue also depends on the question of whether the French authorities had infringed Article 10(2) of Regulation No 1975/2006, which provides that the Member States are to define suitable methods and means for verifying the conditions for granting support for each support measure. The database used to calculate the stock density provides sufficient guarantees of reliability to allow the conclusion that the use of the data derived from it is a suitable means of verifying the conditions for the granting of CANH. Consequently, the General Court should have taken the view that, within the meaning of Article 10(2), those control arrangements ensured suitable verification of the conditions for the granting of CANH, since the stock density criterion was not, moreover, a commitment which could be checked by counting the animals at the time of the visit.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13418">
+          <num>56</num>
+          <content eId="para_13418__content">
+            <p>The Commission disputes the arguments of the French Republic.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Findings of the Court</p>
+        </tblock>
+        <paragraph eId="para_13419">
+          <num>57</num>
+          <content eId="para_13419__content">
+            <p>As a preliminary point, it must be noted that the French Republic disputes, in essence, the existence of an obligation to count animals during on-the-spot checks of CANHs. As is clear from paragraphs 27 and 28 above, the General Court considered that such an obligation stems in particular from the application of Article 15(3) of Regulation No 1975/2006 and Article 35 of Regulation No 796/2004, a part of the argument of the French Republic being specifically directed against that ground of the judgment under appeal.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13420">
+          <num>58</num>
+          <content eId="para_13420__content">
+            <p>First, it must be borne in mind that, in paragraphs 59 to 82 of the judgment under appeal, the General Court examined the two parts of the first plea in the action for annulment together in order to determine whether the provisions of Regulation No 1975/2006, and in particular Article 10 et seq. thereof, required the animals to be counted during on-the-spot checks.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13421">
+          <num>59</num>
+          <content eId="para_13421__content">
+            <p>The General Court pointed out in paragraph 64 of the judgment under appeal that `Articles 10 and 14 of Regulation No 1975/2006 do not expressly provide for an obligation to count animals during on-the-spot checks'. However, it found, in paragraphs 65 to 67 of that judgment, that those articles and Article 35 of Regulation No 796/2004 limit the discretion of the Member States as to methods and means of on-the-spot checks on the conditions to be met by the aid beneficiaries and as to the detailed rules for their implementation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13422">
+          <num>60</num>
+          <content eId="para_13422__content">
+            <p>The General Court held, in paragraph 70 of the judgment under appeal, that nothing in Regulation No 1975/2006 can be interpreted as authorising the national authorities to forgo, in certain cases, the counting of animals during on-the-spot checks. The obligation to count animals arises from the application of the provisions of Article 35 of Regulation No 796/2004 to the CANH checks by virtue of the reference made to that effect by Article 15(3) Regulation No 1975/2006, with the aim, inter alia, of verifying `the conformity of the information contained in the databases after they have been drawn up by the Member State'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13423">
+          <num>61</num>
+          <content eId="para_13423__content">
+            <p>Consequently, the General Court held, in paragraph 71 of the judgment under appeal, that the Commission had rightly considered that Articles 10 and 14 of Regulation No 1975/2006 required the animals to be counted during on-the-spot checks.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13424">
+          <num>62</num>
+          <content eId="para_13424__content">
+            <p>Second, it must be noted that Article 10(2) of Regulation No 1975/2006 provides that the Member States are to define suitable methods and means for verifying the conditions for granting support for each support measure. Paragraph 4 of that article limits their power in this respect by providing that `verification of the eligibility criteria shall consist of administrative and on-the-spot checks'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13425">
+          <num>63</num>
+          <content eId="para_13425__content">
+            <p>It follows from this that the Member States are required to organise on-the-spot checks in order to verify that the aid beneficiaries in question fulfil the conditions for granting support provided for by the EU rules and by the national legislation to which those rural development support measures are subject.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13426">
+          <num>64</num>
+          <content eId="para_13426__content">
+            <p>Among the general principles governing the on-the-spot checks laid down by regulation No 1975/2006 is that contained in Article 14(2) of that Regulation, according to which the checks cover all the commitments and obligations of a beneficiary which can be checked at the time of the visit.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13427">
+          <num>65</num>
+          <content eId="para_13427__content">
+            <p>However, Regulation No 1975/2006 does not lay down detailed rules for the checks which the Member States are required to carry out in order to verify that the eligibility criteria for rural development support measures are complied with.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13428">
+          <num>66</num>
+          <content eId="para_13428__content">
+            <p>Nonetheless, Article 15(2) of Regulation No 1975/2006 states that they are to be carried out in accordance with Articles 29, 30 and 32 of Regulation No 796/2004, which relate only to on-the-spot checks of single applications with regard to area-related aid schemes.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13429">
+          <num>67</num>
+          <content eId="para_13429__content">
+            <p>Accordingly, Article 35 of Regulation No 796/2004, concerning on-the-spot checks on livestock measures, cannot, as such, apply to on-the-spot checks for area-related measures such as the CANH; the assessment made by the General Court in that regard is thus vitiated by an error of law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13430">
+          <num>68</num>
+          <content eId="para_13430__content">
+            <p>However, it must be pointed out that where the grounds of a judgment of the General Court disclose an infringement of EU law but the operative part of the judgment is shown to be well founded for other legal reasons, the appeal must be dismissed (judgments of 10 December 2002, Commission v Camar and Tico , C‑312/00 P, EU:C:2002:736, point 57, and of 26 March 2009, SELEX Sistemi Integrati v Commission , C‑113/07 P, EU:C:2009:191, paragraph 81).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13431">
+          <num>69</num>
+          <content eId="para_13431__content">
+            <p>In the present case, in order to reach the conclusion that the French Republic was under an obligation to count animals during on-the-spot checks, the General Court also referred to Articles 10 and 14 of Regulation No 1975/2006.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13432">
+          <num>70</num>
+          <content eId="para_13432__content">
+            <p>In that regard, even if the EU rules on the granting of aid and premiums do not expressly require Member States to introduce specific supervisory measures and inspection procedures, nevertheless, such an obligation may follow, in some cases implicitly, from the fact that under the rules in question it is for the Member States to organise an effective system of inspection and supervision (see judgments of 12 June 1990, Germany v Commission , C‑8/88, EU:C:1990:241, paragraph 16; of 14 April 2005, Spain v Commission , C‑468/02, not published, EU:C:2005:221, paragraph 35, and of 24 April 2008, Belgium v Commission , C‑418/06 P, EU:C:2008:247, paragraph 70).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13433">
+          <num>71</num>
+          <content eId="para_13433__content">
+            <p>As has been stated in paragraphs 63 and 64 above, it follows from Articles 10 and 14 of Regulation No 1975/2006 that Member States are required to organise on-the-spot checks in order to verify that the aid beneficiaries in question fulfil the conditions for the grant of rural development support measures provided for by the EU legislation and by the national legislation. More specifically, Article 14(2) of that regulation requires Member States to carry out on-the-spot checks covering all the commitments and obligations of a beneficiary, including those arising under national law, which can be checked at the time of the visit.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13434">
+          <num>72</num>
+          <content eId="para_13434__content">
+            <p>In the present case, the Plan for Rural Development in France, as approved by the Commission, provided, as a requirement of eligibility for CANH, for a stocking criterion expressed in LU, which sought to control the density of livestock present on forage areas in order to avoid under-grazing and overgrazing. The French authorities were therefore required during the on-the-spot checks to determine the stocking criterion by counting the animals present on the holding at the time of the inspection visit, a count which moreover was provided for in point 7.2 of the CANH circular, in order to verify whether that criterion was adhered to punctually and thus to corroborate the data emerging from the administrative checks.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13435">
+          <num>73</num>
+          <content eId="para_13435__content">
+            <p>Consequently, the French authorities were required, when carrying out on-the-spot checks, to count the animals.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13436">
+          <num>74</num>
+          <content eId="para_13436__content">
+            <p>Consequently, it must be held that the other arguments of the French Republic are not such as to call into question the judgment under appeal and must be declared ineffective. The same is thus true of the argument by which the French Republic contends that the General Court distorted its argument by considering that the French Republic had maintained that Articles 10 and 14 of Regulation No 1975/2006 did not require on-the-spot checks, whereas it considered that those provisions did not require the animals to be counted during such checks. The same applies to the assertion that, contrary to the finding in paragraph 62 of the judgment under appeal, it did not claim that the completeness of the administrative checks made counting animals on the spot superfluous.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13437">
+          <num>75</num>
+          <content eId="para_13437__content">
+            <p>It follows from the foregoing that the second ground of appeal must be rejected.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The third plea in law</p>
+        </tblock>
+        <tblock>
+          <p>Arguments of the parties</p>
+        </tblock>
+        <paragraph eId="para_13438">
+          <num>76</num>
+          <content eId="para_13438__content">
+            <p>By its third ground, the French Republic submits that, in paragraphs 73 to 76 of the judgment under appeal, the General Court erred in law in taking the view that the on-the-spot controls already carried out in the context of the administration of the identification of bovine animals or in the context of beef or ewe premiums did not constitute on-the-spot checks within the meaning of Regulation No 1975/2006.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13439">
+          <num>77</num>
+          <content eId="para_13439__content">
+            <p>First, it submits that its argument before the General Court that the on-the-spot checks already carried out in the context of managing that identification or those premiums relieved the French authorities of the obligation to count the animals during the on-the-spot checks is based on Council Regulation (EC) No 1782/2003 of 29 September 2003 establishing common rules for direct support schemes under the common agricultural policy and establishing certain support schemes for farmers and amending Regulations (EEC) No 2019/93, (EC) No 1452/2001, (EC) No 1453/2001, (EC) No 1454/2001, (EC) No 1868/94, (EC) No 1251/1999, (EC) No 1254/1999, (EC) No 1673/2000, (EEC) No 2358/71 and (EC) No 2529/2001 ( OJ 2003 L 270, p. 1) and No 1975/2006. First, the second paragraph of Article 26 of Regulation No 1782/2003 provides that Member States may, for the purposes of applying EU or national support schemes, incorporate in their administration and control procedures one or more components of the integrated administration and control system in order to avoid any duplication of sectoral checks of the same type. Second, it is apparent from Article 5(2) of Regulation No 1975/2006 that, where possible, on-the-spot checks provided for in Articles 12, 20 and 27 of that regulation and other checks provided for in rules regarding agricultural subsidies are to be carried out at the same time.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13440">
+          <num>78</num>
+          <content eId="para_13440__content">
+            <p>The French Republic concludes from this that the French authorities were entitled to check for compliance with the livestock density criterion of CANH aid at the same time as checking for compliance with the conditions governing the eligibility for beef premiums or provisions relating to identification of bovine animals. It therefore contends that the General Court, in holding that on-the-spot checks under Article 12 et seq. of Regulation No 1975/2006 and on-the-spot checks for the purposes of establishing the database could not be carried out at the same time, erred in law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13441">
+          <num>79</num>
+          <content eId="para_13441__content">
+            <p>Second, the French Republic considers that the General Court also erred in law in holding, in paragraphs 73 and 74 of the judgment under appeal, that, having regard to the conditions laid down in Article 12 et seq. of Regulation No 1975/2006, the on-the-spot inspection system for CANH aid was autonomous and independent of the on-the-spot inspection system put in place for the identification of bovine animals and beef premiums.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13442">
+          <num>80</num>
+          <content eId="para_13442__content">
+            <p>The French Republic does not dispute that those articles, which govern the on-the-spot checks for CANH aid measures, constitute specific rules. However, it considers that it is not apparent from recitals 2 and 5 of Regulation No 1975/2006 that the two types of system of on-the-spot checks are independent of one another. In its view, those recitals state that specific administration and control rules should be laid down in order to take account of the special characteristics of the support schemes under Axis 2. The content and eligibility criteria of those schemes are to be defined by the Member States. In those circumstances, the Commission could not lay down, in that regulation, specific control measures which the Member States would have to put in place in order to verify that the eligibility conditions for each aid measure defined in Axis 2 was complied with.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13443">
+          <num>81</num>
+          <content eId="para_13443__content">
+            <p>The French Republic takes the view that the sole purpose of recitals 2 and 5 is to indicate that the administration and control rules set out in the first pillar of the common agricultural policy must be adjusted, which cannot be interpreted as requiring Member States to duplicate control measures already carried out in the context of verifying that the eligibility conditions for a different aid measure has been complied with. Putting in place additional checks is necessary only if the checks already carried out in respect of another aid measure were not sufficient to verify that all the eligibility conditions in respect of the measure falling under Axis 2 were complied with.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13444">
+          <num>82</num>
+          <content eId="para_13444__content">
+            <p>The French Republic considers that the checks carried out in the context of the identification of bovine animals and beef premiums make it possible to check the stocking density for the CANH aid measures. In the case of ovine animals, additional control measures have been put in place, namely the counting of animals during on-the-spot checks.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13445">
+          <num>83</num>
+          <content eId="para_13445__content">
+            <p>The Commission considers that the first part of the plea is inadmissible, since the first paragraph of Article 26 of Regulation No 1782/2003 and Article 5(2) of Regulation No 1975/2006 are referred to for the first time by the French Republic at the appeal stage.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13446">
+          <num>84</num>
+          <content eId="para_13446__content">
+            <p>Moreover, it considers that the French Republic is misinterpreting those provisions. The first paragraph of Article 26 of Regulation No 1782/2003 only provides that Member States are to ensure that the administration and control procedures applied to the support schemes listed in Annex V to that regulation are compatible with the integrated system and to draw certain inferences from this. For its part, Article 5(2) of Regulation No 1975/2006, referring to the controls provided for in the Union rules on agricultural subsidies, does not concern the on-the-spot checks carried out for the identification and registration of bovine animals. It provides that such checks must take place at the same time, which is not the case here.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13447">
+          <num>85</num>
+          <content eId="para_13447__content">
+            <p>The Commission contests the second part of the plea, in that it considers that the French Republic submits that the aid measures adopted in the context of rural development are not subject to the obligation to comply with specific provisions of EU law, on the ground that their eligibility criteria fall within the exclusive domain of the Member States. It states that the detailed rules governing the on-the-spot checks carried out in the present case do not satisfy the requirements of Regulation No 1975/2006. Moreover, it contends that a part of the arguments raised constitute a new plea.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Findings of the Court</p>
+        </tblock>
+        <paragraph eId="para_13448">
+          <num>86</num>
+          <content eId="para_13448__content">
+            <p>By its third plea, the French Republic contests the grounds of the General Court set out in paragraphs 73 to 76 of the judgment under appeal by which it held that the existence of on-the-spot checks carried out for the purpose of establishing databases, in particular in the context of the administration of the identification of bovine animals or beef premiums, did not relieve the French authorities of the need to carry out new checks. In the Court's view, the administration and control rules laid down by Regulation No 1975/2006 constituted specific measures in those areas and the verifications carried out for the establishment of the databases did not constitute such checks, since those checks were intended not `to assess the particular conditions of the measures in support of rural development', but to verify compliance of all the animals on a holding for which identification of bovine animals is provided for under Regulation No 1760/2000.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13449">
+          <num>87</num>
+          <content eId="para_13449__content">
+            <p>As a preliminary point, it must be observed that, while the French Republic refers to ewe premiums in the wording of its third ground, in paragraph 74 of the judgment under appeal, the General Court referred to the on-the-spot checks carried out in the context of the administration of beef premiums, which the appeal indeed refers to in the arguments in support of that ground. Consequently, in so far as it relates to ewe premiums, that ground must be declared inadmissible for lack of precision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13450">
+          <num>88</num>
+          <content eId="para_13450__content">
+            <p>That said, as the Commission contends, it must be held that, by the first part of that plea, the French Republic refers, for the first time at the appeal stage, to the first paragraph of Article 26 of Regulation No 1782/2003 and Article 5(2) of Regulation No 1975/2006 in order to maintain that the on-the-spot checks already carried out in the context of the administration of identification of bovine animals or beef premiums relieved the French authorities of the need to count animals in the on-the-spot checks provided for in that regulation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13451">
+          <num>89</num>
+          <content eId="para_13451__content">
+            <p>It should be noted, however, that in its action for annulment the French Republic had argued that the on-the-spot checks already carried out for the purpose of establishing the database for the administration of identification of bovine animals or beef premiums relieved the French authorities of the need to carry out on-the-spot checks under Article 12 et seq. of Regulation No 1975/2006.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13452">
+          <num>90</num>
+          <content eId="para_13452__content">
+            <p>Thus, by arguing, at the appeal stage, that the first paragraph of Article 26 of Regulation No 1782/2003 and Article 5(2) of Regulation No 1975/2006 is applicable to the present case, the French Republic indicates the legal bases capable of supporting the argument which it had made at first instance.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13453">
+          <num>91</num>
+          <content eId="para_13453__content">
+            <p>In a dispute between the parties concerning the interpretation and application of provisions of EU law, as is the case here, the EU judicature is required to apply the relevant rules of law for the solution of the dispute, at first instance, to the facts put before it by the parties and, at the appeal stage, to the grounds of the judgment by which the General Court responded to the arguments put before it.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13454">
+          <num>92</num>
+          <content eId="para_13454__content">
+            <p>Since the appeal challenges the assessment made by the General Court in paragraphs 73 to 76 of the judgment under appeal, the argument alleging infringement by the Commission of the first paragraph of Article 26 of Regulation No 1782/2003 and Article 5(2) of Regulation No 1975/2006 cannot be regarded as new and must be examined on the merits.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13455">
+          <num>93</num>
+          <content eId="para_13455__content">
+            <p>It should be noted that, in view of the very general nature of the obligations imposed on the Member States by the first paragraph of Article 26 of Regulation No 1782/2003, that provision is irrelevant for the purpose of determining whether the on-the-spot checks already carried out on the administration of identification of bovine animals or beef premiums relieved the French authorities of the need to count the animals during the on-the-spot checks provided for in Articles 10 and 14 of Regulation No 1975/2006.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13456">
+          <num>94</num>
+          <content eId="para_13456__content">
+            <p>By contrast, Article 5(2) of Regulation No 1975/2006 expressly provides that, where possible, the on-the-spot checks provided for in Articles 12, 20 and 27 of that regulation and other checks provided for in EU rules regarding agricultural subsidies are to be carried out at the same time.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13457">
+          <num>95</num>
+          <content eId="para_13457__content">
+            <p>It is common ground that the on-the-spot checks to be carried out in respect of CANH fall within the scope of Article 12 of Regulation No 1975/2006.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13458">
+          <num>96</num>
+          <content eId="para_13458__content">
+            <p>Accordingly, Article 5(2) of Regulation No 1975/2006 allows, in principle, the Member States to carry out on-the-spot checks in respect of measures relating to the sustainable use of agricultural land provided for in Article 36(a) of Regulation No 1698/2005, such as the CANH, together with other controls provided for in EU rules regarding agricultural subsidies.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13459">
+          <num>97</num>
+          <content eId="para_13459__content">
+            <p>It follows that by holding, in paragraph 74 of the judgment under appeal, that the system of on-the-spot checks to be carried out pursuant to Article 12 et seq. of Regulation No 1975/2006 was autonomous and independent of the checks carried out in the context of the administration of identification of bovine animals or beef premiums, without determining, first, whether the latter controls constituted controls provided for in the EU rules regarding agricultural subsidies within the meaning of Article 5(2) of that regulation and, second, whether they could be carried out at the same time as the checks provided for in Article 12 et seq. of that regulation, the General Court erred in law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13460">
+          <num>98</num>
+          <content eId="para_13460__content">
+            <p>Consequently, without it being necessary to examine the other part of the third ground, the first part of that ground must be upheld and, accordingly, the judgment under appeal must be set aside.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The action before the General Court</p>
+        </tblock>
+        <paragraph eId="para_13461">
+          <num>99</num>
+          <content eId="para_13461__content">
+            <p>Pursuant to the first paragraph of Article 61 of the Statute of the Court of Justice of the European Union, if the Court quashes the decision of the General Court, it may itself give final judgment in the matter, where the state of the proceedings so permits.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13462">
+          <num>100</num>
+          <content eId="para_13462__content">
+            <p>That is not the position in the present case.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13463">
+          <num>101</num>
+          <content eId="para_13463__content">
+            <p>The answer to be given to the question whether checks carried out in the context of the administration of the identification of bovine animals or bovine animal premiums constitute controls provided for in the EU rules regarding agricultural subsidies within the meaning of Article 5(2) of Regulation No 1975/2006 might lead, as the case may be, the General Court to have to examine once again the second part of the third plea of the action for annulment, although the grounds in the judgment under appeal relating to that second part have not been challenged in the context of the present appeal.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13464">
+          <num>102</num>
+          <content eId="para_13464__content">
+            <p>Consequently, the case must be referred back to the General Court and the costs must be reserved.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <p>On those grounds, the Court (Eighth Chamber) hereby 1. Sets aside the judgment of the General Court of the European Union of 30 April 2015, France v Commission (T‑259/13, not published,EU:T:2015:250); 2. Refers the case back to the General Court of the European Union; 3. Reserves the costs.</p>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures](</p>
+      <p>1</p>
+      <p>)Language of the case: French.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

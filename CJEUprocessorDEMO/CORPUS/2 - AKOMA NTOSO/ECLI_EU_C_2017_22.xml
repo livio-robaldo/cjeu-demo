@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+      <references source="#source">
+        <TLCOrganization eId="institution_27" showAs="" href="/akn/ontology/Organization/Institution/institution_27" />
+        <TLCOrganization eId="institution_29" showAs="" href="/akn/ontology/Organization/Institution/institution_29" />
+        <TLCOrganization eId="institution_28" showAs="" href="/akn/ontology/Organization/Institution/institution_28" />
+      </references>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Eighth Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>18 January 2017 (</p>
+      </tblock>
+      <tblock>
+        <p>1)</p>
+      </tblock>
+      <p>`Reference for a preliminary ruling -- Taxation -- Common system of value added tax -- Taxable transactions -- Concept of `supply of services for consideration' -- Payment of fees, in respect of fair compensation, to organisations collectively managing copyright and related rights -- Not included' In Case C‑37/16, REQUEST for a preliminary ruling under Article 267 TFEU from the Naczelny Sąd Administracyjny (Supreme Administrative Court, Poland), made by decision of 12 October 2015, received at the Court on 22 January 2016, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#institution_27">Minister Finansów</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#institution_29">Stowarzyszenie Artystów Wykonawców Utworów Muzycznych i Słowno-Muzycznych SAWP (SAWP)</party>
+      </p>
+      <p>, intervening parties:</p>
+      <p>
+        <party as="intervening" refersTo="#institution_28">Prokuratura Generalna</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="intervening" refersTo="#">Stowarzyszenie Zbiorowego Zarządzania Prawami Autorskimi Twórców Dzieł Naukowych i Technicznych Kopipol</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="intervening" refersTo="#">Stowarzyszenie Autorów i Wydawców Copyright Polska</party>
+      </p>
+      <p>, THE COURT (Eighth Chamber), composed of M. Vilaras, President of the Chamber, J. Malenovský (Rapporteur) and M. Safjan, Judges, Advocate General: M. Wathelet, Registrar: A. Calot Escobar, having regard to the written procedure, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>
+            <organization refersTo="#institution_29">Stowarzyszenie Artystów Wykonawców Utworów Muzycznych i Słowno-Muzycznych SAWP (SAWP)</organization>
+          </p>
+          <p>, by A. Załęska, tax adviser,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>Stowarzyszenie Zbiorowego Zarządzania Prawami Autorskimi Twórców Dzieł Naukowych i Technicznych Kopipol, by M. Poniewski, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>Stowarzyszenie Autorów i Wydawców Copyright Polska, by T. Michalik, tax adviser,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Polish Government, by B. Majczyna, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Greek Government, by A. Magrippi and S. Charitaki, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by L. Lozano Palacios and M. Owsiany-Hornung, acting as Agents, having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_4048">
+          <num>1</num>
+          <content eId="para_4048__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax ( OJ 2006 L 347, p. 1), as amended by Council Directive 2010/45/EU of 13 July 2010 ( OJ 2010 L 189, p. 1) ( `the VAT Directive').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4049">
+          <num>2</num>
+          <content eId="para_4049__content">
+            <p>The request has been made in proceedings between the</p>
+            <p>
+              <organization refersTo="#institution_27">Minister Finansów</organization>
+            </p>
+            <p>(Minister for Finance, Poland) and</p>
+            <p>
+              <organization refersTo="#institution_29">Stowarzyszenie Artystów Wykonawców Utworów Muzycznych i Słowno-Muzycznych SAWP (SAWP)</organization>
+            </p>
+            <p>(Society for performers of musical works with or without words (</p>
+            <p>
+              <organization refersTo="#institution_29">SAWP</organization>
+            </p>
+            <p>), established in Warsaw (Poland)) concerning whether the fee on devices for recording or reproducing copyright works or the subject matter of related rights and on media for recording or copying such works or subject matter is subject to value added tax (VAT).</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <tblock>
+          <p>The VAT Directive</p>
+        </tblock>
+        <paragraph eId="para_4050">
+          <num>3</num>
+          <content eId="para_4050__content">
+            <p>The VAT Directive provides in Article 2(1)(c): `The following transactions shall be subject to VAT: ...</p>
+            <blockList>
+              <item>
+                <num>(c)</num>
+                <p>the supply of services for consideration within the territory of a Member State by a taxable person acting as such'.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4051">
+          <num>4</num>
+          <content eId="para_4051__content">
+            <p>Article 24(1) of the VAT Directive reads as follows: ```Supply of services '' shall mean any transaction which does not constitute a supply of goods.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4052">
+          <num>5</num>
+          <content eId="para_4052__content">
+            <p>Article 25 of the VAT Directive states: `A supply of services may consist, inter alia, in one of the following transactions:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>the assignment of intangible property, whether or not the subject of a document establishing title;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>the obligation to refrain from an act, or to tolerate an act or situation;</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>the performance of services in pursuance of an order made by or in the name of a public authority or in pursuance of the law.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4053">
+          <num>6</num>
+          <content eId="para_4053__content">
+            <p>Article 220(1) of the VAT Directive provides: `Every taxable person shall ensure that, in respect of the following, an invoice is issued, either by himself or by his customer or, in his name and on his behalf, by a third party:</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>supplies of goods or services which he has made to another taxable person or to a non-taxable legal person; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Directive 2001/29/EC</p>
+        </tblock>
+        <paragraph eId="para_4054">
+          <num>7</num>
+          <content eId="para_4054__content">
+            <p>Directive 2001/29/EC of the European Parliament and of the Council of 22 May 2001 on the harmonisation of certain aspects of copyright and related rights in the information society ( OJ 2001 L 167, p. 10) provides in Article 2: `Member States shall provide for the exclusive right to authorise or prohibit direct or indirect, temporary or permanent reproduction by any means and in any form, in whole or in part:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>for authors, of their works;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>for performers, of fixations of their performances;</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>for phonogram producers, of their phonograms;</p>
+              </item>
+              <item>
+                <num>(d)</num>
+                <p>for the producers of the first fixations of films, in respect of the original and copies of their films;</p>
+              </item>
+              <item>
+                <num>(e)</num>
+                <p>for broadcasting organisations, of fixations of their broadcasts, whether those broadcasts are transmitted by wire or over the air, including by cable or satellite.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4055">
+          <num>8</num>
+          <content eId="para_4055__content">
+            <p>Article 5(2)(b) of Directive 2001/29 provides: `Member States may provide for exceptions or limitations to the reproduction right provided for in Article 2 in the following cases: ...</p>
+            <blockList>
+              <item>
+                <num>(b)</num>
+                <p>in respect of reproductions on any medium made by a natural person for private use and for ends that are neither directly nor indirectly commercial, on condition that the rightholders receive fair compensation which takes account of the application or non-application of technological measures referred to in Article 6 to the work or subject matter concerned'.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Polish law</p>
+        </tblock>
+        <tblock>
+          <p>Provisions relating to VAT</p>
+        </tblock>
+        <paragraph eId="para_4056">
+          <num>9</num>
+          <content eId="para_4056__content">
+            <p>The ustawa o podatku od towarów i usług (Law on the tax on goods and services) of 11 March 2004 (Dz. U. of 2011, No 177, heading 1054), in the version applicable at the material time, provides in Article 5(1): `The following shall be subject to the tax on goods and services:</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>the supply of goods or services for consideration within national territory'.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4057">
+          <num>10</num>
+          <content eId="para_4057__content">
+            <p>Article 8(1) and (2a) of that law provides: `1.   The supply of services referred to in Article 5(1)(1) shall mean any supply to a natural person, legal person or organisational unit without legal personality which does not constitute a supply of goods within the meaning of Article 7, including:</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>the assignment of intangible and legal assets, regardless of the form in which the legal transaction is effected; ... 2a.   Where a taxable person acting in his own name but on behalf of another person takes part in a supply of services, he shall be deemed to have received and supplied those services himself. ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Provisions relating to copyright and related rights</p>
+        </tblock>
+        <paragraph eId="para_4058">
+          <num>11</num>
+          <content eId="para_4058__content">
+            <p>The ustawa o prawie autorskim i prawach pokrewnych (Law on copyright and related rights) of 4 February 1994 (Dz. U. of 2006, No 90, heading 631), in the version applicable at the material time ( `the Law of 4 February 1994 on copyright and related rights'), provides in Article 20: `1.   Producers and importers of:</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>audio recorders, video recorders and other similar devices,</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>photocopiers, scanners and other similar reprographic devices enabling a published work to be copied in full or in part,</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>blank media for recording or reproducing, for personal use, works or the subject matter of related rights, using devices referred to in subparagraphs 1 and 2, shall be required to pay to collective management organisations determined pursuant to paragraph 5, and acting on behalf of authors, performers, phonogram producers, videogram producers and publishers, fees in an amount not exceeding 3% of the amount due by virtue of the sale of those devices and media. 2.   The amount obtained by virtue of the fees from the sale of audio recorders and other similar devices and the related blank media shall be paid in the following percentages to the following persons:</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>50% -- authors;</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>25% -- performers;</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>25% -- phonogram producers. ... 4.   The amount obtained by virtue of the fees from the sale of reprographic devices and the related blank media shall be paid in the following percentages to the following persons:</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>50% -- authors;</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>50% -- publishers. 5.   The minister responsible for cultural and national heritage conservation matters, after consulting organisations collectively managing copyright and related rights, associations of authors and of performers and organisations of phonogram producers, of videogram producers and of publishers, as well as organisations of producers or importers of the devices and blank media that are referred to in paragraph 1, shall, by means of an order, determine: the categories of the devices and media and the amount of the fees referred to in paragraph 1, guided by the capacity of the devices and media to reproduce works and also by their use to perform functions other than the reproduction of works; the method of levying and dividing the fees; and the organisations collectively managing copyright or related rights authorised to levy them.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4059">
+          <num>12</num>
+          <content eId="para_4059__content">
+            <p>As stated in Article 20 1(1) of the Law of 4 February 1994 on copyright and related rights: `Possessors of reprographic devices who carry on an economic activity relating to the reproduction of works for the personal use of third parties shall be required to pay, through an organisation collectively managing copyright or related rights, fees amounting to 3% of the revenue in that respect to authors and publishers, save where the reproduction is made pursuant to a contract with the rightholders. Those fees shall accrue to the authors and publishers in equal parts.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4060">
+          <num>13</num>
+          <content eId="para_4060__content">
+            <p>Article 104(1) of the Law of 4 February 1994 on copyright and related rights is worded as follows: `Associations of authors, performers and producers, or broadcasting organisations, whose task under their respective statutes is to manage collectively and protect the copyright or related rights entrusted to them and to exercise the rights under this Law shall be organisations collectively managing copyright and related rights ..., within the meaning of this Law.'</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_4061">
+          <num>14</num>
+          <content eId="para_4061__content">
+            <p>
+              <organization refersTo="#institution_29">SAWP</organization>
+            </p>
+            <p>requested the Minister for Finance to adopt a position as to whether fees on blank media and recording and reproduction devices paid by producers and importers of such devices and media pursuant to Article 20 of the Law of 4 February 1994 on copyright and related rights are subject to VAT.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4062">
+          <num>15</num>
+          <content eId="para_4062__content">
+            <p>By an individual opinion of 20 August 2012, the Minister for Finance stated that the sums paid to</p>
+            <p>
+              <organization refersTo="#institution_29">SAWP</organization>
+            </p>
+            <p>by producers and importers of blank media and recording and reproduction devices constitute a payment for the use of the copyright or related rights that are connected with the sale of equipment for copying and recording works and that, therefore, those sums must be regarded as remuneration for the services supplied by the holders of copyright or related rights and must, as such, be subject to VAT.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4063">
+          <num>16</num>
+          <content eId="para_4063__content">
+            <p>
+              <organization refersTo="#institution_29">SAWP</organization>
+            </p>
+            <p>then brought an action before the Wojewódzki Sąd Administracyjny w Warszawie (Regional Administrative Court, Warsaw, Poland) and requested that the individual opinion be annulled.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4064">
+          <num>17</num>
+          <content eId="para_4064__content">
+            <p>By judgment of 12 June 2013, le Wojewódzki Sąd Administracyjny w Warszawie (Regional Administrative Court, Warsaw) held that the action was well founded.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4065">
+          <num>18</num>
+          <content eId="para_4065__content">
+            <p>The Minister for Finance appealed on a point of law to the Naczelny Sąd Administracyjny (Supreme Administrative Court, Poland). That court, stating that there are currently two contradictory judicial precedents in Poland on this issue, decided to stay the proceedings and refer the following questions to the Court of Justice for a preliminary ruling: `1. Do authors, performers and other rightholders supply services, within the meaning of Articles 24(1) and 25(a) of the VAT Directive, to producers and importers of audio recorders and other similar devices and of blank media on whom collective management organisations levy on behalf of those authors, performers and other rightholders, but in their own name, fees on those devices and media by virtue of their sale? 2. If the answer to Question 1 is in the affirmative, are collective management organisations, in levying a fee on devices and media by virtue of their sale by producers and importers, acting as taxable persons, within the meaning of Article 28 of the VAT Directive, who are required to document those activities by means of an invoice for the purposes of Article 220(1), point 1, of that directive, issued to producers and importers of audio recorders and other similar devices and of blank media, showing VAT as due by virtue of the fees, and, at the time at which the fees levied on behalf of the authors, performers and other rightholders are distributed to them, are the latter required to document receipt of the fees by means of an invoice indicating the VAT, issued to the collective management organisation levying the fee?'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the questions referred</p>
+        </tblock>
+        <paragraph eId="para_4066">
+          <num>19</num>
+          <content eId="para_4066__content">
+            <p>By its first question, the referring court asks, in essence, whether the VAT Directive must be interpreted as meaning that holders of reproduction rights make a supply of services, within the meaning of that directive, to producers and importers of blank media and of recording and reproduction devices on whom organisations collectively managing copyright and related rights levy on behalf of those rightholders, but in their own name, fees in respect of the sale of those devices and media.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4067">
+          <num>20</num>
+          <content eId="para_4067__content">
+            <p>Article 24(1) of the VAT Directive defines a `supply of services' by way of contrast with `a supply of goods'. As set out in that provision, any transaction which does not constitute a supply of goods must be considered to be a supply of services.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4068">
+          <num>21</num>
+          <content eId="para_4068__content">
+            <p>In the present instance, it is common ground that the transaction at issue in the main proceedings does not constitute a supply of goods as referred to in Article 24(1) of the VAT Directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4069">
+          <num>22</num>
+          <content eId="para_4069__content">
+            <p>Article 25 of the VAT Directive sets out an indicative list of three different transactions that can be classified as supplies of services, including, in Article 25(a), one consisting in the assignment of intangible property.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4070">
+          <num>23</num>
+          <content eId="para_4070__content">
+            <p>In respect of the applicability of Article 25, the referring court raises the question whether a transaction such as that at issue in the main proceedings can constitute the assignment of intangible property within the meaning of Article 25(a), and therefore be classified as a supply of services.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4071">
+          <num>24</num>
+          <content eId="para_4071__content">
+            <p>However, prior to that question, it should be determined whether such a transaction is carried out for consideration. Under Article 2(1)(c) of the VAT Directive, in order for such a supply of services to be covered by the directive it must in any event be made for consideration.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4072">
+          <num>25</num>
+          <content eId="para_4072__content">
+            <p>It should be recalled that, in accordance with settled case-law, a supply of services is made for consideration, within the meaning of the VAT Directive, only if there is a legal relationship between the provider of the service and the recipient pursuant to which there is reciprocal performance, the remuneration received by the provider of the service constituting the value actually given in return for the service supplied to the recipient (see judgment of 22 June 2016, Český rozhlas, C‑11/15, EU:C:2016:470, paragraph 21 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4073">
+          <num>26</num>
+          <content eId="para_4073__content">
+            <p>The Court has held that that is the case if there is a direct link between the service supplied and the consideration received, the sums paid constituting actual consideration for an identifiable service supplied in the context of such a legal relationship (judgment of 18 July 2007, Société thermale d'Eugénie-les-Bains, C‑277/05, EU:C:2007:440, paragraph 19).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4074">
+          <num>27</num>
+          <content eId="para_4074__content">
+            <p>In the present instance, first, it does not appear that there is a legal relationship pursuant to which there is reciprocal performance by, on the one hand, holders of reproduction rights or, as the case may be, the organisation collectively managing such rights and, on the other, producers and importers of blank media and of recording and reproduction devices.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4075">
+          <num>28</num>
+          <content eId="para_4075__content">
+            <p>Indeed, the obligation to pay fees, such as those at issue in the main proceedings, is owed by those producers and importers by virtue of the national legislation which also determines their amount.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4076">
+          <num>29</num>
+          <content eId="para_4076__content">
+            <p>Secondly, the obligation on producers and importers of blank media and of recording and reproduction devices to pay fees cannot be regarded as resulting from the supply of a service for which it constitutes the direct consideration.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4077">
+          <num>30</num>
+          <content eId="para_4077__content">
+            <p>It is apparent from the order for reference that fees such as those at issue in the main proceedings are intended to finance fair compensation for holders of reproduction rights. However, the fair compensation does not constitute the direct consideration for any supply of services, because it is linked to the harm resulting for those rightholders from the reproduction of their protected works without their authorisation (see, to that effect, judgment of 21 October 2010, Padawan, C‑467/08, EU:C:2010:620, paragraph 40).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4078">
+          <num>31</num>
+          <content eId="para_4078__content">
+            <p>Consequently, a transaction such as that at issue in the main proceedings cannot be regarded as being carried out for consideration, for the purposes of Article 2(1)(c) of the VAT Directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4079">
+          <num>32</num>
+          <content eId="para_4079__content">
+            <p>Accordingly, and in the light of the consideration set out in paragraph 24 of the present judgment, even supposing that holders of reproduction rights may effect an assignment of intangible property, within the meaning of Article 25(a) of the VAT Directive, to producers and importers of blank media and of recording and reproduction devices, an issue which it is not necessary to examine, that transaction is in any event not covered by the directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4080">
+          <num>33</num>
+          <content eId="para_4080__content">
+            <p>It follows from all the foregoing that the answer to the first question is that the VAT Directive must be interpreted as meaning that holders of reproduction rights do not make a supply of services, within the meaning of that directive, to producers and importers of blank media and of recording and reproduction devices on whom organisations collectively managing copyright and related rights levy on behalf of those rightholders, but in their own name, fees in respect of the sale of those devices and media.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4081">
+          <num>34</num>
+          <content eId="para_4081__content">
+            <p>As the second question is asked if the first question is answered in the affirmative, there is no need to answer it.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_4082">
+          <num>35</num>
+          <content eId="para_4082__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the referring court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Eighth Chamber) hereby rules: Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax, as amended by Council Directive 2010/45/EU of 13 July 2010, must be interpreted as meaning that holders of reproduction rights do not make a supply of services, within the meaning of that directive, to producers and importers of blank media and of recording and reproduction devices on whom organisations collectively managing copyright and related rights levy on behalf of those rightholders, but in their own name, fees in respect of the sale of those devices and media.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]</p>
+      <blockList>
+        <item>
+          <num>( 1)</num>
+          <p>Language of the case: Polish.</p>
+        </item>
+      </blockList>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

@@ -1,0 +1,941 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (First Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>26 January 2017 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>`Appeal -- Agreements, decisions and concerted practices -- Bathroom fittings and fixtures markets of Belgium, Germany, France, Italy the Netherlands and Austria -- Coordination of selling prices and exchange of sensitive business information -- Leniency programme -- Regulation (EC) No 1/2003 -- Article 23(2) -- Ceiling of 10% of turnover -- Exercise of unlimited jurisdiction' In Case C‑619/13 P, APPEAL under Article 56 of the Statute of the Court of Justice of the European Union, brought on 25 November 2013, Mamoli Robinetteria SpA, established in Milan (Italy), represented by F. Capelli and M. Valcada, avvocati, appellant, the other party to the proceedings being: European Commission, represented by L. Malferrari and F. Ronkes Agerbeek, acting as Agents, assisted by F. Ruggeri Laderchi, avvocato, with an address for service in Luxembourg, defendant at first instance, THE COURT (First Chamber), composed of A. Tizzano, Vice-President of the Court, acting as President of the First Chamber, M. Berger, E. Levits, S. Rodin (Rapporteur) and F. Biltgen, Judges, Advocate General: M. Wathelet, Registrar: K. Malacek, Administrator, having regard to the written procedure and further to the hearing on 10 September 2015, having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,</p>
+      <p>gives the following</p>
+      <tblock>
+        <p>Judgment</p>
+      </tblock>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_11583">
+          <num>1</num>
+          <content eId="para_11583__content">
+            <p>By its appeal, Mamoli Robinetteria SpA asks the Court of Justice to set aside the judgment of the General Court of the European Union of 16 September 2013, Mamoli Robinetteria v Commission(T‑376/10, `the judgment under appeal', EU:T:2013:442), by which the General Court dismissed its action for partial annulment of Commission Decision C(2010) 4185 final of 23 June 2010 relating to a proceeding under Article 101 TFEU and Article 53 of the EEA Agreement (Case COMP/39092 -- Bathroom Fittings and Fixtures) ( `the decision at issue'), in so far as the decision concerns it, or, in the alternative, for cancellation or reduction of the fine imposed on it in that decision.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>Regulation (EC) No 1/2003</p>
+        </tblock>
+        <paragraph eId="para_11584">
+          <num>2</num>
+          <content eId="para_11584__content">
+            <p>Council Regulation (EC) No 1/2003 of 16 December 2002 on the implementation of the rules on competition laid down in Articles [101] and [102 TFEU] ( OJ 2003 L 1, p. 1) provides, in Article 23(2) and (3): `2.   The Commission may by decision impose fines on undertakings and associations of undertakings where, either intentionally or negligently:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>they infringe Article [101] or [102 TFEU] ... ... For each undertaking and association of undertakings participating in the infringement, the fine shall not exceed 10% of its total turnover in the preceding business year. ... 3.   In fixing the amount of the fine, regard shall be had both to the gravity and to the duration of the infringement.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The 2006 Guidelines</p>
+        </tblock>
+        <paragraph eId="para_11585">
+          <num>3</num>
+          <content eId="para_11585__content">
+            <p>The Guidelines on the method of setting fines imposed pursuant to Article 23(2)(a) of Regulation No 1/2003 ( OJ 2006 C 210, p. 2; `the 2006 Guidelines') state, in point 2, that, so far as concerns the setting of fines, `the Commission must have regard both to the gravity and to the duration of the infringement' and that `the fine imposed may not exceed the limits specified in Article 23(2), second and third subparagraphs, of Regulation No 1/2003'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11586">
+          <num>4</num>
+          <content eId="para_11586__content">
+            <p>Points 23, 25, 28, 29 and 37 of the 2006 Guidelines state: `23. Horizontal price-fixing ... agreements ..., which are usually secret, are, by their very nature, among the most harmful restrictions of competition. As a matter of policy, they will be heavily fined. Therefore, the proportion of the value of sales taken into account for such infringements will generally be set at the higher end of the scale. ... 25. In addition, irrespective of the duration of the undertaking's participation in the infringement, the Commission will include in the basic amount a sum of between 15% and 25% of the value of sales as defined in Section A above in order to deter undertakings from even entering into horizontal price-fixing ... agreements ... ... 28. The basic amount may be increased where the Commission finds that there are aggravating circumstances, such as: ... 29. The basic amount may be reduced where the Commission finds that mitigating circumstances exist, such as: ... 37. Although these Guidelines present the general methodology for the setting of fines, the particularities of a given case or the need to achieve deterrence in a particular case may justify departing from such methodology or from the limits specified in point 21.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Background to the dispute and the decision at issue</p>
+        </tblock>
+        <paragraph eId="para_11587">
+          <num>5</num>
+          <content eId="para_11587__content">
+            <p>The background to the dispute was set out in paragraphs 1 to 21 of the judgment under appeal and may be summarised as follows.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11588">
+          <num>6</num>
+          <content eId="para_11588__content">
+            <p>The appellant is an Italian undertaking which manufactures exclusively taps and fittings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11589">
+          <num>7</num>
+          <content eId="para_11589__content">
+            <p>On 15 July 2004, Masco Corp. and its subsidiaries, including Hansgrohe AG, which manufactures taps and fittings, and Hüppe GmbH, which manufactures shower enclosures, informed the Commission of the existence of a cartel in the bathroom fittings and fixtures sector and submitted an application for immunity from fines under the Commission notice on immunity from fines and reduction of fines in cartel cases ( OJ 2002 C 45, p. 3, `the 2002 Leniency Notice') or, failing that, for a reduction in those fines.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11590">
+          <num>8</num>
+          <content eId="para_11590__content">
+            <p>On 9 and 10 November 2004, the Commission conducted unannounced inspections at the premises of various companies and national industry associations operating in the bathroom fittings and fixtures sector. Between 15 November 2005 and 16 May 2006, the Commission sent requests for information to those companies and associations, including the appellant. It then, on 26 March 2007, adopted a statement of objections. The statement of objections was notified to the appellant.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11591">
+          <num>9</num>
+          <content eId="para_11591__content">
+            <p>On 20 January 2006, the appellant also applied for immunity from fines or, failing that, a reduction in those fines.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11592">
+          <num>10</num>
+          <content eId="para_11592__content">
+            <p>Following a hearing, which was held from 12 to 14 November 2007, the sending, on 9 July 2009, of a letter of facts to certain companies, which did not include the appellant, and, between 19 June 2009 and 8 March 2010, further requests for information that, conversely, were addressed to the appellant, the Commission, on 23 June 2010, adopted the decision at issue.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11593">
+          <num>11</num>
+          <content eId="para_11593__content">
+            <p>By that decision, the Commission found there to have been an infringement of Article 101(1) TFEU and Article 53 of the Agreement on the European Economic Area of 2 May 1992 ( OJ 1994 L 1, p. 3) in the bathroom fittings and fixtures sector. That infringement, in which 17 undertakings had allegedly participated, was said to have taken place over various periods between 16 October 1992 and 9 November 2004 and to have taken the form of anticompetitive agreements or concerted practices covering Belgium, Germany, France, Italy, the Netherlands and Austria.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11594">
+          <num>12</num>
+          <content eId="para_11594__content">
+            <p>More specifically, the Commission stated, in that decision, that the infringement found consisted in</p>
+            <blockList>
+              <item>
+                <num>(i)</num>
+                <p>the coordination by those bathroom fittings and fixtures manufacturers of annual price increases and additional pricing elements within the framework of regular meetings of national industry associations;</p>
+              </item>
+              <item>
+                <num>(ii)</num>
+                <p>the fixing or coordination of prices on the occasion of specific events such as the increase of raw material costs, the introduction of the euro and the introduction of road tolls; and</p>
+              </item>
+              <item>
+                <num>(iii)</num>
+                <p>the disclosure and exchange of sensitive business information. The Commission also found that price setting in the bathroom fittings and fixtures industry followed an annual cycle. In that context, the manufacturers set price lists which generally remained in force for a year and formed the basis for commercial relations with wholesalers.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11595">
+          <num>13</num>
+          <content eId="para_11595__content">
+            <p>According to the decision at issue, the products covered by the cartel were bathroom fittings and fixtures belonging to the following three product subgroups: taps and fittings, shower enclosures and accessories, and ceramic sanitary ware (ceramics) ( `the three product subgroups').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11596">
+          <num>14</num>
+          <content eId="para_11596__content">
+            <p>So far as concerns the anticompetitive practices alleged to have taken place in Italy, they were said to have been implemented within the framework of two informal groups. The first, known as `Euroitalia', was made up of undertakings which met two to three times a year during the period between July 1992 and October 2004. Within that group, which had been formed when German manufacturers entered the Italian market, the exchange of information related not only to taps and fittings but also to ceramics. The second informal group of undertakings, known as `Michelangelo', did not include the appellant. It met on several occasions between the end of 1995 or the start of 1996 and 25 July 2003. During those meetings, the discussions concerned a wide range of bathroom products including, in particular, taps and fittings and ceramics.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11597">
+          <num>15</num>
+          <content eId="para_11597__content">
+            <p>As regards the appellant's participation in the anticompetitive practices, the Commission found in the decision at issue that the appellant had participated in the unlawful discussions held within Euroitalia during the period from 18 October 2000 to 9 November 2004.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11598">
+          <num>16</num>
+          <content eId="para_11598__content">
+            <p>The Commission therefore found, in point 15 of Article 1(5) of the decision at issue, that the appellant had infringed Article 101 TFEU on account of its participation in a continuing agreement or concerted practice in Italy during the period between 18 October 2000 and 9 November 2004.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11599">
+          <num>17</num>
+          <content eId="para_11599__content">
+            <p>In Article 2(14) of the decision at issue, the Commission imposed a fine of EUR 1041531 on the appellant.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11600">
+          <num>18</num>
+          <content eId="para_11600__content">
+            <p>In setting that fine, the Commission took as a basis the 2006 Guidelines.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The procedure before the General Court and the judgment under appeal</p>
+        </tblock>
+        <paragraph eId="para_11601">
+          <num>19</num>
+          <content eId="para_11601__content">
+            <p>By application lodged at the Registry of the General Court on 7 September 2010, the appellant brought an action before the General Court for annulment of the decision at issue, relying upon five pleas in law. The first plea was based on the failure to notify the letter of facts to the appellant and on the fact that it was impossible to consult certain documents referred to in the decision at issue, concerning the appellant's participation in the anticompetitive practices at issue. The second plea alleged that the 2002 Leniency Notice was unlawful. The third plea alleged that errors were made with regard to the finding that the appellant participated in a cartel concerning the Italian market for taps and fittings. The fourth plea alleged that errors were made with regard to the determination of the penalty imposed on the appellant and setting the amount of the fine. The fifth plea alleged an error of assessment as to the amount of the reduction which was granted to the appellant on account of its financial situation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11602">
+          <num>20</num>
+          <content eId="para_11602__content">
+            <p>In the alternative, the appellant put forward a claim for cancellation or reduction of the fine imposed.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11603">
+          <num>21</num>
+          <content eId="para_11603__content">
+            <p>By the judgment under appeal, the General Court dismissed the action in its entirety.</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>Forms of order sought by the parties</p>
+        </tblock>
+        <paragraph eId="para_11604">
+          <num>22</num>
+          <content eId="para_11604__content">
+            <p>The appellant claims that the Court should:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>principally, set aside the judgment under appeal;</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>annul Articles 1 and 2 of the decision at issue in so far as they relate to it;</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>in the alternative, reduce the fine to an amount equivalent to 0.3% of its turnover for the year 2003 or, in any event, to an amount less than the penalty imposed; and</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>order the Commission to pay the costs.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11605">
+          <num>23</num>
+          <content eId="para_11605__content">
+            <p>The Commission contends that the Court should:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>dismiss the appeal; and</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>order the appellant to pay the costs.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The appeal</p>
+        </tblock>
+        <paragraph eId="para_11606">
+          <num>24</num>
+          <content eId="para_11606__content">
+            <p>In support of its appeal, the appellant relies on seven grounds of appeal, which include the five pleas in law already relied on at first instance.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11607">
+          <num>25</num>
+          <content eId="para_11607__content">
+            <p>By its first ground of appeal, the appellant complains that the General Court, on the one hand, wrongly classified an argument as a new plea and, on the other hand, relied on a non-existent factual element. The second plea criticises the reasoning adopted by the General Court concerning the failure to notify the letter of facts to the appellant. By its third ground of appeal, the appellant criticises the General Court for having dismissed the plea of illegality raised against the 2002 Leniency Notice. By its fourth ground of appeal, it criticises the grounds of the judgment under appeal relating to the specific nature of the Italian market for taps and fittings and to the relevance of the evidence relied on by the Commission concerning the appellant's participation in the infringement committed on that market. The fifth ground of appeal criticises the judgment under appeal for failing to penalise the errors made by the Commission in determining the fine to be imposed on the appellant. By its sixth ground of appeal, the appellant criticises the General Court for having held that the Commission had sufficiently reduced the fine imposed on it. By its seventh ground of appeal, the appellant argues that the General Court wrongly held that the applications for measures of inquiry submitted by the appellant were not relevant.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The first ground of appeal, alleging misclassification of an argument as a new plea in law and an error of factual assessment</p>
+        </tblock>
+        <tblock>
+          <p>Arguments of the parties</p>
+        </tblock>
+        <paragraph eId="para_11608">
+          <num>26</num>
+          <content eId="para_11608__content">
+            <p>By the first part of the first ground of appeal, the appellant criticises the General Court for having, in paragraph 30 of the judgment under appeal, made an error of law by classifying as a new plea the appellant's argument that the Commission had wrongly concluded that the appellant had participated in an infringement relating to bathroom fittings and fixtures even though the appellant did not manufacture ceramics and, consequently, for having rejected that argument as inadmissible.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11609">
+          <num>27</num>
+          <content eId="para_11609__content">
+            <p>That argument constitutes, in particular, the premiss of the fourth plea at first instance, concerning the criteria for setting the amount of the fine imposed on the appellant. It is, in that regard, common ground that the appellant manufactures only taps and fittings, as the General Court itself stated in paragraph 4 of the judgment under appeal and as the appellant pointed out on several occasions in its application at first instance. Moreover, the appellant alleges that, by classifying that argument as a new plea in law although the Commission raised no such plea of inadmissibility, the General Court ruled ultra petita.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11610">
+          <num>28</num>
+          <content eId="para_11610__content">
+            <p>By the second part of the first ground of appeal, the appellant criticises the General Court for having relied, in paragraph 9 of the judgment under appeal, on the finding that the appellant had requested that the leniency programme be applied although it never made such a request.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11611">
+          <num>29</num>
+          <content eId="para_11611__content">
+            <p>The Commission contends that both parts of that ground of appeal are inadmissible and, in any event, unfounded.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Findings of the Court</p>
+        </tblock>
+        <paragraph eId="para_11612">
+          <num>30</num>
+          <content eId="para_11612__content">
+            <p>As regards the General Court's alleged misclassification, it should be recalled that, in accordance with Article 48(2) of the Rules of Procedure of the General Court in the version in force at the date of the judgment under appeal ( `the Rules of Procedure of the General Court'), no new plea in law may be introduced in the course of proceedings unless it is based on matters of law or of fact which come to light in the course of the procedure.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11613">
+          <num>31</num>
+          <content eId="para_11613__content">
+            <p>Moreover, it is clear from the established case-law that, in accordance with Article 44(1)(c) of the Rules of Procedure of the General Court, the subject matter of the proceedings and a summary of the pleas in law on which the application is based constitute two essential elements which must be included in the application initiating proceedings (judgment of 3 April 2014, France v Commission, C‑559/12 P, EU:C:2014:217, paragraph 38). The forms of order of such an application must be set out unambiguously so that that court does not rule ultra petita or indeed fail to rule on a complaint (see, by analogy, judgment of 12 February 2009, Commission v Poland, C‑475/07, not published, EU:C:2009:86, paragraph 43).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11614">
+          <num>32</num>
+          <content eId="para_11614__content">
+            <p>The Court finds, however, that Mamoli Robinetteria, in its application at first instance, did not put forward the argument that the Commission erred in finding, in point 15 of Article 1(5) of the decision at issue, that the appellant had participated in an infringement relating to bathroom fittings and fixtures although it did not manufacture ceramics.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11615">
+          <num>33</num>
+          <content eId="para_11615__content">
+            <p>Moreover, the appellant does not rely on the existence of matters of law or of fact which came to light in the course of the procedure and which would have been capable of justifying the late submission of such an argument. Lastly, that argument cannot be regarded as expanding upon an earlier complaint set out in the application.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11616">
+          <num>34</num>
+          <content eId="para_11616__content">
+            <p>It follows that the General Court was right, in paragraph 30 of the judgment under appeal, to classify that argument, which was put forward by the appellant in the course of the proceedings and subsequent to the application instituting proceedings, as a new plea in law and, on that basis, to reject it.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11617">
+          <num>35</num>
+          <content eId="para_11617__content">
+            <p>Furthermore, since, in the light of the objectives set out in paragraph 31 of the present judgment, the admissibility requirements concerning the subject matter of the proceedings and the summary of the pleas in law on which the application before the General Court is based, and the corresponding prohibition, provided for in Article 48(2) of the General Court's Rules of Procedure, on the production of new pleas in the course of proceedings involve public policy, the General Court cannot be criticised for having of its own motion examined the issue of inadmissibility based on infringement of those requirements.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11618">
+          <num>36</num>
+          <content eId="para_11618__content">
+            <p>Consequently, the first part of the first ground of appeal must be rejected as unfounded.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11619">
+          <num>37</num>
+          <content eId="para_11619__content">
+            <p>As regards the second part of the first ground of appeal, it should be noted that the General Court did not draw any conclusions of fact or law from the purely factual finding, in paragraph 9 of the judgment under appeal in the section setting out the background to the dispute, described as erroneous by the appellant, that the appellant had submitted a leniency application.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11620">
+          <num>38</num>
+          <content eId="para_11620__content">
+            <p>Accordingly, that complaint must be rejected as ineffective (see, by analogy, judgment of 2 October 2003, Thyssen Stahl v Commission, C‑194/99 P, EU:C:2003:527, paragraphs 46 and 47).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11621">
+          <num>39</num>
+          <content eId="para_11621__content">
+            <p>It follows that the first ground of appeal must be rejected as in part ineffective and in part unfounded.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The second ground of appeal, concerning the failure to notify a letter of facts to the appellant</p>
+        </tblock>
+        <tblock>
+          <p>Arguments of the parties</p>
+        </tblock>
+        <paragraph eId="para_11622">
+          <num>40</num>
+          <content eId="para_11622__content">
+            <p>By its second ground of appeal, the appellant criticises the General Court for having rejected as in part unfounded and in part ineffective the complaint alleging that, unlike the other undertakings to have participated in the infringement, the appellant had not been sent a letter of facts by the Commission. Such a failure allegedly constitutes an infringement of the rights of defence. In that regard, the appellant claims that, contrary to the reasoning adopted by the General Court in paragraph 38 of the judgment under appeal rejecting as ineffective the arguments based on that failure, it is indisputable that knowledge of factual circumstances is necessarily helpful in preparing a defence strategy.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11623">
+          <num>41</num>
+          <content eId="para_11623__content">
+            <p>According to the Commission, this ground of appeal is manifestly inadmissible and, in any event, unfounded.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Findings of the Court</p>
+        </tblock>
+        <paragraph eId="para_11624">
+          <num>42</num>
+          <content eId="para_11624__content">
+            <p>It should be noted that it follows from Article 256(1) TFEU, the first paragraph of Article 58 of the Statute of the Court of Justice of the European Union and Article 168(1)(d) of the Rules of Procedure of the Court of Justice that an appeal must indicate precisely the contested elements of the judgment which the appellant seeks to have set aside and also the legal arguments specifically advanced in support of the appeal, failing which the appeal or the ground of appeal in question will be dismissed as inadmissible (judgment of 21 January 2016, Galp Energía España and Others v Commission, C‑603/13 P, EU:C:2016:38, paragraph 43 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11625">
+          <num>43</num>
+          <content eId="para_11625__content">
+            <p>It should also be noted that an appeal is inadmissible in so far as it merely repeats the pleas in law and arguments previously submitted to the General Court, including those based on facts expressly rejected by it, without even including an argument specifically identifying the error of law allegedly vitiating the judgment of the General Court. Such an appeal amounts in reality to no more than a request for re-examination of the application submitted to the General Court, which the Court of Justice does not have jurisdiction to undertake on appeal (judgments of 7 January 2004, Aalborg Portland and Others v Commission, C‑204/00 P, C‑205/00 P, C‑211/00 P, C‑213/00 P, C‑217/00 P and C‑219/00 P, EU:C:2004:6, paragraph 51 and the case-law cited, and of 30 May 2013, Quinn Barlo and Others v Commission, C‑70/12 P, not published, EU:C:2013:351, paragraph 26).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11626">
+          <num>44</num>
+          <content eId="para_11626__content">
+            <p>The Court finds that the appellant confines itself, on the one hand, to reproducing unchanged the complaint raised at first instance before the General Court, alleging the absence of notification of a letter of facts and, on the other hand, to setting out general considerations without establishing that they relate specifically to the present case, while failing to identify precisely any error of law which the General Court might have made in the judgment under appeal.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11627">
+          <num>45</num>
+          <content eId="para_11627__content">
+            <p>Consequently, the second ground of appeal must be rejected as inadmissible.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The third ground of appeal, alleging that the 2002 Leniency Notice is unlawful</p>
+        </tblock>
+        <tblock>
+          <p>Arguments of the parties</p>
+        </tblock>
+        <paragraph eId="para_11628">
+          <num>46</num>
+          <content eId="para_11628__content">
+            <p>By its third ground of appeal, the appellant, first of all, complains that the General Court dismissed the plea of illegality raised against the 2002 Leniency Notice, although a leniency programme such as that provided for by that notice should necessarily have been established and regulated by a measure having immediate application and direct effect adopted by the legislature of the European Union, which has competence in competition matters.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11629">
+          <num>47</num>
+          <content eId="para_11629__content">
+            <p>Next, it argues that the General Court erred in law in holding, in paragraphs 55 and 56 of the judgment under appeal, that the Commission had the power to adopt and to regulate a leniency programme in relation to the provisions of Article 15(2) of Council Regulation No 17 of 6 February 1962: First Regulation implementing Articles [101] and [102 TFEU] (OJ, English Special Edition 1959-1962, p. 87), which became Article 23(2) of Regulation No 1/2003. No directly applicable provision, adopted by the legislature of the European Union, which has competence in competition matters, confers on the Commission the power to refrain from penalising an undertaking which has infringed competition rules solely on the ground that that undertaking has declared that it committed the infringement. On the contrary, it is clear from Articles 101 and 103 TFEU that such an infringement of EU competition law must result in the imposition of a penalty.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11630">
+          <num>48</num>
+          <content eId="para_11630__content">
+            <p>Finally, the appellant criticises the General Court for having, in paragraph 57 of the judgment under appeal, held that the adoption by the Commission of leniency notices did not infringe the principle of the separation of powers and for having rejected the argument that, in the EU Member States, leniency programmes were adopted on the basis of acts of a legislative nature.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11631">
+          <num>49</num>
+          <content eId="para_11631__content">
+            <p>According to the Commission, this ground of appeal is inadmissible and, in any event, unfounded.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Findings of the Court</p>
+        </tblock>
+        <paragraph eId="para_11632">
+          <num>50</num>
+          <content eId="para_11632__content">
+            <p>First of all, as regards the complaint alleging that the Commission does not have the power to adopt a leniency programme, it should be noted that the appellant does not precisely identify any error of law in the judgment under appeal. Accordingly, this complaint must, in accordance with the case-law cited in paragraph 42 of the present judgment, be rejected as inadmissible.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11633">
+          <num>51</num>
+          <content eId="para_11633__content">
+            <p>Next, as regards the complaint criticising paragraphs 55 and 56 of the judgment under appeal, according to which the General Court erroneously held that the Commission had the power to adopt the 2002 Leniency Notice in the light of Article 15(2) of Regulation No 17, now Article 23(2) of Regulation No 1/2003, it must be pointed out, in the first place, that the Court of Justice has, on many occasions, recognised that the Commission can adopt rules of practice, such as those contained in the 2002 Leniency Notice, by which that institution imposes a limit on the exercise of its discretion under those articles (see, to that effect, judgments of 28 June 2005, Dansk Rørindustri and Others v Commission, C‑189/02 P, C‑202/02 P, C‑205/02 P to C‑208/02 P and C‑213/02 P, EU:C:2005:408, paragraphs 209, 211, 213 and 250, and of 18 July 2013, Schindler Holding and Others v Commission, C‑501/11 P, EU:C:2013:522, paragraphs 58 and 67 to 69).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11634">
+          <num>52</num>
+          <content eId="para_11634__content">
+            <p>In the second place, it is clear from the case-law of the Court that Article 101 TFEU does not preclude the Commission, in the exercise of its competence in competition law matters, from finding that there has been an infringement of that article without imposing a fine, although such treatment can be accorded in strictly exceptional situations only, such as where an undertaking's cooperation has been decisive in detecting and actually suppressing the cartel (see, to that effect, judgment of 18 June 2013, Schenker &amp; Co. and Others, C‑681/11, EU:C:2013:404, paragraphs 48 and 49).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11635">
+          <num>53</num>
+          <content eId="para_11635__content">
+            <p>In the third place, it also follows from established case-law that leniency programmes are useful tools if efforts to uncover and bring to an end infringements of competition rules are to be effective and serve, therefore, the objective of effective application of Articles 101 and 102 TFEU (see, inter alia, judgments of 14 June 2011, Pfleiderer, C‑360/09, EU:C:2011:389, paragraph 25, and of 6 June 2013, Donau Chemie and Others, C‑536/11, EU:C:2013:366, paragraph 42).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11636">
+          <num>54</num>
+          <content eId="para_11636__content">
+            <p>It follows that the General Court did not err in law in holding, in paragraphs 55 and 56 of the judgment under appeal, that, in accordance with Article 15(2) of Regulation No 17, the Commission could adopt the 2002 Leniency Notice.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11637">
+          <num>55</num>
+          <content eId="para_11637__content">
+            <p>Finally, it is necessary, for the reasons set out in paragraphs 51 to 54 of the present judgment, to reject the complaint criticising paragraph 57 of the judgment under appeal and alleging that the adoption by the Commission of the 2002 Leniency Notice infringes the principle of the separation of powers, inasmuch as that complaint is based, in essence, on the premiss that the Commission did not have a proper legal basis for adopting that notice.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11638">
+          <num>56</num>
+          <content eId="para_11638__content">
+            <p>Accordingly, the third ground of appeal must be rejected as in part inadmissible and in part unfounded.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The fourth ground of appeal, alleging errors resulting from imputing to the appellant participation in a cartel in breach of Article 101 TFEU and Article 2 of Regulation No 1/2003</p>
+        </tblock>
+        <tblock>
+          <p>Arguments of the parties</p>
+        </tblock>
+        <paragraph eId="para_11639">
+          <num>57</num>
+          <content eId="para_11639__content">
+            <p>By its fourth ground of appeal, the appellant complains that the General Court wrongly rejected its arguments concerning the specific nature of the Italian market for taps and fittings and the relevance of the evidence relied on by the Commission and, therefore, failed to penalise the errors made by the Commission when imputing to the appellant participation in the cartel at issue in breach of Article 101 TFEU and Article 2 of Regulation No 1/2003.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11640">
+          <num>58</num>
+          <content eId="para_11640__content">
+            <p>In the first place, as regards the specific nature of the Italian market for taps and fittings, the General Court, in paragraphs 61 to 133 of the judgment under appeal, allegedly held, inter alia, that the structure of that market had no relevance to the outcome of the dispute and that the appellant's participation in the infringement could be inferred solely from its presence at the Euroitalia meetings, whilst it could be deduced from the structure of that market, which is characterised by a significant number of producers and wholesalers, that it was impossible to establish a cartel in Italy. Moreover, it is alleged that the General Court, in paragraphs 65 to 72 of the judgment under appeal, carried out a cursory examination of that argument, satisfying itself with various observations of principle, with the result that the reasoning of the judgment under appeal is deficient.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11641">
+          <num>59</num>
+          <content eId="para_11641__content">
+            <p>In the second place, as regards the relevance of the evidence relied on by the Commission of the appellant's participation in the infringement committed on the Italian market for taps and fittings, the appellant maintains that the General Court either failed to consider the arguments put forward by the appellant concerning, inter alia, the particular role of American Standard Inc. on the Italian market and the appellant's participation at various meetings or, wrongly, rejected them as either unfounded or, as in paragraph 132 of the judgment under appeal, ineffective. In particular, the appellant claims that the General Court erred in finding that the appellant's representative, Mr Costagli, was present at the meeting on 1 February 2001, although, in the appellant's submission, it was shown that he did not attend that meeting. Moreover, it is alleged that the General Court, in paragraph 106 of the judgment under appeal, wrongly rejected the argument concerning the unreliability of the evidence obtained at the Euroitalia meetings, by holding that it was apparent from the typed notes of Grohe Beteiligungs GmbH that RAF Rubinetteria SpA had planned a price increase of 3%.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11642">
+          <num>60</num>
+          <content eId="para_11642__content">
+            <p>The Commission contends that the fourth ground of appeal is, in so far as it seeks, in reality, to obtain a fresh examination of the facts, inadmissible or, at the very least, unfounded.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Findings of the Court</p>
+        </tblock>
+        <paragraph eId="para_11643">
+          <num>61</num>
+          <content eId="para_11643__content">
+            <p>It should be noted that, by the two parts of the fourth ground of appeal, the appellant reproduces, in essence, the third plea of its action at first instance, in so far as concerns the specific nature of the Italian market for taps and fittings and the relevance of the evidence relied on by the Commission of the appellant's participation in the infringement committed on that market.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11644">
+          <num>62</num>
+          <content eId="para_11644__content">
+            <p>Thus, by the fourth ground of appeal, the appellant seeks to obtain a re-examination of the application submitted to the General Court, which, as was stated in paragraph 43 of the present judgment, the Court of Justice does not have jurisdiction to undertake.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11645">
+          <num>63</num>
+          <content eId="para_11645__content">
+            <p>In particular, the second part of that ground of appeal, in so far as it criticises the General Court's assessment of the appellant's participation in the infringement committed on the Italian market for taps and fittings, seeks to obtain a fresh assessment of the facts and the evidence, which, according to settled case-law, the Court of Justice does not have jurisdiction to undertake except where the facts or evidence have been distorted, which has not been alleged in the present case (see, inter alia, judgments of 20 January 2016, Toshiba Corporation v Commission, C‑373/14 P, EU:C:2016:26, paragraph 40, and of 16 June 2016, Evonik Degussa and AlzChem v Commission, C‑155/14 P, EU:C:2016:446, paragraph 23 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11646">
+          <num>64</num>
+          <content eId="para_11646__content">
+            <p>Accordingly, the fourth ground of appeal, in so far as it criticises paragraphs 61 to 133 of the judgment under appeal on the ground that they reject the appellant's arguments relating to the specific nature of the Italian market for taps and fittings and to the relevance of the evidence relied on by the Commission regarding the appellant's participation in the infringement committed on that market, must be rejected as inadmissible.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11647">
+          <num>65</num>
+          <content eId="para_11647__content">
+            <p>However, as regards the complaint that the General Court's examination was deficient and insufficient and that there was therefore a failure to state adequate reasons, it must be borne in mind that the question whether the grounds of a judgment of the General Court are adequate is a question of law which is amenable, as such, to judicial review on appeal (see, inter alia, judgment of 14 October 2010, Deutsche Telekom v Commission, C‑280/08 P, EU:C:2010:603, paragraph 123).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11648">
+          <num>66</num>
+          <content eId="para_11648__content">
+            <p>In that regard, it must be recalled that, according to well-established case-law, that obligation to state reasons does not however require the General Court to provide an account which follows exhaustively and one by one all the arguments put forward by the parties to the case. The reasoning may therefore be implicit, provided that it enables the persons concerned to know the reasons why the General Court has not upheld their arguments and provides the Court of Justice with sufficient material for it to exercise its power of review (see, to that effect, inter alia, judgments of 2 April 2009, Bouygues and Bouygues Télécom v Commission, C‑431/07 P, EU:C:2009:223, paragraph 42, and of 22 May 2014, Armando Álvarez v Commission, C‑36/12 P, EU:C:2014:349, paragraph 31).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11649">
+          <num>67</num>
+          <content eId="para_11649__content">
+            <p>In the present case, as regards, in the first place, the argument put forward at first instance relating to the specific nature of the Italian market for taps and fittings, it should be noted that the General Court, having recalled, in paragraphs 64 to 71 of the judgment under appeal, the constituent elements of an infringement of Article 101(1) TFEU and the case-law of the Court relating thereto, found, in paragraph 72 of that judgment, in essence, that the Commission was entitled to consider that the appellant had participated in an exchange of information on future price increases having an anticompetitive purpose and effect and constituting, therefore, an infringement of that provision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11650">
+          <num>68</num>
+          <content eId="para_11650__content">
+            <p>In that regard, the General Court was fully entitled, in paragraph 74 of the judgment under appeal, without having examined the merits of the appellant's arguments relating to the specific structure of the Italian market for taps and fittings, to reject as ineffective those arguments, since they were incapable of invalidating the finding that the exchange of information at issue had an anticompetitive purpose and effect.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11651">
+          <num>69</num>
+          <content eId="para_11651__content">
+            <p>As regards, in the second place, the General Court's reasoning relating to the credibility and relevance of the evidence relied on by the Commission concerning the appellant's participation in the infringement committed on that market, it is clear from a reading of paragraphs 76 to 126 of the judgment under appeal that the General Court carried out an extensive and detailed examination of the various arguments which the appellant put forward in that regard, in particular concerning its participation in the various meetings of Euroitalia at issue. Therefore, in accordance with case-law recalled in paragraph 66 of the present judgment, the General Court cannot be criticised for not having expressly ruled on each element of fact or evidence put forward by the appellant.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11652">
+          <num>70</num>
+          <content eId="para_11652__content">
+            <p>Accordingly, the complaint alleging infringement of the obligation to state reasons must be rejected as unfounded.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11653">
+          <num>71</num>
+          <content eId="para_11653__content">
+            <p>It follows from the foregoing that the fourth ground of appeal must be rejected as in part inadmissible and in part unfounded.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The fifth ground of appeal, relating to errors made in determining the fine</p>
+        </tblock>
+        <tblock>
+          <p>Arguments of the parties</p>
+        </tblock>
+        <paragraph eId="para_11654">
+          <num>72</num>
+          <content eId="para_11654__content">
+            <p>By its fifth ground of appeal, the appellant complains that the General Court made errors when examining the Commission's determination of the fine imposed in the decision at issue.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11655">
+          <num>73</num>
+          <content eId="para_11655__content">
+            <p>In the first place, the appellant complains that the General Court rejected, in paragraphs 137 and 158 of the judgment under appeal, by undertaking a superficial reading of the appellant's arguments, the complaint based on the discriminatory nature of the amount of the fine imposed, which was equal to 10% of the turnover determined on the basis of the 2006 Guidelines, in accordance with the ceiling laid down in the second subparagraph of Article 23(2) of Regulation No 1/2003.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11656">
+          <num>74</num>
+          <content eId="para_11656__content">
+            <p>In the second place, the appellant once again puts forward the arguments criticising the penalty imposed which it had already submitted at first instance but which it claims that the General Court did not examine with sufficient attention.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11657">
+          <num>75</num>
+          <content eId="para_11657__content">
+            <p>In that regard, the appellant submits, in particular, first, that, by reversing the burden of proof, application of the 2002 Leniency Notice resulted in an infringement of Article 2 of Regulation No 1/2003. Second, it claims that application of that notice infringes the right to a fair trial enshrined in Articles 6 and 7 of the European Convention for the Protection of Human Rights and Fundamental Freedoms, signed at Rome on 4 November 1950 ( `the ECHR') and Article 47 of the Charter of Fundamental Rights of the European Union. Third, the appellant criticises the General Court for having merely noted, in paragraph 155 of the judgment under appeal, that a penalty is lawful where the person concerned is in a position to ascertain which acts and omissions render him liable, without responding to the complaint, raised at first instance, that the system of determining penalties applicable in competition matters is not compatible with the ECHR, in particular Article 7 thereof, which requires that infringements and punishments be clearly defined. Fourth, the appellant criticises the General Court for having held, in paragraph 169 of the judgment under appeal, that the appellant pleaded before the General Court that the Commission had made an error in the assessment of the facts only when setting the multiplier for the `additional amount' at the rate of 15% and not when setting the multiplier for the `gravity of the infringement' at the same rate. Fifth, the appellant pleads the illegality of the criteria set out in the 2006 Guidelines, the taking account of which by the Commission when determining the amount of each of the penalties results, because of the application of the ceiling provided for in Article 23(2) of Regulation No 1/2003, in the amount of the fine imposed automatically being 10% of turnover. The General Court completely failed to examine that plea of illegality and confined itself, in paragraph 158 of the judgment under appeal, to observing that the appellant had not been ordered to pay a penalty equal to 10% of turnover. Sixth, the Commission and then the General Court set the multipliers for the `gravity of the infringement' and the `additional amount' starting, as is clear from paragraphs 165 and 166 of the judgment under appeal, from the erroneous premisses that the appellant had participated in a single infringement, on the territories of six Member States, covering all the product groups under investigation, with a market share of approximately 54.3% in each of those States, and engaging in anticompetitive practices which were, as a rule, implemented. Seventh, the appellant submits that, although the General Court held that the Commission's decision was vitiated by an error of assessment, it drew no conclusions from this in paragraphs 192 to 195 of the judgment under appeal. In proceeding in that way, the General Court infringed the principles of proportionality and equal treatment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11658">
+          <num>76</num>
+          <content eId="para_11658__content">
+            <p>The Commission contests both the admissibility and the merits of the fifth ground of appeal. In that context, it nevertheless points out that, contrary to what the General Court held in paragraph 171 of the judgment under appeal, the gravity of an infringement does not necessarily differ according to whether the subject matter of the cartel covers two or three types of products or whether it concerns a single Member State or six Member States. Accordingly, as it confirmed at the hearing, the Commission, while considering that the General Court was correct in rejecting the appellant's arguments concerning infringement of the principles of equal treatment and proportionality, requests the Court of Justice to replace the relevant grounds of the judgment under appeal, in so far as that part of the General Court's reasoning is concerned.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Findings of the Court</p>
+        </tblock>
+        <paragraph eId="para_11659">
+          <num>77</num>
+          <content eId="para_11659__content">
+            <p>As a preliminary point, it should be pointed out, as follows from the settled case-law recalled in paragraphs 42 and 43 of the present judgment, that a ground of appeal supported by an argument which either is not sufficiently precise and substantiated to enable the Court to exercise its powers of judicial review or merely repeats arguments previously submitted to the General Court, including those based on facts expressly rejected by it, must be declared inadmissible (see, to that effect, inter alia, judgments of 30 May 2013, Quinn Barlo and Others v Commission, C‑70/12 P, not published, EU:C:2013:351, paragraph 26, and of 21 January 2016, Galp Energía España and Others v Commission, C‑603/13 P, EU:C:2016:38, paragraph 44).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11660">
+          <num>78</num>
+          <content eId="para_11660__content">
+            <p>Therefore, the arguments raised in the context of the fifth ground of appeal which do not identify with sufficient precision any error of law allegedly made by the General Court and which constitute general and unsubstantiated assertions or merely repeat, as the appellant itself indicated, arguments that it has already submitted at first instance, must be rejected as inadmissible.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11661">
+          <num>79</num>
+          <content eId="para_11661__content">
+            <p>Therefore, the only arguments amenable to review by the Court of Justice are those alleging:</p>
+            <blockList>
+              <item>
+                <num>(i)</num>
+                <p>errors made by the General Court, in paragraphs 137 and 158 of the judgment under appeal, concerning the discriminatory and disproportionate nature of the application of a penalty of 10% of turnover under the second subparagraph of Article 23(2) of Regulation No 1/2003,</p>
+              </item>
+              <item>
+                <num>(ii)</num>
+                <p>insufficient reasoning, particularly in paragraph 155 of the judgment under appeal, concerning the legality of the system of determining penalties,</p>
+              </item>
+              <item>
+                <num>(iii)</num>
+                <p>errors of law made in the assessment, in paragraphs 165 and 166 of the judgment under appeal, of the multipliers for the `gravity of the infringement' and the `additional amount', and</p>
+              </item>
+              <item>
+                <num>(iv)</num>
+                <p>that the General Court, in paragraphs 192 to 195 of the judgment under appeal, drew no conclusions from the errors of assessment which it found had been made by the Commission, and infringed the principles of proportionality and equal treatment.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11662">
+          <num>80</num>
+          <content eId="para_11662__content">
+            <p>As regards, first of all, the complaint that the General Court infringed the principles of proportionality and equal treatment because of the imposition of a penalty of 10% of turnover, as provided for in the second subparagraph of Article 23(2) of that regulation, it should be noted that, contrary to what the appellant suggests, the General Court did not merely find that the fine which was imposed on it was an amount clearly below that ceiling.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11663">
+          <num>81</num>
+          <content eId="para_11663__content">
+            <p>In paragraph 158 of the judgment under appeal, the General Court also held, in essence, that, in any event, the fact that the conduct of other undertakings was even more blameworthy than that of the appellant did not preclude the imposition on it of a fine amounting to 10% of its turnover in the light of the duration and gravity of its own participation in the infringement, and that it was appropriate, for the same reason, to reject the argument that the 2006 Guidelines are unlawful as they allegedly lead to the imposition of such a fine on all undertakings, regardless of the gravity of the infringement committed.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11664">
+          <num>82</num>
+          <content eId="para_11664__content">
+            <p>In so holding, the General Court did not err in law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11665">
+          <num>83</num>
+          <content eId="para_11665__content">
+            <p>In that regard, it should be noted that it is clear from settled case-law of the Court that the limit of 10% of turnover provided for in the second subparagraph of Article 23(2) of Regulation No 1/2003 seeks to prevent fines being imposed which it is foreseeable that the undertakings, owing to their size, as determined, albeit approximately and imperfectly, by their total turnover, will not be able to pay (judgments of 28 June 2005, Dansk Rørindustri and Others v Commission, C‑189/02 P, C‑202/02 P, C‑205/02 P to C‑208/02 P and C‑213/02 P, EU:C:2005:408, paragraph 280, and of 12 July 2012, Cetarsa v Commission, C‑181/11 P, not published, EU:C:2012:455, paragraph 82).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11666">
+          <num>84</num>
+          <content eId="para_11666__content">
+            <p>The limit is therefore one which is uniformly applicable to all undertakings and arrived at according to the size of each of them, and seeks to ensure that the fines are not excessive or disproportionate. That upper limit thus has a distinct and autonomous objective by comparison with the criteria of gravity and duration of the infringement (judgments of 28 June 2005, Dansk Rørindustri and Others v Commission, C‑189/02 P, C‑202/02 P, C‑205/02 P to C‑208/02 P and C‑213/02 P, EU:C:2005:408, paragraphs 281 and 282, and of 12 July 2012, Cetarsa v Commission, C‑181/11 P, not published, EU:C:2012:455, paragraph 83).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11667">
+          <num>85</num>
+          <content eId="para_11667__content">
+            <p>It follows that setting fines for all penalised undertakings having participated in the same infringement at 10% of their respective turnovers, cannot, since it is merely the result of applying the ceiling provided for in the second subparagraph of Article 23(2) of Regulation No 1/2003, constitute an infringement of the principles of proportionality and equal treatment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11668">
+          <num>86</num>
+          <content eId="para_11668__content">
+            <p>Similarly, in view of the objective of that ceiling, the fact that the actual application of the 2006 Guidelines by the Commission leads, as the appellant argues, frequently or regularly to the amount of the fine imposed being equal to 10% of turnover cannot call into question the legality of the application of that ceiling.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11669">
+          <num>87</num>
+          <content eId="para_11669__content">
+            <p>It follows from the foregoing that the appellant's first argument must be rejected.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11670">
+          <num>88</num>
+          <content eId="para_11670__content">
+            <p>Next, as regards the complaint of inadequate reasoning in the judgment under appeal, in particular in paragraph 155 thereof, in so far as concerns the legality of the system of determining penalties, it suffices to note that, in paragraphs 152 to 155 of that judgment, the General Court, in accordance with the case-law concerning the obligation to state reasons recalled in paragraphs 65 and 66 of the present judgment, examined to the requisite legal standard the appellant's complaint alleging infringement of the principle that penalties must have a proper legal basis.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11671">
+          <num>89</num>
+          <content eId="para_11671__content">
+            <p>Moreover, in so far as the appellant challenges the premisses of the reasons given by the Commission and then by the General Court, in paragraphs 165 and 166 of the judgment under appeal, for setting the multipliers for the `gravity of the infringement' and for the `additional amount' at a rate of 15%, the appellant is seeking, in fact, to call into question assessments of a factual nature; in accordance with the settled case-law cited in paragraph 63 of the present judgment, the Court of Justice does not have jurisdiction to undertake such a reassessment on appeal.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11672">
+          <num>90</num>
+          <content eId="para_11672__content">
+            <p>Finally, as regards the complaint that the General Court, in paragraphs 192 to 195 of the judgment under appeal, drew no conclusions, in terms of reducing the amount of fine, from the finding in paragraph 172 of the judgment under appeal that there was an error of assessment of the facts relating to the Member States and product subgroups covered by the infringement, it must first of all be recalled that the General Court alone has jurisdiction to examine how in each particular case the Commission assessed the gravity of unlawful conduct. In an appeal, the purpose of review by the Court of Justice is, first, to examine to what extent the General Court took into consideration, in a legally correct manner, all the essential factors to assess the gravity of particular conduct in the light of Article 101 TFEU and Article 23 of Regulation No 1/2003 and, second, to consider whether the General Court responded to a sufficient legal standard to all the arguments raised in support of the claim for cancellation or reduction of the fine (see, inter alia, judgments of 17 December 1998, Baustahlgewebe v Commission, C‑185/95 P, EU:C:1998:608, paragraph 128; of 28 June 2005, Dansk Rørindustri and Others v Commission, C‑189/02 P, C‑202/02 P, C‑205/02 P to C‑208/02 P and C‑213/02 P, EU:C:2005:408, paragraph 244; and of 5 December 2013, Solvay Solexis v Commission, C‑449/11 P, not published, EU:C:2013:802, paragraph 74).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11673">
+          <num>91</num>
+          <content eId="para_11673__content">
+            <p>On the other hand, it must be borne in mind that it is not for the Court of Justice, when ruling on questions of law in the context of an appeal, to substitute, on grounds of fairness, its own assessment for that of the General Court exercising its unlimited jurisdiction to rule on the amount of fines imposed for infringements of EU law (judgments of 28 June 2005, Dansk Rørindustri and Others v Commission, C‑189/02 P, C‑202/02 P, C‑205/02 P to C‑208/02 P and C‑213/02 P, EU:C:2005:408, paragraph 245, and of 11 July 2013, Gosselin Group v Commission, C‑429/11 P, not published, EU:C:2013:463, paragraph 87).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11674">
+          <num>92</num>
+          <content eId="para_11674__content">
+            <p>It should also be recalled that, in setting the amount of fines, regard must be had to the duration of the infringement and to all the factors capable of affecting the assessment of the gravity of that infringement (judgments of 28 June 2005, Dansk Rørindustri and Others v Commission, C‑189/02 P, C‑202/02 P, C‑205/02 P to C‑208/02 P and C‑213/02 P, EU:C:2005:408, paragraph 240, and of 11 July 2013, Team Relocations and Others v Commission, C‑444/11 P, not published, EU:C:2013:464, paragraph 98).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11675">
+          <num>93</num>
+          <content eId="para_11675__content">
+            <p>The factors capable of affecting the assessment of the gravity of the infringements include the conduct of each of the undertakings, the role played by each of them in the establishment of the cartel, the profit which they were able to derive from the cartel, their size, the value of the goods concerned and the threat that infringements of that type pose to the objectives of the European Union (judgments of 28 June 2005, Dansk Rørindustri and Others v Commission, C‑189/02 P, C‑202/02 P, C‑205/02 P to C‑208/02 P and C‑213/02 P, EU:C:2005:408, paragraph 242, and of 11 July 2013, Team Relocations and Others v Commission, C‑444/11 P, not published, EU:C:2013:464, paragraph 100).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11676">
+          <num>94</num>
+          <content eId="para_11676__content">
+            <p>In the present case, it must be noted that the sixth part of the fourth plea in law relied on at first instance by the appellant, which was examined in paragraphs 159 to 177 of the judgment under appeal, was concerned, as is clear, in essence, from paragraphs 159, 160 and 169 of that judgment, with an error of assessment made by the Commission solely when setting the multiplier for the `additional amount', provided for in point 25 of the 2006 Guidelines, at a rate of 15% and not when setting the multiplier for the `gravity of the infringement'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11677">
+          <num>95</num>
+          <content eId="para_11677__content">
+            <p>After noting that, according to the Commission's own findings in recital 879 of the decision at issue, the appellant's participation in the infringement was limited to Italy and to the `taps and fittings' and `ceramics' product subgroups, the General Court held, in paragraph 172 of the judgment under appeal, that the Commission had made an error of assessment in that it had wrongly found that all the addressees of the decision at issue, including the appellant, had participated in a single infringement covering six Member States and relating to the three product subgroups.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11678">
+          <num>96</num>
+          <content eId="para_11678__content">
+            <p>The General Court considered, however, as is apparent in particular from paragraphs 171 and 193 to 196 of the judgment under appeal, that a multiplier for the `additional amount' of 15% was not disproportionate to the infringement.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11679">
+          <num>97</num>
+          <content eId="para_11679__content">
+            <p>The General Court, by assessing in the context of its unlimited jurisdiction, in paragraphs 189 to 199 of the judgment under appeal, the conclusions to be drawn, as regards the setting of the multiplier for the `additional amount', from the sixth part of the fourth plea in law raised at first instance, was fully entitled, after holding -- as paragraph 192 of the judgment under appeal makes clear -- that it was appropriate to act on the basis of the 2006 Guidelines, to consider that a multiplier for the `additional amount' of 15% was appropriate to penalise the appellant's participation in the implementation of the cartel solely in Italy.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11680">
+          <num>98</num>
+          <content eId="para_11680__content">
+            <p>In that regard, it should be pointed out, first, that the cartel in question, since its purpose was price coordination, falls within the category of infringements referred to in points 23 and 25 of the 2006 Guidelines, and is, on that basis, among the most harmful infringements. Second, as the General Court stated in paragraph 171 of the judgment under appeal, that rate is the lowest rate on the 15% to 25% scale of the value of sales, laid down for such infringements in point 25 of the 2006 Guidelines (see judgment of 11 July 2013, Ziegler v Commission, C‑439/11 P, EU:C:2013:513, paragraph 124).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11681">
+          <num>99</num>
+          <content eId="para_11681__content">
+            <p>Accordingly, notwithstanding the fact that the appellant's participation in the infringement at issue covered only Italy, the General Court was entitled to hold, solely on account of the nature of that infringement and without infringing the principle of proportionality, that it was appropriate to set the multiplier for the `additional amount' at a rate of 15%.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11682">
+          <num>100</num>
+          <content eId="para_11682__content">
+            <p>However, as the Commission has in essence submitted, there is an error of law in the grounds set out in paragraphs 174, 176, 194 and 195 of the judgment under appeal, which state that an infringement covering the territory of six Member States and three product subgroups must be regarded as more serious than an infringement such as that at issue, which was committed solely on the territory of one Member State and covered only two of the three product subgroups, and that it is therefore necessary, for that reason alone, to impose on undertakings which participated in an infringement covering the territory of six Member States and three product subgroups a fine calculated on the basis of a multiplier for the `additional amount' greater than 15%.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11683">
+          <num>101</num>
+          <content eId="para_11683__content">
+            <p>As regards the determination of the multiplier for the `additional amount', it is apparent from point 25 of the 2006 Guidelines that account must be taken of a number of factors, in particular those identified in point 22 of those guidelines. Although, in assessing the gravity of an infringement and subsequently setting the fine to be imposed, account may be taken, inter alia, of the geographic extent of an infringement and of the number of product subgroups covered by it, the fact that an infringement covers a larger geographical area and a larger number of products by comparison with another does not, on its own, necessarily mean that the first infringement, considered as a whole, must be classified as more serious than the second and as therefore justifying the setting of a multiplier for the `additional amount' which is higher than that used for calculating the fine imposed in relation to the second infringement (see, to that effect, judgment of 10 July 2014, Telefónica and Telefónica de España v Commission, C‑295/12 P, EU:C:2014:2062, paragraph 178).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11684">
+          <num>102</num>
+          <content eId="para_11684__content">
+            <p>Nonetheless, in so far as the appellant complains, in essence, that the Commission and then the General Court infringed the principle of equal treatment, first, in failing to make the fine imposed specific to the appellant by taking into account the gravity of the infringement relative to the appellant's participation in it as compared with the participation of the other undertakings concerned and, second, in applying to the appellant, in paragraphs 192 to 195 of the judgment under appeal, the same multiplier for the `additional amount' of 15% as applied to the undertakings which participated in the single infringement covering three product subgroups in six Member States, it must be recalled that the principle of equal treatment is a general principle of EU law, enshrined in Articles 20 and 21 of the Charter of Fundamental Rights of the European Union. According to settled case-law, that principle requires that comparable situations must not be treated differently and different situations must not be treated in the same way unless such treatment is objectively justified (see, inter alia, judgment of 12 November 2014, Guardian Industries and Guardian Europe v Commission, C‑580/12 P, EU:C:2014:2363, paragraph 51) 103 Observance of that principle is binding, in particular, on the General Court in the exercise of its unlimited jurisdiction. When the amount of the fines imposed is determined, the exercise of such jurisdiction cannot result in discrimination between undertakings which have participated in an agreement or concerted practice contrary to Article 101(1) TFEU (see, to that effect, judgment of 18 December 2014, Commission v Parker Hannifin Manufacturing and Parker-Hannifin, C‑434/13 P, EU:C:2014:2456, paragraph 77).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11685">
+          <num>104</num>
+          <content eId="para_11685__content">
+            <p>It follows from the case-law of the Court of Justice, however, that the taking into account of differences between the undertakings that have participated in a single cartel (in particular with regard to the geographic scope of their respective involvement) for the purpose of assessing the gravity of an infringement need not necessarily occur when the multipliers for the `gravity of the infringement' and for the `additional amount' are set but may occur at another stage in the setting of the fine, such as when the basic amount of the fine is adjusted in the light of mitigating and aggravating circumstances under points 28 and 29 of the 2006 Guidelines (see, to that effect, judgments of 11 July 2013, Team Relocations and Others v Commission, C‑444/11 P, not published, EU:C:2013:464, paragraphs 104 and 105, and of 11 July 2013, Gosselin Group v Commission, C‑429/11 P, not published, EU:C:2013:463, paragraphs 96 to 100).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11686">
+          <num>105</num>
+          <content eId="para_11686__content">
+            <p>As the Commission has observed, such differences may also be reflected by means of the value of sales that is used in calculating the basic amount of the fine, inasmuch as that value reflects, for each participating undertaking, the scale of its involvement in the infringement in question, in accordance with point 13 of the 2006 Guidelines, under which it is possible to take as a starting point for the calculation of the fines an amount which reflects the economic significance of the infringement and the size of the undertaking's contribution to it (see, to that effect, judgment of 11 July 2013, Team Relocations and Others v Commission, C‑444/11 P, not published, EU:C:2013:464, paragraph 76).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11687">
+          <num>106</num>
+          <content eId="para_11687__content">
+            <p>Consequently, since it is not disputed that the basic amount of the fine imposed on the appellant was determined, as is apparent from recital 1219 of the decision at issue, by reference to the value of the sales made by the appellant in Italy, the General Court could, in paragraph 196 of the judgment under appeal, without infringing the principle of equal treatment, set, for the purpose of calculating the fine to be imposed on the appellant, the multiplier for the `additional amount' at a rate of 15%, the same as that used for the undertakings which participated in the single infringement covering three product subgroups and six Member States.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11688">
+          <num>107</num>
+          <content eId="para_11688__content">
+            <p>In the light of the foregoing considerations, from which it follows that the reasoning of the General Court in paragraphs 174, 176 and 192 to 195 of the judgment under appeal is vitiated by errors of law, it must be recalled that, if the grounds of a decision of the General Court contain an infringement of EU law but its operative part is shown to be well founded on other legal grounds, such an infringement is not one that should cause that decision to be set aside, and a substitution of grounds must be made (see, to that effect, judgments of 9 June 1992, Lestelle v Commission, C‑30/91 P, EU:C:1992:252, paragraph 28, and of 9 September 2008, FIAMM and Others v Council and Commission, C‑120/06 P and C‑121/06 P, EU:C:2008:476, paragraph 187 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11689">
+          <num>108</num>
+          <content eId="para_11689__content">
+            <p>Therefore, it is appropriate, by a substitution of grounds, to reject the complaint that the General Court failed to draw any conclusions from the findings made in paragraph 172 of the judgment under appeal and infringed the principles of proportionality and equal treatment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11690">
+          <num>109</num>
+          <content eId="para_11690__content">
+            <p>It follows from the foregoing considerations that the fifth ground of appeal must be rejected as in part inadmissible and in part unfounded.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The sixth ground of appeal, alleging errors in the assessment of the appellant's inability to pay</p>
+        </tblock>
+        <tblock>
+          <p>Arguments of the parties</p>
+        </tblock>
+        <paragraph eId="para_11691">
+          <num>110</num>
+          <content eId="para_11691__content">
+            <p>By its sixth ground of appeal, the appellant criticises the General Court, in essence, for having wrongly held that the Commission had, for the purposes of applying point 35 of the 2006 Guidelines, sufficiently reduced the fine imposed on the appellant. The appellant complains that the General Court, in paragraphs 182 and 198 of the judgment under appeal, rejected the plea in law based on the excessive nature of the fine on the ground that the appellant had failed to provide evidence of the excessive nature of the fine imposed, even though, in its submission, it had adduced sufficient evidence to demonstrate the seriousness of the situation in which it found itself. The appellant further submits that the General Court did not correctly assess that evidence and the appellant's actual situation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11692">
+          <num>111</num>
+          <content eId="para_11692__content">
+            <p>According to the appellant, a diligent assessment of its situation would necessarily result in a finding that the reduction granted to it was insufficient. In that regard, it refers in particular to the drastic decline in its turnover during the period from 2011 to 2013, to the reduction in its workforce during 2013 and to its projected balance sheet for 2013.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11693">
+          <num>112</num>
+          <content eId="para_11693__content">
+            <p>The Commission, for its part, pleads the inadmissibility of the sixth ground of appeal, arguing, moreover, that it is manifestly unfounded.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Findings of the Court</p>
+        </tblock>
+        <paragraph eId="para_11694">
+          <num>113</num>
+          <content eId="para_11694__content">
+            <p>It should be noted that, in so far as, by the sixth ground of appeal, the appellant challenges the General Court's assessment of the evidence relating to the appellant's ability to pay and criticises the inadequacy of the reduction which was granted to it under point 35 of the 2006 Guidelines, the appellant is seeking to obtain from the General Court a fresh assessment of the facts and the evidence, which, however, as was recalled in paragraph 63 of the present judgment, the Court of Justice does not have jurisdiction to undertake on appeal in the absence of a distortion of the clear sense of the evidence.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11695">
+          <num>114</num>
+          <content eId="para_11695__content">
+            <p>Accordingly, the sixth ground of appeal must be rejected as inadmissible.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The seventh ground of appeal, concerning the handling of the applications for measures of inquiry</p>
+        </tblock>
+        <tblock>
+          <p>Arguments of the parties</p>
+        </tblock>
+        <paragraph eId="para_11696">
+          <num>115</num>
+          <content eId="para_11696__content">
+            <p>By its seventh ground of appeal, the appellant criticises the General Court for having rejected the applications for measures of inquiry submitted at first instance on the ground that they were not relevant and specifically, in paragraph 201 of the judgment under appeal, that those measures were not capable of altering the finding that the exchanges of sensitive business information, in particular those relating to the forecasts of price increases between competitors, occurring in Italy within Euroitalia, constituted an infringement of Article 101 TFEU. Indeed, the appellant alleges that those applications for measures of inquiry would have helped to clarify the real situation on the Italian market and to demonstrate that the information at issue did not constitute confidential data.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11697">
+          <num>116</num>
+          <content eId="para_11697__content">
+            <p>The Commission contends that this ground of appeal is inadmissible and, in any event, unfounded.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Findings of the Court</p>
+        </tblock>
+        <paragraph eId="para_11698">
+          <num>117</num>
+          <content eId="para_11698__content">
+            <p>As regards the assessment by the General Court of applications made by a party for measures of organisation of procedure or measures of inquiry, it must be recalled that the General Court is the sole judge of any need to supplement the information available to it in respect of the cases before it (see judgments of 28 June 2005, Dansk Rørindustri and Others v Commission, C‑189/02 P, C‑202/02 P, C‑205/02 P to C‑208/02 P and C‑213/02 P, EU:C:2005:408, paragraph 67, and of 22 November 2007, Sniace v Commission, C‑260/05 P, EU:C:2007:700, paragraph 77). The sufficiency of the evidence before it is a matter to be appraised by it alone and is not subject to review by the Court of Justice on appeal, except where that evidence has been distorted or the inaccuracy of the findings of the General Court is apparent from the documents in the case-file (see, inter alia, judgment of 7 October 2004, Mag Instrument v OHIM, C‑136/02 P, EU:C:2004:592, paragraph 76).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11699">
+          <num>118</num>
+          <content eId="para_11699__content">
+            <p>Accordingly, it is clear from the case-law of the Court that, even where a request for the examination of witnesses, made in the application, states precisely about what facts and for what reasons the witness or witnesses should be examined, it falls to the General Court to assess the relevance of the application to the subject matter of the dispute and the need to examine the witnesses named (judgment of 17 December 1998, Baustahlgewebe v Commission, C‑185/95 P, EU:C:1998:608, paragraph 70; order of 15 September 2005, Marlines v Commission, C‑112/04 P, not published, EU:C:2005:554, paragraph 38; and judgment of 22 November 2007, Sniace v Commission, C‑260/05 P, EU:C:2007:700, paragraph 78) 119 Therefore, the General Court, as part of the appraisal of the facts to be carried out by it alone, was fully entitled to hold, in paragraph 201 of the judgment under appeal, that the witness statements requested by the appellant were not capable of altering the finding, in paragraph 129 of the judgment under appeal, that the exchanges of sensitive business information at issue, occurring in Italy within Euroitalia, constituted an infringement of Article 101 TFEU and that, accordingly, the measures of inquiry requested by the appellant were not necessary.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11700">
+          <num>120</num>
+          <content eId="para_11700__content">
+            <p>Consequently, the seventh ground of appeal must be rejected as inadmissible.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11701">
+          <num>121</num>
+          <content eId="para_11701__content">
+            <p>Since none of the grounds of appeal relied on by the appellant has been upheld, the appeal must be dismissed in its entirety.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_11702">
+          <num>122</num>
+          <content eId="para_11702__content">
+            <p>Under Article 184(2) of the Rules of Procedure of the Court of Justice, where the appeal is unfounded, the Court is to make a decision as to costs.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11703">
+          <num>123</num>
+          <content eId="para_11703__content">
+            <p>Under Article 138(1) of those Rules, applicable to appeal proceedings by virtue of Article 184(1) thereof, the unsuccessful party is to be ordered to pay the costs if they have been applied for in the successful party's pleadings. Since the appellant has been unsuccessful and the Commission has applied for costs to be awarded against it, the appellant must be ordered to pay the costs relating to the present appeal proceedings. On those grounds, the Court (First Chamber) hereby: 1. Dismisses the appeal; 2. Orders Mamoli Robinetteria SpA to pay the costs.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Italian.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+      <references source="#source">
+        <TLCOrganization eId="company_7" showAs="" href="/akn/ontology/Organization/Company/company_7" />
+      </references>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Third Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>9 February 2017 (</p>
+      </tblock>
+      <tblock>
+        <p>1)</p>
+      </tblock>
+      <p>`Reference for a preliminary ruling -- Sugar -- Production levies -- Calculation of the average loss -- Calculation of production levies -- Regulation (EC) No 2267/2000 -- Validity -- Regulation (EC) No 1993/2001 -- Validity' In Case C‑585/15, REQUEST for a preliminary ruling under Article 267 TFEU from the tribunal de première instance francophone de Bruxelles (Francophone Court of first instance, Brussels, Belgium), made by decision of 14 October 2015, received at the Court on 12 November 2015, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#company_7">Raffinerie Tirlemontoise SA</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#">État belge</party>
+      </p>
+      <p>, THE COURT (Third Chamber), composed of L. Bay Larsen (Rapporteur), President of the Chamber, M. Vilaras, J. Malenovský, M. Safjan and D. Šváby, Judges, Advocate General: E. Sharpston, Registrar: V. Giacobbo-Peyronnel, Administrator, having regard to the written procedure and further to the hearing on 14 July 2016, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>
+            <organization refersTo="#company_7">Raffinerie Tirlemontoise SA</organization>
+          </p>
+          <p>, by D. Gérard, avocat, and H.-J. Prieß, Rechtsanwalt,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Belgian Government, by M. Jacobs and J.-C. Halleux, acting as Agents, assisted by M. Keup and B. De Moor, avocats,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Netherlands Government, by B. Koopman, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by A. Lewis and P. Ondrůšek, acting as Agents, having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_910">
+          <num>1</num>
+          <content eId="para_910__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Article 33(1) and (2) of Council Regulation (EC) No 2038/1999 of 13 September 1999 on the common organisation of the markets in the sugar sector ( OJ 1999 L 252, p. 1) and the validity, on the one hand, of Commission Regulation (EC) No 2267/2000 of 12 October 2000 fixing the production levies and the coefficient for calculating the additional levy in the sugar sector for the 1999/2000 marketing year ( OJ 2000 L 259, p. 29) and, on the other, of Commission Regulation (EC) No 1993/2001 of 11 October 2001 fixing the production levies in the sugar sector for the 2000/2001 marketing year ( OJ 2001 L 271, p. 15).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_911">
+          <num>2</num>
+          <content eId="para_911__content">
+            <p>The request has been made in proceedings between</p>
+            <p>
+              <organization refersTo="#company_7">Raffinerie Tirlemontoise SA</organization>
+            </p>
+            <p>( `the Raffinerie') and l'État Belge (the Belgian State) concerning a claim for reimbursement of overpaid sugar production levies for the 1999/2000 to 2004/2005 marketing years.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <paragraph eId="para_912">
+          <num>3</num>
+          <content eId="para_912__content">
+            <p>Recitals 14 to 17 of Regulation No 2038/1999 were worded as follows: `</p>
+            <blockList>
+              <item>
+                <num>(14)</num>
+                <p>the reasons which have hitherto led the Community to retain a production quota system for sugar, isoglucose and inulin syrups remain valid; however, changes have been made in that system to take account of recent developments in production and to provide the Community with the instruments necessary to ensure, in a fair yet efficient way, that the procedures themselves meet in full the cost of disposing of the surpluses of Community production over consumption; however, such a system should apply for a limited period only and should be regarded as transitional;</p>
+              </item>
+              <item>
+                <num>(15)</num>
+                <p>the common organisation of the sugar sector markets has been based, first, since the 1986/87 marketing year, on the principle of full financial responsibility on the part of producers for the losses incurred in each marketing year due to the disposal of that part of Community production under quota which is surplus to the Community's internal consumption and, secondly, on a differentiation of the price and disposal guarantees in line with the production quota allocated to each undertaking; sugar production quotas are allocated to each undertaking on the basis of objective production during a particular reference period; ...</p>
+              </item>
+              <item>
+                <num>(16)</num>
+                <p>... it is ... desirable to maintain the sector's self-financing arrangements and production quotas for a period corresponding to ... six marketing years;</p>
+              </item>
+              <item>
+                <num>(17)</num>
+                <p>financial responsibility should be guaranteed by the producers' contributions which take the form of a basic production levy charged on all production of A and B sugar but which is limited to 2% of the intervention price for white sugar and a B levy which is charged on the production of B sugar but which is subject to a limit of 37.5% of that price; isoglucose and inulin syrup producers under some conditions pay a proportion of those contributions ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_913">
+          <num>4</num>
+          <content eId="para_913__content">
+            <p>Article 33(1) and (2) of Regulation No 2038/1999 provided as follows: `1.   Before the end of each marketing year, there shall be recorded:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>estimates of the production of A and B sugar, A and B isoglucose and A and B inulin syrup attributable to the marketing year in question;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>estimates of the quantities of sugar, isoglucose and inulin syrup disposed of for consumption within the Community during the marketing year in question;</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>the exportable surplus obtained by subtracting the quantity referred to in</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(b)</num>
+                <p>from the quantity referred to in</p>
+              </item>
+              <item>
+                <num>(a)</num>
+                <p>;</p>
+                <blockList>
+                  <item>
+                    <num>(d)</num>
+                    <p>estimates of the average loss or the average revenue per tonne of sugar for export obligations to be fulfilled during the current marketing year. This average loss or average revenue shall be equal to the difference between the total amount of refunds and the total amount of levies on the total tonnage of export obligations in question;</p>
+                  </item>
+                  <item>
+                    <num>(e)</num>
+                    <p>estimates of the total loss or the total revenue, obtained by multiplying the surplus referred to in</p>
+                  </item>
+                </blockList>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>by the average loss or the average revenue referred to in (d). 2.   Before the end of the 2000/2001 marketing year and without prejudice to Article 26(5), there shall be recorded cumulatively for the 1995/96 to 2000/2001 marketing year[s]:</p>
+                <blockList>
+                  <item>
+                    <num>(a)</num>
+                    <p>the exportable surplus established, on the basis of the definitive production of A and B sugar, A and B isoglucose and, from the 1994/95 marketing year, A and B inulin syrup and the definitive quantity of sugar, isoglucose and, from the 1994/95 marketing year, inulin syrup disposed of for consumption within the Community;</p>
+                  </item>
+                  <item>
+                    <num>(b)</num>
+                    <p>the average loss or average revenue per tonne of sugar resulting from the total export obligations in question determined by following the calculating rule referred to in paragraph 1(d), second subparagraph;</p>
+                  </item>
+                  <item>
+                    <num>(c)</num>
+                    <p>the total loss or total revenue obtained by multiplying the surplus referred to in</p>
+                    <blockList>
+                      <item>
+                        <num>(a)</num>
+                        <p>by the average loss or the average revenue referred to in</p>
+                      </item>
+                      <item>
+                        <num>(b)</num>
+                        <p>;</p>
+                      </item>
+                    </blockList>
+                  </item>
+                  <item>
+                    <num>(d)</num>
+                    <p>the total sum of the basic production levies and the B levies charged. The estimated total loss or total revenue referred to in paragraph 1(e) shall be adjusted on the basis of the difference between the amounts recorded in</p>
+                    <blockList>
+                      <item>
+                        <num>(c)</num>
+                        <p>and</p>
+                      </item>
+                      <item>
+                        <num>(d)</num>
+                        <p>.'</p>
+                      </item>
+                    </blockList>
+                  </item>
+                </blockList>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_914">
+          <num>5</num>
+          <content eId="para_914__content">
+            <p>The production levies and the coefficient for calculating the additional levy in the sugar sector were fixed for the 1999/2000 marketing year by Regulation No 2267/2000. The production levies in the sugar sector were fixed for the 2000/2001 marketing year by Regulation No 1993/2001.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_915">
+          <num>6</num>
+          <content eId="para_915__content">
+            <p>Recitals 9 to 13 of Council Regulation (EC) No 1260/2001 of 19 June 2001 on the common organisation of the markets in the sugar sector ( OJ 2001 L 178, p. 1) were worded as follows: `</p>
+            <blockList>
+              <item>
+                <num>(9)</num>
+                <p>The reasons which have hitherto led the Community to adopt a production quota system for sugar, isoglucose and inulin syrup currently remain valid. However, that system has been adjusted to take account of recent developments in production, to provide the Community with the instruments necessary to ensure, in a fair yet efficient way, that the producers themselves meet in full the cost of disposing of the surpluses of Community production over consumption and to comply with the Community's obligations under the Agreements resulting from the Uruguay Round of multilateral trade negotiations, hereinafter referred to as ``GATT '', approved by [Council Decision 94/800/EC of 22 December 1994 concerning the conclusion on behalf of the European Community, as regards matters within its competence, of the agreements reached in the Uruguay Round multilateral negotiations (1986-1994) ( OJ 1994 L 336, p. 1)].</p>
+              </item>
+              <item>
+                <num>(10)</num>
+                <p>... the quota system should be maintained for the 2001/2002 to 2005/2006 marketing years.</p>
+              </item>
+              <item>
+                <num>(11)</num>
+                <p>The common organisation of the markets in the sugar sector is based, firstly, on the principle that producers should bear full financial responsibility for the losses incurred each marketing year from disposing of that part of Community production under quota which is surplus to the Community's internal consumption and, secondly, on a differentiation of price guarantees for disposal reflecting the production quota allocated to each undertaking. A sugar production quota is allocated to each undertaking on the basis of its actual production during a particular reference period.</p>
+              </item>
+              <item>
+                <num>(12)</num>
+                <p>... The sector's system of self-financing through production levies and the production quota regime should be maintained.</p>
+              </item>
+              <item>
+                <num>(13)</num>
+                <p>The producers should thus continue to assume financial responsibility by paying a basic production levy charged on all production of A and B sugar, which is however limited to 2% of the intervention price for white sugar, and a B levy charged on the production of B sugar up to a limit of 37.5% of that price. In certain circumstances, producers of isoglucose and inulin syrup also pay a proportion of those contributions. ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_916">
+          <num>7</num>
+          <content eId="para_916__content">
+            <p>Article 15(1) and (2) of Regulation No 1260/2001 provided as follows: `1.   Before the end of each marketing year, there shall be recorded:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>a forecast of the production of A and B sugar, A and B isoglucose and A and B inulin syrup attributable to the marketing year concerned;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>a forecast of the quantities of sugar, isoglucose and inulin syrup disposed of for consumption within the Community during the marketing year concerned;</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>the exportable surplus obtained by subtracting the quantity referred to in</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(b)</num>
+                <p>from the quantity referred to in</p>
+              </item>
+              <item>
+                <num>(a)</num>
+                <p>;</p>
+                <blockList>
+                  <item>
+                    <num>(d)</num>
+                    <p>an estimate of the average loss or revenue per tonne of sugar for export obligations to be fulfilled during the current marketing year. This average loss or revenue shall be equal to the difference between the total amount of refunds and the total amount of levies on the total tonnage of export obligations in question;</p>
+                  </item>
+                  <item>
+                    <num>(e)</num>
+                    <p>an estimate of overall loss or revenue, obtained by multiplying the surplus referred to in</p>
+                  </item>
+                </blockList>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>by the average loss or revenue referred to in (d). 2.   Before the end of the 2005/2006 marketing year and without prejudice to Article 10(3), (4), (5) and (6), the following shall be recorded cumulatively for the 2001/2002 to 2005/2006 marketing years:</p>
+                <blockList>
+                  <item>
+                    <num>(a)</num>
+                    <p>the exportable surplus established on the basis of the definitive production of A and B sugar, A and B isoglucose and A and B inulin syrup and the definitive quantity of sugar, isoglucose and inulin syrup disposed of for consumption within the Community;</p>
+                  </item>
+                  <item>
+                    <num>(b)</num>
+                    <p>the average loss or revenue per tonne of sugar resulting from the total export obligations concerned, calculated using the method described in the second subparagraph of paragraph 1(d) above;</p>
+                  </item>
+                  <item>
+                    <num>(c)</num>
+                    <p>the overall loss or revenue, obtained by multiplying the surplus referred to in</p>
+                    <blockList>
+                      <item>
+                        <num>(a)</num>
+                        <p>by the average loss or revenue referred to in</p>
+                      </item>
+                      <item>
+                        <num>(b)</num>
+                        <p>;</p>
+                      </item>
+                    </blockList>
+                  </item>
+                  <item>
+                    <num>(d)</num>
+                    <p>the sum total of the basic production levies and the B levies charged. The estimate of overall loss or revenue referred to in paragraph 1(e) shall be adjusted by the difference between the amounts referred to in</p>
+                    <blockList>
+                      <item>
+                        <num>(c)</num>
+                        <p>and</p>
+                      </item>
+                      <item>
+                        <num>(d)</num>
+                        <p>.'</p>
+                      </item>
+                    </blockList>
+                  </item>
+                </blockList>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_917">
+          <num>8</num>
+          <content eId="para_917__content">
+            <p>The Raffinerie is an undertaking which produces sugar.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_918">
+          <num>9</num>
+          <content eId="para_918__content">
+            <p>As it took the view that the production levies which it had paid in respect of the 1999/2000 to 2005/2006 marketing years were excessive, the Raffinerie brought an action against the Bureau d'intervention et de restitution belge (Belgian Intervention and Restitution Board) for reimbursement of the overpaid levies.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_919">
+          <num>10</num>
+          <content eId="para_919__content">
+            <p>On 1 July 2014, the long-standing liabilities of the Bureau d'intervention et de restitution belge (Belgian Intervention and Restitution Board), namely, inter alia, amounts owing and amounts owed, were transferred to the Belgian State.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_920">
+          <num>11</num>
+          <content eId="para_920__content">
+            <p>With regard to the 1999/2000 and 2000/2001 marketing years in particular, the Raffinerie claims that the reasoning applied by the Court in the judgment of 27 September 2012, Zuckerfabrik Jülich and Others ( C‑113/10, C‑147/10 and C‑234/10, EU:C:2012:591) calls into question the calculation of the levies established for those two marketing years by Regulations No 2267/2000 and No 1993/2001, respectively, but that the Court has not yet had the occasion to rule, in the questions referred to it for a preliminary ruling to date, in respect of those two regulations, on the grounds for invalidity which it upheld in its judgment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_921">
+          <num>12</num>
+          <content eId="para_921__content">
+            <p>In that context, the tribunal de première instance de Bruxelles (Court of first instance, Brussels) decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling: `1. Is Article 33(1) of Regulation No 2038/1999 to be interpreted, particularly in the light of the judgment of 27 September 2012, Zuckerfabrik Jülich and Others ( C‑113/10, C‑147/10 and C‑234/10, EU:C:2012:591), as meaning that, for the purpose of calculating the average loss, it is necessary to divide, for all categories of sugar exported, the total amount of the actual expenditure by the total amount of the quantities exported, regardless of whether or not refunds have actually been paid for those quantities? 2. Is Article 33(2) of Regulation No 2038/1999 to be interpreted, particularly in the light of the judgment of 27 September 2012, Zuckerfabrik Jülich and Others ( C‑113/10, C‑147/10 and C‑234/10, EU:C:2012:591), as meaning that the carry forward to be taken into account (as a debit or credit item) in the overall calculation of the production levies is to be calculated, for all categories of sugar exported, by dividing the total amount of the actual expenditure by the total amount of the quantities actually exported, regardless of whether or not export refunds have actually been paid for those quantities? 3. If the answer to Question 1 is in the affirmative, are Regulation No 2267/2000 and Regulation No 1993/2001 invalid?'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the questions referred</p>
+        </tblock>
+        <tblock>
+          <p>Preliminary observations</p>
+        </tblock>
+        <paragraph eId="para_922">
+          <num>13</num>
+          <content eId="para_922__content">
+            <p>As a preliminary point, it should be noted, first, that Article 33(1) of Regulation No 2038/1999, establishing the criteria for determining the production levies for the 1995/1996 to 2000/2001 marketing years, and Article 15(1) of Regulation No 1260/2001, establishing the criteria for determining the production levies for the 2001/2002 to 2005/2006 marketing years, are essentially identical (see, to that effect, judgment of 8 May 2008, Zuckerfabrik Jülich and Others, C‑5/06 and C‑23/06 to C‑36/06, EU:C:2008:260, paragraph 31). The same is true for Article 33(2) of Regulation No 2038/1999 and Article 15(2) of Regulation No 1260/2001.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_923">
+          <num>14</num>
+          <content eId="para_923__content">
+            <p>Second, recitals 15 to 17 of Regulation No 2038/1999, underlying Article 33 thereof, are essentially identical to recitals 11 to 13 of Regulation No 1260/2001, underlying Article 15 thereof.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_924">
+          <num>15</num>
+          <content eId="para_924__content">
+            <p>In those circumstances, as the Raffinerie, the Belgian Government and the Commission submit, it is appropriate for the Court to find that Article 33(1) and (2) of Regulation No 2038/1999 and Article 15(1) and (2) of Regulation No 1260/2001 must be interpreted uniformly.</p>
+            <tblock>
+              <p>The first question</p>
+            </tblock>
+            <p>16 Under Article 33(1)(d) of Regulation No 2038/1999, the average loss is equal to the difference between the total amount of refunds and the total amount of levies on the total tonnage of the export obligations to be fulfilled during the marketing year concerned (see, to that effect, judgments of 8 May 2008, Zuckerfabrik Jülich and Others, C‑5/06 and C‑23/06 to C‑36/06, EU:C:2008:260, paragraph 46, and of 27 September 2012, Zuckerfabrik Jülich and Others, C‑113/10, C‑147/10 and C‑234/10, EU:C:2012:591, paragraph 39).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_925">
+          <num>17</num>
+          <content eId="para_925__content">
+            <p>The concept of `export obligations to be fulfilled during the current marketing year', the tonnage of which, pursuant to Article 33(1)(d) of Regulation No 2038/1999, constitutes the denominator of the ratio making it possible to calculate the average loss, has the effect of covering any quantity of products coming under Article 33 of that regulation which is intended for export from the European Community, and the question whether or not the quantities of products for export attract export refunds is not relevant in the light of that concept (see, to that effect, judgment of 8 May 2008, Zuckerfabrik Jülich and Others, C‑5/06 and C‑23/06 to C‑36/06, EU:C:2008:260, paragraphs 49 to 51).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_926">
+          <num>18</num>
+          <content eId="para_926__content">
+            <p>Therefore, all the quantities of exported products which come under Article 33 of Regulation No 2038/1999 are to be taken into account pursuant to Article 33(1) thereof for the purpose of calculating the estimated average loss per tonne of product, regardless of whether or not refunds have actually been paid (see, to that effect, judgment of 8 May 2008, Zuckerfabrik Jülich and Others, C‑5/06 and C‑23/06 to C‑36/06, EU:C:2008:260, paragraph 61).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_927">
+          <num>19</num>
+          <content eId="para_927__content">
+            <p>As to the `total amount of refunds', which, pursuant to Article 33(1)(d) of Regulation No 2038/1999, constitutes part of the numerator of the ratio making it possible to calculate average loss, this must bear a direct relationship with the costs for the Community's budget related to the disposal of product surpluses in the sugar sector and must, consequently, be based on the taking into account of the amount of export refunds paid to ensure the disposal of the quantities of product which have been subject to export obligations (see, to that effect, judgment of 27 September 2012, Zuckerfabrik Jülich and Others, C‑113/10, C‑147/10 and C‑234/10, EU:C:2012:591, paragraphs 48 and 49).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_928">
+          <num>20</num>
+          <content eId="para_928__content">
+            <p>In the light of the foregoing, the answer to the first question is that Article 33(1) of Regulation No 2038/1999 must be interpreted as meaning that, for the purpose of calculating the average loss, it is necessary to divide the total amount of the actual expenditure for export refunds for products which come under that provision by the total amount of the quantities of those products which were exported, regardless of whether or not refunds have in fact been paid in respect of the latter.</p>
+            <tblock>
+              <p>The second question</p>
+            </tblock>
+            <p>21 It should be pointed out that, pursuant to Regulation No 2038/1999, in particular Article 33 thereof, production levies are calculated from the total loss (see, to that effect, judgment of 8 May 2008, Zuckerfabrik Jülich and Others, C‑5/06 and C‑23/06 to C‑36/06, EU:C:2008:260, paragraph 41).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_929">
+          <num>22</num>
+          <content eId="para_929__content">
+            <p>In that regard, it should be borne in mind that the objective of Regulation No 2038/1999, as well as that of Regulation No 1260/2001, is to establish a system of self-financing of the costs of disposing of surpluses, which consists of ensuring, in a fair yet efficient way, that the producers themselves meet those costs in full. Consequently, the method of calculation adopted must not lead, in practice, to fixing a priori the total loss at an amount greater than that of the costs linked to refunds in relation to the disposal of Community production surpluses (see, to that effect, judgments of 8 May 2008, Zuckerfabrik Jülich and Others, C‑5/06 and C‑23/06 to C‑36/06, EU:C:2008:260, paragraphs 44, 57 and 60, and of 27 September 2012, Zuckerfabrik Jülich and Others, C‑113/10, C‑147/10 and C‑234/10, EU:C:2012:591, paragraph 46).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_930">
+          <num>23</num>
+          <content eId="para_930__content">
+            <p>It is apparent from Article 33(2)(c) of Regulation No 2038/1999 that the total loss is obtained by multiplying the exportable surplus by the average loss. Therefore, any overestimation of the average loss inevitably leads to an overestimation of the total loss and, consequently, to the fixing of production levies which are too high (see, by analogy, judgment of 27 September 2012, Zuckerfabrik Jülich and Others, C‑113/10, C‑147/10 and C‑234/10, EU:C:2012:591, paragraph 47).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_931">
+          <num>24</num>
+          <content eId="para_931__content">
+            <p>The average loss within the meaning of Article 33(2)(b) of Regulation No 2038/1999 is calculated by using the method indicated in the second subparagraph of Article 33(1)(d) thereof.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_932">
+          <num>25</num>
+          <content eId="para_932__content">
+            <p>Accordingly, the findings relating to the second subparagraph of Article 33(1)(d) of Regulation No 2038/1999, set out in paragraphs 17 to 19 of the present judgment, also apply with regard to Article 33(2)(b) thereof.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_933">
+          <num>26</num>
+          <content eId="para_933__content">
+            <p>It follows that the answer to the second question is that Article 33(2) of Regulation No 2038/1999 must be interpreted as meaning that, for the purpose of the overall calculation of the production levies, it is necessary to take into account the average loss calculated by dividing the total amount of the actual expenditure for export refunds for products which come under that provision by the total amount of the quantities exported, regardless of whether or not refunds have in fact been paid in respect of the latter.</p>
+            <tblock>
+              <p>The third question</p>
+            </tblock>
+            <p>27 It must be borne in mind that the Court has held that the method of calculation used by the Commission to determine production levies in the sugar sector, as fixed by Commission Regulation (EC) No 1193/2009 of 3 November 2009 correcting Regulations (EC) No 1762/2003, (EC) No 1775/2004, (EC) No 1686/2005, (EC) No 164/2007 and fixing the production levies in the sugar sector for the marketing years 2002/2003, 2003/2004, 2004/2005 and 2005/2006 ( OJ 2009 L 321, p. 1), was not based on the taking into account of the amount of export refunds paid to ensure the disposal of the quantities of sugar contained in processed products which had been subject to export obligations. The Court has held that that method of calculation consisted of attributing to all those quantities a theoretical amount of refund, based on the average of the amounts fixed periodically by the Commission, irrespective of how effective it was to pay a possible refund and of the actual amount of such a refund (judgment of 27 September 2012, Zuckerfabrik Jülich and Others, C‑113/10, C‑147/10 and C‑234/10, EU:C:2012:591, paragraph 48).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_934">
+          <num>28</num>
+          <content eId="para_934__content">
+            <p>Since that theoretical amount of refund is used as part of the numerator of the ratio making it possible to calculate the average loss, the increase in the numerator necessarily implied an overestimation of the average loss and, thus, of the overall loss, contrary to Article 15(1) of Regulation No 1260/2001 (see, to that effect, judgment of 27 September 2012, Zuckerfabrik Jülich and Others, C‑113/10, C‑147/10 and C‑234/10, EU:C:2012:591, paragraph 50).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_935">
+          <num>29</num>
+          <content eId="para_935__content">
+            <p>Consequently, Regulation No 1193/2009, which, with the exception of Article 3 thereof, has already been annulled by the General Court of the European Union in its judgment of 29 September 2011, Poland v Commission ( T‑4/06, not published, EU:T:2011:546), was declared invalid by the Court in its judgment of 27 September 2012, Zuckerfabrik Jülich and Others ( C‑113/10, C‑147/10 and C‑234/10, EU:C:2012:591, paragraph 54).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_936">
+          <num>30</num>
+          <content eId="para_936__content">
+            <p>It is common ground that the method of calculation used by the Commission to determine production levies in the sugar sector, as fixed by Regulations No 2267/2000 and No 1993/2001, was also not based on the taking into account of the actual amount of export refunds paid to ensure the disposal of the quantities of sugar contained in processed products which had been subject to export obligations.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_937">
+          <num>31</num>
+          <content eId="para_937__content">
+            <p>To the extent that such a method of calculation, for the reasons set out in paragraph 28 above, implied an overestimation of the average loss and, thus, of the total loss, it must be deemed to be contrary also to Article 33(1) of Regulation No 2038/1999.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_938">
+          <num>32</num>
+          <content eId="para_938__content">
+            <p>Therefore, the answer to the third question must be that Regulations No 2267/2000 and No 1993/2001 are invalid.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the limitation of the temporal effects of the present judgment</p>
+        </tblock>
+        <paragraph eId="para_939">
+          <num>33</num>
+          <content eId="para_939__content">
+            <p>The Commission submits that, given the time which has elapsed since the adoption of Regulations No 2267/2000 and No 1993/2001, the difficulty in retrieving data relating to the years at issue in the main proceedings, and the fact that some operators in existence at that time have now disappeared, the Court should limit the effects of the declaration of invalidity of those regulations by restricting the benefit of such a declaration to companies which, before the date of delivery of the present judgment, had initiated legal proceedings or lodged an equivalent complaint for reimbursement of sums unduly paid in respect of the production levies in the sugar sector determined by those regulations.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_940">
+          <num>34</num>
+          <content eId="para_940__content">
+            <p>Such a limitation of the temporal effects of invalidity would not, the Commission submits, deprive the companies which had initiated legal proceedings or lodged a complaint of legal protection of their rights. Rather, it would avoid the creation of a situation liable to distort competition between companies located in the `old' Member States and those located in the Member States which have acceded to the European Union since 2004, in so far as the former alone might be eligible for reimbursement of overpaid levies.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_941">
+          <num>35</num>
+          <content eId="para_941__content">
+            <p>For its part, the Kingdom of Belgium, at the hearing, argued that there was no objective difference which would serve to differentiate the situation of companies which had initiated proceedings before the date of delivery of the present judgment from that of those companies which had refrained from doing so, and it suggested, therefore, that the effects of the declaration of invalidity of Regulations No 2267/2000 and No 1993/2001 be limited for the future.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_942">
+          <num>36</num>
+          <content eId="para_942__content">
+            <p>Lastly, the Raffinerie and the Kingdom of the Netherlands contended in their pleadings that there were no overriding considerations of legal certainty such as to justify the temporal limitation of the declaration of invalidity of those regulations in the present case.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_943">
+          <num>37</num>
+          <content eId="para_943__content">
+            <p>The Court must point out in this regard that, where it is justified by overriding considerations of legal certainty, the second paragraph of Article 264 TFEU, which is also applicable by analogy to a request under Article 267 TFEU for a preliminary ruling on the validity of acts of the European Union, confers on the Court a discretion to decide, in each particular case, which specific effects of the act in question must be regarded as definitive (judgment of 28 April 2016, Borealis Polyolefine and Others, C‑191/14, C‑192/14, C‑295/14, C‑389/14 and C‑391/14 to C‑393/14, EU:C:2016:311, paragraph 103).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_944">
+          <num>38</num>
+          <content eId="para_944__content">
+            <p>Thus, the Court has exercised the possibility of limiting the temporal effect of a declaration that an EU measure is invalid in the case where overriding considerations of legal certainty involving all the interests, public as well as private, at stake in the cases concerned precluded the calling into question of the charging or payment of sums of money effected on the basis of that measure in respect of the period prior to the date of the judgment (judgment of 8 November 2001, Silos, C‑228/99, EU:C:2001:599, paragraph 36).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_945">
+          <num>39</num>
+          <content eId="para_945__content">
+            <p>In the present case, neither the difficulty in retrieving data relating to the 1999/2000 and 2000/2001 marketing years nor the fact that some operators in existence at the time material to the main proceedings have now disappeared can be regarded as constituting overriding considerations of legal certainty justifying a limitation of the temporal effects of the present judgment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_946">
+          <num>40</num>
+          <content eId="para_946__content">
+            <p>Moreover, the fact that the companies situated in the `old' Member States which had to pay levies in respect of the 1999/2000 and 2000/2001 marketing years would be entitled to reimbursement of overpaid levies is not such as to distort competition between those companies and those situated in the Member States which have acceded to the European Union since 2004, as the purpose of such reimbursement is simply to put an end to a situation in which the companies in the former category are placed at a disadvantage.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_947">
+          <num>41</num>
+          <content eId="para_947__content">
+            <p>In those circumstances, there is no need to limit the temporal effects of the present judgment.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_948">
+          <num>42</num>
+          <content eId="para_948__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Third Chamber) hereby rules: 1. Article 33(1) of Council Regulation (EC) No 2038/1999 of 13 September 1999 on the common organisation of the markets in the sugar sector must be interpreted as meaning that, for the purpose of calculating the average loss, it is necessary to divide the total amount of the actual expenditure for export refunds for products which come under that provision by the total amount of the quantities of those products which were exported, regardless of whether or not refunds have in fact been paid for the latter. 2. Article 33(2) of that regulation must be interpreted as meaning that, for the purpose of the overall calculation of the production levies, it is necessary to take into account the average loss calculated by dividing the total amount of the actual expenditure for export refunds for products which come under that provision by the total amount of the quantities exported for those products, regardless of whether or not refunds have in fact been paid for the latter. 3. Commission Regulation (EC) No 2267/2000 of 12 October 2000 fixing the production levies and the coefficient for calculating the additional levy in the sugar sector for the 1999/2000 marketing year and Commission Regulation (EC) No 1993/2001 of 11 October 2001 fixing the production levies in the sugar sector for the 2000/2001 marketing year are invalid.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]</p>
+      <blockList>
+        <item>
+          <num>( 1)</num>
+          <p>* Language of the case: French.</p>
+        </item>
+      </blockList>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

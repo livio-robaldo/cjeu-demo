@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Seventh Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>2 March 2017 (</p>
+      </tblock>
+      <tblock>
+        <p>1)</p>
+      </tblock>
+      <p>`Reference for a preliminary ruling -- Consumer protection -- Directive 2011/83/EU -- Article 21 -- Communication by telephone -- Operation of a telephone line by a trader to enable consumers to contact him in relation to a contract concluded -- Prohibition on applying a rate higher than the basic rate -- Concept of `basic rate'' In Case C‑568/15, REQUEST for a preliminary ruling under Article 267 TFEU from the Landgericht Stuttgart (Regional Court, Stuttgart (Germany)), made by decision of 15 October 2015, received at the Court on 5 November 2015, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">Zentrale zur Bekämpfung unlauteren Wettbewerbs Frankfurt am Main eV</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#">comtech GmbH</party>
+      </p>
+      <p>, THE COURT (Seventh Chamber), composed of A. Prechal (Rapporteur), President of the Chamber, C. Toader and E. Jarašiūnas, Judges, Advocate General: M. Szpunar, Registrar: A. Calot Escobar, having regard to the written procedure, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>Zentrale zur Bekämpfung unlauteren Wettbewerbs Frankfurt am Main eV, by M. Ross and M. Hammer, Rechtsanwälte,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Estonian Government, by K. Kraavi-Käerdi, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Lithuanian Government, by D. Kriaučiūnas and K. Mickutė, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Netherlands Government, by J. Langer and M. Bulterman, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Finnish Government, by S. Hartikainen, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by D. Roussanov and S. Grünheid, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 10 November 2016,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_1786">
+          <num>1</num>
+          <content eId="para_1786__content">
+            <p>This reference for a preliminary ruling concerns the interpretation of Article 21 of Directive 2011/83/EU of the European Parliament and of the Council of 25 October 2011 on consumer rights, amending Council Directive 93/13/EEC and Directive 1999/44/EC of the European Parliament and of the Council and repealing Council Directive 85/577/EEC and Directive 97/7/EC of the European Parliament and of the Council ( OJ 2011 L 304, p. 64).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1787">
+          <num>2</num>
+          <content eId="para_1787__content">
+            <p>The reference was made in the context of a dispute between Zentrale zur Bekämpfung unlauteren Wettbewerbs Frankfurt am Main eV, an association for combatting unfair commercial practices, and comtech GmbH, a German company selling electronic and electrical equipment, concerning the telephone call rate applied by that company for its after-sales service.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <paragraph eId="para_1788">
+          <num>3</num>
+          <content eId="para_1788__content">
+            <p>Article 1 of Directive 2011/83 defines its object as follows: `The purpose of this Directive is, through the achievement of a high level of consumer protection, to contribute to the proper functioning of the internal market by approximating certain aspects of the laws, regulations and administrative provisions of the Member States concerning contracts concluded between consumers and traders.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1789">
+          <num>4</num>
+          <content eId="para_1789__content">
+            <p>Article 6(1) of that directive, entitled `Information requirements for distance and off-premises contracts', provides: `Before the consumer is bound by a distance or off-premises contract, or any corresponding offer, the trader shall provide the consumer with the following information in a clear and comprehensible manner: ...</p>
+            <blockList>
+              <item>
+                <num>(f)</num>
+                <p>the cost of using the means of distance communication for the conclusion of the contract where that cost is calculated other than at the basic rate; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1790">
+          <num>5</num>
+          <content eId="para_1790__content">
+            <p>Under the first paragraph of Article 13(1) of the directive: `The trader shall reimburse all payments received from the consumer, including, if applicable, the costs of delivery without undue delay and in any event not later than 14 days from the day on which he is informed of the consumer's decision to withdraw from the contract in accordance with Article 11.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1791">
+          <num>6</num>
+          <content eId="para_1791__content">
+            <p>Article 19 of Directive 2011/83 provides: `Member States shall prohibit traders from charging consumers, in respect of the use of a given means of payment, fees that exceed the cost borne by the trader for the use of such means.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1792">
+          <num>7</num>
+          <content eId="para_1792__content">
+            <p>Article 21 of that directive, entitled `Communication by telephone', is worded as follows: `Member States shall ensure that where the trader operates a telephone line for the purpose of contacting him by telephone in relation to the contract concluded, the consumer, when contacting the trader is not bound to pay more than the basic rate. The first subparagraph shall be without prejudice to the right of telecommunication services providers to charge for such calls.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>German law</p>
+        </tblock>
+        <paragraph eId="para_1793">
+          <num>8</num>
+          <content eId="para_1793__content">
+            <p>Paragraph 312a of the Bürgerliches Gesetzbuch (Civil Code, `the BGB'), entitled `General obligations and principles applying to consumer contracts; limits to agreements on charges', states: ` ...</p>
+            <blockList>
+              <item>
+                <num>(5)</num>
+                <p>An agreement under which a consumer is obliged to pay a charge for contacting the trader for the purpose of answering questions or providing explanations in relation to a contract concluded between them, via a telephone line that the trader provides for such purposes, shall be ineffective if the charges agreed upon exceed the charges for the mere use of the telecommunications service. Where an agreement is ineffective under the first sentence, the consumer shall also not be obliged to pay charges for the call to the telecommunications service provider. The telecommunications service provider shall be entitled to claim the charges for the use merely of the telecommunications service as such from the trader who concluded the ineffective agreement with the consumer. ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_1794">
+          <num>9</num>
+          <content eId="para_1794__content">
+            <p>On its website, comtech displays the telephone number of a support service, inter alia, for customers who have already concluded a sales contract and wish to obtain information or make a complaint. That telephone number begins with the prefix 0180, which is generally used in Germany for support services at a national rate. Call charges to such a `non-geographic' number are higher than those for a standard call to a `geographic' landline or mobile phone number. According to the order for reference, call charges to comtech's number with the prefix 0180 are EUR 0.14 per minute from a landline telephone network and EUR 0.42 per minute from a mobile telephone network.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1795">
+          <num>10</num>
+          <content eId="para_1795__content">
+            <p>Zentrale zur Bekämpfung unlauteren Wettbewerbs Frankfurt am Main claims that the provision of a telephone helpline at a rate higher than that charged for standard calls is an unfair commercial practice contrary to Paragraph 312a(5) of the BGB. On that basis, it called on comtech to discontinue the practice at issue and brought an action against comtech before the Landgericht Stuttgart (Regional Court, Stuttgart, Germany).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1796">
+          <num>11</num>
+          <content eId="para_1796__content">
+            <p>Before that court, comtech claims that Paragraph 312a(5) of the BGB, read in the light of Article 21 of Directive 2011/83, stipulates that the trader in question cannot make a profit through a telephone helpline. Those provisions do not therefore preclude the rate for calls to a helpline from exceeding that for `standard calls', thereby allowing the trader to off-set the cost incurred in providing such a helpline, providing that he does not derive a profit as a result.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1797">
+          <num>12</num>
+          <content eId="para_1797__content">
+            <p>The referring court states that, in order to rule on the dispute in the main proceedings, an interpretation is required of the concept of `charges for the mere use of the telecommunications service' set out in Paragraph 312a(5) of the BGB. Since telephone helpline rates such as the one at issue in the main proceedings have been harmonised at European level under Article 21 of Directive 2011/83, that provision must also be interpreted. However, according to the referring court, that provision provides that the consumer is not bound to pay more than the basic rate for telephone calls following the conclusion of a contract.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1798">
+          <num>13</num>
+          <content eId="para_1798__content">
+            <p>According to that court, the German legislature's objective was to prevent the trader from making a profit from the provision of a non-geographic helpline. Such an interpretation of Article 21 of Directive 2011/83, and thus of Paragraph 312a(5) of the BGB, would not preclude the consumer from paying more for a call to a non-geographic line than for a standard call, provided that the sums thereby received do not exceed the cost of providing such a line.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1799">
+          <num>14</num>
+          <content eId="para_1799__content">
+            <p>However, the referring court is uncertain as to whether a more restrictive interpretation of the concept of `basic rate' than that stated in the previous paragraph should be adopted in order to ensure a higher level of consumer protection. If so, the absence of profit would not suffice in so far as calls to a line such as that at issue in the main proceedings are always capable of being more expensive than those to standard lines. The wording of Article 21 of the directive and its purpose support such an interpretation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1800">
+          <num>15</num>
+          <content eId="para_1800__content">
+            <p>Under those circumstances, the Landgericht Stuttgart (Regional Court, Stuttgart) decided to stay its proceedings and to refer the following questions to the Court of Justice for a preliminary ruling: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Is the first paragraph of Article 21 of Directive [2011/83] to be interpreted as meaning that, where a trader operates a telephone line for the purpose of consumers contacting the trader by telephone in relation to contracts concluded with the trader, a consumer contacting the trader by telephone must not incur higher charges than those that the consumer would incur for calling a standard (geographic) landline or mobile number?</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>Does the first paragraph of Article 21 of Directive [2011/83] preclude national legislation according to which, where a trader operates a shared-cost service on an 0180 number for the purpose of consumers contacting the trader by telephone in relation to contracts concluded with the trader, a consumer must pay that which the telecommunications service provider charges the consumer for the use of that telecommunications service, even where those charges exceed those which the consumer would incur for calling a standard (geographic) landline or mobile number? Does the first paragraph of Article 21 of Directive [2011/83] not preclude such national legislation where the telecommunications service provider does not pass on to the trader part of the charges that he receives from the consumer for contacting the trader on the 0180 number?'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the questions referred</p>
+        </tblock>
+        <paragraph eId="para_1801">
+          <num>16</num>
+          <content eId="para_1801__content">
+            <p>By its questions, which it is appropriate to consider together, the referring court asks, in essence, whether the concept of `basic rate', referred to in Article 21 of Directive 2011/83, must be interpreted as meaning that charges, for a call relating to a contract concluded with a trader, to a telephone helpline operated by the trader may not exceed call charges to a standard geographic landline or mobile telephone line, and if it is relevant, in that regard, whether or not the trader makes a profit through that telephone helpline.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1802">
+          <num>17</num>
+          <content eId="para_1802__content">
+            <p>Under the first paragraph of Article 21 of Directive 2011/83, the Member States are to ensure that where the trader operates a telephone line for the purpose of contacting him by telephone in relation to the contract concluded, the consumer, when contacting the trader, is not to be bound to pay more than the basic rate.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1803">
+          <num>18</num>
+          <content eId="para_1803__content">
+            <p>However, the concept of a `basic rate', referred to in that article, is not defined by Directive 2011/83.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1804">
+          <num>19</num>
+          <content eId="para_1804__content">
+            <p>In those circumstances, the meaning and scope of that concept must be determined by considering its usual meaning in everyday language, while also taking into account the context in which it occurs and the purposes of the rules of which it is part (see, to that effect, judgment of 5 October 2016, TMD, C‑412/15, EU:C:2016:738, paragraph 26 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1805">
+          <num>20</num>
+          <content eId="para_1805__content">
+            <p>As regards its usual meaning, the concept of `basic rate' suggests the rate set for a standard call. It must be ascertained whether the context and aim of Article 21 of Directive 2011/83 permit the finding that the concept is being used in that article in that ordinary sense of the term.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1806">
+          <num>21</num>
+          <content eId="para_1806__content">
+            <p>As regards the context in which that article occurs, the Court notes that the concept of `basic rate' is also referred to in Article 6(1)(f) of the directive. That provision provides that the trader must inform the consumer if the cost of the means of distance communication for the conclusion of the contract is calculated other than at the basic rate.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1807">
+          <num>22</num>
+          <content eId="para_1807__content">
+            <p>Failing indications to the contrary, it follows from that provision that the basic rate referred to in that provision corresponds to the standard cost of an ordinary call that a consumer would expect to incur and for which a trader is not required to inform the consumer of its amount.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1808">
+          <num>23</num>
+          <content eId="para_1808__content">
+            <p>Even though Article 6 of Directive 2011/83 refers to the pre-contractual stage, the fact remains that that interpretation of the concept of `basic rate' is of guidance for the interpretation of the same concept, referred to in Article 21 of that directive, relating to the post-contractual stage of the contract. It is important for the consumer to be able to use a telephone line made available by the trader and incur ordinary charges, a fortiori after the conclusion of the contract, so that he may assert his rights.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1809">
+          <num>24</num>
+          <content eId="para_1809__content">
+            <p>In addition, it appears from several articles in Directive 2011/83 that, in principle, it is not for the consumer to bear charges other than ordinary charges if he exercises rights provided for by that directive, and that potential additional costs are therefore to be borne by the trader.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1810">
+          <num>25</num>
+          <content eId="para_1810__content">
+            <p>Thus, Article 19 of that directive provides, in respect of the use of a given means of payment, that `Member States shall prohibit traders from charging consumers ... fees that exceed the cost borne by the trader for the use of such means.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1811">
+          <num>26</num>
+          <content eId="para_1811__content">
+            <p>Article 13(1) of the directive provides, in turn, that, where the consumer exercises his right of withdrawal, all payments made by the consumer, including the costs of delivery, are to be reimbursed to him by the trader. The Court has previously held, with regard to the right of withdrawal as provided for in Directive 97/7/EC of the European Parliament and of the Council of 20 May 1997 on the protection of consumers in respect of distance contracts ( OJ 1997 L 144, p. 19), which preceded Directive 2011/83, that, in principle, in the case of withdrawal by a consumer within the withdrawal period, the seller may not claim compensation from the consumer for the value of the use of the consumer goods acquired under a distance contract (see, to that effect, judgment of 3 September 2009, Messner, C‑489/07, EU:C:2009:502, paragraph 29). In addition, a trader is not permitted to charge the costs of delivering the goods to the consumer where the latter exercises his right of withdrawal (see, to that effect, judgment of 15 April 2010, Heinrich Heine, C‑511/08, EU:C:2010:189, paragraph 59).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1812">
+          <num>27</num>
+          <content eId="para_1812__content">
+            <p>Thus, it follows from the context in which Article 21 of Directive 2011/83 occurs that the concept of `basic rate' refers to an ordinary rate for a telephone call at no additional cost for the consumer.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1813">
+          <num>28</num>
+          <content eId="para_1813__content">
+            <p>As the Advocate General stated in paragraph 32 of his Opinion, such an interpretation also mirrors the aim pursued by Directive 2011/83 of achieving a high level of consumer protection, as referred to in recitals 3 to 5 and 7 and in Article 1 of that directive. In addition, consumer protection is enshrined in EU policies by Article 169 TFEU and Article 38 of the Charter of Fundamental Rights of the European Union.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1814">
+          <num>29</num>
+          <content eId="para_1814__content">
+            <p>An interpretation of the concept of `basic rate' to the effect that traders are permitted to charge rates higher than that of a standard call to a geographic landline or mobile telephone line would be liable to discourage consumers from using a telephone helpline in order to obtain information in relation to the contract concluded with the trader or from asserting their rights relating to, inter alia, a guarantee or withdrawal.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1815">
+          <num>30</num>
+          <content eId="para_1815__content">
+            <p>The fact that, under the second paragraph of Article 21 of Directive 2011/83, telephone service providers are permitted to charge consumers for telephone calls is irrelevant to the previous considerations, provided that the amounts charged do not exceed the ordinary charges which consumers would incur for a standard call.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1816">
+          <num>31</num>
+          <content eId="para_1816__content">
+            <p>It follows that a trader may charge a consumer only up to the cost of a standard telephone call. Thus, provided that that limit is respected, the fact that a trader may or not make a profit through a non-geographic helpline is irrelevant.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1817">
+          <num>32</num>
+          <content eId="para_1817__content">
+            <p>It follows from all the foregoing considerations that the answer to the questions referred is that the concept of `basic rate', referred to in Article 21 of Directive 2011/83, must be interpreted as meaning that charges for a call, relating to a contract concluded with a trader, to a telephone helpline operated by the trader may not exceed the cost of a call to a standard geographic landline or mobile telephone line. Provided that that limit is respected, the fact that the relevant trader makes or does not make a profit through that telephone helpline is irrelevant.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_1818">
+          <num>33</num>
+          <content eId="para_1818__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Seventh Chamber) hereby rules: The concept of `basic rate' referred to in Article 21 of Directive 2011/83/EU of the European Parliament and of the Council of 25 October 2011 on consumer rights, amending Council Directive 93/13/EEC and Directive 1999/44/EC of the European Parliament and of the Council and repealing Council Directive 85/577/EEC and Directive 97/7/EC of the European Parliament and of the Council, must be interpreted as meaning that call charges relating to a contract concluded with a trader to a telephone helpline operated by the trader may not exceed the cost of a call to a standard geographic landline or mobile telephone line. Provided that that limit is respected, the fact that the relevant trader makes or does not make a profit through that telephone helpline is irrelevant.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures](</p>
+      <p>1</p>
+      <p>)Language of the case: German.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

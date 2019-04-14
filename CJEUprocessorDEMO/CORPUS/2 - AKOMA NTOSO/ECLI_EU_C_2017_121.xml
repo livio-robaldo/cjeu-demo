@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+      <references source="#source">
+        <TLCOrganization eId="company_8" showAs="" href="/akn/ontology/Organization/Company/company_8" />
+      </references>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Fifth Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>16 February 2017 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>`Reference for a preliminary ruling -- Combating late payment in commercial transactions -- Directive 2011/7/EU -- Commercial transactions between private undertakings and public authorities -- National legislation making the immediate recovery of the principal amount of a debt conditional upon the waiver of interest for late payment and of compensation for recovery costs' In Case C‑555/14, REQUEST for a preliminary ruling under Article 267 TFEU from the Juzgado de lo Contencioso-Administrativo No 6 de Murcia (Court for Contentious Administrative Proceedings No 6, Murcia, Spain), made by decision of 20 November 2014, received at the Court on 3 December 2014, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#company_8">IOS Finance EFC SA</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#">Servicio Murciano de Salud</party>
+      </p>
+      <p>THE COURT (Fifth Chamber), composed of J.L. da Cruz Vilaça, President of the Chamber, A. Tizzano (Rapporteur), Vice-President of the Court, M. Berger, A. Borg Barthet and E. Levits, Judges, Advocate General: E. Sharpston, Registrar: M. Ferreira, Principal Administrator, having regard to the written procedure and further to the hearing on 2 March 2016, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>
+            <organization refersTo="#company_8">IOS Finance EFC SA</organization>
+          </p>
+          <p>, by J. Tornos Mas, abogado,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Spanish Government, by A. Rubio González, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the German Government, by T. Henze and J. Möller, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by G. Wilms, D. Loma-Osorio Lerena, E. Sanfrutos Cano, A.C. Becker and M. Šimerdová, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 12 May 2016,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_1299">
+          <num>1</num>
+          <content eId="para_1299__content">
+            <p>The present request for a preliminary ruling concerns the interpretation of Directive 2011/7/EU of the European Parliament and of the Council of 16 February 2011 on combating late payment in commercial transactions ( OJ 2011 L 48, p. 1).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1300">
+          <num>2</num>
+          <content eId="para_1300__content">
+            <p>The request has been made in proceedings between</p>
+            <p>
+              <organization refersTo="#company_8">IOS Finance EFC SA</organization>
+            </p>
+            <p>( `IOS Finance') and the Servicio Murciano de Salud (Health Service of the Autonomous Community of the Region of Murcia, Spain), in relation to the latter's refusal to pay to IOS Finance, in addition to the principal sums, interest in respect of late payment and compensation for recovery costs claimed by IOS in respect of invoices which had not been paid on time.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <paragraph eId="para_1301">
+          <num>3</num>
+          <content eId="para_1301__content">
+            <p>Recitals 1, 12, 16 and 28 of Directive 2011/7 read as follows: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>A number of substantive changes are to be made to Directive 2000/35/EC of the European Parliament and of the Council of 29 June 2000 on combating late payment in commercial transactions [ OJ 2000 L 200, p. 35]. It is desirable, for reasons of clarity and rationalisation, that the provisions in question should be recast. ...</p>
+              </item>
+              <item>
+                <num>(12)</num>
+                <p>Late payment constitutes a breach of contract which has been made financially attractive to debtors in most Member States by low or no interest rates charged on late payments and/or slow procedures for redress. A decisive shift to a culture of prompt payment, including one in which the exclusion of the right to charge interest should always be considered to be a grossly unfair contractual term or practice, is necessary to reverse this trend and to discourage late payment. Such a shift should also include the introduction of specific provisions on payment periods and on the compensation of creditors for the costs incurred, and, inter alia, that the exclusion of the right to compensation for recovery costs should be presumed to be grossly unfair. ...</p>
+              </item>
+              <item>
+                <num>(16)</num>
+                <p>This Directive should not oblige a creditor to claim interest for late payment. ... ...</p>
+              </item>
+              <item>
+                <num>(28)</num>
+                <p>This Directive should prohibit abuse of freedom of contract to the disadvantage of the creditor. As a result, where a term in a contract or a practice relating to the date or period for payment, the rate of interest for late payment or the compensation for recovery costs is not justified on the grounds of the terms granted to the debtor, or it mainly serves the purpose of procuring the debtor additional liquidity at the expense of the creditor, it may be regarded as constituting such an abuse. For that purpose, ... any contractual term or practice which grossly deviates from good commercial practice and is contrary to good faith and fair dealing should be regarded as unfair to the creditor. In particular, the outright exclusion of the right to charge interest should always be considered as grossly unfair, whereas the exclusion of the right to compensation for recovery costs should be presumed to be grossly unfair. This Directive should not affect national provisions relating to the way contracts are concluded or regulating the validity of contractual terms which are unfair to the debtor.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1302">
+          <num>4</num>
+          <content eId="para_1302__content">
+            <p>Paragraph 1 of Article 1 of that directive, entitled `Subject matter and scope', provides: `The aim of this Directive is to combat late payment in commercial transactions ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1303">
+          <num>5</num>
+          <content eId="para_1303__content">
+            <p>Paragraph 1 of Article 4 of that directive, entitled `Transactions between undertakings and public authorities', provides: `Member States shall ensure that, in commercial transactions where the debtor is a public authority, the creditor is entitled upon expiry of the period defined in paragraphs 3, 4 or 6 to statutory interest for late payment, without the necessity of a reminder, where the following conditions are satisfied:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>the creditor has fulfilled its contractual and legal obligations; and</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>the creditor has not received the amount due on time, unless the debtor is not responsible for the delay.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1304">
+          <num>6</num>
+          <content eId="para_1304__content">
+            <p>Article 6 of the directive, entitled `Compensation for recovery costs' reads as follows: `1.   Member States shall ensure that, where interest for late payment becomes payable in commercial transactions in accordance with Articles 3 or 4, the creditor is entitled to obtain from the debtor, as a minimum, a fixed sum of EUR 40. 2.   Member States shall ensure that the fixed sum referred to in paragraph 1 is payable without the necessity of a reminder and as compensation for the creditor's own recovery costs. 3.   The creditor shall, in addition to the fixed sum referred to in paragraph 1, be entitled to obtain reasonable compensation from the debtor for any recovery costs exceeding that fixed sum and incurred due to the debtor's late payment. This could include expenses incurred, inter alia, in instructing a lawyer or employing a debt collection agency.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1305">
+          <num>7</num>
+          <content eId="para_1305__content">
+            <p>Article 7 of Directive 2011/7, entitled `Unfair contractual terms and practices', is worded as follows: `1.   Member States shall provide that a contractual term or a practice relating to the date or period for payment, the rate of interest for late payment or the compensation for recovery costs is either unenforceable or gives rise to a claim for damages if it is grossly unfair to the creditor. In determining whether a contractual term or a practice is grossly unfair to the creditor, within the meaning of the first subparagraph, all circumstances of the case shall be considered, including:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>any gross deviation from good commercial practice, contrary to good faith and fair dealing;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>the nature of the product or the service; and</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>whether the debtor has any objective reason to deviate from the statutory rate of interest for late payment, from the payment period as referred to in Article 3(5), point (a) of Article 4(3), Article 4(4) and Article 4(6) or from the fixed sum as referred to in Article 6(1). 2.   For the purpose of paragraph 1, a contractual term or a practice which excludes interest for late payment shall be considered as grossly unfair. 3.   For the purpose of paragraph 1, a contractual term or a practice which excludes compensation for recovery costs as referred to in Article 6 shall be presumed to be grossly unfair. ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Spanish law</p>
+        </tblock>
+        <paragraph eId="para_1306">
+          <num>8</num>
+          <content eId="para_1306__content">
+            <p>It is apparent from the documents submitted to the Court that the Spanish legislature put in place, from 2012, an `extraordinary financing mechanism for payment of suppliers', for a limited period, in order to deal with the delays which had been built up, because of the economic crisis, by the Autonomous Communities and local bodies in paying their suppliers (the `extraordinary financing mechanism'). In essence, under the rules governing the functioning of that mechanism, suppliers who join that mechanism agree, in exchange for immediate payment of the principal debt, to waive related sums owed on account of the failure by the public administrations concerned to respect the payment periods, including, inter alia, interest for late payment and compensation for recovery costs.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1307">
+          <num>9</num>
+          <content eId="para_1307__content">
+            <p>In that regard, in particular, Article 6 of the Real Decreto-ley 8/2013 de medidas urgentes contra la morosidad de las administraciones públicas y de apoyo a entidades locales con problemas financieros (Royal Decree-Law 8/2013 of 28 June 2013 on urgent measures to combat late payment by the public administrative authorities and to support local bodies with financial problems) (BOE No 155 of 29 June 2013, p. 48782), entitled `Effects of payment of outstanding debts', provides: `Payment to the supplier leads to extinguishment of the debt owed to the supplier by the Autonomous Community or local body, as the case may be, in respect of the principal sum, interest, legal costs and any other ancillary expenses.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1308">
+          <num>10</num>
+          <content eId="para_1308__content">
+            <p>Prior to Royal Decree-Law 8/2013, Real Decreto-ley 4/2013 de medidas de apoyo al emprendedor y de estímulo del crecimiento y de la creación de empleo (Royal Decree-Law 4/2013 of 22 February 2013 on measures to support entrepreneurship and stimulate growth and create employment) (BOE No 47 of 23 February 2013, p. 15219) transposed Directive 2011/7 into Spanish law.</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_1309">
+          <num>11</num>
+          <content eId="para_1309__content">
+            <p>Between 2008 and 2013, several companies supplied goods and services to medical establishments forming part of the Health Service of the Autonomous Community of the Region of Murcia, which, however, failed to pay for those goods and services.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1310">
+          <num>12</num>
+          <content eId="para_1310__content">
+            <p>Those companies then assigned some of the debts at issue to IOS Finance, which, in September 2013, asked that health service to pay both the principal sum of those debts and interest in respect of late payment and compensation for the recovery costs accrued.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1311">
+          <num>13</num>
+          <content eId="para_1311__content">
+            <p>As that Health Service failed to pay those amounts, IOS Finance joined the extraordinary financing mechanism, which enabled it to obtain payment only of the principal amounts of the debts owed to it.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1312">
+          <num>14</num>
+          <content eId="para_1312__content">
+            <p>In May 2014, IOS Finance brought proceedings before the referring court seeking an order requiring the Health Service to pay the amounts claimed in respect of interest for late payment and compensation for recovery costs.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1313">
+          <num>15</num>
+          <content eId="para_1313__content">
+            <p>In support of its action, IOS Finance claims, first, that it is impossible to waive the debts owed by the administration. Second, it argues that Royal Decree-Law 8/2013 is incompatible with EU law and, third, that Directive 2011/7 has direct effect, in so far as it provides that contractual clauses or practices excluding interest for late payment and compensation for recovery costs are grossly unfair.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1314">
+          <num>16</num>
+          <content eId="para_1314__content">
+            <p>The Health Service of the Autonomous Community of the Region of Murcia has argued that the action should be dismissed on the ground, first, that joining the extraordinary financing mechanism is voluntary and, second, that the waiver of that interest and compensation occurs, not before the debt accrues, but after the debt has accrued and has remained unpaid.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1315">
+          <num>17</num>
+          <content eId="para_1315__content">
+            <p>The referring court acknowledges that joining the extraordinary financing mechanism is not compulsory and that creditors wishing to obtain payment not merely of the principal amount but also of the interest for late payment and compensation for recovery costs can still seek a judicial remedy. That court is, however, unsure whether EU law, and more specifically Article 7(2) and (3) of Directive 2011/7, prohibits making the recovery of the principal debt conditional on the waiver of the right to interest for late payment and compensation for recovery costs.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1316">
+          <num>18</num>
+          <content eId="para_1316__content">
+            <p>In those circumstances, the Juzgado de lo Contencioso-Administrativo No 6 de Murcia (Court for Contentious Administrative Proceedings No 6, Murcia, Spain) decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling: `Regard being had to Articles 4(1), 6 and 7(2) and</p>
+            <blockList>
+              <item>
+                <num>(3)</num>
+                <p>of [Directive 2011/7]:</p>
+                <blockList>
+                  <item>
+                    <num>(1)</num>
+                    <p>Must Article 7(2) of Directive 2011/7 be interpreted as meaning that a Member State may not make recovery of the principal debt conditional on the waiver of the right to interest for late payment?</p>
+                  </item>
+                  <item>
+                    <num>(2)</num>
+                    <p>Must Article 7(3) of Directive 2011/7 be interpreted as meaning that a Member State may not make recovery of the principal debt conditional on the waiver of the right to compensation for recovery costs?</p>
+                  </item>
+                  <item>
+                    <num>(3)</num>
+                    <p>Should the answer to those two questions be in the affirmative, where the debtor is a contracting authority, can it rely on the freedom of contract of the parties in order to avoid its obligation to pay interest for late payment and compensation for recovery costs?'</p>
+                  </item>
+                </blockList>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the questions referred</p>
+        </tblock>
+        <tblock>
+          <p>Preliminary observations</p>
+        </tblock>
+        <paragraph eId="para_1317">
+          <num>19</num>
+          <content eId="para_1317__content">
+            <p>It must be observed from the outset that, according to the Commission, the situation at issue in the main proceedings is covered, not by Directive 2011/7, but by Directive 2000/35, with the result that, contrary to what is stated in the order for reference, the questions must be answered in the light of that latter directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1318">
+          <num>20</num>
+          <content eId="para_1318__content">
+            <p>However, the Commission's assessment in that respect stems from its own interpretation of the provisions of national law contained in, inter alia, Royal Decree-Law 4/2013 transposing Directive 2011/7 in the Spanish legal order.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1319">
+          <num>21</num>
+          <content eId="para_1319__content">
+            <p>According to established case-law, it is not for the Court, in the context of a request for a preliminary ruling, to rule on the interpretation of national provisions or to decide whether the referring court's interpretation of such provisions is correct. The national courts alone are competent to decide on the interpretation of domestic law (judgment of 27 October 2016, Audace and Others, C‑114/15, EU:C:2016:813, paragraph 65 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1320">
+          <num>22</num>
+          <content eId="para_1320__content">
+            <p>Consequently, in so far as the referring court infers from its interpretation of Spanish law that Directive 2011/7 applies to the facts at issue in the main proceedings, the questions referred, as raised by the referring court, must be answered.</p>
+            <tblock>
+              <p>The first and second questions</p>
+            </tblock>
+            <p>23 By its first and second questions, which should be examined together, the referring court asks, in essence, whether Directive 2011/7, and in particular Article 7(2) and (3) thereof, must be interpreted as precluding national legislation, such as that at issue in the main proceedings, which allows a creditor to waive his right to interest for late payment and to compensation for recovery costs in return for immediate payment of the principal amount of the debt owed.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1321">
+          <num>24</num>
+          <content eId="para_1321__content">
+            <p>In order to answer those questions, it must be noted that, in accordance with Article 1(1) of Directive 2011/7, the aim of that directive is to combat late payment in commercial transactions, that delay constituting, according to recital 12 of that directive, a breach of contract which has been made financially attractive to debtors because, inter alia, low or no interest is charged on late payments.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1322">
+          <num>25</num>
+          <content eId="para_1322__content">
+            <p>In order to achieve that aim, Directive 2011/7 does not, however, harmonise fully all of the rules relating to late payments in commercial transactions (see, by analogy with Directive 2000/35, judgment of 15 December 2016, Nemec, C‑256/15, EU:C:2016:954, paragraph 46 and case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1323">
+          <num>26</num>
+          <content eId="para_1323__content">
+            <p>Like Directive 2000/35, Directive 2011/7 lays down only certain rules in this area, which include those relating to interest for late payment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1324">
+          <num>27</num>
+          <content eId="para_1324__content">
+            <p>In that regard, the Member States must, in accordance with Article 4(1) and Article 6 of Directive 2011/7, ensure that, in commercial transactions where the debtor is a public authority, a creditor who has met his obligations, and who has not received the amount owed on time, has the right to obtain interest for late payment as well as compensation for the recovery costs which he has incurred, unless the debtor is not responsible for the delay.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1325">
+          <num>28</num>
+          <content eId="para_1325__content">
+            <p>To that end, Article 7(1) of that directive does, it is true, require the Member States to provide that a contractual term or a practice relating, in particular, to the rate of interest for late payment or the compensation for recovery costs is either unenforceable or is to give rise to a claim for damages if it is grossly unfair to the creditor. Furthermore, Article 7 provides that any contractual term or practice which excludes the payment of that interest for late payment or the compensation for recovery costs must be considered, according to Article 7(2), or presumed, according to Article 7(3), to be grossly unfair.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1326">
+          <num>29</num>
+          <content eId="para_1326__content">
+            <p>However, it is apparent from those provisions that they do no more than guarantee that the circumstances envisaged in, inter alia, Article 4(1) and Article 6 of Directive 2011/7 grant the creditor the right to demand interest for late payment and compensation for recovery costs. As is apparent from recital 28 of that directive, the impossibility of excluding such a right by contractual means is intended to prevent abuse of the freedom of contract to the disadvantage of the creditor, who, at the time when the contract is entered into, is not in a position to renounce such a right.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1327">
+          <num>30</num>
+          <content eId="para_1327__content">
+            <p>In other words, the purpose of Article 7(2) and (3) of Directive 2011/7 is to prevent the creditor's waiver of the right to interest for late payment or to compensation for recovery costs from occurring at the time when the contract is entered into, that is to say, at the time of the exercise of the creditor's freedom of contract and therefore of the possible risk of an abuse of that freedom by the debtor to the disadvantage of the creditor.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1328">
+          <num>31</num>
+          <content eId="para_1328__content">
+            <p>By contrast, when, as in the case in the main proceedings, the conditions laid down in Directive 2011/7 are met and the interest for late payment and the compensation for recovery costs are payable, the creditor, having regard to his freedom of contract, must remain free to waive the sums owed in respect of that interest and compensation, inter alia, in exchange for immediate payment of the principal sum.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1329">
+          <num>32</num>
+          <content eId="para_1329__content">
+            <p>This is, moreover, confirmed by recital 16 of Directive 2011/7, which states that the directive should not oblige a creditor to claim interest for late payment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1330">
+          <num>33</num>
+          <content eId="para_1330__content">
+            <p>Consequently, as the Advocate General notes in essence in point 62 of her Opinion, there is nothing in Directive 2011/7 to suggest that it prohibits the creditor from freely waiving the right to demand interest for late payment and compensation for recovery costs.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1331">
+          <num>34</num>
+          <content eId="para_1331__content">
+            <p>That said, such a waiver is conditional on its having actually been freely agreed to, with the result that it must not in turn amount to an abuse of the creditor's freedom of contract which is attributable to the debtor.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1332">
+          <num>35</num>
+          <content eId="para_1332__content">
+            <p>In a case such as that in the main proceedings, in order to assess whether the waiver has been freely agreed to, it is necessary to ensure that the creditor was in fact able to rely on any effective legal remedy to seek, had he wished to, payment of the debt in full, including interest for late payment and compensation for recovery costs, this being a matter for the referring court to verify.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1333">
+          <num>36</num>
+          <content eId="para_1333__content">
+            <p>In the light of all of the foregoing considerations, the answer to the first and second questions is that Directive 2011/7, and Article 7(2) and (3) thereof in particular, must be interpreted as not precluding national legislation, such as that at issue in the main proceedings, which allows a creditor to waive his right to interest for late payment and compensation for recovery costs in exchange for immediate payment of the principal amount of debts owed, on condition that such a waiver is freely agreed to, this being a matter for the referring court to verify.</p>
+            <tblock>
+              <p>The third question</p>
+            </tblock>
+            <p>37 Having regard to the foregoing, there is no need to answer the third question, since this was posed only in the event that the answer to the first and second questions would be in the affirmative.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_1334">
+          <num>38</num>
+          <content eId="para_1334__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Fifth Chamber) hereby rules: Directive 2011/7/EU of the European Parliament and of the Council of 16 February 2011 on combating late payment in commercial transactions, and Article 7(2) and (3) thereof in particular, must be interpreted as not precluding national legislation, such as that at issue in the main proceedings, which allows a creditor to waive his right to interest for late payment and compensation for recovery costs in exchange for immediate payment of the principal amount of debts owed, on condition that such a waiver is freely agreed to, this being a matter for the referring court to verify.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Spanish.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>
