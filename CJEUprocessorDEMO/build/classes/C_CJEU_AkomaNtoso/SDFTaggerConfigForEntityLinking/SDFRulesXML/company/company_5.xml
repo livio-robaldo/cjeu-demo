@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SDFRules>
+  <!-- "Eni SpA" -->
+  <SDFRule id="1" priority="1000">
+    <tag>company_5</tag>
+    <headAlternatives>
+      <head>
+        <Form>Eni</Form>
+      </head>
+    </headAlternatives>
+    <nextAlternatives>
+      <next maxDistance="1">
+        <tag>company_5</tag>
+        <headAlternatives>
+          <head>
+            <Form>SpA</Form>
+          </head>
+        </headAlternatives>
+      </next>
+    </nextAlternatives>
+  </SDFRule>
+</SDFRules>

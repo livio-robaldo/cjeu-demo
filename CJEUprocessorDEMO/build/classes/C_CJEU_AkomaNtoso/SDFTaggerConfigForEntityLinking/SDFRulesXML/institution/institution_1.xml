@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SDFRules>
+  <!-- "Autorità nazionale anticorruzione ( ANAC )" -->
+  <SDFRule id="1" priority="1000">
+    <tag>institution_1</tag>
+    <headAlternatives>
+      <head>
+        <Form>Autorità</Form>
+      </head>
+    </headAlternatives>
+    <nextAlternatives>
+      <next maxDistance="1">
+        <tag>institution_1</tag>
+        <headAlternatives>
+          <head>
+            <Form>nazionale</Form>
+          </head>
+        </headAlternatives>
+        <nextAlternatives>
+          <next maxDistance="1">
+            <tag>institution_1</tag>
+            <headAlternatives>
+              <head>
+                <Form>anticorruzione</Form>
+              </head>
+            </headAlternatives>
+            <nextAlternatives>
+              <next maxDistance="1">
+                <tag>institution_1</tag>
+                <headAlternatives>
+                  <head>
+                    <Form>(</Form>
+                  </head>
+                </headAlternatives>
+                <nextAlternatives>
+                  <next maxDistance="1">
+                    <tag>institution_1</tag>
+                    <headAlternatives>
+                      <head>
+                        <Form>ANAC</Form>
+                      </head>
+                    </headAlternatives>
+                    <nextAlternatives>
+                      <next maxDistance="1">
+                        <tag>institution_1</tag>
+                        <headAlternatives>
+                          <head>
+                            <Form>)</Form>
+                          </head>
+                        </headAlternatives>
+                      </next>
+                    </nextAlternatives>
+                  </next>
+                </nextAlternatives>
+              </next>
+            </nextAlternatives>
+          </next>
+        </nextAlternatives>
+      </next>
+    </nextAlternatives>
+  </SDFRule>
+  <!-- "Autorità nazionale anticorruzione" -->
+  <SDFRule id="2" priority="900">
+    <tag>institution_1</tag>
+    <headAlternatives>
+      <head>
+        <Form>Autorità</Form>
+      </head>
+    </headAlternatives>
+    <nextAlternatives>
+      <next maxDistance="1">
+        <tag>institution_1</tag>
+        <headAlternatives>
+          <head>
+            <Form>nazionale</Form>
+          </head>
+        </headAlternatives>
+        <nextAlternatives>
+          <next maxDistance="1">
+            <tag>institution_1</tag>
+            <headAlternatives>
+              <head>
+                <Form>anticorruzione</Form>
+              </head>
+            </headAlternatives>
+          </next>
+        </nextAlternatives>
+      </next>
+    </nextAlternatives>
+  </SDFRule>
+  <!-- "ANAC" -->
+  <SDFRule id="3" priority="990">
+    <tag>institution_1</tag>
+    <headAlternatives>
+      <head>
+        <Form>ANAC</Form>
+      </head>
+    </headAlternatives>
+  </SDFRule>
+  <!-- "|AUTORITÀ| |NAZIONALE| |ANTICORRUZIONE|" -->
+  <SDFRule id="4" priority="500">
+    <tag>institution_1</tag>
+    <headAlternatives>
+      <head>
+        <Lemma>autorità</Lemma>
+        <POS>NN</POS>
+      </head>
+    </headAlternatives>
+    <nextAlternatives>
+      <next maxDistance="3">
+        <tag>institution_1</tag>
+        <headAlternatives>
+          <head>
+            <Lemma>nazionale</Lemma>
+            <POS>NN</POS>
+          </head>
+        </headAlternatives>
+        <nextAlternatives>
+          <next maxDistance="3">
+            <tag>institution_1</tag>
+            <headAlternatives>
+              <head>
+                <Lemma>anticorruzione</Lemma>
+                <POS>NN</POS>
+              </head>
+            </headAlternatives>
+          </next>
+        </nextAlternatives>
+      </next>
+    </nextAlternatives>
+  </SDFRule>
+  <!-- "Autorità nazionale anti - corruzione" -->
+  <SDFRule id="5" priority="1000">
+    <tag>institution_1</tag>
+    <headAlternatives>
+      <head>
+        <Form>Autorità</Form>
+      </head>
+    </headAlternatives>
+    <nextAlternatives>
+      <next maxDistance="1">
+        <tag>institution_1</tag>
+        <headAlternatives>
+          <head>
+            <Form>nazionale</Form>
+          </head>
+        </headAlternatives>
+        <nextAlternatives>
+          <next maxDistance="1">
+            <tag>institution_1</tag>
+            <headAlternatives>
+              <head>
+                <Form>anti</Form>
+              </head>
+            </headAlternatives>
+            <nextAlternatives>
+              <next maxDistance="1">
+                <tag>institution_1</tag>
+                <headAlternatives>
+                  <head>
+                    <Form>-</Form>
+                  </head>
+                </headAlternatives>
+                <nextAlternatives>
+                  <next maxDistance="1">
+                    <tag>institution_1</tag>
+                    <headAlternatives>
+                      <head>
+                        <Form>corruzione</Form>
+                      </head>
+                    </headAlternatives>
+                  </next>
+                </nextAlternatives>
+              </next>
+            </nextAlternatives>
+          </next>
+        </nextAlternatives>
+      </next>
+    </nextAlternatives>
+  </SDFRule>
+  <!-- "Autorità nazionale anti-corruzione" -->
+  <SDFRule id="6" priority="1000">
+    <tag>institution_1</tag>
+    <headAlternatives>
+      <head>
+        <Form>Autorità</Form>
+      </head>
+    </headAlternatives>
+    <nextAlternatives>
+      <next maxDistance="1">
+        <tag>institution_1</tag>
+        <headAlternatives>
+          <head>
+            <Form>nazionale</Form>
+          </head>
+        </headAlternatives>
+        <nextAlternatives>
+          <next maxDistance="1">
+            <tag>institution_1</tag>
+            <headAlternatives>
+              <head>
+                <Form>anti-corruzione</Form>
+              </head>
+            </headAlternatives>
+          </next>
+        </nextAlternatives>
+      </next>
+    </nextAlternatives>
+  </SDFRule>
+</SDFRules>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SDFRules>
+  <!-- "Società Italiana per Condotte d'Acqua SpA" -->
+  <SDFRule id="8" priority="1000">
+    <tag>company_2</tag>
+    <headAlternatives>
+      <head>
+        <Form>Società</Form>
+      </head>
+    </headAlternatives>
+    <nextAlternatives>
+      <next maxDistance="1">
+        <tag>company_2</tag>
+        <headAlternatives>
+          <head>
+            <Form>Italiana</Form>
+          </head>
+        </headAlternatives>
+        <nextAlternatives>
+          <next maxDistance="1">
+            <tag>company_2</tag>
+            <headAlternatives>
+              <head>
+                <Form>per</Form>
+              </head>
+            </headAlternatives>
+            <nextAlternatives>
+              <next maxDistance="1">
+                <tag>company_2</tag>
+                <headAlternatives>
+                  <head>
+                    <Form>Condotte</Form>
+                  </head>
+                </headAlternatives>
+                <nextAlternatives>
+                  <next maxDistance="1">
+                    <tag>company_2</tag>
+                    <headAlternatives>
+                      <head>
+                        <Form>d'Acqua</Form>
+                      </head>
+                    </headAlternatives>
+                    <nextAlternatives>
+                      <next maxDistance="1">
+                        <tag>company_2</tag>
+                        <headAlternatives>
+                          <head>
+                            <Form>SpA</Form>
+                          </head>
+                        </headAlternatives>
+                      </next>
+                    </nextAlternatives>
+                  </next>
+                </nextAlternatives>
+              </next>
+            </nextAlternatives>
+          </next>
+        </nextAlternatives>
+      </next>
+    </nextAlternatives>
+  </SDFRule>
+</SDFRules>

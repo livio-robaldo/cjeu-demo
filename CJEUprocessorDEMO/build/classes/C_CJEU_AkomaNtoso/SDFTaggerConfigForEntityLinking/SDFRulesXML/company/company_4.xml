@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SDFRules>
+  <!-- "Inso Sistemi per le Infrastrutture Sociali SpA" -->
+  <SDFRule id="14" priority="1000">
+    <tag>company_4</tag>
+    <headAlternatives>
+      <head>
+        <Form>Inso</Form>
+      </head>
+    </headAlternatives>
+    <nextAlternatives>
+      <next maxDistance="1">
+        <tag>company_4</tag>
+        <headAlternatives>
+          <head>
+            <Form>Sistemi</Form>
+          </head>
+        </headAlternatives>
+        <nextAlternatives>
+          <next maxDistance="1">
+            <tag>company_4</tag>
+            <headAlternatives>
+              <head>
+                <Form>per</Form>
+              </head>
+            </headAlternatives>
+            <nextAlternatives>
+              <next maxDistance="1">
+                <tag>company_4</tag>
+                <headAlternatives>
+                  <head>
+                    <Form>le</Form>
+                  </head>
+                </headAlternatives>
+                <nextAlternatives>
+                  <next maxDistance="1">
+                    <tag>company_4</tag>
+                    <headAlternatives>
+                      <head>
+                        <Form>Infrastrutture</Form>
+                      </head>
+                    </headAlternatives>
+                    <nextAlternatives>
+                      <next maxDistance="1">
+                        <tag>company_4</tag>
+                        <headAlternatives>
+                          <head>
+                            <Form>Sociali</Form>
+                          </head>
+                        </headAlternatives>
+                        <nextAlternatives>
+                          <next maxDistance="1">
+                            <tag>company_4</tag>
+                            <headAlternatives>
+                              <head>
+                                <Form>SpA</Form>
+                              </head>
+                            </headAlternatives>
+                          </next>
+                        </nextAlternatives>
+                      </next>
+                    </nextAlternatives>
+                  </next>
+                </nextAlternatives>
+              </next>
+            </nextAlternatives>
+          </next>
+        </nextAlternatives>
+      </next>
+    </nextAlternatives>
+  </SDFRule>
+</SDFRules>

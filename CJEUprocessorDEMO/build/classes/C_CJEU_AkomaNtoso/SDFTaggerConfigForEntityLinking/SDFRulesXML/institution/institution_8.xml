@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SDFRules>
+  <!-- "Union professionnelle des industries privées du gaz ( Uprigaz )" -->
+  <SDFRule id="8" priority="1000">
+    <tag>institution_8</tag>
+    <headAlternatives>
+      <head>
+        <Form>Union</Form>
+      </head>
+    </headAlternatives>
+    <nextAlternatives>
+      <next maxDistance="1">
+        <tag>institution_8</tag>
+        <headAlternatives>
+          <head>
+            <Form>professionnelle</Form>
+          </head>
+        </headAlternatives>
+        <nextAlternatives>
+          <next maxDistance="1">
+            <tag>institution_8</tag>
+            <headAlternatives>
+              <head>
+                <Form>des</Form>
+              </head>
+            </headAlternatives>
+            <nextAlternatives>
+              <next maxDistance="1">
+                <tag>institution_8</tag>
+                <headAlternatives>
+                  <head>
+                    <Form>industries</Form>
+                  </head>
+                </headAlternatives>
+                <nextAlternatives>
+                  <next maxDistance="1">
+                    <tag>institution_8</tag>
+                    <headAlternatives>
+                      <head>
+                        <Form>privées</Form>
+                      </head>
+                    </headAlternatives>
+                    <nextAlternatives>
+                      <next maxDistance="1">
+                        <tag>institution_8</tag>
+                        <headAlternatives>
+                          <head>
+                            <Form>du</Form>
+                          </head>
+                        </headAlternatives>
+                        <nextAlternatives>
+                          <next maxDistance="1">
+                            <tag>institution_8</tag>
+                            <headAlternatives>
+                              <head>
+                                <Form>gaz</Form>
+                              </head>
+                            </headAlternatives>
+                            <nextAlternatives>
+                              <next maxDistance="1">
+                                <tag>institution_8</tag>
+                                <headAlternatives>
+                                  <head>
+                                    <Form>(</Form>
+                                  </head>
+                                </headAlternatives>
+                                <nextAlternatives>
+                                  <next maxDistance="1">
+                                    <tag>institution_8</tag>
+                                    <headAlternatives>
+                                      <head>
+                                        <Form>Uprigaz</Form>
+                                      </head>
+                                    </headAlternatives>
+                                    <nextAlternatives>
+                                      <next maxDistance="1">
+                                        <tag>institution_8</tag>
+                                        <headAlternatives>
+                                          <head>
+                                            <Form>)</Form>
+                                          </head>
+                                        </headAlternatives>
+                                      </next>
+                                    </nextAlternatives>
+                                  </next>
+                                </nextAlternatives>
+                              </next>
+                            </nextAlternatives>
+                          </next>
+                        </nextAlternatives>
+                      </next>
+                    </nextAlternatives>
+                  </next>
+                </nextAlternatives>
+              </next>
+            </nextAlternatives>
+          </next>
+        </nextAlternatives>
+      </next>
+    </nextAlternatives>
+  </SDFRule>
+  <!-- "Union professionnelle des industries privées du gaz" -->
+  <SDFRule id="9" priority="900">
+    <tag>institution_8</tag>
+    <headAlternatives>
+      <head>
+        <Form>Union</Form>
+      </head>
+    </headAlternatives>
+    <nextAlternatives>
+      <next maxDistance="1">
+        <tag>institution_8</tag>
+        <headAlternatives>
+          <head>
+            <Form>professionnelle</Form>
+          </head>
+        </headAlternatives>
+        <nextAlternatives>
+          <next maxDistance="1">
+            <tag>institution_8</tag>
+            <headAlternatives>
+              <head>
+                <Form>des</Form>
+              </head>
+            </headAlternatives>
+            <nextAlternatives>
+              <next maxDistance="1">
+                <tag>institution_8</tag>
+                <headAlternatives>
+                  <head>
+                    <Form>industries</Form>
+                  </head>
+                </headAlternatives>
+                <nextAlternatives>
+                  <next maxDistance="1">
+                    <tag>institution_8</tag>
+                    <headAlternatives>
+                      <head>
+                        <Form>privées</Form>
+                      </head>
+                    </headAlternatives>
+                    <nextAlternatives>
+                      <next maxDistance="1">
+                        <tag>institution_8</tag>
+                        <headAlternatives>
+                          <head>
+                            <Form>du</Form>
+                          </head>
+                        </headAlternatives>
+                        <nextAlternatives>
+                          <next maxDistance="1">
+                            <tag>institution_8</tag>
+                            <headAlternatives>
+                              <head>
+                                <Form>gaz</Form>
+                              </head>
+                            </headAlternatives>
+                          </next>
+                        </nextAlternatives>
+                      </next>
+                    </nextAlternatives>
+                  </next>
+                </nextAlternatives>
+              </next>
+            </nextAlternatives>
+          </next>
+        </nextAlternatives>
+      </next>
+    </nextAlternatives>
+  </SDFRule>
+  <!-- "Uprigaz" -->
+  <SDFRule id="10" priority="990">
+    <tag>institution_8</tag>
+    <headAlternatives>
+      <head>
+        <Form>Uprigaz</Form>
+      </head>
+    </headAlternatives>
+  </SDFRule>
+</SDFRules>

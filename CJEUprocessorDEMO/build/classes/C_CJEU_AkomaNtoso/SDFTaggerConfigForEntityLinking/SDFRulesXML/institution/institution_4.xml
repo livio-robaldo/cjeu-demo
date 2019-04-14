@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SDFRules>
+  <!-- "Minister for Social Protection" -->
+  <SDFRule id="1" priority="1000">
+    <tag>institution_4</tag>
+    <headAlternatives>
+      <head>
+        <Form>Minister</Form>
+      </head>
+    </headAlternatives>
+    <nextAlternatives>
+      <next maxDistance="1">
+        <tag>institution_4</tag>
+        <headAlternatives>
+          <head>
+            <Form>for</Form>
+          </head>
+        </headAlternatives>
+        <nextAlternatives>
+          <next maxDistance="1">
+            <tag>institution_4</tag>
+            <headAlternatives>
+              <head>
+                <Form>Social</Form>
+              </head>
+            </headAlternatives>
+            <nextAlternatives>
+              <next maxDistance="1">
+                <tag>institution_4</tag>
+                <headAlternatives>
+                  <head>
+                    <Form>Protection</Form>
+                  </head>
+                </headAlternatives>
+              </next>
+            </nextAlternatives>
+          </next>
+        </nextAlternatives>
+      </next>
+    </nextAlternatives>
+  </SDFRule>
+</SDFRules>

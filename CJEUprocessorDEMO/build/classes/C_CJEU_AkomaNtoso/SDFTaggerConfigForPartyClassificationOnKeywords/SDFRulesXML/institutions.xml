@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright 2014 Livio Robaldo
+This file is part of CJEUprocessorDEMO. The demo uses the SDFTagger library, whose source code can be obtained by contacting Livio Robaldo (http://www.liviorobaldo.com)
+CJEUprocessorDEMO is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software 
+Foundation, either version 3 of the License, or (at your option) any later version.
+CJEUprocessorDEMO is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A 
+PARTICULAR PURPOSE. See the GNU General Public License for more details.
+You should have received a copy of the GNU General Public License along with CJEUprocessorDEMO.  If not, see <http://www.gnu.org/licenses/>.
+-->
+<SDFRules>
+  <!--  if the following keywords are recognized within a named entity, e.g. a <party>, the named entity is an institution -->
+  <SDFRule priority="100" id="2">
+    <tag>institution</tag>
+    <headAlternatives>
+      <head>
+        <Lemma>autorità</Lemma>
+      </head>
+      <head>
+        <Lemma>agenzia</Lemma>
+      </head>
+      <head>
+        <Lemma>provincia</Lemma>
+      </head>
+      <head>
+        <Lemma>regione</Lemma>
+      </head>
+      <head>
+        <Lemma>union</Lemma>
+      </head>
+      <head>
+        <Lemma>ministre</Lemma>
+      </head>
+      <head>
+        <Lemma>minister</Lemma>
+      </head>
+      <head>
+        <Lemma>republic</Lemma>
+      </head>
+      <head>
+        <Lemma>council</Lemma>
+      </head>
+      <head>
+        <Lemma>kingdom</Lemma>
+      </head>
+      <head>
+        <Lemma>duchy</Lemma>
+      </head>
+      <head>
+        <Lemma>prokuratura</Lemma>
+      </head>
+      <head>
+        <Lemma>prokuratúra</Lemma>
+      </head>
+      <head>
+        <Form>istituto</Form>
+      </head>
+      <head>
+        <Form>cassa</Form>
+      </head>
+      <head>
+        <Form>ministero</Form>
+      </head>
+    </headAlternatives>
+  </SDFRule>
+  <!-- European Commission -->
+  <SDFRule priority="100" id="3">
+    <tag>institution</tag>
+    <headAlternatives>
+      <head>
+        <Form>European</Form>
+      </head>
+    </headAlternatives>
+    <nextAlternatives>
+      <next maxDistance="1">
+        <tag>institution</tag>
+        <headAlternatives>
+          <head>
+            <Form>Commission</Form>
+          </head>
+        </headAlternatives>
+      </next>
+    </nextAlternatives>
+  </SDFRule>
+  <!-- with low priority, we take as institution any party that has "(...)" at the end. -->
+  <SDFRule priority="100" id="4">
+    <tag>institution</tag>
+    <headAlternatives>
+      <head>
+        <Lemma>(</Lemma>
+      </head>
+    </headAlternatives>
+    <nextStarAlternatives>
+      <next maxDistance="1">
+        <tag>institution</tag>
+        <headAlternatives>
+          <head>
+            <notForm>)</notForm>
+          </head>
+        </headAlternatives>
+      </next>
+    </nextStarAlternatives>
+    <nextAlternatives>
+      <next maxDistance="1">
+        <tag>institution</tag>
+        <headAlternatives>
+          <head>
+            <Form>)</Form>
+          </head>
+        </headAlternatives>
+        <nextAlternatives>
+          <notNext maxDistance="1">
+            <headAlternatives>
+              <head />
+            </headAlternatives>
+          </notNext>
+          <next maxDistance="1">
+            <headAlternatives>
+              <head>
+                <Form>,</Form>
+              </head>
+            </headAlternatives>
+          </next>
+        </nextAlternatives>
+      </next>
+    </nextAlternatives>
+  </SDFRule>
+</SDFRules>

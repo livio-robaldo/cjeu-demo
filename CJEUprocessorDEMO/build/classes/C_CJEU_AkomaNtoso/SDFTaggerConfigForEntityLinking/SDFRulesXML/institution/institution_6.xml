@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SDFRules>
+  <!-- "Premier ministre" -->
+  <SDFRule id="3" priority="1000">
+    <tag>institution_6</tag>
+    <headAlternatives>
+      <head>
+        <Form>Premier</Form>
+      </head>
+    </headAlternatives>
+    <nextAlternatives>
+      <next maxDistance="1">
+        <tag>institution_6</tag>
+        <headAlternatives>
+          <head>
+            <Form>ministre</Form>
+          </head>
+        </headAlternatives>
+      </next>
+    </nextAlternatives>
+  </SDFRule>
+</SDFRules>

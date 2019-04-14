@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SDFRules>
+  <!-- "Minister for Justice and Equality" -->
+  <SDFRule id="1" priority="1000">
+    <tag>institution_9</tag>
+    <headAlternatives>
+      <head>
+        <Form>Minister</Form>
+      </head>
+    </headAlternatives>
+    <nextAlternatives>
+      <next maxDistance="1">
+        <tag>institution_9</tag>
+        <headAlternatives>
+          <head>
+            <Form>for</Form>
+          </head>
+        </headAlternatives>
+        <nextAlternatives>
+          <next maxDistance="1">
+            <tag>institution_9</tag>
+            <headAlternatives>
+              <head>
+                <Form>Justice</Form>
+              </head>
+            </headAlternatives>
+            <nextAlternatives>
+              <next maxDistance="1">
+                <tag>institution_9</tag>
+                <headAlternatives>
+                  <head>
+                    <Form>and</Form>
+                  </head>
+                </headAlternatives>
+                <nextAlternatives>
+                  <next maxDistance="1">
+                    <tag>institution_9</tag>
+                    <headAlternatives>
+                      <head>
+                        <Form>Equality</Form>
+                      </head>
+                    </headAlternatives>
+                  </next>
+                </nextAlternatives>
+              </next>
+            </nextAlternatives>
+          </next>
+        </nextAlternatives>
+      </next>
+    </nextAlternatives>
+  </SDFRule>
+</SDFRules>
