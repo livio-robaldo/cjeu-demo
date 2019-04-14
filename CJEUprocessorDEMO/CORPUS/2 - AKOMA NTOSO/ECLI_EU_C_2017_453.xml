@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Ninth Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>14 June 2017 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>`Reference for a preliminary ruling -- Value added tax (VAT) -- Directive 2006/112/EC -- Article 138(2)(a) -- Conditions for the grant of the exemption for an intra-Community supply of a new means of transport -- Purchaser's residence in the Member State of destination -- Temporary registration in the Member State of destination -- Risk of tax evasion -- Good faith of the vendor -- Obligation of diligence on the part of the vendor' In Case C‑26/16, REQUEST for a preliminary ruling under Article 267 TFEU from the Tribunal Arbitral Tributário (Centro de Arbitragem Administrativa -- CAAD) (Tax Arbitration Tribunal (Centre for Administrative Arbitration), Portugal), made by decision of 30 November 2015, received at the Court on 18 January 2016, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">Santogal M-Comércio e Reparação de Automóveis Lda</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#">Autoridade Tributária e Aduaneira</party>
+      </p>
+      <p>, THE COURT (Ninth Chamber), composed of E. Juhász, President of the Chamber, C. Vajda and K. Jürimäe (Rapporteur), Judges, Advocate General: P. Mengozzi, Registrar: A. Calot Escobar, having regard to the written procedure, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>Santogal M-Comércio e Reparação de Automóveis Lda, by B. Botelho Antunes and J. Mendonça, advogados,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Portuguese Government, by L. Inez Fernandes, R. Campos Laires and M. Figueiredo, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by A. Caeiros and L. Lozano Palacios, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 1 February 2017,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <tblock>
+        <p>Judgment</p>
+      </tblock>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_9615">
+          <num>1</num>
+          <content eId="para_9615__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Article 138(2)(a) of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax ( OJ 2006 L 347, p. 1, `the VAT Directive').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9616">
+          <num>2</num>
+          <content eId="para_9616__content">
+            <p>The request has been made in the course of proceedings between Santogal M-Comércio e Reparação de Automóveis Lda ( `Santogal') and the Autoridade Tributária e Aduaneira (Tax and Customs Authority, Portugal) in relation to that authority's refusal to exempt a transaction from value added tax (VAT) as an intra-Community supply of a new means of transport.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <paragraph eId="para_9617">
+          <num>3</num>
+          <content eId="para_9617__content">
+            <p>According to recital 11 of the VAT Directive: `It is also appropriate that, during that transitional period, intra-Community acquisitions of a certain value, made by exempt persons or by non-taxable legal persons, certain intra-Community distance selling and the supply of new means of transport to individuals or to exempt or non-taxable bodies should also be taxed in the Member State of destination, in accordance with the rates and conditions set by that Member State, in so far as such transactions would, in the absence of special provisions, be likely to cause significant distortion of competition between Member States.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9618">
+          <num>4</num>
+          <content eId="para_9618__content">
+            <p>Article 2 of that directive provides: `1.   The following transactions shall be subject to VAT: ...</p>
+            <blockList>
+              <item>
+                <num>(b)</num>
+                <p>the intra-Community acquisition of goods for consideration within the territory of a Member State by: ...</p>
+              </item>
+              <item>
+                <num>(ii)</num>
+                <p>in the case of new means of transport, a taxable person, or a non-taxable legal person, whose other acquisitions are not subject to VAT pursuant to Article 3(1), or any other non-taxable person; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9619">
+          <num>5</num>
+          <content eId="para_9619__content">
+            <p>Article 3 of that directive provides: `1.   By way of derogation from Article 2(1)(b)(i), the following transactions shall not be subject to VAT: ...</p>
+            <blockList>
+              <item>
+                <num>(b)</num>
+                <p>the intra-Community acquisition of goods, other than those referred to in point (a) and Article 4, and other than new means of transport or products subject to excise duty, by a taxable person for the purposes of his agricultural, forestry or fisheries business subject to the common flat-rate scheme for farmers, or by a taxable person who carries out only supplies of goods or services in respect of which VAT is not deductible, or by a non-taxable legal person. ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9620">
+          <num>6</num>
+          <content eId="para_9620__content">
+            <p>The first paragraph of Article 20 of that directive provides: ```Intra-Community acquisition of goods '' shall mean the acquisition of the right to dispose as owner of movable tangible property dispatched or transported to the person acquiring the goods, by or on behalf of the vendor or the person acquiring the goods, in a Member State other than that in which dispatch or transport of the goods began.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9621">
+          <num>7</num>
+          <content eId="para_9621__content">
+            <p>Article 131 of the VAT Directive, in Chapter 1, entitled `General provisions', of Title IX thereof, itself concerning VAT exemptions provides: `The exemptions provided for in Chapters 2 to 9 shall apply without prejudice to other [EU law] provisions and in accordance with conditions which the Member States shall lay down for the purposes of ensuring the correct and straightforward application of those exemptions and of preventing any possible evasion, avoidance or abuse.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9622">
+          <num>8</num>
+          <content eId="para_9622__content">
+            <p>Chapter 4 of Title IX of the VAT Directive relates to `Exemptions for intra-Community transactions'. As regards the exemptions for the supply of goods, Article 138 thereof provides: `1.   Member States shall exempt the supply of goods dispatched or transported to a destination outside their respective territory but within the [Union], by or on behalf of the vendor or the person acquiring the goods, for another taxable person, or for a non-taxable legal person acting as such in a Member State other than that in which dispatch or transport of the goods began. 2.   In addition to the supplies of goods referred to in paragraph 1, Member States shall exempt the following transactions:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>the supply of new means of transport, dispatched or transported to the customer at a destination outside their respective territory but within the [Union], by or on behalf of the vendor or the customer, for taxable persons, or non-taxable legal persons, whose intra-Community acquisitions of goods are not subject to VAT pursuant to Article 3(1), or for any other non-taxable person; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Portuguese law</p>
+        </tblock>
+        <paragraph eId="para_9623">
+          <num>9</num>
+          <content eId="para_9623__content">
+            <p>The Regime do IVA das Transações Intracomunitárias (Intra-Community Trade VAT Rules; `RITI') transposes the rules on intra-Community transactions arising from the VAT Directive into Portuguese law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9624">
+          <num>10</num>
+          <content eId="para_9624__content">
+            <p>Under Article 14(b) of the RITI, read in conjunction with Article 1(e) of the RITI, the supply for consideration of new means of transport by any person, dispatched or transported by or on behalf of the vendor or the purchaser from national territory, to a purchaser established or domiciled in another Member State is exempt from VAT.</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_9625">
+          <num>11</num>
+          <content eId="para_9625__content">
+            <p>Santogal is a company operating in the motor trade in Portugal.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9626">
+          <num>12</num>
+          <content eId="para_9626__content">
+            <p>Under an invoice of 26 January 2010, Santogal sold for a sum of EUR 447665 a new vehicle which it had previously acquired from Mercedes-Benz Portugal SA and the entry of which into Portuguese territory had been recorded in a vehicle customs declaration of 25 May 2009.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9627">
+          <num>13</num>
+          <content eId="para_9627__content">
+            <p>In the course of the sale, the purchaser, an Angolan national, informed Santogal of his intention to use the vehicle for his personal use in Spain, where he claimed to be established, to take personal responsibility for transporting it to Spain, to arrange for it to undergo the technical inspection and to have it registered. The purchaser submitted to Santogal his Spanish foreign national's identification number (NIE), a document issued on 2 May 2008 by the Ministério del Interior, Dirección General de la Policia y de la Guardia Civil -- Comunidad Tui-Valencia (Ministry of the Interior, Directorate-General of Police and of the Civil Guard -- Municipality of Tui-Valencia, Spain) confirming his entry in the central register of foreign nationals under that NIE, as well as a copy of his Angolan passport. The address of the purchaser, as given by him in the course of the sale, did not match that stated on the document of 2 May 2008.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9628">
+          <num>14</num>
+          <content eId="para_9628__content">
+            <p>In the light of those documents, Santogal considered that the sale was exempt of VAT pursuant to Article 14(b) of the RITI. Consequently, there had been no VAT assessment in Portugal.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9629">
+          <num>15</num>
+          <content eId="para_9629__content">
+            <p>The vehicle was transported to Spain in a totally enclosed trailer.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9630">
+          <num>16</num>
+          <content eId="para_9630__content">
+            <p>Following the technical inspection of the vehicle in Spain, the purchaser sent to Santogal, at the latter's request, two documents to complete the sale, namely, first, a technical inspection certificate issued on 11 February 2010 and, second, a Spanish registration document issued on 18 February 2010. That registration document, which provided an address for the purchaser which matched neither the address given by the purchaser at the time of the sale nor that stated on the document of 2 May 2008, related to a temporary `tourist' registration due to expire on 17 February 2011. According to the information provided by the referring court, in accordance with Spanish law, tourist registration amounts to a temporary registration, which can normally be used for 6 months in every 12-month period and may be extended by the authorities. Only persons not habitually resident in Spain may avail themselves of such registration.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9631">
+          <num>17</num>
+          <content eId="para_9631__content">
+            <p>Further to information sent by Santogal in February 2011 with a view to cancelling the customs declaration of 25 May 2009, Mercedes-Benz Portugal filed, on 3 March 2011, a supplementary customs declaration ( `the supplementary declaration') seeking the cancellation of that earlier declaration because the vehicle had been dispatched. The customs declaration of 25 May 2009 was cancelled by the competent Portuguese authorities.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9632">
+          <num>18</num>
+          <content eId="para_9632__content">
+            <p>By letter of 24 October 2013, the Direção de Serviços Antifraude Aduaneira (Directorate of Customs Anti-Fraud Services, Portugal) recommended that the Direção de Finanças de Lisboa (Directorate of Finances, Lisbon, Portugal) order an assessment of the VAT owing on the sale of the vehicle be carried out. That directorate noted inter alia that the purchaser resided, and was registered as a company director, in Portugal. In addition, it stated that in response to a request for information, the Spanish authorities had stated that the purchaser did not appear to be resident in Spain during 2010 and had never submitted income returns in that country.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9633">
+          <num>19</num>
+          <content eId="para_9633__content">
+            <p>Accordingly, Santogal was the subject of a partial internal VAT audit for the month of January 2010. In that context, the tax and customs authority produced a report in which it concluded that the sale of the vehicle was not covered by the exemption provided for in Article 14(b) of the RITI, on the ground that the purchaser did not reside in Spain or carry on any economic activity there. It further stated that, according to its databases, the purchaser had a Portuguese taxpayer's number assigned before 2001 and that his country of residence was Portugal.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9634">
+          <num>20</num>
+          <content eId="para_9634__content">
+            <p>Further to that audit, on 14 October 2014, the tax and customs authority issued an additional VAT assessment in the amount of EUR 89533 and a calculation of default interest relating to the period from 12 March 2010 to 20 August 2014 in the amount of EUR 15914.80. Santogal paid those amounts in December 2014.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9635">
+          <num>21</num>
+          <content eId="para_9635__content">
+            <p>Santogal brought an application before the referring court for the cancellation of those assessments and a claim for damages. Before that court, it argued, inter alia, that the tax and customs authority's interpretation of Articles 1(e) and 14(b) of the RITI is contrary to Article 138(2) of the VAT Directive, which it claimed has direct effect. Santogal also submitted that any VAT fraud committed by the purchaser could not be relied on against it.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9636">
+          <num>22</num>
+          <content eId="para_9636__content">
+            <p>In the order for reference, first, the referring court expresses doubts as to the purchaser's place of residence at the time of the sale of the vehicle at issue in the main proceedings. In particular, that court notes that the purchaser's habitual residence was not in Spain. Yet, it has not been established that he resided in Portugal at the time of that sale. Furthermore, the documents produced before the referring court contain no information concerning the payment of VAT relating to the vehicle in Spain or the fate of the vehicle after the grant of the tourist registration. Nor has it been established that eligibility under the rules on tourist registration ceased in accordance with the detailed rules laid down in Spanish law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9637">
+          <num>23</num>
+          <content eId="para_9637__content">
+            <p>Next, the referring court observes that it has not been shown that Santogal cooperated with the purchaser in order to avoid payment of VAT on the sale of the vehicle. On the contrary, it is of the view that it is clear from the evidence produced before it that Santogal ensured that the conditions for exemption from VAT were satisfied. It notes that neither the customs agents nor the customs authorities raised doubts as to whether the documents were sufficient to cancel the customs declaration of 25 May 2009 and that the letter from the Directorate of Customs Anti-Fraud Services of 24 October 2013 was based on additional information to which Santogal did not have access.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9638">
+          <num>24</num>
+          <content eId="para_9638__content">
+            <p>Finally, referring to the judgment of 7 December 2010, R. ( C‑285/09, EU:C:2010:742), the referring court considers that the Court's case-law does not answer sufficiently clearly the questions raised by the dispute before it.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9639">
+          <num>25</num>
+          <content eId="para_9639__content">
+            <p>It is in those circumstances that the Tribunal Arbitral Tributário (Centro de Arbitragem Administrativa -- CAAD) (Tax Arbitration Tribunal (Centre for Administrative Arbitration), Portugal) decided to stay the proceedings and refer the following questions to the Court of Justice for a preliminary ruling: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Is it contrary to Article 138(2)[</p>
+              </item>
+              <item>
+                <num>(a)</num>
+                <p>] of the VAT Directive for provisions of national law [such as those contained in] Articles 1(e) and 14(b) of the RITI to require, for the grant of exemption from VAT on the supply for consideration of new means of transport, transported by the purchaser from national territory to another Member State, the purchaser to be established or domiciled in that Member State?</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>Is it contrary to Article 138(2)[</p>
+              </item>
+              <item>
+                <num>(a)</num>
+                <p>] of the VAT Directive for exemption from the tax in the Member State of commencement of the transport operation to be refused in circumstances in which the means of transport purchased has been transported to Spain, where it has been granted tourist registration, provisionally and subject to the [Spanish] fiscal rules ... ?</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>Is it contrary to Article 138(2)[</p>
+              </item>
+              <item>
+                <num>(a)</num>
+                <p>] of the VAT Directive to require the payment of VAT by the [vendor] of a new means of transport in circumstances in which it has not been demonstrated whether or not the tourist registration rules have ceased to apply because of one of the situations provided for in [Spanish law], or whether VAT has been or will be paid by reason of the disapplication of those rules?</p>
+              </item>
+              <item>
+                <num>(4)</num>
+                <p>Is it contrary to Article 138(2)[</p>
+              </item>
+              <item>
+                <num>(a)</num>
+                <p>] of the VAT Directive and the principles of legal certainty, proportionality and protection of legitimate expectations to require VAT to be paid by the [vendor] of a new means of transport dispatched to another Member State, in circumstances in which:</p>
+                <blockList>
+                  <item>
+                    <num>--</num>
+                    <p>the purchaser, before dispatch, informs the [vendor] that he resides in the Member State of destination and produces to him a document proving that he has been assigned a foreign national's identity number in that Member State, indicating a residence in that State different from the residence stated by the purchaser himself;</p>
+                  </item>
+                  <item>
+                    <num>--</num>
+                    <p>the purchaser subsequently gives to the [vendor] documents proving that the means of transport purchased has undergone a technical inspection in the Member State of destination and that he has been granted a tourist registration in that State;</p>
+                  </item>
+                  <item>
+                    <num>--</num>
+                    <p>it has not been demonstrated that the [vendor] collaborated with the purchaser to avoid paying VAT;</p>
+                  </item>
+                  <item>
+                    <num>--</num>
+                    <p>the customs authorities have not raised any objection to the cancellation of the customs declaration for the vehicle on the basis of the documents in the possession of the [vendor]?'</p>
+                  </item>
+                </blockList>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the questions referred</p>
+        </tblock>
+        <tblock>
+          <p>Admissibility</p>
+        </tblock>
+        <paragraph eId="para_9640">
+          <num>26</num>
+          <content eId="para_9640__content">
+            <p>The Portuguese Government claims that the questions referred are inadmissible for three reasons.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9641">
+          <num>27</num>
+          <content eId="para_9641__content">
+            <p>First, it argues that the questions referred, as worded in the order for reference, relate to Article 138(2)(b) of the VAT Directive which is not relevant in the context of the dispute in the main proceedings. The fact that one of the members of the referring court sent that court an email, in which he indicated that the relevant provision was Article 138(2)(a) of the VAT Directive and that a copy of that email was annexed to the order for reference cannot have had the effect of correcting the error made initially, having regard to national procedural rules and the guarantee given to the other Member States to allow them to submit their observations.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9642">
+          <num>28</num>
+          <content eId="para_9642__content">
+            <p>It must be noted that the fact that a national court has, formally speaking, worded a question referred for a preliminary ruling with reference to certain provisions of EU law does not prevent the Court from providing that court with all the guidance on points of interpretation which may be of assistance in adjudicating in the case pending before it, whether or not it has referred to those points in its questions. It is, in this regard, for the Court to extract from all the information provided by the national court, in particular from the grounds of the order for reference, the points of EU law which require interpretation in view of the subject matter of the dispute in the main proceedings (see, to that effect, judgments of 21 June 2016, New Valmar, C‑15/15, EU:C:2016:464, paragraph 29, and of 29 September 2016, Essent Belgium, C‑492/14, EU:C:2016:732, paragraph 43 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9643">
+          <num>29</num>
+          <content eId="para_9643__content">
+            <p>In the present case, as the Advocate General observed in points 21 to 23 of his Opinion, it is clear from the grounds of the order for reference that the questions of the national court relate to the interpretation to be given to Article 138(2)(a) of the VAT Directive, regardless of the fact that that court erroneously referred, in that order, to Article 138(2)(b) of that directive. Moreover, that court corrected that error in an email annexed to the decision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9644">
+          <num>30</num>
+          <content eId="para_9644__content">
+            <p>Second, the Portuguese Government is of the view that the account of the facts of the dispute in the main proceedings is vitiated by inconsistencies and contradictions and lacks clarity.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9645">
+          <num>31</num>
+          <content eId="para_9645__content">
+            <p>According to the Court's settled case-law, questions on the interpretation of EU law referred by a national court in the factual and legislative context which that court is responsible for defining, and the accuracy of which is not a matter for the Court to determine, enjoy a presumption of relevance. The Court may refuse to rule on a question referred for a preliminary ruling by a national court only where it is quite obvious that the interpretation of EU law that is sought bears no relation to the actual facts of the main action or its purpose, where the problem is hypothetical, or where the Court does not have before it the factual or legal material necessary to give a useful answer to the questions submitted to it (judgment of 18 December 2014, Schoenimport Italmoda Mariano Previti and Others, C‑131/13, C‑163/13 and C‑164/13, EU:C:2014:2455, paragraph 31 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9646">
+          <num>32</num>
+          <content eId="para_9646__content">
+            <p>In the present case, it must be noted that the description of the factual background provided by the referring court is sufficient to enable the Court to usefully answer the questions referred.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9647">
+          <num>33</num>
+          <content eId="para_9647__content">
+            <p>Third, the Portuguese Government claims that the questions referred are hypothetical since the referring court has already indicated, perhaps wrongly, that the VAT assessment at issue in the main proceeding was vitiated by a failure to state reasons and that it will therefore have to be cancelled regardless of the Court's answer to those questions.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9648">
+          <num>34</num>
+          <content eId="para_9648__content">
+            <p>As the Advocate General noted in point 26 of his Opinion, nothing in the order for reference makes it possible to assert with certainty that that VAT assessment will be cancelled, irrespective of the answer to the questions referred. In any event, there is no doubt that Article 138(2)(a) of the VAT Directive has a link with the subject matter of the dispute in the main proceedings, which concerns that provision's compatibility with the refusal to exempt from VAT a transaction relating to a new means of transport.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9649">
+          <num>35</num>
+          <content eId="para_9649__content">
+            <p>Therefore, the questions referred are admissible.</p>
+            <tblock>
+              <p>The first question</p>
+            </tblock>
+            <p>36 By its first question, the referring court asks, in essence, whether Article 138(2)(a) of the VAT Directive must be interpreted as precluding national provisions which make the exemption of an intra-Community supply of a new means of transport subject to the requirement that the purchaser of that means of transport must be established or domiciled in the Member State of destination of that means of transport.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9650">
+          <num>37</num>
+          <content eId="para_9650__content">
+            <p>As a preliminary point, it must be noted that the context of that question concerns the transitional arrangements relating to VAT applicable to intra-Community trade established by Council Directive 91/680/EEC of 16 December 1991 supplementing the common system of value added tax and amending Directive 77/388/EEC with a view to the abolition of fiscal frontiers ( OJ 1991 L 376, p. 1). Those arrangements are based on a new chargeable event, namely the intra-Community acquisition of goods, enabling the transfer of the tax revenue to the Member State in which final consumption of the goods supplied takes place (judgment of 18 November 2010, X, C‑84/09, EU:C:2010:693, paragraph 22 and case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9651">
+          <num>38</num>
+          <content eId="para_9651__content">
+            <p>Thus, the mechanism consisting, on the one hand, in an exemption, by the Member State of departure, of the supply giving rise to the intra-Community dispatch or transport, together with a right to deduction or reimbursement of the input VAT paid in that Member State and, on the other hand, in the taxation, by the Member State of arrival, of the intra-Community acquisition, was intended to ensure a clear demarcation of the sovereignty of the Member States in matters of taxation (judgment of 18 November 2010, X, C‑84/09, EU:C:2010:693, paragraph 23 and case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9652">
+          <num>39</num>
+          <content eId="para_9652__content">
+            <p>As regards, in particular, the rules pertaining to the taxation of acquisitions of new means of transport, it can be seen from recital 11 of the VAT Directive, that those rules, in addition to covering the allocation of authority to tax, aim to prevent distortions of competition between the Member States liable to result from the application of differing rates of tax (judgment of 18 November 2010, X, C‑84/09, EU:C:2010:693, paragraph 24).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9653">
+          <num>40</num>
+          <content eId="para_9653__content">
+            <p>Article 138(2)(a) of the VAT Directive must be interpreted in the light of that background and those objectives.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9654">
+          <num>41</num>
+          <content eId="para_9654__content">
+            <p>That provision requires Member States to exempt from VAT supplies of new means of transport which satisfy the substantive conditions which are listed in that article (see, by analogy, judgment of 9 October 2014, Traum, C‑492/13, EU:C:2014:2267, paragraph 46) exhaustively (see, by analogy, judgment of 6 September 2012, Mecsek-Gabona, C‑273/11, EU:C:2012:547, paragraph 59).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9655">
+          <num>42</num>
+          <content eId="para_9655__content">
+            <p>In accordance with that provision, the Member States are to exempt the supply of new means of transport, dispatched or transported to the purchaser outside their respective territory but within the Union, by or on behalf of the vendor or the purchaser, for taxable persons, or non-taxable legal persons, whose intra-Community acquisitions of goods are not subject to VAT pursuant to Article 3(1) of the VAT Directive, or for any other non-taxable person.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9656">
+          <num>43</num>
+          <content eId="para_9656__content">
+            <p>Thus, and as noted by the Advocate General in points 38 and 39 of his Opinion, the exemption of intra-Community supplies of new means of transport becomes applicable only when the right to dispose of that means of transport as owner has been transferred to the purchaser, the vendor establishes that those goods have been dispatched or transported to another Member State and, as a result of that dispatch or that transport, that means of transport has physically left the territory of the Member State of supply (see, by analogy, judgments of 18 November 2010, X, C‑84/09, EU:C:2010:693, paragraph 27, and of 6 September 2012, Mecsek-Gabona, C‑273/11, EU:C:2012:547, paragraph 31 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9657">
+          <num>44</num>
+          <content eId="para_9657__content">
+            <p>By contrast, having regard to the wording of Article 138(2)(a) of the VAT Directive, the exemption of an intra-Community supply of a new means of transport is in no way subject to the condition that the purchaser must be established or domiciled in the Member State of destination.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9658">
+          <num>45</num>
+          <content eId="para_9658__content">
+            <p>The imposition of such a condition would, moreover, be contrary to the general scheme of that provision as well as to the background and objectives of the transitional VAT arrangements applicable to intra-Community trade, as mentioned in paragraphs 37 to 39 of the present judgment. Indeed, by refusing to exempt an intra-Community supply on the sole ground that the purchaser of the new means of transport is not established or domiciled in the Member State of destination, irrespective even of the fact that the substantive conditions of the exemption are met, the Member State of supply would be compelled to tax a transaction which, provided those conditions are met, should be taxed as an intra-Community acquisition in the Member State of destination. This would result in a double taxation, contrary to the principle of fiscal neutrality.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9659">
+          <num>46</num>
+          <content eId="para_9659__content">
+            <p>That interpretation is also supported by the Court's case-law concerning the classification of a transaction relating to a new means of transport as an intra-Community acquisition.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9660">
+          <num>47</num>
+          <content eId="para_9660__content">
+            <p>Having regard to the particular nature of such a transaction, the Court has held that, in order to classify a transaction as an `intra-Community acquisition', it is necessary to conduct an overall assessment of all the relevant objective evidence in order to determine whether the goods purchased have actually left the territory of the Member State of supply and, if so, in which Member State the final consumption will take place. Factors likely to be of significance in that respect, other than the process of transporting the goods in question, are, inter alia, the place of registration and usual use of the goods, the place of residence of the purchaser and the presence or absence of links between the purchaser and the Member State of supply or another Member State (see to that effect, judgment of 18 November 2010, X, C‑84/09, EU:C:2010:693, paragraphs 41 to 45 and 50).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9661">
+          <num>48</num>
+          <content eId="para_9661__content">
+            <p>It is apparent from that case-law that, although the place of domicile of the purchaser of the new means of transport is a relevant factor for the purpose of the overall assessment aimed at determining the place of final use of the means of transport, it is not capable of affecting, on its own, classification as an `intra-Community supply' and its exemption in the circumstances laid down in Article 138(2)(a) of the VAT Directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9662">
+          <num>49</num>
+          <content eId="para_9662__content">
+            <p>Furthermore, a condition relating to establishment or domicile of the purchaser in the Member State of destination also cannot be based on Article 131 of the VAT Directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9663">
+          <num>50</num>
+          <content eId="para_9663__content">
+            <p>Although it is clear from that provision, that the Member States are to lay down the conditions for the application of the exemption of intra-Community supplies of goods with a view to ensuring the correct and straightforward application of those exemptions and to prevent any possible fraud, evasion and abuse, when they exercise their powers, Member States must, however, comply with the general principles of law which form part of the legal order of the European Union, which include, in particular, the principles of legal certainty and proportionality and fiscal neutrality (see, to that effect, judgment of 18 November 2010, X, C‑84/09, EU:C:2010:693, paragraphs 35 and 37).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9664">
+          <num>51</num>
+          <content eId="para_9664__content">
+            <p>The refusal to grant the benefit of the exemption laid down in Article 138(2)(a) of the VAT Directive on the sole ground that the purchaser does not reside in the Member State of destination would be contrary to the allocation of powers of taxation and capable of affecting the principle of tax neutrality. Moreover, as is apparent from paragraph 45 of the present judgment, such a refusal may result in the risk of a double taxation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9665">
+          <num>52</num>
+          <content eId="para_9665__content">
+            <p>In the light of the aforementioned considerations, the answer to the first question is that Article 138(2)(a) of the VAT Directive precludes national provisions from making the benefit of the exemption of an intra-Community supply of a new means of transport subject to the requirement that the purchaser of that means of transport must be established or domiciled in the Member State of destination of that means of transport.</p>
+            <tblock>
+              <p>The second question</p>
+            </tblock>
+            <p>53 By its second question, the referring court asks, in essence, whether Article 138(2)(a) of the VAT Directive must be interpreted as meaning that the exemption of a supply of a new means of transport can be refused in the Member State of supply when that means of transport has been granted only temporary registration in the Member State of destination.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9666">
+          <num>54</num>
+          <content eId="para_9666__content">
+            <p>As is apparent from the answer to the first question, the Member States must exempt supplies of new means of transport as long as the substantive conditions, listed exhaustedly in Article 138(2)(a) of the VAT Directive and set out in paragraphs 42 and 43 of the present judgment, are met.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9667">
+          <num>55</num>
+          <content eId="para_9667__content">
+            <p>Registration of the new means of transport in the Member State of destination is not among those conditions.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9668">
+          <num>56</num>
+          <content eId="para_9668__content">
+            <p>Consequently, the exemption in the Member State of supply cannot be refused on the sole ground that the registration in the Member State of destination is, like the tourist registration at issue in the main proceedings, a temporary registration granted for a period of 12 months.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9669">
+          <num>57</num>
+          <content eId="para_9669__content">
+            <p>Inasmuch as the Commission and the Portuguese Government base an argument on the fact that such a registration in the Member State of destination cannot determine the Member State of final use of the means of transport at issue, it must be added that, as noted by the Advocate General in point 55 of his Opinion, the fact that such a registration is issued does not automatically mean that the place of final use is not located in that Member State of destination. As is apparent from the request for a preliminary ruling, such a registration may, indeed, be granted for a relatively significant period of time, in this case 12 months, which can be extended or followed by normal registration.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9670">
+          <num>58</num>
+          <content eId="para_9670__content">
+            <p>For reasons similar to those set out in paragraph 51 of the present judgment, the conclusion reached in paragraph 56 of this judgment cannot be called into question by the fact that, pursuant to Article 131 of the VAT Directive, the Member States are to lay down the conditions with a view to ensuring the correct and straightforward application of those exemptions and preventing any possible fraud, evasion and abuse.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9671">
+          <num>59</num>
+          <content eId="para_9671__content">
+            <p>In the light of the foregoing considerations, the answer to the second question is that Article 138(2)(a) of the VAT Directive must be interpreted as meaning that the exemption of a supply of a new means of transport cannot be refused in the Member State of supply on the sole ground that that means of transport has been granted only temporary registration in the Member State of destination.</p>
+            <tblock>
+              <p>The third question</p>
+            </tblock>
+            <p>60 By its third question, the court asks, in essence, whether Article 138(2)(a) of the VAT Directive precludes the vendor of a new means of transport, transported by the purchaser to another Member State and temporarily registered in that State, from being required to pay VAT at a later stage when it is not established that the temporary registration scheme has ended and the VAT has or will be paid in the Member State of destination.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9672">
+          <num>61</num>
+          <content eId="para_9672__content">
+            <p>In that regard, it must be noted that, first of all, as is apparent from paragraph 50 of the present judgment, the Member States, when they set the conditions for exemption of intra-Community supplies pursuant to Article 131 of the VAT Directive, must comply with, inter alia, the principles of legal certainty and proportionality as well as fiscal neutrality.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9673">
+          <num>62</num>
+          <content eId="para_9673__content">
+            <p>Next, the Court has held that it is for the vendor to furnish proof that the conditions laid down for the application of the intra-Community supply exemption, including those imposed by the Member States for the purpose of ensuring the correct and straightforward application of the exemptions and for preventing any evasion, avoidance or abuse, are fulfilled (see, to that effect, judgment of 27 September 2012, VSTR, C‑587/10, EU:C:2012:592, paragraph 43 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9674">
+          <num>63</num>
+          <content eId="para_9674__content">
+            <p>Finally, intra-Community transactions concerning new means of transport have a particular nature in that, inter alia, VAT relating to those transactions must also be paid by a non-taxable individual, who is not subject to the obligations relating to tax returns and accounting, so that a subsequent check of that individual is not possible and the individual, as final consumer, cannot claim a VAT deduction, even in the event of resale of a purchased vehicle, and therefore has a greater interest than a trader in avoiding the tax (see, to that effect, judgment of 18 November 2010, X, C‑84/09, EU:C:2010:693, paragraphs 42 and 43).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9675">
+          <num>64</num>
+          <content eId="para_9675__content">
+            <p>It follows that, as has been pointed out in paragraph 47 of the present judgment, to be able to classify a transaction concerning a new means of transport as `an intra-Community acquisition', it is necessary to conduct an overall assessment of all the relevant objective evidence in order to determine whether the goods purchased have actually left the territory of the Member State of supply and, if so, in which Member State their final consumption will take place.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9676">
+          <num>65</num>
+          <content eId="para_9676__content">
+            <p>In the event that the vendor has presented evidence to show transport or dispatch, by the purchaser, of the new means of transport to another Member State as well as its registration, even temporary, and its use in that Member State, the vendor cannot be obliged to provide conclusive evidence of the final and definitive nature of the use of that means of transport in the Member State of destination as well as the end of the tourist registration, if it be the case, after payment of VAT in that Member State.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9677">
+          <num>66</num>
+          <content eId="para_9677__content">
+            <p>Indeed, first, in such circumstances, proof of the physical movement of that means of transport to its place of final use, which the vendor might be able to submit to the tax authorities, depends essentially on information that he receives for that purpose from the person acquiring the goods (see, by analogy, judgment of 16 December 2010, Euro Tyre Holding, C‑430/09, EU:C:2010:786, paragraph 37).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9678">
+          <num>67</num>
+          <content eId="para_9678__content">
+            <p>Second, according to the case-law of the Court, the vendor cannot be required to provide evidence relating to the taxation of the intra-Community acquisition of the goods at issue in order to benefit from the exemption of the corresponding supply (judgment of 27 September 2012, VSTR, C‑587/10, EU:C:2012:592, paragraph 55). To make the exemption subject to the prior determination by the Member State of final use of the new means of transport would amount precisely to imposing such an obligation on the vendor. Indeed, that could impose on the vendor the burden of proving that definitive registration has been granted, which could occur, if it be the case, after payment of VAT by the purchaser.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9679">
+          <num>68</num>
+          <content eId="para_9679__content">
+            <p>In those circumstances, an obligation such as that referred to in paragraph 65 of the present judgment does not lead to a correct and straightforward application of the exemptions.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9680">
+          <num>69</num>
+          <content eId="para_9680__content">
+            <p>In the light of the aforementioned considerations, the answer to the third question is that Article 138(2)(a) of the VAT Directive precludes the vendor of a new means of transport, transported by the purchaser to another Member State and registered in that latter State temporarily, from being required to pay VAT at a later stage when it is not established that the temporary registration regime has ended and VAT has or will be paid in the Member State of destination.</p>
+            <tblock>
+              <p>The fourth question</p>
+            </tblock>
+            <p>70 By its fourth question the referring court asks, in essence, whether Article 138(2)(a) of the VAT Directive as well as the principles of legal certainty, proportionality and protection of legitimate expectations preclude the vendor of a new means of transport, transported by the purchaser to another Member State and registered on a temporary basis in that State, from being required to pay VAT at a later stage when, having regard to the circumstances of the sale, the purchaser may have committed tax evasion, but it has not been established that the vendor cooperated in committing that fraud.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9681">
+          <num>71</num>
+          <content eId="para_9681__content">
+            <p>In that regard, it must be noted that it is not contrary to EU law to require a trader to act in good faith and to take every step which could reasonably be asked of it to satisfy itself that the transaction which it is carrying out does not result in its participation in tax evasion (judgment of 6 September 2012, Mecsek-Gabona, C‑273/11, EU:C:2012:547, paragraph 48 and the case-law cited). If the taxable person concerned knew or should have known that the transaction which it had carried out was part of a fraud committed by the purchaser and that the taxable person had not taken every step which could reasonably be asked of it to prevent that fraud from being committed, that person should be refused a VAT exemption (judgment of 6 September 2012, Mecsek-Gabona, C‑273/11, EU:C:2012:547, paragraph 54).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9682">
+          <num>72</num>
+          <content eId="para_9682__content">
+            <p>It is for the national court to verify, on the basis of an overall assessment of all the facts and circumstances of the case in the main proceedings, whether Santogal acted in good faith and took every step which could reasonably be asked of it to satisfy itself that the transaction carried out had not resulted in its participation in tax evasion (see, by analogy, judgment of 6 September 2012, Mecsek-Gabona, C‑273/11, EU:C:2012:547, paragraph 53). The Court may nevertheless provide it with all the guidance on points of interpretation which may be of assistance.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9683">
+          <num>73</num>
+          <content eId="para_9683__content">
+            <p>Thus, it is important to indicate that, when carrying out an intra-Community transaction concerning a new means of transport, the vendor cannot rely solely on the intention expressed by the purchaser to transport the goods to another Member State for the purposes of their final use. On the contrary, and as the Advocate General noted in point 63 of his Opinion, the vendor must ensure that the purchaser's expressed intention is supported by objective evidence (see, by analogy, judgment of 18 November 2010, X, C‑84/09, EU:C:2010:693, paragraph 47).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9684">
+          <num>74</num>
+          <content eId="para_9684__content">
+            <p>It must be noted that, having regard to the evidence produced by the purchaser at the time of the sale, it could reasonably be considered that that purchaser resided in Spain and had undertaken in that State the steps necessary for the vehicle at issue in the main proceedings to be used there, be it under a specific regime. It is nevertheless for that court to verify whether Santogal displayed the diligence required to satisfy itself that the transaction carried out had not resulted in its participation in tax evasion. In this respect, it must be added that Santogal had to display a high degree of diligence, first, having regard to the value of the vehicle at issue and, second, given that, in the context of the acquisition of a new means of transport, an individual cannot claim a VAT deduction, even in the event of resale of a purchased vehicle, and therefore has a greater interest than a trader in avoiding the tax (judgment of 18 November 2010, X, C‑84/09, EU:C:2010:693, paragraph 43). Furthermore, in the assessment to be carried out by the referring court, it is necessary to verify in particular whether, having regard to the evidence it possessed or could have possessed, Santogal was in a position to know that the temporary registration was intended merely for non-residents and that the purchaser had provided several addresses in Spain which could raise doubts regarding his actual residence.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9685">
+          <num>75</num>
+          <content eId="para_9685__content">
+            <p>Besides the vendor's behaviour, the Portuguese authorities' behaviour must also be taken into account. On the assumption that Santogal had presented documents in order to benefit from the exemption of the transaction at issue and those documents had been examined and accepted by the competent authority, which it is for the referring court to verify, it must be noted that the principle of legal certainty precludes a Member State which has accepted, initially, the documents submitted by the vendor as evidence establishing entitlement to the exemption from subsequently requiring that vendor to account for the VAT on that supply, because of the purchaser's fraud, of which the vendor had and could have had no knowledge (see, by analogy, judgment of 27 September 2007, Teleos and Others, C‑409/04, EU:C:2007:548, paragraph 50).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9686">
+          <num>76</num>
+          <content eId="para_9686__content">
+            <p>Inasmuch as the referring court refers to the principle of the protection of legitimate expectations, it must be noted that, according to the Court's settled case-law, the right to rely on that principle extends to any person in a situation in which an administrative authority has caused that person to entertain expectations which are justified by precise assurances provided to him (judgment of 9 July 2015, Salomie and Oltean, C‑183/14, EU:C:2015:454, paragraph 44 and the case-law cited). Nevertheless, a taxable person cannot have a legitimate expectation that a situation characterised by fraud will be maintained (see, by analogy, judgment of 29 April 2004, Gemeente Leusden and Holin Groep, C‑487/01 and C‑7/02, EU:C:2004:263, paragraph 77).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9687">
+          <num>77</num>
+          <content eId="para_9687__content">
+            <p>In the light of the aforementioned considerations, the answer to the fourth question is that Article 138(2)(a) of the VAT Directive as well as the principles of legal certainty, proportionality and protection of legitimate expectations preclude the vendor of a new means of transport, transported by the purchaser to another Member State and registered on a temporary basis in that State, from being required to pay VAT at a later stage in the event of tax evasion by the purchaser, unless it has been established, in the light of objective evidence, that that vendor knew or ought to have known that the transaction was part of a fraud committed by the purchaser and he did not take all reasonable steps within his power to avoid participating in that fraud. It is for the referring court to verify whether this is the case on the basis of an overall assessment of all the evidence and circumstances of the case in the main proceedings.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_9688">
+          <num>78</num>
+          <content eId="para_9688__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Ninth Chamber) hereby rules: 1. Article 138(2)(a) of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax precludes national provisions from making the benefit of the exemption of an intra-Community supply of a new means of transport subject to the requirement that the purchaser of that means of transport must be established or domiciled in the Member State of destination of that means of transport. 2. Article 138(2)(a) of Directive 2006/112 must be interpreted as meaning that the exemption of a supply of a new means of transport cannot be refused in the Member State of supply on the sole ground that that means of transport has been registered only temporarily in the Member State of destination. 3. Article 138(2)(a) of Directive 2006/112 precludes the vendor of a new means of transport, transported by the purchaser to another Member State and registered in that latter State temporarily, from being required to pay value added tax at a later stage when it is not established that the temporary registration regime has ended and value added tax has or will be paid in the Member State of destination. 4. Article 138(2)(a) of Directive 2006/112 as well as the principles of legal certainty, proportionality and protection of legitimate expectations preclude the vendor of a new means of transport, transported by the purchaser to another Member State and registered on a temporary basis in that State, from being required to pay value added tax at a later stage in the event of tax evasion by the purchaser, unless it has been established, in the light of objective evidence, that that vendor knew or ought to have known that the transaction was part of a fraud committed by the purchaser and he did not take all reasonable steps within his power to avoid his participation in that fraud. It is for the referring court to verify whether this is the case on the basis of an overall assessment of all the evidence and circumstances of the case in the main proceedings.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Portuguese.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

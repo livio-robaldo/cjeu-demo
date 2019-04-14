@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Fourth Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>26 April 2017 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>`Reference for a preliminary ruling -- Transport -- Road transport -- Driving licences -- Directive 2006/126/EC -- Article 13(2) -- Concept of `entitlement to drive granted before 19 January 2013' -- National legislation transposing the directive -- Obligation to obtain a driving licence imposed on persons who were allowed to ride a moped without a licence before the entry into force of that legislation' In Case C‑632/15, REQUEST for a preliminary ruling under Article 267 TFEU from the Înalta Curte de Casaţie şi Justiţie (High Court of Cassation and Justice, Romania), made by decision of 12 November 2015, received at the Court on 30 November 2015, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">Costin Popescu</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#">Guvernul României</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="respondent" refersTo="#">Ministerul Afacerilor Interne</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="respondent" refersTo="#">Direcția Regim Permise de Conducere si Înmatriculare a Vehiculelor</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="respondent" refersTo="#">Direcția Rutieră</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="respondent" refersTo="#">Serviciul Public Comunitar Regim Permise de Conducere și Înmatriculare a Vehiculelor</party>
+      </p>
+      <p>, THE COURT (Fourth Chamber), composed of T. von Danwitz, President of the Chamber, E. Juhász (Rapporteur), C. Vajda, K. Jürimäe and C. Lycourgos, Judges, Advocate General: H. Saugmandsgaard Øe, Registrar: A. Calot Escobar, having regard to the written procedure, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>Mr Popescu, by himself,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Romanian Government, by R.H. Radu, O.C. Ichim and E. Gane, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Slovak Government, by B. Ricziová, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by L. Nicolae and J. Hottiaux, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 24 November 2016,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_6040">
+          <num>1</num>
+          <content eId="para_6040__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Directive 2006/126/EC of the European Parliament and of the Council of 20 December 2006 on driving licences ( OJ 2006 L 403, p. 18), in particular Article 13(2) read in conjunction with recital 5 of the directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6041">
+          <num>2</num>
+          <content eId="para_6041__content">
+            <p>The request has been made in proceedings between Costin Popescu and the Guvernul României (Government of Romania), represented by the Secretariatul General al Guvernului (General Secretariat of the Government), the Ministerul Afacerilor Interne (Ministry of Internal Affairs), the Direcția Regim Permise de Conducere și Înmatriculare a Vehiculelor (Directorate for Driving Licences and Vehicle Registration), the Direcția Rutieră (Directorate for Highways) and the Serviciul Public Comunitar Regim Permise de Conducere și Înmatriculare a Vehiculelor (Public Service for Driving Licences and Vehicle Registration) concerning the obligation of persons who were allowed to ride mopeds without holding driving licences before the entry into force of the Romanian legislation transposing Directive 2006/126 into national law to obtain a driving licence in order to continue to ride those vehicles.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <paragraph eId="para_6042">
+          <num>3</num>
+          <content eId="para_6042__content">
+            <p>Recital 2 of Directive 2006/126 states: `The rules on driving licences are essential elements of the common transport policy, contribute to improving road safety, and facilitate the free movement of persons taking up residence in a Member State other than the one issuing the licence ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6043">
+          <num>4</num>
+          <content eId="para_6043__content">
+            <p>According to recital 5 of that directive, the directive should not prejudice existing entitlements to drive granted or acquired before its date of application.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6044">
+          <num>5</num>
+          <content eId="para_6044__content">
+            <p>Recital 8 of the directive is worded as follows: `On road safety grounds, the minimum requirements for the issue of a driving licence should be laid down. Standards for driving tests and licensing need to be harmonised. To this end the knowledge, skills and behaviour connected with driving motor vehicles should be defined, the driving test should be based on these concepts and the minimum standards of physical and mental fitness for driving such vehicles should be redefined.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6045">
+          <num>6</num>
+          <content eId="para_6045__content">
+            <p>According to recital 13 of the directive, introducing a category of driving licences for mopeds will, in particular, increase road safety as regards the youngest drivers who, according to the statistics, are the hardest hit by road accidents.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6046">
+          <num>7</num>
+          <content eId="para_6046__content">
+            <p>Recital 16 of the directive reads as follows: `The model driving licence as set out in [Council] Directive 91/439/EEC [o f 29 July 1991 on driving licences (OJ 1991 L 237, p. 1)] s hould be replaced by a single model in the form of a plastic card. At the same time, this model driving licence needs to be adapted on account of the introduction of a new category of driving licences for mopeds and of a new category of driving licences for motorcycles.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6047">
+          <num>8</num>
+          <content eId="para_6047__content">
+            <p>Article 4 of the directive, `Categories, definitions and minimum ages', provides: `1.   The driving licence provided for in Article 1 shall authorise the driving of power-driven vehicles in the categories defined hereafter. It may be issued from the minimum age indicated for each category. A ``power-driven vehicle '' means any self-propelled vehicle running on a road under its own power, other than a rail-borne vehicle. 2.   mopeds: Category AM:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>Two-wheel vehicles or three-wheel vehicles with a maximum design speed of not more than 45 km/h, as defined in Article 1(2)(a) of Directive 2002/24/EC of the European Parliament and of the Council of 18 March 2002 relating to the type-approval of two or three-wheel motor vehicles [and repealing Council Directive 92/61/EEC ( OJ 2002 L 124, p. 1)] (excluding those with a maximum design speed under or equal to 25 km/h), and light quadricycles as defined in Article 1(3)(a) of Directive 2002/24/EC,</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>the minimum age for category AM is fixed at 16 years; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6048">
+          <num>9</num>
+          <content eId="para_6048__content">
+            <p>Article 7 of the directive, `Issue, validity and renewal', provides: `1.   Driving licences shall be issued only to those applicants:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>who have passed a test of skills and behaviour and a theoretical test and who meet medical standards, in accordance with the provisions of Annexes II and III;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>who have passed a theory test only as regards category AM; Member States may require applicants to pass a test of skills and behaviour and a medical examination for this category. For tricycles and quadricycles within this category, Member States may impose a distinctive test of skills and behaviour. For the differentiation of vehicles in category AM, a national code may be inserted on the driving licence; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6049">
+          <num>10</num>
+          <content eId="para_6049__content">
+            <p>Article 13 of the directive, `Equivalences between non-Community model licences', reads as follows: `1.   With the agreement of the Commission, Member States shall establish equivalences between entitlements obtained before the implementation of this Directive and the categories defined in Article 4. After consulting the Commission, Member States may make to their national legislation such adjustments as are necessary for the purpose of implementing the provisions of Article 11(4), (5) and (6). 2.   Any entitlement to drive granted before 19 January 2013 shall not be removed or in any way qualified by the provisions of this Directive.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6050">
+          <num>11</num>
+          <content eId="para_6050__content">
+            <p>Article 16(1) and (2) of the directive, `Transposition', requires the Member States, first, to adopt and publish, not later than 19 January 2011, the laws, regulations and administrative provisions necessary to comply with specified provisions of the directive, including Article 4(1) and (2), Article 7(1)(b) and Article 13, and, secondly, to apply the transposed provisions as from 19 January 2013.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Romanian law</p>
+        </tblock>
+        <paragraph eId="para_6051">
+          <num>12</num>
+          <content eId="para_6051__content">
+            <p>Legea nr. 203/2012 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 195/2002 privind circulaţia pe drumurile publice (Law No 203/2012 amending and supplementing Government Emergency Order No 195/2002 on the use of the public highway, Monitorul Oficial al României, No 760, 12 November 2012), which transposed certain provisions of Directive 2006/126 into Romanian law, has applied since 19 January 2013. That law amended Ordonanţa de urgenţă a Guvernului nr. 195/2002 privind circulaţia pe drumurile publice (Government Emergency Order No 195/2002 on the use of the public highway, Monitorul Oficial al României, Part I, No 670, 3 August 2006) ( `OUG No 195/2002') and the regulation implementing that emergency order, as approved by Hotărârea Guvernului nr. 1391/2006 (Government Decision No 1391/2006, Monitorul Oficial al României, Part I, No 876, 26 October 2006).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6052">
+          <num>13</num>
+          <content eId="para_6052__content">
+            <p>In order to transpose that directive, Articles 160 and 161 of the regulation implementing OUG No 195/2002, concerning mopeds, were repealed.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6053">
+          <num>14</num>
+          <content eId="para_6053__content">
+            <p>Before the entry into force of Law No 203/2012, the regulation implementing OUG No 195/2002 provided, in Article 160(2), that `persons not in possession of a driving licence may ride mopeds on the public highway only if they furnish evidence that they have completed a course on the highway code organised by an institution authorised to train drivers of motor vehicles'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6054">
+          <num>15</num>
+          <content eId="para_6054__content">
+            <p>Article 161(2) of that implementing regulation stated, before the entry into force of Law No 203/2012, that `where they use the public highway, cyclists are required to carry their identity card and moped riders must also carry their certificate attesting to completion of a course on the highway regulations and the vehicle registration certificate'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6055">
+          <num>16</num>
+          <content eId="para_6055__content">
+            <p>Article 6(6) and (21) of OUG No 195/2002 defines the terms `motor vehicle' and `moped'. It provides that `mopeds ... shall be considered motor vehicles' and that light quadricycles `shall be treated as mopeds'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6056">
+          <num>17</num>
+          <content eId="para_6056__content">
+            <p>Article 20(1) to (3) of OUG No 195/2002 reads as follows: `1.   In order to drive on the public highway motor vehicles, trams, tractors used solely in connection with agricultural or forestry operations or self-propelled machinery, drivers must be in possession of the relevant driving licence. 2.   Driving licences shall be issued for the following categories of vehicle: AM ... 3.   The description of the categories of vehicles referred to in paragraph 2 for which driving licences are issued is set out in Annex 1.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6057">
+          <num>18</num>
+          <content eId="para_6057__content">
+            <p>Annex I to OUG No 195/2002 lists the categories of vehicles for which driving licences are issued in accordance with Article 20(2). Point (a) of the annex defines `category AM' as referring to `mopeds'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6058">
+          <num>19</num>
+          <content eId="para_6058__content">
+            <p>In accordance with Article 23(1) and (9) of OUG No 195/2002: `1.   Entitlement to drive a motor vehicle ... on the public highway shall be granted exclusively to holders of a valid driving licence corresponding to the category to which the vehicle belongs or to any person who, alternatively, can produce a document authorising him to use the public highway. ... 9.   The examination for obtaining a driving licence shall consist of a theory test to verify knowledge and a practical test to verify skills and behaviour, according to the category of licence applied for. The practical test for category AM shall consist only in verifying skills on tracks specifically designed for that purpose. The conditions for obtaining a driving licence shall be laid down by regulation.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Facts of the main proceedings and question referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_6059">
+          <num>20</num>
+          <content eId="para_6059__content">
+            <p>Mr Popescu holds a registration certificate for an Aixam light quadricycle, classed in vehicle category L6 e and treated as a moped, and a certificate attesting to the fact that he completed a course on the highway code for riding mopeds on the public highway. Those documents, which were issued to him in 2010, allowed him to use a vehicle such as his in accordance with Articles 160 and 161 of the regulation implementing OUG No 195/2002, in the version in force before 19 January 2013.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6060">
+          <num>21</num>
+          <content eId="para_6060__content">
+            <p>From 19 January 2013, the riding of mopeds, or vehicles treated as mopeds, on the public highway in Romania was subject to obtaining a driving licence, pursuant to Law No 203/2012, which amended OUG No 195/2002 in order to transpose certain provisions of Directive 2006/126 into national law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6061">
+          <num>22</num>
+          <content eId="para_6061__content">
+            <p>Mr Popescu brought proceedings against a number of national authorities before the Curtea de Apel București (Court of Appeal, Bucharest, Romania), seeking for his entitlement to ride mopeds on the public highway, acquired before 19 January 2013, to be recognised after that date without his having to comply with additional requirements, and for a document confirming that entitlement to be issued to him by the competent authority. In support of his action, he argued that the new rules under Law No 203/2012 were contrary to the provisions of Directive 2006/126.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6062">
+          <num>23</num>
+          <content eId="para_6062__content">
+            <p>Since Mr Popescu also raised a plea of non-constitutionality in respect of some provisions of OUG No 195/2002 as amended by Law No 203/2012, the Curtea de Apel București (Court of Appeal, Bucharest) referred the case to the Curtea Constituțională (Constitutional Court, Romania).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6063">
+          <num>24</num>
+          <content eId="para_6063__content">
+            <p>By judgment of 5 December 2013, the Curtea Constituțională (Constitutional Court), while stating that the interpretation of EU law was outside its jurisdiction and was a prerogative belonging exclusively to the Court of Justice of the European Union, dismissed the plea of non-constitutionality as unfounded, on the ground that the provisions of national law relied on by Mr Popescu were consistent with the Romanian constitution.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6064">
+          <num>25</num>
+          <content eId="para_6064__content">
+            <p>On the basis of that decision, the Curtea de Apel București (Court of Appeal, Bucharest) declared Mr Popescu's action inadmissible.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6065">
+          <num>26</num>
+          <content eId="para_6065__content">
+            <p>Mr Popescu appealed to the Înalta Curte de Casaţie şi Justiţie (High Court of Cassation and Justice, Romania), submitting that the provisions of Law No 203/2012 were inconsistent with recital 5 and Article 13(2) of Directive 2006/126, under which no entitlement to drive granted before 19 January 2013 was to be removed or in any way qualified by the provisions of the directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6066">
+          <num>27</num>
+          <content eId="para_6066__content">
+            <p>In defence, the Inspectoratul General al Poliției Române (Romanian General Police Inspectorate) argued that the changes made to OUG No 195/2002 by Law No 203/2012, consisting in making it necessary to obtain a licence in order to ride a moped, were motivated by the objective of improving road safety by reducing the number of road traffic accidents involving mopeds and minimising their consequences through the requirement that riders acquire the necessary theoretical knowledge and practical skills on an appropriate course.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6067">
+          <num>28</num>
+          <content eId="para_6067__content">
+            <p>In those circumstances, the Înalta Curte de Casație și Justiție (High Court of Cassation and Justice) decided to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling: `Do the provisions of Directive 2006/126 ... permit the Romanian State, in the case of riders of mopeds in possession of an official document which gave them the right to ride on the public highway before 19 January 2013, to impose a requirement to obtain a driving licence by undergoing tests/examinations similar to those required for other motor vehicles, for the purpose of being able to continue to ride a moped after 19 January 2013?'</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>Consideration of the question referred</p>
+        </tblock>
+        <paragraph eId="para_6068">
+          <num>29</num>
+          <content eId="para_6068__content">
+            <p>By its question, the referring court asks essentially whether the provisions of Directive 2006/126, in particular Article 13(2), must be interpreted as precluding national legislation, adopted in order to transpose that directive into national law, which terminates the authorisation to ride mopeds without holding a driving licence, the issue of which is subject to passing tests or examinations similar to those required for driving other motor vehicles.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6069">
+          <num>30</num>
+          <content eId="para_6069__content">
+            <p>Article 13(2) of that directive provides that no entitlement to drive granted before 19 January 2013 is to be removed or in any way qualified by the provisions of the directive, and recital 5 of the directive states that it should not prejudice existing entitlements to drive granted or acquired before its date of application.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6070">
+          <num>31</num>
+          <content eId="para_6070__content">
+            <p>In this respect, Mr Popescu submits that, when Law No 203/2012 transposing Directive 2006/126 into Romanian law was adopted, existing entitlements to drive acquired before the entry into force of that law could not therefore be prejudiced. In his view, Article 13(2) of the directive should be interpreted as referring to any entitlement to drive that was recognised by a Member State even without a formal document, and not only to entitlements that were given material form by the issue of a driving licence or document of a similar nature.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6071">
+          <num>32</num>
+          <content eId="para_6071__content">
+            <p>Mr Popescu bases that submission in particular on the wording of the Romanian language version of the provision, which uses the expression `drept de conducere acordat', including the word `drept' which normally refers to the right itself, not the document attesting a right granted, and the word `acordat' which literally means `accorded' or `granted', and may refer both to a right and to a document attesting that right.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6072">
+          <num>33</num>
+          <content eId="para_6072__content">
+            <p>On the other hand, as the Advocate General observes in point 42 of his Opinion, a literal interpretation of the expression `droit de conduire délivré' in the French version, having regard in particular to the usual acceptance of the word `délivré' ( `issued'), could suggest that the wording of Article 13(2) of Directive 2006/126 implies that only express entitlements to drive deriving from an instrument formally issued, generally in the form of an individual administrative act, before 19 January 2013 would not be affected, in accordance with that provision, by the requirements of that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6073">
+          <num>34</num>
+          <content eId="para_6073__content">
+            <p>There thus appear to be differences between various language versions of Article 13(2) of Directive 2006/126.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6074">
+          <num>35</num>
+          <content eId="para_6074__content">
+            <p>It should be recalled here that, according to the Court's settled case-law, the wording used in one language version of a provision of EU law cannot serve as the sole basis for the interpretation of that provision or be given priority over the other language versions. Provisions of EU law must be interpreted and applied uniformly in the light of the versions existing in all EU languages. Where there is divergence between the various language versions of an EU legislative text, the provision in question must be interpreted by reference to the general scheme and purpose of the rules of which it forms part (judgments of 28 July 2016, Edilizia Mastrodonato, C‑147/15, EU:C:2016:606, paragraph 29, and of 22 September 2016, Breitsamer und Ulrich, C‑113/15, EU:C:2016:718, paragraph 58).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6075">
+          <num>36</num>
+          <content eId="para_6075__content">
+            <p>First, as regards the general scheme of Directive 2006/126, it must be noted that the directive establishes a single model Community driving licence designed to replace the various driving licences in existence in the Member States, and introduces a new category of driving licence for mopeds. It thus prescribes and defines in Article 4 the various categories of driving licence with which the Member States, which have each already defined their own categories of driving licence, must establish equivalences (see, to that effect, judgment of 26 April 2012, Hofmann, C‑419/10, EU:C:2012:240, paragraph 40).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6076">
+          <num>37</num>
+          <content eId="para_6076__content">
+            <p>In this context, the Court has held that Article 13 of Directive 2006/126, headed `Equivalences between non-Community model licences', in which the disputed expression `entitlement to drive granted' appears, aims solely to govern the question of equivalences between rights acquired before the implementation of the directive and the various categories of driving licence defined by the directive (see, to that effect, judgment of 26 April 2012, Hofmann, C‑419/10, EU:C:2012:240, paragraph 41), that is, between the various categories of driving licence established by the Member States and those resulting from the directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6077">
+          <num>38</num>
+          <content eId="para_6077__content">
+            <p>It follows from that case-law that the provision in question only concerns equivalences between old driving licences and the new single Community model.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6078">
+          <num>39</num>
+          <content eId="para_6078__content">
+            <p>That conclusion is confirmed by an examination of the travaux préparatoires for Directive 2006/126, which show that Article 13(2) of the directive was added on the initiative of the European Parliament, which justified the addition by stating that the replacement of old driving licences should not under any circumstances result in the loss or restriction of acquired rights with regard to the authorisation to drive different categories of vehicle (see, to that effect, judgment of 26 April 2012, Hofmann, C‑419/10, EU:C:2012:240, paragraph 42).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6079">
+          <num>40</num>
+          <content eId="para_6079__content">
+            <p>Secondly, as regards the purpose of Directive 2006/126, it must be noted that its aim is inter alia to improve road safety, as is confirmed by recitals 2, 8 and 13.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6080">
+          <num>41</num>
+          <content eId="para_6080__content">
+            <p>According to recital 2 of the directive, the rules on driving licences contribute to improving road safety. Recital 8 of the directive states that `on road safety grounds, the minimum requirements for the issue of a driving licence should be laid down'. Recital 13 of the directive states that `introducing a category of driving licences for mopeds will, in particular, increase road safety as regards the youngest drivers who, according to the statistics, are the hardest hit by road accidents'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6081">
+          <num>42</num>
+          <content eId="para_6081__content">
+            <p>In that context, while mopeds did not fall within the scope of Directive 91/439, Directive 2006/126, which replaced it, extended its scope and introduced the requirement for a driving licence for those vehicles.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6082">
+          <num>43</num>
+          <content eId="para_6082__content">
+            <p>Since 19 January 2013 the Member States have been obliged to introduce a new category of driving licence for mopeds, in accordance with Article 16(1) and (2) of Directive 2006/126, under which they are to apply the legislation adopted to transpose the provisions of that directive. Those licences are to be issued, in accordance with Article 7(1)(b) of the directive, to applicants who have passed a theory test and, if the national legislature so decides, a practical test and/or a medical examination.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6083">
+          <num>44</num>
+          <content eId="para_6083__content">
+            <p>It cannot be disputed that the requirement for moped riders to acquire theoretical knowledge and, possibly, practical skills is intended to increase road safety. Moreover, as the Advocate General observes in point 54 of his Opinion, the need to obtain a driving licence makes it possible to apply to those riders, in the event of an infringement of the highway legislation, national provisions concerning the withdrawal, suspension, renewal and cancellation of driving licences.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6084">
+          <num>45</num>
+          <content eId="para_6084__content">
+            <p>Consequently, as the Romanian and Slovak Governments correctly submitted in their observations, an interpretation of Article 13(2) of Directive 2006/126 that prohibited Member States from toughening the conditions for being entitled to ride a moped on the public highway which existed before 19 January 2013 would hinder pursuit of the EU legislature's objective of improving road safety.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6085">
+          <num>46</num>
+          <content eId="para_6085__content">
+            <p>It must therefore be concluded that it follows both from a schematic and from a teleological interpretation of Directive 2006/126 that Article 13(2) of the directive relates only to the holding of driving licences and official documents equivalent to them which expressly authorise their holders to drive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6086">
+          <num>47</num>
+          <content eId="para_6086__content">
+            <p>With respect more particularly to the facts of the main proceedings, the documents before the Court indicate that Mr Popescu was authorised to use a vehicle classified as a moped in Romania before 19 January 2013, as the holder of a registration certificate for a quadricycle, treated as a moped, and a certificate of completion of a course on the highway code for riding mopeds on the public highway. Since he is not the holder of a driving licence or equivalent document, he cannot therefore rely on the protection provided for in Article 13(2) of Directive 2006/126 in order to have his right to continue using a moped on the public highway without additional formalities recognised by the competent Romanian authority, and to be issued with an official document attesting to that right.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6087">
+          <num>48</num>
+          <content eId="para_6087__content">
+            <p>Having regard to all the above considerations, the answer to the question is that the provisions of Directive 2006/126, in particular Article 13(2), must be interpreted as not precluding national legislation, adopted in order to transpose that directive into national law, which terminates the authorisation to ride mopeds without holding a driving licence, the issue of which is subject to passing tests or examinations similar to those required for driving other motor vehicles.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_6088">
+          <num>49</num>
+          <content eId="para_6088__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Fourth Chamber) hereby rules: The provisions of Directive 2006/126/EC of the European Parliament and of the Council of 20 December 2006 on driving licences, in particular Article 13(2), must be interpreted as not precluding national legislation, adopted in order to transpose that directive into national law, which terminates the authorisation to ride mopeds without holding a driving licence, the issue of which is subject to passing tests or examinations similar to those required for driving other motor vehicles.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Romanian.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

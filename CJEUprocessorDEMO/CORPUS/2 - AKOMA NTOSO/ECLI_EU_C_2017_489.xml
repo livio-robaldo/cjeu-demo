@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Third Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>22 June 2017 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>`Reference for a preliminary ruling -- Directive 2001/23/EC -- Articles 3 to 5 -- Transfers of undertakings -- Safeguarding of employees' rights -- Exceptions -- Insolvency proceedings -- `Pre-pack' -- Survival of an undertaking' In Case C‑126/16, REQUEST for a preliminary ruling under Article 267 TFEU from the Rechtbank Midden-Nederland (District Court, Central Netherlands), made by decision of 24 February 2016, received at the Court on 26 February 2016, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">Federatie Nederlandse Vakvereniging</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="appellant" refersTo="#">Karin van den Burg-Vergeer</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="appellant" refersTo="#">Lyoba Tanja Alida Kukupessy</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="appellant" refersTo="#">Danielle Paase-Teeuwen</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="appellant" refersTo="#">Astrid Johanna Geertruda Petronelle Schenk</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#">Smallsteps BV</party>
+      </p>
+      <p>, THE COURT (Third Chamber), composed of L. Bay Larsen, President of the Chamber, M. Vilaras, J. Malenovský (Rapporteur), M. Safjan and D. Šváby, Judges, Advocate General: P. Mengozzi, Registrar: C. Strömholm, Administrator, having regard to the written procedure and further to the hearing on 18 January 2017, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>Federatie Nederlandse Vakvereniging, K. van den Burg-Vergeer, L.T.A Kukupessy, D. Paase-Teeuwen and A.J.G.P Schenk, by A. Simsek, advocaat,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>Smallsteps BV, by B.F.H. Rumora-Scheltema, H.T. ten Have and R.J. van Galen, advocaten,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Netherlands Government, by J. Langer and M. Bulterman, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by M. van Beek and M. Kellerbauer, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 29 March 2017,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_10831">
+          <num>1</num>
+          <content eId="para_10831__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Articles 3 to 5 of Council Directive 2001/23/EC of 12 March 2001 on the approximation of the laws of the Member States relating to the safeguarding of employees' rights in the event of transfers of undertakings, businesses or parts of undertakings or businesses ( OJ 2001 L 82, p. 16).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10832">
+          <num>2</num>
+          <content eId="para_10832__content">
+            <p>The request has been made in proceedings between, on the one hand, the Federatie Nederlandse Vakvereniging ( `FNV'), a Netherlands trade union organisation, Ms Karin van den Burg-Vergeer, Ms Lyoba Tanja Alida Kukupessy, Ms Danielle Paase-Teeuwen and Ms Astrid Johanna Geertruda Petronelle Schenk, and, on the other hand, Smallsteps BV, for a declaration of transfer of employment relationships to Smallsteps BV.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <paragraph eId="para_10833">
+          <num>3</num>
+          <content eId="para_10833__content">
+            <p>Directive 2001/23 codifies Council Directive 77/187/EEC of 14 February 1977 on the approximation of the laws of the Member States relating to the safeguarding of employees' rights in the event of transfers of undertakings, businesses or parts of undertakings or businesses ( OJ 1977 L 61, p. 26), as amended by Council Directive 98/50/EC of 29 June 1998 ( OJ 1998 L 201, p. 88).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10834">
+          <num>4</num>
+          <content eId="para_10834__content">
+            <p>Recital 3 of Directive 2001/23 reads as follows: `It is necessary to provide for the protection of employees in the event of a change of employer, in particular, to ensure that their rights are safeguarded.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10835">
+          <num>5</num>
+          <content eId="para_10835__content">
+            <p>Article 1(1)(a) of that directive states: `This Directive shall apply to any transfer of an undertaking, business, or part of an undertaking or business to another employer as a result of a legal transfer or merger.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10836">
+          <num>6</num>
+          <content eId="para_10836__content">
+            <p>Article 3(1) of that directive provides: `The transferor's rights and obligations arising from a contract of employment or from an employment relationship existing on the date of a transfer shall, by reason of such transfer, be transferred to the transferee.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10837">
+          <num>7</num>
+          <content eId="para_10837__content">
+            <p>Article 4(1) of that directive is worded as follows: `The transfer of the undertaking, business or part of the undertaking or business shall not in itself constitute grounds for dismissal by the transferor or the transferee. This provision shall not stand in the way of dismissals that may take place for economic, technical or organisational reasons entailing changes in the workforce.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10838">
+          <num>8</num>
+          <content eId="para_10838__content">
+            <p>Under Article 5 of that directive: `1.   Unless Member States provide otherwise, Articles 3 and 4 shall not apply to any transfer of an undertaking, business or part of an undertaking or business where the transferor is the subject of bankruptcy proceedings or any analogous insolvency proceedings which have been instituted with a view to the liquidation of the assets of the transferor and are under the supervision of a competent public authority (which may be an insolvency practitioner authorised by a competent public authority). 2.   Where Articles 3 and 4 apply to a transfer during insolvency proceedings which have been opened in relation to a transferor (whether or not those proceedings have been instituted with a view to the liquidation of the assets of the transferor) and provided that such proceedings are under the supervision of a competent public authority (which may be an insolvency practitioner determined by national law) a Member State may provide that:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>notwithstanding Article 3(1), the transferor's debts arising from any contracts of employment or employment relationships and payable before the transfer or before the opening of the insolvency proceedings shall not be transferred to the transferee, provided that such proceedings give rise, under the law of that Member State, to protection at least equivalent to that provided for in situations covered by Council Directive 80/987/EEC of 20 October 1980 on the approximation of the laws of the Member States relating to the protection of employees in the event of the insolvency of their employer [ OJ 1980 L 283, p. 23], and, or alternatively, that,</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>the transferee, transferor or person or persons exercising the transferor's functions, on the one hand, and the representatives of the employees on the other hand may agree alterations, in so far as current law or practice permits, to the employees' terms and conditions of employment designed to safeguard employment opportunities by ensuring the survival of the undertaking, business or part of the undertaking or business. 3.   A Member State may apply paragraph 2(b) to any transfers where the transferor is in a situation of serious economic crisis, as defined by national law, provided that the situation is declared by a competent public authority and open to judicial supervision, on condition that such provisions already exist in national law by 17 July 1998. ... 4.   Member States shall take appropriate measures with a view to preventing misuse of insolvency proceedings in such a way as to deprive employees of the rights provided for in this Directive.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Netherlands law</p>
+        </tblock>
+        <paragraph eId="para_10839">
+          <num>9</num>
+          <content eId="para_10839__content">
+            <p>Under Netherlands law, the provisions governing employees' rights in the event of a transfer of undertakings are Articles 7:662 to 7:666 and Article 7:670</p>
+            <blockList>
+              <item>
+                <num>(8)</num>
+                <p>of the Burgerlijk Wetboek (Civil Code, `the BW').</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10840">
+          <num>10</num>
+          <content eId="para_10840__content">
+            <p>Article 7:662(2)(a) of the BW provides: `For the purposes of this section, the following definitions shall apply:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>transfer: the transfer, following an agreement, merger or division, of an economic unit that maintains its identity; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10841">
+          <num>11</num>
+          <content eId="para_10841__content">
+            <p>More specifically, Article 7:663 of the BW states: `The transfer of an undertaking entails the automatic transfer to the transferee of the employer's rights and obligations existing at that time, arising from a contract of employment related to that enterprise between the employer and an employee working in that undertaking. Nevertheless, for a period of one year after the transfer, that employer remains jointly and severally liable with the transferee for performance of the obligations under the employment contract which came into being before the transfer.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10842">
+          <num>12</num>
+          <content eId="para_10842__content">
+            <p>Article 7:666 of the BW provides: `Articles 7:662 to 7:665 and Article 7:670</p>
+            <blockList>
+              <item>
+                <num>(8)</num>
+                <p>shall not apply to the transfer of an undertaking where:</p>
+              </item>
+              <item>
+                <num>(a)</num>
+                <p>the employer is declared insolvent and the undertaking belongs to the insolvent estate ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10843">
+          <num>13</num>
+          <content eId="para_10843__content">
+            <p>Under Article 7:670 of the BW: ` ... 8.   The employer may not terminate an employment contract with an employee working in its undertaking by reason of the transfer of that undertaking as referred to in Article 7:662(2)(a); ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10844">
+          <num>14</num>
+          <content eId="para_10844__content">
+            <p>Since 2012, several Netherlands courts have adopted `pre-packs'. This is a transfer of the assets prepared before the declaration of insolvency, with the consent of a prospective insolvency administrator, appointed by the court, and is put into effect by that administrator immediately after the declaration of insolvency. In the context of this `pre-pack', the court also appoints a prospective supervisory judge.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10845">
+          <num>15</num>
+          <content eId="para_10845__content">
+            <p>Currently in the Netherlands, neither the preparatory phase nor the `pre-pack', as such, is regulated by statute, but rather stems from practice.</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_10846">
+          <num>16</num>
+          <content eId="para_10846__content">
+            <p>Until its insolvency, Estro Groep BV was the largest childcare company in the Netherlands. It had almost 380 childcare centres throughout the territory of the Netherlands and employed approximately 3600 workers.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10847">
+          <num>17</num>
+          <content eId="para_10847__content">
+            <p>In November 2013, it became clear that, failing any further financing, Estro Groep would not be in a position to meet its obligations for the summer of 2014.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10848">
+          <num>18</num>
+          <content eId="para_10848__content">
+            <p>In its search for financing, Estro Groep first of all consulted its lenders and principal shareholders as well as other lenders and possible investors in order to secure further financing. Those consultations, referred to as `Plan A' by Estro Groep, were, however, unsuccessful.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10849">
+          <num>19</num>
+          <content eId="para_10849__content">
+            <p>While the negotiations for Plan A were taking place, Estro Groep drew up an alternative plan referred to as `Project Butterfly'. That plan made provision for restructuring a significant part of Estro Groep following a `pre-pack'. That restructuring was to be based on relaunching 243 of the 380 childcare centres, retaining almost 2500 employees out of a total of some 3600, and continuing the service at all the centres from July 2014.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10850">
+          <num>20</num>
+          <content eId="para_10850__content">
+            <p>During the implementation of Project Butterfly, Estro Groep contacted only H. I. G. Capital -- a sister company of its principal shareholder, Bayside Capital -- as a potential buyer. No other potential option was explored.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10851">
+          <num>21</num>
+          <content eId="para_10851__content">
+            <p>On 5 June 2014, Estro Groep submitted an application to the rechtbank Amsterdam (District Court, Amsterdam, Netherlands) for the appointment of a prospective insolvency administrator. Such an administrator was appointed on 10 June 2014.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10852">
+          <num>22</num>
+          <content eId="para_10852__content">
+            <p>On 20 June 2014, and in the context of Project Butterfly, Smallsteps was created, as a relaunch undertaking, on behalf of H. I. G. Capital, in order to take over a large part of the childcare centres of Estro Groep.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10853">
+          <num>23</num>
+          <content eId="para_10853__content">
+            <p>On 3 July 2014, all Estro Groep staff received an email stating that the application for a declaration of insolvency was to be submitted on 4 July 2014 and that the staff might be convened to a meeting before the application was submitted.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10854">
+          <num>24</num>
+          <content eId="para_10854__content">
+            <p>On 4 July 2014, Estro Groep submitted an application to the rechtbank Amsterdam (District Court, Amsterdam) for a suspension of payments. On 5 July 2014, that application was amended to an application for a declaration of insolvency, which was granted that same day.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10855">
+          <num>25</num>
+          <content eId="para_10855__content">
+            <p>Also on 5 July 2014, a `pre-pack' was signed between the insolvency administrator and Smallsteps by which Smallsteps purchased approximately 250 of the childcare centres and undertook to offer employment to almost 2600 Estro Groep employees on the day the company was declared insolvent.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10856">
+          <num>26</num>
+          <content eId="para_10856__content">
+            <p>On 7 July 2014, the insolvency administrator dismissed all the Estro Groep employees. Smallsteps offered a new contract of employment to almost 2600 staff formerly employed by Estro Groep, but in the end over a thousand were dismissed.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10857">
+          <num>27</num>
+          <content eId="para_10857__content">
+            <p>The FNV and the four joint applicants, who worked in childcare centres taken over by Smallsteps, but were not offered new contracts of employment after the insolvency of Estro Groep, brought an action before the referring court. In that action, they primarily seek a declaration that Directive 2001/23 applies to the `pre-pack' concluded between Estro Groep and Smallsteps and that, therefore, those four joint applicants must be regarded as henceforth working for Smallsteps, as of right, while retaining their conditions of employment. In the alternative, they seek a declaration that Article 7:662 et seq. of the BW still applies, given that the transfer of the undertaking took place before the date of the insolvency of Estro Groep. Smallsteps contests the merits of the applicants' claims.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10858">
+          <num>28</num>
+          <content eId="para_10858__content">
+            <p>In those circumstances, the Rechtbank Midden-Nederland (District Court, Central Netherlands) decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Is the Netherlands insolvency procedure, in the event of an assignment of the insolvent undertaking in a situation where the insolvency is preceded by a judicially monitored ``pre-pack '' procedure, expressly aimed at securing the survival of (parts of) the undertaking, compatible with the objective and purport of Directive 2001/23, and is Article 7:666(1)(a) of the BW, in that light, (still) in conformity with the directive?</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>Is Directive 2001/23 applicable in a case where the ``prospective insolvency administrator '' appointed by the Rechtbank acquaints himself, before commencement of the insolvency procedure, with the situation of the debtor and investigates the chances of a restructuring of the activities of the undertaking by a third party, and also prepares for acts which must be carried out shortly after the insolvency in order to enable the restructuring to take place by means of an asset transaction through which the undertaking of the debtor, or part thereof, will be transferred at the date of the insolvency or shortly thereafter, and those activities, in their totality or in part, are continued (virtually) without interruption?</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>Does it make any difference in this regard whether the continuation of the undertaking is the primary objective of the ``pre-pack '', or whether the (prospective) insolvency administrator's primary objective with the ``pre-pack '' and the sale of the assets in the form of a ``going concern '' immediately after the insolvency is to maximise the proceeds for all of the creditors, or that, in the context of the ``pre-pack '', consensus on the transfer of assets (continuation of the undertaking) is achieved before the insolvency and its implementation is formalised and/or effected after the insolvency? And how should the matter be viewed if it is sought to secure both the continuation of the undertaking and the maximisation of proceeds?</p>
+              </item>
+              <item>
+                <num>(4)</num>
+                <p>Is the date of the transfer of the undertaking for purposes of the applicability of Directive 2001/23 and of Article 7:662 et seq. of the BW arising from it, in the context of a ``pre-pack '' preceding the insolvency of the undertaking, determined by the actual consensus on the transfer of the undertaking achieved before the insolvency, or is that date determined by the point in time at which responsibility as employer for carrying on the business of the unit in question shifts from the transferor to the transferee?'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The request for the oral procedure to be reopened</p>
+        </tblock>
+        <paragraph eId="para_10859">
+          <num>29</num>
+          <content eId="para_10859__content">
+            <p>Following the delivery of the Opinion of the Advocate General, Smallsteps, by a document lodged at the Court Registry on 25 April 2017, applied for the oral procedure to be reopened in order to have the opportunity to react to that Opinion. In support of that application, Smallsteps claims, in essence, that the Opinion of the Advocate General contains misperceptions regarding the `pre-pack' procedure.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10860">
+          <num>30</num>
+          <content eId="para_10860__content">
+            <p>In that regard, it should, however, be noted that neither the Statute of the Court of Justice of the European Union nor the Rules of Procedure make provision for the interested parties referred to in Article 23 of the Statute to submit observations in response to the Advocate General's Opinion (see, to that effect, judgment of 4 September 2014, Vnuk, C‑162/13, EU:C:2014:2146, paragraph 30).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10861">
+          <num>31</num>
+          <content eId="para_10861__content">
+            <p>Under the second paragraph of Article 252 TFEU, it is the duty of the Advocate General, acting with complete impartiality and independence, to make, in open court, reasoned submissions on cases which, in accordance with the Statute of the Court of Justice, require his involvement. The Court is not bound either by the Advocate General's Opinion or by the reasoning on which it is based (judgment of 3 December 2015, Banif Plus Bank, C‑312/14, EU:C:2015:794, paragraph 33).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10862">
+          <num>32</num>
+          <content eId="para_10862__content">
+            <p>Consequently, an interested party's disagreement with the Opinion of the Advocate General, irrespective of the questions that he examines in that Opinion, cannot in itself constitute grounds justifying the reopening of the oral procedure (see, to that effect, judgment of 17 September 2015, Mory and Others v Commission, C‑33/14 P, EU:C:2015:609, paragraph 26).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10863">
+          <num>33</num>
+          <content eId="para_10863__content">
+            <p>Nevertheless, the Court may at any time, after hearing the Advocate General, order the reopening of the oral part of the procedure, in accordance with Article 83 of its Rules of Procedure, in particular if it considers that it lacks sufficient information or where the case must be decided on the basis of an argument which has not been debated between the interested persons (see judgment of 9 June 2016, Pesce and Others, C‑78/16 and C‑79/16, EU:C:2016:428, paragraph 27).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10864">
+          <num>34</num>
+          <content eId="para_10864__content">
+            <p>In the present case, however, the Court considers, after hearing the Advocate General, that it has before it all the necessary information to give judgment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10865">
+          <num>35</num>
+          <content eId="para_10865__content">
+            <p>In the light of the foregoing, the Court considers that the oral part of the procedure need not be reopened.</p>
+            <tblock>
+              <p>Consideration of the questions referred</p>
+            </tblock>
+            <tblock>
+              <p>Questions 1 to 3</p>
+            </tblock>
+            <p>36 It should be observed as a preliminary point that, according to the Court's settled case-law, in the procedure laid down by Article 267 TFEU, providing for cooperation between national courts and the Court of Justice, it is for the latter to provide the national court with an answer which will be of use to it and enable it to determine the case before it. With that in mind, the Court may have to reformulate the questions referred to it (judgment of 1 February 2017, Município de Palmela, C‑144/16, EU:C:2017:76, paragraph 20 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10866">
+          <num>37</num>
+          <content eId="para_10866__content">
+            <p>In the present case, the first to third questions, which should be examined together, essentially seek to ascertain whether Directive 2001/23, and in particular Article 5(1) thereof, must be interpreted as meaning that the protection of workers guaranteed by Articles 3 and 4 of that directive is maintained in a situation, such as that at issue in the main proceedings, in which the transfer of an undertaking takes place following a declaration of insolvency and in the context of a `pre-pack' when that `pre-pack' is prepared before the declaration of insolvency and put into effect immediately after that declaration, in connection with which, in particular, a court-appointed prospective insolvency administrator, investigates the possibilities for continuation of the activities of that undertaking by a third party and prepares for acts which must be carried out shortly after the insolvency to enable such continuation; and, moreover, whether it is relevant in that regard that the objective of the `pre-pack' is both the continuation of the activities of the undertaking concerned and the maximisation of the proceeds of the transfer for all the undertaking's creditors.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10867">
+          <num>38</num>
+          <content eId="para_10867__content">
+            <p>It should be pointed out from the outset that, as is apparent from its third recital, Directive 2001/23 seeks to protect employees, in particular by ensuring that their rights are safeguarded in the event of a change of employer.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10868">
+          <num>39</num>
+          <content eId="para_10868__content">
+            <p>To that end, the first subparagraph of Article 3(1) of the directive provides that the transferor's rights and obligations arising from a contract of employment or from an employment relationship existing on the date of the transfer of an undertaking are, by reason of such transfer, to be transferred to the transferee. Article 4(1) of that directive protects employees from dismissal solely on the basis of the transfer by either the transferor or transferee.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10869">
+          <num>40</num>
+          <content eId="para_10869__content">
+            <p>By way of derogation, Article 5(1) of Directive 2001/23 states that the protection scheme referred to in Articles 3 and 4 of the directive does not apply to transfers of undertakings carried out in the circumstances specified within that provision, unless Member States provide otherwise.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10870">
+          <num>41</num>
+          <content eId="para_10870__content">
+            <p>In view of the fact that Article 5(1), in principle, renders inapplicable the scheme for the protection of employees in relation to certain transfers of undertakings, and thus negates the main objective underlying Directive 2001/23, that provision must necessarily be interpreted strictly (see, as regards Article 3(3) of Directive 77/187, as amended by Directive 98/50, judgment of 4 June 2002, Beckmann, C‑164/00, EU:C:2002:330, paragraph 29).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10871">
+          <num>42</num>
+          <content eId="para_10871__content">
+            <p>It is evident from the wording of the introductory phrase of Article 5(1) of Directive 2001/23 that Member States may provide for the scheme for the protection of employees referred to in Articles 3 and 4 of that directive to apply even in circumstances justifying application of the derogation in Article 5(1). Nevertheless, in the case in the main proceedings, the Member State in question has not made use of that option, as the Netherlands Government confirmed at the hearing.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10872">
+          <num>43</num>
+          <content eId="para_10872__content">
+            <p>It follows that Article 5(1) of Directive 2001/23, in so far as it permits derogations from the scheme for protecting employees, applies to a case such as that at issue in the main proceedings provided that the transfer procedure satisfies the conditions laid down in that provision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10873">
+          <num>44</num>
+          <content eId="para_10873__content">
+            <p>In that regard, it is a requirement of Article 5(1) of Directive 2001/23 that the transferor be the subject of bankruptcy proceedings or any analogous insolvency proceedings. Furthermore, those proceedings must have been instituted with a view to the liquidation of the assets of the transferor and be under the supervision of a competent public authority.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10874">
+          <num>45</num>
+          <content eId="para_10874__content">
+            <p>As regards, in the first place, the condition that the transferor must be the subject of bankruptcy proceedings or any analogous insolvency proceedings, that condition may not, having regard to the requirement of strict interpretation set out in paragraph 41 of the present judgment, extend to a process preparing for insolvency proceedings but not resulting in a declaration of insolvency, as described by the Advocate General in point 76 of his Opinion.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10875">
+          <num>46</num>
+          <content eId="para_10875__content">
+            <p>Nevertheless, in the present case, as is apparent from paragraph 14 of the present judgment, even though the `pre-pack' procedure at issue in the main proceedings was prepared before the declaration of insolvency, it was in fact put into effect after that declaration. Such a procedure, in fact entailing insolvency, may therefore be covered by the concept of `bankruptcy proceedings or any analogous insolvency proceedings', within the meaning of Article 5(1) of Directive 2001/23.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10876">
+          <num>47</num>
+          <content eId="para_10876__content">
+            <p>In the second place, Article 5(1) of Directive 2001/23 requires the bankruptcy proceedings or any analogous insolvency proceedings to be instituted with a view to liquidation of the assets of the transferor. In that regard it is clear, as follows from the case-law of the Court, that a procedure aimed at ensuring the continuation of the undertaking in question does not satisfy that requirement (see, to that effect, judgments of 25 July 1991, d'Urso and Others, C‑362/89, EU:C:1991:326, paragraphs 31 and 32, and of 7 December 1995, Spano and Others, C‑472/93, EU:C:1995:421, paragraph 25).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10877">
+          <num>48</num>
+          <content eId="para_10877__content">
+            <p>As the Advocate General stated, in points 57 and 58 of his Opinion, in relation to the differences between those two types of procedure, a procedure is aimed at ensuring the continuation of the undertaking where that procedure is designed to preserve the operational character of the undertaking or of its viable units. By contrast, a procedure focusing on the liquidation of assets is aimed at maximising satisfaction of creditors' collective claims. Although there may be some overlap of those two objectives within the aims of any given procedure, the primary objective of a procedure aimed at ensuring the continuation of the undertaking is, in any event, the safeguarding of the undertaking concerned.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10878">
+          <num>49</num>
+          <content eId="para_10878__content">
+            <p>In the present case, it is apparent from the order for reference that a `pre-pack' procedure, such as that at issue in the main proceedings, is aimed at preparing the transfer of the undertaking down to its every last detail in order to enable a swift relaunch of the undertaking's viable units once the insolvency has been declared and in order to avoid the disruption that would result from an abrupt cessation of the undertaking's activities on the day of the declaration of insolvency, so as to safeguard the value of the undertaking and the employment posts.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10879">
+          <num>50</num>
+          <content eId="para_10879__content">
+            <p>In those circumstances, and subject to determination by the referring court, it must be held that since such a procedure is not ultimately aimed at liquidating the undertaking, the economic and social objectives it pursues are no explanation of, or justification for, the employees of the undertaking concerned losing the rights conferred on them by Directive 2001/23 when all or part of that undertaking is transferred (see, by analogy, judgment of 7 December 1995, Spano and Others, C‑472/93, EU:C:1995:421, paragraphs 28 and 30).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10880">
+          <num>51</num>
+          <content eId="para_10880__content">
+            <p>In view of the finding made in paragraph 48 of this judgment, the mere fact that the `pre-pack' procedure may also be aimed at maximising satisfaction of creditors' collective claims does not make this a procedure instituted with a view to the liquidation of the assets of the transferor within the meaning of Article 5(1) of Directive 2001/23.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10881">
+          <num>52</num>
+          <content eId="para_10881__content">
+            <p>It follows that the primary objective of such an operation must be held to be the safeguarding of the insolvent undertaking and, accordingly, such a procedure cannot come within the scope of Article 5(1) of Directive 2001/23, in accordance with the case-law cited in paragraph 47 of this judgment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10882">
+          <num>53</num>
+          <content eId="para_10882__content">
+            <p>In the third place, as regards the condition that the procedure referred to in Article 5(1) of Directive 2001/23 must be under the supervision of a public authority, it must be pointed out that the stage of the `pre-pack' procedure, such as that at issue in the main proceedings, preceding a declaration of insolvency, has no basis in the national legislation at issue.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10883">
+          <num>54</num>
+          <content eId="para_10883__content">
+            <p>To that extent, this procedure is therefore not carried out under the supervision of a court, but rather, as is apparent from the file submitted to the Court, by the undertaking's management which conducts the negotiations and adopts the decisions concerning the sale of the insolvent undertaking.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10884">
+          <num>55</num>
+          <content eId="para_10884__content">
+            <p>Although appointed by a court, at the request of the insolvent undertaking, the prospective insolvency administrator and the prospective supervisory judge have no formal powers. Accordingly, they are not supervised by a public authority.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10885">
+          <num>56</num>
+          <content eId="para_10885__content">
+            <p>In addition, given that, very soon after the opening of the insolvency proceedings, the insolvency administrator asks for and receives authorisation from the supervisory judge for the transfer of the company, the judge must have been informed of the transaction, and essentially raised no objection to it, before the declaration of insolvency.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10886">
+          <num>57</num>
+          <content eId="para_10886__content">
+            <p>As the Advocate General stated in essence in point 82 of his Opinion, such an approach may defeat almost entirely the purpose of the supervision of the insolvency procedure by a competent public authority and cannot, therefore, satisfy the condition for supervision by such an authority required under Article 5(1) of Directive 2001/23.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10887">
+          <num>58</num>
+          <content eId="para_10887__content">
+            <p>It follows from the foregoing that a `pre-pack' procedure such as that at issue in the main proceedings does not satisfy all the conditions laid down in Article 5(1) of Directive 2001/23 and, accordingly, there can be no derogation from the protection scheme laid down in Articles 3 and 4 of that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10888">
+          <num>59</num>
+          <content eId="para_10888__content">
+            <p>In the light of all of the foregoing considerations, the answer to the first three questions is that Directive 2001/23, and in particular Article 5(1) thereof, must be interpreted as meaning that the protection of workers guaranteed by Articles 3 and 4 of that directive applies in a situation, such as that at issue in the main proceedings, in which the transfer of an undertaking takes place following a declaration of insolvency and in the context of a `pre-pack' where that `pre-pack' is prepared before the declaration of insolvency and put into effect immediately after that declaration, and, in particular, a court-appointed prospective insolvency administrator investigates the possibilities for continuation of the activities of that undertaking by a third party and prepares for acts which must be carried out shortly after the insolvency to enable such continuation and, moreover, it is irrelevant in that regard that the `pre-pack' is also aimed at maximising the proceeds of the transfer for all the creditors of the undertaking in question.</p>
+            <tblock>
+              <p>The fourth question</p>
+            </tblock>
+            <p>60 In view of the answer given to Questions 1 to 3, there is no need to answer Question 4.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_10889">
+          <num>61</num>
+          <content eId="para_10889__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Third Chamber) hereby rules: Directive 2001/23/EC of 12 March 2001 on the approximation of the laws of the Member States relating to the safeguarding of employees' rights in the event of transfers of undertakings, businesses or parts of undertakings or businesses, and in particular Article 5(1) thereof, must be interpreted as meaning that the protection of workers guaranteed by Articles 3 and 4 of that directive applies in a situation, such as that at issue in the main proceedings, in which the transfer of an undertaking takes place following a declaration of insolvency and in the context of a `pre-pack' where that `pre-pack' is prepared before the declaration of insolvency and put into effect immediately after that declaration, and, in particular, a court-appointed prospective insolvency administrator investigates the possibilities for continuation of the activities of that undertaking by a third party and prepares for acts which must be carried out shortly after the insolvency to enable such continuation and, moreover, it is irrelevant in that regard that the `pre-pack' is also aimed at maximising the proceeds of the transfer for all the creditors of the undertaking in question.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Dutch.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

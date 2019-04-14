@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Tenth Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>30 March 2017 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>`Reference for a preliminary ruling -- Unfair business practices -- Advertisement in a print medium -- Omission of material information -- Access to that information via the website by means of which the products concerned are distributed -- Products sold by the person who published the advertisement or by a third party' In Case C --146/16, REQUEST for a preliminary ruling under Article 267 TFEU from the Bundesgerichtshof (Federal Court of Justice, Germany), made by decision of 28 January 2016, received at the Court on 14 March 2016, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">Verband Sozialer Wettbewerb eV</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#">DHL Paket GmbH</party>
+      </p>
+      <p>, THE COURT (Tenth Chamber), composed of M. Berger, President of the Chamber, A. Borg Barthet (Rapporteur) and E. Levits, Judges, Advocate General: H. Saugmandsgaard Øe, Registrar: A. Calot Escobar, having regard to the written procedure, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>Verband Sozialer Wettbewerb eV, by R. Welzel, Rechtsanwalt,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>DHL Paket GmbH, by K. Hamacher, Rechtsanwalt,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Netherlands Government, by M.K. Bulterman and B. Koopman, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by D. Roussanov and M. Kellerbauer, acting as Agents, having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_4528">
+          <num>1</num>
+          <content eId="para_4528__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Article 7(4) of Directive 2005/29/EC of the European Parliament and of the Council of 11 May 2005 concerning unfair business-to-consumer commercial practices in the internal market and amending Council Directive 84/450/EEC, Directives 97/7/EC, 98/27/EC and 2002/65/EC of the European Parliament and of the Council and Regulation (EC) No 2006/2004 of the European Parliament and of the Council ( OJ 2005 L 149, p. 22).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4529">
+          <num>2</num>
+          <content eId="para_4529__content">
+            <p>The request has been made in proceedings between Verband Sozialer Wettbewerb eV ( `VSW') and DHL Paket GmbH ( `DHL Paket'), concerning a request seeking that the latter be ordered to cease the dissemination of an advertisement in a print medium.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>Directive 2005/29</p>
+        </tblock>
+        <paragraph eId="para_4530">
+          <num>3</num>
+          <content eId="para_4530__content">
+            <p>According to recital 15 of Directive 2005/29: `Where Community law sets out information requirements in relation to commercial communication, advertising and marketing that information is considered as material under this Directive. Member States will be able to retain or add information requirements relating to contract law and having contract law consequences where this is allowed by the minimum clauses in the existing Community law instruments. A non-exhaustive list of such information requirements in the acquis is contained in Annex II. Given the full harmonisation introduced by this Directive only the information required in Community law is considered as material for the purpose of Article 7(5) thereof. ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4531">
+          <num>4</num>
+          <content eId="para_4531__content">
+            <p>Article 2 of that directive provides: `For the purposes of this Directive: ...</p>
+            <blockList>
+              <item>
+                <num>(i)</num>
+                <p>``invitation to purchase '' means a commercial communication which indicates characteristics of the product and the price in a way appropriate to the means of the commercial communication used and thereby enables the consumer to make a purchase; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4532">
+          <num>5</num>
+          <content eId="para_4532__content">
+            <p>Article 7 of that directive provides: `1.   A commercial practice shall be regarded as misleading if, in its factual context, taking account of all its features and circumstances and the limitations of the communication medium, it omits material information that the average consumer needs, according to the context, to take an informed transactional decision and thereby causes or is likely to cause the average consumer to take a transactional decision that he would not have taken otherwise. 2.   It shall also be regarded as a misleading omission when, taking account of the matters described in paragraph 1, a trader hides or provides in an unclear, unintelligible, ambiguous or untimely manner such material information as referred to in that paragraph or fails to identify the commercial intent of the commercial practice if not already apparent from the context, and where, in either case, this causes or is likely to cause the average consumer to take a transactional decision that he would not have taken otherwise. 3.   Where the medium used to communicate the commercial practice imposes limitations of space or time, these limitations and any measures taken by the trader to make the information available to consumers by other means shall be taken into account in deciding whether information has been omitted. 4.   In the case of an invitation to purchase, the following information shall be regarded as material, if not already apparent from the context:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>the main characteristics of the product, to an extent appropriate to the medium and the product;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>the geographical address and the identity of the trader, such as his trading name and, where applicable, the geographical address and the identity of the trader on whose behalf he is acting;</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>the price inclusive of taxes, or where the nature of the product means that the price cannot reasonably be calculated in advance, the manner in which the price is calculated, as well as, where appropriate, all additional freight, delivery or postal charges or, where these charges cannot reasonably be calculated in advance, the fact that such additional charges may be payable;</p>
+              </item>
+              <item>
+                <num>(d)</num>
+                <p>the arrangements for payment, delivery, performance and the complaint handling policy, if they depart from the requirements of professional diligence;</p>
+              </item>
+              <item>
+                <num>(e)</num>
+                <p>for products and transactions involving a right of withdrawal or cancellation, the existence of such a right. 5.   Information requirements established by Community law in relation to commercial communication including advertising or marketing, a non-exhaustive list of which is contained in Annex II, shall be regarded as material.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>German law</p>
+        </tblock>
+        <paragraph eId="para_4533">
+          <num>6</num>
+          <content eId="para_4533__content">
+            <p>Directive 2005/29 was transposed into German law by the Gesetz gegen den unlauteren Wettbewerb (Law against unfair competition), as amended on 22 December 2008 and then on 3 March 2010.</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_4534">
+          <num>7</num>
+          <content eId="para_4534__content">
+            <p>DHL Paket operates the online sales platform `MeinPaket.de' on which commercial sellers offer products for sale. The sales transactions do not give rise to any contract between DHL Paket and the purchasers.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4535">
+          <num>8</num>
+          <content eId="para_4535__content">
+            <p>VSW is an association whose members include suppliers of electric and electronic products and mail order companies, which sell all sorts of products.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4536">
+          <num>9</num>
+          <content eId="para_4536__content">
+            <p>The dispute in the main proceedings concerns the advertisement published on 2 December 2012 in the weekly Bild am Sonntag at the request of DHL Paket. That advertisement presented five different products, which it was possible to purchase through that undertaking's sales platform. A reader who was interested by one of those products was invited to visit that platform and enter the code corresponding to the product on it, that code being referred to in the advertisement. He was then transferred to the site of the product concerned where the identity of the commercial seller of that product was mentioned. Under the heading `Supplier information', the reader could also find details of the trading name and geographical address of his contracting partner. Finally, it was stated in that advertisement that the platform in question enabled interested persons to have access to over 5 million products and more than 2500 traders.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4537">
+          <num>10</num>
+          <content eId="para_4537__content">
+            <p>VSW filed an application before the Landgericht Bonn (Regional Court, Bonn, Germany) seeking that DHL Paket be ordered, on the basis of the Law against Unfair Competition, to cease the dissemination of such an advertisement.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4538">
+          <num>11</num>
+          <content eId="para_4538__content">
+            <p>According to VSW, DHL Paket had not met its obligation to state the identity and geographical address of the suppliers using its sales platform.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4539">
+          <num>12</num>
+          <content eId="para_4539__content">
+            <p>By decision of 6 March 2014, the Landgericht Bonn (Regional Court, Bonn) granted the application and ordered DHL Paket to cease the dissemination of the advertisement at issue. The Oberlandesgericht Köln (Higher Regional Court, Cologne, Germany) having upheld the appeal brought against that decision, VSW brought an appeal on a point of law before the Bundesgerichtshof (Federal Court of Justice, Germany).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4540">
+          <num>13</num>
+          <content eId="para_4540__content">
+            <p>According to the Bundesgerichtshof (Federal Court of Justice), the present dispute hinges on the question whether the information regarding the geographical address and identity of the trader, as referred to in Article 7(4)(b) of Directive 2005/29, must be in the printed advertisement for specific products, if consumers are able to obtain the advertised products exclusively via a website of the undertaking advertising those products, which is referred to in the advertisement, and if consumers can obtain such information easily on or via that website.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4541">
+          <num>14</num>
+          <content eId="para_4541__content">
+            <p>The referring court observes that the advertisement at issue in the main proceedings could constitute an invitation to purchase, within the meaning of Article 2(i) of Directive 2005/29, on which the information legally required by Article 7(4)(b) of that directive must be included.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4542">
+          <num>15</num>
+          <content eId="para_4542__content">
+            <p>It notes that a material item of information, within the meaning of Article 7(4) of Directive 2005/29, is provided in a timely manner to a consumer only if he receives it before he is able to make a transactional decision on the basis of an invitation to purchase. In a case such as that at issue in the main proceedings, the transactional decision consists in consulting the sales website in order to purchase a product advertised there or in order to study that product more closely. These circumstances suggest that the information as to the identity and geographical address of the seller of the advertised products must appear in the advertisement itself.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4543">
+          <num>16</num>
+          <content eId="para_4543__content">
+            <p>Nevertheless, the referring court takes the view that the case-law of the Court of Justice is not sufficiently clear as regards whether, in the case of a printed advertisement intended to persuade people to visit an online selling portal, the information required under Article 7(4)(b) of Directive 2005/29 must appear in the printed advertisement itself.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4544">
+          <num>17</num>
+          <content eId="para_4544__content">
+            <p>The referring court observes that, as with a visit to a physical shop, visiting a website is directly linked to the purchase of the products offered there. Moreover, the information relating to the other contracting party, provided for in Article 7(4)(b) of Directive 2005/29, is material for the consumer's transactional decision since it enables him to assess the undertaking's reputation as regards the quality and reliability of the products or services it offers and also its economic strength, creditworthiness and liability.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4545">
+          <num>18</num>
+          <content eId="para_4545__content">
+            <p>The referring court explains that the fact that a print advertisement does not mention any information relating to the seller's trading name may lead a consumer to consult the website, even if he would probably have refrained from examining the offer in the advertisement more closely had he known of the identity of the undertaking behind the offer, for example in the situation where that undertaking has negative ratings on rating websites or if the consumer has previously had negative experiences of that undertaking.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4546">
+          <num>19</num>
+          <content eId="para_4546__content">
+            <p>According to the referring court, it appears to be immaterial in this connection whether the customer is able to purchase the advertised products exclusively via the advertiser's website. Admittedly, the information provided at that stage still reaches the consumer prior to the moment when the transaction takes place or is accessible before that moment. However, that happens too late to enable him to make an informed decision as to whether he should look into the advertised products in more detail, and, to that end, visit that website. In addition, the fact that a consumer on a computer can order products in peace and unobserved by sales staff does not alter the fact that he does not have the material information regarding the geographical address and identity of the seller of the advertised products before he visits the advertiser's website.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4547">
+          <num>20</num>
+          <content eId="para_4547__content">
+            <p>Consequently, according to the Bundesgerichtshof (Federal Court of Justice), the objective pursued by Article 7(4) of Directive 2005/29 suggests that DHL Paket should have included the identity and the geographical address of the sellers of the products on the advertisement at issue.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4548">
+          <num>21</num>
+          <content eId="para_4548__content">
+            <p>The referring court nevertheless points out that, under Article 7(3) of Directive 2005/29, limitations of space or time imposed by commercial practice must be taken into account in deciding whether information has been omitted. In the opinion of the referring court, there are no such limitations in the case in the main proceedings. In addition, that provision also requires, if appropriate, that account be taken of any measures taken by the defendant in the main proceedings to make the information available to consumers by other means.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4549">
+          <num>22</num>
+          <content eId="para_4549__content">
+            <p>The referring court lastly raises the issue of if it is important, in order to examine the scope of the obligations stemming from Article 7(4) of Directive 2005/29, whether the undertaking advertises the sale of its own products in a print medium and refers directly to its own website for the information required, or whether the advertisement relates to products which are sold by other companies on the advertiser's website, and consumers obtain the information required by Article 7(4) of the directive only through one or more further steps (clicks) via links to the websites of those other undertakings which are made available only on the website of the operators of the sales platform, which is the only website given in the advertisement.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4550">
+          <num>23</num>
+          <content eId="para_4550__content">
+            <p>In those circumstances the Bundesgerichtshof (Federal Court of Justice) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Must the information concerning the geographical address and identity of the trader, within the meaning of Article 7(4)(b) of Directive 2005/29, appear in advertising material for specific products which appears in a print medium, even if consumers obtain the advertised products exclusively via a website of the undertaking advertising the products, and which is indicated in the advertisement, and consumers can easily obtain the information required by Article 7(4) of the directive on or via that website?</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>Does the answer to Question 1 depend on whether the undertaking advertising in the print medium is advertising sales of its own products and refers directly to its own website for the information required by Article 7(4) of Directive 2005/29, or whether the advertising relates to products which are sold by other undertakings on an internet platform operated by the advertiser, and consumers are able to access the information set out in Article 7(4) of the directive only through one or more steps (clicks) via links to the websites of those other undertakings which are made available only on the website specified in the advertisement, namely that of the operator of the sales platform?'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the questions referred</p>
+        </tblock>
+        <paragraph eId="para_4551">
+          <num>24</num>
+          <content eId="para_4551__content">
+            <p>By its two questions, which should be examined together, the referring court asks, in essence, whether Article 7(4)(b) of Directive 2005/29 must be interpreted as meaning that the information relating to the geographical address and the identity of the trader must be included in an advertisement for specific products, in a print medium, where those products are purchased by consumers via the website, given in the advertisement, of the undertaking which is the author of that advertisement and that information is readily accessible on or via that website.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4552">
+          <num>25</num>
+          <content eId="para_4552__content">
+            <p>It must first be stated that an advertisement such as that at issue in the main proceedings constitutes an invitation to purchase within the meaning of Article 2(i) of Directive 2005/29 since the information it contains on the products advertised and their price is sufficient to enable the consumer to make a transactional decision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4553">
+          <num>26</num>
+          <content eId="para_4553__content">
+            <p>Secondly, it must be recalled that, under Article 7(4)(b) of Directive 2005/29, the geographical address and the identity of the trader, such as his trading name and, where applicable, the geographical address and the identity of the trader on whose behalf he is acting constitute material information. However, that provision must be read in conjunction with Article 7(1) of that directive, according to which the commercial practice at issue must be assessed having regard, inter alia, to its factual context and the limitations of the medium of communication used (judgment of 12 May 2011, Ving Sverige, C‑122/10, EU:C:2011:299, paragraph 53).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4554">
+          <num>27</num>
+          <content eId="para_4554__content">
+            <p>Moreover, under Article 7(3) of Directive 2005/29, account is to be taken, in deciding whether information has been omitted, of the limitations of space and time of the medium of communication used and of the measures taken by the trader to make that information available to consumers by other means (judgment of 12 May 2011, Ving Sverige, C‑122/10, EU:C:2011:299, paragraph 54).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4555">
+          <num>28</num>
+          <content eId="para_4555__content">
+            <p>It follows that the extent of the information relating to the geographical address and the identity of the trader which has to be communicated, by a trader, in an invitation to purchase, must be assessed on the basis of the context of that invitation, the nature and characteristics of the product and the medium of communication used (judgment of 12 May 2011, Ving Sverige, C‑122/10, EU:C:2011:299, paragraph 55).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4556">
+          <num>29</num>
+          <content eId="para_4556__content">
+            <p>Where an online sales platform is advertised in a print medium and where, in particular, a large number of sales options offered by various traders are presented in that advertisement, there may be limitations of space within the meaning of Article 7(3) of Directive 2005/29.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4557">
+          <num>30</num>
+          <content eId="para_4557__content">
+            <p>It follows from all the foregoing that, although the information on the geographical address and identity of the trader, referred to in Article 7(4)(b) of Directive 2005/29, must in principle be included in the invitation to purchase, that need not necessarily be the case where the means of communication used for the purposes of the commercial practice imposes limitations of space, in so far as the consumers who may purchase the products advertised via the website, mentioned in the advertisement, of the undertaking advertising those products may easily obtain that information on or via that website. It is for the national court to assess, on a case-by-case basis, whether that condition is fulfilled, taking into consideration the context of the invitation to purchase and the means of communication used.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4558">
+          <num>31</num>
+          <content eId="para_4558__content">
+            <p>Lastly, it must be stated that the obligation to include in an invitation to purchase the information referred to in Article 7(4)(b) of Directive 2005/29 does not depend on the issue of whether the supplier of the products concerned is the author of that invitation or a third party. Consequently, where an advertisement in a print medium promotes products from different suppliers, the information required by that provision remains necessary, subject to the limitations of space mentioned in paragraph 29 above.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4559">
+          <num>32</num>
+          <content eId="para_4559__content">
+            <p>It is for the referring court to examine, on a case-by-case basis, first, whether the limitations of space in the advertisement warrant information on the supplier being provided only upon access to the online sales platform and, secondly, whether, so far as the online sales platform is concerned, the information required by Article 7(4)(b) of Directive 2005/29 is communicated simply and quickly.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4560">
+          <num>33</num>
+          <content eId="para_4560__content">
+            <p>Having regard to the foregoing considerations, the answer to the two questions is that Article 7(4)(b) of Directive 2005/29 must be interpreted as meaning that an advertisement, such as that at issue in the main proceedings, which falls within the definition of an `invitation to purchase' within the meaning of that directive, may satisfy the obligation regarding information laid down in that provision. It is for the referring court to examine, on a case-by-case basis, first, whether the limitations of space in the advertisement warrant information on the supplier being provided only upon access to the online sales platform and, secondly, whether, so far as the online sales platform is concerned, the information required by Article 7(4)(b) of that directive is communicated simply and quickly.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_4561">
+          <num>34</num>
+          <content eId="para_4561__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Tenth Chamber) hereby rules: Article 7(4)(b) of Directive 2005/29/EC of the European Parliament and of the Council of 11 May 2005 concerning unfair business-to-consumer commercial practices in the internal market and amending Council Directive 84/450/EEC, Directives 97/7/EC, 98/27/EC and 2002/65/EC of the European Parliament and of the Council and Regulation (EC) No 2006/2004 of the European Parliament and of the Council must be interpreted as meaning that an advertisement, such as that at issue in the main proceedings, which falls within the definition of an `invitation to purchase' within the meaning of that directive, may satisfy the obligation regarding information laid down in that provision. It is for the referring court to examine, on a case-by-case basis, first, whether the limitations of space in the advertisement warrant information on the supplier being provided only upon access to the online sales platform and, secondly, whether, so far as the online sales platform is concerned, the information required by Article 7(4)(b) of that directive is communicated simply and quickly.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: German.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

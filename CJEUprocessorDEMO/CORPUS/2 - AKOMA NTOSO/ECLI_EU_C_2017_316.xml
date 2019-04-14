@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+      <references source="#source">
+        <TLCOrganization eId="company_20" showAs="" href="/akn/ontology/Organization/Company/company_20" />
+        <TLCOrganization eId="institution_38" showAs="" href="/akn/ontology/Organization/Institution/institution_38" />
+      </references>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Third Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>27 April 2017 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>`Reference for a preliminary ruling -- Directive 73/239/EEC -- Directive 92/49/EEC -- Principle of single authorisation -- Principle of supervision by the home Member State -- Article 40(6) -- Concept of `irregularities' -- Reputation of shareholders -- Prohibition on insurance companies established in a Member State concluding new contracts within the territory of another Member State' In Case C‑559/15, REQUEST for a preliminary ruling under Article 267 TFEU from the Consiglio di Stato (Council of State, Italy), made by decision of 22 September 2015, received at the Court on 3 November 2015, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#company_20">Onix Asigurari SA</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#institution_38">Istituto per la Vigilanza Sulle Assicurazioni (IVASS)</party>
+      </p>
+      <p>THE COURT (Third Chamber), composed of L. Bay Larsen, President of the Chamber, M. Vilaras, J. Malenovský (Rapporteur), M. Safjan and D. Šváby, Judges, Advocate General: Y. Bot, Registrar: R. Schiano, Administrator, having regard to the written procedure and further to the hearing on 21 September 2016, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>Onix Asigurări SA, by G. Buscemi and G. Pellegrino, avvocati,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the</p>
+          <p>
+            <organization refersTo="#institution_38">Istituto per la Vigilanza Sulle Assicurazioni (IVASS)</organization>
+          </p>
+          <p>, by P. Rosatone and E. Galanti, avvocati,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Italian Government, by G. Palmieri, acting as Agent, and P. Gentili, avvocato dello Stato,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by V. Di Bucci and K.-Ph. Wojcik, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 9 November 2016,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_6445">
+          <num>1</num>
+          <content eId="para_6445__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Article 40(6) of Council Directive 92/49/EEC of 18 June 1992 on the coordination of laws, regulations and administrative provisions relating to direct insurance other than life assurance and amending Directives 73/239/EEC and 88/357/EEC (third non-life insurance Directive) ( OJ 1992 L 228, p. 1).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6446">
+          <num>2</num>
+          <content eId="para_6446__content">
+            <p>The request has been made in the context of a dispute between Onix Asigurări SA ( `Onix'), a Romanian insurance company, and the</p>
+            <p>
+              <organization refersTo="#institution_38">Istituto per la vigilanza sulle assicurazioni</organization>
+            </p>
+            <p>private e di interesse collettivo (ISVAP) (the supervisory authority for private insurance, Italy) subsequently the</p>
+            <p>
+              <organization refersTo="#institution_38">Istituto per la Vigilanza Sulle Assicurazioni (IVASS)</organization>
+            </p>
+            <p>(the Italian insurance supervisory authority, Italy), which is the Italian insurance supervisory authority, concerning the decision taken by the latter to prohibit Onix from concluding new insurance contracts on Italian territory.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <paragraph eId="para_6447">
+          <num>3</num>
+          <content eId="para_6447__content">
+            <p>Directive 92/49 was repealed by Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) ( OJ 2009 L 335, p. 1). Recitals 1, 3, 5, 6 and 29 of Directive 92/49 stated: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Whereas it is necessary to complete the internal market in direct insurance other than life assurance from the point of view both of the right of establishment and of the freedom to provide services, to make it easier for insurance undertakings with head offices in the Community to cover risks situated within the Community; ...</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>Whereas the [Second Council Directive of 22 June 1988 on the coordination of laws, regulations and administrative provisions relating to direct insurance other than life assurance and laying down provisions to facilitate the effective exercise of freedom to provide services and amending Directive 73/239/EEC ( OJ 1988 L 172, p. 1)] therefore represents an important stage in the merging of national markets into an integrated market and that stage must be supplemented by other Community instruments with a view to enabling all policyholders, irrespective of their status, their size or the nature of the risks to be insured, to have recourse to any insurer with a head office in the Community who carries on business there, under the right of establishment or the freedom to provide services, while guaranteeing them adequate protection; ...</p>
+                <blockList>
+                  <item>
+                    <num>(5)</num>
+                    <p>Whereas the approach adopted consists in bringing about such harmonisation as is essential, necessary and sufficient to achieve the mutual recognition of authorisations and prudential control systems, thereby making it possible to grant a single authorisation valid throughout the Community and apply the principle of supervision by the home Member State;</p>
+                  </item>
+                  <item>
+                    <num>(6)</num>
+                    <p>Whereas ... the taking-up and the pursuit of the business of insurance are henceforth to be subject to the grant of a single official authorisation issued by the competent authorities of the Member State in which an insurance undertaking has its head office; whereas such authorisation enables an undertaking to carry on business throughout the Community, under the right of establishment or the freedom to provide services; whereas the Member State of the branch or of the provision of services may no longer require insurance undertakings which wish to carry on insurance business there and which have already been authorised in their home Member State to seek fresh authorisation; whereas [Council Directives 73/239/EEC of 24 July 1973 on the coordination of laws, regulations and administrative provisions relating to the taking up and pursuit of the business of direct insurance other than life assurance] and 88/357/EEC should therefore be amended along those lines; ...</p>
+                  </item>
+                </blockList>
+              </item>
+              <item>
+                <num>(29)</num>
+                <p>Whereas provision should be made for a system of penalties to be imposed when, in the Member State in which a risk is situated, an insurance undertaking does not comply with those provisions protecting the general good that are applicable to it'.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6448">
+          <num>4</num>
+          <content eId="para_6448__content">
+            <p>Article 4 of Directive 92/49 provided: `Article 6 of Directive 73/239/EEC shall be replaced by the following: ``Article 6 The taking up of the business of direct insurance shall be subject to prior official authorisation. Such authorisation shall be sought from the competent authorities of the home Member State by:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>any undertaking which establishes its head office within the territory of that State;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>any undertaking which, having received the authorisation referred to in the first subparagraph, extends its business to an entire class or to other classes. '''</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6449">
+          <num>5</num>
+          <content eId="para_6449__content">
+            <p>Article 5 of Directive 92/49 provided: `Article 7 of Directive 73/239/EEC shall be replaced by the following: ``Article 7 1.   Authorisation shall be valid for the entire Community. It shall permit an undertaking to carry on business there, under either the right of establishment or the freedom to provide services.... '''</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6450">
+          <num>6</num>
+          <content eId="para_6450__content">
+            <p>Article 6 of Directive 92/49 provided: `Article 8 of Directive 73/239/EEC shall be replaced by the following: ``Article 8 1.   The home Member State shall require every assurance undertaking for which authorisation is sought to: ...</p>
+            <blockList>
+              <item>
+                <num>(e)</num>
+                <p>be effectively run by persons of good repute with appropriate professional qualifications or experience.... '''</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6451">
+          <num>7</num>
+          <content eId="para_6451__content">
+            <p>Article 8 of Directive 92/49 provided: `The competent authorities of the home Member State shall not grant an undertaking authorisation to take up the business of insurance before they have been informed of the identities of the shareholders or members, direct or indirect, whether natural or legal persons, who have qualifying holdings in that undertaking and of the amounts of those holdings. The same authorities shall refuse authorisation if, taking into account the need to ensure the sound and prudent management of an assurance undertaking, they are not satisfied as to the qualifications of the shareholders or members.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6452">
+          <num>8</num>
+          <content eId="para_6452__content">
+            <p>Article 14 of that directive provided: `Article 22 of Directive 73/239/EEC shall be replaced by the following: ``Article 22 1.   Authorisation granted to an insurance undertaking by the competent authority of its home Member State may be withdrawn by that authority if that undertaking:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>does not make use of the authorisation within 12 months, expressly renounces it or ceases to carry on business for more than six months, unless the Member State concerned has made provision for authorisation to lapse in such cases;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>no longer fulfils the conditions for admission;</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>has been unable, within the time allowed, to take the measures specified in the restoration plan or finance scheme referred to in Article 20;</p>
+              </item>
+              <item>
+                <num>(d)</num>
+                <p>the undertaking concerned fails seriously in its obligations under the regulations to which it is subject.... '''</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6453">
+          <num>9</num>
+          <content eId="para_6453__content">
+            <p>Article 40(3) to (7) of Directive 92/49 provided: `3.   If the competent authorities of a Member State establish that an undertaking with a branch or carrying on business under the freedom to provide services within its territory is not complying with the legal provisions applicable to it in that State, they shall require the undertaking concerned to remedy that irregular situation. 4.   If the undertaking in question fails to take the necessary action, the competent authorities of the Member State concerned shall inform the competent authorities of the home Member State accordingly. The latter authorities shall, at the earliest opportunity, take all appropriate measures to ensure that the undertaking concerned remedies that irregular situation. The nature of those measures shall be communicated to the competent authorities of the Member State concerned. 5.   If, despite the measures taken by the home Member State or because those measures prove inadequate or are lacking in that State, the undertaking persists in infringing the legal provisions in force in the Member State concerned, the latter may, after informing the competent authorities of the home Member State, take appropriate measures to prevent or penalise further infringements, including, in so far as is strictly necessary, preventing that undertaking from continuing to conclude new insurance contracts within its territory. Member States shall ensure that within their territories it is possible to serve the legal documents necessary for such measures on insurance undertakings. 6.   Paragraphs 3, 4 and 5 shall not affect the emergency power of the Member States concerned to take appropriate measures to prevent irregularities within their territories. This shall include the possibility of preventing insurance undertakings from continuing to conclude new insurance contracts within their territories. 7.   Paragraphs 3, 4 and 5 shall not affect the power of the Member States to penalise infringements within their territories.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Italian law</p>
+        </tblock>
+        <paragraph eId="para_6454">
+          <num>10</num>
+          <content eId="para_6454__content">
+            <p>Article 14(1)(e) of the Codice delle Assicurazioni Private (Private Insurance Code), adopted by Legislative Decree No 209 of 7 September 2005, in the version in force at the time of the facts in the main proceedings ( `the CAP'), provided as follows: `[the</p>
+            <p>
+              <organization refersTo="#institution_38">IVASS</organization>
+            </p>
+            <p>] shall grant the authorisation if ...:</p>
+            <blockList>
+              <item>
+                <num>(e)</num>
+                <p>[for] holders of qualifying holdings ... the conditions for granting the authorisation provided for in Article 68 are met'.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6455">
+          <num>11</num>
+          <content eId="para_6455__content">
+            <p>Article 68(5) of the CAP stated that: `The [</p>
+            <p>
+              <organization refersTo="#institution_38">IVASS</organization>
+            </p>
+            <p>] shall grant authorisation when the conditions for the sound and prudent management of the insurance or reinsurance undertaking are fulfilled, by assessing the quality of the prospective buyer and the financial soundness of the proposed project, having regard also to the possible effects of the transaction on the protection of the insured persons of the undertaking concerned, on the basis of the following criteria: the reputation of the potential buyer ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6456">
+          <num>12</num>
+          <content eId="para_6456__content">
+            <p>Article 76 of the CAP provided: `1.   Persons performing administrative, managerial or supervisory functions for insurance and reinsurance undertakings must fulfil the requirements of competence, good repute and independence imposed by Regulation 130, adopted by the Ministry for Production Activities, after consultation with the [</p>
+            <p>
+              <organization refersTo="#institution_38">IVASS</organization>
+            </p>
+            <p>]. 2.   Initial or subsequent failure to comply with the conditions shall result in disqualification. The board of directors, the supervisory board or the management board shall declare the disqualification within 30 days from when failure to comply with the conditions is identified or brought to their attention. In the event of inaction, the disqualification shall be declared by the [</p>
+            <p>
+              <organization refersTo="#institution_38">IVASS</organization>
+            </p>
+            <p>]. 3.   In the event of non-compliance with the conditions of independence provided for in the Civil Code or in the articles of association of the insurance or reinsurance undertaking, paragraph 2 shall apply. 4.   The Regulation referred to in paragraph 1 shall define the grounds for the temporary suspension of activity and the duration thereof. The suspension shall be declared in accordance with paragraph 2.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6457">
+          <num>13</num>
+          <content eId="para_6457__content">
+            <p>Article 193 of the CAP provided: `1.   Insurance undertakings with their head office in other Member States shall be subject to the prudential supervision of the home Member State authority, including, in the case of business carried on under the freedom of establishment or the freedom to provide services in the territory of the Republic. 2.   Without prejudice to the provisions of paragraph 1, where the [</p>
+            <p>
+              <organization refersTo="#institution_38">IVASS</organization>
+            </p>
+            <p>] finds that the insurance undertaking is not compliant with the provisions of Italian law in force, it shall notify the undertaking of that infringement and order it to comply with the laws in force. 3.   If the undertaking is not compliant with the laws in force, the [</p>
+            <p>
+              <organization refersTo="#institution_38">IVASS</organization>
+            </p>
+            <p>] shall so inform the supervisory authority of the home Member State, and ask it to adopt the measures necessary to put an end to the irregularities found. 4.   Where the home State authority fails to take action or the action taken proves inadequate, where the irregularities committed may adversely affect the general interest or where there is an urgent need to protect the interests of insured persons and other persons entitled to insurance benefits, the [</p>
+            <p>
+              <organization refersTo="#institution_38">IVASS</organization>
+            </p>
+            <p>] may, after first informing the supervisory authority of the home Member State, take the necessary action against the insurance undertaking, including prohibiting it from concluding new insurance contracts under the freedom of establishment or the freedom to provide services, with the effects referred to in Article 167. 5.   If the insurance undertaking which has committed the infringement carries on its business through a branch or owns assets in the territory of the Republic, the administrative penalties applicable under Italian law shall be imposed on that branch or shall take the form of confiscation of the assets present in Italian territory. 6.   Measures imposing penalties or restrictions on the pursuit of business under the freedom of establishment or the freedom to provide services shall be notified to the undertaking concerned. In its dealings with the [</p>
+            <p>
+              <organization refersTo="#institution_38">IVASS</organization>
+            </p>
+            <p>], the insurance undertaking shall communicate in Italian.'</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the question referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_6458">
+          <num>14</num>
+          <content eId="para_6458__content">
+            <p>Onix is an insurance company with its head office in Bucharest (Romania). It has been carrying on business in Italy since 24 October 2012, under the freedom to provide services, in particular for contracting authorities, providing surety for private undertakings selected in connection with tendering procedures, in order to guarantee their participation in the public contracts concerned and the execution of such contracts.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6459">
+          <num>15</num>
+          <content eId="para_6459__content">
+            <p>According to the information which the Autoritatea de Supraveghere Financiara (Financial Supervisory Authority, Romania, `the ASF') supplied to the</p>
+            <p>
+              <organization refersTo="#institution_38">IVASS</organization>
+            </p>
+            <p>, during Onix's two months of trading in 2012, that undertaking collected premiums to the value of EUR 795363, some 75% of them from Italy and 25% from Romania.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6460">
+          <num>16</num>
+          <content eId="para_6460__content">
+            <p>In response to a request for information from the</p>
+            <p>
+              <organization refersTo="#institution_38">IVASS</organization>
+            </p>
+            <p>, which had itself received requests for information from public authorities holding the Onix guarantee, the ASF reported that Onix's reference shareholder was an Italian citizen who held 0.01% of Onix's capital as a personal shareholder and the remaining 99.99% of that capital as sole shareholder of Egady Company SRL, a Romanian company. The ASF further stated that that citizen was the chairman and managing director of Onix.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6461">
+          <num>17</num>
+          <content eId="para_6461__content">
+            <p>Moreover, the</p>
+            <p>
+              <organization refersTo="#institution_38">IVASS</organization>
+            </p>
+            <p>found that several convictions tarnished the reputation of this reference shareholder. First, he was convicted, on 29 July 2013, by the Tribunale di Marsala (District Court, Marsala, Italy) for attempted aggravated fraud against the Italian State. Secondly, that shareholder was, it stated, the sole director of G.C.C. Garanzie Crediti e Cauzioni spA, an Italian company which was removed from the list of financial intermediaries on 28 August 2008 pursuant to a decision of the Banca d'Italia (Bank of Italy) on account of serious management irregularities and non-compliance with minimum equity requirements. In that context, the Bank of Italy imposed an administrative penalty in the amount of EUR 80000. Finally, the funds held by Garanzie Crediti e Cauzioni Srl, an Italian company resulting from the transformation of G.C.C. Garanzie Crediti e Cauzioni spA, were twice the subject of sequestration orders made by the Agenzia delle entrate (tax authority, Italy) on 27 April and 28 May 2010, in order to ensure the performance of surety undertakings not honoured.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6462">
+          <num>18</num>
+          <content eId="para_6462__content">
+            <p>By letter of 4 October 2013, the</p>
+            <p>
+              <organization refersTo="#institution_38">IVASS</organization>
+            </p>
+            <p>sent the ASF the information and documents in its possession, asked it to take all appropriate measures to protect the insured persons and advised it that, if the ASF failed to take action, it would itself take all expedient and necessary measures to protect the interests of Italian insured persons.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6463">
+          <num>19</num>
+          <content eId="para_6463__content">
+            <p>By letter of 8 November 2013, the ASF offered to cooperate, announcing that it had set up an internal working party responsible for assessing the measures to be adopted and inviting the</p>
+            <p>
+              <organization refersTo="#institution_38">IVASS</organization>
+            </p>
+            <p>to cooperate with it.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6464">
+          <num>20</num>
+          <content eId="para_6464__content">
+            <p>By letter of 19 November 2013, the</p>
+            <p>
+              <organization refersTo="#institution_38">IVASS</organization>
+            </p>
+            <p>confirmed that it was prepared to cooperate, but pointed out the urgency of the matter and stated that, if the ASF had not revoked Onix's authorisation within 30 days, it would be obliged to prohibit the company from concluding new insurance contracts in Italy.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6465">
+          <num>21</num>
+          <content eId="para_6465__content">
+            <p>On 9 December 2013, the two supervisory authorities held a meeting during which, it is claimed, the ASF said that it was unable to revoke Onix's authorisation due, in particular, to the fact that the criteria laid down in the guidelines for the prudential assessment of acquisitions and increases in holdings in the financial sector, required by Directive 2007/44/EC, had not been transposed into Romanian law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6466">
+          <num>22</num>
+          <content eId="para_6466__content">
+            <p>By decision of 20 December 2013, adopted on the basis of Article 40(6) of Directive 92/49 and Article 193(4) of the CAP, the</p>
+            <p>
+              <organization refersTo="#institution_38">IVASS</organization>
+            </p>
+            <p>prohibited Onix from concluding new insurance contracts in Italian territory.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6467">
+          <num>23</num>
+          <content eId="para_6467__content">
+            <p>Following that decision, Onix, first, brought a complaint, on 5 February 2014, before the European Insurance and Occupational Pensions Authority (EIOPA).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6468">
+          <num>24</num>
+          <content eId="para_6468__content">
+            <p>By a decision of 2 June 2014, the President of EIOPA declared that complaint admissible before, however, rejecting it by decision of 6 June 2014, considering that the power of the competent authorities of the Member State of the provision of services to take appropriate measures in an emergency, as referred to in Article 40(6) of Directive 92/49, may be exercised where the concerns of those authorities cannot be addressed in any other way, in particular, through cooperation between supervisory authorities. By that decision of 6 June 2014, it also held that it is for the Member State to define the scope and limits of that power, that compliance with the national rules is subject to judicial review by the Italian courts and that there is no reason to recognise an infringement of that directive by the</p>
+            <p>
+              <organization refersTo="#institution_38">IVASS</organization>
+            </p>
+            <p>.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6469">
+          <num>25</num>
+          <content eId="para_6469__content">
+            <p>In response to a letter from Onix of 8 October 2014, EIOPA confirmed that position by letter of 24 November 2014.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6470">
+          <num>26</num>
+          <content eId="para_6470__content">
+            <p>Onix brought an appeal against that letter before the Board of Appeal. By decision of 3 August 2015, the Board of Appeal dismissed the appeal on the ground that it was inadmissible, in so far as it was directed against a purely confirmatory act of an earlier act which had not been contested in due time. That decision was the subject of an action before the General Court of the European Union (Case T‑590/15).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6471">
+          <num>27</num>
+          <content eId="para_6471__content">
+            <p>By the order of 24 June 2016, the General Court dismissed that action as, in part, clearly inadmissible and, in part, clearly lacking any foundation in law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6472">
+          <num>28</num>
+          <content eId="para_6472__content">
+            <p>Secondly, Onix brought an action against the</p>
+            <p>
+              <organization refersTo="#institution_38">IVASS</organization>
+            </p>
+            <p>decision before the Tribunale amministrativo regionale per il Lazio (Regional Administrative Court, Lazio, Italy), which, by judgment No 478/2015, dismissed that action, taking the view that the finding that the reference shareholder of the company exercising the freedom to provide services did not satisfy the reputation requirements in order to be able to carry on the business of insurance in Italian territory constitutes an emergency which justified the intervention of the</p>
+            <p>
+              <organization refersTo="#institution_38">IVASS</organization>
+            </p>
+            <p>, by way of derogation from the principle of supervision by the home Member State.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6473">
+          <num>29</num>
+          <content eId="para_6473__content">
+            <p>Onix lodged an appeal against that judgment before the Consiglio di Stato (Council of State, Italy), claiming in particular that the supervisory authority of the Member State of the provision of services cannot, by way of derogation from the principle of supervision by the Member State, prohibit an insurance operator authorised in the home Member State from concluding new contracts in its territory on the ground that the reputation condition is not met.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6474">
+          <num>30</num>
+          <content eId="para_6474__content">
+            <p>The referring court is considering dismissing the appeal on the ground that Article 40(6) of Directive 92/49 permits the supervisory authorities of the Member State of the provision of services, on account of the reference shareholder's proven criminal record, to take the precautionary step of prohibiting the insurance undertaking from continuing to trade in the territory of that Member State with a view to protecting the interests of the persons insured.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6475">
+          <num>31</num>
+          <content eId="para_6475__content">
+            <p>Since, however, it has doubts about the compatibility of such an adjudication with EU law, in particular the principle of single authorisation and supervision by the home Member State of compliance with the reputation condition, the Consiglio di Stato (Council of State, Italy) decided to stay the proceedings and refer the following question to the Court for a preliminary ruling: `Does Community law, in particular Article 40(6) of Directive 92/49, Commission Interpretative Communication 2000/C 43/03 [on freedom to provide services and the general good in the insurance sector ( OJ 2000 C 43, p. 5)], paragraph 5, and the Community principle of home country supervision preclude an interpretation (such as that applied to Article 193(4) of the [CAP], endorsed by this Court) in accordance with which the supervisory authority of a State hosting an insurance operator under the freedom to provide services may, in cases of urgency and for the protection of the interests of insured persons and of persons entitled to insurance benefits, issue injunctions and decisions specifically prohibiting the conclusion of new contracts within the territory of the host State, on the grounds of the alleged failure, whether pre-existing or supervening, assessed discretionarily, to satisfy a subjective precondition laid down for the purpose of the issue of authorisation to engage in insurance business, in particular the requirement of good repute?'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The request to reopen the oral procedure</p>
+        </tblock>
+        <paragraph eId="para_6476">
+          <num>32</num>
+          <content eId="para_6476__content">
+            <p>By letter received at the Court Registry on 1 December 2016, Onix requested that the oral procedure be reopened. It maintained, in essence, that certain arguments, which were presented as being vital for the purposes of the present reference, had not been debated between the interested persons.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6477">
+          <num>33</num>
+          <content eId="para_6477__content">
+            <p>In that regard, it should be recalled that the Court, under Article 83 of its Rules of Procedure, may at any time, after hearing the Advocate General, order that the oral procedure be reopened, in particular if it considers that it lacks sufficient information or where the case must be decided on the basis of an argument that has not been debated between the parties or the interested persons referred to in Article 23 of the Statute of the Court of Justice of the European Union.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6478">
+          <num>34</num>
+          <content eId="para_6478__content">
+            <p>In the present case, the Court, having heard the Advocate General, takes the view that it has all the information necessary to answer the question referred and that that information has been debated between the parties to the main proceedings and interested parties referred to in that article.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6479">
+          <num>35</num>
+          <content eId="para_6479__content">
+            <p>Consequently, Onix's request must be rejected.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the question referred</p>
+        </tblock>
+        <paragraph eId="para_6480">
+          <num>36</num>
+          <content eId="para_6480__content">
+            <p>By its question, the referring court asks, in essence, whether Directive 92/49 and, in particular, Article 40(6) thereof must be interpreted as precluding the supervisory authorities of a Member State from taking emergency measures, as against an undertaking providing direct insurance other than life assurance operating in the territory of that state under the freedom to provide services, in order to protect the interests of insured persons and other persons who may have insurance cover, such as prohibiting it from concluding new insurance contracts in that territory, on the grounds of the failure, whether pre-existing or otherwise, assessed discretionarily, to satisfy a subjective precondition laid down for the purpose of the issue of authorisation to engage in insurance business, such as the requirement of good repute.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6481">
+          <num>37</num>
+          <content eId="para_6481__content">
+            <p>It should be pointed out at the outset that Article 40(6) of that directive provides, in essence, that, in addition to the measures which may be adopted on the basis of paragraphs 3 to 5 of that article, a Member State may take appropriate measures in an emergency to prevent the occurrence of irregularities on its territory, in particular to prevent an insurance undertaking from concluding new insurance contracts within that territory.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6482">
+          <num>38</num>
+          <content eId="para_6482__content">
+            <p>In that regard, it must be pointed out that certain language versions of that provision, in particular those in Spanish and French, refer to irregularities `committed' in the territory of the Member State concerned, which may indicate that that provision applies only where irregular acts have already been carried out.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6483">
+          <num>39</num>
+          <content eId="para_6483__content">
+            <p>It must be noted, however, that the need for a uniform interpretation of EU regulations makes it impossible, where there are doubts, for the text of a provision to be considered in isolation but requires, on the contrary, that it should be interpreted and applied in the light of the versions existing in the other official languages (judgment of 19 September 2013, Van Buggenhout and Van de Mierop, C‑251/12, EU:C:2013:566, paragraph 27).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6484">
+          <num>40</num>
+          <content eId="para_6484__content">
+            <p>First, other language versions, such as those in the German and English, do not contain any similar qualifier. Secondly, all the language versions use the verb `to prevent' or a similar word to describe the subject matter of the measures which may be adopted. Consequently, that provision must be interpreted as permitting the adoption of measures to prevent future irregularities from occurring.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6485">
+          <num>41</num>
+          <content eId="para_6485__content">
+            <p>That being so, it must be pointed out that the wording of Article 40(6) of Directive 92/49, considered in isolation, does not enable an answer to be given to the question referred. In those circumstances, it is necessary to consider the context in which that provision occurs, and the objectives pursued by that directive (see, to that effect, judgment of 25 June 2015, CO Sociedad de Gestión y Participación and Others, C‑18/14, EU:C:2015:419, paragraph 27).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6486">
+          <num>42</num>
+          <content eId="para_6486__content">
+            <p>In that regard, it is clear, in the first place, from recitals 1, 5 and 6 of that directive that the latter, which aims to complete the internal market in the sector of direct insurance other than life assurance, is based on two principles. Those principles are, first, the creation of a single authorisation which, once granted, allows insurance undertakings to carry on business throughout the European Union and, secondly, the principle of supervision of insurance undertakings by the home Member State.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6487">
+          <num>43</num>
+          <content eId="para_6487__content">
+            <p>In pursuit of that objective, Directive 92/49 provides, first, in Article 4 thereof, that a single authorisation may be sought only from the authorities of the home Member State, Article 6 of that directive laying down the conditions for granting such authorisation, including that of the good repute of the directors of the undertaking concerned. Moreover, it is clear from Article 14 of that directive that it is also for the home Member State to withdraw the authorisation granted to an insurance undertaking which no longer fulfils the conditions for admission or fails seriously in its obligations under the regulations to which it is subject.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6488">
+          <num>44</num>
+          <content eId="para_6488__content">
+            <p>It follows that only the competent authorities of the home Member State, excluding those of other Member States, can ascertain whether an insurance undertaking satisfies the requirement that its directors are of good repute.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6489">
+          <num>45</num>
+          <content eId="para_6489__content">
+            <p>In the second place, Article 40 of Directive 92/49 establishes two distinct procedures whereby the competent authorities of the Member States in which the services are provided may, in respect of the undertaking concerned, take measures in the event of irregularities or the risk of irregularities.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6490">
+          <num>46</num>
+          <content eId="para_6490__content">
+            <p>In that regard, Article 40(4) and (5) of Directive 92/49 specifies the detailed rules to be followed by the competent authorities of the Member States in which the services are provided when considering such measures, namely to first inform the competent authorities of the home Member State of the failure to observe certain rules of law by an undertaking that has a single authorisation granted by those authorities and to afford them the opportunity to take, at the earliest opportunity, all appropriate measures to remedy that failure.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6491">
+          <num>47</num>
+          <content eId="para_6491__content">
+            <p>Article 40(6) of that directive, the application of which is limited to cases of emergency, whilst being subject to the existence of a risk of irregularities, does not provide, by way of derogation from the procedure referred to in Article 40(4) and (5) thereof, a requirement, for the Member State of the provision of services concerned, either to notify the competent authorities of the home Member State of any such irregularities, or to inform those authorities of its intention to take appropriate measures.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6492">
+          <num>48</num>
+          <content eId="para_6492__content">
+            <p>The imminence of an irregularity taking place may necessitate the immediate adoption of measures. It cannot therefore be required of the Member State of the provision of services, faced with an emergency, that it should undertake a process of informing the host Member State, which may delay the adoption of such measures, to the detriment of the interests of insured persons and beneficiaries of the insurance cover taken out.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6493">
+          <num>49</num>
+          <content eId="para_6493__content">
+            <p>However, in the absence of any indication to the contrary, Article 40(6) of Directive 92/49 cannot be interpreted as allowing the Member State of the provision of services to derogate from the exclusive responsibility of the home Member State, as referred to in paragraph 44 of this judgment, in order to rule on the compliance, by an insurance undertaking, with the conditions of authorisation, in particular that relating to the good repute of its directors, the supervision of which is, in accordance with Article 4 of Directive 92/49, the sole responsibility of the home Member State.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6494">
+          <num>50</num>
+          <content eId="para_6494__content">
+            <p>However, it is for the Member State of the provision of services, exercising the prerogatives it has in emergency situations, to establish whether certain inadequacies or uncertainties relating to the good repute of the directors of the insurance undertaking concerned present a real and imminent danger that irregularities will occur to the detriment of the interests of the insured persons or other persons who may benefit from the insurance cover taken out and, if so, to take appropriate measures immediately, such as, where appropriate, prohibiting the conclusion of new contracts in its territory.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6495">
+          <num>51</num>
+          <content eId="para_6495__content">
+            <p>It is apparent from recital 3 of Directive 92/49 that the purpose thereof is to guarantee adequate protection for policy-holders. Such protection could not be ensured if Article 40(6) of that directive were to be interpreted as precluding, in the event of an emergency, the Member State of provision of the services concerned from assessing whether there was an imminent danger to the interests of those policy-holders and immediately taking measures to remedy that situation, without being obliged to refer to the authorities of the home Member State the task of taking appropriate action for that purpose.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6496">
+          <num>52</num>
+          <content eId="para_6496__content">
+            <p>However, to the extent that, as was found in paragraph 42 of this judgment, that directive gives primacy to the principle of supervision of insurance undertakings by the home Member State, the Member State of the provision of services may take, in an emergency, only protective measures. Those measures apply, therefore, only pending a decision by the competent authorities of the home Member State, drawing the conclusions, in the light of the conditions for granting the authorisation, in particular relating to good repute, from the evidence identified by the Member State of the provision of services, as required by the principle of legal certainty which forms part of the EU legal order.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6497">
+          <num>53</num>
+          <content eId="para_6497__content">
+            <p>Consequently, the answer to the question referred is that Directive 92/49 and, in particular, Article 40(6) thereof must be interpreted as precluding the supervisory authorities of a Member State from taking emergency measures, as against an undertaking providing direct insurance other than life assurance operating in its territory under the freedom to provide services, in order to protect the interests of the insured persons and other persons who may benefit from the insurance cover taken out, such as prohibiting it from concluding new insurance contracts in that territory, on the grounds of the failure, whether pre-existing or otherwise, assessed discretionarily, to satisfy a subjective precondition laid down for the purpose of the issue of authorisation to engage in insurance business, such as the requirement of good repute. However, that directive does not preclude that Member State, in exercising the prerogatives it has in emergency situations, from establishing whether certain inadequacies or uncertainties relating to the good repute of the directors of the insurance undertaking concerned present a real and imminent danger that irregularities will occur to the detriment of the interests of the insured persons or other persons who may benefit from the insurance cover taken out and, if so, from taking appropriate measures immediately, such as, where appropriate, prohibiting the conclusion of new contracts in its territory.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_6498">
+          <num>54</num>
+          <content eId="para_6498__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Third Chamber) hereby rules: Council Directive 92/49/EEC of 18 June 1992 on the coordination of laws, regulations and administrative provisions relating to direct insurance other than life assurance and amending Directives 73/239/EEC and 88/357/EEC (third non-life insurance Directive) and, in particular, Article 40(6) thereof, must be interpreted as precluding the supervisory authorities of a Member State from taking emergency measures, as against an undertaking providing direct insurance other than life assurance operating in its territory under the freedom to provide services, in order to protect the interests of the insured persons and other persons who may benefit from the insurance cover taken out, such as prohibiting it from concluding new insurance contracts in that territory, on the grounds of the failure, whether pre-existing or otherwise, assessed discretionarily, to satisfy a subjective precondition laid down for the purpose of the issue of authorisation to engage in insurance business, such as the requirement of good repute. However, that directive does not preclude that Member State, in exercising the prerogatives it has in emergency situations, from establishing whether certain inadequacies or uncertainties relating to the insurance undertaking concerned present a real and imminent danger that irregularities will occur to the detriment of the interests of the insured persons or other persons who may benefit from the insurance cover taken out and, if so, from taking appropriate measures immediately, such as, where appropriate, prohibiting the conclusion of new contracts in its territory.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Italian</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

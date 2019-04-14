@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Eighth Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>28 June 2017 (</p>
+      </tblock>
+      <tblock>
+        <p>1)</p>
+      </tblock>
+      <p>`Appeal -- Medicinal products for human use -- Marketing authorisation -- Regulation (EEC) No 2309/93 -- Centralised procedure at European Union level -- Development of a medicinal product that was the subject of a marketing authorisation for other therapeutic indications -- Separate marketing authorisation and new trade name -- Directive 2001/83/EC -- Second subparagraph of Article 6(1) and Article 10(1) -- Concept of a `global marketing authorisation' -- Regulatory data protection period' In Joined Cases C‑629/15 P and C‑630/15 P, APPEALS under Article 56 of the Statute of the Court of Justice of the European Union, lodged on 24 November 2015, Novartis Europharm Ltd, established in Camberley (United Kingdom), represented by C. Schoonderbeek, advocaat, applicant, the other parties to the proceedings being: European Commission, represented by K. Mifsud-Bonnici and A. Sipos and by M. Šimerdová, acting as Agents, defendant at first instance, Teva Pharma BV, established in Utrecht (Netherlands), represented by K. Bacon QC, instructed by C. Firth, Solicitor, intervener at first instance (C‑629/15 P), Hospira UK Ltd, established in Maidenhead (United Kingdom), represented by J. Stratford QC, instructed by E. Vickers and N. Stoate, Solicitors, intervener at first instance (C‑630/15 P), THE COURT (Eighth Chamber), composed of J. Malenovský, acting as President of the Chamber, M. Safjan and D. Šváby (Rapporteur), Judges, Advocate General: M. Bobek, Registrar: A. Calot Escobar, having regard to the written procedure, after hearing the Opinion of the Advocate General at the sitting on 21 December 2016,</p>
+      <p>gives the following</p>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_11288">
+          <num>1</num>
+          <content eId="para_11288__content">
+            <p>By its appeals, Novartis Europharm Ltd ( `Novartis') asks the Court to set aside, respectively in Cases C‑629/15 P and C‑630/15, the judgments of the General Court of the European Union of 15 September 2015, Novartis Europharm v Commission ( T‑472/12, EU:T:2015:637), and Novartis Europharm v Commission ( T‑67/13, not published, EU:T:2015:636) (together, `the judgments under appeal'), by which the General Court dismissed its actions brought against, respectively, Commission Implementing Decision C(2012) 5894 final of 16 August 2012 granting a marketing authorisation in accordance with Regulation No 726/2004 of the European Parliament and of the Council for the medicinal product for human use `Zoledronic acid Teva Pharma -- zoledronic acid' and Commission Implementing Decision C(2012) 8605 final of 19 November 2012 granting a marketing authorisation in accordance with Regulation (EC) No 726/2004 of the European Parliament and of the Council for the medicinal product for human use `Zoledronic acid Hospira -- zoledronic acid' (together, `the decisions at issue').</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>Directive 65/65</p>
+        </tblock>
+        <paragraph eId="para_11289">
+          <num>2</num>
+          <content eId="para_11289__content">
+            <p>Council Directive 65/65/EEC of 26 January 1965 on the approximation of provisions laid down by law, regulation or administrative action relating to proprietary medicinal products (OJ, English Special Edition 1965-1966(I), p. 20), as amended by Council Directive 93/39/EEC of 14 June 1993 ( OJ 1993 L 214, p. 22) ( `Directive 65/65'), was repealed by Directive 2001/83/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to medicinal products for human use ( OJ 2001 L 311, p. 67). Article 4 of Directive 65/65 provided: `For the purpose of obtaining the marketing authorisation provided for in Article 3, the person responsible for marketing shall lodge an application with the competent authority of the Member State.... The application shall be accompanied by the following particulars and documents:... 8.   Results of:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>physico-chemical, biological or microbiological tests;</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>pharmacological and toxicological tests;</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>clinical trials. However, and without prejudice to the law relating to the protection of industrial and commercial property:</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>The applicant shall not be required to provide the results of pharmacological and toxicological tests or the results of clinical trials if he can demonstrate:...</p>
+              </item>
+              <item>
+                <num>(iii)</num>
+                <p>that the medicinal product is essentially similar to a medicinal product which has been authorised within the Community, in accordance with Community provisions in force, for not less than six years and is marketed in the Member State for which the application is made. ... a Member State may also extend this period to 10 years by a single Decision covering all the medicinal products marketed on its territory where it considers this necessary in the interest of public health. ......'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Directive 2001/83</p>
+        </tblock>
+        <paragraph eId="para_11290">
+          <num>3</num>
+          <content eId="para_11290__content">
+            <p>Article 6(1) of Directive 2001/83, as amended by Regulation (EC) No 1901/2006 of the European Parliament and of the Council of 12 December 2006 ( OJ 2006 L 378, p. 1) ( `Directive 2001/83'), provides: `No medicinal product may be placed on the market of a Member State unless a marketing authorisation has been issued by the competent authorities of that Member State in accordance with this Directive or an authorisation has been granted in accordance with Regulation (EC) No 726/2004 [of the European Parliament and of the Council of 31 March 2004 laying down Community procedures for the authorisation and supervision of medicinal products for human and veterinary use and establishing a European Medicines Agency ( OJ 2004 L 136, p. 1)] ... When a medicinal product has been granted an initial marketing authorisation in accordance with the first subparagraph, any additional strengths, pharmaceutical forms, administration routes, presentations, as well as any variations and extensions shall also be granted an authorisation in accordance with the first subparagraph or be included in the initial marketing authorisation. All these marketing authorisations shall be considered as belonging to the same global marketing authorisation, in particular for the purpose of the application of Article 10(1).'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11291">
+          <num>4</num>
+          <content eId="para_11291__content">
+            <p>Article 8(3) of Directive 2001/83 provides as follows: `The application [for a marketing authorisation] shall be accompanied by the following particulars and documents ... :...</p>
+            <blockList>
+              <item>
+                <num>(i)</num>
+                <p>Results of:</p>
+                <blockList>
+                  <item>
+                    <num>--</num>
+                    <p>Pharmaceutical (physico-chemical, biological or microbiological) tests;</p>
+                  </item>
+                  <item>
+                    <num>--</num>
+                    <p>Pre-clinical (toxicological and pharmacological) tests;</p>
+                  </item>
+                  <item>
+                    <num>--</num>
+                    <p>clinical trials....'</p>
+                  </item>
+                </blockList>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11292">
+          <num>5</num>
+          <content eId="para_11292__content">
+            <p>Under Article 10(1) and (2) of that directive: `1.   By way of derogation from Article 8(3)(i), and without prejudice to the law relating to the protection of industrial and commercial property, the applicant shall not be required to provide the results of pre-clinical tests and of clinical trials if he can demonstrate that the medicinal product is a generic of a reference medicinal product which is or has been authorised under Article 6 for not less than eight years in a Member State or in the Community. A generic medicinal product authorised pursuant to this provision shall not be placed on the market until 10 years have elapsed from the initial authorisation of the reference product.... The 10-year period referred to in the second subparagraph shall be extended to a maximum of 11 years if, during the first 8 years of those 10 years, the marketing authorisation holder obtains an authorisation for 1 or more new therapeutic indications which, during the scientific evaluation prior to their authorisation, are held to bring a significant clinical benefit in comparison with existing therapies. 2.   For the purposes of this Article:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>``reference medicinal product '' shall mean a medicinal product authorised under Article 6, in accordance with the provisions of Article 8;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>``generic medicinal product '' shall mean a medicinal product which has the same qualitative and quantitative composition in active substances and the same pharmaceutical form as the reference medicinal product, and whose bioequivalence with the reference medicinal product has been demonstrated by appropriate bioavailability studies. ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Regulation (EEC) No 2309/93</p>
+        </tblock>
+        <paragraph eId="para_11293">
+          <num>6</num>
+          <content eId="para_11293__content">
+            <p>Council Regulation (EEC) No 2309/93 of 22 July 1993 laying down Community procedures for the authorisation and supervision of medicinal products for human and veterinary use and establishing a European Agency for the Evaluation of Medicinal Products ( OJ 1993 L 214, p. 1) was repealed and replaced by Regulation No 726/2004. Article 13(4) of Regulation No 2309/93 provided: `Medicinal products which have been authorised by the Community in accordance with the provisions of this Regulation shall benefit from the 10-year period of protection referred to in point 8 of the second paragraph of Article 4 of Directive [65/65].'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Regulation No 726/2004</p>
+        </tblock>
+        <paragraph eId="para_11294">
+          <num>7</num>
+          <content eId="para_11294__content">
+            <p>Article 14(11) of Regulation No 726/2004 provides: `Without prejudice to the law on the protection of industrial and commercial property, medicinal products for human use which have been authorised in accordance with the provisions of this Regulation shall benefit from an eight-year period of data protection and a 10-year period of marketing protection, in which connection the latter period shall be extended to a maximum of 11 years if, during the first eight years of those 10 years, the marketing authorisation holder obtains an authorisation for one or more new therapeutic indications which, during the scientific evaluation prior to their authorisation, are held to bring a significant clinical benefit in comparison with existing therapies.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11295">
+          <num>8</num>
+          <content eId="para_11295__content">
+            <p>Article 89 of that regulation provides: `The periods of protection provided for [inter alia in Article 14(11)] shall not apply to reference medicinal products for which an application for authorisation has been submitted before [20 November 2005].'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Regulation (EC) No 1085/2003</p>
+        </tblock>
+        <paragraph eId="para_11296">
+          <num>9</num>
+          <content eId="para_11296__content">
+            <p>Commission Regulation (EC) No 1085/2003 of 3 June 2003 concerning the examination of variations to the terms of a marketing authorisation for medicinal products for human use and veterinary medicinal products falling within the scope of Regulation No 2309/93 ( OJ 2003 L 159, p. 24) was repealed by Commission Regulation (EC) No 1234/2008 of 24 November 2008 concerning the examination of variations to the terms of marketing authorisations for medicinal products for human use and veterinary medicinal products ( OJ 2008 L 334, p. 7). Regulation No 1085/2003 is nevertheless applicable ratione temporis to the present cases.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11297">
+          <num>10</num>
+          <content eId="para_11297__content">
+            <p>Article 2 of Regulation No 1085/2003, entitled `Scope', was worded as follows: `This Regulation shall not apply to:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>extensions of marketing authorisations which fulfil the conditions set out in Annex II to this Regulation;... The extensions referred to in point (a) of the first paragraph shall be evaluated in accordance with [Regulation (EEC) No 2309/93] ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11298">
+          <num>11</num>
+          <content eId="para_11298__content">
+            <p>Article 3 of that regulation, entitled `Definitions', provided: `For the purposes of this Regulation, the following definitions shall apply:...</p>
+            <blockList>
+              <item>
+                <num>(3)</num>
+                <p>a ``major variation '' of type II means a variation that cannot be deemed to be a minor variation or an extension of the marketing authorisation;...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11299">
+          <num>12</num>
+          <content eId="para_11299__content">
+            <p>Article 6 of that regulation, entitled `Approval procedure for major variations type II', provided as follows: `... 2.   An application shall only concern one type II variation. Where several type II variations are to be made to a single marketing authorisation, a separate application shall be submitted in respect of each variation sought; each such application shall also contain a reference to the other applications.... 6.   The competent Committee of the [European Agency for the Evaluation of Medicinal Products, now the European Medicines Agency (EMA)] shall give its opinion within 60 days from the start of the procedure.... This period can be extended to 90 days for variations concerning changes to or addition of the therapeutic indications....'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11300">
+          <num>13</num>
+          <content eId="para_11300__content">
+            <p>Annex II to that regulation, entitled `Changes to a marketing authorisation leading to an extension application as referred to in Article 2', stated: `These changes, listed below, will be regarded as an ``extension '' application as referred to in Article 2. An extension to or a modification of the existing marketing authorisation will have to be granted by the Community. The name of the medicinal product will be the same for the ``extension '' as it is for the existing marketing authorisation of the medicinal product.... Changes requiring an extension application... 2. Changes to strength, pharmaceutical form and route of administration:...</p>
+            <blockList>
+              <item>
+                <num>(iii)</num>
+                <p>change or addition of a new strength/potency;...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Background to the dispute</p>
+        </tblock>
+        <paragraph eId="para_11301">
+          <num>14</num>
+          <content eId="para_11301__content">
+            <p>The background to the dispute, as set out in the judgments under appeal, may be summarised as follows.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11302">
+          <num>15</num>
+          <content eId="para_11302__content">
+            <p>The two appeals lodged by Novartis relate to two decisions of the European Commission, adopted in 2012, concerning the grant of a marketing authorisation ( `the MA') under the centralised procedure, then governed by Regulation No 726/2004, for two generic medicinal products, namely Zoledronic acid Teva Pharma -- zoledronic acid ( `Z.a. Teva'), produced by Teva Pharma BV ( `Teva'), and Zoledronic acid Hospira -- zoledronic acid ( `Z.a. Hospira'), produced by Hospira UK Ltd ( `Hospira'). The reference medicinal product for both of those generic medicinal products is Aclasta, which is manufactured by Novartis.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11303">
+          <num>16</num>
+          <content eId="para_11303__content">
+            <p>On 20 March 2001, Novartis obtained an MA under the centralised procedure for the medicinal product Zometa, the active substance of which is zoledronic acid, for a series of oncology indications, on the basis of Regulation No 2309/93. It follows from Article 13(4) of Regulation No 2309/93, which refers to point 8 of the second paragraph of Article 4 of Directive 65/65, that Zometa enjoyed a 10-year period of protection as from 20 March 2001.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11304">
+          <num>17</num>
+          <content eId="para_11304__content">
+            <p>Novartis continued its research into the use of that active substance, but for non-oncology indications, which gave rise to a different clinical development programme, with different patient populations and dosing regimens. On 15 April 2005, it obtained, also on the basis of Regulation No 2309/93, an MA for the medicinal product resulting from that further research, Aclasta. Aclasta has the same active substance as Zometa, namely zoledronic acid, but its therapeutic indications are different from those of Zometa, and its strength was adjusted in the light of those new indications.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11305">
+          <num>18</num>
+          <content eId="para_11305__content">
+            <p>On 25 May 2011 and 22 June 2011, respectively, that is to say after the expiry of the data protection period enjoyed by Zometa, Teva and Hospira both submitted an MA application on the basis of Regulation No 726/2004 for their respective medicinal products, namely Z.a. Teva and Z.a. Hospira, the active substance of which is also zoledronic acid. Teva's application concerned a generic copy of Aclasta. Hospira's application concerned four separate presentations, three of which constituted generic copies of either Zometa or Aclasta.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11306">
+          <num>19</num>
+          <content eId="para_11306__content">
+            <p>In those applications, Teva and Hospira referred to the results of preclinical and clinical trials submitted by Novartis in the MA applications for Zometa and Aclasta.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11307">
+          <num>20</num>
+          <content eId="para_11307__content">
+            <p>By the decisions at issue, the Commission granted MAs for Z.a. Teva and for Z.a. Hospira.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Procedure before the General Court and the judgments under appeal</p>
+        </tblock>
+        <paragraph eId="para_11308">
+          <num>21</num>
+          <content eId="para_11308__content">
+            <p>By it applications lodged before the General Court on, respectively, 30 October 2012 (Case T‑472/12) and 1 February 2013 (Case T‑67/13), Novartis sought the annulment of the decisions at issue in so far as they granted MAs for Z.a. Teva and for the presentation of Z.a. Hospira, both of which are generic copies of Aclasta ( `the generic copies of Aclasta').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11309">
+          <num>22</num>
+          <content eId="para_11309__content">
+            <p>In support of each of its actions, Novartis presented a single plea, alleging infringement of Article 10(1) of Directive 2001/83 and of Article 13(4) of Regulation No 2309/93, read in conjunction with Article 14(11) and Article 89 of Regulation No 726/2004.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11310">
+          <num>23</num>
+          <content eId="para_11310__content">
+            <p>In its actions, Novartis argued that it enjoyed a 10 year data protection period in respect of Aclasta, in accordance with Article 13(4) of Regulation No 2309/93, with the result that no MA for a generic medicinal product of Aclasta could be accepted before 15 April 2015. Accordingly, in so far as they grant the MA applications for generic copies of Aclasta, submitted before that date, the decisions at issue infringe Article 13(4) of Regulation No 2309/93.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11311">
+          <num>24</num>
+          <content eId="para_11311__content">
+            <p>The Commission -- supported by Teva and by Hospira, which voluntarily intervened before the General Court in the proceedings relating to the generic copy of Aclasta that concerns them respectively -- justified that decision by submitting that, since the MA for Aclasta concerns only new therapeutic indications of the active substance of Zometa, the MA for Aclasta is included in the MA for Zometa, granted on 20 March 2001, which is a `global marketing authorisation', within the meaning of the second subparagraph of Article 6(1) of Directive 2001/83, with the result that Novartis did not enjoy an independent regulatory data protection period for Aclasta.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11312">
+          <num>25</num>
+          <content eId="para_11312__content">
+            <p>In paragraphs 44 to 46 of each of the judgments under appeal, the General Court examined the second subparagraph of Article 6(1) of Directive 2001/83 and inferred from it that `the [MA] for any additional dosage, pharmaceutical form, route of administration, presentation or any variation or extension of the original medicinal product is included in the global marketing authorisation for that product', with the result that `the grant of [an MA] for such developments does not give rise to an independent regulatory data protection period'. In that regard, referring to the judgments of 3 December 1998, Generics (UK) and Others ( C‑368/96, EU:C:1998:583); of 29 April 2004, Novartis Pharmaceuticals ( C‑106/01, EU:C:2004:245); and of 9 December 2004, Approved Prescription Services ( C‑36/03, EU:C:2004:781), the General Court emphasised, in paragraph 45 of the judgments under appeal, that new therapeutic indications, new doses, administration routes and new pharmaceutical forms of an original medicinal product fall within the scope of the concept of a `global marketing authorisation' and, accordingly, do not enjoy an independent regulatory data protection period.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11313">
+          <num>26</num>
+          <content eId="para_11313__content">
+            <p>In paragraph 47 of each of the judgments under appeal, the General Court noted that Aclasta has the same active substance as Zometa but has new non-oncology therapeutic indications and a different strength, appropriate for those non-oncology indications. It considered that those new therapeutic indications constituted major variations of type II, within the meaning of Regulation No 1085/2003, and that the modification of the strength or the addition of a new strength constituted an extension of the MA, by reference to Paragraph 2(iii) of Annex II to that regulation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11314">
+          <num>27</num>
+          <content eId="para_11314__content">
+            <p>Continuing, in paragraph 52 of each of the judgments under appeal, its analysis of the second subparagraph of Article 6(1) of Directive 2001/83, the General Court found that the wording of that provision makes no distinction between the development of the original medicinal product authorised through an amendment of the initial MA and the development of an original medicinal product authorised through the grant of a separate MA under a different name, as in the present case. Accordingly, the concept of a `global marketing authorisation' within the meaning of that provision should be given a functional interpretation and may encompass, formally, a number of separate MAs. Thus, it is irrelevant whether an additional strength, pharmaceutical form, administration route or presentation of an original medicinal product or a variation or extension gave rise to an amendment of the initial MA or a separate MA under a different name. In both cases, it is necessary to take into account a single global MA as regards the data protection period.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11315">
+          <num>28</num>
+          <content eId="para_11315__content">
+            <p>Accordingly, in paragraph 53 of each of the judgments under appeal, the General Court rejected the interpretation of the concept of a `global marketing authorisation', within the meaning of the second subparagraph of Article 6(1) of Directive 2001/83, proposed by Novartis, according to which a global marketing authorisation encompasses only the developments giving rise to a variation or an extension of the MA for the original medicinal product as referred to in Regulation No 1085/2003, and not those giving rise to the grant of a separate MA for a medicinal product bearing a different name.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11316">
+          <num>29</num>
+          <content eId="para_11316__content">
+            <p>In addition, in paragraphs 54 to 60 of each of the judgments under appeal, the General Court noted that the EU legislation on medicinal products applicable when the MA application was made for Aclasta did not govern the issue whether a development of that medicinal product must be authorised by a variation of the terms of the initial MA or whether it could be authorised by the grant of a separate MA. It was only after the entry into force of Regulation No 726/2004 that a restriction on the grant of several MAs was introduced. Accordingly, when it filed its MA application for Aclasta, Novartis had the choice of either submitting an application for the variation of the terms and extension of the MA for Zometa, or submitting a separate MA for a medicinal product bearing a different name, which it did for commercial reasons, as is clear from the contents of its letter of 26 February 2001 to the EMA, and from the Public Assessment Report on Aclasta. According to the General Court, the market strategy of an undertaking cannot affect the data protection period for a given active substance. It referred, in that respect, to point 57 in the Opinion of Advocate General Jacobs in Novartis Pharmaceuticals ( C‑106/01, EU:C:2003:49, paragraph 57), according to which, to exclude the application of the case-law established in the judgment of 3 December 1998, Generics (UK) and Others ( C‑368/96, EU:C:1998:583), whenever a subsequently authorised variant of a reference product had been given a new designation would elevate form over substance, and would create an easy route for applicants to gain additional data protection in circumvention of that case-law. According to the General Court, if an independent data protection period automatically started to run as a result of the authorisation of a variation consisting in the improvement of a reference medicinal product by the grant of a separate MA, the holder of the MA of a reference medicinal product would be able to extend the date protection period in relation to that medicinal product indefinitely.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11317">
+          <num>30</num>
+          <content eId="para_11317__content">
+            <p>In paragraphs 62 to 66 of each of the judgments under appeal, the General Court considered that such a possibility would be contrary to the objectives pursued in that respect by the EU legislature, as indicated in recitals 9 and 10 of Directive 2001/83, namely to reconcile, on the one hand, the provision of adequate protection for the research and development work undertaken by innovative pharmaceutical companies and, on the other, the wish to avoid excessive testing on humans and animals. It would also be at odds with the concept of a `global marketing authorisation', within the meaning of the second subparagraph of Article 6(1) of Directive 2001/83, the objective of which is to save the time and expense needed to gather the results of the preclinical and clinical trials, and to avoid the repetition of tests on humans or animals. Moreover, it is ineffective to invoke the necessity of protecting the investments that may be required in order to improve or develop the original medicinal product, since the EU legislature expressly dealt with that question in the fourth subparagraph of Article 10(1) of Directive 2001/83 and Article 14(11) of Regulation No 726/2004, by providing for an additional year of protection in the event that an authorisation is granted for a significant innovation during the first 8-year period after the grant of the initial MA. The General Court notes, in passing, that that additional protection would be pointless if, by obtaining a separate MA for new therapeutic indications and a new strength, applicants were able to obtain automatically a new regulatory 10-year data protection period with effect from the date on which that separate MA was granted.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11318">
+          <num>31</num>
+          <content eId="para_11318__content">
+            <p>By the judgments under appeal, the General Court dismissed Novartis' actions in their entirety and ordered it to pay the costs.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Procedure before the Court and forms of order sought</p>
+        </tblock>
+        <paragraph eId="para_11319">
+          <num>32</num>
+          <content eId="para_11319__content">
+            <p>By order of the President of the Court of 4 October 2016, Cases C‑629/15 P and C‑630/15 P were joined pursuant to Article 54 of the Rules of Procedure of the Court of Justice for the purposes of the oral procedure and of the judgment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11320">
+          <num>33</num>
+          <content eId="para_11320__content">
+            <p>In each of those two cases, Novartis claims that the Court should:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>set aside the judgment under appeal;</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>remit the case to the General Court, and</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>order the Commission to pay the costs.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11321">
+          <num>34</num>
+          <content eId="para_11321__content">
+            <p>In each of those two cases, the Commission contends that the Court should:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>dismiss the appeal; and</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>order Novartis to pay the costs.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11322">
+          <num>35</num>
+          <content eId="para_11322__content">
+            <p>In Case C‑629/15 P, Teva contends that the Court should:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>dismiss the appeal; and</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>order Novartis to pay the costs.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11323">
+          <num>36</num>
+          <content eId="para_11323__content">
+            <p>In Case C‑630/15 P, Hospira contends that the Court should:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>dismiss the appeal; and</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>order Novartis to pay the costs.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Concerning the appeals</p>
+        </tblock>
+        <paragraph eId="para_11324">
+          <num>37</num>
+          <content eId="para_11324__content">
+            <p>In support of its two appeals, Novartis relies, in essence, on two identical grounds of appeal, alleging, first, misapplication of the concept of a `global marketing authorisation', within the meaning of the second subparagraph of Article 6(1) of Directive 2001/83 and, secondly, an inadequate statement of reasons in support of the interpretation of that provision.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The first plea in law</p>
+        </tblock>
+        <tblock>
+          <p>Arguments of the parties</p>
+        </tblock>
+        <paragraph eId="para_11325">
+          <num>38</num>
+          <content eId="para_11325__content">
+            <p>Novartis submits that the judgments under appeal misapply the concept of a `global marketing authorisation', within the meaning of Directive 2001/83, since they held that every authorisation granted in the context of the development, in the form of a new therapeutic indication or a new strength of an existing medicinal product, is, in all events, part of the `global marketing authorisation' for that medicinal product. According to Novartis, that provision must be interpreted as meaning that the MA relating to the development of that medicinal product may be regarded as forming part of a `global marketing authorisation' only where it was granted following an application expressly seeking the amendment of the initial MA, and not where that development was the subject of a separate MA, granted in the context of a centralised procedure, for a medicinal product bearing a new name.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11326">
+          <num>39</num>
+          <content eId="para_11326__content">
+            <p>By the first part of its first plea in law, Novartis therefore argues that the General Court adopted a broad interpretation of the concept of a `global marking authorisation', within the meaning of the second subparagraph of Article 6(1) of Directive 2001/83, by relying, erroneously, in paragraph 45 of the judgments under appeal, on the case-law of the Court, in particular on the judgments of 3 December 1998, Generics (UK) and Others ( C‑368/96, EU:C:1998:583); of 29 April 2004, Novartis Pharmaceuticals ( C‑106/01, EU:C:2004:245); and of 9 December 2004, Approved Prescription Services ( C‑36/03, EU:C:2004:781). According to Novartis, there are several reasons why such an interpretation does not follow from that case-law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11327">
+          <num>40</num>
+          <content eId="para_11327__content">
+            <p>In the first place, that case-law relates to the EU legislation previously in force. That legislation can be distinguished from that applicable to the present cases in two respects. First, it dealt with the issue of data protection solely by reference to a single criterion, namely whether the two medicinal products were `essentially similar'. Secondly, the EU legislation previously in force did not restrict the possibility for the applicant to request, in respect of the development of a medicinal product already authorised, a new MA for that development, under a new name.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11328">
+          <num>41</num>
+          <content eId="para_11328__content">
+            <p>In the second place, the EU legislature, when it introduced, by Directive 2004/27/EC of the European Parliament and of the Council of 31 March 2004 amending Directive 2001/83/EC ( OJ 2004 L 136, p.34), the concept of a `global marketing authorisation' in Article 6 of Directive 2001/83, could not have taken account, ratione temporis, of the judgments of 29 April 2004, Novartis Pharmaceuticals ( C‑106/01, EU:C:2004:245), and of 9 December 2004, Approved Prescription Services ( C‑36/03, EU:C:2004:781).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11329">
+          <num>42</num>
+          <content eId="para_11329__content">
+            <p>In the third place, as regards the judgment of 3 December 1998, Generics (UK) and Others ( C‑368/96, EU:C:1998:583), in which the Court decided that the development of a medicinal product consisting in a new therapeutic indication does not enjoy automatic data protection, that interpretation was not confirmed by the EU legislature, since the second subparagraph of Article 6(1) of Directive 2001/83 does not mention new therapeutic indications among the changes which fall, in all cases, within the scope of the `global marketing authorisation'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11330">
+          <num>43</num>
+          <content eId="para_11330__content">
+            <p>By the second part of its first ground of appeal, Novartis criticises the General Court for considering, inter alia in paragraphs 47 and 56 of the judgments under appeal, that, since Aclasta and Zometa contain the same active substance, Aclasta could have been authorised as a variation (of type II) of Zometa, which would have had the effect of including Aclasta in the global MA for Zometa. Thus, the concept of a `global marketing authorisation', within the meaning of the second subparagraph of Article 6(1) of Directive 2001/83, would encompass any development which could be authorised as a variation or extension of the MA for the original medicinal product, irrespective of whether such a development has in fact given rise to the grant of a new MA as a new medicinal product with a new name.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11331">
+          <num>44</num>
+          <content eId="para_11331__content">
+            <p>According to the applicant, that interpretation is contrary to the wording of that provision. That provision refers, as authorisations that must be included in the `global marketing authorisation', only to those which were actually granted for a change of strength, pharmaceutical form, route of administration or presentation of a medicinal product covered by an initial MA, as well as any variation or extension, and not, in a much broader manner, to authorisations which could have been included in that global authorisation, on the basis of that provision. Such a broad interpretation of the second subparagraph of Article 6(1) of Directive 2001/83 is also not in accordance with the EU legislature's intention, since, although it indicates, in general, that an authorisation in relation to `any variations and extensions' of a medicinal product covered by an initial MA belongs to the same global marketing authorisation as that initial MA, that provision specifies that this also applies as regards an authorisation in relation to any `additional strengths, pharmaceutical forms, administration routes [and] presentations' of such a medicinal product. According to Novartis, if the EU legislature had intended to provide that, in general, all changes that `could have' been authorised as variations or extensions of a medicinal product covered by the initial MA should be regarded as forming part of the global marketing authorisation, it would not have also referred to those specific changes, since they would have been covered by `any variations and extensions'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11332">
+          <num>45</num>
+          <content eId="para_11332__content">
+            <p>In addition, legal certainty would be undermined if the actual method of authorisation through the variation or extension of the initial MA or as a new MA under a new name was not decisive in determining what is covered by the concept of a `global marketing authorisation'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11333">
+          <num>46</num>
+          <content eId="para_11333__content">
+            <p>Lastly, Novartis submits that the General Court did not discuss whether its interpretation of the concept of a `global marketing authorisation' offers a fair reward for the new and innovative research of pharmaceutical companies.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11334">
+          <num>47</num>
+          <content eId="para_11334__content">
+            <p>By the third part of its first ground of appeal, Novartis submits that the General Court wrongly considered, in paragraphs 54 et seq. of the judgments under appeal, that Novartis had the choice of either submitting an application for a variation of the MA for Zometa covering the new therapeutic indications and an extension for new strengths of that medicinal product, or submitting an application for a new MA with a new trade name.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11335">
+          <num>48</num>
+          <content eId="para_11335__content">
+            <p>Novartis argues that, in accordance with Regulation No 1085/2003, an application for a new therapeutic indication for the active substance in Zometa would by default have been processed as a variation of the Zometa MA and, even if that application had resulted in the grant of an MA for that medicinal product as an extension of the initial MA, the name of the medicinal product would have had to remain the same, that is to say, not Aclasta, but Zometa, in accordance with the third paragraph of Annex II of that regulation. In the present case, in order to obtain a new MA under a new name, Novartis had to submit a full new application dossier for evaluation under the centralised procedure, on the basis of the criteria established by the legislation in force. According to Novartis, that was the case only because the development represented by Aclasta is a significant therapeutic, scientific or technical innovation. The centralised procedure, whether governed by Regulation No 2309/93 or Regulation No 726/2004, applicable to the present cases, allows the grant of a separate MA as a new medicinal product, with a new name, for certain innovations which could theoretically be authorised as a variation to or an extension of an existing MA. The General Court's assertion that EU legislation does not determine the issue of when the development of a medicinal product must by authorised through the variation of the existing MA or through a separate MA is therefore incorrect or, in any event, not understandable without further explanation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11336">
+          <num>49</num>
+          <content eId="para_11336__content">
+            <p>By the fourth part of its first ground of appeal, Novartis submits that the General Court erroneously justified, in paragraphs 60 and 61 of the judgments under appeal, its interpretation of the concept of a `global marketing authorisation', within the meaning of the second subparagraph of Article 6(1) of Directive 2001/83, by holding that, if a separate MA granted for the development of a medicinal product was not regarded as forming part, with the initial MA for that medicinal product, of a `global marketing authorisation', the data protection period for the same medicinal product could be extended indefinitely, contrary to the objectives of that legislation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11337">
+          <num>50</num>
+          <content eId="para_11337__content">
+            <p>The possibility of obtaining a separate MA for a medicinal product with a new trade name, where it is actually a development of a previously authorised medicinal product, is subject to strict rules and is limited to exceptional cases in which the specific criteria of the centralised procedure are met. In addition, in this case, since it concerns a separate MA granted for a new medicinal product with a new registration in the Community Register for Medicinal Products, there will be an independent data protection period, which will therefore have no effect on the data protection as regards any other medicinal product, in this case as regards Zometa for the therapeutic indications of that medicinal product.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11338">
+          <num>51</num>
+          <content eId="para_11338__content">
+            <p>The Commission, Teva and Hospira contend that the first ground of appeal should be rejected.</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>Findings of the Court</p>
+        </tblock>
+        <paragraph eId="para_11339">
+          <num>52</num>
+          <content eId="para_11339__content">
+            <p>The first part of the first ground of appeal is based on the complaint that the General Court wrongly adopted a broad interpretation of the concept of a `global marketing authorisation', within the meaning of second subparagraph of Article 6(1) of Directive 2001/83, on the basis of case-law of the Court which is irrelevant in the present case.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11340">
+          <num>53</num>
+          <content eId="para_11340__content">
+            <p>In that regard, it must be noted that the General Court indeed referred, in paragraphs 45 and 64 of the judgments under appeal, to the case-law of the Court in relation to the legislation previously in force as regards the data protection of medicinal products. However, in its interpretation of the concept of a `global marketing authorisation' within the meaning of the second subparagraph of Article 6(1) of Directive 2001/83, the General Court relied, as can be seen from paragraphs 52 to 67 of the judgments under appeal, on its own analysis of the texts, of the context and of the system in relation to data protection in that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11341">
+          <num>54</num>
+          <content eId="para_11341__content">
+            <p>As regards the relevance of the Court's case-law on which the General Court relied in the judgments under appeal, it must be borne in mind that the Court defined, in paragraph 36 of the judgment of 3 December 1998, Generics (UK) and Others ( C‑368/96, EU:C:1998:583), the concept of `essentially similar' medicinal products in the context of Directive 65/65. The Court held, in paragraph 42 of that judgment, that having the same therapeutic indications is not one of the criteria which must be satisfied in order that two medicinal products may be regarded as essentially similar. That definition led the Court to conclude, in paragraph 43 of that judgment, that an applicant in the abridged procedure may use not only the data provided for the initial medicinal product but also more recent data related to subsequently developed therapeutic indications of that initial product. It follows from that case-law that data submitted in respect of new therapeutic indications do not trigger an independent data protection period.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11342">
+          <num>55</num>
+          <content eId="para_11342__content">
+            <p>In that respect, it must be noted that the regulatory context concerning the data protection of reference medicinal products has not changed fundamentally by comparison to that in which the judgment of 3 December 1998, Generics (UK) and Others ( C‑368/96, EU:C:1998:583), was delivered. The concept of an `essentially similar medicinal product', which governed the issue of the use of data in an MA application for a generic medicinal product in the context of Directive 65/65, now corresponds to the concepts of `generic medicinal product' and `reference medicinal product'. The definition of a `generic medicinal product' in Article 10(2)(b) of Directive 2001/83 includes the three criteria of the concept of an `essentially similar medicinal product' that the Court had set out in paragraph 36 of that judgment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11343">
+          <num>56</num>
+          <content eId="para_11343__content">
+            <p>In addition, in accordance with Article 6 of Regulation No 1085/2003, which is applicable in the context of the present cases, the addition of new therapeutic indications is considered to be a major variation of type II, which includes that development in the initial MA and therefore does not open an independent data protection period. It follows that, as regards the data protection period for the new therapeutic indications, the legislature did not depart from the interpretation adopted by the Court in the judgment of 3 December 1998, Generics (UK) and Others ( C‑368/96, EU:C:1998:583) was delivered.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11344">
+          <num>57</num>
+          <content eId="para_11344__content">
+            <p>As regards the relevance of the judgments of 29 April 2004, Novartis Pharmaceuticals ( C‑106/01, EU:C:2004:245), and of 9 December 2004, Approved Prescription Services ( C‑36/03, EU:C:2004:781), it should be noted that the outcome in those judgments, namely that the new strength, the new administration route and the new pharmaceutical form do not enjoy an independent data protection period, is now included in the second subparagraph of Article 6(1) of Directive 2001/83.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11345">
+          <num>58</num>
+          <content eId="para_11345__content">
+            <p>It follows from the foregoing that, as the Advocate General pointed out in paragraph 79 of his Opinion, there is a continuity with the previous legal regime concerning the data protection of reference medicinal products, as also developed by the Court's case-law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11346">
+          <num>59</num>
+          <content eId="para_11346__content">
+            <p>Consequently, the General Court did not err in law by referring, in interpreting the concept of a `global marketing authorisation', within the meaning of the second subparagraph of Article 6(1) of Directive 2001/83, to the judgments of the Court of Justice mentioned in paragraphs 54 to 57 of the present judgment, even though they relate to legislation which was no longer applicable to the present cases.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11347">
+          <num>60</num>
+          <content eId="para_11347__content">
+            <p>Accordingly, the first part of the first ground of appeal must be rejected as unfounded.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11348">
+          <num>61</num>
+          <content eId="para_11348__content">
+            <p>By the second and third parts of the first ground of appeal, which should be examined together, Novartis criticises, respectively, the fact that the General Court considered that the development of a medicinal product, which could have been authorised through a variation or an extension of the MA for that medicinal product, formed part of the same `global marketing authorisation', irrespective of the fact that that development was the subject of a separate MA, and the General Court's view that Novartis could have chosen between a variation of the MA for the original medicinal product and a separate MA application.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11349">
+          <num>62</num>
+          <content eId="para_11349__content">
+            <p>In that respect, under the first subparagraph of Article 6(1) of Directive 2001/83, no medicinal product may be placed on the market of a Member State unless an MA has been issued by the competent authorities of that Member State, in accordance with that directive, or an MA has been granted in accordance with Regulation No 2309/93, which was applicable at the time the MA for Aclasta was granted.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11350">
+          <num>63</num>
+          <content eId="para_11350__content">
+            <p>The concept of a `global marketing authorisation' is mentioned in the second subparagraph of Article 6(1) of Directive 2001/83, which provides that, `[w]hen a medicinal product has been granted an initial [MA] in accordance with the first subparagraph [of Article 6(1)], any additional strengths, pharmaceutical forms, administration routes, presentations, as well as any variations and extensions shall also be granted an authorisation in accordance with the first subparagraph [of Article 6(1)] or be included in the initial [MA]. All these [MAs] shall be considered as belonging to the same global marketing authorisation, in particular for the purpose of the application of Article 10(1) [of that directive].'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11351">
+          <num>64</num>
+          <content eId="para_11351__content">
+            <p>As the Advocate General points out in paragraph 59 of his Opinion, the second subparagraph of Article 6(1) of Directive 2001/83 refers to Article 10(1) of that directive and therefore expressly connects the concept of a `global marketing authorisation' with the regulatory data protection period in Article 10(1), irrespective of the fact that that concept covers various developments of the initial medicinal product, in relation to which separate data have to be supplied at different points over the course of time.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11352">
+          <num>65</num>
+          <content eId="para_11352__content">
+            <p>It follows that the `global marketing authorisation' is accompanied only by a single regulatory data protection period which applies both to data relating to the original medicinal product and to data presented for its developments, such as additional strengths, pharmaceutical forms, administration routes, presentations, as well as variations and extensions. That period begins with the grant of the MA for the original medicinal product.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11353">
+          <num>66</num>
+          <content eId="para_11353__content">
+            <p>It must be noted that the terms `any variations and extensions' in the second subparagraph of Article 6(1) of Directive 2001/83 actually refer to a `variation to the terms of [an MA]' or an `extension of [an MA]', within the meaning of Regulation No 1085/2003, applicable in the present cases. Those variations amount precisely to `includ[ing] in the initial [MA]' the developments concerned and must therefore be regarded as forming part of the `global marketing authorisation'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11354">
+          <num>67</num>
+          <content eId="para_11354__content">
+            <p>In that respect, it must be noted that Novartis does not criticise the General Court's finding that Aclasta differs from Zometa by new therapeutic indications and by a different strength appropriate for those new indications.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11355">
+          <num>68</num>
+          <content eId="para_11355__content">
+            <p>Moreover, as the General Court considered in paragraph 47 of the judgments under appeal, first, the change to a strength or the addition of a new strength is regarded as an extension under Paragraph 2(iii) of Annex II to Regulation No 1085/2003, and, secondly, the addition of new therapeutic indications is equivalent to a type II variation under Article 6 of that regulation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11356">
+          <num>69</num>
+          <content eId="para_11356__content">
+            <p>It follows that changes made by an MA proprietor to the strength and to the therapeutic indications of a medicinal product constitute `variations' within the meaning of Regulation No 1085/2003, that is to say developments of that medicinal product, referred to in the second subparagraph of Article 6(1) of Directive 2001/83, with the result that, as can be seen from paragraph 65 of the present judgment, the grant of the MA for such developments does not give rise to an independent regulatory data protection period.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11357">
+          <num>70</num>
+          <content eId="para_11357__content">
+            <p>It is true that Novartis sought an MA for Aclasta not as a variation of the medicinal product Zometa, under Regulation No 1085/2003, but as a new medicinal product with a new name, and as such enjoying a separate MA.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11358">
+          <num>71</num>
+          <content eId="para_11358__content">
+            <p>However, by providing that `any additional strengths, pharmaceutical forms, administration routes, presentations, as well as any variations and extensions shall also be granted an [MA] in accordance with the first subparagraph or be included in the initial [MA]', the second subparagraph of Article 6(1) of Directive 2001/83 makes no distinction, as the General Court rightly pointed out in paragraph 52 of the judgments under appeal, between the developments authorised through the granting of a separate MA and the developments of the initial medicinal product authorised through the variation of the terms of an initial MA.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11359">
+          <num>72</num>
+          <content eId="para_11359__content">
+            <p>It follows that that the concept of a `global marketing authorisation', within the meaning of the second subparagraph of Article 6(1) of Directive 2001/83, covers all subsequent developments of the original medicinal product, irrespective of their authorisation procedures, namely through the variation of the initial MA for that medicinal product or through the grant of a separate MA.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11360">
+          <num>73</num>
+          <content eId="para_11360__content">
+            <p>In that context, the issue whether Novartis did or did not have the possibility of freely choosing between those two MA procedures for Aclasta is not decisive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11361">
+          <num>74</num>
+          <content eId="para_11361__content">
+            <p>Accordingly, the General Court was entitled to hold, in paragraph 87 of the judgments under appeal, that the development which Aclasta constitutes as regards Zometa is the type of situation referred to in the second subparagraph of Article 6(1) of Directive 2001/83, as amended, since Aclasta constitutes an additional strength and a variation, consisting in new therapeutic indications, by comparison with Zometa, and must therefore be included in the `global marketing authorisation' for Zometa for the purposes of the regulatory data protection period.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11362">
+          <num>75</num>
+          <content eId="para_11362__content">
+            <p>As regards Novartis' line of argument that it is necessary to reward innovative research into new indications of a medicinal product already present on the market, it must be pointed out that the Court has already held, in paragraph 52 of the judgment of 3 December 1998, Generics (UK) and Others ( C‑368/96, EU:C:1998:583), that, under EU law as it applied at that time, no specific protection existed and it was, where appropriate, for the EU legislature to adopt measures to reinforce the protection scheme in the event of the development of new therapeutic indications in relation to medicinal products which were already the subject of an MA.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11363">
+          <num>76</num>
+          <content eId="para_11363__content">
+            <p>As the Advocate General pointed out in paragraph 69 of his Opinion, the fourth subparagraph of Article 10(1) of Directive 2001/83 constitutes the EU legislature's response to those considerations of the Court.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11364">
+          <num>77</num>
+          <content eId="para_11364__content">
+            <p>That provision now provides that the 10-year period of market exclusivity enjoyed by a reference medicinal product is to be increased by a year `if, during the first eight years of those 10 years, the [MA] holder obtains an authorisation for one or more new therapeutic indications which, during the scientific evaluation prior to their authorisation, are held to bring a significant clinical benefit in comparison with existing therapies.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11365">
+          <num>78</num>
+          <content eId="para_11365__content">
+            <p>That new provision is motivated -- as the Advocate General pointed out, in essence, in paragraphs 65 and 66 of his Opinion, when setting out the reasons for the proposal that led to the adoption of Directive 2004/27, which inserted that Article 10 into Directive 2001/83 -- by the desire `to promote research on new therapeutic indications with a significant clinical benefit and bringing an improvement to the quality of life and welfare of the patient' while ensuring `an appropriate balance between such innovations and the need to favour the production of generic medicines'. That additional year of market exclusivity therefore constitutes, in the view of the EU legislature, the appropriate advantage to reward the investments in new therapeutic indications.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11366">
+          <num>79</num>
+          <content eId="para_11366__content">
+            <p>Accordingly, the second and third parts of the first ground of appeal are unfounded.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11367">
+          <num>80</num>
+          <content eId="para_11367__content">
+            <p>By the fourth part of the first ground of appeal, Novartis submits that the General Court erred in considering, in paragraphs 60 and 61 of the judgments under appeal, that the approach proposed by Novartis would allow the data protection period for the original medicinal product to be extended indefinitely.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11368">
+          <num>81</num>
+          <content eId="para_11368__content">
+            <p>In that respect, it must be pointed out that the assessment of the factual consequences that would result from the application of the second subparagraph of Article 6(1) of Directive 2001/83 if that provision were to be interpreted in accordance with the approach proposed by Novartis is not relevant for the purpose of determining whether the General Court's interpretation in the judgments under appeal is vitiated by an error of law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11369">
+          <num>82</num>
+          <content eId="para_11369__content">
+            <p>Accordingly, the fourth part of the first ground of appeal must be rejected as ineffective.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11370">
+          <num>83</num>
+          <content eId="para_11370__content">
+            <p>It follows from all the foregoing considerations that the first ground of appeal must be rejected as unfounded in part and as ineffective in part.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The second ground of appeal</p>
+        </tblock>
+        <tblock>
+          <p>Arguments of the parties</p>
+        </tblock>
+        <paragraph eId="para_11371">
+          <num>84</num>
+          <content eId="para_11371__content">
+            <p>By its second ground of appeal, Novartis submits that the General Court did not provide an `adequate statement of reasons' in support of its interpretation of the second subparagraph of Article 6(1) of Directive 2001/83. The General Court did not provide a specific explanation concerning the exact definition and the scope of the concept of a `global marketing authorisation'. It merely explained why the arguments in support of the interpretation proposed by Novartis were not correct. That statement of reasons is not sufficient since it does not dispel the doubts concerning the scope of the `global marketing authorisation'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11372">
+          <num>85</num>
+          <content eId="para_11372__content">
+            <p>The Commission and Teva contend that the second ground of appeal should be rejected.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Findings of the Court</p>
+        </tblock>
+        <paragraph eId="para_11373">
+          <num>86</num>
+          <content eId="para_11373__content">
+            <p>It must be borne in mind that, according to settled case-law of the Court, the duty incumbent upon the General Court under Article 36 and the first paragraph of Article 53 of the Statute of the Court of Justice of the European Union to state reasons for its judgments does not require the General Court to provide an account that follows exhaustively and one by one all the arguments articulated by the parties to the case. The reasoning may therefore be implicit, on condition that it enables the persons concerned to understand the grounds of the General Court's judgment and provides the Court of Justice with sufficient information to exercise its powers of review on appeal (judgment of 8 March 2016, Greece v Commission, C‑431/14 P, EU:C:2016:145, paragraph 38).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11374">
+          <num>87</num>
+          <content eId="para_11374__content">
+            <p>Novartis criticises the General Court, not for failing to respond to its arguments, but for limiting itself to responding to those arguments, such that it therefore did not interpret the concept of a `global marketing authorisation', within the meaning of the second subparagraph of Article 6(1) of Directive 2001/83, in a sufficiently exhaustive manner, capable of dispelling the doubts concerning the scope of that concept.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11375">
+          <num>88</num>
+          <content eId="para_11375__content">
+            <p>In that respect, it must be noted that the reasons stated by the General Court, inter alia in paragraphs 52 to 67 of the judgments under appeal, enabled the persons concerned to understand the ground on which the General Court relied in rejecting their arguments and provided the Court of Justice with sufficient information to exercise its powers of review in the present appeals.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11376">
+          <num>89</num>
+          <content eId="para_11376__content">
+            <p>Accordingly, the second ground of appeal must be rejected as manifestly unfounded.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11377">
+          <num>90</num>
+          <content eId="para_11377__content">
+            <p>The appeal must therefore be dismissed in its entirety.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_11378">
+          <num>91</num>
+          <content eId="para_11378__content">
+            <p>In accordance with Article 184(2) of the Rules of Procedure of the Court of Justice, where the appeal is unfounded, the Court is to make a decision as to costs.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11379">
+          <num>92</num>
+          <content eId="para_11379__content">
+            <p>Under Article 138(1) of those rules, which applies to the procedure on appeal by virtue of Article 184(1) thereof, the unsuccessful party is to be ordered to pay the costs if they have been applied for in the successful party's pleadings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11380">
+          <num>93</num>
+          <content eId="para_11380__content">
+            <p>Since the Commission, Teva and Hospira have applied for costs and Novartis has been unsuccessful, the latter must be ordered to pay the costs. On those grounds, the Court (Eighth Chamber) hereby: 1. Dismisses the appeals in Cases C‑629/15 P and C‑630/15 P; 2. Orders Novartis Europharm Ltd to bear its own costs and to pay those incurred by the European Commission, by Teva Pharma BV and by Hospira UK Ltd in Cases C‑629/15 P and C‑630/15 P.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>Malenovský Safjan Šváby Delivered in open court in Luxembourg on 28 June 2017. A. Calot Escobar Registrar M. Vilaras President of the Eighth Chamber(</p>
+      <p>1</p>
+      <p>)Language of the case: English.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+      <references source="#source">
+        <TLCOrganization eId="institution_37" showAs="" href="/akn/ontology/Organization/Institution/institution_37" />
+      </references>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (First Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>27 April 2017 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>`Reference for a preliminary ruling -- Directive 2002/46/EC -- Approximation of the laws of the Member States relating to food supplements -- Vitamins and minerals which may be used in the manufacture of food supplements -- Maximum amounts -- Competence of the Member States -- National legislation setting those amounts -- Mutual recognition -- Absence -- Conditions to be respected and factors to be taken into consideration when setting those amounts' In Case C‑672/15, REQUEST for a preliminary ruling under Article 267 TFEU from the tribunal de grande instance de Perpignan (France), made by decision of 5 August 2015, received at the Court on 14 December 2015, in the criminal proceedings against Noria Distribution SARL, intervening parties:</p>
+      <p>
+        <party as="intervening" refersTo="#">Procureur de la République</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="intervening" refersTo="#institution_37">Union fédérale des consommateurs des P.O (Que choisir)</party>
+      </p>
+      <p>, THE COURT (First Chamber), composed of R. Silva de Lapuerta (Rapporteur), President of the Chamber, E. Regan, J.-C. Bonichot, C.G. Fernlund and S. Rodin, Judges, Advocate General: M. Bobek, Registrar: A. Calot Escobar, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>Noria Distribution SARL, by F. Meunier, avocat,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the French Government, by D. Colas and J. Traband, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by M. G. Braga da Cruz and by K. Herbout-Borczak and S. Lejeune, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Autorité de surveillance AELE, by Ø. Bø, L. Biørnstad and C. Zatschler, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 15 December 2016,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_6266">
+          <num>1</num>
+          <content eId="para_6266__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Directive 2002/46/EC of the European Parliament and of the Council of 10 June 2002 on the approximation of the laws of the Member States relating to food supplements ( OJ 2002 L 183, p. 51), and the provisions of the TFEU relating to the free movement of goods.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6267">
+          <num>2</num>
+          <content eId="para_6267__content">
+            <p>The request has been made in criminal proceedings against Noria Distribution SARL for having held, displayed, put on sale or sold food supplements not authorised in France, which it knew to be adulterated, contaminated or toxic, and for having deceived or attempted to deceive the parties with whom it entered into contracts in respect of the risks inherent in the use of those food supplements and the substantive qualities thereof.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <paragraph eId="para_6268">
+          <num>3</num>
+          <content eId="para_6268__content">
+            <p>Article 2 of Directive 2002/46 is worded as follows: `For the purposes of this Directive:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>``food supplements '' means foodstuffs the purpose of which is to supplement the normal diet and which are concentrated sources of nutrients or other substances with a nutritional or physiological effect, alone or in combination, marketed in dose form, namely forms such as capsules, pastilles, tablets, pills and other similar forms, sachets of powder, ampoules of liquids, drop dispensing bottles, and other similar forms of liquids and powders designed to be taken in measured small unit quantities;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>``nutrients '' means the following substances:</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(i)</num>
+                <p>vitamins,</p>
+              </item>
+              <item>
+                <num>(ii)</num>
+                <p>minerals.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6269">
+          <num>4</num>
+          <content eId="para_6269__content">
+            <p>Article 3 of that directive provides: `Member States shall ensure that food supplements may be marketed within the Community only if they comply with the rules laid down in this Directive.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6270">
+          <num>5</num>
+          <content eId="para_6270__content">
+            <p>Article 5 of that directive provides: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Maximum amounts of vitamins and minerals present in food supplements per daily portion of consumption as recommended by the manufacturer shall be set, taking the following into account:</p>
+                <blockList>
+                  <item>
+                    <num>(a)</num>
+                    <p>upper safe levels of vitamins and minerals established by scientific risk assessment based on generally accepted scientific data, taking into account, as appropriate, the varying degrees of sensitivity of different consumer groups;</p>
+                  </item>
+                  <item>
+                    <num>(b)</num>
+                    <p>intake of vitamins and minerals from other dietary sources.</p>
+                  </item>
+                </blockList>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>When the maximum levels referred to in paragraph 1 are set, due account should also be taken of reference intakes of vitamins and minerals for the population.</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>To ensure that significant amounts of vitamins and minerals are present in food supplements, minimum amounts per daily portion of consumption as recommended by the manufacturer shall be set, as appropriate.</p>
+              </item>
+              <item>
+                <num>(4)</num>
+                <p>The maximum and minimum amounts of vitamins and minerals referred to in paragraphs 1, 2 and 3 shall be adopted in accordance with the procedure referred to in Article 13(2).'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6271">
+          <num>6</num>
+          <content eId="para_6271__content">
+            <p>Article 11 of Directive 2002/46 states: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Without prejudice to Article 4(7), Member States shall not, for reasons related to their composition, manufacturing specifications, presentation or labelling, prohibit or restrict trade in products referred to in Article 1 which comply with this Directive and, where appropriate, with Community acts adopted in implementation of this Directive.</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>Without prejudice to the Treaty, in particular Articles 28 and 30 thereof, paragraph 1 shall not affect national provisions which are applicable in the absence of Community acts adopted under this Directive.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6272">
+          <num>7</num>
+          <content eId="para_6272__content">
+            <p>Annexes I and II to Directive 2002/46 list respectively `[v]itamins and minerals which may be used in the manufacture of food supplements' and `[v]itamin and mineral substances which may be used in the manufacture of food supplements'.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>French law</p>
+        </tblock>
+        <paragraph eId="para_6273">
+          <num>8</num>
+          <content eId="para_6273__content">
+            <p>Under Article 5 of Decree No 2006-352 of 20 March 2006 on food supplements (JORF of 25 March 2006, p. 4543), which seeks to transpose Directive 2002/46 into French law, vitamins and minerals can be used in the manufacture of food supplements only under conditions to be laid down by order of the ministers responsible for consumer affairs, agriculture and health.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6274">
+          <num>9</num>
+          <content eId="para_6274__content">
+            <p>Article 16 of that decree provides for a procedure governing the first placing on the French market of food supplements containing substances with a nutritional or physiological effect, plants or preparations of plants, not included in Articles 6 and 7 of that decree, but which have been legally marketed in another Member State of the European Union or in a State which is a party to the Agreement on the European Economic Area of 2 May 1992 ( OJ 1994 L 1, p. 3).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6275">
+          <num>10</num>
+          <content eId="para_6275__content">
+            <p>Adopted in accordance with Article 5 of Decree No 2006-352 of 20 March 2006, the inter-ministerial order dated 9 May 2006 relating to nutrients which may be used in the manufacture of food supplements (JORF of 28 May 2006, p. 7977) ( `the decree of 9 May 2006'), sets, inter alia, a list of vitamins and minerals that can be used in the manufacture of food supplements and the maximum daily doses which must not be exceeded in the context of that use.</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_6276">
+          <num>11</num>
+          <content eId="para_6276__content">
+            <p>Noria Distribution is a French company which markets food supplements in the European Union.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6277">
+          <num>12</num>
+          <content eId="para_6277__content">
+            <p>Criminal proceedings were brought against that company for having, from 1 September 2007 to 1 October 2008, held, displayed, put on sale or sold food supplements not authorised in France, which it knew to be adulterated, contaminated or toxic, in so far as they are not in conformity with the regulation in force, and for having deceived or attempted to deceive the parties with whom it entered into contracts in respect of the risks inherent in the use of those food supplements and the substantive qualities thereof, in so far as they exceeded the maximum daily doses of vitamins and minerals which may be used for the manufacture of such food supplements, fixed by the order of 9 May 2006.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6278">
+          <num>13</num>
+          <content eId="para_6278__content">
+            <p>According to the order for reference, Noria Distribution does not substantially contest the acts it is accused of. However, it claims that the order of 9 May 2006, which served as the basis for the criminal proceedings against it, is not compatible with EU law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6279">
+          <num>14</num>
+          <content eId="para_6279__content">
+            <p>In those circumstances, the tribunal de grande instance de Perpignan (France) decided to stay the proceedings and refer the following questions to the Court for a preliminary ruling: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Do Directive 2002/46 ... and Community principles of free movement of goods and of mutual recognition preclude the laying down of national legislation such as the order of 9 May 2006 which refuses any mutual recognition procedure so far as concerns food supplements based on vitamins and minerals from another Member State by excluding the application of a simplified procedure in respect of products lawfully marketed in another Member State that are based on nutrients [whose values exceed the limits set] by the order of 9 May 2006?</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>Does Directive 2002/46, in particular in Article 5, as well as the principles resulting from Community case-law on the provisions relating to the free movement of goods, permit the maximum daily doses of vitamins and minerals to be set in proportion to the recommended daily allowances by adopting a value equal to three times the recommended daily allowances for nutrients presenting the least risk, a value equal to the recommended daily allowances for nutrients presenting a risk of the upper safe level being exceeded and a value below the recommended daily allowances or even zero for nutrients involving the most risk?</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>Does Directive 2002/46, as well as the principles resulting from Community case-law on the provisions relating to the free movement of goods, permit the doses to be set [in the light of] solely national scientific opinions even though recent international scientific opinions [conclude in favour of] higher doses in identical conditions of use?'</p>
+                <tblock>
+                  <p>Consideration of the questions referred</p>
+                </tblock>
+                <tblock>
+                  <p>The first question</p>
+                </tblock>
+                <p>15 By its first question, the referring court asks, in essence, whether the provisions of Directive 2002/46 and those of the TFEU relating to the free movement of goods must be interpreted as precluding legislation of a Member State, such as that at issue in the main proceedings, which does not provide for a procedure for the placing on the market of that Member State of food supplements whose content in nutrients exceeds the maximum daily doses set by that legislation and which are lawfully manufactured or marketed in another Member state.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6280">
+          <num>16</num>
+          <content eId="para_6280__content">
+            <p>First of all, it should be noted that, so long as, in accordance with Article 5(4) of Directive 2002/46, the Commission has not laid down the maximum amounts of nutrients which may be used in the manufacture of food supplements, the Member States remain competent to adopt legislation relating to those amounts, on the understanding that, in the exercise of that competence, those Member States are required to comply with Articles 34 and 36 TFEU and to be guided by the criteria laid down in Article 5(1) and (2) of Directive 2002/46, including the requirement for a risk assessment based on generally accepted scientific data (see, to that effect, judgment of 29 April 2010, Solgar Vitamin's France and Others, C‑446/08, EU:C:2010:233, paragraphs 24 and 32).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6281">
+          <num>17</num>
+          <content eId="para_6281__content">
+            <p>In that regard, it should be recalled that that the free movement of goods between Member States is a fundamental principle of the TFEU which finds its expression in the prohibition, set out in Article 34 TFEU, of quantitative restrictions on imports between Member States and all measures having equivalent effect (see judgments of 2 December 2004, Commission v Netherlands, C‑41/02, EU:C:2004:762, paragraph 38, and of 28 January 2010, Commission v France, C‑333/08, EU:C:2010:44, paragraph 73).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6282">
+          <num>18</num>
+          <content eId="para_6282__content">
+            <p>The prohibition on measures having an effect equivalent to restrictions set out in Article 34 TFEU covers all commercial rules enacted by the Member States which are capable of hindering, directly or indirectly, actually or potentially, intra-Union trade (see, inter alia, judgments of 11 July 1974, Dassonville, 8/74, EU:C:1974:82, paragraph 74; of 5 March 2009, Commission v Spain, C‑88/07, EU:C:2009:123, paragraph 82, and of 28 January 2010, Commission v France, C‑333/08, EU:C:2010:44, paragraph 74).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6283">
+          <num>19</num>
+          <content eId="para_6283__content">
+            <p>The legislation at issue in the main proceedings creates a barrier to trade within the European Union, since a food supplement whose nutrient content exceeds the maximum limits set by that legislation cannot be marketed in France, even if that food supplement is lawfully manufactured or marketed in another Member State.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6284">
+          <num>20</num>
+          <content eId="para_6284__content">
+            <p>That legislation therefore constitutes a measure having an effect equivalent to a quantitative restriction for the purposes of Article 34 TFEU.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6285">
+          <num>21</num>
+          <content eId="para_6285__content">
+            <p>According to the Court's case-law, rules of a Member State which prohibit the marketing, in that State, of foodstuffs whose content in nutrients exceeds the maximum amount set by those rules, such foodstuffs being lawfully manufactured and/or marketed in the another Member State, can be justified, as a measure having equivalent effect to a quantitative restriction within the meaning of Article 34 TFEU, in so far as they comply with the requirements of Article 36 TFEU, as interpreted by the Court (see, to that effect, judgment of 5 February 2004, Greenham and Abel, C‑95/01, EU:C:2004:71, paragraph 34).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6286">
+          <num>22</num>
+          <content eId="para_6286__content">
+            <p>First, such rules must make provision for a procedure enabling economic operators to obtain the authorisation to market food supplements including nutrients in doses exceeding those authorised. The procedure must be one which is readily accessible and can be completed within a reasonable time, and, if it leads to a refusal, the decision of refusal must be open to challenge before the courts (see, to that effect, judgments of 5 February 2004, Commission v France, C‑24/00, EU:C:2004:70, paragraph 26; of 5 February 2004, Greenham and Abel, C‑95/01, EU:C:2004:71, paragraph 35, and of 28 January 2010, Commission v France, C‑333/08, EU:C:2010:44, paragraph 81).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6287">
+          <num>23</num>
+          <content eId="para_6287__content">
+            <p>Secondly, an application to obtain the authorisation to market those supplements may be refused by the competent national authorities only if those supplements pose a genuine risk to public health (see, to that effect, judgments of 5 February 2004, Commission v France, C‑24/00, EU:C:2004:70, paragraph 27; of 5 February 2004, Greenham and Abel, C‑95/01, EU:C:2004:71, paragraph 36, and of 28 January 2010, Commission v France, C‑333/08, EU:C:2010:44, paragraph 82).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6288">
+          <num>24</num>
+          <content eId="para_6288__content">
+            <p>In this case, the first question posed by the referring court refers exclusively to compliance with the requirement set out in paragraph 22 of the present judgment and not with that referred to in the previous paragraph, the examination of which takes place in the context of the question whether a prohibition on marketing, such as that provided for by the legislation at issue in the main proceedings, is based on a comprehensive scientific assessment of the genuine risk for public health alleged by the Member State invoking Article 36 TFEU.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6289">
+          <num>25</num>
+          <content eId="para_6289__content">
+            <p>As regards the requirement set out in paragraph 22 of the present judgment, it should be noted that, although the legislation at issue in the main proceedings provides for a procedure relating to the placing on the French market of certain food supplements which are not authorised under that legislation, but which are lawfully manufactured or marketed in another Member State, it is not in dispute that that procedure is, however, not applicable to food supplements, such as those at issue in the main proceedings, whose content in nutrients exceeds the maximum doses set by that legislation and which are lawfully manufactured or marketed in another Member State.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6290">
+          <num>26</num>
+          <content eId="para_6290__content">
+            <p>One of the requirements for the justification, under Article 36 TFEU, of legislation such as that at issue in the main proceedings is the existence of a procedure satisfying the conditions set out in paragraph 22 of the present judgment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6291">
+          <num>27</num>
+          <content eId="para_6291__content">
+            <p>Consequently, in so far as the legislation at issue in the main proceedings prohibits the marketing of food supplements whose content in nutrients exceeds the upper limits set by that legislation without providing for any procedure for the placing on the market of that type of food supplement, and that even if they are lawfully manufactured or marketed in another Member State, that legislation does not comply with the requirement referred to in paragraph 22 of the present judgment and cannot, therefore, be justified under Article 36 TFEU.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6292">
+          <num>28</num>
+          <content eId="para_6292__content">
+            <p>In those circumstances, the answer to the first question is that the provisions of Directive 2002/46 and those of the TFEU relating to the free movement of goods must be interpreted as precluding legislation of a Member State, such as that at issue in the main proceedings, which does not provide for a procedure for the placing on the market of that Member State of food supplements whose content in nutrients exceeds the maximum daily doses set by that legislation and which are lawfully manufactured or marketed in another Member State.</p>
+            <tblock>
+              <p>The second question</p>
+            </tblock>
+            <p>29 By its second question, the referring court asks, in essence, whether the provisions of Directive 2002/46, in particular Article 5 thereof, and those of the TFEU relating to the free movement of goods must be interpreted as precluding the maximum amounts referred to in Article 5 of that directive being set in proportion to the recommended daily allowances by adopting a value equal to three times those allowances for nutrients presenting the least risk, a value equal to those allowances for nutrients presenting a risk of the upper safe level being exceeded and a value below those allowances or even zero for nutrients involving the most risk.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6293">
+          <num>30</num>
+          <content eId="para_6293__content">
+            <p>The referring court raises the possibility that those amounts could have been set `by reference to nutritional criteria as factors justifying measures that restrict the free movement of goods' and `without a safe level established scientifically by expert evaluation'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6294">
+          <num>31</num>
+          <content eId="para_6294__content">
+            <p>In that regard, it should be recalled that, as well as having to be carried out in compliance with Articles 34 and 36 TFEU, setting the maximum amounts of vitamins and minerals which may be used in the manufacture of food supplements must be based on the criteria in Article 5(1) and (2) of Directive 2002/46 (see judgment of 29 April 2010, Solgar Vitamin's France and Others, C‑446/08, EU:C:2010:233, paragraphs 32 and 63).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6295">
+          <num>32</num>
+          <content eId="para_6295__content">
+            <p>According to Article 5(1)(a) thereof, those amounts are set per daily portion of consumption as recommended by the manufacturer, taking into account the upper safe levels of vitamins and minerals established by scientific risk assessment based on generally accepted scientific data, taking into account, as appropriate, the varying degrees of sensitivity of different consumer groups (see judgment of 29 April 2010, Solgar Vitamin's France and Others, C‑446/08, EU:C:2010:233, paragraph 64).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6296">
+          <num>33</num>
+          <content eId="para_6296__content">
+            <p>It follows therefrom that setting the maximum amounts referred to in Article 5 of Directive 2002/46 must in particular be based on consideration of the upper safe limits established, for the vitamins and minerals concerned, following a scientific assessment of the risks to human health based on the relevant scientific data and not on purely hypothetical considerations (see judgment of 29 April 2010, Solgar Vitamin's France and Others, C‑446/08, EU:C:2010:233, paragraph 65).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6297">
+          <num>34</num>
+          <content eId="para_6297__content">
+            <p>Therefore, setting maximum amounts for vitamins and minerals which may be used in the manufacture of food supplements where, in the absence of a proven risk to human health, upper safe limits have not been established for those nutrients after such a scientific assessment, does not satisfy that requirement (see judgment of 29 April 2010, Solgar Vitamin's France and Others, C‑446/08, EU:C:2010:233, paragraph 66).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6298">
+          <num>35</num>
+          <content eId="para_6298__content">
+            <p>After the upper safe limits have been established, the possibility of setting maximum amounts at a level significantly lower than those limits cannot be excluded if the setting of those maximum amounts can be justified by taking into account the criteria in Article 5(1) and (2) of Directive 2002/46 and that it complies with the principle of proportionality (see judgment of 29 April 2010, Solgar Vitamin's France and Others, C‑446/08, EU:C:2010:233, paragraph 71).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6299">
+          <num>36</num>
+          <content eId="para_6299__content">
+            <p>Therefore, in accordance with Article 5(1)(b) and (2), when those amounts are set, account must be taken, in addition to those limits, of the intake of vitamins and minerals from other dietary sources and reference intakes of vitamins and minerals for the population.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6300">
+          <num>37</num>
+          <content eId="para_6300__content">
+            <p>Furthermore, the assessments leading to setting maximum amounts of nutrients which may be used in the manufacture of food supplements must be carried out on a case-by-case basis (see, to that effect, judgments of 23 September 2003, Commission v Denmark, C‑192/01, EU:C:2003:492, paragraph 46; of 5 February 2004, Greenham and Abel, C‑95/01, EU:C:2004:71, paragraph 40; of 5 February 2004, Commission v France, C‑24/00, EU:C:2004:70, paragraph 53; of 2 December 2004, Commission v Netherlands, C‑41/02, EU:C:2004:762, paragraph 47, and of 29 April 2010, Solgar Vitamin's France and Others, C‑446/08, EU:C:2010:233, paragraphs 55 and 72).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6301">
+          <num>38</num>
+          <content eId="para_6301__content">
+            <p>Finally, it should be noted that, according to the Court's case-law, although the criterion of the nutritional need of the population of a Member State can play a role in its detailed assessment of the risks which the addition of nutrients to foodstuffs may pose for public health, the absence of such a need cannot, by itself, justify a total prohibition, on the basis of Article 36 TFEU, of the marketing of foodstuffs lawfully manufactured and/or marketed in other Member States (see judgments of 5 February 2004, Greenham and Abel, C‑95/01, EU:C:2004:71, paragraph 46; of 2 December 2004, Commission v Netherlands, C‑41/02, EU:C:2004:762, paragraph 69, and of 29 April 2010, Solgar Vitamin's France and Others, C‑446/08, EU:C:2010:233, paragraph 60).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6302">
+          <num>39</num>
+          <content eId="para_6302__content">
+            <p>It results in particular from the above considerations that the maximum amounts referred to in Article 5 of Directive 2002/46 must be set on a case-by-case basis, on the basis of all of the elements in Article 5(1) and (2) thereof, in particular of the upper safe levels established, with respect to the nutrients at issue, after a comprehensive scientific assessment of the risks for public health, based not on general or hypothetical considerations, but on relevant scientific data.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6303">
+          <num>40</num>
+          <content eId="para_6303__content">
+            <p>Therefore, a method which consists in setting those amounts without taking into account all of those elements, on the sole basis of the nutritional needs of the population concerned, or without that setting being carried out on a case-by-case basis, is not compatible with Article 5 of that directive or with the provisions of the TFEU relating to the free movement of goods.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6304">
+          <num>41</num>
+          <content eId="para_6304__content">
+            <p>It is for the referring court to assess whether that is so with respect to the method of setting those amounts at issue in the main proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6305">
+          <num>42</num>
+          <content eId="para_6305__content">
+            <p>In those circumstances, the answer to the second question is that the provisions of Directive 2002/46 and those of the TFEU relating to the free movement of goods must be interpreted as meaning that the maximum amounts referred to in Article 5 of that directive must be set on a case-by-case basis and taking into account all of the elements in Article 5(1) and (2) of that directive, in particular of the upper safe levels established, with respect to the nutrients at issue, after a comprehensive scientific assessment of the risks for public health, based not on general or hypothetical considerations, but on relevant scientific data. It is for the referring court to assess whether the method for the setting of those amounts at issue in the main proceedings complies with those requirements.</p>
+            <tblock>
+              <p>The third question</p>
+            </tblock>
+            <p>43 By its third question, the referring court asks, in essence, whether the provisions of Directive 2002/46 and those of the TFEU relating to the free movement of goods must be interpreted as precluding that the scientific assessment of the risks referred to in Article 5(1)(a) of that directive, prior to the establishment of upper safe limits which must in particular be taken into account in order to set the maximum amounts referred to in Article 5 thereof, be carried out solely on the basis of national scientific opinions, even though recent international scientific opinions concluding in favour of the possibility of setting higher limits are also available on the date of the adoption of the measure at issue.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6306">
+          <num>44</num>
+          <content eId="para_6306__content">
+            <p>In that regard, it should be noted that, in accordance with Article 5(1)(a) of that directive, the setting of those maximum amounts must in particular take account of upper safe levels of vitamins and minerals after a scientific risk assessment based on `generally accepted scientific data'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6307">
+          <num>45</num>
+          <content eId="para_6307__content">
+            <p>It cannot therefore be inferred from that wording that that assessment can be carried out on the sole basis of national scientific data, since international scientific data are also available.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6308">
+          <num>46</num>
+          <content eId="para_6308__content">
+            <p>Although it cannot be excluded that, in the absence of reliable international scientific data, such an assessment be carried out merely on the basis of more reliable national scientific opinions, that cannot, by contrast, be the case where such data are available.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6309">
+          <num>47</num>
+          <content eId="para_6309__content">
+            <p>By requiring that that assessment be based on `generally accepted scientific data', Article 5(1)(a) of Directive 2002/46 intends that assessment to be carried out on the basis of reliable scientific data, regardless of whether they are national or international.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6310">
+          <num>48</num>
+          <content eId="para_6310__content">
+            <p>Furthermore, the assessment referred to in that provision is subject to the same requirements as those deriving from the Court's case-law where it concerns the existence of a real risk for public health, alleged by a Member State to justify a measure prohibiting the marketing of a food supplement in accordance with Article 36 TFEU. In that regard, the Court has in particular held that the existence of such a risk must be shown in each case in the light of national nutritional habits and in the light of the results of international scientific research (see judgments of 23 September 2003, Commission v Denmark, C‑192/01, EU:C:2003:492, paragraph 46; of 5 February 2004, Commission v France, C‑24/00, EU:C:2004:70, paragraph 53; and of 29 April 2010, Solgar Vitamin's France and Others, C‑446/08, EU:C:2010:233, paragraph 55).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6311">
+          <num>49</num>
+          <content eId="para_6311__content">
+            <p>In that context, the Court has also held, first, that such a measure can be adopted only if the alleged real risk for public health appears to be sufficiently established on the basis of the latest scientific data available at the date of the adoption of that measure (see judgments of 23 September 2003, Commission v Denmark, C‑192/01, EU:C:2003:492, paragraph 48; of 5 February 2004, Commission v France, C‑24/00, EU:C:2004:70, paragraph 55; of 2 December 2004, Commission v Netherlands, C‑41/02, EU:C:2004:762, paragraph 49; and of 28 January 2010, Commission v France, C‑333/08, EU:C:2010:44, paragraph 89), and, secondly, that the evaluation of that risk must be carried out on the basis of the most reliable scientific data available and the most recent results of international research (see judgment of 5 February 2004, Greenham and Abel, C‑95/01, EU:C:2004:71, paragraph 47).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6312">
+          <num>50</num>
+          <content eId="para_6312__content">
+            <p>Therefore, if recent and reliable international scientific data are available on the date on which the scientific assessment of risks provided for in Article 5(1)(a) of Directive 2002/46 is carried out, that assessment cannot be carried out without having regard to those data.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6313">
+          <num>51</num>
+          <content eId="para_6313__content">
+            <p>In those circumstances, the answer to the third question is that the provisions of Directive 2002/46 and those of the TFEU relating to the free movement of goods must be interpreted as precluding that the scientific assessment of the risks referred to in Article 5(1)(a) of that directive, prior to the establishment of upper safe limits which must in particular be taken into account in order to set the maximum amounts referred to in Article 5 thereof, be carried out solely on the basis of national scientific opinions, even though recent international scientific opinions concluding in favour of the possibility of setting higher limits are also available on the date of the adoption of the measure at issue.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_6314">
+          <num>52</num>
+          <content eId="para_6314__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (First Chamber) hereby rules: 1. The provisions of Directive 2002/46/EC of the European Parliament and of the Council of 10 June 2002 on the approximation of the laws of the Member States relating to food supplements and those of the TFEU relating to the free movement of goods must be interpreted as precluding legislation of a Member State, such as that at issue in the main proceedings, which does not provide for a procedure for the placing on the market of that Member State of food supplements whose content in nutrients exceeds the maximum daily doses set by that legislation and which are lawfully manufactured or marketed in another Member state. 2. The provisions of Directive 2002/46 and those of the TFEU relating to the free movement of goods must be interpreted as meaning that the maximum amounts referred to in Article 5 of that directive must be set on a case-by-case basis and taking into account all of the elements in Article 5(1) and (2) of that directive, in particular of the upper safe levels established, with respect to the nutrients at issue, after a comprehensive scientific assessment of the risks for public health, based not on general or hypothetical considerations, but on relevant scientific data. It is for the referring court to assess whether the method for the setting of those amounts at issue in the main proceedings complies with those requirements. 3. The provisions of Directive 2002/46 and those of the TFEU relating to the free movement of goods must be interpreted as precluding that the scientific assessment of the risks referred to in Article 5(1)(a) of that directive, prior to the establishment of upper safe limits which must in particular be taken into account in order to set the maximum amounts referred to in Article 5 thereof, be carried out solely on the basis of national scientific opinions, even though recent international scientific opinions concluding in favour of the possibility of setting higher limits are also available on the date of the adoption of the measure at issue.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: French.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

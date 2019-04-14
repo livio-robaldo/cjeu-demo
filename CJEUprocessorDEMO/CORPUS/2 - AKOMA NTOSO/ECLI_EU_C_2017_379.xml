@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (First Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>17 May 2017 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>`Reference for a preliminary ruling -- Freedom of establishment -- Parent-Subsidiary Directive -- Tax legislation -- Tax on company profits -- Distribution of dividends -- Withholding tax -- Double taxation -- `Fairness tax'' In Case C‑68/15, REQUEST for a preliminary ruling under Article 267 TFEU from the Grondwettelijk Hof (Constitutional Court, Belgium), made by decision of 28 January 2015, received at the Court on 13 February 2015, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">X</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#">Ministerraad</party>
+      </p>
+      <p>, THE COURT (First Chamber), composed of R. Silva de Lapuerta, President of the Chamber, E. Regan, J.C. Bonichot, A. Arabadjiev and C.G. Fernlund (Rapporteur), Judges, Advocate General: J. Kokott, Registrar: C. Strömholm, Administrator, having regard to the written procedure and further to the hearing on 22 June 2016, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>X, by T. Engelen, L. Ketels and P. Renier, advocaten,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Belgian Government, by J.-C. Halleux, D. Delvaux, M. Jacobs and C. Pochet, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the French Government, by D. Colas, J.-S. Pilczer and S. Ghiandoni, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by W. Roels and C. Soulay, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 17 November 2016,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <tblock>
+        <p>Judgment</p>
+      </tblock>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_7673">
+          <num>1</num>
+          <content eId="para_7673__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Article 49 TFEU and Articles 4(3) and 5 of Council Directive 2011/96/EU of 30 November 2011 on the common system of taxation applicable in the case of parent companies and subsidiaries of different Member States ( OJ 2011 L 345, p. 8; `the Parent-Subsidiary Directive').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7674">
+          <num>2</num>
+          <content eId="para_7674__content">
+            <p>The request has been made in proceedings between X and the Ministerraad (Council of Ministers, Belgium) concerning an action for the annulment of provisions of national law introducing a tax separate from corporation tax and non-residents' tax, referred to as `fairness tax', to which resident and non-resident companies are subject when they distribute dividends not included, owing to the use of certain tax advantages provided for by the national tax system, in their final taxable profits.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <paragraph eId="para_7675">
+          <num>3</num>
+          <content eId="para_7675__content">
+            <p>According to recital 3 of the Parent-Subsidiary Directive, the objective of the directive is to exempt dividends and other profit distributions paid by subsidiary companies to their parent companies from withholding taxes and to eliminate double taxation of such income at the level of the parent company.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7676">
+          <num>4</num>
+          <content eId="para_7676__content">
+            <p>Recitals 7 and 9 of that directive state: `</p>
+            <blockList>
+              <item>
+                <num>(7)</num>
+                <p>Where a parent company by virtue of its association with its subsidiary receives distributed profits, the Member State of the parent company must either refrain from taxing such profits, or tax such profits while authorising the parent company to deduct from the amount of tax due that fraction of the corporation tax paid by the subsidiary which relates to those profits. ...</p>
+              </item>
+              <item>
+                <num>(9)</num>
+                <p>The payment of profit distributions to, and their receipt by, a permanent establishment of a parent company should give rise to the same treatment as that applying between a subsidiary and its parent. ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7677">
+          <num>5</num>
+          <content eId="para_7677__content">
+            <p>Article 4(1) and (3) of that directive provides: `1.   Where a parent company or its permanent establishment, by virtue of the association of the parent company with its subsidiary, receives distributed profits, the Member State of the parent company and the Member State of its permanent establishment shall, except when the subsidiary is liquidated, either:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>refrain from taxing such profits; or</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>tax such profits while authorising the parent company and the permanent establishment to deduct from the amount of tax due that fraction of the corporation tax related to those profits and paid by the subsidiary and any lower-tier subsidiary, subject to the condition that at each tier a company and its lower-tier subsidiary fall within the definitions laid down in Article 2 and meet the requirements provided for in Article 3, up to the limit of the amount of the corresponding tax due. ... 3.   Each Member State shall retain the option of providing that any charges relating to the holding and any losses resulting from the distribution of the profits of the subsidiary may not be deducted from the taxable profits of the parent company. Where the management costs relating to the holding in such a case are fixed as a flat rate, the fixed amount may not exceed 5% of the profits distributed by the subsidiary.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7678">
+          <num>6</num>
+          <content eId="para_7678__content">
+            <p>Article 5 of the directive provides as follows: `Profits which a subsidiary distributes to its parent company shall be exempt from withholding tax.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Belgian law</p>
+        </tblock>
+        <paragraph eId="para_7679">
+          <num>7</num>
+          <content eId="para_7679__content">
+            <p>The Wetboek van de inkomstenbelastingen 1992 (Income Tax Code 1992) was amended by the Wet houdende diverse bepalingen (Law containing various provisions) of 30 July 2013 ( Belgisch Staatsblad, 1 August 2013) ( `the WIB 92'). Chapter 15 of that Law of 30 July 2013 contains a section 2, subsection 1 of which is entitled `Fairness Tax'. That subsection consists of Articles 43 to 51, which amend Articles 198, 207, 218, 219b, 233, 246, 275 and 463 bis of the WIB 92.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7680">
+          <num>8</num>
+          <content eId="para_7680__content">
+            <p>Article 198(1)(1) of the WIB 92 states: `Business expenses shall not include:</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>corporation tax, including the separate assessments due under Articles 219 bis to 219 quater, sums paid towards corporation tax, and advance tax paid by the debtor of income to discharge the beneficiary in breach of Article 261, but excluding the separate assessment due under Article 219.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7681">
+          <num>9</num>
+          <content eId="para_7681__content">
+            <p>Article 207(2) of the WIB 92 provides: `None of these deductions or offsetting of loss in respect of the taxable period may be performed on the portion of the profits which results from abnormal or gratuitous benefits as referred to in Article 79, on received financial benefits or benefits of any nature as referred to in Article 53(24), on the base of the special separate assessment determined on expenditure or advantages of any kind not justified in accordance with Article 219, on the portion of the profits earmarked for the expenditure referred to in Article 198(1)(9) and (12), on the portion of the profits resulting from breach of Article 194 quater(2)(4) and the application of Article 194 quater(4), on the capital gains referred to in Article 217(3), or on the dividends referred to in Article 219 ter.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7682">
+          <num>10</num>
+          <content eId="para_7682__content">
+            <p>Article 218(1) of the WIB 92 is worded as follows: `The tax calculated in accordance with Articles 215 to 217 and the separate assessment referred to in Article 219 ter may be increased as provided for in matters of personal income tax by Articles 157 to 168, in the event of absence or insufficiency of advance payments. By way of derogation from Articles 160 and 165, the limitation of the increase to 90% and the raising of the basis of calculation to 106% of the tax payable to the State are not, however, applicable.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7683">
+          <num>11</num>
+          <content eId="para_7683__content">
+            <p>Article 219 ter of the WIB 92 provides: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>For the taxable period during which dividends are distributed within the meaning of Article 18(1)(1) to (2a), a separate assessment shall be introduced and calculated in accordance with the following paragraphs. That separate assessment shall be independent of and, where appropriate, complementary to other taxes which are due under other provisions of this Code or, where appropriate, in the context of the implementation of specific legal provisions.</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>The base of that separate assessment shall consist of the positive difference between the gross dividends that were distributed for the taxable period and the final taxable profits that are actually subject to the rate of corporation tax referred to in Articles 215 and 216.(3)   The taxable base so established shall be reduced by the portion of the dividends distributed that originates from reserves taxed at an earlier date but not later than the 2014 tax year. For the application of this reduction, the taking into account of reserves already taxed shall be applied with priority to the last reserves introduced. For the 2014 tax year, dividends distributed during that same tax year can never be regarded as originating from reserves taxed for that same tax year.</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(4)</num>
+                <p>The balance obtained is then limited according to a fraction which expresses the ratio between:</p>
+                <blockList>
+                  <item>
+                    <num>--</num>
+                    <p>in the numerator, the deduction of losses actually carried forward for the taxable period and the risk capital deduction actually made for the same taxable period, and</p>
+                  </item>
+                  <item>
+                    <num>--</num>
+                    <p>in the denominator, the taxable profits for the taxable period, excluding exempted depreciations, provisions and capital gains.</p>
+                  </item>
+                </blockList>
+              </item>
+              <item>
+                <num>(5)</num>
+                <p>The base determined in accordance with the preceding paragraphs shall not be limited or reduced in any other way.</p>
+              </item>
+              <item>
+                <num>(6)</num>
+                <p>The separate assessment shall be equal to 5% of the amount so calculated.</p>
+              </item>
+              <item>
+                <num>(7)</num>
+                <p>Companies which, on the basis of Article 15 of the Company Code, are regarded as small companies for the tax year related to the taxable period during which the dividends are distributed are not subject to that assessment.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7684">
+          <num>12</num>
+          <content eId="para_7684__content">
+            <p>Article 233(3) of the WIB 92 provides as follows: `In addition, a separate assessment shall be established in accordance with the rules laid down in Article 219 ter. For the application of this measure, in the case of Belgian establishments, the term ``distributed dividends '' means the portion of the gross dividends distributed by the company that corresponds to the positive share of the Belgian establishment's profits in the company's total profits.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7685">
+          <num>13</num>
+          <content eId="para_7685__content">
+            <p>Article 246(1)(3) of the WIB 92 is worded as follows: `without prejudice to the application of Article 218, the separate assessment referred to in Article 233(3) shall be calculated at the rate of 5%.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7686">
+          <num>14</num>
+          <content eId="para_7686__content">
+            <p>Article 463 bis(1)(1) of the WIB 92 provides: `As a supplementary crisis contribution, three additional surcharges are established for the exclusive benefit of the State:</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>to corporation tax, to the tax on legal persons referred to in Article 220(2) and (3) and, for the taxpayers referred to in Article 227(2) and (3), with the exception of foreign States and their political subdivisions and local authorities, to non-residents' tax, including the separate assessments referred to in Articles 219 bis, 219 ter and 246(1), (2) and (3); the supplementary crisis contributions are calculated on these taxes determined:</p>
+                <blockList>
+                  <item>
+                    <num>--</num>
+                    <p>before settlement of the advance payments referred to in Articles 218, 226, 246(1)(1) and 246(2), of withholding taxes, of the fixed percentage of foreign tax and of the tax credit referred to in Articles 277 to 296;</p>
+                  </item>
+                  <item>
+                    <num>--</num>
+                    <p>before application of the increase provided for in the event of absence or insufficiency of advance payments, as referred to in the first indent.'</p>
+                  </item>
+                </blockList>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7687">
+          <num>15</num>
+          <content eId="para_7687__content">
+            <p>Article 275 7(4) of the WIB 92 reads as follows: `The King may increase the percentage provided for in paragraph 3 by a decree deliberated in the Council of Ministers for the employers referred to in this article who are either regarded as small companies on the basis of Article 15 of the Company Code or are natural persons who satisfy, mutatis mutandis, the criteria of that Article 15. The King shall bring before the Legislative Chambers, immediately if they are assembled, if not at the opening of their next session, a bill for the confirmation of the decrees taken in execution of this paragraph.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7688">
+          <num>16</num>
+          <content eId="para_7688__content">
+            <p>Article 51 of the Law of 30 July 2013 containing various provisions provides: `Articles 43 to 49 shall enter into force from the 2014 taxation year. Any change made from 28 June 2013 to the date of closure of the annual accounts shall not affect the application of the measures set out in this subsection. Article 50 shall apply to remuneration paid out or granted from 1 January 2014.'</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_7689">
+          <num>17</num>
+          <content eId="para_7689__content">
+            <p>X brought an action before the Grondwettelijk Hof (Constitutional Court, Belgium) seeking annulment of the national law provisions introducing the `fairness tax'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7690">
+          <num>18</num>
+          <content eId="para_7690__content">
+            <p>The referring court states that the `fairness tax' is a separate assessment from corporation tax and non-residents' tax, and is governed by Articles 43 to 51 of the Law of 30 July 2013 containing various provisions. It applies where, for the same tax period, dividends are distributed and the company's taxable profits are wholly or partly reduced by applying the various deductions provided for by the national tax system.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7691">
+          <num>19</num>
+          <content eId="para_7691__content">
+            <p>In its action for annulment of Articles 43 to 51 of the Law of 30 July 2013, X argued, first, that the `fairness tax' constitutes a restriction of freedom of establishment posing an obstacle to non-resident companies in freely choosing the legal form under which they intend to conduct their economic activities in Belgium.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7692">
+          <num>20</num>
+          <content eId="para_7692__content">
+            <p>A non-resident company conducting an economic activity in Belgium through a subsidiary is indirectly subject to the `fairness tax' only if that subsidiary actually distributes it a dividend on its profits, whether or not, moreover, that non-resident company itself distributes a dividend.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7693">
+          <num>21</num>
+          <content eId="para_7693__content">
+            <p>However, if a non-resident company conducts an economic activity in Belgium through a permanent establishment, it is subject to the `fairness tax' if it itself carries out the distribution of dividends, regardless of whether the permanent establishment's profits flowed to that company or whether or not they were retained or reinvested in Belgium. That company's taxable amount could thus also include profits made outside Belgium, solely on the ground that it has a permanent establishment in Belgium.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7694">
+          <num>22</num>
+          <content eId="para_7694__content">
+            <p>Moreover, the `fairness tax' also constitutes discrimination on grounds of nationality between a non-resident company conducting an economic activity in Belgium through a permanent establishment and a resident company, in so far as a non-resident company may be subject to that tax even if all of the profits of its Belgian permanent establishment have been retained or reinvested in Belgium, whereas that would not be the case if the resident company reserved or reinvested all of its profits in Belgium.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7695">
+          <num>23</num>
+          <content eId="para_7695__content">
+            <p>The Council of Ministers considers that the alleged difference in treatment arises from the characteristics of a permanent establishment, given that -- unlike a subsidiary -- a permanent establishment cannot itself distribute dividends.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7696">
+          <num>24</num>
+          <content eId="para_7696__content">
+            <p>As regards the alleged difference in treatment between a non-resident company conducting an economic activity in Belgium through a permanent establishment and a resident company, the Council of Ministers states that, in order to avoid any discrimination, the legislation at issue provides for the calculation of a notional dividend for establishing the taxable base for the `fairness tax' of the non-resident company. That legislation thus creates no difference in treatment, rather it is adapted to the circumstances.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7697">
+          <num>25</num>
+          <content eId="para_7697__content">
+            <p>Second, according to X, the `fairness tax' must be regarded as a withholding tax, since it is levied on the profits distributed by the subsidiary to the parent company, and, accordingly, is contrary to Article 5 of the Parent-Subsidiary Directive, under which profits which a subsidiary distributes to its parent company are to be exempt from withholding tax.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7698">
+          <num>26</num>
+          <content eId="para_7698__content">
+            <p>The Council of Ministers takes the view that the `fairness tax' is not a disguised withholding tax, but a separate assessment, calculated on the basis of the distributed dividends which are not reflected in the subsidiary's taxable profits because deductions have been made for risk capital and/or previous losses.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7699">
+          <num>27</num>
+          <content eId="para_7699__content">
+            <p>Third, X considers that the `fairness tax' could result in profits falling within the scope of the Parent-Subsidiary Directive being subjected to taxation exceeding the 5% ceiling provided for in Article 4(3) of that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7700">
+          <num>28</num>
+          <content eId="para_7700__content">
+            <p>The exemption of 95% of profits applies only if the profits received were immediately distributed in the same year. If they were distributed in a subsequent year, those profits would be subject to the `fairness tax' with respect to a proportion greater than 5%, as the proportionality factor takes into account only that year's profits and that year's deductions from the profits for risk capital and/or losses carried forward.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7701">
+          <num>29</num>
+          <content eId="para_7701__content">
+            <p>According to the Council of Ministers, whether or not profits are distributed is a strategic choice of the parent company. The `fairness tax' differs for the same company for each tax year, depending on the amount of dividends distributed, the application of a deduction for risk capital and the level of the taxable profits, and does not have the consequence of subjecting to tax a portion of the dividend exceeding the 5% ceiling.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7702">
+          <num>30</num>
+          <content eId="para_7702__content">
+            <p>In those circumstances, the Grondwettelijk Hof (Constitutional Court) decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Must Article 49 TFEU be interpreted as precluding national rules under which:</p>
+                <blockList>
+                  <item>
+                    <num>(a)</num>
+                    <p>companies established in another Member State and having a Belgian permanent establishment are subject to a tax if they decide to distribute profits which are not included in the final taxable profits of the company, irrespective of whether profits have flowed from the Belgian permanent establishment to the main establishment, whereas companies established in another Member State and having a Belgian subsidiary are not subject to such a tax if they decide to distribute profits which are not included in the final taxable profits of the company, irrespective of whether or not the subsidiary has distributed a dividend;</p>
+                  </item>
+                  <item>
+                    <num>(b)</num>
+                    <p>companies established in another Member State and having a Belgian permanent establishment are, if they retain the Belgian profits in full, subject to a tax if they decide to distribute profits which are not included in the final taxable profits of the company, whereas Belgian companies are not subject to such a tax if they retain their profits in full?</p>
+                  </item>
+                </blockList>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>Must [Article 5 of the Parent-Subsidiary Directive] be interpreted as meaning that there is withholding tax in the case where a provision of national law requires that a tax be imposed on a distribution of profits by a subsidiary to its parent company in that, in the same taxable period, dividends are distributed and the taxable profits are wholly or partly reduced by the deduction for risk capital and/or by tax losses carried forward, whereas under national law the profits would not be taxable if they remained with the subsidiary and were not distributed to the parent company?</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>Must Article 4(3) of [the Parent-Subsidiary Directive] be interpreted as precluding national legislation under which a tax is levied on the distribution of dividends if that legislation has the effect that, in the case where a company distributes a received dividend in a year subsequent to the year in which it received that dividend itself, it is taxed on a portion of the dividend which exceeds the threshold laid down in the aforementioned Article 4(3) of the directive, whereas that is not the case if that company redistributes a dividend in the year in which it receives it?'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the questions referred</p>
+        </tblock>
+        <paragraph eId="para_7703">
+          <num>31</num>
+          <content eId="para_7703__content">
+            <p>It should be noted, as a preliminary point, that by its questions the referring court queries the compatibility with EU law of tax legislation of a Member State, such as that at issue in the main proceedings, which applies in a situation where the amount of the profits distributed by a company -- whether a resident company, including the resident subsidiary of a non-resident company, or a non-resident company conducting an activity in that Member State through a permanent establishment -- as a result of the use of certain tax advantages provided for by the national tax system of that Member State, is greater than that company's final taxable profits in that Member State.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7704">
+          <num>32</num>
+          <content eId="para_7704__content">
+            <p>According to the documents before the Court, the objective of that tax legislation is to tax income falling within the tax jurisdiction of the Member State concerned which, owing to such use, was distributed without having been subjected to corporation tax, with regard to resident companies, or to non-residents' tax, as regards non-resident companies, in that Member State.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7705">
+          <num>33</num>
+          <content eId="para_7705__content">
+            <p>Also according to those documents, the tax legislation at issue in the main proceedings takes the form of a separate assessment from corporation tax and non-residents' tax, the rate of which is fixed at 5.15% The base of that assessment consists of the positive difference between the gross dividends that were distributed for the taxable period and the final taxable profits that are actually subject to the ordinary rate of corporation tax. The taxable base so established is reduced by the portion of the distributed dividends that originates from reserves that were taxed at an earlier date but not later than the 2014 tax year. The balance obtained is limited by a coefficient which consists of a fraction expressing the ratio between the deduction for risk capital and/or tax losses carried forward for the taxable period, in the numerator, and the taxable profits for the taxable period, in the denominator.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7706">
+          <num>34</num>
+          <content eId="para_7706__content">
+            <p>In order to calculate the taxable base of non-resident companies, that tax legislation provides for the calculation of a `notional dividend'. In such a case, the `distributed dividends' are made up of the portion of the dividends distributed by the non-resident company that corresponds to the positive share of the Belgian permanent establishment's profits in the company's total profits.</p>
+            <tblock>
+              <p>The first question</p>
+            </tblock>
+            <p>35 With a view to answering the question as asked, it should be recalled at the outset that it is the company's registered office that serves as the connecting factor with the legal system of a particular State, like nationality in the case of natural persons (see, inter alia, judgments of 28 January 1986, Commission v France, 270/83, EU:C:1986:37, paragraph 18, and of 14 December 2000, AMID, C‑141/99, EU:C:2000:696, paragraph 20).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7707">
+          <num>36</num>
+          <content eId="para_7707__content">
+            <p>It follows that the application of national tax legislation, such as that at issue in the main proceedings, to a resident subsidiary of a non-resident company and to a resident permanent establishment of such a company involves the tax treatment of a resident company and a non-resident company respectively.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7708">
+          <num>37</num>
+          <content eId="para_7708__content">
+            <p>In the present case, it is undisputed that the Belgian tax legislation at issue treats resident companies, including the resident subsidiaries of non-resident companies, and non-resident companies in the same way, all those companies being subject to the `fairness tax' if they distribute dividends in the circumstances described in paragraphs 31 and 32 above.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7709">
+          <num>38</num>
+          <content eId="para_7709__content">
+            <p>In those circumstances, the question asked must be understood as seeking to know whether freedom of establishment must be interpreted as precluding tax legislation of a Member State, such as that at issue in the main proceedings, under which both a non-resident company conducting an economic activity in that Member State through a permanent establishment and a resident company, including the resident subsidiary of a non-resident company, are subject to a tax such as the `fairness tax' when they distribute dividends which, as a result of the use of certain tax advantages provided for by the national tax system, are not included in their final taxable profits.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7710">
+          <num>39</num>
+          <content eId="para_7710__content">
+            <p>Freedom of establishment, which Article 49 TFEU grants to European Union nationals, includes the right for them to take up and pursue activities as self-employed persons and to set up and manage undertakings under the conditions laid down for its own nationals by the law of the Member State where such establishment is effected. It entails, in accordance with Article 54 TFEU, for companies or firms formed in accordance with the law of a Member State and having their registered office, central administration or principal place of business within the European Union, the right to exercise their activity in the Member State concerned through a subsidiary, a branch or an agency (judgment of 17 July 2014, Nordea Bank Danmark, C‑48/13, EU:C:2014:2087, paragraph 17 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7711">
+          <num>40</num>
+          <content eId="para_7711__content">
+            <p>As regards treatment in the host Member State, the case-law of the Court holds that, since the second sentence of the first paragraph of Article 49 TFEU expressly leaves economic operators free to choose the appropriate legal form in which to pursue their activities in another Member State, that freedom of choice must not be limited by discriminatory tax provisions (order of 4 June 2009, BC Bank and Beleggen, Risicokapitaal, Beheer, C‑439/07 and C‑499/07, EU:C:2009:339, paragraphs 77 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7712">
+          <num>41</num>
+          <content eId="para_7712__content">
+            <p>As regards tax provisions, it follows from the case-law of the Court that it is for each Member State to organise, in compliance with EU law, its system for taxing profits, in so far as those profits come within the tax jurisdiction of the Member State concerned. It follows that the host Member State is free to determine the chargeable event of the tax, the taxable amount and the tax rates which apply to the various forms of establishments of the companies operating in that Member State, on condition that non-resident companies are not treated in a manner that is discriminatory in comparison with comparable national establishments (see, to that effect, judgments of 12 December 2006, Test Claimants in the FII Group Litigation, C‑446/04, EU:C:2006:774, paragraph 47, and of 26 June 2008, Burda, C‑284/06, EU:C:2008:365, paragraph 86 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7713">
+          <num>42</num>
+          <content eId="para_7713__content">
+            <p>Discrimination can arise only through the application of different rules to comparable situations or the application of the same rule to different situations (judgments of 14 February 1995, Schumacker, C‑279/93, EU:C:1995:31, paragraph 30, and of 1 December 2011, Commission v Hungary, C‑253/09, EU:C:2011:795, paragraph 50 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7714">
+          <num>43</num>
+          <content eId="para_7714__content">
+            <p>In the present case, it is common ground that a non-resident company conducting an economic activity in Belgium through a permanent establishment and a resident company, including the subsidiary of a non-resident company, are in principle subject to the same tax treatment, since they are subject to the `fairness tax' when they distribute dividends which, because of the use of certain tax advantages provided for by the national tax system, are not included in their final taxable profits.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7715">
+          <num>44</num>
+          <content eId="para_7715__content">
+            <p>However, in so far as it is apparent from the documents before the Court that, unlike a resident company which is subject to corporation tax on the basis of its worldwide income, a non-resident company conducting an economic activity in Belgium through a permanent establishment is subject to tax in that Member State solely on the basis of the profits made by that permanent establishment, the situation might be different, and the legislation at issue would then constitute a restriction of freedom of establishment, if the method of determining the taxable amount of the `fairness tax' led in fact to that non-resident company being treated in a less advantageous manner than a resident company.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7716">
+          <num>45</num>
+          <content eId="para_7716__content">
+            <p>According to the Belgian Government, in providing for the calculation of a notional dividend for the purposes of determining the taxable amount of the `fairness tax', the tax legislation at issue in the main proceedings takes into account that difference in the method of calculation of the taxable amount, and therefore seeks to avoid any discrimination.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7717">
+          <num>46</num>
+          <content eId="para_7717__content">
+            <p>In contrast, X and the European Commission consider that that method of calculation could lead to heavier taxation for the non-resident company. In that regard, first, X argues that in certain situations that method of calculation results in the non-resident company being taxed on profits other than those generated by the Belgian permanent establishment. Second, the Commission notes that the resident company, including the resident subsidiary of a non-resident company, is subject to `fairness tax' only if it actually distributes dividends, whereas a non-resident company conducting an economic activity in the Member State concerned through a permanent establishment is subject to that tax if it distributes dividends, even when the profits of that permanent establishment do not form part of the dividends distributed by that non-resident company.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7718">
+          <num>47</num>
+          <content eId="para_7718__content">
+            <p>In the present case, it is for the referring court, the only court with jurisdiction to interpret national law, taking into account all the elements of the tax legislation at issue in the main proceedings and the national tax system as a whole, to ascertain whether the method of calculating the taxable amount results, in all situations, in the tax treatment reserved for a non-resident company conducting its activity in Belgium through a permanent establishment not being less advantageous than that to which a resident company is subject (see, to that effect, judgment of 17 September 2015, Miljoen and Others, C‑10/14, C‑14/14 and C‑17/14, EU:C:2015:608, paragraph 48).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7719">
+          <num>48</num>
+          <content eId="para_7719__content">
+            <p>In the context of that verification, the referring court will have to take account of the fact that the legislation at issue in the main proceedings seeks to tax profits falling within Belgian tax jurisdiction that were distributed, but on which that Member State, as a result of the use of certain tax advantages provided for by the national tax system, did not exercise that tax jurisdiction. Therefore, in a situation where the method of calculating the taxable amount of a non-resident company led to that company being taxed even on profits not falling within the tax jurisdiction of that Member State, that non-resident company would be treated less advantageously than a resident company.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7720">
+          <num>49</num>
+          <content eId="para_7720__content">
+            <p>If the result of that verification is that such treatment does exist, it would then have to be considered that tax legislation such as that at issue in the main proceedings constitutes an obstacle to freedom of establishment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7721">
+          <num>50</num>
+          <content eId="para_7721__content">
+            <p>Such an obstacle is permissible only if it relates to situations which are not objectively comparable or if it is justified by overriding reasons in the public interest (judgment of 17 July 2014, Nordea Bank Danmark, C‑48/13, EU:C:2014:2087, paragraph 23 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7722">
+          <num>51</num>
+          <content eId="para_7722__content">
+            <p>It should be noted that the comparability or otherwise of a cross-border situation with an internal situation must be examined having regard to the aim pursued by the national tax legislation at issue (see, to that effect, judgments of 8 November 2012, Commission v Finland, C‑342/10, EU:C:2012:688, paragraph 36, and of 2 June 2016, Pensioenfonds Metaal en Techniek, C‑252/14, EU:C:2016:402, paragraph 48).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7723">
+          <num>52</num>
+          <content eId="para_7723__content">
+            <p>With regard to tax legislation of the host Member State aimed at preventing the profits generated in that State, as a result of the use of certain tax advantages provided for by the national tax system, from being distributed without having been taxed in the hands of the taxpayer, the situation of a non-resident taxpayer conducting an economic activity in that Member State through a permanent establishment is comparable to that of a resident taxpayer. In both cases, that tax legislation seeks to permit that State to exercise its power of taxation in respect of profits coming within its tax jurisdiction (see, to that effect, judgments of 14 November 2006, Kerckhaert and Morres, C‑513/04, EU:C:2006:713, paragraph 19, and of 3 September 2014, Commission v Spain, C‑127/12, not published, EU:C:2014:2130, paragraphs 77 and 78).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7724">
+          <num>53</num>
+          <content eId="para_7724__content">
+            <p>Thus, with regard to the legislation at issue in the main proceedings, the situation of a non-resident company conducting an economic activity in Belgium through a permanent establishment is comparable to that of a resident company, including the resident subsidiary of a non-resident company.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7725">
+          <num>54</num>
+          <content eId="para_7725__content">
+            <p>The restriction can therefore be justified only by overriding reasons in the public interest. It is further necessary, in such a case, that the restriction be appropriate for ensuring the attainment of the objective that it pursues and not go beyond what is necessary to attain it (judgment of 17 July 2014, Nordea Bank Danmark, C‑48/13, EU:C:2014:2087, paragraph 25 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7726">
+          <num>55</num>
+          <content eId="para_7726__content">
+            <p>The Belgian Government has argued that any obstacle to that freedom would be justified by two reasons in the public interest, namely the objective of guaranteeing the balanced allocation of powers of taxation between Member States and that of combating abuse.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7727">
+          <num>56</num>
+          <content eId="para_7727__content">
+            <p>In that regard, it is sufficient to state that, while those two objectives constitute overriding reasons in the public interest capable of justifying a restriction on the exercise of freedom of movement guaranteed by the Treaty (see judgment of 5 July 2012, SIAT, C‑318/10, EU:C:2012:415, paragraphs 36 and 37 and the case-law cited), the legislation at issue in the main proceedings is not suitable for ensuring their attainment, so that those objectives cannot, in a case such as that at issue in the main proceedings, justify any obstacle to freedom of establishment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7728">
+          <num>57</num>
+          <content eId="para_7728__content">
+            <p>In the first place, since the tax legislation at issue in the main proceedings is aimed at taxing profits falling within Belgian tax jurisdiction, distributed without having been taxed by that Member State, it in no way seeks to allocate tax jurisdiction between the Kingdom of Belgium and another Member State.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7729">
+          <num>58</num>
+          <content eId="para_7729__content">
+            <p>In the second place, since the objective of that legislation is to limit the effect of the use of tax advantages provided for by the national tax system, it is not intended in itself to prevent abusive practice.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7730">
+          <num>59</num>
+          <content eId="para_7730__content">
+            <p>Nor, moreover, can any obstacle be justified by the fact that that legislation might in certain situations result in a non-resident company conducting an economic activity in Belgium through a permanent establishment being taxed in a more advantageous manner than a resident company.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7731">
+          <num>60</num>
+          <content eId="para_7731__content">
+            <p>The fact that national tax legislation places non-resident companies at a disadvantage cannot be compensated for by the fact that, in other situations, the same legislation may result in advantageous treatment for such companies (see, to that effect, judgment of 2 June 2016, Pensioenfonds Metaal en Techniek, C‑252/14, EU:C:2016:402, paragraphs 38 and 39).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7732">
+          <num>61</num>
+          <content eId="para_7732__content">
+            <p>In the light of all the foregoing considerations, the answer to the first question is that freedom of establishment must be interpreted as not precluding tax legislation of a Member State, such as that at issue in the main proceedings, under which both a non-resident company conducting an economic activity in that Member State through a permanent establishment and a resident company, including the resident subsidiary of a non-resident company, are subject to a tax such as the `fairness tax' when they distribute dividends which, as a result of the use of certain tax advantages provided for by the national tax system, are not included in their final taxable profits, provided that the method of determining the taxable amount of that tax does not in fact lead to that non-resident company being treated in a less advantageous manner than a resident company, which is for the referring court to ascertain.</p>
+            <tblock>
+              <p>The second question</p>
+            </tblock>
+            <p>62 By its second question, the referring court asks, in essence, whether Article 5 of the Parent-Subsidiary Directive must be interpreted as precluding tax legislation of a Member State, such as that at issue in the main proceedings, providing for a tax such as the `fairness tax', to which non-resident companies conducting an economic activity in that Member State through a permanent establishment and resident companies, including the resident subsidiary of a non-resident company, are subject when they distribute dividends which, as a result of the use of certain tax advantages provided for by the national tax system, are not included in their final taxable profits.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7733">
+          <num>63</num>
+          <content eId="para_7733__content">
+            <p>The settled case-law of the Court holds that, in order for a tax to be classified as a withholding tax within the meaning of Article 5 of the Parent-Subsidiary Directive, three cumulative criteria must be satisfied. Thus, first, the tax must be levied in the State in which the dividends are distributed and its chargeable event must be the payment of dividends or of any other income from shares; second, the taxable amount is the income from those shares; and third, the taxable person is the holder of the shares (see, by analogy, judgment of 24 June 2010, P. Ferrero e C. and General Beverage Europe, C‑338/08 and C‑339/08, EU:C:2010:364, paragraph 26 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7734">
+          <num>64</num>
+          <content eId="para_7734__content">
+            <p>It must be considered, in agreement with the parties to the main proceedings, that the `fairness tax' at issue in those proceedings fulfils the first two conditions. First, the chargeable event of that tax is the distribution of dividends and, second, in order to calculate its taxable amount, the amount distributed is used.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7735">
+          <num>65</num>
+          <content eId="para_7735__content">
+            <p>However, given that the taxable person for the purposes of a tax such as the `fairness tax' is not the holder of the shares but the distributing company, the third condition is not met.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7736">
+          <num>66</num>
+          <content eId="para_7736__content">
+            <p>That finding is not called into question by the argument put forward by X and the Commission that it would be appropriate in the present case to favour an approach based on economic assessments. In that regard, it is sufficient to recall that in the judgment of 26 June 2008, Burda ( C‑284/06, EU:C:2008:365, paragraphs 58 to 62), the Court rejected such an approach.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7737">
+          <num>67</num>
+          <content eId="para_7737__content">
+            <p>Since the third condition for the existence of a withholding tax within the meaning of Article 5 of the Parent-Subsidiary Directive, is not fulfilled, a tax such as that at issue in the main proceedings cannot constitute a withholding tax within the meaning of that provision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7738">
+          <num>68</num>
+          <content eId="para_7738__content">
+            <p>Consequently, the answer to the second question is that Article 5 of the Parent-Subsidiary Directive must be interpreted as not precluding tax legislation of a Member State, such as that at issue in the main proceedings, providing for a tax such as the `fairness tax', to which non-resident companies conducting an economic activity in that Member State through a permanent establishment and resident companies, including the resident subsidiary of a non-resident company, are subject when they distribute dividends which, as a result of the use of certain tax advantages provided for by the national tax system, are not included in their final taxable profits.</p>
+            <tblock>
+              <p>The third question</p>
+            </tblock>
+            <p>69 By its third question, the referring court asks, in essence, whether Article 4(1)(a) of the Parent-Subsidiary Directive, read in conjunction with Article 4(3), must be interpreted as precluding national tax legislation, such as that at issue in the main proceedings, in so far as that legislation, in a situation where profits received by a parent company from its subsidiary are distributed by the parent company after the year in which they were received, has the consequence of subjecting those profits to taxation exceeding the 5% ceiling provided for in that provision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7739">
+          <num>70</num>
+          <content eId="para_7739__content">
+            <p>According to recital 3 of the Parent-Subsidiary Directive, the directive aims to eliminate double taxation of profits distributed by a subsidiary to its parent company at the level of the parent company.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7740">
+          <num>71</num>
+          <content eId="para_7740__content">
+            <p>To that end, Article 4(1) of the Parent-Subsidiary Directive leaves it to the Member States to choose between two systems, namely between an exemption system and an imputation system (see, to that effect, judgment of 12 December 2006, Test Claimants in the FII Group Litigation, C‑446/04, EU:C:2006:774, paragraph 44). In accordance with recitals 7 and 9 of that directive, that provision stipulates that where a parent company or its permanent establishment, by virtue of the association of the parent company with its subsidiary, receives distributed profits, the Member State of the parent company and the Member State of its permanent establishment are, except when the subsidiary is liquidated, either to refrain from taxing such profits or to tax them while authorising the parent company and the permanent establishment to deduct from the amount of tax due that fraction of the tax relating to those profits and paid by the subsidiary and any lower-tier subsidiary.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7741">
+          <num>72</num>
+          <content eId="para_7741__content">
+            <p>However, Article 4(3) of the directive provides that the Member States are to retain the option of providing that any charges relating to the holding and any losses resulting from the distribution of the profits of the subsidiary may not be deducted from the taxable profits of the parent company. That provision also states that where the management costs relating to the holding in such a case are fixed as a flat rate, their amount may not exceed 5% of the profits distributed by the subsidiary.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7742">
+          <num>73</num>
+          <content eId="para_7742__content">
+            <p>Article 4 of that directive is thus aimed at preventing the profits distributed to a resident parent company by a non-resident subsidiary from being taxed first in the hands of the subsidiary in its State of residence and then in the hands of the parent company in its State of residence.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7743">
+          <num>74</num>
+          <content eId="para_7743__content">
+            <p>In the present case, it must be pointed out, first, that it is apparent from the order for reference that, when transposing the Parent-Subsidiary Directive, the Kingdom of Belgium opted for the exemption system. In addition, it used the option provided for in Article 4(3) of the directive. Profits originating from the non-resident subsidiaries of Belgian parent companies are thus exempt to the extent of 95%.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7744">
+          <num>75</num>
+          <content eId="para_7744__content">
+            <p>Second, it is common ground that, where the profits distributed to a resident parent company by a non-resident subsidiary are distributed by that parent company after the year in which they were received, the `fairness tax' has the consequence of subjecting those profits to taxation exceeding the 5% ceiling provided for in Article 4(3), and therefore results in double taxation of those profits.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7745">
+          <num>76</num>
+          <content eId="para_7745__content">
+            <p>The question then arises as to whether such double taxation is contrary to the Parent-Subsidiary Directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7746">
+          <num>77</num>
+          <content eId="para_7746__content">
+            <p>According to the Belgian and French Governments, the profits redistributed by a parent company to its shareholders do not fall within the scope of Article 4(1)(a) of the Parent-Subsidiary Directive, that provision being applicable only when a parent company receives profits distributed by its subsidiary.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7747">
+          <num>78</num>
+          <content eId="para_7747__content">
+            <p>That interpretation, which follows neither from the wording of that provision nor from its context or purposes, cannot be accepted.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7748">
+          <num>79</num>
+          <content eId="para_7748__content">
+            <p>In the first place, in providing that the Member State of the parent company and the Member State of the permanent establishment are to `refrain from taxing such profits', that provision prohibits Member States from taxing the parent company or its permanent establishment in respect of the profits distributed by the subsidiary to its parent company, without drawing a distinction based on whether the chargeable event of the taxation of the parent company is the receipt of those profits or their redistribution.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7749">
+          <num>80</num>
+          <content eId="para_7749__content">
+            <p>In the second place, as mentioned in paragraphs 70 to 71 above, the Parent-Subsidiary Directive aims to eliminate double taxation of profits distributed by a subsidiary to its parent company at the level of the parent company. Taxation of those profits by the Member State of the parent company in the hands of that company when they are redistributed, which has the effect of subjecting those profits to taxation exceeding in fact the 5% ceiling provided for in Article 4(3) of the directive, would result in double taxation at the level of that company, which is prohibited by that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7750">
+          <num>81</num>
+          <content eId="para_7750__content">
+            <p>That finding, as the Advocate General essentially indicated in point 54 of her Opinion, is not called into question by paragraph 105 of the judgment of 12 December 2006, Test Claimants in the FII Group Litigation ( C‑446/04, EU:C:2006:774), since, in that paragraph, the Court considered only the conformity with the Parent-Subsidiary Directive of certain methods of calculating the amount of advance payment of corporation tax when a resident parent company redistributes dividends received from a non-resident company, and not the conformity with the directive of the advance payment, in such a case, of that tax.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_7751">
+          <num>82</num>
+          <content eId="para_7751__content">
+            <p>Accordingly, the answer to the third question is that Article 4(1)(a) of the Parent-Subsidiary Directive, read in conjunction with Article 4(3), must be interpreted as precluding national tax legislation, such as that at issue in the main proceedings, in so far as that legislation, in a situation where profits received by a parent company from its subsidiary are distributed by the parent company after the year in which they were received, has the consequence of subjecting those profits to taxation exceeding the 5% ceiling provided for in that provision.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_7752">
+          <num>83</num>
+          <content eId="para_7752__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (First Chamber) hereby rules: 1. Freedom of establishment must be interpreted as not precluding tax legislation of a Member State, such as that at issue in the main proceedings, under which both a non-resident company conducting an economic activity in that Member State through a permanent establishment and a resident company, including the resident subsidiary of a non-resident company, are subject to a tax such as the `fairness tax' when they distribute dividends which, as a result of the use of certain tax advantages provided for by the national tax system, are not included in their final taxable profits, provided that the method of determining the taxable amount of that tax does not in fact lead to that non-resident company being treated in a less advantageous manner than a resident company, which is for the referring court to ascertain. 2. Article 5 of Council Directive 2011/96/EU of 30 November 2011 on the common system of taxation applicable in the case of parent companies and subsidiaries of different Member States must be interpreted as not precluding tax legislation of a Member State, such as that at issue in the main proceedings, providing for a tax such as the `fairness tax', to which non-resident companies conducting an economic activity in that Member State through a permanent establishment and resident companies, including the resident subsidiary of a non-resident company, are subject when they distribute dividends which, as a result of the use of certain tax advantages provided for by the national tax system, are not included in their final taxable profits. 3. Article 4(1)(a) of Directive 2011/96, read in conjunction with Article 4(3) thereof, must be interpreted as precluding national tax legislation, such as that at issue in the main proceedings, in so far as that legislation, in a situation where profits received by a parent company from its subsidiary are distributed by the parent company after the year in which they were received, has the consequence of subjecting those profits to taxation exceeding the 5% ceiling provided for in that provision.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Dutch.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

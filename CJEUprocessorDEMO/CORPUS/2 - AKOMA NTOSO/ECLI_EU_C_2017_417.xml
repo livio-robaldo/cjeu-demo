@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+      <references source="#source">
+        <TLCOrganization eId="company_36" showAs="" href="/akn/ontology/Organization/Company/company_36" />
+      </references>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Fifth Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>1 June 2017 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>`Reference for a preliminary ruling -- Taxation -- Value added tax (VAT) -- External transit procedure -- Goods transported through a free port located in a Member State -- Legislation of that Member State excluding free ports from its national fiscal territory -- Removal from customs supervision -- Incurrence of a customs debt and chargeability of VAT' In Case C‑571/15, REQUEST for a preliminary ruling under Article 267 TFEU from the Hessisches Finanzgericht (Finance Court, Hesse, Germany), made by decision of 29 September 2015, received at the Court on 6 November 2015, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#company_36">Wallenborn Transports SA</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#">Hauptzollamt Gießen</party>
+      </p>
+      <p>, THE COURT (Fifth Chamber), composed of J.L. da Cruz Vilaça, President of the Chamber, M. Berger, A. Borg Barthet (Rapporteur), E. Levits and F. Biltgen, Judges, Advocate General: M. Campos Sánchez-Bordona, Registrar: A. Calot Escobar, having regard to the written procedure, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>
+            <organization refersTo="#company_36">Wallenborn Transports SA</organization>
+          </p>
+          <p>, by B. Klüver, Rechtsanwalt,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Greek Government, by E. Tsaousi and A. Dimitrakopoulou, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by A. Caeiros, M. Wasmeier and L. Grønfeldt, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 13 December 2016,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <tblock>
+        <p>Judgment</p>
+      </tblock>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_8662">
+          <num>1</num>
+          <content eId="para_8662__content">
+            <p>This request for a preliminary ruling concerns the interpretation of the first paragraph of Article 61 and Article 71(1) of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax ( OJ 2006 L 347, p. 1), as amended by Council Directive 2007/75/EC of 20 December 2007 ( OJ 2007 L 346, p. 13) ( `the VAT Directive'), and of Articles 203(1) and 204(1)(a) of Council Regulation (EEC) No 2913/92 of 12 October 1992 establishing the Community Customs Code ( OJ 1992 L 302, p. 1), as amended by Council Regulation (EC) No 1791/2006 of 20 November 2006 ( OJ 2006 L 363, p. 1) ( `the Customs Code').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8663">
+          <num>2</num>
+          <content eId="para_8663__content">
+            <p>The request has been made in proceedings between</p>
+            <p>
+              <organization refersTo="#company_36">Wallenborn Transports SA</organization>
+            </p>
+            <p>( `Wallenborn') and Hauptzollamt Gießen (Giessen customs office, Germany) concerning Wallenborn's obligation to pay the value added tax (VAT) arising as a consequence of the incurrence of a customs debt.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <tblock>
+          <p>The VAT Directive</p>
+        </tblock>
+        <paragraph eId="para_8664">
+          <num>3</num>
+          <content eId="para_8664__content">
+            <p>Under Article 2(1) of the VAT Directive: `The following transactions shall be subject to VAT: ...</p>
+            <blockList>
+              <item>
+                <num>(d)</num>
+                <p>the importation of goods.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8665">
+          <num>4</num>
+          <content eId="para_8665__content">
+            <p>Article 5 of the VAT Directive, which forms part of Title II thereof, entitled `Territorial scope', provides as follows: `For the purposes of applying this Directive, the following definitions shall apply:</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>``Community '' and ``territory of the Community '' mean the territories of the Member States as defined in point (2);</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>``Member State '' and ``territory of a Member State '' mean the territory of each Member State of the Community to which the Treaty establishing the European Community is applicable, in accordance with Article 299 of that Treaty, with the exception of any territory referred to in Article 6 of this Directive;</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>``third territories '' means those territories referred to in Article 6;</p>
+              </item>
+              <item>
+                <num>(4)</num>
+                <p>``third country '' means any State or territory to which the Treaty is not applicable.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8666">
+          <num>5</num>
+          <content eId="para_8666__content">
+            <p>Article 6 of that directive provides: `1.   This Directive shall not apply to the following territories forming part of the customs territory of the Community:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>Mount Athos;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>the Canary Islands;</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>the French overseas departments;</p>
+              </item>
+              <item>
+                <num>(d)</num>
+                <p>the Åland Islands;</p>
+              </item>
+              <item>
+                <num>(e)</num>
+                <p>the Channel Islands. 2.   This Directive shall not apply to the following territories not forming part of the customs territory of the Community:</p>
+                <blockList>
+                  <item>
+                    <num>(a)</num>
+                    <p>the Island of Heligoland;</p>
+                  </item>
+                  <item>
+                    <num>(b)</num>
+                    <p>the territory of Büsingen;</p>
+                  </item>
+                  <item>
+                    <num>(c)</num>
+                    <p>Ceuta;</p>
+                  </item>
+                  <item>
+                    <num>(d)</num>
+                    <p>Melilla;</p>
+                  </item>
+                  <item>
+                    <num>(e)</num>
+                    <p>Livigno;</p>
+                  </item>
+                  <item>
+                    <num>(f)</num>
+                    <p>Campione d'Italia;</p>
+                  </item>
+                  <item>
+                    <num>(g)</num>
+                    <p>the Italian waters of Lake Lugano.'</p>
+                  </item>
+                </blockList>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8667">
+          <num>6</num>
+          <content eId="para_8667__content">
+            <p>Article 30 of the VAT Directive provides as follows: ```Importation of goods '' shall mean the entry into the Community of goods which are not in free circulation within the meaning of Article 24 of the Treaty. In addition to the transaction referred to in the first paragraph, the entry into the Community of goods which are in free circulation, coming from a third territory forming part of the customs territory of the Community, shall be regarded as importation of goods.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8668">
+          <num>7</num>
+          <content eId="para_8668__content">
+            <p>Article 60 of that directive is worded as follows: `The place of importation of goods shall be the Member State within whose territory the goods are located when they enter the Community.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8669">
+          <num>8</num>
+          <content eId="para_8669__content">
+            <p>Article 61 of that directive provides as follows: `By way of derogation from Article 60, where, on entry into the Community, goods which are not in free circulation are placed under one of the arrangements or situations referred to in Article 156, or under temporary importation arrangements with total exemption from import duty, or under external transit arrangements, the place of importation of such goods shall be the Member State within whose territory the goods cease to be covered by those arrangements or situations. Similarly, where, on entry into the Community, goods which are in free circulation are placed under one of the arrangements or situations referred to in Articles 276 and 277, the place of importation shall be the Member State within whose territory the goods cease to be covered by those arrangements or situations.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8670">
+          <num>9</num>
+          <content eId="para_8670__content">
+            <p>Article 70 of the VAT Directive provides as follows: `The chargeable event shall occur and VAT shall become chargeable when the goods are imported.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8671">
+          <num>10</num>
+          <content eId="para_8671__content">
+            <p>Under Article 71 of that directive: `1.   Where, on entry into the Community, goods are placed under one of the arrangements or situations referred to in Articles 156, 276 and 277, or under temporary importation arrangements with total exemption from import duty, or under external transit arrangements, the chargeable event shall occur and VAT shall become chargeable only when the goods cease to be covered by those arrangements or situations. However, where imported goods are subject to customs duties, to agricultural levies or to charges having equivalent effect established under a common policy, the chargeable event shall occur and VAT shall become chargeable when the chargeable event in respect of those duties occurs and those duties become chargeable. 2.   Where imported goods are not subject to any of the duties referred to in the second subparagraph of paragraph 1, Member States shall, as regards the chargeable event and the moment when VAT becomes chargeable, apply the provisions in force governing customs duties.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8672">
+          <num>11</num>
+          <content eId="para_8672__content">
+            <p>Article 156 of that directive provides: `1.   Member States may exempt the following transactions:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>the supply of goods which are intended to be presented to customs and, where applicable, placed in temporary storage;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>the supply of goods which are intended to be placed in a free zone or in a free warehouse;</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>the supply of goods which are intended to be placed under customs warehousing arrangements or inward processing arrangements;</p>
+              </item>
+              <item>
+                <num>(d)</num>
+                <p>the supply of goods which are intended to be admitted into territorial waters in order to be incorporated into drilling or production platforms, for purposes of the construction, repair, maintenance, alteration or fitting-out of such platforms, or to link such drilling or production platforms to the mainland;</p>
+              </item>
+              <item>
+                <num>(e)</num>
+                <p>the supply of goods which are intended to be admitted into territorial waters for the fuelling and provisioning of drilling or production platforms. 2.   The places referred to in paragraph 1 shall be those defined as such by the Community customs provisions in force.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8673">
+          <num>12</num>
+          <content eId="para_8673__content">
+            <p>Article 202 of the VAT Directive provides as follows: `VAT shall be payable by any person who causes goods to cease to be covered by the arrangements or situations listed in Articles 156, 157, 158, 160 and 161.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The Customs Code</p>
+        </tblock>
+        <paragraph eId="para_8674">
+          <num>13</num>
+          <content eId="para_8674__content">
+            <p>Article 4 of the Customs Code provides as follows: `For the purposes of this Code, the following definitions shall apply: ...</p>
+            <blockList>
+              <item>
+                <num>(7)</num>
+                <p>``Community goods '' means goods:</p>
+                <blockList>
+                  <item>
+                    <num>--</num>
+                    <p>wholly obtained in the customs territory of the Community under the conditions referred to in Article 23 and not incorporating goods imported from countries or territories not forming part of the customs territory of the Community. Goods obtained from goods placed under a suspensive arrangement shall not be deemed to have Community status in cases of special economic importance determined in accordance with the committee procedure,</p>
+                  </item>
+                  <item>
+                    <num>--</num>
+                    <p>imported from countries or territories not forming part of the customs territory of the Community which have been released for free circulation,</p>
+                  </item>
+                  <item>
+                    <num>--</num>
+                    <p>obtained or produced in the customs territory of the Community, either from goods referred to in the second indent alone or from goods referred to in first and second indents.</p>
+                  </item>
+                </blockList>
+              </item>
+              <item>
+                <num>(8)</num>
+                <p>``Non-Community goods '' means goods other than those referred to in subparagraph 7. Without prejudice to Articles 163 and 164, Community goods shall lose their status as such when they are actually removed from the customs territory of the Community. ...</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(10)</num>
+                <p>``Import duties '' means:</p>
+                <blockList>
+                  <item>
+                    <num>--</num>
+                    <p>customs duties and charges having an effect equivalent to customs duties payable on the importation of goods,</p>
+                  </item>
+                  <item>
+                    <num>--</num>
+                    <p>import charges introduced under the common agricultural policy or under the specific arrangements applicable to certain goods resulting from the processing of agricultural products. ...</p>
+                  </item>
+                </blockList>
+                <blockList>
+                  <item>
+                    <num>(15)</num>
+                    <p>``Customs-approved treatment or use of goods '' means:</p>
+                    <blockList>
+                      <item>
+                        <num>(a)</num>
+                        <p>the placing of goods under a customs procedure;</p>
+                      </item>
+                      <item>
+                        <num>(b)</num>
+                        <p>their entry into a free zone or free warehouse; ...</p>
+                      </item>
+                    </blockList>
+                  </item>
+                  <item>
+                    <num>(16)</num>
+                    <p>``Customs procedure '' means: ...</p>
+                  </item>
+                </blockList>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>transit; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8675">
+          <num>14</num>
+          <content eId="para_8675__content">
+            <p>Article 37 of the Customs Code provides as follows: `1.   Goods brought into the customs territory of the Community shall, from the time of their entry, be subject to customs supervision. They may be subject to customs controls in accordance with the provisions in force. 2.   They shall remain under such supervision for as long as necessary to determine their customs status, if appropriate, and in the case of non-Community goods and without prejudice to Article 82(1), until their customs status is changed, they enter a free zone or free warehouse or they are re-exported or destroyed in accordance with Article 182.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8676">
+          <num>15</num>
+          <content eId="para_8676__content">
+            <p>Article 92 of that code provides as follows: `1.   The external transit procedure shall end and the obligations of the holder shall be met when the goods placed under the procedure and the required documents are produced at the customs office of destination in accordance with the provisions of the procedure in question. 2.   The customs authorities shall discharge the procedure when they are in a position to establish, on the basis of a comparison of the data available to the office of departure and those available to the customs office of destination, that the procedure has ended correctly.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8677">
+          <num>16</num>
+          <content eId="para_8677__content">
+            <p>Article 96 of that code provides: `1. `The principal shall be the [holder] under the external Community transit procedure. He shall be responsible for:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>production of the goods intact at the customs office of destination by the prescribed time limit and with due observance of the measures adopted by the customs authorities to ensure identification;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>observance of the provisions relating to the Community transit procedure. 2.   Notwithstanding the principal's obligations under paragraph 1, a carrier or recipient of goods who accepts goods knowing that they are moving under Community transit shall also be responsible for production of the goods intact at the customs office of destination by the prescribed time limit and with due observance of the measures adopted by the customs authorities to ensure identification.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8678">
+          <num>17</num>
+          <content eId="para_8678__content">
+            <p>Under Article 166 of the Customs Code: `Free zones and free warehouses shall be parts of the customs territory of the Community or premises situated in that territory and separated from the rest of it in which:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>Non-Community goods are considered, for the purpose of import duties and commercial policy import measures, as not being on Community customs territory, provided they are not released for free circulation or placed under another customs procedure or used or consumed under conditions other than those provided for in customs regulations;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>Community goods for which such provision is made under Community legislation governing specific fields qualify, by virtue of being placed in a free zone or free warehouse, for measures normally attaching to the export of goods.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8679">
+          <num>18</num>
+          <content eId="para_8679__content">
+            <p>Article 167 of the Customs Code provides: `1.   Member States may designate parts of the customs territory of the Community as free zones or authorise the establishment of free warehouses. 2.   Member States shall determine the area covered by each zone. Premises which are to be designated as free warehouses must be approved by Member States. 3.   Free zones, with the exception of those designated in accordance with Article 168a, shall be enclosed. The Member States shall define the entry and exit points of each free zone or free warehouse. ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8680">
+          <num>19</num>
+          <content eId="para_8680__content">
+            <p>Article 170 of that code provides: `1.   Without prejudice to Article 168(4), goods entering a free zone or free warehouse need not be presented to the customs authorities, nor need a customs declaration be lodged. 2.   Goods shall be presented to the customs authorities and undergo the prescribed customs formalities where:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>they have been placed under a customs procedure which is discharged when they enter a free zone or free warehouse; however, where the customs procedure in question permits exemption from the obligation to present goods, such presentation shall not be required; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8681">
+          <num>20</num>
+          <content eId="para_8681__content">
+            <p>Article 202(1) and (2) of that code provides as follows: `1. `A customs debt on importation shall be incurred through:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>the unlawful introduction into the customs territory of the Community of goods liable to import duties, or</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>the unlawful introduction into another part of that territory of such goods located in a free zone or free warehouse. For the purpose of this Article, unlawful introduction means any introduction in violation of the provisions of Articles 38 to 41 and the second indent of Article 177. 2.   The customs debt shall be incurred at the moment when the goods are unlawfully introduced.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8682">
+          <num>21</num>
+          <content eId="para_8682__content">
+            <p>Article 203 of that code states: `1. `A customs debt on importation shall be incurred through:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>the unlawful removal from customs supervision of goods liable to import duties. 2.   The customs debt shall be incurred at the moment when the goods are removed from customs supervision. 3.   The debtors shall be:</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>the person who removed the goods from customs supervision,</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>any persons who participated in such removal and who were aware or should reasonably have been aware that the goods were being removed from customs supervision,</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>any persons who acquired or held the goods in question and who were aware or should reasonably have been aware at the time of acquiring or receiving the goods that they had been removed from customs supervision, and</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>where appropriate, the person required to fulfil the obligations arising from temporary storage of the goods or from the use of the customs procedure under which those goods are placed.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8683">
+          <num>22</num>
+          <content eId="para_8683__content">
+            <p>Article 204 of the Customs Code provides as follows: `1. `A customs debt on importation shall be incurred through:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>non-fulfilment of one of the obligations arising, in respect of goods liable to import duties, from their temporary storage or from the use of the customs procedure under which they are placed ... in cases other than those referred to in Article 203 unless it is established that those failures have no significant effect on the correct operation of the temporary storage or customs procedure in question.' 2.   The customs debt shall be incurred either at the moment when the obligation whose non-fulfilment gives rise to the customs debt ceases to be met or at the moment when the goods are placed under the customs procedure concerned where it is established subsequently that a condition governing the placing of the goods under the said procedure or the granting of a reduced or zero rate of import duty by virtue of the end-use of the goods was not in fact fulfilled. 3.   The debtor shall be the person who is required, according to the circumstances, either to fulfil the obligations arising, in respect of goods liable to import duties, from their temporary storage or from the use of the customs procedure under which they have been placed, or to comply with the conditions governing the placing of the goods under that procedure.'</p>
+                <tblock>
+                  <p>The implementing regulation</p>
+                </tblock>
+                <p>23 Article 356 of Commission Regulation (EEC) No 2454/93 of 2 July 1993 laying down provisions for the implementation of Regulation No 2913/92 ( OJ 1993 L 253, p. 1), as amended by Commission Regulation (EC) No 1192/2008 of 17 November 2008 ( OJ 2008 L 329, p. 1), ( `the implementing regulation') provides as follows: `1.   The office of departure shall set a time limit within which the goods must be presented at the office of destination, taking into account the itinerary, any current transport or other legislation and, where appropriate, the details communicated by the principal. 2.   The time limit prescribed by the office of departure shall be binding on the customs authorities of the Member States whose territory is entered during a Community transit operation and shall not be altered by those authorities.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8684">
+          <num>24</num>
+          <content eId="para_8684__content">
+            <p>Title V of Part II of the implementing regulation, entitled `Other customs-approved treatment or uses', includes Chapter 1 relating to `Free zones and free warehouses', which contains Article 799 of that regulation. That article provides as follows: `For the purposes of this Chapter:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>``control type I '' means controls principally based on the existence of a fence; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8685">
+          <num>25</num>
+          <content eId="para_8685__content">
+            <p>Part IV of the implementing regulation on customs debt contains Title II, entitled `Incurrence of the debt', which contains Article 859 of that regulation. Under that article: `The following failures shall be considered to have no significant effect on the correct operation of the temporary storage or customs procedure in question within the meaning of Article 204(1) of the [Customs] Code, provided:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>they do not constitute an attempt to remove the goods unlawfully from customs supervision,</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>they do not imply obvious negligence on the part of the person concerned, and</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>all the formalities necessary to regularise the situation of the goods are subsequently carried out: ... 2. in the case of goods placed under a transit procedure, failure to fulfil one of the obligations entailed by the use of that procedure, where the following conditions are fulfilled:</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>the goods entered for the procedure were actually presented intact at the office of destination; ... 6. in the case of goods in temporary storage or entered for a customs procedure, removal of the goods from the customs territory of the Community or their introduction into a free zone of control type I within the meaning of Article 799 or into a free warehouse without completion of the necessary formalities; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>German law</p>
+        </tblock>
+        <tblock>
+          <p>The Law on turnover tax</p>
+        </tblock>
+        <paragraph eId="para_8686">
+          <num>26</num>
+          <content eId="para_8686__content">
+            <p>Paragraph 1 of the Umsatzsteuergesetz ( `Law on turnover tax') of 21 February 2005 (BGBl. 2005 I, p. 386), in the version applicable to the facts at issue in the main proceedings, is worded as follows: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>The following transactions shall be subject to turnover tax: ... 4. the importation of goods into the territory of the country ... (import turnover tax); ...</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>For the purposes of this law ``territory of the country '' is the territory of the Federal Republic of Germany with the exception of ... the free zones of control type I in accordance with the first sentence of Paragraph 1(1) of the Law on customs administration (Zollverwaltungsgesetz) (free ports), ... For the purposes of this Law ``foreign territory '' is the territory that under this Law is not territory of the country. ...</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>The following transactions performed in the free ports ... are to be treated as transactions carried out within the territory of the country; 1. supplies and intra-Community acquisitions of goods that are intended for use or consumption within the designated areas ...; ... 4. the supply of goods which at the time of supply ... ...</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(b)</num>
+                <p>are in free circulation for the purposes of import turnover tax; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8687">
+          <num>27</num>
+          <content eId="para_8687__content">
+            <p>Paragraph 13(2) of the Law on turnover tax, entitled `Chargeability of tax', provides as follows: `Paragraph 21(2) is applicable in respect of import turnover tax.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8688">
+          <num>28</num>
+          <content eId="para_8688__content">
+            <p>Paragraph 21 of the Law on turnover tax, entitled `Special provisions in respect of import turnover tax', provides as follows: ` ...</p>
+            <blockList>
+              <item>
+                <num>(2)</num>
+                <p>The rules on customs duties shall apply mutatis mutandis to import turnover tax; ...(2a)   Customs clearance locations on foreign territory at which authorised German customs officials carry out official acts in accordance with subparagraph 2 also form part of the territory of the country in this respect. ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The Law on customs administration</p>
+        </tblock>
+        <paragraph eId="para_8689">
+          <num>29</num>
+          <content eId="para_8689__content">
+            <p>Paragraph 1(1) of the Zollverwaltungsgesetz (Law on customs administration), in the version applicable to the facts at issue in the main proceedings, is worded as follows: `The movement of goods across the border of the customs territory of the European Communities (customs territory of the Community) and across the borders of free zones within the meaning of Article 167(3) of the Customs Code in conjunction with Article 799(a) of the implementing regulation ... ( free zones of control type I ) shall be subject to customs supervision within the area of application of this Law . ...'</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_8690">
+          <num>30</num>
+          <content eId="para_8690__content">
+            <p>On 11 June 2009, goods which had been brought into the customs territory of the European Union and presented on the previous day at the airport in Frankfurt am Main (Germany), after having been placed in temporary storage for a short period, were declared under the external Community transit procedure.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8691">
+          <num>31</num>
+          <content eId="para_8691__content">
+            <p>The consignee of those goods was an undertaking established in the free port of Hamburg (Germany), which, at the material time, was a free zone of control type I within the meaning of Article 799 of the implementing regulation, the limits of which were under customs supervision. The transit procedure was to be completed by 17 June 2009.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8692">
+          <num>32</num>
+          <content eId="para_8692__content">
+            <p>Wallenborn, as the designated carrier, transported the goods in question by heavy goods vehicle to the free port of Hamburg, where they were unloaded on 11 June 2009 after the customs seal had been broken. However, the goods were not presented at the customs office of destination. During their time spent in the free zone, the goods in question were not released into free circulation, consumed or used.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8693">
+          <num>33</num>
+          <content eId="para_8693__content">
+            <p>On 16 June 2009, the goods in question were loaded into a container and transported by ship to Finland, where they were placed under the customs warehousing procedure prior to being transported to Russia.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8694">
+          <num>34</num>
+          <content eId="para_8694__content">
+            <p>On 2 September 2010, the Giessen customs office issued a notice of assessment of customs duty and import turnover tax both to the principal, which, as the consignor, had declared the goods in question under the transit procedure, and to Wallenborn, as the carrier.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8695">
+          <num>35</num>
+          <content eId="para_8695__content">
+            <p>Payment, however, was sought only from the sole applicant in the main proceedings, on the ground that the principal had demonstrated that the goods in question and the transit document had been duly handed over, whereas Wallenborn had failed to conclude the transit procedure correctly. The consignee of those goods indicated that it had assumed that the goods had undergone customs clearance, and it also stated that the transit accompanying document had not been provided to it at the time of delivery.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8696">
+          <num>36</num>
+          <content eId="para_8696__content">
+            <p>In support of its action before the referring court, Wallenborn acknowledges that a customs debt was incurred when the heavy goods vehicle transporting the goods in question was unloaded and the customs seal was broken. However, it claims that the free port of Hamburg, as a free zone, was not part of German national territory within the meaning of the Law on turnover tax. Wallenborn infers from this that the chargeable event in respect of the customs debt, within the meaning of Article 203(1) of the Customs Code, took place outside the fiscal territory of Germany and that accordingly there was no taxable transaction.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8697">
+          <num>37</num>
+          <content eId="para_8697__content">
+            <p>The applicant in the main proceedings adds that, although customs duties and import turnover tax are different types of taxes, the customs debt and the debt relating to import turnover tax cannot be incurred on different dates. Likewise, the import turnover tax cannot be incurred on the basis of a chargeable event which differs from the chargeable event which gave rise to the customs debt.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8698">
+          <num>38</num>
+          <content eId="para_8698__content">
+            <p>For its part, the Giessen customs office contends that the import turnover tax under Article 203(1) of the Customs Code became chargeable at the same time as the customs debt, irrespective of the fact that the chargeable event for the customs debt took place on the site of the free port of Hamburg. It maintains, furthermore, that it is irrelevant that the goods in question were shipped to Finland, and subsequently exported.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8699">
+          <num>39</num>
+          <content eId="para_8699__content">
+            <p>Taking the view that the dispute in the main proceedings raises questions concerning the interpretation of EU law, the Hessisches Finanzgericht (Finance Court, Hesse) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Is the VAT rule of a Member State which states that free zones of control type I (free ports) do not form part of the territory of the country one of the situations referred to in Article 156 as specified in the first paragraph of Article 61 and in the first subparagraph of Article 71(1) of the VAT Directive? If that question is answered in the affirmative:</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>Where goods are subject to customs duties, does the chargeable event also occur and VAT also become chargeable in accordance with the second subparagraph of Article 71(1) of the VAT Directive when the chargeable event in respect of those duties occurs and those duties become chargeable, if the chargeable event in respect of those duties and the chargeability of those duties occur within a free zone of control type I and the VAT legislation of the Member State to which the free zone belongs provides that free zones of control type I (free ports) do not form part of the territory of the country? If Question 2 is answered in the negative:</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>Where goods transported under the external transit procedure without that procedure ending in a free zone of control type I are removed from customs supervision in the free zone so that a customs debt is incurred in respect of the goods under Article 203(1) of the Customs Code, does the chargeable event occur and VAT become chargeable in respect of goods at the same time in accordance with another chargeable event, namely under Article 204(1)(a) of the Customs Code, because, prior to the act by means of which the goods were removed from customs supervision, the goods were not presented to customs at one of the customs offices competent in respect of the free zone situated within the territory of the country and the transit procedure was not ended there?'</p>
+                <tblock>
+                  <p>Consideration of the questions referred</p>
+                </tblock>
+                <tblock>
+                  <p>The first question</p>
+                </tblock>
+                <p>40 By its first question, the referring court asks, in essence, whether the first paragraph of Article 61 and the first subparagraph of Article 71(1) of the VAT Directive must be interpreted as meaning that goods located inside a free zone may be regarded as coming within the scope of `one of the situations referred to in Article 156' of that directive when, by virtue of a provision of national legislation of the Member State concerned, free zones are not part of national territory for purposes of the imposition of VAT.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8700">
+          <num>41</num>
+          <content eId="para_8700__content">
+            <p>As a preliminary point, it must be noted that the referring court appears to take the view that a positive reply to that question is subject to the condition that such a national provision may be regarded as introducing a tax exemption within the meaning of Article 156 of the VAT Directive. According to the Hessisches Finanzgericht (Finance Court, Hesse), a provision by virtue of which free zones are, in regard to VAT, excluded from national territory does not itself constitute such an exemption.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8701">
+          <num>42</num>
+          <content eId="para_8701__content">
+            <p>However, it must be noted, as observed by the Advocate General in points 50 and 51 of his Opinion, that, while Article 156 of the VAT Directive permits Member States to exempt certain types of transaction which it lists and which include, in point (b), the supply of goods which are intended to be placed in a free zone or in a free warehouse, the first paragraph of Article 61 and the first subparagraph of Article 71(1) of that directive refer not to the conditions for the application of Article 156 but solely to the situations and customs arrangements referred to in that article.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8702">
+          <num>43</num>
+          <content eId="para_8702__content">
+            <p>Under the first subparagraph of Article 71(1) of the VAT Directive, where, on entry into the European Union, goods are placed under one of the arrangements or situations referred to in Article 156 of that directive, the chargeable event occurs and VAT becomes chargeable when the goods cease to be covered by those arrangements or situations. In that case, in accordance with the first paragraph of Article 61 of that directive, the place of importation of such goods is the Member State within whose territory the goods cease to be covered by those arrangements or situations.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8703">
+          <num>44</num>
+          <content eId="para_8703__content">
+            <p>Accordingly, the reference in the first paragraph of Article 61 and in the first subparagraph of Article 71(1) of the VAT Directive to `one of the arrangements or situations referred to in Article 156' must be interpreted as meaning that that reference includes free zones.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8704">
+          <num>45</num>
+          <content eId="para_8704__content">
+            <p>It follows from the foregoing considerations that, in accordance with those provisions, goods placed in a free zone cannot, in principle, be considered to have been imported for VAT purposes. In that regard, the free zones referred to in a national provision which states that, for the purposes of imposing VAT, free zones are not part of its national territory correspond to those referred to in Article 156 of the VAT Directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8705">
+          <num>46</num>
+          <content eId="para_8705__content">
+            <p>In the light of the foregoing, the answer to the first question is that the first paragraph of Article 61 and the first subparagraph of Article 71(1) of the VAT Directive must be interpreted as meaning that the reference to `one of the arrangements or situations referred to' in Article 156 of that directive includes free zones.</p>
+            <tblock>
+              <p>The second question</p>
+            </tblock>
+            <p>47 By its second question, the referring court asks, essentially, whether Article 71(1) of the VAT Directive must be interpreted as meaning that the removal of goods from customs supervision in a free zone gives rise to the chargeable event and causes VAT to become chargeable.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8706">
+          <num>48</num>
+          <content eId="para_8706__content">
+            <p>Under the first subparagraph of Article 71(1) of the VAT Directive, where, on entry into the European Union, goods are placed under the external transit procedure or one of the arrangements or situations referred to in Article 156 of that directive, inter alia, the chargeable event occurs and VAT becomes chargeable when the goods cease to be covered by those arrangements or situations.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8707">
+          <num>49</num>
+          <content eId="para_8707__content">
+            <p>The second subparagraph of Article 71(1) of the VAT Directive covers the specific situation concerning imported goods subject to customs duties, to agricultural levies or to charges having equivalent effect established under a common policy, for which the chargeable event occurs and the tax becomes chargeable when the chargeable event in respect of those duties occurs and those duties become chargeable.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8708">
+          <num>50</num>
+          <content eId="para_8708__content">
+            <p>In the case in the main proceedings, it is common ground that the removal of the goods in question from customs supervision, as a consequence of the customs seals having been broken when they should not have been, gave rise to a customs debt under Article 203(1) of the Customs Code (see, in that regard, judgment of 15 May 2014, X, C‑480/12, EU:C:2014:329, paragraph 34).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8709">
+          <num>51</num>
+          <content eId="para_8709__content">
+            <p>That removal from customs supervision also ended the external transit procedure (see, to that effect, judgment of 11 July 2002, Liberexim, C‑371/99, EU:C:2002:433, paragraph 53).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8710">
+          <num>52</num>
+          <content eId="para_8710__content">
+            <p>However, in so far as that removal from customs supervision took place inside a free zone, the goods at issue in the main proceedings continued to be in one of the situations referred to in Article 156(1)(b) of the VAT Directive, with the result that the conditions for incurrence of a VAT debt laid down in the first subparagraph of Article 71(1) of that directive were not, in principle, met.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8711">
+          <num>53</num>
+          <content eId="para_8711__content">
+            <p>As is apparent from paragraph 45 of the present judgment, the location of the goods inside a free zone at the time of their removal from customs supervision also precludes the application of the second subparagraph of Article 71(1) of the VAT Directive since there is no place of importation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8712">
+          <num>54</num>
+          <content eId="para_8712__content">
+            <p>In that context, it must nevertheless be noted that the Court has held that, in addition to the customs debt, there may also be a requirement to pay VAT in the case where, on the basis of the particular unlawful conduct which gave rise to the customs debt, it can be presumed that the goods entered the economic network of the European Union and, consequently, that they may have undergone consumption, that is, the act on which VAT is levied (judgment of 2 June 2016, Eurogate Distribution and DHL Hub Leipzig, C‑226/14 and C‑228/14, EU:C:2016:405, paragraph 65).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8713">
+          <num>55</num>
+          <content eId="para_8713__content">
+            <p>In this regard, as the Advocate General observed in points 67 to 69 of his Opinion, in the event that goods liable to import duties are removed from customs supervision in a free zone and are no longer located in that zone, it should, in principle, be presumed that they have entered the economic network of the European Union.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8714">
+          <num>56</num>
+          <content eId="para_8714__content">
+            <p>However, where, in circumstances such as those of the case in the main proceedings, referred to in paragraphs 32 and 33 of the present judgment, it transpires that the goods concerned did not enter the economic network of the European Union, which is a matter for the referring court to establish, no import VAT can be payable.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8715">
+          <num>57</num>
+          <content eId="para_8715__content">
+            <p>Having regard to the foregoing, the answer to the second question is that Article 71(1) of the VAT Directive must be interpreted as meaning that the removal of goods from customs supervision in a free zone does not give rise to the chargeable event or make import VAT chargeable if those goods did not enter the economic network of the European Union, this being a matter for the referring court to determine.</p>
+            <tblock>
+              <p>The third question</p>
+            </tblock>
+            <p>58 By its third question, the referring court asks, in essence, whether the second subparagraph of Article 71(1) of the VAT Directive must be interpreted as meaning that, where a customs debt is incurred by virtue of Article 203 of the Customs Code and no VAT debt is consequently incurred, on account of the circumstances of the dispute in the main proceedings, Article 204 of that code should be applied for the purpose of providing a basis for charging VAT.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8716">
+          <num>59</num>
+          <content eId="para_8716__content">
+            <p>In this regard, it should be noted at the outset, as observed by the Advocate General in point 74 of his Opinion, that the referring court assumes that, in circumstances such as those of the dispute in the main proceedings, Articles 203 and 204 of the Customs Code may be simultaneously applicable.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8717">
+          <num>60</num>
+          <content eId="para_8717__content">
+            <p>That court appears to take the view that, where the removal of goods from customs supervision does not lead to the incurrence of a VAT debt, it is still necessary to determine whether the imposition of that tax can be based on the incurrence of a customs debt under Article 204(1)(a) of the Customs Code.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8718">
+          <num>61</num>
+          <content eId="para_8718__content">
+            <p>It must, however, be noted that, as is apparent from its wording, Article 204 of the Customs Code applies only in cases not covered by Article 203 of that code. Accordingly, in order to determine which of those two articles causes a customs debt to be incurred, it is necessary, as a matter of priority, to consider whether in the factual situation in question there was removal from customs supervision for the purposes of Article 203(1) of the Customs Code. Only if that question is answered in the negative is it possible that Article 204 of the Customs Code may apply (judgment of 12 February 2004, Hamann International, C‑337/01, EU:C:2004:90, paragraphs 29 and 30).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8719">
+          <num>62</num>
+          <content eId="para_8719__content">
+            <p>Consequently, where goods liable to incur import duties have been removed from customs supervision, it is not necessary, for the purposes of the second subparagraph of Article 71(1) of the VAT Directive, to apply Article 204(1)(a) of the Customs Code in order to determine whether the imposition of VAT may be based on the incurrence of a customs debt under that provision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8720">
+          <num>63</num>
+          <content eId="para_8720__content">
+            <p>It follows from the foregoing that that answer to the third question is that the second subparagraph of Article 71(1) of the VAT Directive must be interpreted as meaning that, where a customs debt arises by virtue of Article 203 of the Customs Code and no VAT debt is consequently incurred, on account of the circumstances of the dispute in the main proceedings, Article 204 of that code may not be applied for the sole purpose of providing a basis for charging VAT.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_8721">
+          <num>64</num>
+          <content eId="para_8721__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Fifth Chamber) hereby rules: 1. The first paragraph of Article 61 and the first subparagraph of Article 71(1) of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax, as amended by Council Directive 2007/75/EC of 20 December 2007, must be interpreted as meaning that the reference to `one of the arrangements or situations referred to' in Article 156 of that directive includes free zones. 2. Article 71(1) of Directive 2006/112, as amended by Directive 2007/75, must be interpreted as meaning that the removal of goods from customs supervision in a free zone does not give rise to the chargeable event or make import value added tax chargeable if those goods did not enter the economic network of the European Union, this being a matter for the referring court to determine. 3. The second subparagraph of Article 71(1) of Directive 2006/112, as amended by Directive 2007/75, must be interpreted as meaning that, when a customs debt arises by virtue of Article 203 of Council Regulation (EEC) No 2913/92 of 12 October 1992 establishing the Community Customs Code, as amended by Council Regulation (EC) No 1791/2006 of 20 November 2006, and no value added tax debt is consequently incurred, on account of the circumstances of the dispute in the main proceedings, Article 204 of the latter regulation may not be applied for the sole purpose of providing a basis for charging value added tax.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: German.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

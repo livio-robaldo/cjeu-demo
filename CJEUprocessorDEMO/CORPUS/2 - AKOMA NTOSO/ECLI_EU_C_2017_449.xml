@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Grand Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>13 June 2017 (</p>
+      </tblock>
+      <tblock>
+        <p>1)</p>
+      </tblock>
+      <p>`Reference for a preliminary ruling -- Article 355(3) TFEU -- Status of Gibraltar -- Article 56 TFEU -- Freedom to provide services -- Purely internal situation -- Inadmissibility' In Case C‑591/15, REQUEST for a preliminary ruling under Article 267 TFEU from the High Court of Justice (England &amp; Wales), Queen's Bench Division (Administrative Court), United Kingdom, made by decision of 21 September 2015, received at the Court on 13 November 2015, in the proceedings The Queen, on the application of:</p>
+      <p>
+        <party as="appellant" refersTo="#">The Gibraltar Betting and Gaming Association Limited</party>
+      </p>
+      <p>, v</p>
+      <p>
+        <party as="respondent" refersTo="#">Commissioners for Her Majesty's Revenue and Customs</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="respondent" refersTo="#">Her Majesty's Treasury</party>
+      </p>
+      <p>, intervening parties:</p>
+      <p>
+        <party as="intervening" refersTo="#">Her Majesty's Government of Gibraltar</party>
+      </p>
+      <p>, THE COURT (Grand Chamber), composed of K. Lenaerts, President, A. Tizzano, Vice-President, M. Ilešič (Rapporteur), L. Bay Larsen and T. von Danwitz, Presidents of Chambers, J. Malenovský, J.-C. Bonichot, A. Arabadjiev, C. Toader, C. Vajda, S. Rodin, F. Biltgen, and K. Jürimäe, Judges, Advocate General: M. Szpunar, Registrar: K. Malacek, Administrator, having regard to the written procedure and further to the hearing on 4 October 2016, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>The Gibraltar Betting and Gaming Association Limited, by D. Rose QC, J. Boyd, Barrister, and L. J. Cass, Solicitor,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>Her Majesty's Government of Gibraltar, by D. Pannick QC, M. Llamas QC, and R. Mehta, Barrister, instructed by F. Laurence, Solicitor,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the United Kingdom Government, by S. Simmons, M. Holt and D. Robertson, acting as Agents, and by K. Beal QC, J. Oliver and S. Wilkinson, Barristers,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Belgian Government, by L. Van den Broeck and M. Jacobs, acting as Agents, and by R. Verbeke and P. Vlaemminck, advocaten,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Czech Government, by M. Smolek, T. Müller and J. Vláčil, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>Ireland, by E. Creedon, A. Joyce and J. Quaney, acting as Agents, and by C. Power, SC, and C. Toland, BL,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Spanish Government, by M. A. Sampol Pucurull and A. Rubio González, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Portuguese Government, by L. Inez Fernandes, M. Figueiredo, A. Silva Coelho and P. de Sousa Inês, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by R. Lyal and W. Roels, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 19 January 2017,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_9342">
+          <num>1</num>
+          <content eId="para_9342__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Article 56 and Article 355(3) TFEU.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9343">
+          <num>2</num>
+          <content eId="para_9343__content">
+            <p>The request has been made in proceedings between The Gibraltar Betting and Gaming Association Limited ( `the GBGA') and the Commissioners for Her Majesty's Revenue and Customs and Her Majesty's Treasury concerning the lawfulness of a tax regime imposing gambling duties.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>International law</p>
+        </tblock>
+        <paragraph eId="para_9344">
+          <num>3</num>
+          <content eId="para_9344__content">
+            <p>Chapter XI of the Charter of the United Nations, signed in San Francisco on 26 June 1945, entitled `Declaration regarding Non-Self-Governing Territories', includes Article 73, which provides as follows: `Members of the United Nations which have or assume responsibilities for the administration of territories whose peoples have not yet attained a full measure of self-government recognise the principle that the interests of the inhabitants of these territories are paramount, and accept as a sacred trust the obligation to promote to the utmost, within the system of international peace and security established by [the] Charter, the well-being of the inhabitants of those territories, and, to this end: ... e. to transmit regularly to the Secretary-General for information purposes, subject to such limitation as security and constitutional considerations may require, statistical and other information of a technical nature relating to economic, social, and educational conditions in the territories for which they are respectively responsible other than those territories to which Chapters XII and XIII apply.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Status of Gibraltar</p>
+        </tblock>
+        <paragraph eId="para_9345">
+          <num>4</num>
+          <content eId="para_9345__content">
+            <p>Gibraltar was ceded by the King of Spain to the British Crown by the Treaty of Utrecht, concluded between the King of Spain and the Queen of Great Britain on 13 July 1713, which was one of the treaties bringing the War of Spanish Succession to an end. The last sentence of Article X of that treaty made it clear that if the British Crown ever intended to give, sell, or otherwise dispose of ownership of the town of Gibraltar, it would be required to grant preference to the Spanish Crown in priority to any other interested party.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9346">
+          <num>5</num>
+          <content eId="para_9346__content">
+            <p>Gibraltar is a colony of the British Crown. It does not form part of the United Kingdom.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9347">
+          <num>6</num>
+          <content eId="para_9347__content">
+            <p>The system of governance for Gibraltar is set out in the Gibraltar Constitution Order 2006, which entered into force on 1 January 2007. Under the terms of that order, executive authority is vested in a Governor, who is appointed by the Queen, and, for certain domestic matters, in Her Majesty's Government of Gibraltar ( `the Government of Gibraltar'). Legislative authority is vested in the Queen and in the Parliament of Gibraltar, whose members are elected every four years by the Gibraltar electorate. Gibraltar has its own courts. It is possible to appeal against judgments of Gibraltar's highest courts to the Judicial Committee of the Privy Council.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9348">
+          <num>7</num>
+          <content eId="para_9348__content">
+            <p>As regards international law, Gibraltar is classified as a non-self-governing territory within the meaning of Article 73 of the Charter of the United Nations.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9349">
+          <num>8</num>
+          <content eId="para_9349__content">
+            <p>As regards EU law, Gibraltar is a European territory for whose external relations a Member State is responsible within the meaning of Article 355(3) TFEU and to which the provisions of the Treaties apply. The Act concerning the conditions of accession of the Kingdom of Denmark, Ireland and the United Kingdom of Great Britain and Northern Ireland and the adjustments to the Treaties ( OJ 1972 L 73, p. 14) ( `the 1972 Act of Accession') provides, however, that certain parts of the Treaty are not to apply to Gibraltar.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9350">
+          <num>9</num>
+          <content eId="para_9350__content">
+            <p>Article 28 of the 1972 Act of Accession provides as follows: `Acts of the institutions of the Community relating to the products in Annex II to the EEC Treaty and the products subject, on importation into the Community, to specific rules as a result of the implementation of the common agricultural policy, as well as the acts on the harmonisation of legislation of Member States concerning turnover taxes, shall not apply to Gibraltar unless the Council, acting unanimously on a proposal from the Commission, provides otherwise.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9351">
+          <num>10</num>
+          <content eId="para_9351__content">
+            <p>Under Article 29 of the 1972 Act of Accession, in conjunction with Annex I, Section I, point 4, thereto, Gibraltar does not form part of the EU customs territory.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>United Kingdom law</p>
+        </tblock>
+        <paragraph eId="para_9352">
+          <num>11</num>
+          <content eId="para_9352__content">
+            <p>There are seven UK gambling duties. The tax regime introduced by Chapters 1 to 4 of Part 3 of the Finance Act 2014 ( `the FA 2014') and by Annexes 27 to 29 to that act concerns the three duties at issue in the main proceedings, namely general betting duty, (save in relation to spread-betting), pool betting duty and remote gaming duty, and has established in respect of those duties, according to the referring court, a tax regime based on the `place of consumption'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9353">
+          <num>12</num>
+          <content eId="para_9353__content">
+            <p>The referring court sets out in the order for reference, by way of example, the provisions concerning remote gaming duty laid down in Chapter 3 of Part 3 of the FA 2014.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9354">
+          <num>13</num>
+          <content eId="para_9354__content">
+            <p>Section 154 of the FA 2014 defines `remote gaming' as gaming in which persons participate by the use of the internet, telephone, radio or any other kind of electronic or other technology for facilitating communication.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9355">
+          <num>14</num>
+          <content eId="para_9355__content">
+            <p>Section 155(1) of the FA 2014 provides that an excise duty, known as `remote gaming duty', is to be charged on a `chargeable person's participation in remote gaming under arrangements between the chargeable person and another person ... ( ``gaming provider '')'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9356">
+          <num>15</num>
+          <content eId="para_9356__content">
+            <p>A `chargeable person' is defined in Section 155(2) of the FA 2014 as, inter alia, `any UK person'. Section 186(1) of the FA 2014 defines a `UK person' as `an individual who usually lives in the United Kingdom' or `a body corporate which is legally constituted in the United Kingdom'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9357">
+          <num>16</num>
+          <content eId="para_9357__content">
+            <p>Pursuant to Section 155(3) of the FA 2014, remote gaming duty is chargeable at the rate of 15% of `the gaming provider's profits' on remote gaming for an accounting period.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9358">
+          <num>17</num>
+          <content eId="para_9358__content">
+            <p>Section 157 of the FA 2014 states that, in order to calculate a `gaming provider's profits' for ordinary gaming, it is necessary to take the aggregate of the gaming payments made to the gaming provider in the accounting period in respect of ordinary gaming and to subtract the amount of the provider's expenditure on prizes in respect of such gaming.</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_9359">
+          <num>18</num>
+          <content eId="para_9359__content">
+            <p>The GBGA is a trade association whose members are primarily Gibraltar-based gambling operators providing remote gambling services to customers in the United Kingdom and elsewhere.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9360">
+          <num>19</num>
+          <content eId="para_9360__content">
+            <p>On 17 July 2014, a tax regime concerning certain gambling duties imposed by the FA 2014 and supplemented by communications and guidelines adopted by the revenue and customs authorities ( `the new tax regime') entered into force in the United Kingdom.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9361">
+          <num>20</num>
+          <content eId="para_9361__content">
+            <p>The GBGA brought an application before the referring court for judicial review of the new tax regime in the light of EU law. It argues in that context that the taxes payable under the regime are extraterritorial taxes, that they constitute an obstacle to freedom to provide services and that they discriminate against service providers established outside the United Kingdom. Moreover, it contends that such taxes cannot be justified by the objectives claimed by the United Kingdom, which are essentially of an economic nature. As a consequence, the new tax regime is incompatible with Article 56 TFEU.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9362">
+          <num>21</num>
+          <content eId="para_9362__content">
+            <p>The referring court states in that connection that, under the regime for the taxation of remote gaming applicable before the entry into force of the new tax regime, providers of remote gambling services established in the United Kingdom paid tax at the rate of 15% on their gross profits, irrespective of where their customers lived, the tax being based on the `place of supply' principle. Providers of remote gambling services established in Gibraltar or elsewhere outside the United Kingdom paid no tax in the United Kingdom on gambling services provided to persons established in the United Kingdom.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9363">
+          <num>22</num>
+          <content eId="para_9363__content">
+            <p>The national court observes that one of the main objectives of the new tax regime, which is based on the `place of consumption' principle, is to change the taxation of gambling so that, wherever they are based, providers offering such services to customers in the United Kingdom pay tax on such services to the United Kingdom Exchequer, the rate of that tax being set at 15% of the provider's profits, as defined by the FA 2014, during the relevant tax period.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9364">
+          <num>23</num>
+          <content eId="para_9364__content">
+            <p>As a result of those new taxes, in particular the remote gaming duty to which the national court refers in its decision and which is applicable without distinction to all economic operators providing remote gambling services to persons established in the United Kingdom, providers of such services established in Gibraltar, such as the members of the GBGA, may no longer, according to the referring court, provide their services on the United Kingdom gambling market without paying any tax in that Member State.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9365">
+          <num>24</num>
+          <content eId="para_9365__content">
+            <p>In the light of those considerations, the referring court considers that it is necessary to clarify the constitutional status of Gibraltar under EU law and, in particular, whether economic operators, such as the members of the GBGA, established in Gibraltar may rely on EU law to challenge the legislation adopted by the United Kingdom establishing the new tax regime and, if so, whether such legislation is at odds with the requirements of Article 56 TFEU.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9366">
+          <num>25</num>
+          <content eId="para_9366__content">
+            <p>In those circumstances, the High Court of Justice (England and Wales), Queen's Bench Division (Administrative Court) (United Kingdom), decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>For the purposes of Article 56 TFEU and in the light of the constitutional relationship between Gibraltar and the United Kingdom:</p>
+                <blockList>
+                  <item>
+                    <num>(a)</num>
+                    <p>Are Gibraltar and the United Kingdom to be treated as if they were part of a single Member State for the purposes of EU law ... so that Article 56 TFEU does not apply, save to the extent that it can apply to an internal measure? Alternatively,</p>
+                  </item>
+                  <item>
+                    <num>(b)</num>
+                    <p>Having regard to Article 355(3) TFEU, does Gibraltar have the constitutional status of a separate territory to the United Kingdom within the EU such that the provision of services between Gibraltar and the United Kingdom is to be treated as intra-EU trade for the purposes of Article 56 TFEU? Alternatively,</p>
+                  </item>
+                  <item>
+                    <num>(c)</num>
+                    <p>Is Gibraltar to be treated as a third country or territory with the effect that EU law is only engaged in respect of trade between the two in circumstances where EU law has effect between a Member State and a non-Member State? Alternatively,</p>
+                  </item>
+                  <item>
+                    <num>(d)</num>
+                    <p>Is the constitutional relationship between Gibraltar and the United Kingdom to be treated in some other way for the purposes of Article 56 TFEU?</p>
+                  </item>
+                </blockList>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>Do national measures of taxation that have features such as those found in the new tax regime constitute a restriction on the right to the free movement of services for the purposes of Article 56 TFEU?</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>If so, are the aims, which the referring Court has found domestic measures (such as the new tax regime) to pursue, legitimate aims, which are capable of justifying the restriction on the right to free movement of services under Article 56 TFEU?'</p>
+                <tblock>
+                  <p>Consideration of the questions referred</p>
+                </tblock>
+                <tblock>
+                  <p>The first question</p>
+                </tblock>
+                <p>26 By its first question, the referring court seeks to ascertain, in essence, whether Article 355(3) TFEU, in conjunction with Article 56 TFEU, is to be interpreted as meaning that the provision of services by operators established in Gibraltar to persons established in the United Kingdom constitutes, under EU law, a situation confined in all respects within a single Member State.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9367">
+          <num>27</num>
+          <content eId="para_9367__content">
+            <p>For the purpose of answering that question, it is appropriate to observe at the outset that EU law is applicable to the Member States pursuant to Article 52(1) TEU. According to Article 52(2) TEU, the territorial scope of the Treaties is specified in Article 355 TFEU.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9368">
+          <num>28</num>
+          <content eId="para_9368__content">
+            <p>Article 355(3) TFEU states that the provisions of the Treaties are to apply to the European territories for whose external relations a Member State is responsible.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9369">
+          <num>29</num>
+          <content eId="para_9369__content">
+            <p>In that regard, it should be noted that Gibraltar is a European territory for whose external relations a Member State, namely the United Kingdom, is responsible, and that EU law is applicable to that territory pursuant to Article 355(3) TFEU (see, to that effect, judgments of 23 September 2003, Commission v United Kingdom, C‑30/01, EU:C:2003:489, paragraph 47, and 12 September 2006, Spain v United Kingdom, C‑145/04, EU:C:2006:543, paragraph 19).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9370">
+          <num>30</num>
+          <content eId="para_9370__content">
+            <p>By way of derogation from Article 355(3) TFEU, under the 1972 Act of Accession, EU acts do not apply to Gibraltar in certain areas of EU law. Those exceptions were introduced on account of the special legal position of that territory, in particular its status as a free port (see, in that regard, judgment of 21 July 2005, Commission v United Kingdom, C‑349/03, EU:C:2005:488, paragraph 41). However, freedom to provide services, enshrined in Article 56 TFEU, is not one of those exceptions.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9371">
+          <num>31</num>
+          <content eId="para_9371__content">
+            <p>It follows from the foregoing that Article 56 TFEU is applicable, by virtue of Article 355(3) TFEU, to Gibraltar.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9372">
+          <num>32</num>
+          <content eId="para_9372__content">
+            <p>Next, it should be noted that Article 56 TFEU prohibits restrictions on freedom to provide services within the European Union in respect of nationals of Member States who are established in a Member State other than that of the person for whom the services are intended.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9373">
+          <num>33</num>
+          <content eId="para_9373__content">
+            <p>On the other hand, it is established case-law that the provisions of the FEU Treaty on freedom to provide services do not apply to a situation which is confined in all respects within a single Member State (judgment of 15 November 2016, Ullens de Schooten, C‑268/15. EU:C:2016:874, paragraph 47 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9374">
+          <num>34</num>
+          <content eId="para_9374__content">
+            <p>Against that background, it is necessary to examine whether the provision of services by operators established in Gibraltar to persons established in the United Kingdom constitutes, for the purposes of EU law, a situation confined in all respects within a single Member State.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9375">
+          <num>35</num>
+          <content eId="para_9375__content">
+            <p>It is true that the Court has previously held, as observed by all the interested parties, that Gibraltar does not form part of the United Kingdom (see, to that effect, judgment of 23 September 2003, Commission v United Kingdom, C‑30/01, EU:C:2003:489, paragraph 47, and 12 September 2006, Spain v United Kingdom, C‑145/04; EU:C:2006:543, paragraph 15).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9376">
+          <num>36</num>
+          <content eId="para_9376__content">
+            <p>That fact is not, however, decisive in determining whether two territories must, for the purposes of the applicability of the provisions on the four freedoms, be treated as a single Member State. Indeed, the Court has previously held, in paragraph 54 of the judgment of 8 November 2005, Jersey Produce Marketing Organisation ( C‑293/02, EU:C:2005:664), that, for the purposes of the application of Articles 23, 25, 28 and 29 EC, the Channel Islands, of which the Bailiwick of Jersey forms part, the Isle of Man and the United Kingdom must be treated as a single Member State, notwithstanding the fact that those islands do not form part of the United Kingdom.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9377">
+          <num>37</num>
+          <content eId="para_9377__content">
+            <p>In reaching that conclusion, the Court, after observing that the United Kingdom is responsible for the Bailiwick of Jersey's external relations, relied in particular on the fact that, according to Article 1(1) of Protocol No 3 on the Channel Islands and the Isle of Man annexed to the 1972 Act of Accession, EU rules on customs matters and quantitative restrictions are to apply to the Channel Islands and to the Isle of Man `under the same conditions as they apply to the United Kingdom', and on the fact that no aspect of the status of those islands suggests that relations between the islands and the United Kingdom are akin to those between Member States (see, in that regard, judgment of 8 November 2005, Jersey Produce Marketing Organisation, C‑293/02, EU:C:2005:664, paragraphs 43, 45 and 46).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9378">
+          <num>38</num>
+          <content eId="para_9378__content">
+            <p>As regards, in the first place, the conditions under which Article 56 TFEU is to apply to Gibraltar, it is true that Article 355(3) TFEU does not state that Article 56 is to apply to Gibraltar `under the same conditions as they apply to the United Kingdom'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9379">
+          <num>39</num>
+          <content eId="para_9379__content">
+            <p>That said, it should be recalled that Article 355(3) TFEU extends the applicability of the provisions of EU law to the territory of Gibraltar, subject to the exclusions expressly provided for in the 1972 Act of Accession, which do not, however, cover freedom to provide services.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9380">
+          <num>40</num>
+          <content eId="para_9380__content">
+            <p>Furthermore, the fact, relied on by the Government of Gibraltar, that Article 56 TFEU is applicable to Gibraltar, by virtue of Article 355(3) TFEU, and to the United Kingdom, by virtue of Article 52(1) TEU, is irrelevant in that regard. In an analogous context, the fact that EU rules on customs matters and quantitative restrictions apply to the Channel Islands and to the Isle of Man, pursuant to Article 1(1) of Protocol No 3 annexed to the 1972 Act of Accession, and to the United Kingdom, pursuant to Article 52(1) TEU, has not prevented the Court from concluding that, for the purposes of the application of those rules, those islands and the United Kingdom are to be treated as a single Member State (judgment of 8 November 2005, Jersey Produce Marketing Organisation, C‑293/02, EU:C:2005:664, paragraph 54).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9381">
+          <num>41</num>
+          <content eId="para_9381__content">
+            <p>In the second place, there is no other factor that could justify the conclusion that relations between Gibraltar and the United Kingdom may be regarded, for the purposes of Article 56 TFEU, as akin to those existing between two Member States.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9382">
+          <num>42</num>
+          <content eId="para_9382__content">
+            <p>To treat trade between Gibraltar and the United Kingdom in the same way as trade between Member States would be tantamount to denying the connection, recognised in Article 355(3) TFEU, between that territory and that Member State. It is common ground in that regard that it is the United Kingdom that has assumed obligations towards the other Member States under the Treaties so far the application and transposition of EU law in the territory of Gibraltar is concerned (see, in that regard, judgments of 23 September 2003, Commission v United Kingdom, C‑30/01, EU:C:2003:489, paragraphs 1 and 47, and 21 July 2005, Commission v United Kingdom, C‑349/03, EU:C:2005:488, paragraph 56), as the Advocate General observed in point 37 of his Opinion.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9383">
+          <num>43</num>
+          <content eId="para_9383__content">
+            <p>It follows that the provision of services by operators established in Gibraltar to persons established in the United Kingdom constitutes, under EU law, a situation confined in all respects within a single Member State.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9384">
+          <num>44</num>
+          <content eId="para_9384__content">
+            <p>That interpretation is not called into question by the Government of Gibraltar's argument that such a conclusion would undermine the objective laid down in Article 26 TFEU of ensuring the functioning of the internal market, as well as the objective of integrating Gibraltar into that market, which, according to that Government, Article 355(3) TFEU seeks to attain.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9385">
+          <num>45</num>
+          <content eId="para_9385__content">
+            <p>It must be noted in that regard that, according to the actual wording of Article 26(2) TFEU, the internal market is to comprise an area without internal frontiers in which the free movement of goods, persons, services and capital is ensured in accordance with the provisions of the Treaties, Article 56 TFEU constituting such a provision with regard to freedom to provide services.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9386">
+          <num>46</num>
+          <content eId="para_9386__content">
+            <p>As stated in paragraphs 32 and 33 above, in order for Article 56 TFEU to apply to a particular situation, there must be a foreign element.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9387">
+          <num>47</num>
+          <content eId="para_9387__content">
+            <p>The interpretation adopted in paragraph 43 above does not, in any event, render Article 56 TFEU inapplicable to the territory of Gibraltar, as the Government of Gibraltar contends. That provision remains fully applicable to that territory under the same conditions, including those requiring a foreign element, as those laid down for any other EU territory to which that provision applies.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9388">
+          <num>48</num>
+          <content eId="para_9388__content">
+            <p>Neither do the considerations relating to the status of Gibraltar under constitutional law or international law invalidate that interpretation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9389">
+          <num>49</num>
+          <content eId="para_9389__content">
+            <p>With regard, in the first place, to the status of Gibraltar under constitutional law, the Government of Gibraltar submits, in reliance on the judgment of 10 October 1978, Hansen &amp; Balle ( 148/77, EU:C:1978:173), that the status of that territory under EU law should be defined by reference, in particular, to its status under domestic law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9390">
+          <num>50</num>
+          <content eId="para_9390__content">
+            <p>In that regard, it should be noted that the Court's finding in paragraph 10 of that judgment that the status of the French overseas departments is primarily defined by reference to the French constitution, under which those departments are an integral part of the French Republic, has to be read in its proper context, as it relates to the interpretation of Article 227(1) of the EEC Treaty, which provided that that Treaty was to apply to the whole of the `French Republic' (see, in that regard, judgment of 10 October 1978, Hansen &amp; Balle ( 148/77, EU:C:1978:173, paragraph 9). Thus, by that clarification, the Court simply intended to recognise that those departments form part of that Member State and that EU law was to apply automatically to those territories, after the expiry of the two-year period referred to in Article 227(2) of that Treaty, as they formed an integral part of that Member State (see, in that regard, judgment of 10 October 1978, Hansen &amp; Balle ( 148/77, EU:C:1978:173, paragraph 10).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9391">
+          <num>51</num>
+          <content eId="para_9391__content">
+            <p>As is apparent from paragraph 31 above, EU law is applicable to Gibraltar, not on the basis that it forms part of the United Kingdom, but by virtue of Article 355(3) TFEU.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9392">
+          <num>52</num>
+          <content eId="para_9392__content">
+            <p>In the second place, so far as concerns the status of Gibraltar under international law, it is common ground that Gibraltar is classified as a non-self-governing territory, within the meaning of Article 73 of the Charter of the United Nations.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9393">
+          <num>53</num>
+          <content eId="para_9393__content">
+            <p>In that regard, the Government of Gibraltar claims that an interpretation such as that adopted in paragraph 43 above would undermine the status of that territory under international law and, in particular, is inconsistent with Resolution 2625 (XXV) of 24 October 1972 adopted by the United Nations General Assembly, according to which the territory of a colony should have a status separate and distinct from the status of the territory of the State administering it.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9394">
+          <num>54</num>
+          <content eId="para_9394__content">
+            <p>That interpretation of Article 355(3) TFEU, in conjunction with Article 56 TFEU, has no effect on the status of the territory of Gibraltar under international law, as it merely concludes that, since EU law is applicable to that territory as European territory for whose external relations a Member State, namely the United Kingdom, is responsible, the provision of services by operators established in Gibraltar to persons established in the United Kingdom constitutes, as a matter of EU law, a situation confined in all respects within a single Member State. That interpretation cannot be understood as undermining the separate and distinct status of Gibraltar.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9395">
+          <num>55</num>
+          <content eId="para_9395__content">
+            <p>It should be added in that context that the referring court has simply stated that the new tax regime at issue in the main proceedings is applicable without distinction to nationals of the Member State concerned and to nationals of other Member States, without providing further specific details which might enable a connection to be made between the subject matter of the dispute in the main proceedings and Article 56 TFEU, contrary to requirements laid down in Article 94 of the Rules of Procedure of the Court of Justice (see, in that regard, judgment of 15 November 2016, Ullens de Schooten, C‑268/15, EU:C:2016:874, paragraph 55).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9396">
+          <num>56</num>
+          <content eId="para_9396__content">
+            <p>It follows from all the foregoing considerations that the answer to the first question is that Article 355(3) TFEU, in conjunction with Article 56 TFEU, is to be interpreted as meaning that the provision of services by operators established in Gibraltar to persons established in the United Kingdom constitutes, as a matter of EU law, a situation confined in all respects within a single Member State.</p>
+            <tblock>
+              <p>The second and third questions</p>
+            </tblock>
+            <p>57 In view of the answer given to the first question, it is unnecessary to answer the second and third questions.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_9397">
+          <num>58</num>
+          <content eId="para_9397__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Grand Chamber) hereby rules: Article 355(3) TFEU, in conjunction with Article 56 TFEU, is to be interpreted as meaning that the provision of services by operators established in Gibraltar to persons established in the United Kingdom constitutes, as a matter of EU law, a situation confined in all respects within a single Member State.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>Lenaerts Tizzano Ilešič Bay Larsen von Danwitz Malenovský Bonichot Arabadjiev Toader Vajda Rodin Biltgen Jürimäe Delivered in open court in Luxembourg on 13 June 2017. A. Calot Escobar Registrar K. Lenaerts President</p>
+      <blockList>
+        <item>
+          <num>( 1)</num>
+          <p>Language of the case: English.</p>
+        </item>
+      </blockList>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

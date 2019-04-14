@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Second Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>14 June 2017 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>`Reference for a preliminary ruling -- Intellectual and industrial property -- Directive 2001/29/EC -- Harmonisation of certain aspects of copyright and related rights -- Article 3(1) -- Communication to the public -- Definition -- Online sharing platform -- Sharing of protected files, without the consent of the rightholder' In Case C‑610/15, REQUEST for a preliminary ruling under Article 267 TFEU from the Hoge Raad der Nederlanden (Supreme Court of the Netherlands), made by decision of 13 November 2015, received at the Court on 18 November 2015, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">Stichting Brein</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#">Ziggo BV</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="respondent" refersTo="#">XS4ALL Internet BV</party>
+      </p>
+      <p>, THE COURT (Second Chamber), composed of M. Ilešič (Rapporteur), President of the Chamber, A. Prechal, A. Rosas, C. Toader and E. Jarašiūnas, Judges, Advocate General: M. Szpunar, Registrar: M. Ferreira, Principal Administrator, having regard to the written procedure and further to the hearing on 27 October 2016, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>Stichting Brein, by J.C.H. van Manen, advocaat,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>Ziggo BV, by F.E. Vermeulen and E.A. de Groot, advocaten,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>XS4ALL Internet BV, by C. Alberdingk Thijm and C.F.M. de Vries, advocaten,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Spanish Government, by V. Ester Casas and A. Gavela Llopis, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the French Government, by D. Segoin, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Italian Government, by G. Palmieri, acting as Agent, assisted by F. Di Matteo, avvocato dello Stato,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Portuguese Government, by L. Inez Fernandes and M. Figueiredo, acting as Agents, assisted by T. Rendas, Legal Adviser,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the United Kingdom Government, by G. Brown and J. Kraehling, acting as Agents, and by N. Saunders, Barrister,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by J. Samnadda, T. Scharf and F. Wilman, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 8 February 2017,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_9735">
+          <num>1</num>
+          <content eId="para_9735__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Articles 3(1) and 8(3) of Directive 2001/29/EC of the European Parliament and of the Council of 22 May 2001 on the harmonisation of certain aspects of copyright and related rights in the information society ( OJ 2001 L 167, p. 10), and of Article 11 of Directive 2004/48/EC of the European Parliament and of the Council of 29 April 2004 on the enforcement of intellectual property rights ( OJ 2004 L 157, p. 45, and corrigendum in OJ 2004 L 195, p. 16).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9736">
+          <num>2</num>
+          <content eId="para_9736__content">
+            <p>The request has been made in proceedings between, on the one hand, Stichting Brein, a foundation which safeguards the interests of copyright holders, and, on the other hand, Ziggo BV and XS4ALL Internet BV ( `XS4ALL'), internet access providers, concerning requests made by Stichting Brein for an order requiring Ziggo BV and XS4ALL to block the domain names and IP addresses of the online sharing platform `The Pirate Bay' ( `online sharing platform TPB').</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <paragraph eId="para_9737">
+          <num>3</num>
+          <content eId="para_9737__content">
+            <p>Recitals 9, 10, 23 and 27 of Directive 2001/29 state: `</p>
+            <blockList>
+              <item>
+                <num>(9)</num>
+                <p>Any harmonisation of copyright and related rights must take as a basis a high level of protection, since such rights are crucial to intellectual creation. Their protection helps to ensure the maintenance and development of creativity in the interests of authors, performers, producers, consumers, culture, industry and the public at large. Intellectual property has therefore been recognised as an integral part of property.</p>
+              </item>
+              <item>
+                <num>(10)</num>
+                <p>If authors or performers are to continue their creative and artistic work, they have to receive an appropriate reward for the use of their work, as must producers in order to be able to finance this work. The investment required to produce products such as phonograms, films or multimedia products, and services such as ``on-demand '' services, is considerable. Adequate legal protection of intellectual property rights is necessary in order to guarantee the availability of such a reward and provide the opportunity for satisfactory returns on this investment. ...</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(23)</num>
+                <p>This Directive should harmonise further the author's right of communication to the public. This right should be understood in a broad sense covering all communication to the public not present at the place where the communication originates. This right should cover any such transmission or retransmission of a work to the public by wire or wireless means, including broadcasting. This right should not cover any other acts. ...</p>
+              </item>
+              <item>
+                <num>(27)</num>
+                <p>The mere provision of physical facilities for enabling or making a communication does not in itself amount to communication within the meaning of this Directive.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9738">
+          <num>4</num>
+          <content eId="para_9738__content">
+            <p>Article 3 of that directive, entitled `Right of communication to the public of works and right of making available to the public other subject matter', provides in paragraph 1: `Member States shall provide authors with the exclusive right to authorise or prohibit any communication to the public of their works, by wire or wireless means, including the making available to the public of their works in such a way that members of the public may access them from a place and at a time individually chosen by them.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9739">
+          <num>5</num>
+          <content eId="para_9739__content">
+            <p>Article 8 of that directive, entitled `Sanctions and remedies', provides in paragraph 3: `Member States shall ensure that rightholders are in a position to apply for an injunction against intermediaries whose services are used by a third party to infringe a copyright or related right.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9740">
+          <num>6</num>
+          <content eId="para_9740__content">
+            <p>Recital 23 of Directive 2004/48 is worded as follows: `Without prejudice to any other measures, procedures and remedies available, rightholders should have the possibility of applying for an injunction against an intermediary whose services are being used by a third party to infringe the rightholder's industrial property right. The conditions and procedures relating to such injunctions should be left to the national law of the Member States. As far as infringements of copyright and related rights are concerned, a comprehensive level of harmonisation is already provided for in Directive 2001/29/EC. Article 8(3) of Directive 2001/29/EC should therefore not be affected by this Directive.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9741">
+          <num>7</num>
+          <content eId="para_9741__content">
+            <p>Article 11 of Directive 2004/48, entitled `Injunctions', provides: `Member States shall ensure that, where a judicial decision is taken finding an infringement of an intellectual property right, the judicial authorities may issue against the infringer an injunction aimed at prohibiting the continuation of the infringement. Where provided for by national law, non-compliance with an injunction shall, where appropriate, be subject to a recurring penalty payment, with a view to ensuring compliance. Member States shall also ensure that rightholders are in a position to apply for an injunction against intermediaries whose services are used by a third party to infringe an intellectual property right, without prejudice to Article 8(3) of Directive 2001/29/EC.'</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_9742">
+          <num>8</num>
+          <content eId="para_9742__content">
+            <p>Stichting Brein is a Netherlands foundation which safeguards the interests of copyright holders.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9743">
+          <num>9</num>
+          <content eId="para_9743__content">
+            <p>Ziggo and XS4ALL are internet access providers. A significant number of their subscribers use the online sharing platform TPB, an indexer of BitTorrent files. BitTorrent is a protocol through which users (known as `peers') can share files. The essential characteristic of BitTorrent is that it divides files for sharing into segments, thus removing the need to rely on a central server to store those files, which lessens the burden on individual servers during the sharing process. In order to be able to share files, users must first download specific software called `BitTorrent Client', which is not provided by the online sharing platform TPB. `BitTorrent Client' is software which allows the creation of torrent files.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9744">
+          <num>10</num>
+          <content eId="para_9744__content">
+            <p>Users (called `seeders') who wish to make a file on their computer available to other users (called `leechers') have to create a torrent file through their BitTorrent Client. Torrent files refer to a central server (called a `tracker') which identifies the users available to share a particular torrent file as well as the underlying media file. These torrent files are uploaded by the seeders to an online sharing platform, such as TPB, which then proceeds to index them so that they can be found by the users of the online sharing platform and the works to which those torrent files refer can be downloaded onto the users' computers in several segments through their BitTorrent Client.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9745">
+          <num>11</num>
+          <content eId="para_9745__content">
+            <p>`Magnet links' are often used in place of torrent files. These links identify the content of a torrent file and refer to it through a digital fingerprint.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9746">
+          <num>12</num>
+          <content eId="para_9746__content">
+            <p>The torrent files offered on the online sharing platform TPB relate mainly to copyright-protected works, without the rightholders having given their consent to the operators or users of that platform to carry out the sharing acts in question.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9747">
+          <num>13</num>
+          <content eId="para_9747__content">
+            <p>In the context of the main proceedings, Stichting Brein's principal request is that Ziggo and XS4ALL be ordered to block the domain names and IP addresses of the online sharing platform TPB in order to prevent the services of those internet access providers from being used to infringe the copyright and related rights of the rightholders, whose interests Stichting Brein protects.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9748">
+          <num>14</num>
+          <content eId="para_9748__content">
+            <p>The court of first instance upheld Stichting Brein's requests. However, these were rejected on appeal.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9749">
+          <num>15</num>
+          <content eId="para_9749__content">
+            <p>The Hoge Raad der Nederlanden (Supreme Court of the Netherlands) notes that, in the present case, it has been established that the actions of the online sharing platform TPB make protected works available to the public without the rightholders' consent. It has also been established that subscribers to Ziggo and XS4ALL, through this platform, make protected works available without the rightholders' consent and thus infringe the copyright and related rights of those rightholders.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9750">
+          <num>16</num>
+          <content eId="para_9750__content">
+            <p>The Hoge Raad der Nederlanden (Supreme Court of the Netherlands) notes, however, that the Court's case-law does not allow it to reply with any certainty to the question as to whether the online sharing platform TPB also communicates works to the public within the meaning of Article 3(1) of Directive 2001/29, in particular:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>by creating and maintaining a system in which internet users connect with each other in order to be able to share, in segments, works present on their own computers;</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>by operating a website from which users can download torrent files which refer to segments of those works; and</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>by indexing the torrent files placed online on this website and by categorising them in such a way that the segments of those underlying works can be located and the users can download those works (as a whole) onto their computers.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9751">
+          <num>17</num>
+          <content eId="para_9751__content">
+            <p>Under those circumstances, the Hoge Raad der Nederlanden (Supreme Court of the Netherlands) decided to stay the proceedings before it and to refer the following questions to the Court for a preliminary ruling: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Is there a communication to the public within the meaning of Article 3(1) of Directive 2001/29 by the operator of a website, if no protected works are available on that website, but a system exists ... by means of which metadata on protected works which are present on the users' computers are indexed and categorised for users, so that the users can trace and upload and download the protected works on the basis thereof?</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>If Question 1 is answered in the negative: Do Article 8(3) of Directive 2001/29 and Article 11 of Directive 2004/48 offer any scope for obtaining an injunction against an intermediary as referred to in those provisions, if that intermediary facilitates the infringing acts of third parties in the way referred to in Question 1?'</p>
+                <tblock>
+                  <p>Consideration of the questions referred</p>
+                </tblock>
+                <tblock>
+                  <p>The first question</p>
+                </tblock>
+                <p>18 By its first question, the referring court asks, in essence, whether the concept of `communication to the public', within the meaning of Article 3(1) of Directive 2001/29, should be interpreted as covering, in circumstances such as those at issue in the main proceedings, the making available and management, on the internet, of a sharing platform which, by means of indexation of metadata relating to protected works and the provision of a search engine, allows users of that platform to locate those works and to share them in the context of a peer-to-peer network.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9752">
+          <num>19</num>
+          <content eId="para_9752__content">
+            <p>It follows from Article 3(1) of Directive 2001/29 that Member States are required to ensure that authors have the exclusive right to authorise or prohibit any communication to the public of their works, by wire or wireless means, including the making available to the public of their works in such a way that members of the public may access them from a place and at a time individually chosen by them.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9753">
+          <num>20</num>
+          <content eId="para_9753__content">
+            <p>Under that provision, authors thus have a right which is preventive in nature and allows them to intervene between possible users of their work and the communication to the public which such users might contemplate making, in order to prohibit such communication (judgment of 26 April 2017, Stichting Brein, C‑527/15, EU:C:2017:300, paragraph 25 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9754">
+          <num>21</num>
+          <content eId="para_9754__content">
+            <p>As Article 3(1) of Directive 2001/29 does not define the concept of `communication to the public', the meaning and scope of that concept must be determined in light of the objectives pursued by that directive and the context in which the provision being interpreted is set (judgment of 26 April 2017, Stichting Brein, C‑527/15, EU:C:2017:300, paragraph 26 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9755">
+          <num>22</num>
+          <content eId="para_9755__content">
+            <p>In that regard, it should be borne in mind that it follows from recitals 9 and 10 of Directive 2001/29 that the latter's principal objective is to establish a high level of protection for authors, allowing them to obtain an appropriate reward for the use of their works, including on the occasion of communication to the public. It follows that the concept of `communication to the public' must be interpreted broadly, as recital 23 of the directive indeed expressly states (judgment of 26 April 2017, Stichting Brein, C‑527/15, EU:C:2017:300, paragraph 27 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9756">
+          <num>23</num>
+          <content eId="para_9756__content">
+            <p>The Court has also specified that the concept of `communication to the public', within the meaning of Article 3(1) of Directive 2001/29, requires an individual assessment (judgment of 26 April 2017, Stichting Brein, C‑527/15, EU:C:2017:300, paragraph 28 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9757">
+          <num>24</num>
+          <content eId="para_9757__content">
+            <p>It is clear from Article 3(1) of Directive 2001/29 that the concept of `communication to the public' involves two cumulative criteria, namely an `act of communication' of a work and the communication of that work to a `public' (judgment of 26 April 2017, Stichting Brein, C‑527/15, EU:C:2017:300, paragraph 29 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9758">
+          <num>25</num>
+          <content eId="para_9758__content">
+            <p>In order to determine whether a user is making a `communication to the public' within the meaning of Article 3(1) of Directive 2001/29, it is necessary to take into account several complementary criteria, which are not autonomous and are interdependent. Consequently, those criteria must be applied both individually and in their interaction with one another, since they may, in different situations, be present to widely varying degrees (judgment of 26 April 2017, Stichting Brein, C‑527/15, EU:C:2017:300, paragraph 30 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9759">
+          <num>26</num>
+          <content eId="para_9759__content">
+            <p>Amongst those criteria, the Court has emphasised, firstly, the indispensable role played by the user and the deliberate nature of his intervention. That user makes an act of communication when he intervenes, in full knowledge of the consequences of his action, to give his customers access to a protected work, particularly where, in the absence of that intervention, those customers would not be able to enjoy the broadcast work, or would be able to do so only with difficulty (see, to that effect, judgment of 26 April 2017, Stichting Brein, C‑527/15, EU:C:2017:300, paragraph 31 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9760">
+          <num>27</num>
+          <content eId="para_9760__content">
+            <p>Secondly, it has specified that the concept of the `public' refers to an indeterminate number of potential viewers and implies, moreover, a fairly large number of people (judgment of 26 April 2017, Stichting Brein, C‑527/15, EU:C:2017:300, paragraph 32 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9761">
+          <num>28</num>
+          <content eId="para_9761__content">
+            <p>The Court has also noted that, according to a settled line of case-law, in order to be categorised as a `communication to the public', a protected work must be communicated using specific technical means, different from those previously used or, failing that, to a `new public', that is to say, to a public that was not already taken into account by the copyright holders when they authorised the initial communication of their work to the public (judgment of 26 April 2017, Stichting Brein, C‑527/15, EU:C:2017:300, paragraph 33 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9762">
+          <num>29</num>
+          <content eId="para_9762__content">
+            <p>Finally, the Court has underlined, on numerous occasions, that the profit-making nature of a communication, within the meaning of Article 3(1) of Directive 2001/29, is not irrelevant (judgment of 26 April 2017, Stichting Brein, C‑527/15, EU:C:2017:300, paragraph 34 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9763">
+          <num>30</num>
+          <content eId="para_9763__content">
+            <p>As regards, in the first place, the question of whether making available and managing an online sharing platform, such as that at issue in the main proceedings, is an `act of communication' for the purposes of Article 3(1) of Directive 2001/29, it must be noted, as recital 23 of Directive 2001/29 states, that the author's right of communication to the public, provided for in Article 3(1), covers any transmission or retransmission of a work to the public by wire or wireless means, including broadcasting.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9764">
+          <num>31</num>
+          <content eId="para_9764__content">
+            <p>Furthermore, as is apparent from Article 3(1) of Directive 2001/29, in order for there to be an `act of communication', it is sufficient, in particular, that a work is made available to a public in such a way that the persons comprising that public may access it, from wherever and whenever they individually choose, irrespective of whether they avail themselves of that opportunity (see, to that effect, judgment of 26 April 2017, Stichting Brein, C‑527/15, EU:C:2017:300, paragraph 36 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9765">
+          <num>32</num>
+          <content eId="para_9765__content">
+            <p>The Court has already held, in this regard, that the provision, on a website, of clickable links to protected works published without any access restrictions on another site, affords users of the first site direct access to those works (judgment of 13 February 2014, Svensson and Others, C‑466/12, EU:C:2014:76, paragraph 18; see also, to that effect, order of 21 October 2014, BestWater International, C‑348/13, not published, EU:C:2014:2315, paragraph 15, and judgment of 8 September 2016, GS Media, C‑160/15, EU:C:2016:644, paragraph 43).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9766">
+          <num>33</num>
+          <content eId="para_9766__content">
+            <p>The Court has also held the same to be the case for the sale of a multimedia player on which there are pre-installed add-ons, available on the internet, containing hyperlinks to websites -- that are freely accessible to the public -- on which copyright-protected works have been made available without the consent of the rightholders (see, to that effect, judgment of 26 April 2017, Stichting Brein, C‑527/15, EU:C:2017:300, paragraphs 38 and 53).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9767">
+          <num>34</num>
+          <content eId="para_9767__content">
+            <p>It can therefore be inferred from this case-law that, as a rule, any act by which a user, with full knowledge of the relevant facts, provides its clients with access to protected works is liable to constitute an `act of communication' for the purposes of Article 3(1) of Directive 2001/29.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9768">
+          <num>35</num>
+          <content eId="para_9768__content">
+            <p>In the present case it must be found, first, as the Advocate General has noted, in essence, in point 45 of his Opinion, that it is not disputed that copyright-protected works are, by means of the online sharing platform TPB, made available to the users of that platform in such a way that they may access those works from wherever and whenever they individually choose.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9769">
+          <num>36</num>
+          <content eId="para_9769__content">
+            <p>Second, it is true, as noted by the referring court, that the works thus made available to the users of the online sharing platform TPB have been placed online on that platform not by the platform operators but by its users. However, the fact remains that those operators, by making available and managing an online sharing platform such as that at issue in the main proceedings, intervene, with full knowledge of the consequences of their conduct, to provide access to protected works, by indexing on that platform torrent files which allow users of the platform to locate those works and to share them within the context of a peer-to-peer network. In this respect, as the Advocate General stated, in essence, in point 50 of his Opinion, without the aforementioned operators making such a platform available and managing it, the works could not be shared by the users or, at the very least, sharing them on the internet would prove to be more complex.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9770">
+          <num>37</num>
+          <content eId="para_9770__content">
+            <p>The view must therefore be taken that the operators of the online sharing platform TPB, by making that platform available and managing it, provide their users with access to the works concerned. They can therefore be regarded as playing an essential role in making the works in question available.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9771">
+          <num>38</num>
+          <content eId="para_9771__content">
+            <p>Finally, the operators of the online sharing platform TPB cannot be considered to be making a `mere provision' of physical facilities for enabling or making a communication, within the meaning of recital 27 of Directive 2001/29. It is clear from the order for reference that that platform indexes torrent files in such a way that the works to which the torrent files refer may be easily located and downloaded by the users of that sharing platform. Moreover, it is clear from the observations submitted to the Court that, in addition to a search engine, the online sharing platform TPB offers an index classifying the works under different categories, based on the type of the works, their genre or their popularity, within which the works made available are divided, with the platform's operators checking to ensure that a work has been placed in the appropriate category. In addition, those operators delete obsolete or faulty torrent files and actively filter some content.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9772">
+          <num>39</num>
+          <content eId="para_9772__content">
+            <p>In the light of the foregoing, the making available and management of an online sharing platform, such as that at issue in the main proceedings, must be considered to be an act of communication for the purposes of Article 3(1) of Directive 2001/29.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9773">
+          <num>40</num>
+          <content eId="para_9773__content">
+            <p>In the second place, in order to be categorised as a `communication to the public', within the meaning of Article 3(1) of Directive 2001/29, the protected works must also in fact be communicated to a `public' (judgment of 26 April 2017, Stichting Brein, C‑527/15, EU:C:2017:300, paragraph 43 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9774">
+          <num>41</num>
+          <content eId="para_9774__content">
+            <p>In that regard, the Court has stated, first, that the concept of `public' involves a certain de minimis threshold, which excludes from that concept groups of persons concerned which are too small, or insignificant. Second, in order to determine that number, the cumulative effect of making the works available to potential recipients should be taken into account. Thus, it is necessary to know not only how many persons have access to the same work at the same time, but also how many of them have access to it in succession (see, to that effect, judgment of 26 April 2017, Stichting Brein, C‑527/15, EU:C:2017:300, paragraph 44 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9775">
+          <num>42</num>
+          <content eId="para_9775__content">
+            <p>In the present case, it is apparent from the order for reference that a large number of subscribers to Ziggo and XS4ALL have downloaded media files using the online sharing platform TPB. It is also clear from the observations submitted to the Court that this platform is used by a considerable number of persons, the operators of TPB claiming, on their online sharing platform, to have several dozens of millions of `peers'. In this respect, the communication at issue in the main proceedings covers, at the very least, all of the platform's users. These users can access, at any time and simultaneously, the protected works which are shared by means of the platform. Thus, that communication is aimed at an indeterminate number of potential recipients and involves a large number of persons (see, to this effect, judgment of 26 April 2017, Stichting Brein, C‑527/15, EU:C:2017:300, paragraph 45 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9776">
+          <num>43</num>
+          <content eId="para_9776__content">
+            <p>It follows that, by a communication such as that at issue in the main proceedings, protected works are indeed communicated to a `public' within the meaning of Article 3(1) of Directive 2001/29.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9777">
+          <num>44</num>
+          <content eId="para_9777__content">
+            <p>Furthermore, with regard to the question whether those works have been communicated to a `new' public within the meaning of the case-law cited in paragraph 28 of the present judgment, the Court, in its judgment of 13 February 2014, Svensson and Others ( C‑466/12, EU:C:2014:76, paragraphs 24 and 31) as well as in its order of 21 October 2014, BestWater International ( C‑348/13, not published, EU:C:2014:2315, paragraph 14), has held that such a public is a public that was not taken into account by the copyright holders when they authorised the initial communication.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9778">
+          <num>45</num>
+          <content eId="para_9778__content">
+            <p>In the present case, it is apparent from the observations submitted to the Court, first, that the operators of the online sharing platform TPB were informed that this platform, which they make available to users and manage, provides access to works published without authorisation of the rightholders and, second, that the same operators expressly display, on blogs and forums available on that platform, their purpose to make protected works available to the users, and encourage the latter to make copies of those works. In any event, it is clear from the order for reference that the operators of the online sharing platform TPB could not be unaware that this platform provides access to works published without the consent of the rightholders, given that, as expressly highlighted by the referring court, a very large number of torrent files on the online sharing platform TPB relate to works published without the consent of the rightholders. In those circumstances, it must be held that there is communication to a `new public' (see, to that effect, judgment of 26 April 2017, Stichting Brein, C‑527/15, EU:C:2017:300, paragraph 50).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9779">
+          <num>46</num>
+          <content eId="para_9779__content">
+            <p>Furthermore, there can be no dispute that the making available and management of an online sharing platform, such as that at issue in the main proceedings, is carried out with the purpose of obtaining profit therefrom, it being clear from the observations submitted to the Court that that platform generates considerable advertising revenues.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9780">
+          <num>47</num>
+          <content eId="para_9780__content">
+            <p>Therefore, it must be held that the making available and management of an online sharing platform, such as that at issue in the main proceedings, constitutes a `communication to the public', within the meaning of Article 3(1) of Directive 2001/29.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9781">
+          <num>48</num>
+          <content eId="para_9781__content">
+            <p>In the light of all the foregoing considerations, the answer to the first question is that the concept of `communication to the public', within the meaning of Article 3(1) of Directive 2001/29, must be interpreted as covering, in circumstances such as those at issue in the main proceedings, the making available and management, on the internet, of a sharing platform which, by means of indexation of metadata referring to protected works and the provision of a search engine, allows users of that platform to locate those works and to share them in the context of a peer-to-peer network.</p>
+            <tblock>
+              <p>The second question</p>
+            </tblock>
+            <p>49 In the light of the answer to the first question, there is no need to answer the second question.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_9782">
+          <num>50</num>
+          <content eId="para_9782__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Second Chamber) hereby rules: The concept of `communication to the public', within the meaning of Article 3(1) of Directive 2001/29/EC of the European Parliament and of the Council of 22 May 2001 on the harmonisation of certain aspects of copyright and related rights in the information society, must be interpreted as covering, in circumstances such as those at issue in the main proceedings, the making available and management, on the internet, of a sharing platform which, by means of indexation of metadata relating to protected works and the provision of a search engine, allows users of that platform to locate those works and to share them in the context of a peer-to-peer network.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Dutch.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>
