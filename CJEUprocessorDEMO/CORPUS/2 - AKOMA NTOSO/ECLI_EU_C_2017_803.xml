@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+      <references source="#source">
+        <TLCOrganization eId="institution_31" showAs="" href="/akn/ontology/Organization/Institution/institution_31" />
+        <TLCOrganization eId="institution_33" showAs="" href="/akn/ontology/Organization/Institution/institution_33" />
+        <TLCOrganization eId="institution_55" showAs="" href="/akn/ontology/Organization/Institution/institution_55" />
+      </references>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Grand Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>25 October 2017 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Action for annulment -- Conclusions of the Council of the European Union concerning the World Radiocommunication Conference 2015 of the International Telecommunication Union -- Article 218(9) TFEU -- Derogation from the prescribed legal form -- No indication of the legal basis) In Case C‑687/15, ACTION for annulment under Article 263 TFEU, brought on 17 December 2015,</p>
+      <p>
+        <party as="appellant" refersTo="#institution_31">European Commission</party>
+      </p>
+      <p>, represented by L. Nicolae and F. Erlbacher, acting as Agents, applicant, v</p>
+      <p>
+        <party as="respondent" refersTo="#institution_33">Council of the European Union</party>
+      </p>
+      <p>, represented by I. Šulce, J.-P. Hix and O. Segnana, acting as Agents, defendant, supported by:</p>
+      <p>
+        <party as="intervening" refersTo="#institution_55">Czech Republic</party>
+      </p>
+      <p>, represented by M. Smolek, J. Vláčil and M. Hedvábná, acting as Agents, Federal Republic of Germany, represented by T. Henze and K. Stranz, acting as Agents, French Republic, represented by F. Fize, G. de Bergues, B. Fodda and D. Colas, acting as Agents, United Kingdom of Great Britain and Northern Ireland, represented by C. Brodie, M. Holt and D. Robertson, acting as Agents, and by J. Holmes, Barrister, interveners, THE COURT (Grand Chamber), composed of K. Lenaerts, President, A. Tizzano, Vice-President, L. Bay Larsen, J.L. da Cruz Vilaça, J. Malenovský, E. Levits and C. Vajda, Presidents of Chambers, J.-C. Bonichot, A. Arabadjiev, C. Toader, A. Prechal (Rapporteur), S. Rodin and F. Biltgen, Judges, Advocate General: H. Saugmandsgaard Øe, Registrar: L. Hewlett, Principal Administrator, having regard to the written procedure and further to the hearing on 2 May 2017, after hearing the Opinion of the Advocate General at the sitting on 7 September 2017,</p>
+      <p>gives the following</p>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_1965">
+          <num>1</num>
+          <content eId="para_1965__content">
+            <p>By its application, the European Commission asks the Court to annul the conclusions of the Council of the European Union, adopted on 26 October 2015, at its 3419th meeting in Luxembourg, on the World Radiocommunication Conference 2015 (WRC-15) of the International Telecommunication Union (ITU) ( `the contested act').</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>International law</p>
+        </tblock>
+        <paragraph eId="para_1966">
+          <num>2</num>
+          <content eId="para_1966__content">
+            <p>ITU is a specialised agency of the United Nations responsible for information and communication technologies. As is apparent from, inter alia, Article 1 of its Constitution, it is within the framework of ITU that global radio spectrum and satellite orbits are allocated and that technical standards are developed which ensure that networks and technologies interconnect.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1967">
+          <num>3</num>
+          <content eId="para_1967__content">
+            <p>In accordance with Article 2 of its Constitution, ITU is composed of Member States and Sector Members. Currently, 193 States are members of ITU, including all Member States of the European Union, which is itself a `Sector Member'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1968">
+          <num>4</num>
+          <content eId="para_1968__content">
+            <p>Article 3 of the ITU Constitution, headed `Rights and obligations of Member States and Sector Members', provides: `1.   Member States and Sector Members shall have the rights and be subject to the obligations provided for in this Constitution and the Convention.... 3.   In respect of their participation in the activities of the Union, Sector Members shall be entitled to participate fully in the activities of the Sector of which they are members, subject to relevant provisions of this Constitution and the Convention: ...</p>
+            <blockList>
+              <item>
+                <num>(b)</num>
+                <p>they shall be entitled, subject to the relevant provisions of the Convention and relevant decisions adopted in this regard by the Plenipotentiary Conference, to take part in the adoption of Questions and Recommendations and in decisions relating to the working method and procedures of the Sector concerned.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1969">
+          <num>5</num>
+          <content eId="para_1969__content">
+            <p>Article 4 of the ITU Constitution, headed `Instruments of [ITU]', is worded as follows: `1.   The instruments of [ITU] are:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>this Constitution of [ITU],</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>the Convention of [ITU], and</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>the Administrative Regulations.... 3.   The provisions of both this Constitution and the Convention are further complemented by those of the Administrative Regulations, enumerated below, which regulate the use of telecommunications and shall be binding on all Member States:...</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>Radio Regulations....'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1970">
+          <num>6</num>
+          <content eId="para_1970__content">
+            <p>Article 13 of the ITU Constitution, headed `Radiocommunication Conferences and Radiocommunication Assemblies', provides: `1.   A world radiocommunication conference may partially or, in exceptional cases, completely, revise the Radio Regulations and may deal with any question of a worldwide character within its competence and related to its agenda; its other duties are specified in the Convention. 2.   World radiocommunication conferences shall normally be convened every three to four years; however, following the application of the relevant provisions of the Convention, such a conference need not be convened or an additional one may be convened....'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>European Union law</p>
+        </tblock>
+        <paragraph eId="para_1971">
+          <num>7</num>
+          <content eId="para_1971__content">
+            <p>Directive 2002/21/EC of the European Parliament and of the Council of 7 March 2002 on a common regulatory framework for electronic communications networks and services (Framework Directive) ( OJ 2002 L 108, p. 33), as amended by Directive 2009/140/EC of the European Parliament and of the Council of 25 November 2009 ( OJ 2009 L 337, p. 37) ( `the Framework Directive'), was adopted on the basis of Article 95 EC.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1972">
+          <num>8</num>
+          <content eId="para_1972__content">
+            <p>Article 8a(4) of the Framework Directive, that article being headed `Strategic planning and coordination of radio spectrum policy', states: `Where necessary to ensure the effective coordination of the interests of the European Community in international organisations competent in radio spectrum matters, the Commission, taking utmost account of the opinion of the [Radio Spectrum Policy Group (RSPG)], may propose common policy objectives to the European Parliament and the Council.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1973">
+          <num>9</num>
+          <content eId="para_1973__content">
+            <p>The second subparagraph of Article 9(1) of that directive, that article being headed `Management of radio frequencies for electronic communications services', provides: `In applying this Article, Member States shall respect relevant international agreements, including [the Radio Regulations], and may take public policy considerations into account.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1974">
+          <num>10</num>
+          <content eId="para_1974__content">
+            <p>Decision No 676/2002/EC of the European Parliament and of the Council of 7 March 2002 on a regulatory framework for radio spectrum policy in the European Community (Radio Spectrum Decision)( OJ 2002 L 108, p. 1) was also adopted on the basis of Article 95 EC. Article 1(1) of that decision provides: `The aim of this Decision is to establish a policy and legal framework in the Community in order to ensure the coordination of policy approaches and, where appropriate, harmonised conditions with regard to the availability and efficient use of the radio spectrum necessary for the establishment and functioning of the internal market in Community policy areas such as electronic communications, transport and research and development (R &amp; D).'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1975">
+          <num>11</num>
+          <content eId="para_1975__content">
+            <p>Decision No 243/2012/EU of the European Parliament and of the Council of 14 March 2012 establishing a multiannual radio spectrum policy programme ( OJ 2012 L 81, p. 7), was adopted on the basis of Article 114 TFEU. Article 1(1) of that decision, that article being headed `Aim and Scope', provides: `This Decision establishes a multiannual radio spectrum policy programme for the strategic planning and harmonisation of the use of spectrum to ensure the functioning of the internal market in the Union policy areas involving the use of spectrum, such as electronic communications, research, technological development and space, transport, energy and audiovisual policies.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1976">
+          <num>12</num>
+          <content eId="para_1976__content">
+            <p>Article 10(1) of Decision No 243/2012, that article being headed `International negotiations', provides: `In international negotiations relating to spectrum matters, the following principles shall apply:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>if the subject matter of the international negotiations falls within the competence of the Union, the Union position shall be established in accordance with Union law;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>if the subject matter of the international negotiations falls partly within the competence of the Union and partly within the competence of the Member States, the Union and the Member States shall seek to establish a common position in accordance with the requirements of the principle of sincere cooperation. For the purpose of applying point (b) of the first subparagraph, the Union and the Member States shall cooperate in accordance with the principle of unity in the international representation of the Union and its Member States.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Background to the dispute and the contested act</p>
+        </tblock>
+        <paragraph eId="para_1977">
+          <num>13</num>
+          <content eId="para_1977__content">
+            <p>WRC-15 was held in Geneva (Switzerland) between 2 and 27 November 2015. It was agreed that the Radio Regulations should be revised.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1978">
+          <num>14</num>
+          <content eId="para_1978__content">
+            <p>On 29 May 2015 the Commission submitted to the Council, on the basis of the provisions, read together, of Article 114 and Article 218(9) TFEU, a proposal for a Council Decision on the position to be adopted, on behalf of the European Union, at WRC-15 (COM(2015) 234 final); Article 1 of that proposal provides: `The Member States, acting jointly in the interest of the Union, shall participate in the negotiations at [WRC-15] with a view to revising the Radio Regulations. The positions to be adopted on the Union's behalf in the negotiations and during the adoption of the revisions to the Radio Regulations are set out in the Annex to this Decision. Where new proposals regarding the subject matter in the Annex are made at [WRC-15] on which there is not yet a Union position, the Union position shall be established by means of on-the-spot coordination before [WRC-15] is called to adopt revisions to the Radio Regulations. In such cases, the Union position shall be consistent with the principles laid down in the Annex to this Decision.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1979">
+          <num>15</num>
+          <content eId="para_1979__content">
+            <p>The Annex to that proposal for a Council Decision is worded as follows: `When negotiating and adopting revisions to the ITU Radio Regulations at WRC-15, the following positions should be taken on the Union's behalf: 1. Under agenda item 1.1: • identify the band 1452-1492 MHz, and adjacent bands 1427-1452 MHz and 1492-1518 MHz for International Mobile Telecommunications [(IMT)], while protecting passive services below 1427 MHz; • allocate on a co-primary basis to the mobile service and identify for International Mobile Telecommunications the band 3400-3800 MHz; • reject the co-primary allocation to the mobile service of the band 470-694 MHz in Europe; • not add the co-primary allocation to the mobile service of the bands 5350-5470 MHz and 5725-5850 MHz nor identify for IMT those bands as well as the band 5850-5925 MHz, while studying these three bands further with a view to consider their use for radio local area networks and ensuring that primary use is protected in all cases. 2. Under agenda item 1.2: • set protection levels for the broadcasting service below 694 MHz commensurate with the results of the studies performed by the Conférence Européenne des Postes et Télécommunications [European Conference of Postal and Telecommunications Administrations] and set the lower band edge at 694 MHz; • not add additional constraints for the protection of broadcasting in the band 694-790 MHz although measures can be adopted to ensure the balanced coexistence between wireless broadband and existing aeronautical radionavigation systems on the eastern borders of the EU in the 694-790 MHz band. 3. Under agenda item 1.18: allocate the band 77.5-78 GHz to the radiolocation service and safeguard the use of that band for automotive radars without introducing excessive restrictions, but recognising that radio astronomy stations should continue to benefit from protection. 4. Under agenda item 10: an agenda item for [the World Radiocommunication Conference 2019 (WRC-19)] addressing the spectrum needs for 5G mobile systems should be supported, with the focus above 6 GHz for new allocations and a common approach to launch related compatibility studies ahead of WRC-19. 5. When negotiating any relevant amendment to the ITU Radio Regulations at WRC-15, ensure compliance with Union law, in particular that the principles set out in Article 9 of [the Framework Directive] and [Decision No 243/2012] are respected, and do not bear any prejudice to its further foreseeable development.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1980">
+          <num>16</num>
+          <content eId="para_1980__content">
+            <p>Following discussions within the Council, the latter adopted the contested act, which provides as follows: `THE COUNCIL OF THE EUROPEAN UNION, 1. RECALLING</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>[Decision No 676/2002];</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>the provisions of [the Framework Directive], and particularly its Article 8a(4);</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>[Decision No 243/2012];</p>
+              </item>
+              <item>
+                <num>(d)</num>
+                <p>the Council conclusions on the European positions for the World Radiocommunication Conferences of 1992, 1997, 2000, 2003, 2007 and 2012;</p>
+              </item>
+              <item>
+                <num>(e)</num>
+                <p>the importance of wireless technologies using spectrum for achieving the EU's policy objectives under the EU 2020 Strategy flagship initiative ``Digital Agenda for Europe '' to deliver fast broadband internet and achieving sustainable economic and social benefits from a digital single market;</p>
+              </item>
+              <item>
+                <num>(f)</num>
+                <p>the Council conclusions of 31 May 2010 on the Digital Agenda for Europe; 2. NOTING • the February 2015 Opinion of [the RSPG] on ``Common Policy Objectives for WRC-15 ''; 3. EXPRESSES ITS BROAD SUPPORT FOR the following objectives to be achieved at WRC-15 in view of the successful implementation of relevant Union policies:</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>Under agenda item 1.1: i. To identify the band 1452-1492 MHz, and adjacent bands 1427-1452 MHz and 1492-1518 MHz for International Mobile Telecommunications (IMT) while protecting passive services below 1427 MHz. This identification does not preclude the use of these bands by any applications, including defence, of the services to which they are allocated, nor establish priority in the Radio Regulations; ii. To allocate the band 3400-3800 MHz on a co-primary basis to the mobile service and identify it for IMT, taking into account that the band plays an important role for satellite communications; iii. To support no change to allocations in the band 470‑694 MHz in Europe; iv. To neither add the co-primary allocation to the mobile service of the bands 5350-5470 MHz and 5725-5850 MHz nor identify for IMT those bands as well as the band 5850-5925 MHz, while studying these three bands further with a view to consider their use for radio local area networks and ensuring that primary use is protected in all cases.</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>Under agenda item 1.2: i. To set the lower band edge at 694 MHz and support ITU-R recommendations for protection levels for the broadcasting service below 694 MHz commensurate with the results of the studies performed by the European Conference of Postal and Telecommunications Administrations; ii. To ensure balanced coexistence between wireless broadband and broadcasting, and not add additional constraints going beyond the GE-06 agreement for the protection of broadcasting in the band 694-790 MHz; iii. To ensure balanced access between mobile service and aeronautical radionavigation services (ARNS) at the borders of the eastern Member States, so as to facilitate the deployment of mobile services in all EU countries through appropriate regulatory provisions of the radio regulations, while favouring the smallest effective separation distances between ARNS and IMT and supporting the rights of the EU eastern Member States in this regard.</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>Under agenda item 1.18: to allocate the band 77.5-78 GHz to radiolocation service to facilitate the deployment of automotive radars without introducing excessive restrictions, and to recognise that radio astronomy stations should continue to benefit from protection;</p>
+              </item>
+              <item>
+                <num>(d)</num>
+                <p>Under agenda item 10: to support an agenda item for WRC-19 addressing the spectrum needs for 5G mobile systems, with the focus above 6 GHz for new allocations and a common approach to launch related compatibility studies ahead of WRC-19; 4. INVITES MEMBER STATES TO: • Pursue the objectives set out in paragraph 3 and to respect the principles set out in [Decision No 243/2012] when negotiating any relevant amendment to the ITU Radio Regulations at WRC-15. 5. INVITES THE COMMISSION TO: • Report rapidly to the European Parliament and the Council on the results of WRC-15 and on the means to ensure that the European preparations for the next conference due in 2019 (WRC-19) are fully supportive of Union policies and principles.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1981">
+          <num>17</num>
+          <content eId="para_1981__content">
+            <p>When the contested act was adopted, the Commission made the following statement, entered in the minutes of the Council meeting: `The Commission regrets the fact that the Council has adopted conclusions in preparation for [WRC-15], rather than a decision as foreseen by Article 218(9) TFEU. In the view of the Commission, this position is contrary to the Treaty and case-law of the Court of Justice. The Commission reserves all its rights in that regard.'</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>Forms of order sought by parties and the procedure before the Court</p>
+        </tblock>
+        <paragraph eId="para_1982">
+          <num>18</num>
+          <content eId="para_1982__content">
+            <p>The Commission claims that the Court should:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>annul the contested act, and</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>order the Council to pay the costs.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1983">
+          <num>19</num>
+          <content eId="para_1983__content">
+            <p>The Council contends that the Court should:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>dismiss the action in its entirety, and</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>order the Commission to pay the costs.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1984">
+          <num>20</num>
+          <content eId="para_1984__content">
+            <p>The Czech Republic, the Federal Republic of Germany, the French Republic and the United Kingdom of Great Britain and Northern Ireland were granted leave to intervene in support of the Council.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The action</p>
+        </tblock>
+        <tblock>
+          <p>The admissibility of the pleas in law of the intervening Member States</p>
+        </tblock>
+        <paragraph eId="para_1985">
+          <num>21</num>
+          <content eId="para_1985__content">
+            <p>In support of its action, the Commission relies on a single plea in law, claiming that, by adopting the contested act, instead of a decision as proposed by the Commission, the Council infringed Article 218(9) TFEU.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1986">
+          <num>22</num>
+          <content eId="para_1986__content">
+            <p>In their statements in intervention, the Czech Republic, the Federal Republic of Germany and the French Republic dispute the applicability of Article 218(9) TFEU to the present case, arguing, inter alia, that the European Union did not have the external competence necessary to enable the Council to establish, pursuant to that provision, positions to be adopted on behalf of the European Union with respect to WRC-15 agenda items covered by the contested act.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1987">
+          <num>23</num>
+          <content eId="para_1987__content">
+            <p>However, a party who, pursuant to Article 40 of the Statute of the Court of Justice of the European Union, is granted leave to intervene in a case submitted to the Court may not alter the subject matter of the dispute as defined by the forms of order sought by the main parties and the pleas in law raised by those parties. It follows that arguments submitted by an intervener are not admissible unless they fall within the framework provided by those forms of order and pleas in law (see, inter alia, judgment of 7 October 2014, Germany v Council, C‑399/12, EU:C:2014:2258, paragraph 27).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1988">
+          <num>24</num>
+          <content eId="para_1988__content">
+            <p>It is however not disputed by the main parties that Article 218(9) TFEU is applicable to the present case. The subject matter of the dispute, as defined by the forms of order sought by the main parties and the pleas in law raised by those parties, concerns solely the question whether the adoption of the contested act complied with the formal and procedural requirements laid down in that provision. Accordingly, the pleas in law of the intervening Member States set out in paragraph 22 of the present judgment must at the outset be rejected as being inadmissible.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The single plea in law</p>
+        </tblock>
+        <tblock>
+          <p>Arguments of the parties</p>
+        </tblock>
+        <paragraph eId="para_1989">
+          <num>25</num>
+          <content eId="para_1989__content">
+            <p>According to the Commission, the Council, by adopting conclusions instead of a decision, infringed Article 218(9) TFEU.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1990">
+          <num>26</num>
+          <content eId="para_1990__content">
+            <p>In that regard, the Commission states that, when the Council adopts a decision under Article 218(9) TFEU, it is to act by a qualified majority. The voting rules that are to apply to the adoption of an act such as Council conclusions are, however, in practice, subject to differences of opinion between the European Union institutions. The Council has, on several occasions, taken the view that such acts are to be adopted by consensus, meaning that such acts cannot be adopted if one Member State opposes their adoption. The Commission considers that such voting rules do not comply with the Treaties. According to the Commission, it follows from Article 16(3) TEU, which provides that `the Council shall act by qualified majority, except where the Treaties provide otherwise', that such acts must be adopted by qualified majority. The present case shows, the Commission claims, that a search for consensus, instead of a qualified majority, is likely to lead to a different result, negatively affecting European Union policy.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1991">
+          <num>27</num>
+          <content eId="para_1991__content">
+            <p>The Commission claims, in that regard, that the provisions of the contested act diverge from its proposal of 29 May 2015. Most of the changes have been made precisely to ensure that the content of the contested act corresponds to the form that the Council decided to choose. First, the contested act contains no indication of its legal basis. Contrary to what is claimed by the Council, the Commission considers that that omission is not a purely formal defect. Second, instead of making use of extensive recitals to explain why the act was to be adopted, the Council confined itself to `recalling' a list of European Union acts adopted in the relevant policy area. Third, the Commission argues that, instead of deciding that the Member States, acting jointly in the interest of the European Union, `shall take' certain positions at WRC-15, the contested act states that the Council `expresses its broad support' for the objectives to be achieved in the negotiations at WRC-15 and `invites Member States' to pursue certain objectives during these negotiations.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1992">
+          <num>28</num>
+          <content eId="para_1992__content">
+            <p>By acting in this way, the Council failed, according to the Commission, to establish clear and binding positions that the Member States had to respect when participating at WRC-15, acting jointly in the interest of the European Union, but rather required the Member States to use their best endeavours. Such a requirement is not however apt to ensure strong and unified external representation of the European Union on the international stage and, consequently, fails to achieve the objectives set by the Treaties.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1993">
+          <num>29</num>
+          <content eId="para_1993__content">
+            <p>The Council contends that, acting on a proposal from the Commission based on Article 218(9) TFEU, it established a binding European Union position for the purposes of WRC-15, in accordance with that provision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1994">
+          <num>30</num>
+          <content eId="para_1994__content">
+            <p>First, the contested act clearly identified the European Union priorities for each of the WRC-15 agenda items listed in the Annex to the Commission proposal of 29 May 2015. Second, the positions set out in the contested act were binding.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1995">
+          <num>31</num>
+          <content eId="para_1995__content">
+            <p>As regards the alleged lack of legal basis, the Council considers that such an omission is at most a purely formal defect which cannot lead to the annulment of the contested act and notes in that regard that the Commission does not dispute either that the applicable procedural legal basis is Article 218(9) TFEU, or that the substantive legal basis is Article 114 TFEU.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1996">
+          <num>32</num>
+          <content eId="para_1996__content">
+            <p>As regards voting arrangements, the Council contends that, although qualified majority was in principle applicable to the adoption of the contested act, the fact that it was possible to reach unanimity within the Council on the adoption of that act cannot imply that the Council acted outside the procedure laid down by Article 218(9) TFEU. The Council adds that, given that the Commission did not alter its proposal of 29 May 2015 during the proceedings that led to the adoption of the European Union position, in order to take on board the amendments on which agreement within the Council was about to be reached, it follows from Article 293(1) TFEU that the Council had to act unanimously.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1997">
+          <num>33</num>
+          <content eId="para_1997__content">
+            <p>The Council states that it sometimes adopts, in the form of conclusions, certain acts that have or are designed to have a legal effect, while adding that, in such cases, it must respect the procedural requirements provided for in the Treaties, in accordance with the applicable legal basis.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1998">
+          <num>34</num>
+          <content eId="para_1998__content">
+            <p>The Council considers that, contrary to what is claimed by the Commission, the fact that the contested act diverges from the proposal submitted by the Commission on 29 May 2015 does not in any way show that the search for consensus, instead of a qualified majority, is liable to lead to a different result, negatively affecting European Union policy.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1999">
+          <num>35</num>
+          <content eId="para_1999__content">
+            <p>Moreover, the Council states that the complaint made by the Commission as to the form of the contested act is at odds with its consistent practice with respect to the preparation of the European Union position prior to previous world radiocommunication conferences. The Council considers that if the reading of the Treaties as advocated by the Commission were to be accepted, that would significantly hamper the defence of the European Union's interests on the international stage and would disrupt the institutional balance laid down by the Treaties.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Findings of the Court</p>
+        </tblock>
+        <paragraph eId="para_2000">
+          <num>36</num>
+          <content eId="para_2000__content">
+            <p>By its single plea in law, the Commission claims, in essence, that the Council, by adopting conclusions on WRC-15, instead of a decision in accordance with the Commission's proposal of 29 May 2015, infringed Article 218(9) TFEU. The Commission also claims that the Council was wrong not to state the legal basis for the contested act.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2001">
+          <num>37</num>
+          <content eId="para_2001__content">
+            <p>That provision states that `the Council, on a proposal from the Commission ..., shall adopt a decision ... establishing the positions to be adopted on the Union's behalf in a body set up by an agreement, when that body is called upon to adopt acts having legal effects, with the exception of acts supplementing or amending the institutional framework of the agreement'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2002">
+          <num>38</num>
+          <content eId="para_2002__content">
+            <p>By adopting the contested act in the form of conclusions, the Council therefore made use of a form of act other than that laid down by that provision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2003">
+          <num>39</num>
+          <content eId="para_2003__content">
+            <p>The Council argues however that the Treaty leaves to it the choice as to the form of a decision pursuant to Article 218(9) TFEU. In this case, the Council claims that what it did was `in substance', in the form of conclusions, to adopt a decision. The Council considers, moreover, that the lack of any reference to the legal basis of the contested act does not constitute an infringement of essential procedural requirements.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2004">
+          <num>40</num>
+          <content eId="para_2004__content">
+            <p>As regards, first, the form of the contested act, it must be recalled that the Treaties set up a system of allocation of powers among the EU institutions, assigning to each institution its own role in the institutional structure of the European Union and the accomplishment of the tasks entrusted to the European Union. Accordingly, Article 13(2) TEU provides that each institution is to act within the limits of the powers conferred on it in the Treaties, and in conformity with the procedures, conditions and objectives set out therein. That provision reflects the principle of institutional balance, characteristic of the institutional structure of the European Union, a principle which requires that each of the institutions must exercise its powers with due regard for the powers of the other institutions (judgment of 28 July 2016, Council v Commission, C‑660/13, EU:C:2016:616, paragraphs 31 and 32 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2005">
+          <num>41</num>
+          <content eId="para_2005__content">
+            <p>Accordingly, as the Court has repeatedly held, in so far as the rules regarding the manner in which the EU institutions arrive at their decisions are laid down in the Treaties and are not within the discretion of the Member States or of the institutions themselves, the Treaties alone may, in particular cases, empower an institution to amend a decision-making procedure established by the Treaties (judgment of 6 September 2017, Slovakia and Hungary v Council, C‑643/15 and C‑647/15, EU:C:2017:631, paragraph 149).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2006">
+          <num>42</num>
+          <content eId="para_2006__content">
+            <p>In this case, it must, first, be emphasised that, contrary to what is suggested by the Council, the practice of the institutions, and in particular, with respect to the present case, an alleged consistent practice in relation to the preparation of the EU position for the purposes of the world radiocommunication conferences by means of conclusions, a practice which is contradicted by the position maintained by the Commission in this action, cannot alter the rules of the Treaties that the institutions are obliged to respect. In accordance with settled case-law, a mere practice on the part of the Council cannot derogate from the rules of the Treaty and cannot therefore create a precedent that is binding on the EU institutions (see, to that effect, judgment of 6 May 2008, Parliament v Council, C‑133/06, EU:C:2008:257, paragraph 60 and the case-law cited, and Opinion 1/08 (Agreements modifying the Schedules of Specific Commitments under the GATS) of 30 November 2009, EU:C:2009:739, paragraph 172 and the case-law cited].</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2007">
+          <num>43</num>
+          <content eId="para_2007__content">
+            <p>Second, as regards the Council's argument based on paragraph 9 of the judgment of 11 November 1981, IBM v Commission ( 60/81, EU:C:1981:264), according to which the form in which acts or decisions are cast is, in principle, immaterial as regards the question whether they are intended to have legal effects, it must be observed that the case-law stemming from that judgment is relevant to the question of determining whether an act is one against which an action for annulment may be brought. However, it can in no way be inferred from that case-law that the institutions of the European Union are free to derogate from the form of the act laid down by the relevant Treaty provision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2008">
+          <num>44</num>
+          <content eId="para_2008__content">
+            <p>The fact that an institution of the European Union derogates from the legal form laid down by the Treaties constitutes an infringement of essential procedural requirements that is such as to require the annulment of the act concerned, since that derogation is likely to create uncertainty as to the nature of that act or as to the procedure to be followed for its adoption, thereby undermining legal certainty.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2009">
+          <num>45</num>
+          <content eId="para_2009__content">
+            <p>In this case, the adoption of the contested act in the form of conclusions creates uncertainty as to the legal nature and scope of that act. As the Advocate General also observed in points 69 to 72 of his Opinion, whereas the Council maintains that the act concerned constitutes `in substance' a Council decision, establishing the position to be adopted on the European Union's behalf at WRC-15, the Czech Republic and the French Republic characterise the act as a common position of the European Union and the Member States, and the Federal Republic of Germany regards it as a position that all the Member States had coordinated in the form of Council conclusions. Further, the Council submits that the contested act is binding, whereas the Czech Republic is of the opinion that only certain parts of that act are legally binding, the parts that cover aspects which, according to that Member State, fall under the competence of the European Union, and the Federal Republic of Germany considers that that act constitutes non-binding conclusions. The Commission, for its part, claims that the Council, by adopting the contested act in the form of conclusions, chose a legal form that is generally reserved for acts that are not binding.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2010">
+          <num>46</num>
+          <content eId="para_2010__content">
+            <p>The wording used in the contested act adds, it may be said, to that uncertainty. Whereas the Commission proposal of 29 May 2015 concerned a `Council Decision' on the position `to be adopted, on behalf of the European Union', at WRC-15, the contested act consists of the Council, as paragraph 3 of that act is worded, `express[ing] its broad support' for a set of objectives to be achieved at WRC-15 in view of the successful implementation of relevant Union policies and, according to its paragraph 4, `invit[ing] Member States' to pursue those objectives and to respect the principles set out in Decision No 243/2012 when negotiating amendments to the ITU Radio Regulations at WRC-15. As stated by the Commission, the use of such wording is incompatible with the requirement that a decision of an EU institution under Article 288 TFEU must be binding. Moreover, there is nothing in the contested act to suggest that the Member States are obliged to adopt a position `on the Union's behalf' at WRC-15, contrary to what is provided in Article 218(9) TFEU.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2011">
+          <num>47</num>
+          <content eId="para_2011__content">
+            <p>In those circumstances, it is clear that the Council, by adopting conclusions on WRC-15, instead of a decision, as laid down by Article 218(9) TFEU, infringed the essential procedural requirements laid down by that provision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2012">
+          <num>48</num>
+          <content eId="para_2012__content">
+            <p>As regards, second, the fact that the contested act makes no reference to the legal basis on which it is adopted, it must be observed, at the outset, that an indication of the legal basis is essential in the light of the principle of the allocation of powers enshrined in Article 5(2) TEU, according to which the European Union must act within the limits of the competences conferred on it by the Member States in the Treaties to attain the objectives set out in the Treaties with respect to both the internal action and international action of the European Union (see, to that effect, Opinion 2/94 (Accession of the Community to the ECHR) of 28 March 1996, EU:C:1996:140, paragraph 24, and judgment of 1 October 2009, Commission v Council, C‑370/07, EU:C:2009:590, paragraph 46).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2013">
+          <num>49</num>
+          <content eId="para_2013__content">
+            <p>The choice of the appropriate legal basis has constitutional significance, since, having only conferred powers, the European Union must link the acts which it adopts to provisions of the FEU Treaty which actually empower it to adopt such acts (Opinion 1/15 (EU-Canada PNR Agreement) of 26 July 2017, EU:C:2017:592, paragraph 71).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2014">
+          <num>50</num>
+          <content eId="para_2014__content">
+            <p>Further, the indication of the legal basis is of particular significance in order to preserve the prerogatives of the EU institutions concerned by the procedure for the adoption of a measure (see, to that effect, judgment of 1 October 2009, Commission v Council, C‑370/07, EU:C:2009:590, paragraph 48).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2015">
+          <num>51</num>
+          <content eId="para_2015__content">
+            <p>Thus, in the present case, such an indication is liable to have an effect on the powers of the Commission and of the Council and on their respective roles in the procedure for the adoption of the contested act. In the same way, an indication of the legal basis is necessary in order to determine the voting procedure within the Council (see, by analogy, judgment of 1 October 2009, Commission v Council, C‑370/07, EU:C:2009:590, paragraph 48). In particular, since the contested act does not correspond to any of the situations mentioned in the second subparagraph of Article 218(8) TFEU, the Council must, in principle, in accordance with the provisions, read together, of the first subparagraph of Article 218(8) and Article 218(9) TFEU, act by qualified majority when adopting that act (see, to that effect, judgment of 18 December 2014, United Kingdom v Council, C‑81/13, EU:C:2014:2449, paragraph 66).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2016">
+          <num>52</num>
+          <content eId="para_2016__content">
+            <p>Moreover, it must be recalled that an indication of the legal basis is essential in the light of the obligation to state reasons that stems from Article 296 TFEU. That obligation, which is justified in particular by the need for the Court to be able to exercise its power of judicial review, must apply to all European Union acts that produce legal effects (see, to that effect, judgment of 1 October 2009, Commission v Council, C‑370/07, EU:C:2009:590, paragraphs 42 and 45).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2017">
+          <num>53</num>
+          <content eId="para_2017__content">
+            <p>Last, the requirement of legal certainty means that the binding nature of any act intended to have legal effects must be derived from a provision of EU law which prescribes the legal form to be taken by that act and which must be expressly indicated therein as its legal basis (judgment of 14 June 2016, Commission v McBride and Others, C‑361/14 P, EU:C:2016:434, paragraph 47).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2018">
+          <num>54</num>
+          <content eId="para_2018__content">
+            <p>In this case, the contested act is an act of the European Union, given that it was adopted by the Council, and it has legal effects, in that it determines the objectives that it invites the Member States to pursue at WRC-15. It follows that the Council ought to have indicated, in the contested act, the substantive and procedural legal basis on which that act was adopted.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2019">
+          <num>55</num>
+          <content eId="para_2019__content">
+            <p>Moreover, while it is true that failure to refer to a specific provision of the Treaty need not necessarily constitute an infringement of essential procedural requirements if the legal basis for a measure may be determined from other parts of the measure, as claimed by the Council, such explicit reference is, however, indispensable where, in its absence, the parties concerned and the Court are left uncertain as to the specific legal basis (see, inter alia, judgment of 14 June 2016, Commission v McBride and Others, C‑361/14 P, EU:C:2016:434, paragraph 48).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2020">
+          <num>56</num>
+          <content eId="para_2020__content">
+            <p>In this case, however, instead of indicating the legal basis for the contested act, the Council did no more than, in paragraph 1 of that act, recall the relevant legal background and the Council's institutional practice, and, in paragraph 2 of that act, take note of the RPSG Opinion of February 2015 on common policy objectives for WRC-15. It follows from that finding, allied to those stated in paragraph 46 of the present judgment, that there is nothing in the contested act that makes it possible to determine its substantive and procedural legal basis.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2021">
+          <num>57</num>
+          <content eId="para_2021__content">
+            <p>It follows that the legal basis of the contested act cannot be clearly determined. That being the case, contrary to what is argued by the Council, the failure, in the contested act, to indicate any legal basis cannot be regarded as a purely formal defect (see, to that effect, judgment of 1 October 2009, Commission v Council, C‑370/07, EU:C:2009:590, paragraphs 60 and 61).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2022">
+          <num>58</num>
+          <content eId="para_2022__content">
+            <p>Accordingly, the derogation from the legal form laid down by Article 218(9) TFEU and the failure to indicate the legal basis are the source of confusion as to the legal nature and scope of the contested act and as to the procedure that had to be followed for its adoption, a confusion that was apt to weaken the European Union in the defence of its position at WRC-15 (see, by analogy, judgment of 1 October 2009, Commission v Council, C‑370/07, EU:C:2009:590, paragraph 49).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2023">
+          <num>59</num>
+          <content eId="para_2023__content">
+            <p>It follows from the foregoing that the contested act must be annulled.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_2024">
+          <num>60</num>
+          <content eId="para_2024__content">
+            <p>Under Article 138(1) of the Rules of Procedure of the Court, the unsuccessful party is to be ordered to pay the costs if they have been applied for in the successful party's pleadings. Since the Commission has applied for costs and the Council has been unsuccessful, the latter must be ordered to pay the costs.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2025">
+          <num>61</num>
+          <content eId="para_2025__content">
+            <p>In accordance with Article 140(1) of those rules, the Czech Republic, the Federal Republic of Germany, the French Republic and United Kingdom must bear their own costs. On those grounds, the Court (Grand Chamber) hereby: 1. Annuls the conclusions of the Council of the European Union, adopted on 26 October 2015, at its 3419th meeting in Luxembourg, on the World Radiocommunication Conference 2015 (WRC-15) of the International Telecommunication Union (ITU); 2. Orders the Council of the European Union to pay the costs; 3. Orders the Czech Republic, the Federal Republic of Germany, the French Republic and the United Kingdom of Great Britain and Northern Ireland to bear their own costs.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>Lenaerts Tizzano Bay Larsen Da Cruz Vilaça Malenovský Levits Vajda Bonichot Arabadjiev Toader Prechal Rodin Biltgen Delivered in open court in Luxembourg on 25 October 2017. A. Calot Escobar Registrar K. Lenaerts President( *1)Language of the case: English.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

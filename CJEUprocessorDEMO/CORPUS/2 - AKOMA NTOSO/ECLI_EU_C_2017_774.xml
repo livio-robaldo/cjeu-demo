@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Fourth Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>19 October 2017 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Directive 92/43/EEC -- Conservation of natural habitats and of wild fauna and flora -- Implementing Decision (EU) 2015/72 -- List of sites of Community importance for the Atlantic biogeographical region -- Reduction of the size of a site -- Scientific error -- Validity) In Case C‑281/16, REQUEST for a preliminary ruling under Article 267 TFEU from the Raad van State (Council of State, Netherlands), made by decision of 18 May 2016, received at the Court on 20 May 2016, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">Vereniging Hoekschewaards Landschap</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#">Staatssecretaris van Economische Zaken</party>
+      </p>
+      <p>, THE COURT (Fourth Chamber), composed of T. von Danwitz, President of the Chamber, C. Vajda, E. Juhász, K. Jürimäe and C. Lycourgos (Rapporteur), Judges, Advocate General: J. Kokott, Registrar: L. Hewlett, Principal Administrator, having regard to the written procedure and further to the hearing on 11 May 2017, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>the Vereniging Hoekschewaards Landschap, by A. Jonkhoff and W. Zwier, advocaten,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Netherlands Government, by M.K. Bulterman, B. Koopman and C.S. Schillemans, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by E. Manhaeve and C. Hermes, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 15 June 2017,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_1006">
+          <num>1</num>
+          <content eId="para_1006__content">
+            <p>This request for a preliminary ruling concerns the validity of Commission Implementing Decision (EU) 2015/72 of 3 December 2014 adopting an eighth update of the list of sites of Community importance for the Atlantic biogeographical region ( OJ 2015 L 18, p. 385).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1007">
+          <num>2</num>
+          <content eId="para_1007__content">
+            <p>The request has been made in proceedings between the Vereniging Hoekschewaards Landschap and the Staatssecretaris van Economische Zaken (State Secretary for Economic Affairs, Netherlands) ( `the State Secretary') concerning the legality of a decision to reduce the size of a special area of conservation ( `the SAC').</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <tblock>
+          <p>Directive 92/43/EEC</p>
+        </tblock>
+        <paragraph eId="para_1008">
+          <num>3</num>
+          <content eId="para_1008__content">
+            <p>Article 1 of Council Directive 92/43/EEC of 21 May 1992 on the conservation of natural habitats and of wild fauna and flora ( OJ 1992 L 206, p. 7) as amended by Council Directive 2006/105/EC of 20 November 2006 ( OJ 2006 L 363, p. 368) ( `the Habitats Directive') is worded as follows: `For the purpose of this Directive:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>conservation means a series of measures required to maintain or restore the natural habitats and the populations of species of wild fauna and flora at a favourable status as defined in</p>
+              </item>
+              <item>
+                <num>(e)</num>
+                <p>and</p>
+              </item>
+              <item>
+                <num>(i)</num>
+                <p>; ...</p>
+              </item>
+              <item>
+                <num>(e)</num>
+                <p>conservation status of a natural habitat means the sum of the influences acting on a natural habitat and its typical species that may affect its long-term natural distribution, structure and functions as well as the long-term survival of its typical species within the territory referred to in Article 2. The conservation status of a natural habitat will be taken as ``favourable '' when:</p>
+                <blockList>
+                  <item>
+                    <num>--</num>
+                    <p>its natural range and areas it covers within that range are stable or increasing, and</p>
+                  </item>
+                  <item>
+                    <num>--</num>
+                    <p>the specific structure and functions which are necessary for its long-term maintenance exist and are likely to continue to exist for the foreseeable future, and</p>
+                  </item>
+                  <item>
+                    <num>--</num>
+                    <p>the conservation status of its typical species is favourable as defined in</p>
+                  </item>
+                </blockList>
+              </item>
+              <item>
+                <num>(i)</num>
+                <p>; ...</p>
+              </item>
+              <item>
+                <num>(i)</num>
+                <p>conservation status of a species means the sum of the influences acting on the species concerned that may affect the long-term distribution and abundance of its populations within the territory referred to in Article 2; The conservation status will be taken as ``favourable '' when:</p>
+                <blockList>
+                  <item>
+                    <num>--</num>
+                    <p>population dynamics data on the species concerned indicate that it is maintaining itself on a long-term basis as a viable component of its natural habitats, and</p>
+                  </item>
+                  <item>
+                    <num>--</num>
+                    <p>the natural range of the species is neither being reduced nor is likely to be reduced for the foreseeable future and</p>
+                  </item>
+                  <item>
+                    <num>--</num>
+                    <p>there is, and will probably continue to be, a sufficiently large habitat to maintain its populations on a long-term basis; ...</p>
+                  </item>
+                </blockList>
+                <blockList>
+                  <item>
+                    <num>(k)</num>
+                    <p>site of Community importance means a site which, in the biogeographical region or regions to which it belongs, contributes significantly to the maintenance or restoration at a favourable conservation status of a natural habitat type in Annex I or of a species in Annex II and may also contribute significantly to the coherence of Natura 2000 referred to in Article 3, and/or contributes significantly to the maintenance of biological diversity within the biogeographic region or regions concerned. ...</p>
+                  </item>
+                  <item>
+                    <num>(l)</num>
+                    <p>[ SAC] means a site of Community importance designated by the Member States through a statutory, administrative and/or contractual act where the necessary conservation measures are applied for the maintenance or restoration, at a favourable conservation status, of the natural habitats and/or the populations of the species for which the site is designated; ...'</p>
+                  </item>
+                </blockList>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1009">
+          <num>4</num>
+          <content eId="para_1009__content">
+            <p>Article 2 of the Habitats Directive provides: `1.   The aim of this Directive shall be to contribute towards ensuring bio-diversity through the conservation of natural habitats and of wild fauna and flora in the European territory of the Member States to which the [FEU] Treaty applies. 2.   Measures taken pursuant to this Directive shall be designed to maintain or restore, at favourable conservation status, natural habitats and species of wild fauna and flora of Community interest. 3.   Measures taken pursuant to this Directive shall take account of economic, social and cultural requirements and regional and local characteristics.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1010">
+          <num>5</num>
+          <content eId="para_1010__content">
+            <p>The first subparagraph of Article 3(1) of that directive provides: `A coherent European ecological network of [SCAs] shall be set up under the title Natura 2000. This network, composed of sites hosting the natural habitat types listed in Annex I and habitats of the species listed in Annex II, shall enable the natural habitat types and the species' habitats concerned to be maintained or, where appropriate, restored at a favourable conservation status in their natural range.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1011">
+          <num>6</num>
+          <content eId="para_1011__content">
+            <p>Under Article 4 of the directive: `1.   On the basis of the criteria set out in Annex III (Stage 1) and relevant scientific information, each Member State shall propose a list of sites indicating which natural habitat types in Annex I and which species in Annex II that are native to its territory the sites host. ... Where appropriate, Member States shall propose adaptation of the list in the light of the results of the surveillance referred to in Article 11. ... 2.   On the basis of the criteria set out in Annex III (Stage 2) and in the framework both of each of the nine biogeographical regions referred to in Article 1(c)(iii) and of the whole of the territory referred to in Article 2(1), the Commission shall establish, in agreement with each Member State, a draft list of sites of Community importance drawn from the Member States' lists identifying those which host one or more priority natural habitat types or priority species. ... The list of sites selected as sites of Community importance, identifying those which host one or more priority natural habitat types or priority species, shall be adopted by the Commission in accordance with the procedure laid down in Article 21. ... 4.   Once a site of Community importance has been adopted in accordance with the procedure laid down in paragraph 2, the Member State concerned shall designate that site as [an SAC] as soon as possible and within six years at most, establishing priorities in the light of the importance of the sites for the maintenance or restoration, at a favourable conservation status, of a natural habitat type in Annex I or a species in Annex II and for the coherence of Natura 2000, and in the light of the threats of degradation or destruction to which those sites are exposed. ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1012">
+          <num>7</num>
+          <content eId="para_1012__content">
+            <p>Article 9 of the Habitats Directive reads as follows: `The Commission, acting in accordance with the procedure laid down in Article 19, shall periodically review the contribution of Natura 2000 towards achievement of the objectives set out in Article 2 and 3. In this context, [an SAC] may be considered for declassification where this is warranted by natural developments noted as a result of the surveillance provided for in Article 11.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1013">
+          <num>8</num>
+          <content eId="para_1013__content">
+            <p>Article 11 of the directive is worded as follows: `Member States shall undertake surveillance of the conservation status of the natural habitats and species referred to in Article 2 with particular regard to priority natural habitat types and priority species.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1014">
+          <num>9</num>
+          <content eId="para_1014__content">
+            <p>Annex III to the directive lays down the criteria for selecting sites eligible for identification as sites of Community importance ( `SCIs') and for designation as SACs. With regard, more specifically, to the criteria relating to Stage 1, consisting in the `assessment at national level of the relative importance of sites for each natural habitat type in Annex I and each species in Annex II (including priority natural habitat types and priority species)', the annex states as follows: `A. Site assessment criteria for a given natural habitat type in Annex I(a) Degree of representativity of the natural habitat type on the site.</p>
+            <blockList>
+              <item>
+                <num>(b)</num>
+                <p>Area of the site covered by the natural habitat type in relation to the total area covered by that natural habitat type within national territory.</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>Degree of conservation of the structure and functions of the natural habitat type concerned and restoration possibilities.</p>
+              </item>
+              <item>
+                <num>(d)</num>
+                <p>Global assessment of the value of the site for conservation of the natural habitat type concerned. B. Site assessment criteria for a given species in Annex II(a) Size and density of the population of the species present on the site in relation to the populations present within national territory.</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(b)</num>
+                <p>Degree of conservation of the features of the habitat which are important for the species concerned and restoration possibilities.</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>Degree of isolation of the population present on the site in relation to the natural range of the species.</p>
+              </item>
+              <item>
+                <num>(d)</num>
+                <p>Global assessment of the value of the site for conservation of the species concerned.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The decisions adopted by the Commission pursuant to the third subparagraph of Article 4(2) of the Habitats Directive</p>
+        </tblock>
+        <paragraph eId="para_1015">
+          <num>10</num>
+          <content eId="para_1015__content">
+            <p>By its Decision 2004/813/EC of 7 December 2004, adopting, pursuant to Council Directive 92/43/EEC, the list of sites of Community importance for the Atlantic biogeographical region ( OJ 2004 L 387, p. 1), the Commission, on the basis of a proposal by the Kingdom of the Netherlands, selected the Haringvliet site (Netherlands) as an SCI, under code number NL 1000015, referring to a surface area of 11108 hectares (ha).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1016">
+          <num>11</num>
+          <content eId="para_1016__content">
+            <p>The seven successive updates of the list of SCIs for the Atlantic biogeographical region maintained the Haringvliet site on that list, referring to the same surface area.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1017">
+          <num>12</num>
+          <content eId="para_1017__content">
+            <p>By contrast, by Implementing Decision 2015/72, which updated that list for the eighth time, the Commission kept the Haringvliet site as an SCI, referring to a surface area of 10988 ha only.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Netherlands law</p>
+        </tblock>
+        <paragraph eId="para_1018">
+          <num>13</num>
+          <content eId="para_1018__content">
+            <p>Article 10a(1) of the Natuurbeschermingswet 1998 (Nature Conservation Law of 1998) of 25 May 1998 reads as follows: `Our Minister shall designate the sites for the purposes of implementing ... the [Habitats] Directive.'</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the question referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_1019">
+          <num>14</num>
+          <content eId="para_1019__content">
+            <p>It is apparent from the request for a preliminary ruling that the Leenheerenpolder is a polder with a surface area of approximately 110 ha which formed part of the Haringvliet site at the time the latter was placed, by Decision 2004/813, on the list of SCIs for the Atlantic biogeographical region because of the restoration possibilities that the polder offered for the natural habitat types and species present elsewhere on the Haringvliet SCI. Indeed, it was intended that the Leenheerenpolder, which, at the time, was composed of agricultural land and did not host any of the natural habitat types and species protected elsewhere on the SCI, would be the subject of a so-called `depolderisation' action consisting in its conversion into a natural area under tidal influence to develop its potential.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1020">
+          <num>15</num>
+          <content eId="para_1020__content">
+            <p>By decision of 4 July 2013, the Kingdom of the Netherlands, on the basis of Article 10a of the Nature Conservation Law of 1998, designated the Haringvliet site as an SAC, but excluded the Leenheerenpolder from that area. By judgment of 1 October 2014, the Raad van State (Council of State, Netherlands) annulled that decision, in so far as the Leenheerenpolder did not form part of that SAC. The court held that, since the Leenheerenpolder was included within the limits of the Haringvliet SIC as adopted by the Commission since Commission Decision 2004/813, the Kingdom of the Netherlands was required, in accordance with Article 4(4) of the Habitats Directive, to incorporate that polder in the SAC.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1021">
+          <num>16</num>
+          <content eId="para_1021__content">
+            <p>In October 2013, the Kingdom of the Netherlands proposed to the Commission to remove the Leenheerenpolder from the Haringvliet SCI and, therefore, to reduce its size accordingly.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1022">
+          <num>17</num>
+          <content eId="para_1022__content">
+            <p>By letter of 10 September 2014, the Commission requested that Member State to provide additional explanations concerning the planned reduction in the size of the Haringvliet SCI.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1023">
+          <num>18</num>
+          <content eId="para_1023__content">
+            <p>By letter of 30 September 2014, the Secretary of State notified the Commission that the Leenheerenpolder had no ecological assets and that the initial plans for the reconversion of that polder had been abandoned on the ground that the restoration of the wetlands of Beningerwaard, of Tiengemeten and of polders smaller than the Haringvliet SIC were sufficient to achieve the conservation objectives of the SCI. The Secretary of State added, in that letter, that the decision to abandon the `depolderisation' plans was due to political, social and budgetary considerations.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1024">
+          <num>19</num>
+          <content eId="para_1024__content">
+            <p>By letter of 24 October 2014, the Commission services replied that they accepted the proposal to change the Haringvliet SCI, given, on the one hand, the Netherlands authorities' favourable assessment of the restoration potential present elsewhere on that site and, on the other hand, the fact that a certain number of restoration measures had already been put in place or was planned elsewhere. In that letter, the Commission took the view that the initial proposal to incorporate the Leenheerenpolder into the Haringvliet SCI constituted a `scientific error'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1025">
+          <num>20</num>
+          <content eId="para_1025__content">
+            <p>By Implementing Decision 2015/72, the Commission, while maintaining the Haringvliet site on the list of SCIs for the Atlantic biogeographical region, excluded the Leenheerenpolder from that site.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1026">
+          <num>21</num>
+          <content eId="para_1026__content">
+            <p>By decision of 28 April 2015, the Secretary of State, on the basis of Article 10a(1) of the Nature Protection Law of 1998, and for the purpose of putting Implementing Decision 2015/72 into effect, designated the Haringvliet SCI as an SAC, without including the Leenheerenpolder in the SAC.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1027">
+          <num>22</num>
+          <content eId="para_1027__content">
+            <p>Being of the opinion that the polder offered unique restoration potential for estuarine nature that was lacking elsewhere on the Haringvliet SCI, the Vereniging Hoekschewaards Landschap brought an action against the decision of 28 April 2015 before the Raad van State (Council of State).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1028">
+          <num>23</num>
+          <content eId="para_1028__content">
+            <p>The Raad van State (Council of State) draws attention to the fact that the Secretary of State claimed before it that the scientific error resided in the fact that it had wrongly assumed, at the time it proposed to place the Haringvliet site on the list of SCIs, that the Leenheerenpolder was not only appropriate but also necessary for achieving the conservation objectives of that site. The court asks whether, in those circumstances, to the extent that the request of the Kingdom of the Netherlands is substantiated by sufficient data, the reduction in the size of the site may be justified by that consideration.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1029">
+          <num>24</num>
+          <content eId="para_1029__content">
+            <p>In those circumstances, the Raad van State (Council of State) decided to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling: `Is Implementing Decision [2015/72], in so far as the Haringvliet site was thereby placed on that list without the inclusion of the Leenheerenpolder, valid?'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the question referred</p>
+        </tblock>
+        <paragraph eId="para_1030">
+          <num>25</num>
+          <content eId="para_1030__content">
+            <p>By its question, the referring court asks, in essence, whether the reduction in the size of the Haringvliet site by excluding the Leenheerenpolder, on the ground that the initial inclusion of the latter in the site was the result of a scientific error, is valid.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1031">
+          <num>26</num>
+          <content eId="para_1031__content">
+            <p>As a preliminary point, it should be noted that the present case falls outside the scope of Article 9 of the Habitats Directive, pursuant to which an SAC may be declassified `where this is warranted by natural developments noted as a result of the surveillance provided for in Article 11', since the Kingdom of the Netherlands has not invoked any such development.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1032">
+          <num>27</num>
+          <content eId="para_1032__content">
+            <p>Although, by Decision 2004/813, the Commission, acting on a proposal from the Kingdom of the Netherlands and in accordance with the criteria listed in Annex III to the Habitats Directive, had incorporated the Leenheerenpolder into the Haringvliet SCI given its restoration potential for the natural habitat types and species present on that SCI, the institution justified the withdrawal, by Implementing Decision 2015/72, of the polder from the Haringvliet SCI on the ground that its initial inclusion in that SCI had been a scientific error.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1033">
+          <num>28</num>
+          <content eId="para_1033__content">
+            <p>In order to answer the question referred to the Court, it is therefore appropriate to examine whether the Habitats Directive authorises the Commission, acting on a proposal from the Member State concerned, to reduce the size of an SCI where the site's initial entry in the list of SCIs was marred by a scientific error, and, as the case may be, whether the reduction at issue in the main proceedings was legitimately warranted by that error.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1034">
+          <num>29</num>
+          <content eId="para_1034__content">
+            <p>In that respect, it is important to note that the Court has ruled, with regard to Council Directive 79/409/EEC of 2 April 1979 on the conservation of wild birds ( OJ 1979 L 103, p. 1), that an error in the particulars forwarded to the Commission at the time of the designation of a special protection area may lead to a reduction in the size of that area by virtue of a rectification of that error (see, to that effect, judgment of 25 November 1999, Commission v France, C‑96/98, EU:C:1999:580, paragraph 55). In the case that gave rise to that judgment, the Court found that the administrative error that was made, concerning the surface area, could be rectified by adapting the protection area concerned.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1035">
+          <num>30</num>
+          <content eId="para_1035__content">
+            <p>In addition, in the absence of specific provisions in the Habitats Directive, the Court finds that the adaptation of the list of SCIs which the Member States propose to the Commission under Article 4(1) of the directive may include a reduction in the size of a site, which must be carried out following the same procedure as that for entry in that list (see, by analogy, judgment of 3 April 2014, Cascina Tre Pini, C‑301/12, EU:C:2014:214, paragraph 26).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1036">
+          <num>31</num>
+          <content eId="para_1036__content">
+            <p>In that regard, it should be noted that to produce a draft list of SCIs, capable of leading to the creation of a coherent European ecological network of SACs, the Commission must have available an exhaustive list of the sites which, at national level, have an ecological interest which is relevant from the point of view of the Habitats Directive's objective of conservation of natural habitats and wild fauna and flora (judgement of 7 November 2000, First Corporate Shipping, C‑371/98, EU:C:2000:600, paragraph 22).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1037">
+          <num>32</num>
+          <content eId="para_1037__content">
+            <p>Only in that way is it possible to realise the objective, in the first subparagraph of Article 3(1) of the Habitats Directive, of maintaining or restoring the natural habitat types and the species' habitats concerned at a favourable conservation status in their natural range, which may lie across one or more frontiers inside the European Union. It follows from Article 1(e) and (i) of the directive, read in conjunction with Article 2(1) of the directive, that the favourable conservation status of a natural habitat or a species must be assessed in relation to the entire European territory of the Member States to which the Treaty applies (judgment of 7 November 2000, First Corporate Shipping, C‑371/98, EU:C:2000:600, paragraph 23).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1038">
+          <num>33</num>
+          <content eId="para_1038__content">
+            <p>However, as set out in Article 4(1) of the Habitats Directive, a site is proposed by the Member State concerned on the basis of the criteria set out in Annex III to the directive and relevant scientific information. In the light of the case-law referred to in paragraph 29 above, it follows that the fact that, on the basis of evidence of a scientific nature, an error that vitiated the relevant scientific information is made apparent may warrant, where appropriate, a reduction in the size of an SCI.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1039">
+          <num>34</num>
+          <content eId="para_1039__content">
+            <p>That interpretation is supported by the Court's case-law stipulating that resources should not be used in vain to manage a site that proves to be of no use to the conservation of natural habitats and species (see, to that effect, judgment of 3 April 2014, Cascina Tre Pini, C‑301/12, EU:C:2014:214, paragraph 28).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1040">
+          <num>35</num>
+          <content eId="para_1040__content">
+            <p>Nevertheless, while it is true that Member States have a certain margin of discretion when making their proposals, under Article 4(1) of the Habitats Directive, for a list of sites eligible for designation as SCIs (judgment of 3 April 2014, Cascina Tre Pini, C‑301/12, EU:C:2014:214, paragraph 27), they do not, however, have that same margin of discretion when suggesting to the Commission to reduce the size of an SCI.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1041">
+          <num>36</num>
+          <content eId="para_1041__content">
+            <p>As the Advocate General has observed in point 28 of her Opinion, as the inclusion of a site in the list gives rise to the presumption that it is relevant in its entirety from the point of view of the Habitats Directive's objective of conserving natural habitats and wild fauna and flora, a proposal by a Member State to reduce the size of a site placed on that list requires proof that the areas in question do not have a substantial interest in achieving that objective at national level. In addition, the Commission may accept and implement the proposal only if it concludes that those areas are also not necessary from the perspective of the entire European Union.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1042">
+          <num>37</num>
+          <content eId="para_1042__content">
+            <p>In the present case, it is apparent from the file before the Court that the Netherlands authorities justified their request to the Commission to have the Leenheerenpolder removed from the Haringvliet SCI on the ground that it was decided in 2011 to reassess the domestic policy on nature, and not on the ground that an error had been made at the time the proposal referred to in the first subparagraph of Article 4(1) of the Habitats Directive was made with regard to the ecological value of that polder and its capacity to contribute to the achievement of the objectives of that directive, as set out in Articles 2 and 3 thereof. In particular, the Netherlands authorities did not at any time claim that the potential of that polder with regard to the restoration of the natural habitat types and species concerned, by converting that agricultural area into a natural area under tidal influence, had disappeared. Moreover, in a letter addressed to the Commission on 30 September 2014, the Netherlands authorities stated that the plans to develop ecological assets in that polder had been abandoned for political, social and budgetary reasons, given that the developments that had already partially occurred elsewhere on the Haringvliet site were sufficient to achieve the objectives of that site.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1043">
+          <num>38</num>
+          <content eId="para_1043__content">
+            <p>In that respect, the Netherlands Government confirmed, at the hearing, that the Kingdom of the Netherlands had not invoked the existence of a `scientific error' at the time it submitted to the Commission its proposal to reduce the size of the Haringvliet SCI.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1044">
+          <num>39</num>
+          <content eId="para_1044__content">
+            <p>Furthermore, for its part, the Commission has provided to the Court no conclusive scientific evidence capable of proving that such an error had vitiated the initial proposal.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1045">
+          <num>40</num>
+          <content eId="para_1045__content">
+            <p>Therefore, at the occasion of the eighth update of the list of SCIs in the Atlantic biogeographical region by Implementing Decision 2015/72, the Commission could not, lawfully, rely on the existence of an initial scientific error in order to place the Haringvliet site on that list without including the Leenheerenpolder.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1046">
+          <num>41</num>
+          <content eId="para_1046__content">
+            <p>In the light of the foregoing considerations, it must be held that Implementing Decision 2015/72 is invalid, in so far as, by that decision, the Haringvliet site was placed on the list of SCIs for the Atlantic biogeographical region without the inclusion of the Leenheerenpolder.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_1047">
+          <num>42</num>
+          <content eId="para_1047__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Fourth Chamber) hereby rules: Commission Implementing Decision (EU) 2015/72 of 3 December 2014 adopting an eighth update of the list of sites of Community importance for the Atlantic biogeographical region is invalid, in so far as, by that decision, the Haringvliet site (NL 1000015) was placed on that list without the inclusion of the Leenheerenpolder.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Dutch.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

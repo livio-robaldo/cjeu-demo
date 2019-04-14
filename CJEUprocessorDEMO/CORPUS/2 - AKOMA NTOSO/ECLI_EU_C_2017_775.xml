@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Second Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>19 October 2017 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Taxation -- Value added tax (VAT) -- Directive 2006/112/EC -- Right to deduct -- Conditions governing the exercise of that right -- Article 273 -- National measures -- Fight against tax evasion and tax avoidance -- Invoice issued by a taxpayer declared `inactive' by the tax authorities -- Risk of tax evasion -- Refusal of the right to deduct -- Proportionality -- Refusal to take into account evidence of the absence of tax evasion or tax losses -- Limitation of the temporal effects of the judgment to be delivered -- No limitation) In Case C‑101/16, REQUEST for a preliminary ruling under Article 267 TFEU from the Curtea de Apel Cluj (Court of Appeal, Cluj, Romania), made by decision of 21 January 2016, received at the Court on 19 February 2016, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">SC Paper Consult SRL</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#">Direcția Regională a Finanțelor Publice Cluj-Napoca</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="respondent" refersTo="#">Administrația Județeană a Finanțelor Publice Bistrița-Năsăud</party>
+      </p>
+      <p>, THE COURT (Second Chamber), composed of M. Ilešič, President of the Chamber, A. Rosas (Rapporteur), C. Toader, A. Prechal and E. Jarašiūnas, Judges, Advocate General: P. Mengozzi, Registrar: L. Carrasco Marco, Administrator, having regard to the written procedure and further to the hearing on 26 January 2017, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>SC Paper Consult SRL, by A. Bora, avocat,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Romanian Government, by R.H. Radu, M. Bejenar and E. Gane, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by M. Owsiany-Hornung and G.-D. Balan, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 31 May 2017,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_1048">
+          <num>1</num>
+          <content eId="para_1048__content">
+            <p>The present request for a preliminary ruling concerns the interpretation of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax ( OJ 2006 L 347, p. 1), as amended by Council Directive 2010/45/EU of 13 July 2010 ( OJ 2010 L 189, p. 1) ( `the VAT Directive').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1049">
+          <num>2</num>
+          <content eId="para_1049__content">
+            <p>The request has been made in the context of a dispute between, on the one hand, SC Paper Consult SRL ( `Paper Consult') and, on the other hand, the Direcția Regională a Finanțelor Publice Cluj-Napoca (Regional Directorate-General of Public Finances, Cluj-Napoca, Romania) and the Administrația Județeană a Finanțelor Publice Bistrița-Năsăud (Regional Public Finance Administration of Bistrița-Năsăud, Romania), concerning a challenge brought by Paper Consult against an administrative decision which denied it the right to deduct value added tax (VAT) which it had paid on the supplies of services purchased from SC Rom Packaging SRL ( `Rom Packaging'), on the ground that the latter had been declared an `inactive' taxpayer at the date on which the contract was entered into.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <tblock>
+          <p>Directive 2006/112</p>
+        </tblock>
+        <paragraph eId="para_1050">
+          <num>3</num>
+          <content eId="para_1050__content">
+            <p>Recital 59 of Directive 2006/112 reads as follows: `Member States should be able, within certain limits and subject to certain conditions, to introduce, or to continue to apply, special measures derogating from this Directive in order to simplify the levying of tax or to prevent certain forms of tax evasion or avoidance.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1051">
+          <num>4</num>
+          <content eId="para_1051__content">
+            <p>The second subparagraph of Article 1(2) of Directive 2006/112, which is set out in Title I thereof, entitled `Subject matter and scope', provides: `On each transaction, VAT, calculated on the price of the goods or services at the rate applicable to such goods or services, shall be chargeable after deduction of the amount of VAT borne directly by the various cost components.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1052">
+          <num>5</num>
+          <content eId="para_1052__content">
+            <p>Article 168 of Directive 2006/112, which is set out in Title X thereof, entitled `Deductions', is worded as follows: `In so far as the goods and services are used for the purposes of the taxed transactions of a taxable person, the taxable person shall be entitled, in the Member State in which he carries out these transactions, to deduct the following from the VAT which he is liable to pay:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>the VAT due or paid in that Member State in respect of supplies to him of goods or services, carried out or to be carried out by another taxable person; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1053">
+          <num>6</num>
+          <content eId="para_1053__content">
+            <p>In accordance with Article 178(a) of Directive 2006/112: `In order to exercise the right of deduction, a taxable person must meet the following conditions:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>for the purposes of deductions pursuant to Article 168(a), in respect of the supply of goods or services, he must hold an invoice drawn up in accordance with Sections 3 to 6 of Chapter 3 of Title XI'.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1054">
+          <num>7</num>
+          <content eId="para_1054__content">
+            <p>Article 214(1)(a) of that directive provides: `1.   Member States shall take the measures necessary to ensure that the following persons are identified by means of an individual number:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>every taxable person, with the exception of those referred to in Article 9(2), who within their respective territory carries out supplies of goods or services in respect of which VAT is deductible, other than supplies of goods or services in respect of which VAT is payable solely by the customer or the person for whom the goods or services are intended, in accordance with Articles 194 to 197 and Article 199'.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1055">
+          <num>8</num>
+          <content eId="para_1055__content">
+            <p>The first paragraph of Article 273 of Directive 2006/112 states that: `Member States may impose other obligations which they deem necessary to ensure the correct collection of VAT and to prevent evasion, subject to the requirement of equal treatment as between domestic transactions and transactions carried out between Member States by taxable persons and provided that such obligations do not, in trade between Member States, give rise to formalities connected with the crossing of frontiers.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Regulation (EU) No 904/2010</p>
+        </tblock>
+        <paragraph eId="para_1056">
+          <num>9</num>
+          <content eId="para_1056__content">
+            <p>Council Regulation (EU) No 904/2010 of 7 October 2010 on administrative cooperation and combating fraud in the field of value added tax ( OJ 2010 L 268, p. 1) is a recast version of Council Regulation (EC) No 1798/2003 of 7 October 2003 on administrative cooperation in the field of value added tax and repealing Regulation (EEC) No 218/92 ( OJ 2003 L 264, p. 1). In particular, it extends the content of the electronic database VAT Information Exchange System( `the VIES').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1057">
+          <num>10</num>
+          <content eId="para_1057__content">
+            <p>Recital 16 of that regulation is worded as follows: `Online confirmation of the validity of VAT identification numbers is a tool which is increasingly used by operators. The system for confirming the validity of VAT identification numbers should provide automated confirmation of the relevant information to operators.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1058">
+          <num>11</num>
+          <content eId="para_1058__content">
+            <p>Article 17(1)(c) of Regulation No 904/2010 requires the Member States also to store, in the VIES, data on VAT identification numbers issued which are no longer valid.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1059">
+          <num>12</num>
+          <content eId="para_1059__content">
+            <p>According to Article 23 of that regulation, a tax administration may presume that a person has ceased all economic activity when, despite being required to do so, that person has failed to submit VAT returns and recapitulative statements for a year after expiry of the deadline for submission of the first return or statement missed or, inter alia, where persons have declared false data or have failed to communicate changes to their data.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1060">
+          <num>13</num>
+          <content eId="para_1060__content">
+            <p>In accordance with the fourth paragraph of Article 62 of Regulation No 904/2010, Article 17 did not yet apply at the time of the facts in the main proceedings.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Romanian Law</p>
+        </tblock>
+        <paragraph eId="para_1061">
+          <num>14</num>
+          <content eId="para_1061__content">
+            <p>At the time of the facts in the main proceedings, Article 78 1(1) of the ordonanța Guvernului nr. 92/2003 privind Codul de procedură fiscală, republicată, cu modificările și completările ulterioare (Government Order No 92/2003 on the Code of tax procedure, republished, with subsequent amendments and additions) provided: `Register of inactive/re-activated taxpayers Taxpayers which are legal persons or any other entity which does not have legal personality shall be declared inactive and shall be subject to the provisions of Article 11(1 1) and (1 2) of Law No 571/2003 on the Tax Code, as subsequently amended and supplemented ( ``the Tax Code ''), if they meet one of the following conditions:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>they do not file, for a calendar half-year, any of the returns required by law;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>they avoid tax inspections by declaring information regarding the identity of their registered office which does not allow the tax authority to identify that office;</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>the tax authorities have established that they do not carry on their activity at their registered office or registered tax residence.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1062">
+          <num>15</num>
+          <content eId="para_1062__content">
+            <p>Article 11(1 1) of the Tax Code provides: `Taxable persons established in Romania, declared inactive in accordance with Article 78 of [Order No 92/2003], who undertake an economic activity in the period of inactivity shall be subject to the obligations relating to the payment of taxes and duties under this law; they may not, however, during that period, exercise the right to deduct expenditure and [VAT] for acquisitions made.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1063">
+          <num>16</num>
+          <content eId="para_1063__content">
+            <p>Article 11(1 2) of the Tax Code states: `Beneficiaries who acquire goods and/or services from taxable persons established in Romania, after those taxable persons have been registered as inactive in the Register of inactive/re-activated taxpayers in accordance with Article 78 of [Order No 92/2003] may not exercise the right to deduct expenditure and [VAT] in respect of those purchases, with the exception of the acquisition of goods in the context of enforcement proceedings and/or the acquisition of goods and/or services from a taxable person in the course of an insolvency procedure as provided for in Law No 85/2006 on the insolvency procedure, as subsequently amended and supplemented.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1064">
+          <num>17</num>
+          <content eId="para_1064__content">
+            <p>Article 21(4)(r) of the Tax Code is worded as follows: `The following expenditure shall not be deductible: ...</p>
+            <blockList>
+              <item>
+                <num>(r)</num>
+                <p>expenditure recorded in the accounts, on the basis of a document issued by an inactive taxpayer whose tax registration certificate has been suspended by Order of the President of the National Agency for Fiscal Administration.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1065">
+          <num>18</num>
+          <content eId="para_1065__content">
+            <p>Article 3 of ordinul Președintelui Agenției Naționale de Administrare Fiscală nr. 819/2008 (Decree No 819/2008 of the President of the National Agency for Fiscal Administration) ( `the NAFA') provides: `1.   Taxpayers shall be declared inactive as from the date of entry into force of the Decree of the President of [the NAFA] approving the list of taxpayers declared inactive. 2.   The list of inactive taxpayers shall be displayed at the headquarters of [the NAFA] and published on its website, in the section ``Public information -- Information relating to economic operators ''. 3.   The Order of the President of [the NAFA] approving the list of taxpayers declared inactive shall enter into force within 15 days of the date of display, in accordance with Article 44(3) of [Order No 92/2003].'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1066">
+          <num>19</num>
+          <content eId="para_1066__content">
+            <p>Annex No 1 to Decision No 3347/2011 of the President of the NAFA, setting out the reporting obligations referred to in Article 78 1(1)(a) of Order No 92/2003, lists the following reporting obligations: ` -- 100 ``Declaration of obligations of payment into the State budget '';</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>112 ``Declaration on obligations of payment towards social security contributions, income tax and register of insured persons '';</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>101 ``Declaration on corporation tax '';</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>300 ``Declaration on [VAT] '';</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>301 ``Special declaration on [VAT] '';</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>390 VIES ``Declaration summarising intra-Community deliveries/purchases of goods '';</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>394 ``Declaration providing information concerning deliveries/supplies and purchases made on national territory ''.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_1067">
+          <num>20</num>
+          <content eId="para_1067__content">
+            <p>By decision of 11 May 2012, the tax authorities established that Rom Packaging, established in Bucharest (Romania), had supplied services to Paper Consult, established in Bistriţa-Năsăud (Romania), for an amount of RON 190340 (approximately EUR 44560) excluding VAT, on the basis of a contract for supplies of services concluded on 3 January 2011.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1068">
+          <num>21</num>
+          <content eId="para_1068__content">
+            <p>As Rom Packaging had been declared inactive since 7 October 2010 and removed from the register of persons subject to VAT as from 1 November 2010 for failure to submit the tax declarations required by law, and in view of Article 11(1 2) of the Tax Code, the tax authorities found that Paper Consult was not entitled to deduct the amount of RON 45680 (approximately EUR 10694), this being the amount paid in respect of VAT for the supplies of services provided by Rom Packaging.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1069">
+          <num>22</num>
+          <content eId="para_1069__content">
+            <p>The complaint lodged by Paper Consult against the tax inspectorate's measure was rejected as unfounded by decision of the Regional Directorate-General of Public Finances of Cluj-Napoca of 17 July 2014. The tax proceedings brought by Paper Consult against that decision were, in turn, dismissed by the civil judgment of 8 July 2015 of the Tribunalul Bistrița-Năsăud (High Court, Bistrița-Năsăud Romania).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1070">
+          <num>23</num>
+          <content eId="para_1070__content">
+            <p>Paper Consult appealed against that judgment to the Curtea de Apel Cluj (Court of Appeal, Cluj, Romania). It did not contest the factual evidence relied on by the tax authorities and by the Tribunalul Bistrița-Năsăud (High Court, Bistrița-Năsăud). However, it claimed that it had not received any communication regarding the decision of the President of the NAFA of 21 September 2010 declaring Rom Packaging inactive, but that that decision had merely been displayed at the NAFA's headquarters and published on its website. Paper Consult maintained that, in those circumstances, that decision was not enforceable against it and could not be regarded as constituting the basis of the refusal to grant it its right to deduct VAT, as such a measure was contrary to EU law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1071">
+          <num>24</num>
+          <content eId="para_1071__content">
+            <p>Paper Consult submits that, in order to be able to benefit from the right to deduct VAT, it suffices to meet the conditions laid down in Article 178 of Directive 2006/112.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1072">
+          <num>25</num>
+          <content eId="para_1072__content">
+            <p>The referring court, however, observes that, according to the case-law of the Court of Justice, the fight against tax avoidance, evasion and abuses is an objective that is recognised and encouraged by Directive 2006/112, provided that the national measures adopted for that purpose are proportionate. According to that court, it is not an excessive burden for taxpayers to carry out a basic check, on the NAFA's website, of the persons with whom they intend to enter into a contract, in order to determine whether or not they have been declared `inactive taxpayers'. However, the referring court notes that there is no Court of Justice case-law relating to such a situation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1073">
+          <num>26</num>
+          <content eId="para_1073__content">
+            <p>In those circumstances, the Curtea de Apel Cluj (Court of Appeal, Cluj,) decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Does Directive 2006/112/EC preclude national rules under which a taxable person is denied the right to deduct VAT on the ground that the person upstream, who issued the invoice in which the expenditure and the VAT are indicated separately, has been declared inactive by the tax authorities?</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>If the answer to the first question is in the negative, does Directive 2006/112/EC preclude national rules under which it is sufficient to display the list of registered inactive taxpayers at the headquarters of the NAFA and to publish that list on the website of that agency, in the section ``Public information -- Information relating to economic operators '' in order that the right to deduct VAT in the circumstances described in the first question may be refused?'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Admissibility</p>
+        </tblock>
+        <paragraph eId="para_1074">
+          <num>27</num>
+          <content eId="para_1074__content">
+            <p>The Romanian Government disputes the admissibility of the questions referred for a preliminary ruling. It submits that the referring court has failed to explain why it considers that the answer to its questions is necessary for a resolution of the dispute before it, inasmuch as Paper Consult's arguments focus exclusively on the contention that the declaration of inactivity cannot be relied on against it and do not concern the actual effects of that inactivity as they follow from the national rules.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1075">
+          <num>28</num>
+          <content eId="para_1075__content">
+            <p>It must be borne in mind that, according to settled case-law, in the context of the cooperation between the Court and the national courts provided for by Article 267 TFEU, it is solely for the national court before which the dispute has been brought, and which must assume responsibility for the subsequent judicial decision, to determine, in the light of the particular circumstances of the case, both the need for a preliminary ruling in order to enable it to deliver judgment and the relevance of the questions which it submits to the Court. Consequently, where the questions submitted concern the interpretation of EU law, the Court is in principle required to give a ruling (judgments of 15 January 2013, Križan and Others, C‑416/10, EU:C:2013:8, paragraph 53, and of 21 December 2016, Vervloet and Others, C‑76/15, EU:C:2016:975, paragraph 56).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1076">
+          <num>29</num>
+          <content eId="para_1076__content">
+            <p>It follows that questions concerning EU law enjoy a presumption of necessity and relevance. The Court may refuse to rule on a question referred by a national court only where it is quite obvious that the interpretation of EU law that is sought bears no relation to the actual facts of the main action or its purpose, where the problem is hypothetical, or where the Court does not have before it the factual or legal material necessary to give a useful answer to the questions submitted to it (judgments of 15 January 2013, Križan and Others, C‑416/10, EU:C:2013:8, paragraph 54, and of 21 December 2016, Vervloet and Others, C‑76/15, EU:C:2016:975, paragraph 57).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1077">
+          <num>30</num>
+          <content eId="para_1077__content">
+            <p>In the present case, the referring court indicated in its decision that, in addition to a plea in law alleging that the decision of the President of the NAFA could not be relied on against it, Paper Consult also put forward a plea to the effect that it had complied with the conditions for benefiting from the right to deduct VAT. The referring court thus took the view that it was necessary to request a ruling from the Court on the interpretation of Directive 2006/112.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1078">
+          <num>31</num>
+          <content eId="para_1078__content">
+            <p>Consequently, it is not manifestly evident that the interpretation of EU law sought by the referring court bears no relation to the purpose of the main proceedings or that it is hypothetical.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1079">
+          <num>32</num>
+          <content eId="para_1079__content">
+            <p>The referring court's questions must therefore be declared admissible.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Substance</p>
+        </tblock>
+        <paragraph eId="para_1080">
+          <num>33</num>
+          <content eId="para_1080__content">
+            <p>By its questions, which it is appropriate to examine together, the referring court asks, in essence, whether Directive 2006/112 must be interpreted as precluding national rules, such as those at issue in the main proceedings, which deny the right to VAT deduction to a taxable person on the ground that the trader which supplied services and issued a corresponding invoice, on which the expenditure and the VAT are indicated separately, has been declared inactive by the tax authorities of a Member State, that declaration of inactivity being public and accessible on the internet to any taxable person in that State.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1081">
+          <num>34</num>
+          <content eId="para_1081__content">
+            <p>Those questions concern, in essence, the balancing, on the one hand, of the right to deduct, which is an essential component of the VAT scheme, and, on the other hand, of the fight against tax evasion, which is an objective recognised and encouraged by Directive 2006/112.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1082">
+          <num>35</num>
+          <content eId="para_1082__content">
+            <p>As regards the right to deduct, it must be borne in mind that, according to settled case-law, the right of taxable persons to deduct the VAT due or already paid on goods purchased and services received as inputs from the VAT which they are liable to pay is a fundamental principle of the common system of VAT established by EU legislation (see, inter alia, judgments of 25 October 2001, Commission v Italy, C‑78/00, EU:C:2001:579, paragraph 28, and of 21 June 2012, Mahagében and Dávid, C‑80/11 and C‑142/11, EU:C:2012:373, paragraph 37).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1083">
+          <num>36</num>
+          <content eId="para_1083__content">
+            <p>As the Court has repeatedly held, the right to deduct provided for in Article 167 et seq. of Directive 2006/112 is an integral part of the VAT scheme and in principle may not be limited. In particular, the right to deduct is exercisable immediately in respect of all the taxes charged on transactions relating to inputs (see, inter alia, judgments of 21 March 2000, Gabalfrisa and Others, C‑110/98 to C‑147/98, EU:C:2000:145, paragraph 43, and of 21 June 2012, Mahagében and Dávid, C‑80/11 and C‑142/11, EU:C:2012:373, paragraph 38).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1084">
+          <num>37</num>
+          <content eId="para_1084__content">
+            <p>The deduction system is intended to relieve the trader entirely of the burden of the VAT payable or paid in the course of all his economic activities. The common system of VAT consequently ensures the neutrality of taxation of all economic activities, whatever the purpose or results of those activities, provided that they are themselves subject in principle to VAT (see, inter alia, judgments of 21 March 2000, Gabalfrisa and Others, C‑110/98 to C‑147/98, EU:C:2000:145, paragraph 44, and of 21 June 2012, Mahagében and Dávid, C‑80/11 and C‑142/11, EU:C:2012:373, paragraph 39).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1085">
+          <num>38</num>
+          <content eId="para_1085__content">
+            <p>The right to deduct VAT is, however, subject to compliance with both substantive requirements or conditions and formal requirements or conditions.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1086">
+          <num>39</num>
+          <content eId="para_1086__content">
+            <p>With regard to the substantive requirements or conditions, it is apparent from the wording of Article 168(a) of Directive 2006/112 that, in order to have a right to deduct, it is necessary, first, that the interested party be a `taxable person' within the meaning of that directive and, second, that the goods or services relied on to confer entitlement to that right be used by the taxable person for the purposes of his own taxed output transactions, and that, as inputs, those goods or services must be supplied by another taxable person (see, to that effect, inter alia, judgments of 6 September 2012, Tóth, C‑324/11, EU:C:2012:549, paragraph 26, and of 22 October 2015, PPUH Stehcemp, C‑277/14, EU:C:2015:719, paragraph 28 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1087">
+          <num>40</num>
+          <content eId="para_1087__content">
+            <p>As to the detailed rules governing the exercise of the right to deduct, which may be considered formal requirements or conditions, Article 178(a) of Directive 2006/112 provides that the taxable person must hold an invoice drawn up in accordance with Articles 220 to 236 and Articles 238 to 240 of that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1088">
+          <num>41</num>
+          <content eId="para_1088__content">
+            <p>According to settled case-law, the fundamental principle of VAT neutrality requires deduction of input tax to be allowed if the substantive requirements are satisfied, even if the taxable person has failed to comply with some of the formal requirements (judgments of 12 July 2012, EMS-Bulgaria Transport, C‑284/11, EU:C:2012:458, paragraph 62 and the case-law cited, and of 28 July 2016, Astone, C‑332/15, EU:C:2016:614, paragraph 45).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1089">
+          <num>42</num>
+          <content eId="para_1089__content">
+            <p>The position may, however, be different if non-compliance with such formal requirements effectively prevents the production of conclusive evidence that the substantive requirements have been satisfied (judgments of 12 July 2012, EMS-Bulgaria Transport, C‑284/11, EU:C:2012:458, paragraph 71, and of 28 July 2016, Astone, C‑332/15, EU:C:2016:614, paragraph 46). It is apparent from the documents before the Court, and as the Advocate-General noted in points 40 to 43 of his Opinion, that this was not so in the case in the main proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1090">
+          <num>43</num>
+          <content eId="para_1090__content">
+            <p>Similarly, it is settled case-law that the right to deduct may be refused when it is established, in the light of objective evidence, that that right is being invoked fraudulently or abusively. The fight against tax evasion, avoidance and abuse is an objective recognised and encouraged by Directive 2006/112 and EU law cannot be relied on for fraudulent or abusive ends (judgment of 21 June 2012, Mahagében and Dávid, C‑80/11 and C‑142/11, EU:C:2012:373, paragraphs 42 and 43 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1091">
+          <num>44</num>
+          <content eId="para_1091__content">
+            <p>As regards the national rules at issue in the main proceedings, it is apparent from the evidence submitted to the Court that these have the objective of combating VAT evasion, by punishing, through the refusal of the right to deduct tax, conduct which may contribute to delaying the detection of such evasion or, at the very least, a failure to pay VAT on the part of taxpayers who do not meet the statutory reporting obligations, or who avoid tax inspections by declaring information for the identification of their registered office that does not enable the tax authorities to identify that office, or in relation to whom the tax authorities have established that they do not carry on their activity at the registered office or declared tax domicile.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1092">
+          <num>45</num>
+          <content eId="para_1092__content">
+            <p>The European Commission has noted in its observations, referring to data appearing in a press release that it published on 4 September 2015, that VAT evasion is particularly extensive in Romania since, in the course of 2013, the difference between anticipated VAT revenue and VAT actually collected was in the order of 41.1%.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1093">
+          <num>46</num>
+          <content eId="para_1093__content">
+            <p>To that effect also, the Romanian Government stated, during the hearing, that it was the difficulties encountered by the authorities in the fight against VAT evasion that led the Romanian legislature to set up a mechanism for preventing tax evasion through the declaration of the inactivity of such taxpayers whose improper fiscal conduct prevents the detection of irregularities in the collection of VAT and is an indication of tax evasion. Moreover, the non-payment of VAT affects the sales price of the goods and services and confers on the seller a competitive advantage which increases the volume of sales, with the result that the imposition of financial penalties is insufficient to combat VAT evasion.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1094">
+          <num>47</num>
+          <content eId="para_1094__content">
+            <p>The pursuit of such an objective undoubtedly amounts to the fulfilment of the obligation of the Member States, stemming from Article 4(3) TEU, Article 325 TFEU, and Articles 2, 250(1) and 273 of Directive 2006/112, to take all legislative and administrative measures appropriate for ensuring collection of all VAT due on their territory and for preventing tax evasion (judgment of 17 December 2015, WebMindLicenses, C‑419/14, EU:C:2015:832, paragraph 41 and the case-law cited). Furthermore, there is a direct link between the collection of VAT revenue in compliance with the applicable EU law and the availability to the European Union budget of the corresponding VAT resources, since any lacuna in the collection of the first potentially causes a reduction in the second (see judgment of 26 February 2013, Åkerberg Fransson, C‑617/10, EU:C:2013:105, paragraph 26).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1095">
+          <num>48</num>
+          <content eId="para_1095__content">
+            <p>In that regard, it must be noted that the Member States are required to check taxable persons' returns, accounts and other relevant documents, and to calculate and collect the tax due (see judgment of 9 July 2015, Cabinet Medical Veterinar Dr. Tomoiagă Andrei, C‑144/14, EU:C:2015:452, paragraph 26 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1096">
+          <num>49</num>
+          <content eId="para_1096__content">
+            <p>In accordance with the first paragraph of Article 273 of Directive 2006/112, Member States may impose obligations, other than those provided for by that directive, if they consider such obligations necessary to ensure the correct collection of VAT and to prevent evasion.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1097">
+          <num>50</num>
+          <content eId="para_1097__content">
+            <p>However, the measures adopted by the Member States must not go beyond what is necessary to achieve the objectives pursued. Therefore, they cannot be used in such a way that they would have the effect of systematically undermining the right to deduct VAT and, consequently, the neutrality of VAT (judgments of 21 March 2000, Gabalfrisa and Others, C‑110/98 to C‑147/98, EU:C:2000:145, paragraph 52, and of 21 June 2012, Mahagében and Dávid, C‑80/11 and C‑142/11, EU:C:2012:373, paragraph 57).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1098">
+          <num>51</num>
+          <content eId="para_1098__content">
+            <p>On several occasions, the Court has held that the authorities may not oblige a taxable person to undertake complex and far-reaching checks as to that person's supplier, thereby de facto transferring their own investigative tasks to that person (see, to that effect, judgments of 21 June 2012, Mahagében and Dávid, C‑80/11 and C‑142/11, EU:C:2012:373, paragraph 65, and of 31 January 2013, Stroy trans, C‑642/11, EU:C:2013:54, paragraph 50).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1099">
+          <num>52</num>
+          <content eId="para_1099__content">
+            <p>By contrast, it is not contrary to EU law to require a trader to take every step which could reasonably be required of him to satisfy himself that the transaction which he is carrying out does not result in his participation in tax evasion (see, to that effect, judgments of 27 September 2007, Teleos and Others, C‑409/04, EU:C:2007:548, paragraphs 65 and 68, and of 21 June 2012, Mahagében and Dávid, C‑80/11 and C‑142/11, EU:C:2012:373, paragraph 54).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1100">
+          <num>53</num>
+          <content eId="para_1100__content">
+            <p>In this regard, it must be noted that the national rules at issue in the main proceedings do not transfer to the taxable person the monitoring tasks devolving on the authorities, but inform him of the outcome of an administrative investigation from which it is apparent that the taxpayer declared inactive can no longer be monitored by the competent authority, either because that taxpayer no longer met the statutory reporting obligations, or because it has declared information identifying its registered office that does not enable the tax authority concerned to identify it, or because it does not carry on its activity at the registered office or declared tax domicile.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1101">
+          <num>54</num>
+          <content eId="para_1101__content">
+            <p>The only obligation imposed on the taxable person is, in fact, to consult the list of taxpayers declared inactive displayed at the NAFA's headquarters and published on its website, such a verification being, in addition, straightforward to carry out.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1102">
+          <num>55</num>
+          <content eId="para_1102__content">
+            <p>It thus appears that, by obliging the taxable person to carry out that verification, the national legislation pursues an objective that is legitimate and even imposed by EU law, namely that of ensuring the proper collection of VAT and the prevention of VAT evasion, and that such a verification can reasonably be required of an economic operator. It is, however, necessary to determine whether that legislation does not go beyond what is necessary to achieve the objective pursued.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1103">
+          <num>56</num>
+          <content eId="para_1103__content">
+            <p>While the failure to file tax declarations laid down by law may be regarded as indicative of evasion, it does not prove irrefutably that VAT evasion has occurred. Furthermore, it is apparent from the material submitted to the Court that, subject to the checks to be carried out by the referring court, even if the taxpayer has regularised its situation and succeeded in being removed from the list of taxpayers registered as inactive, the penalty laid down in Article 11(1 2) of the Tax Code would remain, with the result that the purchaser of the goods or service cannot recover the right to deduct VAT. By contrast, Article 11(1 1) of the Tax Code provides that the `re-activated' taxpayer is authorised, after its `re-activation', to recover the VAT in respect of which it has been refused a right of deduction during the period of inactivity.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1104">
+          <num>57</num>
+          <content eId="para_1104__content">
+            <p>In this regard, the Romanian Government indicated that the legislation had been modified and that, since 1 January 2017, in the case where a taxpayer declared inactive has been re-activated, the tax effects of the inactivation are annulled, both for the taxpayer concerned and for its commercial partners, which recover the right to deduct VAT relating to the transactions carried out during the period of inactivity.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1105">
+          <num>58</num>
+          <content eId="para_1105__content">
+            <p>According to Paper Consult, Rom Packaging paid to the public purse the VAT received by reason of the contract concluded with Paper Consult. In response to a question put by the Court, the Romanian Government confirmed that amounts corresponding to the VAT owed by Rom Packaging had indeed been paid, but that it was not possible to verify that those amounts related to the transactions concluded between the two companies since Rom Packaging had not submitted its final VAT statement.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1106">
+          <num>59</num>
+          <content eId="para_1106__content">
+            <p>Subject to the checks to be undertaken by the referring court, the fact remains that Article 11(1 2) of the Tax Code, in the version applicable to the facts in the main proceedings, does not provide for a regularisation in favour of the downstream taxable person despite evidence that VAT has been paid by the upstream taxable person, as the non-recognition of the right to deduct is final.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1107">
+          <num>60</num>
+          <content eId="para_1107__content">
+            <p>However, the impossibility, for the taxable person, to demonstrate that the transactions concluded with the trader declared inactive meet the conditions laid down by Directive 2006/112 and, in particular, that the VAT has been paid into the public purse by that trader, goes beyond what is necessary to attain the legitimate objective pursued by that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1108">
+          <num>61</num>
+          <content eId="para_1108__content">
+            <p>Accordingly, the answer to the questions referred is that Directive 2006/112 must be interpreted as precluding national rules, such as those at issue in the main proceedings, under which the right to deduct VAT is refused to a taxable person on the ground that the trader which supplied a service to that taxable person and issued a corresponding invoice, on which the expenditure and the VAT are indicated separately, has been declared inactive by the tax authorities of a Member State, that declaration of inactivity being public and accessible on the internet to any taxable person in that State, in the case where that refusal of the right to deduct is systematic and final, making it impossible to adduce evidence that there was no tax evasion or loss of tax revenue.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The request for a limitation of the temporal effects of the Court's judgment</p>
+        </tblock>
+        <paragraph eId="para_1109">
+          <num>62</num>
+          <content eId="para_1109__content">
+            <p>The Romanian Government has asked the Court, in the event that the latter should find that EU law precludes legislation such as that at issue in the main proceedings, to impose temporal limits on the effects of the judgment to be delivered.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1110">
+          <num>63</num>
+          <content eId="para_1110__content">
+            <p>In support of its request, that government relies on, in the first place, its good faith, resulting from objective doubts concerning the scope of the Court's case-law and from the follow-up to an `EU Pilot' procedure concerning the national rules at issue in the main proceedings, in the context of which, on the basis of the Romanian authorities' response, the Commission had decided not to pursue the matter, which led those authorities to believe that those rules were compatible with EU law. Secondly, the Romanian Government highlights the serious financial consequences that would arise if, following the Court's judgment, VAT deductions had to be granted to all traders who had concluded transactions with traders declared inactive since 2007.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1111">
+          <num>64</num>
+          <content eId="para_1111__content">
+            <p>In this connection, it should be recalled that, according to settled case-law of the Court, the interpretation which, in the exercise of the jurisdiction conferred on it by Article 267 TFEU, the Court gives to a rule of EU law clarifies and defines the meaning and scope of that rule as it must be or ought to have been understood and applied from the time of its entry into force. It follows that the rule, as thus interpreted, may, and must, be applied by the courts even to legal relationships which arose and were established before the judgment ruling on the request for interpretation, provided that in other respects the conditions for bringing a dispute relating to the application of that rule before the courts having jurisdiction are satisfied (see judgments of 10 May 2012, Santander Asset Management SGIIC and Others, C‑338/11 to C‑347/11, EU:C:2012:286, paragraph 58, and of 22 September 2016, Microsoft Mobile Sales International and Others, C‑110/15, EU:C:2016:717, paragraph 59).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1112">
+          <num>65</num>
+          <content eId="para_1112__content">
+            <p>It is only quite exceptionally that the Court may, in application of the general principle of legal certainty inherent in the EU legal order, be moved to restrict for any person concerned the opportunity to rely on a provision which it has interpreted with a view to calling into question legal relationships established in good faith. Two essential criteria must be fulfilled before such a limitation can be imposed, namely that those concerned should have acted in good faith and that there should be a risk of serious difficulties (judgments of 10 May 2012, Santander Asset Management SGIIC and Others, C‑338/11 to C‑347/11, EU:C:2012:286, paragraph 59, and of 22 September 2016, Microsoft Mobile Sales International and Others, C‑110/15, EU:C:2016:717, paragraph 60).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1113">
+          <num>66</num>
+          <content eId="para_1113__content">
+            <p>More specifically, the Court has taken that step only in quite specific circumstances, notably where there was a risk of serious economic repercussions owing in particular to the large number of legal relationships entered into in good faith on the basis of rules considered to be validly in force and where it appeared that individuals and national authorities had been led to adopt practices which did not comply with EU law by reason of objective, significant uncertainty regarding the implications of European Union provisions, to which the conduct of other Member States or the Commission may even have contributed (judgments of 10 May 2012, Santander Asset Management SGIIC and Others, C‑338/11 to C‑347/11, EU:C:2012:286, paragraph 60, and of 22 September 2016, Microsoft Mobile Sales International and Others, C‑110/15, EU:C:2016:717, paragraph 61).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1114">
+          <num>67</num>
+          <content eId="para_1114__content">
+            <p>With regard to the doubts highlighted by the Romanian Government relating to the interpretation of EU Law, it must be noted that a refusal to allow taxable persons to exercise the right to deduct VAT constitutes an exception to a fundamental principle of the common system of VAT, the legality of which, according to settled case-law, is acknowledged only in exceptional circumstances.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1115">
+          <num>68</num>
+          <content eId="para_1115__content">
+            <p>The Commission's closure of an `EU Pilot' procedure has no bearing on this analysis. The closure of such an informal procedure, which is not in any way governed by the provisions of the Treaties, but involves voluntary cooperation between the Commission and the Member States, designed generally both to ensure the correct application of EU law and to resolve, at an early stage, issues arising from that application, does not in any way prejudge the Commission's ability to institute formal proceedings for failure to fulfil an obligation under Article 258 TFEU. In any event, the Commission's attitude can in no way, as such, give rise to a legitimate expectation on the part of a Member State as to the compliance of its national rules with EU law where, as in the present case, it is apparent from the case-law that there is no objective and significant uncertainty as to the scope of EU law, in particular the provisions of Directive 2006/112.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1116">
+          <num>69</num>
+          <content eId="para_1116__content">
+            <p>As the criterion relating to the good faith of those concerned has not been satisfied in regard to the Romanian authorities, there is no need to determine whether the criterion relating to the seriousness of the economic repercussions has been met.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1117">
+          <num>70</num>
+          <content eId="para_1117__content">
+            <p>It follows from the foregoing that it is not appropriate to limit the temporal effects of the present judgment.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_1118">
+          <num>71</num>
+          <content eId="para_1118__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Second Chamber) hereby rules: Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax must be interpreted as precluding national rules, such as those at issue in the main proceedings, under which the right to deduct value added tax is refused to a taxable person on the ground that the trader which supplied a service to that taxable person and issued a corresponding invoice, on which the expenditure and the value added tax are indicated separately, has been declared inactive by the tax authorities of a Member State, that declaration of inactivity being public and accessible on the internet to any taxable person in that State, in the case where that refusal of the right to deduct is systematic and final, making it impossible to adduce evidence that there was no tax evasion or loss of tax revenue.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Romanian.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

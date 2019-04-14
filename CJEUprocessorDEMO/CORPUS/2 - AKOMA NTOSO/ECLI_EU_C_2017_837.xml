@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (First Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>9 November 2017 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Appeal -- State aid -- Article 107(1) TFEU -- Public broadcasting service -- Measures implemented by the Danish authorities in favour of the Danish broadcaster TV2/Danmark -- Concept of `aid granted by a Member State or through State resources' -- Judgment in Altmark) In Case C‑657/15 P, APPEAL under Article 56 of the Statute of the Court of Justice of the European Union, brought on 7 December 2015, Viasat Broadcasting UK Ltd, established in West Drayton (United Kingdom), represented by M. Honoré and S. Kalsmose-Hjelmborg, advokater, appellant, the other parties to the proceedings being: TV2/Danmark A/S, established in Odense (Denmark), represented by O. Koktvedgaard, advokat, applicant at first instance, European Commission, represented by B. Stromsky, T. Maxian Rusche and L. Grønfeldt, acting as Agents, with an address for service in Luxembourg, defendant at first instance, Kingdom of Denmark, represented by C. Thorning, acting as Agent, and by R. Holdgaard, advokat, intervener at first instance, THE COURT (First Chamber), composed of R. Silva de Lapuerta (Rapporteur), President of the Chamber, C.G. Fernlund, A. Arabadjiev, S. Rodin and E. Regan, Judges, Advocate General: M. Wathelet, Registrar: A. Calot Escobar, having regard to the written procedure, after hearing the Opinion of the Advocate General at the sitting on 30 May 2017,</p>
+      <p>gives the following</p>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_2785">
+          <num>1</num>
+          <content eId="para_2785__content">
+            <p>By its appeal, Viasat Broadcasting UK Ltd ( `Viasat') asks the Court partly to set aside the judgment of the General Court of the European Union of 24 September 2015, TV2/Danmark v Commission ( T‑674/11, EU:T:2015:684) ( `the judgment under appeal'), whereby the General Court, first, annulled Commission Decision 2011/839/EU of 20 April 2011 on the measures implemented by Denmark (C 2/03) for TV2/Danmark ( OJ 2011 L 340, p. 1; `the contested decision'), in that the Commission had held that the advertising revenue for 1995 and 1996 paid to TV2/Danmark through the TV2 Fund constituted State aid, and, second, dismissed, for the remainder, the action brought by TV2/Danmark A/S seeking the partial annulment of that decision.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Background to the dispute</p>
+        </tblock>
+        <paragraph eId="para_2786">
+          <num>2</num>
+          <content eId="para_2786__content">
+            <p>TV2/Danmark is a Danish broadcasting company which was created in 1986. Initially created in the form of an autonomous State undertaking, it was converted, for accounting and tax purposes as of 1 January 2003, into a public limited company. TV2/Danmark is the second public television station in Denmark, the first being Danmarks Radio.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2787">
+          <num>3</num>
+          <content eId="para_2787__content">
+            <p>The mission of TV2/Danmark is to produce and broadcast national and regional television programmes. Broadcasting may be by means of radio equipment, satellite or cable systems. The public-service obligations of TV2/Danmark are determined by the Minister for Culture.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2788">
+          <num>4</num>
+          <content eId="para_2788__content">
+            <p>Apart from the public broadcasters, commercial broadcasters also operate on the nationwide television market in Denmark. These include, first, Viasat Broadcasting UK Ltd ( `Viasat') and, second, the group created from the companies SBS TV A/S and SBS Danish Television Ltd ( `SBS').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2789">
+          <num>5</num>
+          <content eId="para_2789__content">
+            <p>TV2/Danmark was initially set up with the help of an interest-bearing State loan and its activities were, like those of Danmarks Radio, to be funded with the help of revenue from the licence fee paid by all Danish television viewers. The Danish legislature decided, however, that, unlike Danmarks Radio, TV2/Danmark would also be able to benefit from, in particular, advertising revenue.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2790">
+          <num>6</num>
+          <content eId="para_2790__content">
+            <p>Following a complaint lodged on 5 April 2000 by SBS Broadcasting SA/Tv Danmark, the system for funding TV2/Danmark was examined by the Commission in its Decision 2006/217/EC of 19 May 2004 on measures implemented by Denmark for TV2/Danmark ( OJ 2006 L 85, p. 1, corrigendum in OJ 2006 L 368, p. 112; `the TV2 I decision'). That decision covered the period from 1995 to 2002 and concerned the following measures: the license fee resources, transfers granted from funds used to finance TV2/Danmark (TV2 and Radiofonden Funds), sums granted on an ad hoc basis, exemption from corporation tax, exemption from interest and servicing charges on loans granted to TV2/Danmark at the time of its formation, the State guarantee for operating loans and favourable terms for payment of fees by TV2/Danmark for the use of nationwide transmission frequencies (taken as a whole, `the measures concerned'). Last, the Commission's investigation also concerned the authorisation given to TV2/Danmark to broadcast on local networks and the obligation for all owners of communal aerial installations to relay TV2's public-service programmes through those installations.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2791">
+          <num>7</num>
+          <content eId="para_2791__content">
+            <p>After examining the measures concerned, the Commission concluded that they constituted State aid within the meaning of Article 107(1) TFEU, on the ground that the funding system for TV2/Danmark, which sought to offset the cost of that undertaking's public service provision, failed to meet the second and fourth of the four conditions laid down by the Court of Justice in its judgment of 24 July 2003, Altmark Trans and Regierungspräsidium Magdeburg ( C‑280/00, EU:C:2003:415; as regards those conditions, `the Altmark conditions').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2792">
+          <num>8</num>
+          <content eId="para_2792__content">
+            <p>The Commission further decided that that aid, granted between 1995 and 2002 by the Kingdom of Denmark to TV2/Danmark, was compatible with the internal market under Article 106(2) TFEU, with the exception of an amount of 628.2 million Danish crowns (DKK) (approximately EUR 85 million) which it classified as `overcompensation'. The Commission accordingly ordered the Kingdom of Denmark to recover that sum, together with interest, from TV2/Danmark.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2793">
+          <num>9</num>
+          <content eId="para_2793__content">
+            <p>The TV2 I decision was the subject of four actions for annulment brought, on the one hand, by TV2/Danmark (Case T‑309/04) and the Kingdom of Denmark (Case T‑317/04) and, on the other, by the competitors of TV2/Danmark, Viasat (Case T‑329/04) and SBS (Case T‑336/04).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2794">
+          <num>10</num>
+          <content eId="para_2794__content">
+            <p>By judgment of 22 October 2008, TV2/Danmark and Others v Commission ( T‑309/04, T‑317/04, T‑329/04 and T‑336/04, EU:T:2008:457), the General Court annulled that decision. In its judgment, the General Court held that the Commission had rightly concluded that the public-service mission of TV2/Danmark was consistent with the definition of broadcasting services of general economic interest. The General Court also found, however, several instances of illegality that vitiated the TV2 I decision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2795">
+          <num>11</num>
+          <content eId="para_2795__content">
+            <p>First, in examining the question whether the measures covered by the TV2 I decision involved State resources, the General Court held that the Commission had failed to state in its decision the reasons why it took advertising revenue for 1995 and 1996 into consideration, de facto, in order to decide whether or not State resources were involved. Second, the General Court held that the Commission's examination as to whether the second and fourth Altmark conditions had been met was not supported by serious analysis of the specific legal and economic considerations which governed how the amount of the licence fee income payable to TV2/Danmark was set. The TV2 I decision was consequently vitiated by a failure to state sufficient reasons on that point. Third, the General Court held that the Commission's findings on the compatibility of the aid under Article 106(2) TFEU, in particular on whether or not there had been overcompensation, were also vitiated by a failure to state reasons. According to the General Court, that failure to state sufficient reasons was attributable to the failure to undertake a serious examination of the specific legal and economic conditions which governed the setting of the amount of the licence fee income payable to TV2/Danmark during the period under investigation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2796">
+          <num>12</num>
+          <content eId="para_2796__content">
+            <p>Following the annulment of the TV2 I decision, the Commission re-examined the measures concerned. At that time, it consulted the Kingdom of Denmark and TV2/Danmark and, furthermore, received observations from third parties.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2797">
+          <num>13</num>
+          <content eId="para_2797__content">
+            <p>On the conclusion of that examination, the Commission adopted the contested decision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2798">
+          <num>14</num>
+          <content eId="para_2798__content">
+            <p>That decision concerns the measures implemented for TV2/Danmark between 1995 and 2002. However, in its examination, the Commission also took into account the recapitalisation measures taken in 2004 following the TV2 I decision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2799">
+          <num>15</num>
+          <content eId="para_2799__content">
+            <p>In the contested decision, the Commission maintained its position as regards the classification of the measures concerned as `State aid' within the meaning of Article 107(1) TFEU. First, it considered that the advertising revenue for 1995 and 1996 constituted State resources and, second, in determining the existence of a selective advantage, the Commission concluded that the measures concerned did not meet the second and fourth Altmark conditions. However, whereas in the TV2 I decision the Commission had concluded that the sum of DKK 628.2 million (approximately EUR 85 million) was overcompensation incompatible with Article 106(2) TFEU, in the contested decision it took the view that that sum was for TV2/Danmark an appropriate capital buffer. In the operative part of that decision, the Commission stated the following: `Article 1 The measures implemented by Denmark in favour of TV2/Danmark between 1995 and 2002 in the form of the licence fee resources and other measures discussed in this Decision are compatible with the internal market within the meaning of Article 106(2) [TFEU].'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The procedure before the General Court and the judgment under appeal</p>
+        </tblock>
+        <paragraph eId="para_2800">
+          <num>16</num>
+          <content eId="para_2800__content">
+            <p>By an application lodged at the Registry of the General Court on 30 December 2011, TV2/Danmark brought an action seeking the partial annulment of the contested decision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2801">
+          <num>17</num>
+          <content eId="para_2801__content">
+            <p>TV2/Danmark claimed that the General Court should annul the contested decision, in so far as the Commission had found that the measures concerned constituted State aid, within the meaning of Article 107(1) TFEU.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2802">
+          <num>18</num>
+          <content eId="para_2802__content">
+            <p>In the alternative, TV2/Danmark claimed that the General Court should annul the contested decision, in so far as the Commission had considered that:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>the measures concerned constituted new aid;</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>the licence fee resources which, from 1997 to 2002, were transferred to TV2/Danmark, then passed on to TV2/Danmark's regional stations, constituted State aid granted to TV2/Danmark;</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>the advertising revenues which, in 1995 and 1996 and at the time of the winding-up of the TV2 Fund in 1997, were transferred from that fund to TV2/Danmark constituted State aid granted to TV2/Danmark.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2803">
+          <num>19</num>
+          <content eId="para_2803__content">
+            <p>By the judgment under appeal, the General Court annulled the contested decision, in so far as the Commission had held that the advertising revenue for 1995 and 1996 paid to TV2/Danmark through the TV2 Fund constituted State aid, and dismissed the action for the remainder.</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>Forms of order sought by the parties</p>
+        </tblock>
+        <paragraph eId="para_2804">
+          <num>20</num>
+          <content eId="para_2804__content">
+            <p>By its appeal, Viasat claims that the Court should:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>set aside point 1 of the operative part of the judgment under appeal;</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>set aside the reasons stated in the judgment under appeal for the General Court holding that the third part of the first plea in law relied on by TV2/Danmark was well founded;</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>dismiss the action for annulment brought by TV2/Danmark, supported by the Kingdom of Denmark; and</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>order TV2/Danmark and the Kingdom of Denmark to pay the costs.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2805">
+          <num>21</num>
+          <content eId="para_2805__content">
+            <p>TV2/Danmark contends that the Court should:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>dismiss the appeal, and</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>order Viasat to pay the costs.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2806">
+          <num>22</num>
+          <content eId="para_2806__content">
+            <p>The Kingdom of Denmark claims that the Court should dismiss the appeal.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The appeal</p>
+        </tblock>
+        <paragraph eId="para_2807">
+          <num>23</num>
+          <content eId="para_2807__content">
+            <p>In support of its appeal, Viasat relies on two grounds of appeal.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The first ground of appeal</p>
+        </tblock>
+        <tblock>
+          <p>Arguments of the parties</p>
+        </tblock>
+        <paragraph eId="para_2808">
+          <num>24</num>
+          <content eId="para_2808__content">
+            <p>By its first ground of appeal, Viasat claims that the General Court erred in law in holding that the advertising revenue for 1995 and 1996, paid to TV2/Danmark through TV2 Reklame and the TV2 Fund, did not constitute State resources, within the meaning of Article 107(1) TFEU, and that, consequently, the Commission ought not to have classified that revenue, in the contested decision, as State aid.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2809">
+          <num>25</num>
+          <content eId="para_2809__content">
+            <p>Viasat argues that that revenue was controlled by and at the disposal of the Danish State, on the ground that, before that revenue was passed to TV2/Danmark, it was held by two public undertakings controlled by the Danish State, namely TV2 Reklame and the TV2 Fund. Consequently, Viasat considers that, in accordance with the Court's case-law, the necessary but sufficient condition for that revenue to constitute State resources, within the meaning of Article 107(1) TFEU, was satisfied, irrespective of the source of that revenue.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2810">
+          <num>26</num>
+          <content eId="para_2810__content">
+            <p>Viasat states that, in this case, TV2 Reklame is entirely owned and controlled by the Danish State and that the decisions of that undertaking are attributable to that State, since the Minister for Culture, with the agreement of the Finance Committee of the Danish Parliament, is who decided how the profits of TV2 Reklame were to be used.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2811">
+          <num>27</num>
+          <content eId="para_2811__content">
+            <p>According to Viasat, the transfer of the resources concerned through the TV2 Fund has no effect on their classification as State resources, since the TV2 Fund is also a public undertaking controlled by the Danish State.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2812">
+          <num>28</num>
+          <content eId="para_2812__content">
+            <p>Viasat considers that, due to those circumstances, this case can be very clearly distinguished from the circumstances that gave rise to the judgments of 13 March 2001, PreussenElektra ( C‑379/98, EU:C:2001:160), and of 5 March 2009, UTECA ( C‑222/07, EU:C:2009:124), which concerned situations where the resources in question had not, at any time, left the private sphere.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2813">
+          <num>29</num>
+          <content eId="para_2813__content">
+            <p>The Commission agrees with Viasat that the General Court erred in law in holding that the revenue transferred by TV2 Reklame to TV2/Danmark through the TV2 Fund did not constitute State resources, within the meaning of Article 107(1) TFEU, and that the Commission had, in the contested decision, incorrectly analysed and applied the second Altmark condition.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2814">
+          <num>30</num>
+          <content eId="para_2814__content">
+            <p>TV2/Danmark and the Kingdom of Denmark do not accept those arguments.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2815">
+          <num>31</num>
+          <content eId="para_2815__content">
+            <p>In essence, they contend that the advertising revenue at issue did not constitute State resources, and, consequently, was not State aid, for the reason that that revenue came not from the Danish State, but from the business of TV2/Danmark, and that the fact that TV2 Reklame and the TV2 Fund were public bodies owned and controlled by the Danish State was of no relevance to that issue.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Findings of the Court</p>
+        </tblock>
+        <paragraph eId="para_2816">
+          <num>32</num>
+          <content eId="para_2816__content">
+            <p>In accordance with the Court's settled case-law, a classification as `aid', within the meaning of Article 107(1) TFEU, requires that all the conditions set out in that provision are fulfilled (see judgment of 17 July 2008, Essent Netwerk Noord and Others, C‑206/06, EU:C:2008:413, paragraph 63 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2817">
+          <num>33</num>
+          <content eId="para_2817__content">
+            <p>That provision sets out four conditions. First, there must be intervention by the State or through State resources. Second, that intervention must be liable to affect trade between Member States. Third, it must confer an advantage on the recipient. Fourth, it must distort or threaten to distort competition (see judgments of 24 July 2003, Altmark Trans and Regierungspräsidium Magdeburg, C‑280/00, EU:C:2003:415, paragraph 75; of 17 July 2008, Essent Netwerk Noord and Others, C‑206/06, EU:C:2008:413, paragraph 64; and of 19 December 2013, Association Vent De Colère! and Others, C‑262/12, EU:C:2013:851, paragraph 15).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2818">
+          <num>34</num>
+          <content eId="para_2818__content">
+            <p>In this case, only the first of those conditions is at issue.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2819">
+          <num>35</num>
+          <content eId="para_2819__content">
+            <p>As regards that condition, that the advantage must be granted directly or indirectly through State resources, it must be recalled that measures not involving a transfer of State resources may fall within the concept of `aid', within the meaning of Article 107(1) TFEU (see, inter alia, judgments of 16 May 2002, France v Commission, C‑482/99, EU:C:2002:294, paragraph 36; of 30 May 2013, Doux Élevage and Coopérative agricole UKL-ARREE, C‑677/11, EU:C:2013:348, paragraph 34; and of 19 December 2013, Association Vent De Colère! and Others, C‑262/12, EU:C:2013:851, paragraph 19).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2820">
+          <num>36</num>
+          <content eId="para_2820__content">
+            <p>Accordingly, the concept of intervention `through State resources', within the meaning of that provision, is intended to cover, in addition to advantages granted directly by the State, those granted through a public or private body appointed or established by that State to administer the aid (see judgments of 13 March 2001, PreussenElektra, C‑379/98, EU:C:2001:160, paragraph 58; of 30 May 2013, Doux Élevage and Coopérative agricole UKL-ARREE, C‑677/11, EU:C:2013:348, paragraph 26; and of 19 December 2013, Association Vent De Colère! and Others, C‑262/12, EU:C:2013:851, paragraph 20).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2821">
+          <num>37</num>
+          <content eId="para_2821__content">
+            <p>EU law cannot permit the rules on State aid to be circumvented merely through the creation of autonomous institutions charged with allocating aid (see judgment of 16 May 2002, France v Commission, C‑482/99, EU:C:2002:294, paragraph 23).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2822">
+          <num>38</num>
+          <content eId="para_2822__content">
+            <p>Further, it must be recalled that, in accordance with the Court's settled case-law, Article 107(1) TFEU covers all the financial means by which the public authorities may actually support undertakings, irrespective of whether or not those means are permanent assets of the State. Therefore, even if the sums corresponding to the measure in question are not permanently held by the Treasury, the fact that they constantly remain under public control, and therefore available to the competent national authorities, is sufficient for them to be categorised as `State resources' (see judgments of 16 May 2002, France v Commission, C‑482/99, EU:C:2002:294, paragraph 37; of 17 July 2008, Essent Netwerk Noord and Others, C‑206/06, EU:C:2008:413, paragraph 70; of 30 May 2013, Doux Élevage and Coopérative agricole UKL-ARREE, C‑677/11, EU:C:2013:348, paragraph 35; and of 19 December 2013, Association Vent De Colère! and Others, C‑262/12, EU:C:2013:851, paragraph 21).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2823">
+          <num>39</num>
+          <content eId="para_2823__content">
+            <p>It follows that, since the resources of public undertakings are subject to the control of the State and are therefore at its disposal, those resources fall within the scope of the concept of `State resources', within the meaning of Article 107(1) TFEU. The State is perfectly capable, by exercising its dominant influence over such undertakings, of directing the use of their resources in order, as the occasion arises, to finance specific advantages in favour of other undertakings (see, to that effect, judgment of 16 May 2002, France v Commission, C‑482/99, EU:C:2002:294, paragraph 38).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2824">
+          <num>40</num>
+          <content eId="para_2824__content">
+            <p>The fact that the resources concerned may be administered by entities that are distinct from the public authorities or that the source of those resources may be private is of no significance in that regard (see, to that effect, judgments of 2 July 1974, Italy v Commission, 173/73, EU:C:1974:71, paragraph 35, and of 8 May 2003, Italy and SIM 2 Multimedia v Commission, C‑328/99 and C‑399/00, EU:C:2003:252, paragraph 33).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2825">
+          <num>41</num>
+          <content eId="para_2825__content">
+            <p>As stated by the General Court, in paragraph 176 of the judgment under appeal, in the years 1995 and 1996, advertising space on TV2/Danmark was sold not by TV2/Danmark itself, but by a third company, TV2 Reklame, and the income from those sales was transferred to TV2/Danmark through the TV2 Fund.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2826">
+          <num>42</num>
+          <content eId="para_2826__content">
+            <p>In that regard, it is not disputed that, like TV2/Danmark, TV2 Reklame and the TV2 Fund were public undertakings owned by the Danish State, and that they were responsible for organising the transfer, to TV2/Danmark, of the revenue deriving from the sale of that advertising space.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2827">
+          <num>43</num>
+          <content eId="para_2827__content">
+            <p>Accordingly, the entire distribution channel of that revenue ending with its transfer to TV2/Danmark was governed by Danish legislation, under which public undertakings specially appointed by the State had the task of administering that revenue.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2828">
+          <num>44</num>
+          <content eId="para_2828__content">
+            <p>The revenue in question was, accordingly, under public control and at the disposal of the State, which could decide how it was to be used.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2829">
+          <num>45</num>
+          <content eId="para_2829__content">
+            <p>Consequently, in accordance with the Court's case-law cited in paragraphs 35 to 40 of the present judgment, the revenue at issue constitutes `State resources', within the meaning of Article 107(1) TFEU.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2830">
+          <num>46</num>
+          <content eId="para_2830__content">
+            <p>It follows that the General Court erred in law in holding, in paragraph 220 of the judgment under appeal, that the revenue for the years 1995 and 1996, derived from the sale, by TV2 Reklame, of advertising space on TV2/Danmark, and transferred to TV2/Danmark through the TV2 Fund, did not constitute State resources and that, therefore, the Commission had wrongly classified that revenue as `State aid'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2831">
+          <num>47</num>
+          <content eId="para_2831__content">
+            <p>As stated in paragraph 40 of the present judgment, and contrary to what is stated in paragraph 211 of the judgment under appeal, the fact that the source of that revenue, which came from advertisers, was private is of no significance in that regard and is irrelevant to the question whether that revenue was controlled by the Danish authorities.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2832">
+          <num>48</num>
+          <content eId="para_2832__content">
+            <p>Moreover, the General Court was wrong to hold, in paragraphs 208 and 212 of the judgment under appeal, that resources originating with third parties that are administered by public undertakings can constitute State resources only when they are voluntarily placed at the disposal of the State by their owners or abandoned by their owners and when the State has assumed the management of those resources.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2833">
+          <num>49</num>
+          <content eId="para_2833__content">
+            <p>Contrary to what is stated by the General Court, there is no basis for such a consideration in the Court's case-law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2834">
+          <num>50</num>
+          <content eId="para_2834__content">
+            <p>The same is true of the arguments, in paragraphs 214, 215 and 217 of the judgment under appeal, that only the part of that revenue which, by a decision of the Minister for Culture, was not transferred to TV2/Danmark was capable of constituting a State resource and that the fact that there was no obligation to transfer that revenue each year from the TV2 Fund to TV2/Danmark could not permit a different finding.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2835">
+          <num>51</num>
+          <content eId="para_2835__content">
+            <p>As stated in paragraphs 41 to 44 of the present judgment, the existence of public control over the advertising revenue at issue was due to the fact that that revenue was administered by public undertakings owned by the Danish State. It is moreover undisputed that, under the Danish legislation, it was open to the Minister for Culture to decide that that revenue would be used for a purpose other than transfer to the TV2 Fund.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2836">
+          <num>52</num>
+          <content eId="para_2836__content">
+            <p>Last, the situation at issue in the present case is not comparable to the situation in the case that gave rise to the judgment of 13 March 2001, PreussenElektra ( C‑379/98, EU:C:2001:160), in which the Court held that the obligation imposed on private electricity supply undertakings to purchase electricity produced from renewable energy sources at fixed minimum prices did not involve any direct or indirect transfer of State resources to undertakings which produced that type of electricity (see judgments of 13 March 2001, PreussenElektra, C‑379/98, EU:C:2001:160, paragraph 59; of 17 July 2008, Essent Netwerk Noord and Others, C‑206/06, EU:C:2008:413, paragraph 74; and of 19 December 2013, Association Vent De Colère! and Others, C‑262/12, EU:C:2013:851, paragraph 34).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2837">
+          <num>53</num>
+          <content eId="para_2837__content">
+            <p>The latter case related to private undertakings that had not been appointed by the State to administer a State resource, but were bound by an obligation to purchase by means of their own financial resources (see judgments of 17 July 2008, Essent Netwerk Noord and Others, C‑206/06, EU:C:2008:413, paragraph 74; of 19 December 2013, Association Vent De Colère! and Others, C‑262/12, EU:C:2013:851, paragraph 35; and order of 22 October 2014, Elcogás, C‑275/13, not published, EU:C:2014:2314, paragraph 32).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2838">
+          <num>54</num>
+          <content eId="para_2838__content">
+            <p>Further, in that case, the funds at issue could not be regarded as a State resource, since they were at no time under public control (see judgment of 19 December 2013, Association Vent De Colère! and Others, C‑262/12, EU:C:2013:851, paragraph 36, and order of 22 October 2014, Elcogás, C‑275/13, not published, EU:C:2014:2314, paragraph 32).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2839">
+          <num>55</num>
+          <content eId="para_2839__content">
+            <p>As stated above, however, the present case concerns public undertakings, namely TV2 Reklame and the TV2 Fund, that were created, owned and appointed by the Danish State to administer the revenue produced by the sale of advertising space of another public undertaking, namely TV2/Danmark, and as a consequence that revenue was under the control and at the disposal of the Danish State.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2840">
+          <num>56</num>
+          <content eId="para_2840__content">
+            <p>Consequently, the General Court erred in law in holding, in paragraph 213 of the judgment under appeal, that the situation at issue in the present case was comparable to the situation in the case that gave rise to the judgment of 13 March 2001, PreussenElektra ( C‑379/98, EU:C:2001:160).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2841">
+          <num>57</num>
+          <content eId="para_2841__content">
+            <p>That being the case, the first ground relied on by Viasat in support of its appeal must be upheld and the judgment under appeal must be set aside, to the extent that it annulled the contested decision in so far as the Commission had held that the advertising revenue for 1995 and 1996 paid to TV2/Danmark through the TV2 Fund constituted State aid.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The second ground of appeal</p>
+        </tblock>
+        <tblock>
+          <p>Arguments of the parties</p>
+        </tblock>
+        <paragraph eId="para_2842">
+          <num>58</num>
+          <content eId="para_2842__content">
+            <p>By its second ground of appeal, Viasat claims that the General Court was wrong, in paragraph 106 of the judgment under appeal, to hold that the contested decision was vitiated by an error in law with respect to the scope of the second Altmark condition.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2843">
+          <num>59</num>
+          <content eId="para_2843__content">
+            <p>Further, according to Viasat, the General Court based its findings on that point not on the reasons stated in the contested decision itself, but on the interpretation of the decision offered, in the course of proceedings, by the Commission. Viasat claims that the General Court thereby exceeded the limits of its power of judicial review.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2844">
+          <num>60</num>
+          <content eId="para_2844__content">
+            <p>In that regard, Viasat argues that, contrary to what was held by the General Court in paragraphs 97, 99 and 104 to 106 of the judgment under appeal, the relevant considerations of that decision in no way indicate that the second Altmark condition `includes the concept of efficiency of the recipient of the compensation'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2845">
+          <num>61</num>
+          <content eId="para_2845__content">
+            <p>Viasat considers that that condition requires the parameters on the basis of which compensation is to be calculated to be objective, transparent and established in advance, and is designed to avoid any misuse of the concept of `public service'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2846">
+          <num>62</num>
+          <content eId="para_2846__content">
+            <p>The Commission endorses Viasat's arguments. The Commission states that, in Case C‑649/15 P, giving rise to the judgment TV2/Danmark v Commission, delivered today, relating to the appeal brought by TV2/Danmark against the judgment under appeal, the Commission has asked the Court to substitute the grounds, in so far as the General Court held that the second Altmark condition was satisfied with respect to the State aid for TV2/Danmark.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2847">
+          <num>63</num>
+          <content eId="para_2847__content">
+            <p>TV2/Danmark and the Kingdom of Denmark challenge the admissibility of the second ground of appeal, in that Viasat has no interest that permits the Court to review the grounds stated in the judgment under appeal in relation to that second condition, since the operative part of that judgment is favourable to Viasat and says nothing on that condition.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2848">
+          <num>64</num>
+          <content eId="para_2848__content">
+            <p>On the substance, TV2/Danmark claims that the General Court based its findings in relation to the scope of the second Altmark condition both on the reasons stated in the contested decision and on the interpretation of that decision provided by the Commission in the written part of the proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2849">
+          <num>65</num>
+          <content eId="para_2849__content">
+            <p>In any event, TV2/Danmark considers that, in this case, the parameters on the basis of which compensation was to be calculated were objective, transparent and established in advance.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Findings of the Court</p>
+        </tblock>
+        <paragraph eId="para_2850">
+          <num>66</num>
+          <content eId="para_2850__content">
+            <p>It must be recalled that, under Article 169(1) of the Court's Rules of Procedure, `an appeal shall seek to have set aside, in whole or in part, the decision of the General Court as set out in the operative part of that decision'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2851">
+          <num>67</num>
+          <content eId="para_2851__content">
+            <p>In this case, however, the heads of claim in the appeal relating to the second ground of appeal relied on by Viasat neither seek to call into question the annulment, in point 1 of the operative part of the judgment under appeal, of Decision 2011/839 nor to challenge the dismissal, in point 2 of the operative part of that judgment, of the action for the remainder, but are directed against the reasons stated in the judgment under appeal relating to the application by the Commission of the second Altmark condition, those reasons not appearing in the operative part of the judgment under appeal.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2852">
+          <num>68</num>
+          <content eId="para_2852__content">
+            <p>It may be added that Viasat itself recognises that its second ground of appeal relates to a part of the judgment under appeal which, taken in isolation, has no effect on the operative part of that judgment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2853">
+          <num>69</num>
+          <content eId="para_2853__content">
+            <p>It follows that the second ground relied on by Viasat in support of its appeal is inadmissible.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The action before the General Court</p>
+        </tblock>
+        <paragraph eId="para_2854">
+          <num>70</num>
+          <content eId="para_2854__content">
+            <p>In accordance with the first paragraph of Article 61 of the Statute of the Court of Justice of the European Union, if an appeal is well founded, the Court of Justice is to quash the decision of the General Court. The Court may itself give final judgment in the matter, where the state of the proceedings so permits, or refer the case back to the General Court for judgment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2855">
+          <num>71</num>
+          <content eId="para_2855__content">
+            <p>In this case, the Court considers that it should give final judgment on the action brought by TV2/Danmark seeking the annulment of the contested decision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2856">
+          <num>72</num>
+          <content eId="para_2856__content">
+            <p>In that regard, suffice it to state that, for the reasons stated in paragraphs 35 to 56 of the present judgment, the fourth plea in law relied on by TV2/Danmark in support of the third head of claim, in the alternative, must be rejected.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2857">
+          <num>73</num>
+          <content eId="para_2857__content">
+            <p>Accordingly, the action brought by TV2/Danmark must be dismissed.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_2858">
+          <num>74</num>
+          <content eId="para_2858__content">
+            <p>Under Article 184(2) of the Court's Rules of Procedure, where an appeal is well founded and the Court itself gives final judgment in the case, the Court is to make a decision as to costs.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2859">
+          <num>75</num>
+          <content eId="para_2859__content">
+            <p>Under Article 138(3) of the Rules of Procedure, applicable to appeal proceedings by virtue of Article 184(1) of those rules, where each party succeeds on some and fails on other heads, the parties are to bear their own costs. However, if it appears justified in the circumstances of the case, the Court may order that one party, in addition to bearing its own costs, pay a proportion of the costs of the other party.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2860">
+          <num>76</num>
+          <content eId="para_2860__content">
+            <p>In this case, while one of the two heads of claim relied on by Viasat in support of its appeal has been upheld and while the judgment under appeal has been set aside, the reverse is true of the other head of claim, which has been rejected by the Court.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2861">
+          <num>77</num>
+          <content eId="para_2861__content">
+            <p>Consequently, TV2/Danmark must be ordered to bear its own costs and to pay half of the costs incurred by Viasat in relation to this appeal as well as all the costs incurred by Viasat at first instance, and Viasat must be ordered to bear one half of its own costs in relation to this appeal.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2862">
+          <num>78</num>
+          <content eId="para_2862__content">
+            <p>Since the Commission has not formally applied for costs against TV2/Danmark, the Commission must be ordered to bear its own costs.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2863">
+          <num>79</num>
+          <content eId="para_2863__content">
+            <p>Article 140(1) of the Rules of Procedure, which is also applicable to appeal proceedings by virtue of Article 184(1) thereof, provides that the Member States and institutions which intervene in the proceedings are to bear their own costs.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2864">
+          <num>80</num>
+          <content eId="para_2864__content">
+            <p>Consequently, the Kingdom of Denmark, as an intervener at first instance, must bear its own costs. On those grounds, the Court (First Chamber) hereby: 1. Sets aside the judgment of the General Court of the European Union of 24 September 2015, TV2/Danmark v Commission (T‑674/11,EU:T:2015:684), to the extent that it annulled Commission Decision 2011/839/EU of 20 April 2011 on the measures implemented by Denmark (C 2/03) for TV2/Danmark in that the European Commission held that the advertising revenue for the years 1995 and 1996 paid to TV2/Danmark through the TV2 Fund constituted State aid; 2. Dismisses the appeal for the remainder; 3. Dismisses the action brought by TV2/Danmark A/S seeking the annulment of Decision 2011/839; 4. Orders TV2/Danmark A/S to bear its own costs and to pay one half of the costs incurred by Viasat Broadcasting UK Ltd in relation to this appeal as well as all the costs incurred by the latter at first instance; 5. Orders Viasat Broadcasting UK Ltd to bear one half of its own costs in relation to this appeal; 6. Orders the European Commission and the Kingdom of Denmark to bear their own costs.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Danish.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

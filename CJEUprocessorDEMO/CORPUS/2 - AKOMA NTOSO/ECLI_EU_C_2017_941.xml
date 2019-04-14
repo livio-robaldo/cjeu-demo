@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (First Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>6 December 2017 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Competition -- Agreements, decisions and concerted practices -- Article 101(1) TFEU -- Selective distribution of luxury cosmetics products -- Clause prohibiting distributors from making use of a non-authorised third party in the context of internet sales -- Regulation (EU) No 330/2010 -- Article 4(b) and (c)) In Case C‑230/16, REQUEST for a preliminary ruling under Article 267 TFEU from the Oberlandesgericht Frankfurt am Main (Higher Regional Court, Frankfurt am Main, Germany), made by decision of 19 April 2016, received at the Court on 25 April 2016, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">Coty Germany GmbH</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#">Parfümerie Akzente GmbH</party>
+      </p>
+      <p>THE COURT (First Chamber), composed of R. Silva de Lapuerta (Rapporteur), President of the Chamber, C.G. Fernlund, A. Arabadjiev, S. Rodin and E. Regan, Judges, Advocate General: N. Wahl, Registrar: X. Lopez Bancalari, Administrator, having regard to the written procedure and further to the hearing on 30 March 2017, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>Coty Germany GmbH, by A. Lubberger and B. Weichhaus, Rechtsanwälte,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>Parfümerie Akzente GmbH, by O. Spieker and M. Alber, Rechtsanwälte,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the German Government, by T. Henze and A. Lippstreu, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the French Government, by D. Colas and J. Bousin, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Italian Government, by G. Palmieri, acting as Agent, and by D. Del Gaizo, avvocato dello Stato,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Luxembourg Government, by A. Germeaux, and by P.E. Partsch and T. Evans, avocats,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Netherlands Government, by M. Bulterman, M. de Ree and J. Langer, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Austrian Government, by G. Eberhard, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Swedish Government, by A. Falk, C. Meyer-Seitz, H. Shev and L. Swedenborg, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by G. Meessen, H. Leupold and T. Christoforou, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 26 July 2017,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_4784">
+          <num>1</num>
+          <content eId="para_4784__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Article 101(1) TFEU and of Article 4(b) and (c) of Commission Regulation (EU) No 330/2010 of 20 April 2010 on the application of Article 101(3) of the Treaty on the Functioning of the European Union to categories of vertical agreements and concerted practices ( OJ 2010 L 102, p. 1).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4785">
+          <num>2</num>
+          <content eId="para_4785__content">
+            <p>The request has been submitted in the context of a dispute between Coty Germany GmbH, a supplier of luxury cosmetics established in Germany, and Parfümerie Akzente GmbH, an authorised distributor of those goods, concerning the prohibition, under a selective distribution contract between Coty Germany and its authorised distributors, of the use by the latter, in a discernible manner, of third-party undertakings for internet sales of the contract goods.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <paragraph eId="para_4786">
+          <num>3</num>
+          <content eId="para_4786__content">
+            <p>Under recital 10 of Regulation No 330/2010, `this Regulation should not exempt vertical agreements containing restrictions which are likely to restrict competition and harm consumers or which are not indispensable to the attainment of the efficiency-enhancing effects. In particular, vertical agreements containing certain types of severe restrictions of competition such as minimum and fixed resale-prices, as well as certain types of territorial protection, should be excluded from the benefit of the block exemption established by this Regulation irrespective of the market share of the undertakings concerned'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4787">
+          <num>4</num>
+          <content eId="para_4787__content">
+            <p>Article 1(1)(e) of that regulation defines the `selective distribution system' as being `a distribution system where the supplier undertakes to sell the contract goods or services, either directly or indirectly, only to distributors selected on the basis of specified criteria and where these distributors undertake not to sell such goods or services to unauthorised distributors within the territory reserved by the supplier to operate that system'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4788">
+          <num>5</num>
+          <content eId="para_4788__content">
+            <p>Article 2(1) of that regulation provides: `Pursuant to Article 101(3) [TFEU] and subject to the provisions of this Regulation, it is hereby declared that Article 101(1) [TFEU] shall not apply to vertical agreements. This exemption shall apply to the extent that such agreements contain vertical restraints.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4789">
+          <num>6</num>
+          <content eId="para_4789__content">
+            <p>Article 3(1) of Regulation No 330/2010 provides: `The exemption provided for in Article 2 shall apply on condition that the market share held by the supplier does not exceed 30% of the relevant market on which it sells the contract goods or services and the market share held by the buyer does not exceed 30% of the relevant market on which it purchases the contract goods or services.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4790">
+          <num>7</num>
+          <content eId="para_4790__content">
+            <p>Under the heading `Restrictions that remove the benefit of the block exemption -- hardcore restrictions', Article 4 of Regulation No 330/2010 states: `The exemption provided for in Article 2 shall not apply to vertical agreements which, directly or indirectly, in isolation or in combination with other factors under the control of the parties, have as their object: ...</p>
+            <blockList>
+              <item>
+                <num>(b)</num>
+                <p>the restriction of the territory into which, or of the customers to whom, a buyer party to the agreement, without prejudice to a restriction on its place of establishment, may sell the contract goods or services ... ...</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>the restriction of active or passive sales to end users by members of a selective distribution system operating at the retail level of trade ... ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_4791">
+          <num>8</num>
+          <content eId="para_4791__content">
+            <p>Coty Germany sells luxury cosmetics in Germany. It markets certain brands in that sector via a selective distribution network, on the basis of a selective distribution contract also used by the undertakings affiliated to it. That contract is supplemented by various special contracts designed to organise that network.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4792">
+          <num>9</num>
+          <content eId="para_4792__content">
+            <p>Parfümerie Akzente has for many years distributed Coty Germany goods, as an authorised distributor, both at its brick-and-mortar locations and over the internet. Internet sales are carried out partly through its own online store and partly via the platform `amazon.de'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4793">
+          <num>10</num>
+          <content eId="para_4793__content">
+            <p>It is apparent from the order for reference that, in its selective distribution contract, Coty Germany justifies its selective distribution system in the following terms: `the character of Coty Prestige's brands requires selective distribution in order to support the luxury image of these brands'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4794">
+          <num>11</num>
+          <content eId="para_4794__content">
+            <p>In this respect, as regards brick-and-mortar retail, the selective distribution contract provides that each of the distributor's sales locations must be approved by Coty Germany, which implies compliance with a number of requirements, set out in Article 2 of that contract, relating to their environment, décor and furnishing.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4795">
+          <num>12</num>
+          <content eId="para_4795__content">
+            <p>In particular, in the words of Article 2(1)(3) of that contract, `the décor and furnishing of the sales location, the selection of goods, advertising and the sales presentation must highlight and promote the luxury character of Coty Prestige's brands. Taken into account when evaluating this criterion are, in particular, the façade, interior décor, floor coverings, type of walls, ceilings and furniture, sales space and lighting, as well as an overall clean and orderly appearance'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4796">
+          <num>13</num>
+          <content eId="para_4796__content">
+            <p>Article 2(1)(6) of the distribution contract states that `the signage for the sales location, including the name of the undertaking and any add-ons or company slogans, must not give the impression of a limited selection of goods, low-quality outfitting or inferior advice, and it must be mounted in such a way that it does not obscure the authorised retailer's decorations and showrooms'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4797">
+          <num>14</num>
+          <content eId="para_4797__content">
+            <p>Furthermore, the contractual framework linking the parties includes a supplemental agreement on internet sales which provides, in Article 1(3), that `the authorised retailer is not permitted to use a different name or to engage a third-party undertaking which has not been authorised'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4798">
+          <num>15</num>
+          <content eId="para_4798__content">
+            <p>Following the entry into force of Regulation No 330/2010, Coty Germany revised the selective distribution network contracts as well as that supplemental agreement, by providing in the first subparagraph of Clause I(1) of that supplemental agreement that `the authorised retailer is entitled to offer and sell the products on the internet, provided, however, that that internet sales activity is conducted through an ``electronic shop window '' of the authorised store and the luxury character of the products is preserved'. In addition, Clause I(1)(3) of that supplemental agreement expressly prohibits the use of a different business name as well as the recognisable engagement of a third-party undertaking which is not an authorised retailer of Coty Prestige.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4799">
+          <num>16</num>
+          <content eId="para_4799__content">
+            <p>Parfümerie Akzente refused to sign the amendments to the selective distribution contract. Coty Germany brought an action before the national court of first instance, seeking an order prohibiting, in accordance with Clause I(1)(3), the defendant in the main proceedings from distributing products bearing the brand at issue via the platform `amazon.de'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4800">
+          <num>17</num>
+          <content eId="para_4800__content">
+            <p>By judgment of 31 July 2014, that court dismissed that action on the ground that the contractual clause at issue was contrary to Paragraph 1 of the Gesetz gegen Wettbewerbsbeschränkungen (Law against restrictions of competition) or Article 101(1) TFEU. It found that the objective of maintaining a prestigious image of the mark could not, in accordance with the judgment of 13 October 2011, Pierre Fabre Dermo-Cosmétique ( C‑439/09, EU:C:2011:649), justify the introduction of a selective distribution system which, by definition, restricted competition. That clause also constituted, in the view of that court, a hardcore restriction under Article 4(c) of Regulation No 330/2010.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4801">
+          <num>18</num>
+          <content eId="para_4801__content">
+            <p>Furthermore, the national court of first instance took the view that that clause did not meet the conditions for benefiting from an individual exemption either, since it had not been demonstrated that the general prohibition on internet sales via third-party platforms which it imposed resulted in efficiency gains of such a kind as to offset the disadvantages for competition that resulted from the restriction of the means of marketing. In any event, that court considered that such a general prohibition was unnecessary, since there were other means which were also appropriate but less restrictive of competition, such as the application of specific quality criteria for the third-party platforms.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4802">
+          <num>19</num>
+          <content eId="para_4802__content">
+            <p>Coty Germany brought an appeal against the judgment of the national court of first instance before the Oberlandesgericht Frankfurt am Main (Higher Regional Court, Frankfurt am Main, Germany). In that context, that court is uncertain as to whether the contractual arrangement existing between both parties to the dispute is lawful under EU competition law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4803">
+          <num>20</num>
+          <content eId="para_4803__content">
+            <p>In those circumstances, the Oberlandesgericht Frankfurt am Main (Higher Regional Court, Frankfurt am Main) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Do selective distribution systems that have as their aim the distribution of luxury goods and primarily serve to ensure a ``luxury image '' for the goods constitute an aspect of competition that is compatible with Article 101(1) TFEU?</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>Does it constitute an aspect of competition that is compatible with Article 101(1) TFEU if the members of a selective distribution system operating at the retail level of trade are prohibited generally from engaging third-party undertakings discernible to the public to handle internet sales, irrespective of whether the manufacturer's legitimate quality standards are contravened in the specific case?</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>Is Article 4(b) of Regulation No 330/2010 to be interpreted as meaning that a prohibition of engaging third-party undertakings discernible to the public to handle internet sales that is imposed on the members of a selective distribution system operating at the retail level of trade constitutes a restriction of the retailer's customer group ``by object ''?</p>
+              </item>
+              <item>
+                <num>(4)</num>
+                <p>Is Article 4(c) of Regulation No 330/2010 to be interpreted as meaning that a prohibition of engaging third-party undertakings discernible to the public to handle internet sales that is imposed on the members of a selective distribution system operating at the retail level of trade constitutes a restriction of passive sales to end users ``by object ''?'</p>
+                <tblock>
+                  <p>Consideration of the questions referred</p>
+                </tblock>
+                <tblock>
+                  <p>The first question</p>
+                </tblock>
+                <p>21 By its first question, the referring court asks, in essence, whether Article 101(1) TFEU must be interpreted as meaning that a selective distribution system for luxury goods designed, primarily, to preserve the luxury image of those goods can comply with that provision.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4804">
+          <num>22</num>
+          <content eId="para_4804__content">
+            <p>Under Article 101(1) TFEU, all agreements between undertakings, decisions by associations of undertakings and concerted practices which may affect trade between Member States and which have as their object or effect the prevention, restriction or distortion of competition within the internal market are incompatible with that market and are prohibited.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4805">
+          <num>23</num>
+          <content eId="para_4805__content">
+            <p>With regard to agreements constituting a selective distribution system, the Court has already stated that such agreements necessarily affect competition in the internal market.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4806">
+          <num>24</num>
+          <content eId="para_4806__content">
+            <p>However, the Court has ruled that the organisation of a selective distribution network is not prohibited by Article 101(1) TFEU, to the extent that resellers are chosen on the basis of objective criteria of a qualitative nature, laid down uniformly for all potential resellers and not applied in a discriminatory fashion, that the characteristics of the product in question necessitate such a network in order to preserve its quality and ensure its proper use and, finally, that the criteria laid down do not go beyond what is necessary (judgment of 13 October 2011, Pierre Fabre Dermo-Cosmétique, C‑439/09, EU:C:2011:649, paragraph 41 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4807">
+          <num>25</num>
+          <content eId="para_4807__content">
+            <p>With particular regard to the question whether selective distribution may be considered necessary in respect of luxury goods, it must be recalled that the Court has already held that the quality of such goods is not just the result of their material characteristics, but also of the allure and prestigious image which bestow on them an aura of luxury, that that aura is essential in that it enables consumers to distinguish them from similar goods and, therefore, that an impairment to that aura of luxury is likely to affect the actual quality of those goods (see, to that effect, judgment of 23 April 2009, Copad, C‑59/08, EU:C:2009:260, paragraphs 24 to 26 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4808">
+          <num>26</num>
+          <content eId="para_4808__content">
+            <p>In that regard, the Court has considered that the characteristics and conditions of a selective distribution system may, in themselves, preserve the quality and ensure the proper use of such goods (judgment of 23 April 2009, Copad, C‑59/08, EU:C:2009:260, paragraph 28 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4809">
+          <num>27</num>
+          <content eId="para_4809__content">
+            <p>In that context, the Court has in particular taken the view that the establishment of a selective distribution system which seeks to ensure that the goods are displayed in sales outlets in a manner that enhances their value contributes to the reputation of the goods at issue and therefore contributes to sustaining the aura of luxury surrounding them (see, to that effect, judgment of 23 April 2009, Copad, C‑59/08, EU:C:2009:260, paragraph 29).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4810">
+          <num>28</num>
+          <content eId="para_4810__content">
+            <p>It thus follows from that case-law that, having regard to their characteristics and their nature, luxury goods may require the implementation of a selective distribution system in order to preserve the quality of those goods and to ensure that they are used properly.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4811">
+          <num>29</num>
+          <content eId="para_4811__content">
+            <p>A selective distribution system designed, primarily, to preserve the luxury image of those goods is therefore compatible with Article 101(1) TFEU on condition that the criteria mentioned in paragraph 24 of the present judgment are met.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4812">
+          <num>30</num>
+          <content eId="para_4812__content">
+            <p>Contrary to the claims of Parfümerie Akzente and the German and Luxembourg Governments, that conclusion is not invalidated by the assertion contained in paragraph 46 of the judgment of 13 October 2011, Pierre Fabre Dermo-Cosmétique ( C‑439/09, EU:C:2011:649).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4813">
+          <num>31</num>
+          <content eId="para_4813__content">
+            <p>That assertion must be read and interpreted in the light of the context of that judgment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4814">
+          <num>32</num>
+          <content eId="para_4814__content">
+            <p>In that regard, it must be recalled that, in the case which gave rise to that judgment, the referring court was unsure as to whether a specific contractual clause imposing on authorised distributors, in the context of a selective distribution system, a comprehensive prohibition on the online sale of the contract goods complied with Article 101(1) TFEU, rather than whether such a system in its entirety was compliant. It must also be stated that the goods covered by the selective distribution system at issue in that case were not luxury goods, but cosmetic and body hygiene goods.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4815">
+          <num>33</num>
+          <content eId="para_4815__content">
+            <p>The assertion in paragraph 46 of the judgment of 13 October 2011, Pierre Fabre Dermo-Cosmétique ( C‑439/09, EU:C:2011:649) forms part of the Court's statements made for the purpose of providing the referring court in that case with the interpretative elements necessary to enable it to rule on the issue of whether the restriction of competition resulting from that contractual clause was justified by a legitimate objective and whether it pursued that objective in a proportionate way.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4816">
+          <num>34</num>
+          <content eId="para_4816__content">
+            <p>In that context, the Court took the view that the need to preserve the prestigious image of cosmetic and body hygiene goods was not a legitimate requirement for the purpose of justifying a comprehensive prohibition of the internet sale of those goods. The assertion in paragraph 46 of that judgment related, therefore, solely to the goods at issue in the case that gave rise to that judgment and to the contractual clause in question in that case.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4817">
+          <num>35</num>
+          <content eId="para_4817__content">
+            <p>By contrast, it cannot be inferred from the judgment of 13 October 2011, Pierre Fabre Dermo-Cosmétique ( C‑439/09, EU:C:2011:649) that paragraph 46 thereof sought to establish a statement of principle according to which the preservation of a luxury image can no longer be such as to justify a restriction of competition, such as that which stems from the existence of a selective distribution network, in regard to all goods, including in particular luxury goods, and consequently alter the settled case-law of the Court, as set out in paragraphs 25 to 27 of the present judgment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4818">
+          <num>36</num>
+          <content eId="para_4818__content">
+            <p>In view of the foregoing considerations, the answer to the first question is that Article 101(1) TFEU must be interpreted as meaning that a selective distribution system for luxury goods designed, primarily, to preserve the luxury image of those goods complies with that provision to the extent that resellers are chosen on the basis of objective criteria of a qualitative nature that are laid down uniformly for all potential resellers and applied in a non-discriminatory fashion and that the criteria laid down do not go beyond what is necessary.</p>
+            <tblock>
+              <p>The second question</p>
+            </tblock>
+            <p>37 By its second question, the referring court asks, in essence, whether Article 101(1) TFEU must be interpreted as precluding a contractual clause, such as that at issue in the main proceedings, which prohibits authorised distributors in a selective distribution system for luxury goods designed, primarily, to preserve the luxury image of those goods from using, in a discernible manner, third-party platforms for the online sale of the contract goods.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4819">
+          <num>38</num>
+          <content eId="para_4819__content">
+            <p>This question concerns the lawfulness, under Article 101(1) TFEU, of a specific clause in a selective distribution system for luxury and prestige goods.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4820">
+          <num>39</num>
+          <content eId="para_4820__content">
+            <p>As a preliminary point, it must be recalled that, as is apparent from the assessment carried out in the context of the first question, having regard to the nature and the specific characteristics of those goods, the objective consisting of the preservation of their luxury image is such as to justify the establishment of a selective distribution system for those goods.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4821">
+          <num>40</num>
+          <content eId="para_4821__content">
+            <p>In the context of such a system, a specific contractual clause designed to preserve the luxury image of the goods at issue is lawful under Article 101(1) TFEU provided that the criteria mentioned in paragraph 36 of the present judgment are met.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4822">
+          <num>41</num>
+          <content eId="para_4822__content">
+            <p>While it is for the referring court to determine whether a contractual clause, such as that at issue in the main proceedings, which prohibits the use of third-party platforms for the online sale of the contract goods, meets those criteria, it is nevertheless for the Court of Justice to provide the referring court for this purpose with all the points of interpretation of EU law which will enable it to reach a decision (see, to that effect, judgment of 11 December 1980, L'Oréal, 31/80, EU:C:1980:289, paragraph 14).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4823">
+          <num>42</num>
+          <content eId="para_4823__content">
+            <p>In that regard, it is common ground that the contractual clause at issue in the main proceedings has the objective of preserving the image of luxury and prestige of the goods at issue. Furthermore, it follows from the documents submitted to the Court that the referring court considers that that clause is objective and uniform and that it applies without discrimination to all authorised distributors.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4824">
+          <num>43</num>
+          <content eId="para_4824__content">
+            <p>It is therefore necessary to ascertain whether, in circumstances such as those at issue in the main proceedings, the prohibition imposed by a supplier on its authorised distributors of the use, in a discernible manner, of third-party platforms for the internet sale of the luxury goods at issue is proportionate in the light of the objective pursued, that is to say, whether such a prohibition is appropriate for preserving the luxury image of those goods and whether or not it goes beyond what is necessary to achieve that objective.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4825">
+          <num>44</num>
+          <content eId="para_4825__content">
+            <p>With regard, in the first place, to the appropriateness of the prohibition at issue in the main proceedings in the light of the objective pursued, it must be observed, first, that the obligation imposed on authorised distributors to sell the contract goods online solely through their own online shops and the prohibition on those distributors of using a different business name, as well as the use of third-party platforms in a discernible manner, provide the supplier with a guarantee, from the outset, in the context of electronic commerce, that those goods will be exclusively associated with the authorised distributors.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4826">
+          <num>45</num>
+          <content eId="para_4826__content">
+            <p>Since such an association is precisely one of the objectives sought when recourse is had to such a system, it appears that the prohibition at issue in the main proceedings includes a limitation which is coherent in the light of the specific characteristics of the selective distribution system.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4827">
+          <num>46</num>
+          <content eId="para_4827__content">
+            <p>Consequently, if, as is apparent from the case-law of the Court, those characteristics make the selective distribution system an appropriate means by which to preserve the luxury image of luxury goods and therefore contribute to sustaining the quality of those goods (see, to that effect, judgment of 23 April 2009, Copad, C‑59/08, EU:C:2009:260, paragraphs 28 and 29 as well as the case-law cited), a limitation such as that stemming from the prohibition at issue in the main proceedings, the effect of which is inherent in those characteristics, must also be regarded as being such as to preserve the quality and luxury image of those goods.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4828">
+          <num>47</num>
+          <content eId="para_4828__content">
+            <p>Second, the prohibition at issue in the main proceedings enables the supplier of luxury goods to check that the goods will be sold online in an environment that corresponds to the qualitative conditions that it has agreed with its authorised distributors.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4829">
+          <num>48</num>
+          <content eId="para_4829__content">
+            <p>Non-compliance by a distributor with the quality conditions set by the supplier allows that supplier to take action against that distributor, on the basis of the contractual link existing between those two parties. The absence of a contractual relationship between the supplier and third-party platforms is, however, an obstacle which prevents that supplier from being able to require, from those third-party platforms, compliance with the quality conditions that it has imposed on its authorised distributors.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4830">
+          <num>49</num>
+          <content eId="para_4830__content">
+            <p>The internet sale of luxury goods via platforms which do not belong to the selective distribution system for those goods, in the context of which the supplier is unable to check the conditions in which those goods are sold, involves a risk of deterioration of the online presentation of those goods which is liable to harm their luxury image and thus their very character.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4831">
+          <num>50</num>
+          <content eId="para_4831__content">
+            <p>Third, given that those platforms constitute a sales channel for goods of all kinds, the fact that luxury goods are not sold via such platforms and that their sale online is carried out solely in the online shops of authorised distributors contributes to that luxury image among consumers and thus to the preservation of one of the main characteristics of the goods sought by consumers.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4832">
+          <num>51</num>
+          <content eId="para_4832__content">
+            <p>Consequently, the prohibition imposed by a supplier of luxury goods on its authorised distributors to use, in a discernible manner, third-party platforms for the internet sale of those goods is appropriate to preserve the luxury image of those goods.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4833">
+          <num>52</num>
+          <content eId="para_4833__content">
+            <p>With regard, in the second place, to the question of whether the prohibition at issue in the main proceedings goes beyond what is necessary for the attainment of the objective pursued, it must be noted, first, that, in contrast to the clause referred to in the case which gave rise to the judgment of 13 October 2011, Pierre Fabre Dermo-Cosmétique ( C‑439/09, EU:C:2011:649), the clause here at issue in the main proceedings does not contain an absolute prohibition imposed on authorised distributors to sell the contract goods online. Indeed, under that clause, the prohibition applies solely to the internet sale of the contract goods via third-party platforms which operate in a discernible manner towards consumers.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4834">
+          <num>53</num>
+          <content eId="para_4834__content">
+            <p>Consequently, authorised distributors are permitted to sell the contract goods online both via their own websites, as long as they have an electronic shop window for the authorised store and the luxury character of the goods is preserved, and via unauthorised third-party platforms when the use of such platforms is not discernible to the consumer.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4835">
+          <num>54</num>
+          <content eId="para_4835__content">
+            <p>Second, it must be noted that, as is apparent from the provisional results of the Preliminary Report on the E-commerce Sector Inquiry carried out by the Commission pursuant to Article 17 of Council Regulation (EC) No 1/2003 of 16 December 2002 on the implementation of the rules on competition laid down in Articles [101 and 102 TFEU] ( OJ 2003 L 1, p. 1), adopted on 15 September 2016, despite the increasing importance of third-party platforms in the marketing of distributors' goods, the main distribution channel, in the context of online distribution, is nevertheless constituted by distributors' own online shops, which are operated by over 90% of the distributors surveyed. That fact was confirmed in the final report relating to that inquiry, dated 10 May 2017.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4836">
+          <num>55</num>
+          <content eId="para_4836__content">
+            <p>Those factors support the view that it may be inferred that a prohibition, such as the prohibition which the applicant in the main proceedings imposed on its authorised distributors, on using, in a discernible manner, third-party platforms for the internet sale of luxury goods does not go beyond what is necessary in order to preserve the luxury image of those goods.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4837">
+          <num>56</num>
+          <content eId="para_4837__content">
+            <p>In particular, given the absence of any contractual relationship between the supplier and the third-party platforms enabling that supplier to require those platforms to comply with the quality criteria which it has imposed on its authorised distributors, the authorisation given to those distributors to use such platforms subject to their compliance with pre-defined quality conditions cannot be regarded as being as effective as the prohibition at issue in the main proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4838">
+          <num>57</num>
+          <content eId="para_4838__content">
+            <p>It follows that, subject to inquiries which it is for the referring court to make, such a prohibition appears to be lawful in relation to Article 101(1) TFEU.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4839">
+          <num>58</num>
+          <content eId="para_4839__content">
+            <p>Having regard to the foregoing considerations, the answer to the second question is that Article 101(1) TFEU must be interpreted as not precluding a contractual clause, such as that at issue in the main proceedings, which prohibits authorised distributors in a selective distribution system for luxury goods designed, primarily, to preserve the luxury image of those goods from using, in a discernible manner, third-party platforms for the internet sale of the contract goods, on condition that that clause has the objective of preserving the luxury image of those goods, that it is laid down uniformly and not applied in a discriminatory fashion, and that it is proportionate in the light of the objective pursued, these being matters to be determined by the referring court.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The third and fourth questions</p>
+        </tblock>
+        <tblock>
+          <p>Preliminary observations</p>
+        </tblock>
+        <paragraph eId="para_4840">
+          <num>59</num>
+          <content eId="para_4840__content">
+            <p>It is only if the referring court should find that a clause, such as that at issue in the main proceedings, restricts competition within the meaning of Article 101(1) TFEU that the question as to whether that clause can benefit from an exemption under Regulation No 330/2010 by reason of Article 101(3) TFEU may arise. It follows from the order for reference that the market share thresholds laid down in Article 3 of that regulation have not been exceeded. Therefore, that clause may benefit from the exemption provided for in Article 2 of that regulation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4841">
+          <num>60</num>
+          <content eId="para_4841__content">
+            <p>However, Regulation No 330/2010 excludes from the benefit of the block exemption certain types of restrictions that are liable to have severely anticompetitive effects, irrespective of the market share of the undertakings concerned. Those restrictions are the hardcore restrictions set out in Article 4 of that regulation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4842">
+          <num>61</num>
+          <content eId="para_4842__content">
+            <p>The block exemption provided for in Article 2 of Regulation No 330/2010 cannot, therefore, be applied to a prohibition such as that at issue in the main proceedings if it is one of those hardcore restrictions.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The interpretation of Article 4(b) and (c) of Regulation No 330/2010</p>
+        </tblock>
+        <paragraph eId="para_4843">
+          <num>62</num>
+          <content eId="para_4843__content">
+            <p>By its third and fourth questions, which it is appropriate to examine together, the referring court asks, in essence, whether Article 4 of Regulation No 330/2010 must be interpreted as meaning that, in circumstances such as those in the main proceedings, the prohibition imposed on the members of a selective distribution system for luxury goods, which operate as distributors at the retail level of trade, of making use, in a discernible manner, of third-party undertakings for internet sales constitutes a restriction of their customers, within the meaning of Article 4(b) of that regulation, or a restriction of passive sales to end users, within the meaning of Article 4(c) of that regulation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4844">
+          <num>63</num>
+          <content eId="para_4844__content">
+            <p>In accordance with Article 4(b) and (c) of Regulation No 330/2010, the exemption laid down in Article 2 thereof does not apply to vertical agreements which have the object of restricting the territory into which, or the customers to which, a buyer party to the agreement can sell the contract goods or services, or restrict active or passive sales to end users by members of a selective distribution system operating at the retail level of trade.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4845">
+          <num>64</num>
+          <content eId="para_4845__content">
+            <p>It is therefore necessary to ascertain whether a contractual clause such as that at issue in the main proceedings restricts the customers to whom authorised distributors can sell the luxury goods at issue or whether it restricts authorised distributors' passive sales to end users.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4846">
+          <num>65</num>
+          <content eId="para_4846__content">
+            <p>In that respect, first of all, it must be recalled that, in contrast to the clause referred to in the case that gave rise to the judgment of 13 October 2011, Pierre Fabre Dermo-Cosmétique ( C‑439/09, EU:C:2011:649), the clause at issue in the present case does not prohibit the use of the internet as a means of marketing the contract goods, as has been explained in paragraphs 52 and 53 of the present judgment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4847">
+          <num>66</num>
+          <content eId="para_4847__content">
+            <p>Next, it is apparent from the documents before the Court that it does not appear possible to circumscribe, within the group of online purchasers, third-party platform customers.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4848">
+          <num>67</num>
+          <content eId="para_4848__content">
+            <p>Finally, it is also apparent from the documents before the Court that the selective distribution contract at issue in the main proceedings allows, under certain conditions, authorised distributors to advertise via the internet on third-party platforms and to use online search engines, with the result that, as noted by the Advocate-General in point 147 of his Opinion, customers are usually able to find the online offer of authorised distributors by using such engines.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4849">
+          <num>68</num>
+          <content eId="para_4849__content">
+            <p>In those circumstances, even if it restricts a specific kind of internet sale, a prohibition such as that at issue in the main proceedings does not amount to a restriction of the customers of distributors, within the meaning of Article 4(b) of Regulation No 330/2010, or a restriction of authorised distributors' passive sales to end users, within the meaning of Article 4(c) of that regulation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4850">
+          <num>69</num>
+          <content eId="para_4850__content">
+            <p>In the light of the foregoing considerations, the answer to the third and fourth questions is that Article 4 of Regulation No 330/2010 must be interpreted as meaning that, in circumstances such as those at issue in the main proceedings, the prohibition imposed on the members of a selective distribution system for luxury goods, which operate as distributors at the retail level of trade, of making use, in a discernible manner, of third-party undertakings for internet sales does not constitute a restriction of customers, within the meaning of Article 4(b) of that regulation, or a restriction of passive sales to end users, within the meaning of Article 4(c) of that regulation.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_4851">
+          <num>70</num>
+          <content eId="para_4851__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (First Chamber) hereby rules: 1. Article 101(1) TFEU must be interpreted as meaning that a selective distribution system for luxury goods designed, primarily, to preserve the luxury image of those goods complies with that provision to the extent that resellers are chosen on the basis of objective criteria of a qualitative nature that are laid down uniformly for all potential resellers and applied in a non-discriminatory fashion and that the criteria laid down do not go beyond what is necessary. 2. Article 101(1) TFEU must be interpreted as not precluding a contractual clause, such as that at issue in the main proceedings, which prohibits authorised distributors in a selective distribution system for luxury goods designed, primarily, to preserve the luxury image of those goods from using, in a discernible manner, third-party platforms for the internet sale of the contract goods, on condition that that clause has the objective of preserving the luxury image of those goods, that it is laid down uniformly and not applied in a discriminatory fashion, and that it is proportionate in the light of the objective pursued, these being matters to be determined by the referring court. 3. Article 4 of Commission Regulation (EU) No 330/2010 of 20 April 2010 on the application of Article 101(3) of the Treaty on the Functioning of the European Union to categories of vertical agreements and concerted practices must be interpreted as meaning that, in circumstances such as those at issue in the main proceedings, the prohibition imposed on the members of a selective distribution system for luxury goods, which operate as distributors at the retail level of trade, of making use, in a discernible manner, of third-party undertakings for internet sales does not constitute a restriction of customers, within the meaning of Article 4(b) of that regulation, or a restriction of passive sales to end users, within the meaning of Article 4(c) of that regulation.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: German.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

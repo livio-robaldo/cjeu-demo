@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+      <references source="#source">
+        <TLCOrganization eId="institution_62" showAs="" href="/akn/ontology/Organization/Institution/institution_62" />
+        <TLCOrganization eId="institution_61" showAs="" href="/akn/ontology/Organization/Institution/institution_61" />
+      </references>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Fifth Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>26 October 2017 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Articles 101 and 102 TFEU -- Directive 2009/72/EC -- Articles 9, 10, 13 and 14 -- Regulation (EC) No 714/2009 -- Article 3 -- Regulation (EU) No 1227/2011 -- Article 2(3) -- Regulation (EU) 2015/1222 -- Article 1(3) -- Certification and designation of an independent transmission system operator -- Limitation of the number of holders of electricity transmission licences in national territory) In Case C‑347/16, REQUEST for a preliminary ruling under Article 267 TFEU from the Administrativen sad Sofia-grad (Sofia City Administrative Court, Bulgaria), made by decision of 3 June 2016, received at the Court on 21 June 2016, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#institution_62">Balgarska energiyna borsa AD (BEB)</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#institution_61">Komisia za energiyno i vodno regulirane (KEVR)</party>
+      </p>
+      <p>, THE COURT (Fifth Chamber), composed of J.L. da Cruz Vilaça (Rapporteur), President of the Chamber, E. Levits, A. Borg Barthet, M. Berger and F. Biltgen, Judges, Advocate General: N. Wahl, Registrar: A. Calot Escobar, having regard to the written procedure, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>the</p>
+          <p>
+            <organization refersTo="#institution_61">Komisia za energiyno i vodno regulirane (KEVR)</organization>
+          </p>
+          <p>, by I. Ivanov, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Bulgarian Government, by E. Petranova and L. Zaharieva, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Polish Government, by B. Majczyna, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by O. Beynet and P. Mihaylova, acting as Agents, having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_2303">
+          <num>1</num>
+          <content eId="para_2303__content">
+            <p>This request for a preliminary ruling concerns the interpretation of various provisions of</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <p>Directive 2009/72/EC of the European Parliament and of the Council of 13 July 2009 concerning common rules for the internal market in electricity and repealing Directive 2003/54/EC (OJ 2009 L 211, p. 55), Regulation(EC) No 714/2009 of the European Parliament and of the Council of 13 July 2009 on conditions for access to the network for cross-border exchanges in electricity and repealing Regulation (EC) No 1228/2003 (OJ 2009 L 211, p. 15), Regulation (EU) No 1227/2011 of the European Parliament and of the Council of 25 October 2011 on wholesale energy market integrity and transparency (OJ 2011 L 326, p. 1), and Commission Regulation (EU) 2015/1222 of 24 July 2015 establishing a guideline on capacity allocation and congestion management (OJ 2015 L 197, p. 24), and of Articles 101 and 102 TFEU.</p>
+        <paragraph eId="para_2304">
+          <num>2</num>
+          <content eId="para_2304__content">
+            <p>The request has been made in proceedings between</p>
+            <p>
+              <organization refersTo="#institution_62">Balgarska energiyna borsa AD (BEB)</organization>
+            </p>
+            <p>, a company incorporated under Bulgarian law, and the</p>
+            <p>
+              <organization refersTo="#institution_61">Komisia za energiyno i vodno regulirane</organization>
+            </p>
+            <p>(Energy and Water Regulation Commission, Bulgaria) (</p>
+            <p>
+              <organization refersTo="#institution_61">KEVR</organization>
+            </p>
+            <p>) concerning</p>
+            <p>
+              <organization refersTo="#institution_61">KEVR</organization>
+            </p>
+            <p>'s refusal to grant</p>
+            <p>
+              <organization refersTo="#institution_62">BEB</organization>
+            </p>
+            <p>a licence for electricity transmission and as balancing group coordinator and independent transmission system operator.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <tblock>
+          <p>Directive 2009/72</p>
+        </tblock>
+        <paragraph eId="para_2305">
+          <num>3</num>
+          <content eId="para_2305__content">
+            <p>Recitals 9, 11, 12, 16, 17 and 19 of Directive 2009/72 state: `</p>
+            <blockList>
+              <item>
+                <num>(9)</num>
+                <p>Without effective separation of networks from activities of generation and supply (effective unbundling), there is an inherent risk of discrimination not only in the operation of the network but also in the incentives for vertically integrated undertakings to invest adequately in their networks. ...</p>
+                <blockList>
+                  <item>
+                    <num>(11)</num>
+                    <p>Only the removal of the incentive for vertically integrated undertakings to discriminate against competitors as regards network access and investment can ensure effective unbundling. Ownership unbundling, which implies the appointment of the network owner as the system operator and its independence from any supply and production interests, is clearly an effective and stable way to solve the inherent conflict of interests and to ensure security of supply. ...</p>
+                  </item>
+                  <item>
+                    <num>(12)</num>
+                    <p>Any system for unbundling should be effective in removing any conflict of interests between producers, suppliers and transmission system operators, in order to create incentives for the necessary investments and guarantee the access of new market entrants under a transparent and efficient regulatory regime and should not create an overly onerous regulatory regime for national regulatory authorities. ...</p>
+                  </item>
+                </blockList>
+                <blockList>
+                  <item>
+                    <num>(16)</num>
+                    <p>The setting up of a system operator or a transmission operator that is independent from supply and generation interests should enable a vertically integrated undertaking to maintain its ownership of network assets whilst ensuring effective separation of interests, provided that such independent system operator or such independent transmission operator performs all the functions of a system operator and detailed regulation and extensive regulatory control mechanisms are put in place.</p>
+                  </item>
+                  <item>
+                    <num>(17)</num>
+                    <p>Where, on 3 September 2009, an undertaking owning a transmission system is part of a vertically integrated undertaking, Member States should therefore be given a choice between ownership unbundling and setting up a system operator or transmission operator which is independent from supply and generation interests. ...</p>
+                  </item>
+                </blockList>
+              </item>
+              <item>
+                <num>(19)</num>
+                <p>The full effectiveness of the independent system operator or independent transmission operator solutions should be ensured by way of specific additional rules. The rules on the independent transmission operator provide an appropriate regulatory framework to guarantee fair competition, sufficient investment, access for new market entrants and the integration of electricity markets. Effective unbundling through the independent transmission operator provisions should be based on a pillar of organisational measures and measures relating to the governance of transmission system operators and on a pillar of measures relating to investment, connecting new production capacities to the network and market integration through regional cooperation. The independence of the transmission operator should also, inter alia, be ensured through certain ``cooling-off '' periods during which no management or other relevant activity giving access to the same information as could have been obtained in a managerial position is exercised in the vertically integrated undertaking. ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2306">
+          <num>4</num>
+          <content eId="para_2306__content">
+            <p>In accordance with Article 2 of Directive 2009/72, `Definitions': `For the purposes of this Directive, the following definitions apply: ... 4. ``transmission system operator '' means a natural or legal person responsible for operating, ensuring the maintenance of and, if necessary, developing the transmission system in a given area and, where applicable, its interconnections with other systems, and for ensuring the long-term ability of the system to meet reasonable demands for the transmission of electricity; ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2307">
+          <num>5</num>
+          <content eId="para_2307__content">
+            <p>Under Article 9 of Directive 2009/72, `Unbundling of transmission systems and transmission system operators': `1.   Member States shall ensure that from 3 March 2012:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>each undertaking which owns a transmission system acts as a transmission system operator;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>the same person or persons are entitled neither:</p>
+                <blockList>
+                  <item>
+                    <num>(i)</num>
+                    <p>directly or indirectly to exercise control over an undertaking performing any of the functions of generation or supply, and directly or indirectly to exercise control or exercise any right over a transmission system operator or over a transmission system; nor</p>
+                  </item>
+                  <item>
+                    <num>(ii)</num>
+                    <p>directly or indirectly to exercise control over a transmission system operator or over a transmission system, and directly or indirectly to exercise control or exercise any right over an undertaking performing any of the functions of generation or supply;</p>
+                  </item>
+                </blockList>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>the same person or persons are not entitled to appoint members of the supervisory board, the administrative board or bodies legally representing the undertaking, of a transmission system operator or a transmission system, and directly or indirectly to exercise control or exercise any right over an undertaking performing any of the functions of generation or supply; and</p>
+              </item>
+              <item>
+                <num>(d)</num>
+                <p>the same person is not entitled to be a member of the supervisory board, the administrative board or bodies legally representing the undertaking, of both an undertaking performing any of the functions of generation or supply and a transmission system operator or a transmission system. ... 8.   Where on 3 September 2009, the transmission system belongs to a vertically integrated undertaking a Member State may decide not to apply paragraph 1. In such case, the Member State concerned shall either:</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>designate an independent system operator in accordance with Article 13; or</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>comply with the provisions of Chapter V. ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2308">
+          <num>6</num>
+          <content eId="para_2308__content">
+            <p>Article 10 of Directive 2009/72, `Designation and certification of transmission system operators', provides: `1.   Before an undertaking is approved and designated as transmission system operator, it shall be certified according to the procedures laid down in paragraphs 4, 5 and 6 of this Article and in Article 3 of Regulation ... No 714/2009. 2.   Undertakings which own a transmission system and which have been certified by the national regulatory authority as having complied with the requirements of Article 9, pursuant to the certification procedure below, shall be approved and designated as transmission system operators by Member States. The designation of transmission system operators shall be notified to the Commission and published in the Official Journal of the European Union. ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2309">
+          <num>7</num>
+          <content eId="para_2309__content">
+            <p>Article 13 of Directive 2009/72, `Independent system operator', provides in paragraph 1: `Where the transmission system belongs to a vertically integrated undertaking on 3 September 2009, Member States may decide not to apply Article 9(1) and designate an independent system operator upon a proposal from the transmission system owner. Such designation shall be subject to approval by the Commission.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2310">
+          <num>8</num>
+          <content eId="para_2310__content">
+            <p>Article 14 of Directive 2009/72, `Unbundling of transmission system owners', provides in paragraph 1: `A transmission system owner, where an independent system operator has been appointed, which is part of a vertically integrated undertaking shall be independent at least in terms of its legal form, organisation and decision making from other activities not relating to transmission.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2311">
+          <num>9</num>
+          <content eId="para_2311__content">
+            <p>Chapter V of Directive 2009/72, which comprises Articles 17 to 23 of the directive, relates to the `Independent transmission operator'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2312">
+          <num>10</num>
+          <content eId="para_2312__content">
+            <p>Article 47 of Directive 2009/72, `Reporting', provides in paragraph 3: `The Commission shall, by 3 March 2013, submit, as part of the general review, to the European Parliament and the Council, a detailed specific report outlining the extent to which the unbundling requirements under Chapter V have been successful in ensuring full and effective independence of transmission system operators, using effective and efficient unbundling as a benchmark.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Regulation No 714/2009</p>
+        </tblock>
+        <paragraph eId="para_2313">
+          <num>11</num>
+          <content eId="para_2313__content">
+            <p>In accordance with Article 3 of Regulation No 714/2009, `Certification of transmission system operators': `1.   The Commission shall examine any notification of a decision on the certification of a transmission system operator as laid down in Article 10(6) of Directive 2009/72 ... as soon as it is received. Within two months of the day of receipt of such notification, the Commission shall deliver its opinion to the relevant national regulatory authority as to its compatibility with Article 10(2) or Article 11, and Article 9 of Directive 2009/72 ... When preparing the opinion referred to in the first subparagraph, the Commission may request the Agency [for the Cooperation of Energy Regulators] to provide its opinion on the national regulatory authority's decision. In such a case, the two-month period referred to in the first subparagraph shall be extended by two further months. In the absence of an opinion by the Commission within the periods referred to in the first and second subparagraphs, the Commission shall be deemed not to raise objections to the regulatory authority's decision. 2.   Within two months of receiving an opinion of the Commission, the national regulatory authority shall adopt its final decision regarding the certification of the transmission system operator, taking the utmost account of that opinion. The regulatory authority's decision and the Commission's opinion shall be published together. ...'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Regulation No 1227/2011</p>
+        </tblock>
+        <paragraph eId="para_2314">
+          <num>12</num>
+          <content eId="para_2314__content">
+            <p>Recital 3 of Regulation No 1227/2011 states: `The advice of the Committee of European Securities Regulators and the European Regulators Group for Electricity and Gas confirmed that the scope of existing legislation might not properly address market integrity issues on the electricity and gas markets and recommended the consideration of an appropriate legislative framework tailored to the energy sector which prevents market abuse and takes sector-specific conditions into account which are not covered by other directives and regulations.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2315">
+          <num>13</num>
+          <content eId="para_2315__content">
+            <p>Article 2 of Regulation No 1227/2011, `Definitions', provides: `For the purposes of this Regulation the following definitions shall apply: ...</p>
+            <blockList>
+              <item>
+                <num>(3)</num>
+                <p>``attempt to manipulate the market '' means:</p>
+                <blockList>
+                  <item>
+                    <num>(a)</num>
+                    <p>entering into any transaction, issuing any order to trade or taking any other action relating to a wholesale energy product with the intention of:</p>
+                    <blockList>
+                      <item>
+                        <num>(i)</num>
+                        <p>giving false or misleading signals as to the supply of, demand for, or price of wholesale energy products;</p>
+                      </item>
+                      <item>
+                        <num>(ii)</num>
+                        <p>securing the price of one or several wholesale energy products at an artificial level, unless the person who entered into the transaction or issued the order to trade establishes that his reasons for doing so are legitimate and that that transaction or order to trade conforms to accepted market practices on the wholesale energy market concerned; or</p>
+                      </item>
+                      <item>
+                        <num>(iii)</num>
+                        <p>employing a fictitious device or any other form of deception or contrivance which gives, or is likely to give, false or misleading signals regarding the supply of, demand for, or price of wholesale energy products; or</p>
+                      </item>
+                    </blockList>
+                  </item>
+                  <item>
+                    <num>(b)</num>
+                    <p>disseminating information through the media, including the internet, or by any other means with the intention of giving false or misleading signals as to the supply of, demand for, or price of wholesale energy products; ...'</p>
+                  </item>
+                </blockList>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Regulation 2015/1222</p>
+        </tblock>
+        <paragraph eId="para_2316">
+          <num>14</num>
+          <content eId="para_2316__content">
+            <p>Article 1 of Regulation 2015/1222, `Subject matter and scope', provides in paragraph 3: `In Member States where more than one transmission system operator exists, this Regulation shall apply to all transmission system operators within that Member State. Where a transmission system operator does not have a function relevant to one or more obligations under this Regulation, Member States may provide that the responsibility for complying with those obligations is assigned to one or more different, specific transmission system operators.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Bulgarian law</p>
+        </tblock>
+        <paragraph eId="para_2317">
+          <num>15</num>
+          <content eId="para_2317__content">
+            <p>In accordance with Article 21(1)(1) of the Zakon za energetikata (Law on energy, `the ZE'), the</p>
+            <p>
+              <organization refersTo="#institution_61">KEVR</organization>
+            </p>
+            <p>is to grant electricity transmission licences.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2318">
+          <num>16</num>
+          <content eId="para_2318__content">
+            <p>Under Article 21(1)(27) of the ZE, the</p>
+            <p>
+              <organization refersTo="#institution_61">KEVR</organization>
+            </p>
+            <p>is to certify electricity transmission system operators as regards compliance with the requirements of independence, monitor their compliance with those requirements, and submit the relevant notifications to the European Commission.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2319">
+          <num>17</num>
+          <content eId="para_2319__content">
+            <p>Under Article 39(1)(2) of the ZE, the activity of electricity transmission is subject to the grant of a licence.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2320">
+          <num>18</num>
+          <content eId="para_2320__content">
+            <p>Under Article 43(1)(1) of the ZE, only one licence is to be granted within national territory for the transmission of electricity.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2321">
+          <num>19</num>
+          <content eId="para_2321__content">
+            <p>Chapter 8a of the ZE lays down the rules for the certification of transmission system operators and for investments.</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_2322">
+          <num>20</num>
+          <content eId="para_2322__content">
+            <p>According to the order for reference,</p>
+            <p>
+              <organization refersTo="#institution_62">BEB</organization>
+            </p>
+            <p>applied to the</p>
+            <p>
+              <organization refersTo="#institution_61">KEVR</organization>
+            </p>
+            <p>on 27 December 2013 for the grant of a licence for `electricity transmission and balancing group coordinator, independent transmission system operator'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2323">
+          <num>21</num>
+          <content eId="para_2323__content">
+            <p>When the application was implicitly rejected,</p>
+            <p>
+              <organization refersTo="#institution_62">BEB</organization>
+            </p>
+            <p>on 24 April 2014 brought an action before the Varhoven administrativen sad (Supreme Administrative Court, Bulgaria) for the annulment of the rejection.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2324">
+          <num>22</num>
+          <content eId="para_2324__content">
+            <p>By judgment of 9 June 2015, the Varhoven administrativen sad (Supreme Administrative Court) annulled the rejection on the ground that it did not comply with the requirement to state reasons.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2325">
+          <num>23</num>
+          <content eId="para_2325__content">
+            <p>Pursuant to that judgment, the</p>
+            <p>
+              <organization refersTo="#institution_61">KEVR</organization>
+            </p>
+            <p>, by decision of 6 October 2015, rejected</p>
+            <p>
+              <organization refersTo="#institution_62">BEB</organization>
+            </p>
+            <p>'s application of 27 December 2013 as inadmissible in its entirety.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2326">
+          <num>24</num>
+          <content eId="para_2326__content">
+            <p>The</p>
+            <p>
+              <organization refersTo="#institution_61">KEVR</organization>
+            </p>
+            <p>considered essentially that, in accordance with Article 43(1)(1) of the ZE, only one licence could be granted for exercising the activity of electricity transmission in Bulgaria. By decision of 18 December 2013 the</p>
+            <p>
+              <organization refersTo="#institution_61">KEVR</organization>
+            </p>
+            <p>had granted such a licence to Elektroenergien sistemen operator EAD (ESO) for 35 years. As regards the activity of balancing group coordinator, the</p>
+            <p>
+              <organization refersTo="#institution_61">KEVR</organization>
+            </p>
+            <p>stated that the rights and obligations connected with that activity presupposed the exercise of the activity of electricity transmission. Finally, as regards the activity of independent transmission system operator, the</p>
+            <p>
+              <organization refersTo="#institution_61">KEVR</organization>
+            </p>
+            <p>observed that only the electricity transmission system operator, which was ESO, could by virtue of that licence be certified and designated for the purposes of that activity.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2327">
+          <num>25</num>
+          <content eId="para_2327__content">
+            <p>
+              <organization refersTo="#institution_62">BEB</organization>
+            </p>
+            <p>brought proceedings before the referring court against the</p>
+            <p>
+              <organization refersTo="#institution_61">KEVR</organization>
+            </p>
+            <p>'s decision of 6 October 2015.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2328">
+          <num>26</num>
+          <content eId="para_2328__content">
+            <p>The referring court is uncertain essentially, first, whether certain conditions laid down in Article 9(1) of Directive 2009/72 are complied with in Bulgaria and, second, whether the limitation of the number of holders of electricity transmission licences within a particular territory is compatible with the European Union objective of developing a competitive European energy market.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2329">
+          <num>27</num>
+          <content eId="para_2329__content">
+            <p>In those circumstances, the referring court decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Does Article 9(1)(b)(i) and (ii) of [Directive 2009/72] permit the same person to be the sole shareholder of the independent transmission system operator and of the company whose most important activities are the generation and transmission of electricity?</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>Does Article 9(1)(b)(i) and (ii) of [Directive 2009/72] permit the same person directly or indirectly to exercise control over the independent transmission system operator and over an undertaking which generates and supplies electricity?</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>Does Article 9(1)(c) and (d) of [Directive 2009/72] permit the same person to appoint the members of the supervisory board of the independent transmission system operator (which in turn elects its management board) and the members of the board of directors of the undertaking which generates and supplies electricity?</p>
+              </item>
+              <item>
+                <num>(4)</num>
+                <p>Do [Directive 2009/72], [Regulation No 714/2009], [Regulation No 1227/2011] and [Regulation 2015/1222] permit limitations of the number of persons to whom a licence for electricity transmission may be issued in a particular territory?</p>
+              </item>
+              <item>
+                <num>(5)</num>
+                <p>If the foregoing questions are answered in the affirmative, and if, in accordance with Article 43(1)(1) of the ZE, only one licence is granted for the territory of the Republic of Bulgaria, must it be considered that there is a conflict of interest within the meaning of recital 12 of [Directive 2009/72]?</p>
+              </item>
+              <item>
+                <num>(6)</num>
+                <p>Must it be considered that the national rule in Article 43(1)(1) of the ZE restricts competition within the meaning of Articles 101 and 102 TFEU, given that only one electricity transmission licence is granted within the national territory?'</p>
+                <tblock>
+                  <p>Consideration of the questions referred</p>
+                </tblock>
+                <tblock>
+                  <p>Questions 1 to 3 and 5</p>
+                </tblock>
+                <p>28 By its first to third and fifth questions, which should be considered together, the referring court essentially asks for an interpretation of Article 9(1)(b) to (d) of Directive 2009/72 in conjunction with recital 12 of that directive.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2330">
+          <num>29</num>
+          <content eId="para_2330__content">
+            <p>The order for reference shows that those questions essentially derive from the referring court's doubts as to whether the certification and designation of ESO as independent transmission system operator for the Bulgarian electricity transmission system complied with the requirements laid down in those provisions.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2331">
+          <num>30</num>
+          <content eId="para_2331__content">
+            <p>It must be recalled here that, according to consistent case-law of the Court, in the context of the cooperation between the Court and the national courts provided for in Article 267 TFEU, it is solely for the national court before which a dispute has been brought, and which must assume responsibility for the subsequent judicial decision, to determine, in the light of the particular circumstances of the case, both the need for a preliminary ruling to enable it to deliver judgment and the relevance of the questions which it submits to the Court. Consequently, where the questions submitted concern the interpretation of EU law, the Court is in principle bound to give a ruling (judgment of 22 September 2016, Microsoft Mobile Sales International and Others, C‑110/15, EU:C:2016:717, paragraph 18).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2332">
+          <num>31</num>
+          <content eId="para_2332__content">
+            <p>The presumption that questions referred by national courts for a preliminary ruling are relevant may be rebutted only in exceptional cases, where it is quite obvious that the interpretation of EU law that is sought bears no relation to the actual facts of the main action or its purpose, where the problem is hypothetical, or where the Court does not have before it the factual or legal material necessary to give a useful answer to the questions submitted to it (judgment of 17 December 2015, Tall, C‑239/14, EU:C:2015:824, paragraph 34). The purpose of a request for a preliminary ruling is not to enable advisory opinions on general or hypothetical questions to be delivered, but rather to meet the need for the effective resolution of a dispute concerning EU law (judgment of 10 November 2016, Private Equity Insurance Group, C‑156/15, EU:C:2016:851, paragraph 56).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2333">
+          <num>32</num>
+          <content eId="para_2333__content">
+            <p>In the present case, it is clear from the material before the Court, including the referring court's answer to a request by the Court for information, that, for the purpose of separating the operation of the electricity transmission system from the generation and supply of electricity in Bulgaria, an independent transmission system operator was established.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2334">
+          <num>33</num>
+          <content eId="para_2334__content">
+            <p>The right of Member States to choose to install such an independent transmission system operator is laid down in Article 9(8)(b) of Directive 2009/72. In accordance with that provision, where on 3 September 2009 the transmission system belongs to a vertically integrated undertaking, a Member State may decide not to apply Article 9(1) of the directive, on the unbundling of ownership. That choice entails an obligation for the Member State concerned to comply with the requirements of Chapter V of the directive, which comprises Articles 17 to 23, on independent transmission system operators.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2335">
+          <num>34</num>
+          <content eId="para_2335__content">
+            <p>In view of the doubts expressed by the referring court as to the independence of ESO, it must be observed that it follows from recitals 16, 17 and 19 and Articles 47(3) of Directive 2009/72 that the unbundling requirements in Chapter V of the directive are intended to ensure the complete and effective independence of transmission system operators from activities of generation and supply.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2336">
+          <num>35</num>
+          <content eId="para_2336__content">
+            <p>Consequently, in the present case, the certification and designation of ESO as independent transmission system manager for the Bulgarian electricity transmission system were subject to compliance with the requirements of Articles 17 to 23 of Directive 2009/72, not to those of Article 9(1)(b) to (d) of the directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2337">
+          <num>36</num>
+          <content eId="para_2337__content">
+            <p>In those circumstances, it is evident that the questions put to the Court on the interpretation to be given to Article 9(1)(b) to (d) of Directive 2009/72 in conjunction with recital 12 of the directive are of no relevance to the outcome of the main proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2338">
+          <num>37</num>
+          <content eId="para_2338__content">
+            <p>It follows that the first to third and fifth questions referred for a preliminary ruling are inadmissible.</p>
+            <tblock>
+              <p>Question 4</p>
+            </tblock>
+            <p>38 By its fourth question, the referring court asks whether Directive 2009/72, Regulation No 714/2009, Regulation No 1227/2011 and Regulation 2015/1222 authorise a Member State to limit the number of holders of electricity transmission licences for a particular territory.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2339">
+          <num>39</num>
+          <content eId="para_2339__content">
+            <p>The referring court specified in its reply to the Court's request for information that this question refers more particularly to Articles 9, 10, 13 and 14 of Directive 2009/72, Article 3 of Regulation No 714/2009, Article 2(3) in conjunction with recital 3 of Regulation No 1227/2011, and Article 1(3) of Regulation 2015/1222.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2340">
+          <num>40</num>
+          <content eId="para_2340__content">
+            <p>First, as regards Articles 13 and 14 of Directive 2009/72, those provisions relate to cases in which the transmission system belonged to a vertically integrated undertaking on 3 September 2009 and the Member State concerned decided to designate an independent system operator on the basis of Article 9(8)(a) of the directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2341">
+          <num>41</num>
+          <content eId="para_2341__content">
+            <p>However, as may be seen from paragraphs 32 and 33 above, the unbundling of the operation of the electricity transmission system from electricity generation and supply activities was done in Bulgaria by making use of the alternative option in Article 9(8)(b) of Directive 2009/72 of establishing an independent transmission system operator.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2342">
+          <num>42</num>
+          <content eId="para_2342__content">
+            <p>As regards Article 2(3) of Regulation No 1227/2011, read in conjunction with recital 3 of the regulation, while that provision defines what is to be understood by an `attempt to manipulate the market', the information in the order for reference contains nothing from which it could be concluded that the referring court is confronted with such a case in connection with the main proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2343">
+          <num>43</num>
+          <content eId="para_2343__content">
+            <p>Next, as regards Articles 9 and 10 of Directive 2009/72 and Article 3 of Regulation No 714/2009, it must be observed that those provisions, which relate to the unbundling of transmission systems and transmission system operators and to the certification and designation of the latter, do not contain any rules on the grant of licences for electricity transmission in the territory of the Member States.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2344">
+          <num>44</num>
+          <content eId="para_2344__content">
+            <p>Admittedly, it appears in the light of the considerations set out in paragraph 24 above that Bulgarian legislation reserves to the holder of the single electricity transmission licence granted the possibility of being certified and designated as transmission system manager in Bulgaria.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2345">
+          <num>45</num>
+          <content eId="para_2345__content">
+            <p>It should be noted here that Article 10(2) of Directive 2009/72 provides that undertakings which own an electricity transmission system and have been certified by the national regulatory authority as having complied with the requirements of Article 9 of the directive are to be approved and designated as transmission system operators by the Member States.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2346">
+          <num>46</num>
+          <content eId="para_2346__content">
+            <p>As is apparent from recital 11 of that directive, the unbundling of ownership implies the designation of the network owner as the system operator and its independence from any supply and production interests.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2347">
+          <num>47</num>
+          <content eId="para_2347__content">
+            <p>In the present case, however, the material submitted to the Court indicates that there is only one electricity transmission system in Bulgaria and that that system, which belonged to the vertically integrated undertaking Natsionalna elektricheska kompaniya on 3 September 2009, has since become the property of ESO.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2348">
+          <num>48</num>
+          <content eId="para_2348__content">
+            <p>So, having regard to the material before the Court, there is nothing to show that</p>
+            <p>
+              <organization refersTo="#institution_62">BEB</organization>
+            </p>
+            <p>'s application at issue in the main proceedings falls within the scope of Article 10(2) of Directive 2009/72 on the certification and designation as transmission system operators of undertakings which own an electricity transmission system.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2349">
+          <num>49</num>
+          <content eId="para_2349__content">
+            <p>As for Article 1(3) of Regulation 2015/1222, that provision does no more than refer in general terms to the case in which several transmission system operators coexist in a Member State.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2350">
+          <num>50</num>
+          <content eId="para_2350__content">
+            <p>In the light of the foregoing, the answer to the fourth question is that Articles 9, 10, 13 and 14 of Directive 2009/72, Article 3 of Regulation No 714/2009, Article 2(3) in conjunction with recital 3 of Regulation No 1227/2011, and Article 1(3) of Regulation 2015/1222 do not preclude, in circumstances such as those of the main proceedings, national legislation limiting the number of holders of electricity transmission licences for a particular territory.</p>
+            <tblock>
+              <p>Question 6</p>
+            </tblock>
+            <p>51 By its sixth question, the referring court essentially asks whether legislation of a Member State under which only one electricity transmission licence is granted within national territory restricts competition within the meaning of Articles 101 and 102 TFEU.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2351">
+          <num>52</num>
+          <content eId="para_2351__content">
+            <p>In this respect, while it is true that Articles 101 and 102 TFEU are concerned solely with the conduct of undertakings and not with laws or regulations emanating from Member States, those articles, read in conjunction with Article 4(3) TEU, which lays down a duty of cooperation, nonetheless require Member States not to introduce or maintain in force measures, even of a legislative or regulatory nature, which may render ineffective the competition rules applicable to undertakings (judgment of 8 December 2016, Eurosaneamientos and Others, C‑532/15 and C‑538/15, EU:C:2016:932, paragraph 34).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2352">
+          <num>53</num>
+          <content eId="para_2352__content">
+            <p>In addition, Article 101 TFEU and Article 4(3) TEU are infringed where a Member State requires or encourages the adoption of agreements, decisions or concerted practices contrary to Article 101 TFEU or reinforces their effects, or where it divests its own rules of the character of legislation by delegating to private economic operators responsibility for taking decisions affecting the economic sphere (judgment of 8 December 2016, Eurosaneamientos and Others, C‑532/15 and C‑538/15, EU:C:2016:932, paragraph 35).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2353">
+          <num>54</num>
+          <content eId="para_2353__content">
+            <p>Furthermore, it follows from the Court's case-law that a Member State will be in breach of the prohibitions laid down by Articles 102 and 106(1) TFEU if an undertaking to which it grants special or exclusive rights is led, merely by exercising the rights conferred on it, to abuse its dominant position or where those rights are liable to create a situation in which the undertaking is led to commit such abuses. On the other hand, the mere creation of a dominant position through the grant of special or exclusive rights within the meaning of Article 106(1) TFEU is not in itself incompatible with Article 102 TFEU (see, to that effect, judgment of 2 July 2015, Gullotta and Farmacia di Gullotta Davide &amp; C., C‑497/12, EU:C:2015:436, paragraph 23).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2354">
+          <num>55</num>
+          <content eId="para_2354__content">
+            <p>In this context, in accordance with the Court's case-law which states that the Court may have to reformulate the questions referred to it so as to provide the national court with an answer which will be of use to it and enable it to determine the case before it (see, to that effect, judgment of 12 September 2013, Konstantinides, C‑475/11, EU:C:2013:542, paragraph 42), the sixth question referred should be understood as relating to Articles 101 and 102 TFEU read in conjunction with Article 4(3) TEU and Article 106(1) TFEU.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2355">
+          <num>56</num>
+          <content eId="para_2355__content">
+            <p>However, the need to arrive at an interpretation of EU law which will be of use to the referring court requires that court to define the factual and legislative context of the questions it is asking, or at the very least to explain the factual circumstances on which those questions are based (judgment of 5 December 2013, Zentralbetriebsrat der gemeinnützigen Salzburger Landeskliniken, C‑514/12, EU:C:2013:799, paragraph 17). In the procedure established by Article 267 TFEU, the Court is empowered to give rulings on the interpretation of EU legislation only on the basis of the facts which the national court puts before it (judgment of 5 December 2013, Nordecon and Ramboll Eesti, C‑561/12, EU:C:2013:793, paragraph 28).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2356">
+          <num>57</num>
+          <content eId="para_2356__content">
+            <p>According to the Court's case-law, that requirement to give details is of particular importance in the field of competition, which is characterised by complex factual and legal situations (order of 16 July 2015, Striani and Others, C‑299/15, not published, EU:C:2015:519, paragraph 25).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2357">
+          <num>58</num>
+          <content eId="para_2357__content">
+            <p>It must be emphasised that the information provided in orders for reference serves not only to enable the Court to give useful answers but also to ensure that the governments of the Member States and other interested parties have a proper opportunity to submit observations in accordance with Article 23 of the Statute of the Court of Justice of the European Union (judgment of 27 November 2012, Pringle, C‑370/12, EU:C:2012:756, paragraph 85).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2358">
+          <num>59</num>
+          <content eId="para_2358__content">
+            <p>The requirements concerning the content of a request for a preliminary ruling are expressly set out in Article 94 of the Court's Rules of Procedure, of which the national court should, in the context of the cooperation instituted by Article 267 TFEU, be aware and which it is bound to observe scrupulously (judgment of 5 July 2016, Ognyanov, C‑614/14, EU:C:2016:514, paragraph 19).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2359">
+          <num>60</num>
+          <content eId="para_2359__content">
+            <p>In the present case, however, the order for reference, which essentially confines itself to stating the need to develop a competitive European energy market, does not contain any explanation of why the referring court considers that the legislation at issue in the main proceedings could infringe Articles 101 and 102 TFEU, read in conjunction with Article 4(3) TEU and Article 106(1) TFEU.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2360">
+          <num>61</num>
+          <content eId="para_2360__content">
+            <p>In those circumstances, as the Court does not have the necessary material for giving a useful answer to the sixth question, that question must be regarded as inadmissible.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_2361">
+          <num>62</num>
+          <content eId="para_2361__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Fifth Chamber) hereby rules: Articles 9, 10, 13 and 14 of Directive 2009/72/EC of the European Parliament and of the Council of 13 July 2009 concerning common rules for the internal market in electricity and repealing Directive 2003/54/EC, Article 3 of Regulation (EC) No 714/2009 of the European Parliament and of the Council of 13 July 2009 on conditions for access to the network for cross-border exchanges in electricity and repealing Regulation (EC) No 1228/2003, Article 2(3) in conjunction with recital 3 of Regulation (EU) No 1227/2011 of the European Parliament and of the Council of 25 October 2011 on wholesale energy market integrity and transparency, and Article 1(3) of Commission Regulation (EU) 2015/1222 of 24 July 2015 establishing a guideline on capacity allocation and congestion management do not preclude, in circumstances such as those of the main proceedings, national legislation limiting the number of holders of electricity transmission licences for a particular territory.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Bulgarian.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

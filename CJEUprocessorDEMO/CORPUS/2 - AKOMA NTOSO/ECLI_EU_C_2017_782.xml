@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+      <references source="#source">
+        <TLCOrganization eId="company_55" showAs="" href="/akn/ontology/Organization/Company/company_55" />
+      </references>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Fifth Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>19 October 2017 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Consumer protection -- Directive 2005/29/EC -- Unfair business-to-consumer commercial practices -- Scope of that directive -- Sale by a wholesaler to retailers -- Jurisdiction of the Court -- National legislation laying down a general prohibition on selling at a loss -- Exceptions based on criteria not provided for by that directive) In Case C‑295/16, REQUEST for a preliminary ruling under Article 267 TFEU from the Juzgado de lo Contencioso-Administrativo No 4 de Murcia (Administrative Court No 4 of Murcia, Spain), made by decision of 27 April 2016, received at the Court on 25 May 2016, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#company_55">Europamur Alimentación SA</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#">Dirección General de Comercio y Protección del Consumidor de la Comunidad Autónoma de la Región de Murcia</party>
+      </p>
+      <p>, THE COURT (Fifth Chamber), composed of J.L. da Cruz Vilaça, President of the Chamber, E. Levits, A. Borg Barthet, M. Berger and F. Biltgen (Rapporteur), Judges, Advocate General: H. Saugmandsgaard Øe, Registrar: I. Illéssy, Administrator, having regard to the written procedure and further to the hearing on 6 April 2017, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>Europamur Alimentación SA, by F. Bueno Sánchez, Procurador, and by A. García Medina, abogado,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Spanish Government, by A. Gavela Llopis, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by S. Pardo Quintillán and G. Goddin, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 29 June 2017,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_1318">
+          <num>1</num>
+          <content eId="para_1318__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Directive 2005/29/EC of the European Parliament and of the Council of 11 May 2005 concerning unfair business-to-consumer commercial practices in the internal market and amending Council Directive 84/450/EEC and Directives 97/7/EC, 98/27/EC and 2002/65/EC of the European Parliament and of the Council and Regulation (EC) No 2006/2004 of the European Parliament and of the Council ( `Unfair Commercial Practices Directive') ( OJ 2005 L 149, p. 22).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1319">
+          <num>2</num>
+          <content eId="para_1319__content">
+            <p>The request has been made in proceedings between Europamur Alimentación SA ( `Europamur') and the Dirección General de Comercio y Protección del Consumidor de la Comunidad Autónoma de la Región de Murcia (Directorate General for Commerce and Consumer Protection of the Autonomous Community of the Region of Murcia, Spain), formerly the Dirección General de Consumo, Comercio y Artesanía de la Comunidad Autónoma de la Región de Murcia (Directorate General for Consumer Affairs, Commerce and Craft Industries of the Autonomous Community of the Region of Murcia) ( `the Regional Authority'), concerning the legality of an administrative penalty imposed on Europamur due to an infringement of the prohibition on selling at a loss laid down by Spanish legislation relating to retail commerce.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <paragraph eId="para_1320">
+          <num>3</num>
+          <content eId="para_1320__content">
+            <p>Recitals 6, 8 and 17 of the Unfair Commercial Practices Directive state as follows: `</p>
+            <blockList>
+              <item>
+                <num>(6)</num>
+                <p>This Directive ... approximates the laws of the Member States on unfair commercial practices, including unfair advertising, which directly harm consumers' economic interests and thereby indirectly harm the economic interests of legitimate competitors. ... It neither covers nor affects the national laws on unfair commercial practices which harm only competitors' economic interests or which relate to a transaction between traders; taking full account of the principle of subsidiarity, Member States will continue to be able to regulate such practices, in conformity with Community law, if they choose to do so. ... ...</p>
+              </item>
+              <item>
+                <num>(8)</num>
+                <p>This Directive directly protects consumer economic interests from unfair business-to-consumer commercial practices. ... ...</p>
+              </item>
+              <item>
+                <num>(17)</num>
+                <p>It is desirable that those commercial practices which are in all circumstances unfair be identified to provide greater legal certainty. Annex I therefore contains the full list of all such practices. These are the only commercial practices which can be deemed to be unfair without a case-by-case assessment against the provisions of Articles 5 to 9. The list may only be modified by revision of the Directive.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1321">
+          <num>4</num>
+          <content eId="para_1321__content">
+            <p>Article 1 of that directive states: `The purpose of this Directive is to contribute to the proper functioning of the internal market and achieve a high level of consumer protection by approximating the laws, regulations and administrative provisions of the Member States on unfair commercial practices harming consumers' economic interests.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1322">
+          <num>5</num>
+          <content eId="para_1322__content">
+            <p>Article 2 of that directive provides: `For the purposes of this Directive:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>``consumer '' means any natural person who, in commercial practices covered by this Directive, is acting for purposes which are outside his trade, business, craft or profession;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>``trader '' means any natural or legal person who, in commercial practices covered by this Directive, is acting for purposes relating to his trade, business, craft or profession and anyone acting in the name of or on behalf of a trader; ...</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(d)</num>
+                <p>``business-to-consumer commercial practices '' ... means any act, omission, course of conduct or representation, commercial communication including advertising and marketing, by a trader, directly connected with the promotion, sale or supply of a product to consumers; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1323">
+          <num>6</num>
+          <content eId="para_1323__content">
+            <p>Article 3(1) of that directive is worded as follows: `This Directive shall apply to unfair business-to-consumer commercial practices, as laid down in Article 5, before, during and after a commercial transaction in relation to a product.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1324">
+          <num>7</num>
+          <content eId="para_1324__content">
+            <p>Under Article 4 of the Unfair Commercial Practices Directive: `Member States shall neither restrict the freedom to provide services nor restrict the free movement of goods for reasons falling within the field approximated by this Directive.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1325">
+          <num>8</num>
+          <content eId="para_1325__content">
+            <p>Article 5 of that directive, entitled `Prohibition of unfair commercial practices', states as follows: `1.   Unfair commercial practices shall be prohibited. 2.   A commercial practice shall be unfair if:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>it is contrary to the requirements of professional diligence, and</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>it materially distorts or is likely to materially distort the economic behaviour with regard to the product of the average consumer whom it reaches or to whom it is addressed, or of the average member of the group when a commercial practice is directed to a particular group of consumers. ... 4.   In particular, commercial practices shall be unfair which:</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>are misleading as set out in Articles 6 and 7, or</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>are aggressive as set out in Articles 8 and 9. 5.   Annex I contains the list of those commercial practices which shall in all circumstances be regarded as unfair. The same single list shall apply in all Member States and may only be modified by revision of this Directive.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Spanish law</p>
+        </tblock>
+        <tblock>
+          <p>Legislation on retail commerce</p>
+        </tblock>
+        <paragraph eId="para_1326">
+          <num>9</num>
+          <content eId="para_1326__content">
+            <p>According to the preamble to Ley 7/1996 de Ordenación del Comercio Minorista (Law 7/1996 regulating retail commerce) of 15 January 1996 (BOE No 15 of 17 January 1996, p. 1243), in the version applicable at the material time ( `the LOCM'): `The present law [seeks, inter alia,] to redress the imbalance between large and small businesses and, in particular, to maintain free and fair competition. It goes without saying that the most immediate and tangible effects of free and fair competition manifest themselves in a continuous improvement of prices, quality and other conditions of the supply of goods and services to the public, which is, ultimately, the most effective way of achieving a benefit for the consumer.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1327">
+          <num>10</num>
+          <content eId="para_1327__content">
+            <p>Article 14 of the LOCM, entitled `Prohibition on selling at a loss', states, in paragraphs 1 and 2: `1.   Notwithstanding the provisions of the previous article [laying down the principle of free pricing], selling or offering to sell to the public at a loss shall be prohibited, except in the circumstances covered by Chapters IV [on sales of sale goods] and V [on clearance sales] of Title II of this Law, unless</p>
+            <blockList>
+              <item>
+                <num>(i)</num>
+                <p>the objective of the person doing so is to match the prices of one or more competitors with the ability materially to affect that person's sales, or</p>
+              </item>
+              <item>
+                <num>(ii)</num>
+                <p>the sale involves perishable goods which will shortly be unfit for use. The provisions of the Law on Unfair Competition shall, in any event, be respected. 2.   For the purposes of the previous paragraph, a sale shall be deemed to be at a loss where the price applied to a product is lower than the purchase price appearing on the invoice, following deduction of the proportional share of any discounts appearing on the invoice, or than the replacement cost, if lower, or than the actual cost of production if the goods were manufactured by the retailer, plus the amount of any indirect taxes levied on the transaction.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1328">
+          <num>11</num>
+          <content eId="para_1328__content">
+            <p>Pursuant to the sixth additional provision of the LOCM, inserted in 1999, that prohibition on selling at a loss also applies `to entities engaging in wholesaling, whatever their legal nature'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1329">
+          <num>12</num>
+          <content eId="para_1329__content">
+            <p>The LOCM was implemented by the Autonomous Community of the Region of Murcia by means of Ley 11/2006 sobre Régimen del Comercio Minorista de la Región de Murcia (Law 11/2006 on retail commerce of the Region of Murcia) of 22 December 2006 (BORM No 2 of 3 January 2007, p. 141; `Regional Law 11/2006'). Article 54 of that law provides for a fine of EUR 3001 to EUR 15000 for serious infringements. In order to determine whether a `serious infringement' has been committed, the law refers to the LOCM, Article 65(1)(c) of which classifies selling at a loss as a serious infringement. The criteria to be taken into account in calculating the amount of the fine are listed in Article 55 of Regional Law 11/2006, which mentions, in particular, the seriousness of the harm `caused to the interests of consumers'.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Legislation on unfair competition</p>
+        </tblock>
+        <paragraph eId="para_1330">
+          <num>13</num>
+          <content eId="para_1330__content">
+            <p>According to the preamble to Ley 3/1991 de Competencia Desleal (Law 3/1991 on unfair competition) of 10 January 1991 (BOE No 10 of 11 January 1991, p. 959; `the LCD'): `[This] law reflects the need to adjust competition legislation to the values that have been crystallised in our economic constitution. Under the Spanish Constitution of 1978 our economic system rests on the principle of freedom to conduct a business and, consequently, at an institutional level, on the principle of free competition. This gives rise to the duty, on the part of the ordinary legislature, to create the necessary mechanisms to prevent the risk of that principle being distorted by unfair practices which have the potential to disrupt the functioning of the market as far as competition is concerned. This constitutional imperative is complemented and reinforced by the requirement deriving from the principle, enshrined in Article 51 of the Constitution, that the consumer should, as the weaker party in the typical market relationship, be protected. This new aspect of the problem, which traditionally has not played a part in the law on unfair competition, has provided an additional and highly significant impulse towards enacting the new legislation.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1331">
+          <num>14</num>
+          <content eId="para_1331__content">
+            <p>Article 17 of the LCD, entitled `Sale at a loss', states: `1.   In the absence of legal or regulatory provisions to the contrary, prices may be freely set. 2.   Notwithstanding the foregoing, a sale at below cost or purchase price shall be deemed unfair in the following circumstances:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>Where it is liable to mislead consumers about the pricing of other goods or services in the same establishment.</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>Where it has the effect of discrediting the image of another product or establishment.</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>Where it is part of a strategy aimed at removing a competitor or a group of competitors from the market.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Law 29/2009</p>
+        </tblock>
+        <paragraph eId="para_1332">
+          <num>15</num>
+          <content eId="para_1332__content">
+            <p>The Unfair Commercial Practices Directive was transposed into Spanish law by Ley 29/2009 por la que se modifica el régimen legal de la competencia desleal y de la publicidad para la mejora de la protección de los consumidores y usuarios (Law 29/2009 amending the statutory rules governing unfair competition and advertising in order to improve the protection of consumers and users) of 30 December 2009 (BOE No 315 of 31 December 2009, p. 112039; `Law 29/2009').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1333">
+          <num>16</num>
+          <content eId="para_1333__content">
+            <p>Law 29/2009 amended inter alia the LOCM and the LCD, but did not modify the provisions of those laws referred to in paragraphs 9 to 12 and paragraphs 13 and 14 above, respectively.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1334">
+          <num>17</num>
+          <content eId="para_1334__content">
+            <p>Law 29/2009 inserted a third paragraph in Article 18 of the LOCM under which sales promotion `shall be deemed unfair in the circumstances referred to in Article 5 of the [LCD]'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1335">
+          <num>18</num>
+          <content eId="para_1335__content">
+            <p>Law 29/2009 amended, first, Article 4 of the LCD, so that it sets out the criteria, as defined in Article 5 of the Unfair Commercial Practices Directive, for classifying a commercial practice as `unfair' and, second, Articles 5 and 7 of the LCD, the wording of which from that point onwards reproduces that of Articles 6 and 7 of that directive respectively.</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_1336">
+          <num>19</num>
+          <content eId="para_1336__content">
+            <p>Europamur sells, as a wholesaler, household and food products to supermarkets and local shops which are directly affected by competition from large supermarket chains. Since it is part of a collective purchasing mechanism, Europamur can offer its customers, who are small retailers, products at competitive prices, enabling them to compete against those chains.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1337">
+          <num>20</num>
+          <content eId="para_1337__content">
+            <p>By decision of 23 February 2015, the Regional Authority imposed a fine of EUR 3001 on Europamur for breach of the prohibition under Article 14 of the LOCM on account of it having sold at a loss certain products marketed by it.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1338">
+          <num>21</num>
+          <content eId="para_1338__content">
+            <p>The reasons given by the Regional Authority for its decision included, in particular, consumer protection. Thus, it first found that discounts `must not undermine the ability of consumers and users to give proper contractual consent in respect of the real level of pricing of a particular operator or establishment'. Next, it took account of `the social implications of the infringement, which affects all traders and consumers in the Region of Murcia ... as the infringing party has various economic objectives, including, amongst others, that of creating offers on products such as those at issue here which act as bait or as a hook in order to persuade consumers to purchase goods or services at the same establishment and with the covert intention of discouraging or eliminating competition'. Lastly, it took into account, in setting the penalty, the criterion of `the serious harm caused to the interests of consumers' laid down in Article 55 of Regional Law 11/2006. However, it did not specify to what extent Europamur's conduct had actually harmed the interests of consumers, given that, in keeping with the most widely held interpretation of Article 14 of the LOCM, selling at a loss would, in itself, be liable to cause harm to consumers and customers.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1339">
+          <num>22</num>
+          <content eId="para_1339__content">
+            <p>Europamur appealed against that decision, claiming, inter alia, that it was necessary for small retailers to be able to align their prices with those of their competitors, that the rules on evidence deriving from Article 17 of the LCD should have been observed with respect to it, and that the conduct penalised did not harm consumers in any way. It also argued that the penalty imposed was contrary to EU law since the Unfair Commercial Practices Directive had been inadequately transposed into domestic law by Law 29/2009, in so far as that law had failed to amend the wording of Article 14 of the LOCM.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1340">
+          <num>23</num>
+          <content eId="para_1340__content">
+            <p>The Regional Authority argued, in particular, first, that the penalty system under the LOCM, specifically designed to protect the interests of consumers, is separate from the LCD, which is instead aimed at the relationships between economic operators, with the result that it is not necessary for the circumstances referred to in Article 17 of the LCD to be present for the prohibition laid down in Article 14 of the LOCM to be applicable, and second, that there is no conflict between domestic legislation and EU legislation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1341">
+          <num>24</num>
+          <content eId="para_1341__content">
+            <p>In those circumstances, the Juzgado de lo Contencioso-Administrativo No 4 de Murcia (Administrative Court No 4 of Murcia, Spain) decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Must [the Unfair Commercial Practices Directive] be interpreted as precluding a provision of national law, such as Article 14 of [the LOCM], which is stricter than the directive in question in that it contains an initial prohibition, which also covers wholesalers, on selling at a loss, treating such a practice as an infringement of administrative law and therefore imposing a penalty in respect of it, account being taken of the fact that, in addition to regulating the market, the Spanish legislation is intended to protect the interests of consumers?</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>Must [the Unfair Commercial Practices Directive] be interpreted as precluding Article 14 of [the LOCM] even though that provision of national law permits selling at a loss to be excluded from the general prohibition where</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(i)</num>
+                <p>the infringing party shows that the objective of selling at a loss was to match the prices of one or more competitors with the ability materially to affect that party's sales or</p>
+              </item>
+              <item>
+                <num>(ii)</num>
+                <p>the sale involves perishable goods which will shortly be unfit for use?'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the questions referred</p>
+        </tblock>
+        <paragraph eId="para_1342">
+          <num>25</num>
+          <content eId="para_1342__content">
+            <p>By its two questions, which it is appropriate to examine together, the referring court asks, in essence, whether the Unfair Commercial Practices Directive must be interpreted as precluding national legislation, such as that at issue in the main proceedings, which contains a general prohibition on offering for sale or selling goods at a loss and which lays down grounds of derogation from that prohibition that are based on criteria not appearing in that directive.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Jurisdiction</p>
+        </tblock>
+        <paragraph eId="para_1343">
+          <num>26</num>
+          <content eId="para_1343__content">
+            <p>The Spanish Government and the European Commission question the admissibility of the request for a preliminary ruling on the ground that, in their view, the facts at issue in the main proceedings do not fall within the scope of the Unfair Commercial Practices Directive. They state that that directive, as is clear from Articles 2 and 3, applies only to unfair business-to-consumer commercial practices and is therefore not applicable to unfair commercial practices between traders. In the present case, it is not disputed that the selling at a loss took place between traders.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1344">
+          <num>27</num>
+          <content eId="para_1344__content">
+            <p>By that argument, the Spanish Government and the Commission dispute, in essence, the Court's jurisdiction to answer the questions put to it by the referring court.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1345">
+          <num>28</num>
+          <content eId="para_1345__content">
+            <p>In that regard, although it is true, as the Advocate General noted in point 42 of his Opinion, that the Unfair Commercial Practices Directive is applicable only to practices which directly harm consumers' economic interests and, therefore, does not apply to transactions between traders, it nonetheless cannot be concluded that the Court does not have jurisdiction to answer the questions referred to it for a preliminary ruling by the referring court.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1346">
+          <num>29</num>
+          <content eId="para_1346__content">
+            <p>The Court has repeatedly held that it has jurisdiction to give preliminary rulings on questions concerning provisions of EU law in situations where the facts in the main proceedings fell outside the scope of EU law, but where the provisions of EU law had been rendered applicable by national law, which, in dealing with situations outside the scope of EU law, followed the same approach as that provided for by the latter (see, to that effect, judgments of 18 October 2012, Nolan, C‑583/10, EU:C:2012:638, paragraph 45, and of 15 November 2016, Ullens de Schooten, C‑268/15, EU:C:2016:874, paragraph 53). In such a situation, it is clearly in the interest of the European Union that, in order to forestall future differences of interpretation, provisions taken from EU law should be interpreted uniformly (judgment of 18 October 2012, Nolan, C‑583/10, EU:C:2012:638, paragraph 46 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1347">
+          <num>30</num>
+          <content eId="para_1347__content">
+            <p>In the present case, it is clear from the order for reference that the provisions of the Unfair Commercial Practices Directive were rendered applicable by national law to situations, such as that at issue in the main proceedings, which do not fall within the scope of that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1348">
+          <num>31</num>
+          <content eId="para_1348__content">
+            <p>As the Advocate General noted in points 46 to 51 of his Opinion, Article 14 of the LOCM, which prohibits selling at a loss in the retail trade, must be regarded as a transposition of the Unfair Commercial Practices Directive. Furthermore, given that the sixth additional provision of the LOCM extends that prohibition to cover wholesalers and that the prohibition laid down in Article 14 of the LOCM applies in the same way to sales between wholesalers and retailers and to sales between retailers and consumers, the implications of the interpretation of the Unfair Commercial Practices Directive requested by the referring court are the same as regards both types of sales. Moreover, it is clear from the order for reference that the penalty imposed on Europamur is based on Article 14 of the LOCM, which is precisely the subject matter of the questions referred.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1349">
+          <num>32</num>
+          <content eId="para_1349__content">
+            <p>Accordingly, it is clearly in the interest of the European Union that, in order to forestall future differences of interpretation, the provisions taken from EU law should be interpreted uniformly.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1350">
+          <num>33</num>
+          <content eId="para_1350__content">
+            <p>In view of the foregoing, the Court has jurisdiction to answer the questions referred.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Substance</p>
+        </tblock>
+        <paragraph eId="para_1351">
+          <num>34</num>
+          <content eId="para_1351__content">
+            <p>In order to answer the question as reformulated in paragraph 25 above, it must be borne in mind at the outset that the Court has held that the Unfair Commercial Practices Directive must be interpreted as precluding a national provision which lays down a general prohibition of offering for sale or selling goods at a loss without it being necessary to determine, having regard to the facts of each particular case, whether the commercial transaction at issue is `unfair' in the light of the criteria set out in Articles 5 to 9 of that directive and without conferring a discretion in that regard on the courts having jurisdiction, provided that that provision pursues objectives relating to consumer protection (see, to that effect, order of 7 March 2013, Euronics Belgium, C‑343/12, EU:C:2013:154, paragraphs 30 and 31 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1352">
+          <num>35</num>
+          <content eId="para_1352__content">
+            <p>With regard, in the first place, to the objectives pursued by the national provision at issue in the main proceedings, it is clear from the preamble to the LOCM that that law seeks to protect consumers. Furthermore, according to the referring court, that objective applies even in a situation such as that at issue in the main proceedings, which relates to sales by wholesalers to small retailers, since those sales affect the consumer. More specifically, the consumer when shopping at a small retailer is said to benefit from collective purchasing through the wholesaler, without whom the retailer is powerless against the big chains and large retail outlets which have superior purchasing power.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1353">
+          <num>36</num>
+          <content eId="para_1353__content">
+            <p>That finding is supported by the Regional Authority's decision imposing the penalty. As is clear from paragraph 21 above, the Regional Authority justified that decision and the amount of the fine on grounds of consumer protection.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1354">
+          <num>37</num>
+          <content eId="para_1354__content">
+            <p>Moreover, it is precisely in view of those objectives of Article 14 of the LOCM that the referring court seeks an interpretation of the Unfair Commercial Practices Directive from the Court.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1355">
+          <num>38</num>
+          <content eId="para_1355__content">
+            <p>As regards, in the second place, whether the prohibition on selling at a loss at issue in the main proceedings is general in nature within the meaning of the case-law or whether the derogations from that prohibition allow national courts to establish, having regard to the facts of each particular case, whether the sale at a loss at issue is `unfair' in the light of the criteria set out in Articles 5 to 9 of the Unfair Commercial Practices Directive, it should be borne in mind that Article 5 of that directive sets out the criteria which determine the circumstances in which a commercial practice must be considered to be unfair and therefore prohibited (order of 7 March 2013, Euronics Belgium, C‑343/12, EU:C:2013:154, paragraph 25).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1356">
+          <num>39</num>
+          <content eId="para_1356__content">
+            <p>In that regard, the Court has held that the Unfair Commercial Practices Directive fully harmonises the rules relating to unfair business-to-consumer commercial practices and that the Member States may therefore not adopt stricter measures than those provided for in the directive, as expressly laid down in Article 4 thereof, even in order to achieve a higher level of consumer protection (see, to that effect, judgment of 14 January 2010, Plus Warenhandelsgesellschaft, C‑304/08, EU:C:2010:12, paragraph 41, and order of 30 June 2011, Wamo, C‑288/10, EU:C:2011:443, paragraph 33).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1357">
+          <num>40</num>
+          <content eId="para_1357__content">
+            <p>In the present case, first, it is not in dispute that, under the national provision at issue in the main proceedings, selling at a loss is, in itself, regarded as an unfair commercial practice and that it is not for the national courts to establish whether that selling is unfair, having regard to the facts of each particular case, in the light of the criteria set out in Articles 5 to 9 of the Unfair Commercial Practices Directive. Second, nor is it in dispute that the two derogations from the prohibition on selling at a loss in Article 14 of the LOCM are based on criteria which are not provided for by that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1358">
+          <num>41</num>
+          <content eId="para_1358__content">
+            <p>In accordance with the case-law recalled in paragraph 39 above, Member States may not, by establishing criteria other than those set out in Article 5 of that directive, adopt stricter measures than those provided for in that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1359">
+          <num>42</num>
+          <content eId="para_1359__content">
+            <p>Furthermore, the more restrictive measures which are prohibited also include, as noted by the Advocate General in points 62 to 64 of his Opinion, the reversal of the burden of proof provided for in Article 14 of the LOCM. Given that selling at a loss is not included among the practices referred to in Annex I to the Unfair Commercial Practices Directive, the imposition of a penalty for infringement of the prohibition of such selling at a loss must be preceded by an analysis, undertaken having regard to the facts of each particular case, of whether that selling is `unfair' in the light of the criteria set out in Articles 5 to 9 of that directive, and cannot be based on a presumption which the trader is required to rebut (see, by analogy, judgment of 23 April 2009, VTB-VAB and Galatea, C‑261/07 and C‑299/07, EU:C:2009:244, paragraph 65, relating to the prohibition of combined offers to consumers).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_1360">
+          <num>43</num>
+          <content eId="para_1360__content">
+            <p>Accordingly, the answer to the question referred is that the Unfair Commercial Practices Directive must be interpreted as precluding a national provision, such as that at issue in the main proceedings, which contains a general prohibition on offering for sale or selling goods at a loss and which lays down grounds of derogation from that prohibition that are based on criteria not appearing in that directive.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_1361">
+          <num>44</num>
+          <content eId="para_1361__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Fifth Chamber) hereby rules: Directive 2005/29/EC of the European Parliament and of the Council of 11 May 2005 concerning unfair business-to-consumer commercial practices in the internal market and amending Council Directive 84/450/EEC and Directives 97/7/EC, 98/27/EC and 2002/65/EC of the European Parliament and of the Council and Regulation (EC) No 2006/2004 of the European Parliament and of the Council ( `Unfair Commercial Practices Directive') must be interpreted as precluding a national provision, such as that at issue in the main proceedings, which contains a general prohibition on offering for sale or selling goods at a loss and which lays down grounds of derogation from that prohibition that are based on criteria not appearing in that directive.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Spanish.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

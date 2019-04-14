@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+      <references source="#source">
+        <TLCOrganization eId="company_55" showAs="" href="/akn/ontology/Organization/Company/company_55" />
+      </references>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Second Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>9 November 2017 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Protection of the safety and health of workers -- Directive 2003/88/EC -- Article 5 -- Weekly rest period -- National legislation providing for at least one rest day per seven-day period -- Periods of more than six consecutive working days) In Case C‑306/16, REQUEST for a preliminary ruling under Article 267 TFEU from the Tribunal da Relação do Porto (Court of Appeal, Oporto, Portugal), made by decision of 23 May 2016, received at the Court on 30 May 2016, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">António Fernando Maio Marques da Rosa</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#company_55">Varzim Sol -- Turismo</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="respondent" refersTo="#company_55">Jogo e Animação SA</party>
+      </p>
+      <p>, THE COURT (Second Chamber), composed of M. Ilešič, President of the Chamber, A. Rosas, C. Toader, A. Prechal (Rapporteur) and E. Jarašiūnas, Judges, Advocate General: H. Saugmandsgaard Øe, Registrar: M. Ferreira, Principal Administrator, having regard to the written procedure and further to the hearing on 5 April 2017, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>Mr Maio Marques da Rosa, by J. Carvalho, advogado,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>Varzim Sol -- Turismo, Jogo e Animação SA, by C. Santos Silva and N. Guedes Vaz, advogados,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Portuguese Government, by L. Inez Fernandes, M. Figueiredo and L. C. Oliveira, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Hungarian Government, by A. Pálfy, M.Z. Fehér and G. Koós, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Polish Government, by B. Majczyna, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Finnish Government, by H. Leppo, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Swedish Government by A. Falk, C. Meyer-Seitz, H. Shev, U. Persson, N. Otte Widgren and F. Bergius, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by M. van Beek, G. Braga da Cruz and P. Costa de Oliveira, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 21 June 2017,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_3178">
+          <num>1</num>
+          <content eId="para_3178__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Article 5 of Council Directive 93/104/EC of 23 November 1993 concerning certain aspects of the organisation of working time ( OJ 1993 L 307, p. 18), as amended by Directive 2000/34/EC of the European Parliament and of the Council of 22 June 2000 ( OJ 2000 L 195, p. 41) ( `Directive 93/104'), Article 5 of Directive 2003/88/EC of the European Parliament and of the Council of 4 November 2003 concerning certain aspects of the organisation of working time ( OJ 2003 L 299, p. 9), and Article 31 of the Charter of Fundamental Rights of the European Union ( `the Charter').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3179">
+          <num>2</num>
+          <content eId="para_3179__content">
+            <p>The request has been made in proceedings between Mr Antonio Fernando Maio Marques de Rosa and Varzim Sol -- Turismo, Jogo e Animação SA ( `Varzim Sol') concerning the grant to the applicant in the main proceedings, in his capacity as a worker, of one compulsory weekly rest day for each seven-day period.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <tblock>
+          <p>Directive 93/104</p>
+        </tblock>
+        <paragraph eId="para_3180">
+          <num>3</num>
+          <content eId="para_3180__content">
+            <p>Under Article 5 of Directive 93/104, entitled `Weekly rest period': `Member States shall take the measures necessary to ensure that, per each seven-day period, every worker is entitled to a minimum uninterrupted rest period of 24 hours plus the 11 hours' daily rest referred to in Article 3. ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3181">
+          <num>4</num>
+          <content eId="para_3181__content">
+            <p>Directive 93/104 was repealed and replaced by Directive 2003/88, which entered into force on 2 August 2004.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Directive 2003/88</p>
+        </tblock>
+        <paragraph eId="para_3182">
+          <num>5</num>
+          <content eId="para_3182__content">
+            <p>Recital 15 to Directive 2003/88 is worded as follows: `In view of the question likely to be raised by the organisation of working time within an undertaking, it appears desirable to provide for flexibility in the application of certain provisions of this Directive, whilst ensuring compliance with the principles of protecting the safety and health of workers.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3183">
+          <num>6</num>
+          <content eId="para_3183__content">
+            <p>Article 2 of that directive, headed `Definitions', provides: `For the purposes of this Directive, the following definitions shall apply: 1. ``working time '' means any period during which the worker is working, at the employer's disposal and carrying out his activity or duties, in accordance with national laws and/or practice; 2. ``rest period '' means any period which is not working time; ... 5. ``shift work '' means any method of organising work in shifts whereby workers succeed each other at the same work stations according to a certain pattern, including a rotating pattern, and which may be continuous or discontinuous, entailing the need for workers to work at different times over a given period of days or weeks; 6. ``shift worker '' means any worker whose work schedule is part of shift work; ... 9. ``adequate rest '' means that workers have regular rest periods, the duration of which is expressed in units of time and which are sufficiently long and continuous to ensure that, as a result of fatigue or other irregular working patterns, they do not cause injury to themselves, to fellow workers or to others and that they do not damage their health, either in the short term or in the longer term.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3184">
+          <num>7</num>
+          <content eId="para_3184__content">
+            <p>Article 3 of that directive, entitled `Daily rest', provides: `Member States shall take the measures necessary to ensure that every worker is entitled to a minimum daily rest period of 11 consecutive hours per 24-hour period.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3185">
+          <num>8</num>
+          <content eId="para_3185__content">
+            <p>Article 5 of that directive, entitled `Weekly rest period', provides: `Member States shall take the measures necessary to ensure that, per each seven-day period, every worker is entitled to a minimum uninterrupted rest period of 24 hours plus the 11 hours' daily rest referred to in Article 3. If objective, technical or work organisation conditions so justify, a minimum rest period of 24 hours may be applied.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3186">
+          <num>9</num>
+          <content eId="para_3186__content">
+            <p>Under Article 6 of that directive, entitled `Maximum weekly working time': `Member States shall take the measures necessary to ensure that, in keeping with the need to protect the safety and health of workers: ...</p>
+            <blockList>
+              <item>
+                <num>(b)</num>
+                <p>the average working time for each seven-day period, including overtime, does not exceed 48 hours.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3187">
+          <num>10</num>
+          <content eId="para_3187__content">
+            <p>Article 15 of that directive provides: `This Directive shall not affect Member States' right to apply or introduce laws, regulations or administrative provisions more favourable to the protection of the safety and health of workers or to facilitate or permit the application of collective agreements or agreements concluded between the two sides of industry which are more favourable to the protection of the safety and health of workers.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3188">
+          <num>11</num>
+          <content eId="para_3188__content">
+            <p>As set out in Article 16 of the directive, entitled `Reference periods': `Member States may lay down:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>for the application of Article 5 (weekly rest period), a reference period not exceeding 14 days;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>for the application of Article 6 (maximum weekly working time), a reference period not exceeding four months. ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3189">
+          <num>12</num>
+          <content eId="para_3189__content">
+            <p>Article 17 of that directive provides: ` ... 2.   Derogations provided for in paragraphs 3, 4 and 5 may be adopted by means of laws, regulations or administrative provisions or by means of collective agreements or agreements between the two sides of industry provided that the workers concerned are afforded equivalent periods of compensatory rest or that, in exceptional cases in which it is not possible, for objective reasons, to grant such equivalent periods of compensatory rest, the workers concerned are afforded appropriate protection. ... 4.   In accordance with paragraph 2 of this Article derogations may be made from Articles 3 and 5:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>in the case of shift work activities, each time the worker changes shift and cannot take daily and/or weekly rest periods between the end of one shift and the start of the next one; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3190">
+          <num>13</num>
+          <content eId="para_3190__content">
+            <p>Article 18 of that directive provides: `Derogations may be made from Articles 3, 4, 5, 8 and 16 by means of collective agreements or agreements concluded between the two sides of industry at national or regional level or, in conformity with the rules laid down by them, by means of collective agreements or agreements concluded between the two sides of industry at a lower level. Member States in which there is no statutory system ensuring the conclusion of collective agreements or agreements concluded between the two sides of industry at national or regional level, on the matters covered by this Directive, or those Member States in which there is a specific legislative framework for this purpose and within the limits thereof, may, in accordance with national legislation and/or practice, allow derogations from Articles 3, 4, 5, 8 and 16 by way of collective agreements or agreements concluded between the two sides of industry at the appropriate collective level. The derogations provided for in the first and second subparagraphs shall be allowed on condition that equivalent compensating rest periods are granted to the workers concerned or, in exceptional cases where it is not possible for objective reasons to grant such periods, the workers concerned are afforded appropriate protection. ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3191">
+          <num>14</num>
+          <content eId="para_3191__content">
+            <p>Under Article 22(1) of that directive: `A Member State shall have the option not to apply Article 6, while respecting the general principles of the protection of the safety and health of workers, and provided it takes the necessary measures to ensure that:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>no employer requires a worker to work more than 48 hours over a seven-day period, calculated as an average for the reference period referred to in Article 16(b), unless he has first obtained the worker's agreement to perform such work; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>Rules of Procedure of the Court of Justice</p>
+        </tblock>
+        <paragraph eId="para_3192">
+          <num>15</num>
+          <content eId="para_3192__content">
+            <p>Article 94 of the Rules of Procedure of the Court of Justice states: `In addition to the text of the questions referred to the Court for a preliminary ruling, the request for a preliminary ruling shall contain: ...</p>
+            <blockList>
+              <item>
+                <num>(c)</num>
+                <p>a statement of the reasons which prompted the referring court or tribunal to inquire about the interpretation or validity of certain provisions of EU law, and the relationship between those provisions and the national legislation applicable to the main proceedings.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Portuguese law</p>
+        </tblock>
+        <tblock>
+          <p>Labour Code of 2003</p>
+        </tblock>
+        <paragraph eId="para_3193">
+          <num>16</num>
+          <content eId="para_3193__content">
+            <p>The Código do Trabalho 2003 (Labour Code of 2003), adopted by Law No 99/2003 of 27 August 2003, intended to transpose Directive 93/104, provided in Article 205(1): `Workers shall be entitled to at least one day of rest per week.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3194">
+          <num>17</num>
+          <content eId="para_3194__content">
+            <p>Under Article 207(1) of that code: `There shall be added to the compulsory weekly rest day a period of 11 hours, corresponding to the minimum daily rest period provided for in Article 176.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Labour Code of 2009</p>
+        </tblock>
+        <paragraph eId="para_3195">
+          <num>18</num>
+          <content eId="para_3195__content">
+            <p>The Código do Trabalho 2009 (Labour Code of 2009), adopted by Law No 7/2009 of 12 February 2009, intended to transpose Directive 2003/88, provides in Article 221, entitled `Organisation of shift work': ... 5.   Shifts carried out in establishments with continuous 24-hour productive periods or that provide services that cannot be interrupted, namely the circumstances contemplated in Article 207(2)(d) and (e), shall be organised in such a way that the workers on each shift have at least one day of rest per seven-day period, without prejudice to the additional rest period to which they are entitled.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3196">
+          <num>19</num>
+          <content eId="para_3196__content">
+            <p>Article 232 of the Labour Code of 2009 provides: `1.   Workers shall be entitled to at least one day of rest per week. 2.   Except for other situations set out in specific legislation, the compulsory rest day may not be Sunday, where the worker carries out his activity:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>in an undertaking or business sector exempt from closure or suspension of activity one full day a week, or where the closure or suspension of activity is compulsory on a day other than Sunday; ... 3.   Provision may be made in a collective bargaining agreement or employment contract for an additional weekly rest period, whether continuous or discontinuous, in respect of all or some weeks of the year.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Company agreements</p>
+        </tblock>
+        <paragraph eId="para_3197">
+          <num>20</num>
+          <content eId="para_3197__content">
+            <p>Clause 36(1) of the company agreement between Varzim Sol and the Sindicato dos Profissionais de Banca de Casinos e outros (Union of Casino Workers and Others, Portugal), published in the Boletim do Trabalho e do Emprego No 22 of 2002, provides: `All workers to whom this company agreement applies shall be entitled to two consecutive weekly rest days, except those working in bingo who shall remain under the scheme in force at the date of signature of the present company agreement.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3198">
+          <num>21</num>
+          <content eId="para_3198__content">
+            <p>The company agreement between Varzim Sol and the Union of Casino Workers and Others, published in the Boletim do Trabalho e do Emprego No 29 of 2003, with amendments and consolidated text in the Boletim do Trabalho e do Emprego No 31 de 2007, provides, in Clause 36: `1. All workers to whom this company agreement applies shall be entitled to two consecutive weekly rest days. ... 5. In the services/sectors that have opted or will opt for rotating rest periods, those shall coincide, from time to time and at least every four weeks, with a Saturday and/or Sunday, other than in exceptional cases corresponding to an urgent and/or duly reasoned need of the company. ...'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The dispute in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_3199">
+          <num>22</num>
+          <content eId="para_3199__content">
+            <p>The applicant in the main proceedings, Mr Maio Marques da Rosa, was employed from 1991 to 2014 by Varzim Sol, a company that owns a casino at Póvoa de Varzim (Portugal). That casino is open every day, except 24 December, from 15.00 to 3.00 from Sunday to Thursday and from 16.00 to 4.00 on the other days.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3200">
+          <num>23</num>
+          <content eId="para_3200__content">
+            <p>It is apparent from the order for reference that the work of the applicant in the main proceedings rotated between work periods and rest periods, during which the employees worked in turn at the same work stations according to a predetermined pattern. The referring court states that, during 2008 and 2009, Mr Maio Marques da Rosa sometimes worked for seven consecutive days. It also states that the employees of Varzim Sol who worked in the gaming areas were from 1988 entitled to two consecutive weekly rest days, the first under the Labour Code and the second, in addition, under the company agreements between the Union of Casino Workers and Others, Portugal and Varzim Sol.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3201">
+          <num>24</num>
+          <content eId="para_3201__content">
+            <p>Furthermore, from 2010 Varzim Sol altered the schedules so that employees worked no more than six consecutive days.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3202">
+          <num>25</num>
+          <content eId="para_3202__content">
+            <p>On 16 March 2014, the employment of the applicant in the main proceedings came to an end following a collective redundancy procedure.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3203">
+          <num>26</num>
+          <content eId="para_3203__content">
+            <p>He then brought an action seeking an order for Varzim Sol to pay him the amount of EUR 18602 in damages because the seventh days that were worked ought to have been paid as overtime and he had not benefited from additional rest days. He also requested the payment of an amount of EUR 7679, on the ground that the second day of weekly rest had not always been granted to him in time, together with interest on all these amounts.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3204">
+          <num>27</num>
+          <content eId="para_3204__content">
+            <p>Following the dismissal of his action, the applicant in the main proceedings appealed to the Tribunal da Relação do Porto (Court of Appeal, Oporto, Portugal).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3205">
+          <num>28</num>
+          <content eId="para_3205__content">
+            <p>The applicant in the main proceedings argues, in support of his appeal, that Articles 221 and 232 of the Portuguese Labour Code of 2009 must be interpreted, in the light of Article 5 of Directive 2003/88 and Conventions No 14 and No 106 of the International Labour Organisation, as requiring a day of rest to be granted at the latest after six consecutive working days.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3206">
+          <num>29</num>
+          <content eId="para_3206__content">
+            <p>According to Varzim Sol, on the other hand, neither EU law nor national legislation requires a limitation of consecutive working days, in so far as the employee enjoys a rest period for each seven day period of work. Thus, Article 5 of Directive 2003/88 does not require that the right to a weekly rest period be granted to a worker after six consecutive working days, namely on the seventh day. Moreover, it would be impossible in practice to grant workers rest days every seventh and eighth day.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3207">
+          <num>30</num>
+          <content eId="para_3207__content">
+            <p>In those circumstances, the Tribunal da Relação do Porto (Court of Appeal, Oporto), which has expressed doubts concerning the correct interpretation of Article 5 of Directive 93/104 and Article 5 of Directive 2003/88, decided to stay the proceedings and refer the following questions to the Court for a preliminary ruling: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>In the light of Article 5 of [Directive 93/104] and Article 5 of Directive 2003/88 ..., as well as Article 31 of the Charter ..., in the case of workers engaged in shift work and rotating rest periods, in an establishment that is open every day of the week but which does not have continuous 24-hour productive periods, must the compulsory day of rest that a worker is entitled to be granted in each period of seven days, that is, at the latest on the seventh day following six consecutive working days?</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>Do those directives and provisions preclude an interpretation to the effect that, in relation to those workers, the employer is free to choose the days on which he grants a worker, for each week, the rest periods to which he is entitled, so that the worker may be required, without overtime pay, to work for up to ten consecutive days (for example, from Wednesday of one week, preceded by a rest period on Monday and Tuesday, to Friday of the following week, followed by a rest period on Saturday and Sunday)?</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>Do those directives and provisions preclude an interpretation to the effect that the uninterrupted rest period of 24 hours may be granted on any of the calendar days in a given period of seven calendar days, and the subsequent uninterrupted rest period of 24 hours (to which are added the 11 hours of daily rest) may also be granted on any of the calendar days in the period of seven calendar days immediately following the period mentioned above?</p>
+              </item>
+              <item>
+                <num>(4)</num>
+                <p>Do those directives and provisions, taking into account also the provision in Article 16(a) of Directive 2003/88 ..., preclude an interpretation to the effect that a worker, instead of taking an uninterrupted rest period of 24 hours (to which are added the 11 hours of daily rest) for each period of seven days, may take two periods, which may or may not be consecutive, of uninterrupted rest of 24 hours in any of the four calendar days of a given reference period of 14 calendar days?'</p>
+                <tblock>
+                  <p>Consideration of the questions referred</p>
+                </tblock>
+                <tblock>
+                  <p>Questions 1 to 3</p>
+                </tblock>
+                <p>31 By its first three questions, which should be examined together, the national court asks, in essence, whether Article 31 of the Charter, Article 5 of Directive 93/104 and the first paragraph of Article 5 of Directive 2003/88 should be interpreted as requiring the minimum uninterrupted rest period of 24 hours to which a worker is entitled to be provided no later than the day following a period of six consecutive working days.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3208">
+          <num>32</num>
+          <content eId="para_3208__content">
+            <p>As a preliminary point, it must be noted that the facts in the main proceedings, which took place between January 2004 and January 2010, fall partly under the provisions of Directive 93/104, which was in force until 1 August 2004, and partly under those of Directive 2003/88, which, from 2 August 2004, codified the provisions of Directive 93/104. However, since the relevant provisions of those directives for the case concerned are drafted in terms which are in substance identical and since, for that reason, the answers to be given to the questions referred by the referring court are the same no matter which directive applies, reference need only be made, for the purposes of answering those questions, to the provisions of Directive 2003/88 (see, to that effect, judgment of 25 November 2010, Fuß, C‑429/09, EU:C:2010:717, paragraph 32).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3209">
+          <num>33</num>
+          <content eId="para_3209__content">
+            <p>Under the first paragraph of Article 5 of Directive 2003/88, `Member States shall take the measures necessary to ensure that, per each seven-day period, every worker is entitled to a minimum uninterrupted rest period of 24 hours plus the 11 hours' daily rest referred to in Article 3'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3210">
+          <num>34</num>
+          <content eId="para_3210__content">
+            <p>That directive also contains provisions granting Member States the power to derogate from the provisions regulating work patterns. In that regard, Article 17(4)(a) of that directive provides that Member States may derogate from Article 5 of the directive in the case of shift work activities, each time the worker changes shift and cannot take weekly rest periods between the end of one shift and the start of the next one. Similarly, Article 18 of that directive provides that derogations may be made from Article 5 by means of collective agreements. Article 17(2) and Article 18 of the directive require, however, a compensating rest period or, in exceptional cases, other appropriate protection.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3211">
+          <num>35</num>
+          <content eId="para_3211__content">
+            <p>It is apparent, however, from the documents before the Court, as confirmed by the Portuguese Government and the European Commission at the hearing, that the Portuguese Republic did not exercise the power conferred on it by Article 17(4)(a) of Directive 2003/88 to derogate from the rules concerning weekly rest periods provided for in Article 5 of that directive in respect of shift work activities. Furthermore, it is not apparent from those documents that the company agreements, referred to in paragraphs 20 and 21 above, contain provisions derogating from Article 5.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3212">
+          <num>36</num>
+          <content eId="para_3212__content">
+            <p>Therefore, the abovementioned provisions permitting derogation from Article 5 of Directive 2003/88 in the context of shift work are not relevant to the present case.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3213">
+          <num>37</num>
+          <content eId="para_3213__content">
+            <p>Accordingly, only Article 5 of Directive 2003/88 must be interpreted and in particular the words `per each seven-day period'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3214">
+          <num>38</num>
+          <content eId="para_3214__content">
+            <p>Since Article 5 of Directive 2003/88 does not contain any reference to the national law of the Member States, the expression `per each seven-day period', used in that article, must be regarded as an autonomous concept of EU law and interpreted uniformly throughout the European Union, irrespective of characterisation in the Member States, taking into account the wording of the provision at issue and also its context and the purpose of the rules of which it forms part (see, to that effect, judgments of 2 March 2017, J.D, C‑4/16, EU:C:2017:153, paragraphs 23 and 25, and of 11 May 2017, Krijgsman, C‑302/16, EU:C:2017:359, paragraph 24 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3215">
+          <num>39</num>
+          <content eId="para_3215__content">
+            <p>Concerning, first, the wording of Article 5 of Directive 2003/88, it follows from this that the Member States are to take the measures necessary to ensure that, `per each seven-day period', every worker is entitled to a minimum uninterrupted rest period of 24 hours plus the 11 hours' daily rest referred to in Article 3 of Directive 2003/88. However, that article does not specify when that minimum rest period must take place and thus gives Member States a degree of flexibility with regard to the choice on timing.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3216">
+          <num>40</num>
+          <content eId="para_3216__content">
+            <p>As the Advocate General pointed out in point 40 of his Opinion, such an interpretation of that article is supported by the various language versions of Directive 2003/88. Thus, in most of the language versions of that article, including the English, German and Portuguese versions, it is provided that the minimum uninterrupted rest period must be granted `per' each seven-day period. Other versions of that article are closer to the French language version, which states that the weekly rest period must be granted `during' each seven-day period.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3217">
+          <num>41</num>
+          <content eId="para_3217__content">
+            <p>It is apparent, therefore, from the actual wording of Article 5 of Directive 2003/88 that it requires the Member States to ensure that every worker enjoys, during a seven day period, a minimum uninterrupted rest period of 24 hours plus the 11 hours' daily rest referred to in Article 3 of that directive, without, however, specifying when that minimum rest period must be granted.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3218">
+          <num>42</num>
+          <content eId="para_3218__content">
+            <p>Secondly, concerning the context of the terms at issue, that supports that textual interpretation. It should be noted, in that regard, that the EU legislature used, in various provisions of Directive 2003/88, the term `reference period' in order to specify a period within which a minimum rest period must be granted. That is the case, inter alia, in Article 16(a) of that directive which provides that the Member States may lay down a reference period not exceeding 14 days for the application of Article 5 of that provision. Although not expressly designated as such, the seven-day period referred to in Article 5 may, however, also be regarded as a reference period (see, to that effect, judgment of 12 November 1996, United Kingdom v Council, C‑84/94, EU:C:1996:431, paragraph 62).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3219">
+          <num>43</num>
+          <content eId="para_3219__content">
+            <p>A reference period may be defined in that context as a set period within which a certain number of consecutive rest hours must be provided irrespective of when those rest hours are granted. That definition is borne out, mutatis mutandis, by a combined reading of Articles 16(b) and 22(1)(a) of Directive 2003/88. Under the first provision, the Member States may lay down, for the application of Article 6 of that directive, a reference period not exceeding four months. The second provision provides that no employer may require a worker to work more than 48 hours over a seven-day period, calculated as an average for the reference period referred to in Article 16(b). Thus, an equal division of the number of work hours is not required.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3220">
+          <num>44</num>
+          <content eId="para_3220__content">
+            <p>Consequently, an interpretation of Article 5 of Directive 2003/88, according to which the minimum uninterrupted rest period of 24 hours, plus the 11 hours' daily rest referred to in Article 3 of that directive, may be provided at any time within each seven-day period, is supported by a systemic analysis of that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3221">
+          <num>45</num>
+          <content eId="para_3221__content">
+            <p>Thirdly, concerning the aim of Directive 2003/88, it should be pointed out that its purpose is effectively to protect the safety and health of workers. In light of that essential objective each employee must in particular enjoy adequate rest periods (judgments of 9 September 2003, Jaeger, C‑151/02, EU:C:2003:437, paragraph 92, and of 23 December 2015, Commission v Greece, C‑180/14, not published, EU:C:2015:840, paragraph 51). To that end, the first paragraph of Article 5 provides for a minimum uninterrupted weekly rest period for the benefit of every worker.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3222">
+          <num>46</num>
+          <content eId="para_3222__content">
+            <p>However, it is apparent from Directive 2003/88, in particular recital 15, that it also provides a degree of flexibility in the implementation of the provisions of that directive. Thus it contains a number of provisions, such as those set out in paragraph 34 above, which allow derogation by compensatory measures from the minimum rest periods required, inter alia for shift work or for activities involving the need for continuity of service or production. Furthermore, as is apparent from paragraph 42 above, Article 16(a) of the directive provides that Member States may lay down a longer reference period for the application of Article 5 of the directive in respect of the weekly rest period. Thus, the objective of that directive of ensuring proper protection for the health and safety of the worker, whilst leaving the Member States a degree of flexibility in the application of the provisions which it lays down, is also apparent from the actual wording of Article 5, as set out in paragraph 41 above.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3223">
+          <num>47</num>
+          <content eId="para_3223__content">
+            <p>Moreover, such an interpretation of Article 5 may benefit not only the employer but also the worker and enables several consecutive rest days to be given to the worker concerned at the end of a reference period and at the start of the following period. Furthermore, in the case of an undertaking open seven days a week, such as Varzim Sol, the requirement of fixed rest days could, according to the referring court, result in depriving some workers of the opportunity of being given those rest days at weekends. According to that court, that is the reason why the employees of Varzim Sol have never asked for fixed rest days.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3224">
+          <num>48</num>
+          <content eId="para_3224__content">
+            <p>It follows that Article 5 of Directive 2003/88, inasmuch as it requires Member States to lay down measures enabling every worker to benefit from a minimum uninterrupted rest period of 24 hours plus the 11 hours' daily rest referred to in Article 3 of Directive 2003/88 during a seven-day period, without, however, fixing the time when that minimum period must be granted, confers on those States a certain amount of discretion. Whilst it does not preclude national legislation which does not ensure that a worker is entitled to a minimum rest period no later than the seventh day following six consecutive days of work, the fact remains that that worker has, in any event, the protection laid down in Directive 2003/88 concerning daily rest and the maximum weekly working time.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3225">
+          <num>49</num>
+          <content eId="para_3225__content">
+            <p>Furthermore, as the Advocate General observed in point 46 of his Opinion, that directive establishes minimum standards for the protection of workers concerning the organisation of working time. Pursuant to Article 15 of that directive, Member States are authorised to apply or introduce laws, regulations or administrative provisions more favourable to the protection of the health and safety of workers or to facilitate or permit the application of collective agreements or agreements concluded between the two sides of industry which are more favourable to the protection of the health and safety of workers. In that regard, it is for the national court to ascertain whether, and to what extent, the national legislation applicable to the case in the main proceedings provides such greater protection.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3226">
+          <num>50</num>
+          <content eId="para_3226__content">
+            <p>As regards Article 31(2) of the Charter, in respect of which the referring court also requests an interpretation, it should be noted that that provision provides that every worker has the right to limitation of maximum working hours, to daily and weekly rest periods and to an annual period of paid leave. It is apparent from the explanations relating to the Charter ( OJ 2007 C 303, p. 17) that that provision is based on Directive 93/104 and Article 2 of the European Social Charter, signed in Turin on 18 October 1961 and revised in Strasbourg on 3 May 1996, and on Point 8 of the Community Charter of Fundamental Social Rights of Workers, adopted at the European Council meeting held in Strasbourg on 9 December 1989. Article 2(5) of the European Social Charter, on weekly rest, also refers, for its part, to Directives 93/104 and 2003/88. Therefore, as also noted by the Advocate General in point 44 of his Opinion, Article 31(2) of the Charter is not capable of providing additional information of use for the interpretation of Article 5 of Directive 2003/88.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3227">
+          <num>51</num>
+          <content eId="para_3227__content">
+            <p>Therefore, the answer to the first to third questions is that Article 5 of Directive 93/104 and the first paragraph of Article 5 of Directive 2003/88 must be interpreted as not requiring the minimum uninterrupted weekly rest period of 24 hours to which a worker is entitled to be provided no later than the day following a period of six consecutive working days, but requires that rest period to be provided within each seven-day period.</p>
+            <tblock>
+              <p>The fourth question</p>
+            </tblock>
+            <p>52 By its fourth question, the referring court asks, in essence, whether Article 16(a) of Directive 2003/88 must be interpreted as meaning that the two days' leave to which that article confers entitlement may be apportioned freely over the 14-day reference period.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3228">
+          <num>53</num>
+          <content eId="para_3228__content">
+            <p>However, the referring court does not specify whether the Portuguese legislature transposed that provision, which allows the provision of a longer reference period for the application of Article 5 of that directive. Furthermore, both the applicant in the main proceedings, the Portuguese Government and the Commission submit that Portugal has not made use of that discretionary power.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3229">
+          <num>54</num>
+          <content eId="para_3229__content">
+            <p>In any event, pursuant to Article 94(c) of the Rules of Procedure of the Court of Justice, the referring court must set out the precise reasons that led it to raise the question of the interpretation of certain provisions of EU law and to consider it necessary to refer questions to the Court of Justice for a preliminary ruling. Thus, it is essential that the national court should give at the very least some explanation of the reasons for the choice of the EU law provisions which it seeks to have interpreted and of the link it establishes between those provisions and the national legislation applicable to the proceedings pending before it (judgment of 27 September 2017, Puškár, C‑73/16, EU:C:2017:725, paragraph 120 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3230">
+          <num>55</num>
+          <content eId="para_3230__content">
+            <p>Moreover, those requirements also appear in the recommendations of the Court of Justice of the European Union to national courts and tribunals in relation to the initiation of preliminary ruling proceedings ( OJ 2016 C 439, p. 1) (judgment of 27 September 2017, Puškár, C‑73/16, EU:C:2017:725, point 121).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3231">
+          <num>56</num>
+          <content eId="para_3231__content">
+            <p>In the present case, it must be held that the fourth question does not meet the requirements referred to in the preceding paragraphs because the referring court does not state why interpretation of Article 16(a) of Directive 2003/88 is relevant to the dispute before it.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3232">
+          <num>57</num>
+          <content eId="para_3232__content">
+            <p>It follows that the fourth question is inadmissible.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_3233">
+          <num>58</num>
+          <content eId="para_3233__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Second Chamber) hereby rules: Article 5 of Council Directive 93/104/EC of 23 November 1993 concerning certain aspects of the organisation of working time, as amended by Directive 2000/34/EC of the European Parliament and of the Council of 22 June 2000 and the first paragraph of Article 5 of Directive 2003/88/EC of the European Parliament and of the Council of 4 November 2003 concerning certain aspects of the organisation of working time must be interpreted as not requiring the minimum uninterrupted weekly rest period of 24 hours to which a worker is entitled to be provided no later than the day following a period of six consecutive working days, but requires that rest period to be provided within each seven-day period.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Portuguese.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

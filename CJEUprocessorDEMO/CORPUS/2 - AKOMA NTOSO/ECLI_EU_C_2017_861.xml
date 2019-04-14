@@ -1,0 +1,908 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Grand Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>14 November 2017 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Appeal -- Competition -- Agreements, decisions and concerted practices -- European airfreight market -- Commission decision concerning agreements and concerted practices in respect of several elements of the pricing of airfreight services -- Defective statement of reasons -- Plea involving a matter of public policy raised by the EU courts of their own motion -- Prohibition on ruling ultra petita -- Form of order set out in the application at first instance seeking the partial annulment of the decision at issue -- The General Court of the European Union prohibited from annulling the decision at issue in its entirety -- Article 47 of the Charter of Fundamental Rights of the European Union -- Right to an effective remedy) In Case C‑122/16 P, APPEAL under Article 56 of the Statute of the Court of Justice of the European Union, brought on 26 February 2016, British Airways plc, established in Harmondsworth (United Kingdom), represented by J. Turner QC and R. O'Donoghue, Barrister, instructed by A. Lyle-Smythe, Solicitor, appellant, the other party to the proceedings being: European Commission, represented by N. Khan and A. Dawes, acting as Agents, defendant at first instance, THE COURT (Grand Chamber), composed of K. Lenaerts, President, A. Tizzano, Vice-President, R. Silva de Lapuerta, M. Ilešič, L. Bay-Larsen, J. Malenovský and E. Levits, Presidents of Chambers, E. Juhász, A. Borg Barthet, J. --C. Bonichot, F. Biltgen, K. Jürimäe, C. Lycourgos, M. Vilaras and E. Regan (Rapporteur), Judges, Advocate General: P. Mengozzi, Registrar: M.-A. Gaudissart, Deputy Registrar, having regard to the written procedure and further to the hearing on 7 February 2017, after hearing the Opinion of the Advocate General at the sitting on 30 May 2017,</p>
+      <p>gives the following</p>
+      <tblock>
+        <p>Judgment</p>
+      </tblock>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_3456">
+          <num>1</num>
+          <content eId="para_3456__content">
+            <p>By its appeal, British Airways plc seeks to have set aside in part the judgment of the General Court of the European Union of 16 December 2015, British Airways v Commission(T‑48/11, not published, `the judgment under appeal', EU:T:2015:988), by which that court annulled in part Commission Decision C(2010) 7694 final of 9 November 2010 relating to a proceeding under Article 101 TFEU, Article 53 of the EEA Agreement and Article 8 of the Agreement between the European Community and the Swiss Confederation on Air Transport (Case COMP/39258 -- Airfreight) ( `the decision at issue'), in so far as it concerns British Airways.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>The Statute of the Court of Justice of the European Union</p>
+        </tblock>
+        <paragraph eId="para_3457">
+          <num>2</num>
+          <content eId="para_3457__content">
+            <p>Article 21 of the Statute of the Court of Justice of the European Union is worded as follows: `A case shall be brought before the Court of Justice by a written application addressed to the Registrar. The application shall contain the applicant's name and permanent address and the description of the signatory, the name of the party or names of the parties against whom the application is made, the subject-matter of the dispute, the form of order sought and a brief statement of the pleas in law on which the application is based. The application shall be accompanied, where appropriate, by the measure the annulment of which is sought, or, in the circumstances referred to in Article 256 [TFEU], by documentary evidence of the date on which an institution was, in accordance with that article, requested to act. If the documents are not submitted with the application, the Registrar shall ask the party concerned to produce them within a reasonable period, but in that event the rights of the party shall not lapse even if such documents are produced after the time limit for bringing proceedings.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3458">
+          <num>3</num>
+          <content eId="para_3458__content">
+            <p>The second paragraph of Article 56 of that statute is worded as follows: `[An appeal before the Court of Justice] may be brought by any party which has been unsuccessful, in whole or in part, in its submissions. ...'</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The Rules of Procedure of the Court of Justice of 19 June 1991</p>
+        </tblock>
+        <paragraph eId="para_3459">
+          <num>4</num>
+          <content eId="para_3459__content">
+            <p>Article 112(2) of the Rules of Procedure of the Court of Justice of 19 June 1991 ( `the Court's Rules of Procedure of 19 June 1991') provided as follows: `The decision of the [General] Court appealed against shall be attached to the appeal. ...'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The Rules of Procedure of the Court of Justice of 25 September 2012</p>
+        </tblock>
+        <paragraph eId="para_3460">
+          <num>5</num>
+          <content eId="para_3460__content">
+            <p>Article 120 of the Rules of Procedure of the Court of Justice of 25 September 2012, which entered into force on 1 November 2012 (the Court's Rules of Procedure'), headed `Content of the application', is worded as follows: `An application of the kind referred to in Article 21 of the Statute [of the Court of Justice of the European Union] shall state: ...</p>
+            <blockList>
+              <item>
+                <num>(c)</num>
+                <p>the subject-matter of the proceedings, the pleas in law and arguments relied on and a summary of those pleas in law;</p>
+              </item>
+              <item>
+                <num>(d)</num>
+                <p>the form of order sought by the applicant; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3461">
+          <num>6</num>
+          <content eId="para_3461__content">
+            <p>Article 122 of those rules, entitled `Annexes to the application', provides as follows: `1.   The application shall be accompanied, where appropriate, by the documents specified in the second paragraph of Article 21 of the Statute. ... 3.   If an application does not comply with the requirements set out in paragraphs 1 or 2 of this Article, the Registrar shall prescribe a reasonable time-limit within which the applicant is to produce the abovementioned documents. If the applicant fails to put the application in order, the Court shall, after hearing the Judge-Rapporteur and the Advocate General, decide whether the non-compliance with these conditions renders the application formally inadmissible.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3462">
+          <num>7</num>
+          <content eId="para_3462__content">
+            <p>Article 127 of those rules, entitled `New pleas in law', states in paragraph 1 thereof as follows: `No new plea in law may be introduced in the course of proceedings unless it is based on matters of law or of fact which come to light in the course of the procedure.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3463">
+          <num>8</num>
+          <content eId="para_3463__content">
+            <p>Article 168 of those rules, headed `Content of the appeal', provides as follows: `1.   An appeal shall contain: ...</p>
+            <blockList>
+              <item>
+                <num>(b)</num>
+                <p>a reference to the decision of the General Court appealed against; ... 2.   Articles 119, 121 and 122(1) of these Rules shall apply to appeals. ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3464">
+          <num>9</num>
+          <content eId="para_3464__content">
+            <p>Article 169 of the Court's Rules of Procedure, headed `Forms of order sought, pleas in law and arguments of the appeal', states in paragraph 1 thereof as follows: `An appeal shall seek to have set aside, in whole or in part, the decision of the General Court as set out in the operative part of that decision.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3465">
+          <num>10</num>
+          <content eId="para_3465__content">
+            <p>Article 170 of those rules, headed `Form of order sought in the event that the appeal is allowed', provides as follows: `An appeal shall seek, in the event that it is declared well founded, the same form of order, in whole or in part, as that sought at first instance and shall not seek a different form of order. The subject-matter of the proceedings before the General Court may not be changed in the appeal.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3466">
+          <num>11</num>
+          <content eId="para_3466__content">
+            <p>Article 190 of those rules, headed `Other provisions applicable to appeals', states as follows: `Articles 127 ... of these Rules shall apply to the procedure before the Court of Justice on an appeal against decisions of the General Court.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Rules of Procedure of the General Court of 2 May 1991</p>
+        </tblock>
+        <paragraph eId="para_3467">
+          <num>12</num>
+          <content eId="para_3467__content">
+            <p>Under Article 44(1) of the Rules of Procedure of the General Court of 2 May 1991: `An application of the kind referred to in Article 21 of the Statute shall state: ...</p>
+            <blockList>
+              <item>
+                <num>(c)</num>
+                <p>the subject-matter of the proceedings and a summary of the pleas in law on which the application is based;</p>
+              </item>
+              <item>
+                <num>(d)</num>
+                <p>the form of order sought by the applicant; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3468">
+          <num>13</num>
+          <content eId="para_3468__content">
+            <p>Article 48(2) of those rules was worded as follows: `No new plea in law may be introduced in the course of proceedings unless it is based on matters of law or of fact which come to light in the course of the procedure. ...'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Background to the dispute</p>
+        </tblock>
+        <paragraph eId="para_3469">
+          <num>14</num>
+          <content eId="para_3469__content">
+            <p>The applicant, British Airways plc, is an airline operating in the airfreight market.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3470">
+          <num>15</num>
+          <content eId="para_3470__content">
+            <p>On 7 December 2005, the European Commission received an application for immunity under the Commission Notice on immunity from fines and reduction of fines in cartel cases ( OJ 2002 C 45, p. 3, `the 2002 Leniency Notice') submitted by Deutsche Lufthansa AG and its subsidiaries, Lufthansa Cargo AG and Swiss International Air Lines AG. According to that application, anticompetitive contacts existed between a number of undertakings operating in the freight market ( `the carriers') with respect to various elements forming part of the prices charged for services on that market, namely the imposition of `fuel' and `security' surcharges and the refusal by the carriers to pay commission on those surcharges.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3471">
+          <num>16</num>
+          <content eId="para_3471__content">
+            <p>On 14 and 15 February 2006, the Commission carried out unannounced inspections.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3472">
+          <num>17</num>
+          <content eId="para_3472__content">
+            <p>Following the inspections, a number of carriers, including the appellant, made an application under the 2002 Leniency Notice.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3473">
+          <num>18</num>
+          <content eId="para_3473__content">
+            <p>On 19 December 2007, the Commission addressed a statement of objections to 27 carriers, including the appellant. The addressees of that statement submitted written observations in reply. A hearing was held from 30 June to 4 July 2008.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3474">
+          <num>19</num>
+          <content eId="para_3474__content">
+            <p>On 9 November 2010, the Commission adopted the decision at issue, which it addressed to 21 carriers ( `the carriers at issue'), including the appellant.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The procedure before the General Court and the judgment under appeal</p>
+        </tblock>
+        <paragraph eId="para_3475">
+          <num>20</num>
+          <content eId="para_3475__content">
+            <p>By application lodged at the Court Registry on 24 January 2011, the appellant brought an action for the annulment of certain aspects of the decision at issue, in so far as those aspects concerned it.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3476">
+          <num>21</num>
+          <content eId="para_3476__content">
+            <p>As is apparent from paragraph 25 of the judgment under appeal, in the form of order sought in that action, the appellant claimed that the General Court should:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>annul the decision at issue in so far as it finds that the appellant participated in the refusal to pay commission, in so far as it finds that the start date of its infringement was 22 January 2001, and in so far as it finds that the `matters' relating to Hong Kong, Japan, India, Thailand, Singapore, Korea and Brazil infringed Article 101 TFEU, Article 53 of the Agreement on the European Economic Area of 2 May 1992 ( OJ 1994 L 1, p. 3) ( `the EEA Agreement') and Article 8 of the Agreement between the European Community and the Swiss Confederation on Air Transport signed at Luxembourg on 21 June 1999, approved on behalf of the Community by Decision 2002/309/EC, Euratom, of the Council and of the Commission as regards the Agreement on Scientific and Technological Cooperation of 4 April 2002 on the conclusion of seven Agreements with the Swiss Confederation ( OJ 2002 L 114, p. 1) ( `the EC-Swiss Agreement');</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>annul or substantially reduce the fine imposed on it by the decision at issue, and</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>order the Commission to pay the costs.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3477">
+          <num>22</num>
+          <content eId="para_3477__content">
+            <p>In support of its action, the appellant relied on seven pleas in law, alleging:</p>
+            <blockList>
+              <item>
+                <num>(i)</num>
+                <p>an error of assessment in so far as the Commission considered that it had participated in the refusal to pay commission;</p>
+              </item>
+              <item>
+                <num>(ii)</num>
+                <p>a lack of evidence regarding the starting date of the infringement;</p>
+              </item>
+              <item>
+                <num>(iii)</num>
+                <p>errors of fact and law or misuse of powers in connection with the examination of the involvement of certain regulatory authorities;</p>
+              </item>
+              <item>
+                <num>(iv)</num>
+                <p>the disproportionate and discriminatory nature of the basic percentage of the fine;</p>
+              </item>
+              <item>
+                <num>(v)</num>
+                <p>breach of the duty to state reasons and the principle of proportionality in so far as the Commission increased the fine when calculating it;</p>
+              </item>
+              <item>
+                <num>(vi)</num>
+                <p>infringement of the 2002 Leniency Notice in that the appellant did not obtain the greatest level of reduction for the fine; and</p>
+              </item>
+              <item>
+                <num>(vii)</num>
+                <p>breach of the principles of equal treatment and proportionality in so far as the Commission did not reduce the fine to reflect mitigating circumstances.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3478">
+          <num>23</num>
+          <content eId="para_3478__content">
+            <p>It is apparent from paragraphs 27 to 29 of the judgment under appeal that the General Court raised of its own motion a plea involving a matter of public policy, to the effect that the decision at issue was vitiated by a defective statement of reasons. In particular, as is clear from the file before the Court, by way of measures of organisation of procedure pursuant to Article 64 of the Rules of Procedure of the General Court of 2 May 1991, the latter put written questions to the parties to the proceedings, requesting them, inter alia, to submit their observations on the fact that the grounds of the decision at issue described a single and continuous infringement in which all the addressees of that decision participated, whereas the first four articles of the operative part of that decision did not refer to all those addressees.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3479">
+          <num>24</num>
+          <content eId="para_3479__content">
+            <p>In that regard, at the hearing before the General Court the appellant argued that, in the grounds of the decision at issue, the Commission referred to one single and continuous infringement of Article 101 TFEU, Article 53 of the EEA Agreement and Article 8 of the EC-Swiss Agreement. On the other hand, according to the operative part of that decision, that there had been a separate single and continuous infringement for each of those articles. The appellant maintained that, in view of that inconsistency between the grounds and the operative part of that decision, the latter was vitiated by a defective statement of reasons, which could be raised by the General Court of its own motion.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3480">
+          <num>25</num>
+          <content eId="para_3480__content">
+            <p>By the judgment under appeal, the General Court found that the decision at issue was vitiated by contradictions, first, between the grounds and the operative part of the decision and, second, as between the grounds themselves.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3481">
+          <num>26</num>
+          <content eId="para_3481__content">
+            <p>The General Court considered, in essence, that it fell to it to examine whether those contradictions were such as to infringe the appellant's rights of defence and prevent the General Court from exercising its power of review.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3482">
+          <num>27</num>
+          <content eId="para_3482__content">
+            <p>At the conclusion of that examination, the General Court came to the view that that was the case and found, accordingly, that the decision at issue was vitiated by a defective statement of reasons.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3483">
+          <num>28</num>
+          <content eId="para_3483__content">
+            <p>The General Court considered that that finding could not, however, lead to the complete annulment of the decision at issue, in so far as it concerned the appellant, on the basis that the annulment of that decision could not go beyond the form of order sought in its originating application.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3484">
+          <num>29</num>
+          <content eId="para_3484__content">
+            <p>Accordingly, without examining the pleas raised by the appellant in support of its action, the General Court decided to annul the decision at issue as a result of the defective statement of reasons established when examining the plea which it had raised of its own motion, in so far as, in that decision, `the Commission, first, considered that the applicant</p>
+            <blockList>
+              <item>
+                <num>(i)</num>
+                <p>participated in the refusal to pay commission,</p>
+              </item>
+              <item>
+                <num>(ii)</num>
+                <p>infringed Article 101 TFEU, Article 53 of the EEA Agreement and Article 8 of the [EC-Swiss Agreement] between 22 January 2001 and 1 October 2001, and</p>
+              </item>
+              <item>
+                <num>(iii)</num>
+                <p>participated in infringements of those provisions for freight services performed from Hong Kong (China), Japan, India, Thailand, Singapore, Korea and Brazil, and, secondly, imposed a fine on it'.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3485">
+          <num>30</num>
+          <content eId="para_3485__content">
+            <p>Furthermore, by judgments of 16 December 2015, Air Canada v Commission ( T‑9/11, not published, EU:T:2015:994), Koninklijke Luchtvaart Maatschappij v Commission ( T‑28/11, not published, EU:T:2015:995), Japan Airlines v Commission ( T‑36/11, not published, EU:T:2015:992), Cathay Pacific Airways v Commission ( T‑38/11, not published, EU:T:2015:985), Cargolux Airlines v Commission ( T‑39/11, not published, EU:T:2015:991), Latam Airlines Group and Lan Cargo v Commission ( T‑40/11, not published, EU:T:2015:986), Singapore Airlines and Singapore Airlines Cargo Pte v Commission ( T‑43/11, not published, EU:T:2015:989), Deutsche Lufthansa and Others v Commission ( T‑46/11, not published, EU:T:2015:987), SAS Cargo Group and Others v Commission ( T‑56/11, not published, EU:T:2015:990), Air France --KLM v Commission ( T‑62/11, not published, EU:T:2015:996), Air France v Commission ( T‑63/11, not published, EU:T:2015:993), and Martinair Holland v Commission ( T‑67/11, EU:T:2015:984), the General Court ruled on the actions brought by other carriers involved, which also sought to challenge the decision at issue.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Forms of order sought by the parties before the Court of Justice</p>
+        </tblock>
+        <paragraph eId="para_3486">
+          <num>31</num>
+          <content eId="para_3486__content">
+            <p>By its appeal, the appellant claims that the Court should;</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>set aside the judgment under appeal in so far as it limits the scope of the annulment of the decision at issue to the form of order sought by it in its action at first instance;</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>set aside paragraph 1 of the operative part of the judgment under appeal;</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>annul the decision at issue in its entirety, and</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>order the Commission to pay the costs of the present appeal.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3487">
+          <num>32</num>
+          <content eId="para_3487__content">
+            <p>The Commission contends that the Court should:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>dismiss the appeal, and</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>order the appellant to pay the costs.</p>
+                <tblock>
+                  <p>The appeal</p>
+                </tblock>
+                <tblock>
+                  <p>Admissibility Arguments of the parties</p>
+                </tblock>
+                <p>-- Admissibility of the appeal</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3488">
+          <num>33</num>
+          <content eId="para_3488__content">
+            <p>The Commission maintains that the appeal is manifestly inadmissible for two reasons.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3489">
+          <num>34</num>
+          <content eId="para_3489__content">
+            <p>In the first place, the appellant did not comply with the obligation laid down in Article 168(2) of the Court's Rules of Procedure, as the judgment under appeal was not appended to the appeal.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3490">
+          <num>35</num>
+          <content eId="para_3490__content">
+            <p>In the second place, the Commission contends that the appeal does not comply with Article 56 of the of the Statute of the Court of Justice of the European Union or with Articles 169 and 170 of the Court's Rules of Procedure, which, pursuant to Article 63 of the Statute, implement Article 56 of those rules.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3491">
+          <num>36</num>
+          <content eId="para_3491__content">
+            <p>As regards Article 169(1) of the Court's Rules of Procedure, the present appeal does not seek to have set aside the operative part of the judgment under appeal but, instead, seeks an order that the operative part be supplemented, by extending the partial annulment granted by the General Court to a full annulment. The appeal is therefore at odds with that provision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3492">
+          <num>37</num>
+          <content eId="para_3492__content">
+            <p>With regard to Article 170(1) of the Court's Rules of Procedure, that provision has been interpreted strictly by the Court. In the present case, as the appellant's request is broader than that made at first instance, it conflicts with that provision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3493">
+          <num>38</num>
+          <content eId="para_3493__content">
+            <p>Moreover, the appellant's reasoning is based on circular logic, in that it proceeds on the assumption that it is because, contrary to what it decided, the General Court was not constrained by the form of order sought by the appellant at first instance, that it must be permissible for the latter to appeal against the General Court's decision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3494">
+          <num>39</num>
+          <content eId="para_3494__content">
+            <p>Furthermore, the justification that the admissibility of the present appeal stems from the application of the principle of effective judicial protection, laid down in Article 47 of the Charter of Fundamental Rights of the European Union ( `the Charter'), again suggests that the General Court was not constrained by the form of order sought in the application at first instance. The argument that that provision confers on a litigant the absolute right to raise any new argument or modify its case at any stage of the proceedings is manifestly unfounded.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3495">
+          <num>40</num>
+          <content eId="para_3495__content">
+            <p>The appellant contends that its appeal is admissible.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3496">
+          <num>41</num>
+          <content eId="para_3496__content">
+            <p>As regards Article 170(1) of the Court's Rules of Procedure, the first sentence of that provision should be read in conjunction with the second, so that that provision is applicable only if the appellant does not seek the same form of order as that sought at first instance and the subject matter of the proceedings is thus changed.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3497">
+          <num>42</num>
+          <content eId="para_3497__content">
+            <p>With regard to Article 56 of the Statute of the Court of Justice of the European Union, the appellant argued inter alia, before the General Court, that the decision at issue was full of internal contradictions and contained defective reasoning. Such a finding should have led to the annulment of that decision in its entirety as regards the appellant. Accordingly, the appellant was challenging an aspect of the judgment under appeal which unquestionably formed part of the subject matter of the proceedings before the General Court and it was indeed unsuccessful in its submissions before the General Court, within the meaning of Article 56 of the Statute of the Court of Justice of the European Union. -- Admissibility of the reply</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3498">
+          <num>43</num>
+          <content eId="para_3498__content">
+            <p>The Commission submits that, in accordance with Article 127(1) of the Court's Rules of Procedure, applicable to the procedure on appeal by virtue of Article 190(1) thereof, the reply lodged by the appellant is manifestly inadmissible because, in that pleading, it raised new grounds of appeal.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3499">
+          <num>44</num>
+          <content eId="para_3499__content">
+            <p>The appellant claims, in the appeal, that the General Court erred in its application of the prohibition on ruling ultra petita, which implies that it accepts that the relief it was seeking was that set out in the form of order requested in its application at first instance. On the other hand, in its reply, instead of addressing the Commission's objection that the appeal is inadmissible, the appellant contends that the General Court erred in refusing to allow it to amend its application as to the relief sought. The appellant also fails to explain the reasons why it introduced that plea belatedly, in its reply, when the arguments put forward in the reply are not based on matters of law or of fact which came to light in the course of the written procedure.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3500">
+          <num>45</num>
+          <content eId="para_3500__content">
+            <p>The appellant disputes the Commission's argument that the reply is inadmissible.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Findings of the Court</p>
+        </tblock>
+        <paragraph eId="para_3501">
+          <num>46</num>
+          <content eId="para_3501__content">
+            <p>With regard to the admissibility of the appeal and, in the first place, the objection raised in that regard by the Commission to the effect that the appellant did not attach the judgment under appeal to the appeal, it should be noted that Article 122(1) of the Court's Rules of Procedure, applicable to the procedure on appeal by virtue of Article 168(2) thereof, provides that the application is to be accompanied, where appropriate, by the documents specified in the second paragraph of Article 21 of the Statute of the Court of Justice of the European Union, which states that `the [appeal] shall be accompanied, where appropriate, by the measure the annulment of which is sought ...'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3502">
+          <num>47</num>
+          <content eId="para_3502__content">
+            <p>It is true that, where an action is brought against a measure of a European Union institution, the measure must be attached to the application. However, as regards an appeal, Article 168(1)(b) of the Court's Rules of Procedure provides that the appeal is to contain a reference to the decision of the General Court appealed against, without requiring that that decision be attached to the appeal.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3503">
+          <num>48</num>
+          <content eId="para_3503__content">
+            <p>It must therefore be concluded that, since the Court's Rules of Procedure entered into force on 1 November 2012, in the case of an appeal there is no longer any requirement for the General Court's judgment that is being appealed against to be annexed to the appeal, a simple reference to that decision being sufficient.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3504">
+          <num>49</num>
+          <content eId="para_3504__content">
+            <p>In the present case, the fact that the judgment under appeal was not annexed to the appeal cannot be regarded as being such as to render the appeal inadmissible. The objection raised by the Commission in that regard must therefore be rejected.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3505">
+          <num>50</num>
+          <content eId="para_3505__content">
+            <p>With regard, in the second place, to the argument that the appeal does not comply with Article 169(1) of the Court's Rules of Procedure, that provision states that `an appeal shall have set aside, in whole or in part, the decision of the General Court as set out in the operative part of that decision'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3506">
+          <num>51</num>
+          <content eId="para_3506__content">
+            <p>It should be noted, as observed by the Advocate General in point 54 of his Opinion, that that provision encapsulates the basic principle applying to appeals, namely that an appeal must be directed against the operative part of the General Court's decision and may not merely seek the amendment of some of the grounds of that decision (see, to that effect, judgment of 15 November 2012, Al-Aqsa v Council and Netherlands v Al-Aqsa, C‑539/10 P and C‑550/10 P, EU:C:2012:711, paragraphs 43 to 45).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3507">
+          <num>52</num>
+          <content eId="para_3507__content">
+            <p>In the present case, the appellant has asked the Court to set aside the judgment under appeal, in particular paragraph 1 of the operative part, as the General Court declined to annul the decision at issue in its entirety in so far as it concerns the appellant. Accordingly, the appellant challenges the scope of the annulment granted by the General Court or, in other words, the legal consequences flowing, according to that court, from the breach of the duty to state reasons established by that court.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3508">
+          <num>53</num>
+          <content eId="para_3508__content">
+            <p>In those circumstances, it is clear that, by its appeal, the appellant is in fact seeking to have set aside part of the operative part of the judgment under appeal and the form of order sought in the appeal is, as a consequence, in conformity with Article 169(1) of the Court's Rules of Procedure.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3509">
+          <num>54</num>
+          <content eId="para_3509__content">
+            <p>In the third place, as regards the objection of inadmissibility raised by the Commission to the effect that the appeal does not comply with the second paragraph of Article 56 of the Statute of the Court of Justice of the European Union or with Article 170(1) of the Court's Rules of Procedure, it should be observed that the examination of that objection requires on the part of the Court an assessment of the scope of the terms `submissions' and `form of order sought' at first instance and `subject matter of the proceedings' before the General Court, within the meaning of those provisions.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3510">
+          <num>55</num>
+          <content eId="para_3510__content">
+            <p>In view of the fact that those objections of inadmissibility and the substantive pleas raised by the appellant are closely connected, it is appropriate to assess those pleas first.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3511">
+          <num>56</num>
+          <content eId="para_3511__content">
+            <p>Accordingly, and as the reply deals only with the admissibility of the appeal, it will also be appropriate, if necessary, to examine the objection that the reply is inadmissible after the examination of the substance.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Substance</p>
+        </tblock>
+        <paragraph eId="para_3512">
+          <num>57</num>
+          <content eId="para_3512__content">
+            <p>The appellant relies on two grounds of appeal, alleging that the General Court erred in law as a result of</p>
+            <blockList>
+              <item>
+                <num>(i)</num>
+                <p>its application of the prohibition on ruling ultra petita and</p>
+              </item>
+              <item>
+                <num>(ii)</num>
+                <p>an infringement of the right to an effective remedy enshrined in Article 47 of the Charter.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3513">
+          <num>58</num>
+          <content eId="para_3513__content">
+            <p>It is appropriate to examine those two grounds of appeal together.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Arguments of the parties</p>
+        </tblock>
+        <paragraph eId="para_3514">
+          <num>59</num>
+          <content eId="para_3514__content">
+            <p>By its first ground of appeal, the appellant submits that the General Court erred in law by taking refuge behind the prohibition on ruling ultra petita in order to limit the scope of the annulment it had decided to grant, even when it had of its own motion found there to be fundamental public policy defects which vitiated the decision at issue in its entirety.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3515">
+          <num>60</num>
+          <content eId="para_3515__content">
+            <p>The appellant accepts that, when hearing actions for annulment, the EU courts cannot rule ultra petita, which means that they may rule only on that which is specifically requested by the parties.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3516">
+          <num>61</num>
+          <content eId="para_3516__content">
+            <p>Nevertheless, there are a number of circumstances in which, in order to fulfil their task as guarantor of legality under the FEU Treaty, the EU courts may be required to raise an issue of law of their own motion and, as a result, rule on issues on which they had not specifically been asked to rule by the parties. In such cases, the defect which vitiates the contested measure will be sufficiently serious to justify an adverse finding by the EU courts, even though the defect was not raised by the applicant.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3517">
+          <num>62</num>
+          <content eId="para_3517__content">
+            <p>The EU courts, when hearing an action for annulment, cannot be criticised for going beyond the scope of the dispute, exceeding their jurisdiction, ruling ultra petita or infringing their Rules of Procedure where they raise of their own motion such a plea, which relates specifically to the lawfulness of the very measure they are being asked to annul.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3518">
+          <num>63</num>
+          <content eId="para_3518__content">
+            <p>By raising of its own motion a plea involving a matter of public policy, the General Court did not seek to remedy any inadequacy in the application or the parties' arguments but to ensure compliance with a rule which, because of its importance, is not subject to the discretion of the parties.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3519">
+          <num>64</num>
+          <content eId="para_3519__content">
+            <p>Where the EU courts raise of their own motion a plea involving a matter of public policy on the basis of a defective statement of reasons, that constitutes an exception to the prohibition on ruling ultra petita. That may be inferred in particular, a contrario, from paragraph 12 of the judgment of 28 June 1972, Jamet v Commission ( C‑37/71, EU:C:1972:57), in which the Court decided that, by annulling in its entirety the measure at issue in the case which gave rise to that judgment, it would be ruling ultra petita, given that the plea seeking the annulment of that measure did not relate to public policy.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3520">
+          <num>65</num>
+          <content eId="para_3520__content">
+            <p>According to the appellant, the General Court also erred by confusing the objectives which the prohibition on ruling ultra petita seeks to attain and the need to comply with the rules and principles governing public policy issues, which led it to raise of its own motion the defective reasoning affecting the decision at issue.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3521">
+          <num>66</num>
+          <content eId="para_3521__content">
+            <p>In the context of inter partes proceedings it is essential that the party initiating proceedings state the subject matter of the dispute and give a brief statement of its pleas in law and that the statement be sufficiently clear and precise as to enable the defendant to prepare its defence and the Court to exercise its power of review. It follows from paragraphs 122 and 123 of the judgment of 19 December 2013, Commission v Poland, ( C‑281/11, EU:C:2013:855), that the purpose of those requirements is to ensure that the Court does not rule ultra petita or indeed fail to rule on a complaint or otherwise fail to rule on the application. For the same reasons, the General Court was incorrect to consider, in paragraph 91 of the judgment under appeal, that Article 44(1) and Article 48(2) of the Rules of Procedure of the General Court of 2 May 1991 impose limits upon it, when those limits in fact relate to the applicant, not the General Court itself.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3522">
+          <num>67</num>
+          <content eId="para_3522__content">
+            <p>On the other hand, when they raise of their own motion a plea involving a matter of public policy, the EU courts are required to look beyond the pleas relied on by the parties in support of their claims and are, as a result, no longer constrained by the limits imposed on them by the need to comply with the prohibition on ruling ultra petita.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3523">
+          <num>68</num>
+          <content eId="para_3523__content">
+            <p>The appellant is of the view that it was illogical for the General Court to refer to the form of order it sought at first instance in support of its decision to annul the decision at issue only in part, on the basis that it was bound by the prohibition on ruling ultra petita.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3524">
+          <num>69</num>
+          <content eId="para_3524__content">
+            <p>First, the General Court ruled on the action solely on the basis of the plea involving a matter of public policy, which it raised of its own motion. The appellant states that it is difficult to understand why, subsequently, the General Court decided to have regard to the form of order sought in the application at first instance, when it did not rule on the pleas in law put forward in support of that form of order.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3525">
+          <num>70</num>
+          <content eId="para_3525__content">
+            <p>Second, the General Court's reasoning concerning the defective reasoning in the decision at issue was based in part, as is apparent from paragraphs 42 and 43 of the judgment under appeal, on the need to have regard to subsequent national proceedings for damages. However, the aggregate result of the General Court's judgments on the appellant's application and the applications of the other carriers at issue to annul that decision is to introduce an illogical distinction between the position of the appellant (which benefited only from partial annulment of the decision) and the position of those other carriers (which benefited from full annulment of the decision), notwithstanding the fact that the appellant and the other carriers were in precisely the same situation as regards the General Court's essential reasoning. That distinction is arbitrary as not all those other carriers raised, in their actions for annulment of the decision at issue, a plea alleging that the decision was vitiated by defective reasoning.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3526">
+          <num>71</num>
+          <content eId="para_3526__content">
+            <p>The appellant adds that the defective statement of reasons in the decision at issue, as criticised by the General Court in the judgment under appeal, gives rise to significant difficulties in national proceedings for damages. As the operative part of the judgment under appeal limits the scope of the annulment of the decision at issue, the decision still stands in part as against the appellant. As a result of the various defects in that decision -- which the General Court found to be sufficiently egregious to constitute violations of rules or principles of public policy -- the national courts may find it extremely difficult to clearly discern the delineation of responsibility between the appellant and other parties for any losses they find to have been caused by the conduct described in the decision. This may adversely affect the appellant and, potentially, other parties, including the persons seeking damages.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3527">
+          <num>72</num>
+          <content eId="para_3527__content">
+            <p>The appellant also contends that the General Court's approach is such as to raise concerns as regards the organisation of the administration of justice and judicial economy before the EU courts and the principle of proportionality. If that approach were endorsed, that would encourage applicants to seek unjustifiably broad forms of order in an effort to maximise their chances of obtaining a wider scope of annulment in the event that the EU courts might raise an issue of public policy of their own motion. That would mean that the EU courts alone were responsible for determining the precise scope of the annulment. In raising an issue of public policy of their own motion, the EU courts would typically not deal at all with the pleas raised by the applicants. It is therefore entirely possible that even a vexatious or manifestly weak application could -- on the General Court's approach in this case -- benefit from a full annulment simply because the applicant had asked for it originally.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3528">
+          <num>73</num>
+          <content eId="para_3528__content">
+            <p>The appellant contends that if, in a case in which issues relating to public policy rules and principles arise, the EU courts are at liberty to depart from the pleas put forward by the parties, they must, by extension, similarly be at liberty to depart from the form of order sought by the parties. That must necessarily be the case if the operative part of their decision is to remedy the breaches of public policy rules or principles identified. Any other interpretation would itself be contrary to public policy.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3529">
+          <num>74</num>
+          <content eId="para_3529__content">
+            <p>According to the appellant, it was incorrect for the General Court to state, in paragraph 90 of the judgment under appeal, that it is for the parties to apply to amend their pleas or the forms of order sought in the course of the proceedings once the General Court has raised a public policy issue of its own motion. That approach would once again place public policy issues solely in the hands of litigants. Respect for public policy issues raised of the General Court's own motion cannot be subjugated to the individual interests of inter partes litigants. Moreover, the General Court also stated, in paragraph 90 of the judgment under appeal, that it would in any event have refused permission to make such amendments even if the appellant had formally applied. On that basis, it would have been impossible for the public policy issues identified by the General Court to be reflected in the scope of the annulment granted in the operative part of the judgment under appeal.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3530">
+          <num>75</num>
+          <content eId="para_3530__content">
+            <p>By its second ground of appeal, the appellant submits that even if the prohibition on ruling ultra petita applied, the higher principle of effective judicial protection, enshrined in Article 47 of the Charter, would require the annulment of the contested decision in its entirety.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3531">
+          <num>76</num>
+          <content eId="para_3531__content">
+            <p>The appellant observes in that regard that, according to paragraph 59 of the judgment of the European Court of Human Rights of 27 September 2001, A. Menarini Diagnostics S.r.l. v. Italy(CE:ECHR:2011:0927JUD004350908), the power to quash in all respects, on questions of fact and law, the decision adopted by the lower body is one of the characteristics of a judicial body with full jurisdiction. Such a judicial body must in particular have jurisdiction to examine all questions of fact and law relevant to the dispute before it.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3532">
+          <num>77</num>
+          <content eId="para_3532__content">
+            <p>Furthermore, in paragraph 136 of its judgment of 8 December 2011, KME Germany and Others v Commission ( C‑389/10 P, EU:C:2011:816), the Court held that Article 47 of the Charter requires de facto a full and unrestricted review in law and in fact. It is apparent from paragraph 67 of the judgment of 8 December 2011, Chalkor v Commission ( C‑386/10 P, EU:C:2011:815), that such review includes the power to annul the contested decision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3533">
+          <num>78</num>
+          <content eId="para_3533__content">
+            <p>According to the appellant, the General Court's approach is all the more surprising as it had itself identified, in particular in paragraphs 76 and 79 to 81 of the judgment under appeal, a number of concrete ways in which its rights of defence had been infringed. Moreover, the decision at issue also violated such rights in other respects, not specifically mentioned in the judgment under appeal.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3534">
+          <num>79</num>
+          <content eId="para_3534__content">
+            <p>The Commission contends that, even if the appeal were found to be admissible, the two grounds of appeal are, in any event, unfounded.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Findings of the Court</p>
+        </tblock>
+        <paragraph eId="para_3535">
+          <num>80</num>
+          <content eId="para_3535__content">
+            <p>By its two grounds of appeal, the appellant takes issue with the General Court, in essence, for considering that, because of the prohibition on ruling ultra petita, it could not annul the decision at issue to an extent that went beyond the form of order sought by the appellant in its originating application, even though such an annulment was required to remedy the unlawfulness established by the General Court in its examination of the public policy issue which it had raised of its own motion.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3536">
+          <num>81</num>
+          <content eId="para_3536__content">
+            <p>It should be noted at the outset that, as the Court has held on many occasions, since the court reviewing the legality of an act cannot rule ultra petita, it cannot grant an annulment which goes beyond that sought by the applicant (see judgments of 19 January 2006, Comunità montana della Valnerina v Commission, C‑240/03 P, EU:C:2006:44, paragraph 43 and the case-law cited, and of 14 September 1999, Commission v AssiDomän Kraft Products and Others, C‑310/97 P, EU:C:1999:407, paragraph 52).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3537">
+          <num>82</num>
+          <content eId="para_3537__content">
+            <p>Moreover, although the authority of res judicata exerted by an annulling judgment of a court of the EU judicature attaches to both the operative part and the reasoning that constitutes the ratio decidendi of the judgment, it cannot entail annulment of an act not challenged before the EU judicature but alleged to be vitiated by the same illegality (judgment of 14 September 1999, Commission v AssiDomän Kraft Products and Others, C‑310/97 P, EU:C:1999:407, paragraph 54).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3538">
+          <num>83</num>
+          <content eId="para_3538__content">
+            <p>The Court has also consistently held that a decision which has not been challenged by the addressee within the time limits laid down by the sixth paragraph of Article 263 TFEU becomes definitive as against him (judgment of 14 September 1999, Commission v AssiDomän Kraft Products and Others, C‑310/97 P, EU:C:1999:407, paragraph 57 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3539">
+          <num>84</num>
+          <content eId="para_3539__content">
+            <p>That line of case-law is based in particular on the consideration that the purpose of having time limits for bringing legal proceedings is to ensure legal certainty by preventing EU measures which produce legal effects from being called into question indefinitely, as well as on the requirements of good administration of justice and procedural economy (judgment of 14 September 1999, Commission v AssiDomän Kraft Products and Others, C‑310/97 P, EU:C:1999:407, paragraph 61).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3540">
+          <num>85</num>
+          <content eId="para_3540__content">
+            <p>It follows from the above, as the Advocate General observed, in essence, in points 94 and 97 of his Opinion, that an act, or the parts of an act, concerning a person, which is not challenged before the courts of the EU judicature cannot be annulled by those courts and thus becomes final as regards that person.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3541">
+          <num>86</num>
+          <content eId="para_3541__content">
+            <p>It should also be noted that, in accordance with the first paragraph of Article 21 of the Statute of the Court of Justice of the European Union, Article 120(c) and (d) of the Court's Rules of Procedure and Article 44(1)(c) and (d) of the Rules of Procedure of the General Court of 2 May 1991, in direct actions before the EU courts, the application by which the action is brought must state, inter alia, the subject matter of the proceedings, a summary of the pleas in law relied on and the form of order sought by the applicant.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3542">
+          <num>87</num>
+          <content eId="para_3542__content">
+            <p>It follows, as the Advocate General observed in point 84 of his Opinion, that, under the system governing judicial review proceedings before the EU courts, it is the parties that take the initiative in pursuing the case and delimiting its subject matter, inter alia by identifying in the form of order sought the act, or part of the act, which they intend to submit to judicial review.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3543">
+          <num>88</num>
+          <content eId="para_3543__content">
+            <p>It is true that the Court has consistently held that the EU courts must raise of their own motion pleas involving matters of public policy (see, to that effect, inter alia, judgment of 2 December 2009, Commission v Ireland and Others, ( C‑89/08 P, EU:C:2009:742, paragraph 34 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3544">
+          <num>89</num>
+          <content eId="para_3544__content">
+            <p>Nonetheless, contrary to what is suggested by the appellant, the fact that the court reviewing legality has jurisdiction to raise of its own motion a plea involving matters of public policy does not mean that it has jurisdiction to amend of its own motion the form of order sought by an applicant. Indeed, as is apparent, inter alia, from the provisions referred to in paragraph 86 above, while the pleas constitute the essential basis of the form of order sought in an application, they are, nonetheless, necessarily separate from the form of order sought, which defines the limits of the dispute on which the EU courts are asked to rule.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3545">
+          <num>90</num>
+          <content eId="para_3545__content">
+            <p>As a consequence, while, as the Court has previously held, by raising of their own motion a plea involving matters of public policy which, a priori, has not been put forward by the parties, the EU courts do not go beyond the scope of the dispute that has been brought before them, or in any way infringe the rules of procedure relating to the presentation in the application of the subject matter of the dispute and the pleas in law (judgment of 2 December 2009, Commission v Ireland and Others, ( C‑89/08 P, EU:C:2009:742, paragraph 35), the position would be different if, following their substantive examination of the contested measure, those courts, on the basis of a plea raised of their own motion, were to annul a measure to an extent that went beyond the annulment sought in the form of order they were duly requested to make, on the ground that such an annulment was necessary to remedy the unlawfulness established of their own motion in carrying out their substantive analysis.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3546">
+          <num>91</num>
+          <content eId="para_3546__content">
+            <p>In the present case, as indicated in paragraphs 20 and 21 above, in the form of order set out in its originating application before the General Court, the appellant sought only a partial annulment of the decision at issue.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3547">
+          <num>92</num>
+          <content eId="para_3547__content">
+            <p>In those circumstances, it is clear that, in the light of the considerations set out in paragraphs 81 to 90 above, the General Court did not err in law in finding, in paragraph 92 of the judgment under appeal, that it could annul the decision at issue only within the limits defined by the form of order set out in the originating application or, therefore, in annulling that decision only in part, in paragraph 93 of that judgment, in accordance with those limits.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3548">
+          <num>93</num>
+          <content eId="para_3548__content">
+            <p>That conclusion cannot be called into question by the other arguments put forward by the appellant in support of its two grounds of appeal.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3549">
+          <num>94</num>
+          <content eId="para_3549__content">
+            <p>In particular, it is necessary to reject, in the first place, the argument, summarised in paragraph 66 above, that the General Court was incorrect to rely, in paragraph 91 of the judgment under appeal, on Article 44(1) and Article 48(2) of its Rules of Procedure of 2 May 1991. It is sufficient to note, in that connection, that the General Court relied on those provisions in its assessment, in paragraphs 90 and 91 of the judgment under appeal, of whether, even if the appellant had implicitly expressed an intention to amend the form of order it sought initially, such an amendment could be allowed. Accordingly, contrary to what is suggested by the appellant, the General Court did not disregard the fact that those provisions do not concern the circumstances in which the General Court might raise pleas of its own motion or even amend heads of claim on the same basis, but the procedural requirements binding upon applicants in actions before that court with regard to the content of the application.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3550">
+          <num>95</num>
+          <content eId="para_3550__content">
+            <p>As that argument is based on a misreading of the judgment under appeal, it must be rejected.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3551">
+          <num>96</num>
+          <content eId="para_3551__content">
+            <p>In the second place, it is necessary to reject the argument, summarised in paragraph 70 above, that the effect of the approach adopted by the General Court in the judgment under appeal was to create an illogical distinction between the appellant's position and that of the other carriers at issue who obtained a complete annulment of the decision at issue, in so far as it concerned them, even though they did not put forward, in their respective originating applications, a plea alleging a defective statement of reasons, such as that raised by the General Court of its own motion which led it to annul the decision at issue in its entirety.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3552">
+          <num>97</num>
+          <content eId="para_3552__content">
+            <p>It is common ground that, unlike those other carriers, the appellant sought, in its originating application, only a partial annulment of the decision at issue, in so far as that decision concerned it.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3553">
+          <num>98</num>
+          <content eId="para_3553__content">
+            <p>As a consequence, given that, as is apparent from paragraph 85 above, the parts of an act concerning a person which are not challenged before the EU courts cannot be annulled by those courts and thus become definitive as against that person, the General Court was correct not to treat in the same way the appellant and the carriers at issue which brought the actions referred to in paragraph 30 above, in view of the differences between them as regards the scope of the forms of order they sought at first instance.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3554">
+          <num>99</num>
+          <content eId="para_3554__content">
+            <p>Furthermore, in the light of the fact that, like the other carriers at issue, the appellant benefited from a plea raised by the General Court of its own motion, in so far as it sought judicial review of the decision at issue, it is incorrect in its claim that the approach adopted by the General Court in the judgment under appeal would deprive of its effectiveness the power enjoyed by the EU courts to raise of their own motion pleas involving matters of public policy in circumstances such as those of the present case. Indeed, it is apparent from a combined reading of paragraphs 27 to 94 of the judgment under appeal -- and is not contested in the present appeal -- that the annulment granted by the General Court in the judgment under appeal is based solely on that court's finding that the plea raised by it of its own motion was well founded, the pleas put forward by the appellant in the originating application not having been examined at all by that Court.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3555">
+          <num>100</num>
+          <content eId="para_3555__content">
+            <p>In the third place, with regard to the argument, referred to in paragraph 72 above, that the General Court's approach is at odds with the proper administration of justice, it is sufficient to note that considerations relating to procedural economy cannot, in any event, justify a failure on the part of an EU court to apply the prohibition on ruling ultra petita on the sole ground that its decision is based on a plea which it raised of its own motion.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3556">
+          <num>101</num>
+          <content eId="para_3556__content">
+            <p>In the fourth place, the argument, summarised in paragraphs 75 to 78 above, that the appellant's right to an effective remedy under Article 47 of the Charter would be infringed if the reasoning followed by the General Court were upheld cannot succeed.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3557">
+          <num>102</num>
+          <content eId="para_3557__content">
+            <p>Admittedly, it is apparent from paragraphs 76 to 86 of the judgment under appeal -- and is not disputed in this appeal -- that the defective reasoning identified by the General Court in that judgment undermined the appellant's rights of defence, in that it did not make it possible for it to understand, even though it had chosen to bring an action for annulment of the decision at issue before the General Court, the nature and extent of the infringement or infringements established in that decision, and that that defective reasoning prevented the General Court from exercising its power of review in relation to that decision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3558">
+          <num>103</num>
+          <content eId="para_3558__content">
+            <p>However, as the Court has previously held, the fact that the General Court declined to review of its own motion the whole of the contested decision does not contravene the principle of effective judicial protection (see, to that effect, judgment of 8 December 2011, Chalkor v Commission ( C‑386/10 P, EU:C:2011:815, paragraph 66).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3559">
+          <num>104</num>
+          <content eId="para_3559__content">
+            <p>Indeed, according to the Court's case-law, the judicial review provided for under Article 263 TFEU, together with the unlimited jurisdiction in respect of the amount of the fine provided for under Article 31 of Council Regulation (EC) No 1/2003 of 16 December 2002 on the implementation of the rules on competition laid down in Articles [101 and 102 TFEU] ( OJ 2003 L 1, p. 1), involves review by the EU courts of both the law and the facts, and means that they have the power to assess the evidence, to annul the contested decision and to alter the amount of a fine (see, to that effect, judgment of 8 December 2011, Chalkor v Commission ( C‑386/10 P, EU:C:2011:815, paragraph 67).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3560">
+          <num>105</num>
+          <content eId="para_3560__content">
+            <p>It follows, as observed by the Advocate General in point 142 of his Opinion, that the fact that the judicial review carried out by the EU courts is limited to the claims of the parties, as set out in the forms of order sought in their written pleadings, is not contrary to the principle of effective judicial protection, as that principle does not require those courts to extend their review to cover aspects of a decision that have not been put in issue in the dispute before them.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3561">
+          <num>106</num>
+          <content eId="para_3561__content">
+            <p>In particular, with regard to the circumstances of the present case, while, as is clear from paragraph 102 above, the defective reasoning established by the General Court in the judgment under appeal prevented the appellant from identifying other potential defects in the decision at issue, it is not disputed that that defective reasoning could have been identified by the appellant and that the appellant could therefore have relied on it in its application before the General Court and thus sought annulment of the decision at issue in its entirety, in so far as it concerned the appellant, as did some of the other carriers at issue, such as Air Canada in the case which gave rise to the judgment of 16 December 2015, Air Canada v Commission ( T‑9/10, not published, EU:T:2015:994).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3562">
+          <num>107</num>
+          <content eId="para_3562__content">
+            <p>Lastly, it is also necessary to reject the argument, set out in paragraph 71 above, that damages claims have been lodged at national level against the appellant on the basis of the decision at issue, which, as it is vitiated in its entirety, makes matters difficult for the national courts as regards the allocation of liability as between the appellant and the other parties for any damage which, in the view of those courts, was caused by the conduct at issue in that decision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3563">
+          <num>108</num>
+          <content eId="para_3563__content">
+            <p>In that regard, it is sufficient to note, as the Advocate General observed in point 129 of his Opinion, that the possible triggering of the liability of an applicant under national law for damage sustained as a result of its anticompetitive conduct cannot, of itself, have the effect of modifying the powers conferred on the EU courts by Article 263 TFEU.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3564">
+          <num>109</num>
+          <content eId="para_3564__content">
+            <p>In the light of the foregoing, both grounds of appeal are unfounded and must, therefore, be rejected.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3565">
+          <num>110</num>
+          <content eId="para_3565__content">
+            <p>Accordingly, there is no need to examine the Commission's arguments, set out in paragraphs 37 to 39 above, alleging that the appeal is inadmissible as it does not comply with the second paragraph of Article 56 of the Statute of the Court of Justice of the European Union or with Article 170(1) of the Court's Rules of Procedure. The same applies with regard to the objections concerning the admissibility of the reply.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3566">
+          <num>111</num>
+          <content eId="para_3566__content">
+            <p>For all the foregoing reasons, the appeal must be dismissed in its entirety.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_3567">
+          <num>112</num>
+          <content eId="para_3567__content">
+            <p>In accordance Article 184(2) of the Court's Rules of Procedure, where the appeal is unfounded, the Court is to make a decision as to costs. Under Article 138(1) of those rules, which apply to the procedure on appeal by virtue of Article 184(1) thereof, the unsuccessful party must be ordered to pay the costs if they have been applied for in the successful party's pleadings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3568">
+          <num>113</num>
+          <content eId="para_3568__content">
+            <p>Since the Commission has applied for costs and the appellant has been unsuccessful, the latter must be ordered to pay the costs relating to the appeal. On those grounds, the Court (Grand Chamber) hereby: 1. Dismisses the appeal; 2. Orders British Airways plc to pay the costs.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>Lenaerts Tizzano Silva de Lapuerta Ilešič Bay Larsen Malenovský Levits Juhász Borg Barthet Bonichot Biltgen Jürimäe Lycourgos Vilaras Regan Delivered in open court in Luxembourg on 14 November 2017. A. Calot Escobar Registrar K. Lenaerts President( *1)Language of the case: English.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

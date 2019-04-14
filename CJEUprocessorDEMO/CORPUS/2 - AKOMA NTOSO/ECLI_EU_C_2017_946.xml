@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Fifth Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>7 December 2017 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Social security for migrant workers -- Regulation (EEC) No 1408/71 -- Article 46(2) -- Article 47(1)(d) -- Article 50 -- Guaranteed pension -- Minimum benefit -- Calculation of pension entitlement) In Case C‑189/16, REQUEST for a preliminary ruling under Article 267 TFEU from the Högsta förvaltningsdomstolen (Supreme Administrative Court, Sweden), made by decision of 23 March 2016, received at the Court on 4 April 2016, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">Boguslawa Zaniewicz-Dybeck</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#">Pensionsmyndigheten</party>
+      </p>
+      <p>, THE COURT (Fifth Chamber), composed of J.L. da Cruz Vilaça, President of the Chamber, E. Levits, A. Borg Barthet, M. Berger and F. Biltgen (Rapporteur), Judges, Advocate General: M. Wathelet, Registrar: C. Strömholm, Administrator, having regard to the written procedure and further to the hearing on 9 March 2017, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>the Pensionsmyndigheten, by M. Westberg, M. Irving and A. Svärd, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Swedish Government, by A. Falk, C. Meyer-Seitz, U. Persson and L. Swedenborg, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Czech Government, by M. Smolek, J. Pavliš and J. Vláčil, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by K. Simonsson and D. Martin, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 3 May 2017,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_4901">
+          <num>1</num>
+          <content eId="para_4901__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Articles 46(2) and 47(1)(d) of Regulation (EEC) No 1408/71 of the Council of 14 June 1971 on the application of social security schemes to employed persons, to self-employed persons and to members of their families moving within the Community, as amended and updated by Council Regulation (EC) No 118/97 of 2 December 1996 ( OJ 1997 L 28, p. 1), as amended by Council Regulation (EC) No 1606/98 of 29 June 1998 ( OJ 1998 L 209, p. 1) ( `Regulation No 1408/71').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4902">
+          <num>2</num>
+          <content eId="para_4902__content">
+            <p>The request has been made in proceedings between Mrs Boguslawa Zaniewicz-Dybeck and the Pensionsmyndighete (Swedish Pensions Office) concerning the award of a guaranteed pension, as provided for under the Swedish state retirement scheme.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <paragraph eId="para_4903">
+          <num>3</num>
+          <content eId="para_4903__content">
+            <p>Under Title III, headed `Special provisions relating to the various categories of benefits', Chapter 3 of Regulation No 1408/71, headed `Old age and death (pensions)', contains Articles 44 to 51a of the regulation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4904">
+          <num>4</num>
+          <content eId="para_4904__content">
+            <p>Article 44 of that regulation, entitled `General provisions for the award of benefits where an employed or self-employed person has been subject to the legislation of two or more Member States', provides in paragraph 1 thereof as follows: `The rights to benefits of an employed or self-employed person who has been subject to the legislation of two or more Member States, or of his survivors, shall be determined in accordance with the provisions of this Chapter.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4905">
+          <num>5</num>
+          <content eId="para_4905__content">
+            <p>Article 45 of Regulation No 1408/71, entitled `Consideration of periods of insurance or of residence completed under the legislation to which an employed person or self-employed person was subject, for the acquisition, retention or recovery of the right to benefits', provides in paragraph 1 thereof as follows: `Where the legislation of a Member State makes the acquisition, retention or recovery of the right to benefits, under a scheme which is not a special scheme within the meaning of paragraph 2 or 3, subject to the completion of periods of insurance or of residence, the competent institution of that Member State shall take account, where necessary, of the periods of insurance or of residence completed under the legislation of any other Member State, be it under a general scheme or under a special scheme and either as an employed person or a self-employed person. For that purpose, it shall take account of these periods as if they had completed under its own legislation.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4906">
+          <num>6</num>
+          <content eId="para_4906__content">
+            <p>Article 46 of Regulation No 1408/71, headed `Award of benefits', provides as follows: `1.   Where the conditions required by the legislation of a Member State for entitlement to benefits have been satisfied without having to apply Article 45 or Article 40(3), the following rules shall apply:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>the competent institution shall calculate the amount of the benefit that would be due:</p>
+                <blockList>
+                  <item>
+                    <num>(i)</num>
+                    <p>on the one hand, only under the provisions of the legislation which it administers;</p>
+                  </item>
+                  <item>
+                    <num>(ii)</num>
+                    <p>on the other hand, pursuant to paragraph 2; ... 2.   Where the conditions required by the legislation of a Member State for entitlement to benefits are satisfied only after application of Article 45 and/or Article 40(3), the following rules shall apply:</p>
+                  </item>
+                </blockList>
+                <blockList>
+                  <item>
+                    <num>(a)</num>
+                    <p>the competent institution shall calculate the theoretical amount of the benefit to which the person concerned could lay claim provided all periods of insurance and/or of residence, which have been completed under the legislation of the Member States to which the employed person or self-employed person was subject, have been completed in the State in question under the legislation which it administers on the date of the award of the benefit. If, under this legislation, the amount of the benefit is independent of the duration of the periods completed, the amount shall be regarded as being the theoretical amount referred to in this paragraph;</p>
+                  </item>
+                  <item>
+                    <num>(b)</num>
+                    <p>the competent institution shall subsequently determine the actual amount of the benefit on the basis of the theoretical amount referred to in the preceding paragraph in accordance with the ratio of the duration of the periods of insurance or of residence completed before the materialisation of the risk under the legislation which it administers to the total duration of the periods of insurance and of residence completed before the materialisation of the risk under the legislation of all the Member States concerned. 3.   The person concerned shall be entitled to the highest amount calculated in accordance with paragraphs 1 and 2 from the competent institution of each Member State without prejudice to any application of the provisions concerning reduction, suspension or withdrawal provided for by the legislation under which this benefit is due. Where that is the case, the comparison to be carried out shall relate to the amounts determined after the application of the said provisions. ...'</p>
+                  </item>
+                </blockList>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4907">
+          <num>7</num>
+          <content eId="para_4907__content">
+            <p>Article 47 of Regulation No 1408/71, headed `Additional provisions for the calculation of benefits', is worded in paragraph 1(d) thereof as follows: `For the calculation of the theoretical and pro rata amounts referred to in Article 46(2), the following rules shall apply: ...</p>
+            <blockList>
+              <item>
+                <num>(d)</num>
+                <p>where, under the legislation of a Member State, benefits are calculated on the basis of the amount of earnings, contributions or increases, the competent institution of the State shall determine the earnings, contributions and increases to be taken into account in respect of the periods of insurance or residence completed under the legislation of other Member States on the basis of the average earnings, contributions or increases recorded in respect of the periods of insurance completed under the legislation which it administers; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4908">
+          <num>8</num>
+          <content eId="para_4908__content">
+            <p>Article 50 of Regulation No 1408/71, headed `Award of a supplement where the total of benefits payable under the legislation of the various Member States does not amount to the minimum laid down by the legislation of the State in whose territory the recipient resides', states as follows: `A recipient of benefits to whom [Chapter 3 of Regulation No 1408/71] applies may not, in the State in whose territory he resides and under whose legislation a benefit is payable to him, be awarded a benefit which is less than the minimum benefit fixed by that legislation for a period of insurance or residence equal to all the periods of insurance or residence taken into account for the payment in accordance with the preceding Articles. The competent institution of that State shall, if necessary, pay him throughout the period of his residence in its territory a supplement equal to the difference between the total of the benefits payable under [Chapter 3 of Regulation No 1408/71] and the amount of the minimum benefit.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Swedish law</p>
+        </tblock>
+        <paragraph eId="para_4909">
+          <num>9</num>
+          <content eId="para_4909__content">
+            <p>Under the Swedish state pension system, the retirement pension is made up of three parts, namely the graduated pension, the supplementary pension and the guaranteed pension.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4910">
+          <num>10</num>
+          <content eId="para_4910__content">
+            <p>Graduated and supplementary pensions are based on the income received by the person concerned. The former is based on acquired pension rights and the latter forms part of the pensions system applicable in Sweden before 2003 and applies to persons born in or before 1953. Both pensions are essentially contribution-based benefits.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4911">
+          <num>11</num>
+          <content eId="para_4911__content">
+            <p>On the other hand, the guaranteed pension, the purpose of which is to provide basic protection for persons with little or no income, is a tax-funded residence-based benefit. It was introduced by changes to the Swedish system during the 1990s and replaced the national old-age pension.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4912">
+          <num>12</num>
+          <content eId="para_4912__content">
+            <p>The amount payable by way of guaranteed pension is fixed on the basis of the amount received under other retirement pensions by the person concerned. There is a stepped reduction by reference to the graduated pension, the supplementary pension and certain other benefits.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4913">
+          <num>13</num>
+          <content eId="para_4913__content">
+            <p>The relevant national provisions relating to the guaranteed pension for the purposes of the main proceedings are those in the lagen (1998:702) om garantipension (Law No 702 of 1998 concerning the guaranteed pension), which was replaced by the socialförsäkringsbalken (2010:110) (the 2010 Social Security Code) ( `SFB').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4914">
+          <num>14</num>
+          <content eId="para_4914__content">
+            <p>Pursuant to Paragraphs 8 and 10 of Chapter 55 SFB, the guaranteed pension constitutes the basic form of cover under the Swedish state retirement pension system. It depends on the insurance period and may be granted to persons who do not have any income-based retirement pension or whose pension does not exceed a certain amount.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4915">
+          <num>15</num>
+          <content eId="para_4915__content">
+            <p>Paragraph 2 of Chapter 67 SFB provides that the guaranteed pension may be claimed by an insured person born in or after 1938 if he or she has completed an insurance period of at least three years.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4916">
+          <num>16</num>
+          <content eId="para_4916__content">
+            <p>Under Paragraph 4 of Chapter 67 SFB, the guaranteed pension may be drawn at the earliest in the month in which the insured person reaches the age of 65 years.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4917">
+          <num>17</num>
+          <content eId="para_4917__content">
+            <p>Paragraph 11 of Chapter 67 SFB states that, for the purpose of calculating the insurance period, account is taken only of the period from the calendar year in which the person concerned reached 16 years of age to the calendar year in which he or she reached 64 years of age.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4918">
+          <num>18</num>
+          <content eId="para_4918__content">
+            <p>Pursuant to Paragraph 15 of Chapter 67 SFB, the income-based retirement pension to which the insured person is entitled for that period forms the basis of calculation of the guaranteed pension.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4919">
+          <num>19</num>
+          <content eId="para_4919__content">
+            <p>Paragraph 16 of Chapter 67 SFB defines `income-based retirement pension', for the purposes of Paragraph 15 of that chapter, as an income-based retirement pension in accordance with the SFB before the reductions set out in certain paragraphs of the code are applied, and obligatory retirement pensions under the legislation of other States which cannot be equated to the guaranteed pension under the SFB.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4920">
+          <num>20</num>
+          <content eId="para_4920__content">
+            <p>The basic amount, which serves as the basis of calculation for certain social benefits, including the guaranteed pension, is defined in Paragraph 7 of Chapter 2 SFB. That amount is index-linked to general price levels. During the material year in the main proceedings, the basic amount was 39400 Swedish krone (SEK) (approximately EUR 4137).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4921">
+          <num>21</num>
+          <content eId="para_4921__content">
+            <p>Under Paragraph 23 of Chapter 67 SFB, for married persons for whom the basis of calculation for the guaranteed pension is not greater than 1.14 times the basic amount, the guaranteed pension is 1.9 times the basic amount, less the basis of calculation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4922">
+          <num>22</num>
+          <content eId="para_4922__content">
+            <p>Paragraph 24 of Chapter 67 SFB provides that, for married persons for whom the basis of calculation is greater than 1.14 times the basic amount, the annual guaranteed pension is 0.76 times the basic amount, less 48% of that part of the basis of calculation which exceeds 1.14 times the basic amount.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4923">
+          <num>23</num>
+          <content eId="para_4923__content">
+            <p>Paragraph 25 of Chapter 67 SFB provides that, for persons who have not completed an insurance period spanning 40 years, all the sums relating to the basic amount set out in Paragraphs 21 to 24 of that chapter are to be reduced on a pro rata basis by a percentage corresponding to the quotient of the insurance period divided by 40.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4924">
+          <num>24</num>
+          <content eId="para_4924__content">
+            <p>Internal instructions 2007/2 of the Försäkringskassan (National Insurance Fund, Sweden) ( `the instructions') provide that, for the purpose of the pro rata calculation of the guaranteed pension provided for in Paragraph 25 of Chapter 67 SFB, in order to calculate the theoretical amount provided for in Article 46(2)(a) of Regulation No 1408/71, each insurance period completed in other Member States must be given a fictitious pension value corresponding to the average pensionable value of the insurance periods completed in Sweden.</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_4925">
+          <num>25</num>
+          <content eId="para_4925__content">
+            <p>Mrs Zaniewicz-Dybeck, a Polish national, was born in 1940 and left Poland to settle in Sweden in 1980. After working in Poland for 19 years, she lived in Sweden for 24 years and worked there for 23 years.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4926">
+          <num>26</num>
+          <content eId="para_4926__content">
+            <p>In 2005, Mrs Zaniewicz-Dybeck applied for a guaranteed pension, which was refused by the National Insurance Fund.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4927">
+          <num>27</num>
+          <content eId="para_4927__content">
+            <p>By decision of 1 September 2008, the National Insurance Fund confirmed its decision, rejecting Mrs Zaniewicz-Dybeck's objection.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4928">
+          <num>28</num>
+          <content eId="para_4928__content">
+            <p>As Mrs Zaniewicz-Dybeck had completed insurance periods in both Sweden and Poland, the National Insurance Fund calculated her guaranteed pension, under Regulation No 1408/71, on the one hand, on the basis of national provision and, on the other hand, in accordance with the pro rata calculation principle set out in Article 46(2) of that regulation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4929">
+          <num>29</num>
+          <content eId="para_4929__content">
+            <p>In calculating Mrs Zaniewicz-Dybeck's guaranteed pension in accordance with national provisions, the National Insurance Fund determined the basis of calculation of that pension by carrying out a pro rata calculation, in accordance with Paragraph 25 of Chapter 67 SFB and the instructions. Moreover, when calculating the basic amount for the purpose of Article 46(2)(a) of Regulation No 1408/71, it did not take account of the income-based retirement pension acquired by Mrs Zaniewicz-Dybeck in Poland, but attributed to the income-based pension acquired by her in Sweden, amounting to SEK 75216 (approximately EUR 7897) for 24 insurance years, an annual value of SEK 3134 (approximately EUR 329), that is, SEK 75216 divided by 24, then multiplied that amount by the maximum insurance period for the guaranteed pension, namely 40 years. She thus obtained a fictitious pension value of SEK 125360 (approximately EUR 13162).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4930">
+          <num>30</num>
+          <content eId="para_4930__content">
+            <p>In the light of the results obtained, the National Insurance Fund took the view that the income-based retirement pensions -- which, in accordance with Paragraph 15 of Chapter 67 SFB, constitute the basis on which the guaranteed pension is calculated -- received by Mrs Zaniewicz-Dybeck were above the income ceiling for the award of a guaranteed pension.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4931">
+          <num>31</num>
+          <content eId="para_4931__content">
+            <p>After unsuccessfully challenging that decision before the Förvaltningsrätten i Stockholm (Administrative Court, Stockholm, Sweden) and subsequently the Kammarrätten i Stockholm (Administrative Court of Appeal, Stockholm, Sweden), Mrs Zaniewicz-Dybeck brought proceedings before the Högsta förvaltningsdomstolen (Supreme Administrative Court, Sweden).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4932">
+          <num>32</num>
+          <content eId="para_4932__content">
+            <p>Mrs Zaniewicz-Dybeck contends that the theoretical amount of the guaranteed pension must be calculated, in accordance with Regulation No 1408/71, without applying either</p>
+            <blockList>
+              <item>
+                <num>(i)</num>
+                <p>Article 47(1)(d) of that regulation, as the guaranteed pension is based solely on the length of the insurance periods, after deducting the income-based pension earned in Sweden, or</p>
+              </item>
+              <item>
+                <num>(ii)</num>
+                <p>the instructions, as they place at a disadvantage migrant workers in receipt of a small income-based pension from another Member State.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4933">
+          <num>33</num>
+          <content eId="para_4933__content">
+            <p>According to the Pensions Authority, which, on 1 January 2010, replaced the National Insurance Fund, insurance periods completed in a Member State other than the Kingdom of Sweden give rise to entitlement to a pension from that other Member State. However, as the guaranteed pension is complementary in nature, the effect of calculating that pension without applying Article 47(1)(d) of Regulation No 1408/71 would be that any person concerned who has completed insurance periods in a Member State other than the Kingdom of Sweden would be overcompensated. If an average pension value were not attributed to insurance periods completed in a Member State other than the Kingdom of Sweden, that would result in those periods being given a lower value than the corresponding value for the same periods completed in the Kingdom of Sweden.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4934">
+          <num>34</num>
+          <content eId="para_4934__content">
+            <p>The referring court emphasises the fact that, when the competent institution, that is, the National Insurance Fund or the Pensions Authority, calculates the guaranteed pension under Article 46(2)(a) of Regulation No 1408/71, it attributes to each insurance period completed by the worker in a Member State other than the Kingdom of Sweden a fictitious pension value corresponding to the average pension value of the insurance periods completed in Sweden, which is deducted from the guaranteed pension, irrespective of whether or not the person concerned worked during that period. If the person concerned worked during that period and, as a consequence, was entitled to a pension with a value greater than that of the fictitious pension calculated by the competent institution, he will be placed in an advantageous position. On the other hand, if the person concerned did not work in the other Member State or acquired a pension with a value below that of the fictitious pension calculated by the competent institution, he will be placed in a disadvantageous position.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4935">
+          <num>35</num>
+          <content eId="para_4935__content">
+            <p>In view of the foregoing considerations, the referring court considers that there is some uncertainty as to how the guaranteed pension is to be calculated. In particular, it is uncertain whether, when calculating such a pension, it is necessary to apply Article 46(2) and Article 47(1)(d) of Regulation No 1408/71 and, if so, whether, under those provisions, it is possible, for the purpose of determining the basis of calculation of such a pension, to attribute to insurance periods completed in a Member State other than the Kingdom of Sweden a fictitious pension value corresponding to the average value of the periods completed in Sweden. If that is not the case, the referring court asks whether it is necessary, for the purpose of calculating the guaranteed pension, to take account of retirement pensions received by the person concerned in other Member States.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4936">
+          <num>36</num>
+          <content eId="para_4936__content">
+            <p>In those circumstances, the Högsta förvaltningsdomstolen (Supreme Administrative Court), decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Do the provisions in Article 47(1)(d) of Regulation No 1408/71 mean that, in calculating the Swedish guaranteed pension, insurance periods completed in another Member State can be given a pensionable value which corresponds to the average value of the periods completed in Sweden where the competent institution undertakes a pro rata calculation in accordance with Article 46(2) of that regulation?</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>If question 1 is answered in the negative, may the competent institution, in its calculation of the entitlement to a guaranteed pension, take account of pension income which an insured person receives in another Member State, without that running counter to the provisions of Regulation No 1408/71?'</p>
+                <tblock>
+                  <p>Consideration of the questions referred</p>
+                </tblock>
+                <tblock>
+                  <p>The first question</p>
+                </tblock>
+                <p>37 By its first question, the referring court seeks to ascertain, in essence, whether Regulation No 1408/71 is to be interpreted as meaning that, when the competent institution of a Member State calculates a benefit such as the guaranteed pension at issue in the main proceedings, it is necessary to apply the pro rata method of calculation provided for in Article 46(2) of the regulation and, in accordance with Article 47(1)(d) thereof, to give insurance periods completed by the person concerned in another Member State a fictitious average value.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4937">
+          <num>38</num>
+          <content eId="para_4937__content">
+            <p>For the purpose of providing a useful answer to the national court, it should be noted, first, that Regulation No 1408/71 does not set up a common scheme of social security, but allows different national social security schemes to exist, its sole objective being to ensure the coordination of those schemes. Thus, according to settled case-law, Member States retain the power to organise their own social security schemes (see, inter alia, judgment of 21 February 2013, Salgado González, C‑282/11, EU:C:2013:86, paragraph 35 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4938">
+          <num>39</num>
+          <content eId="para_4938__content">
+            <p>Therefore, in the absence of harmonisation at EU level, it is for the legislation of each Member State to determine, in particular, the conditions for entitlement to benefits (judgment of 21 February 2013, Salgado González, C‑282/11, EU:C:2013:86, paragraph 36 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4939">
+          <num>40</num>
+          <content eId="para_4939__content">
+            <p>In exercising those powers, Member States must nonetheless comply with EU law and, in particular, with the provisions of the FEU Treaty giving every citizen of the Union the right to move and reside within the territory of the Member States (judgment of 21 February 2013, Salgado González, C‑282/11, EU:C:2013:86, paragraph 37 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4940">
+          <num>41</num>
+          <content eId="para_4940__content">
+            <p>It should be noted in that regard that Article 45 of Regulation No 1408/71 provides that where the legislation of a Member State makes the acquisition, retention or recovery of the right to benefits subject to the completion of periods of insurance, the competent institution of that Member State is to take account of the periods of insurance completed under the legislation of any other Member State as if they had been completed under the legislation which it administers. In other words, the periods of insurance completed in various Member States must be aggregated.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4941">
+          <num>42</num>
+          <content eId="para_4941__content">
+            <p>In such a case, Article 46(2)(a) of Regulation No 1408/71 provides that the competent institution is to calculate the theoretical amount of the benefit to which the person concerned is entitled as if all the periods of work which that person completed in various Member States had been completed in the Member State of the competent institution. The competent institution is then required, pursuant to Article 46(2)(b) of the regulation, to determine the actual amount of the benefit on the basis of the theoretical amount, in accordance with the ratio of the duration of the periods of insurance and/or residence completed in the Member State of the competent institution to the total duration of the periods of insurance and/or residence completed in the various Member States -- in other words, the pro rata method of calculation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4942">
+          <num>43</num>
+          <content eId="para_4942__content">
+            <p>Article 47 of Regulation No 1408/71 lays down additional provisions for the calculation of the theoretical and pro rata amounts referred to in Article 46(2) of the regulation. Thus, Article 47(1)(d) of the regulation states, in particular, that where, under the legislation of a Member State, benefits are calculated on the basis of the amount of earnings, contributions or increases, the competent institution of the State is to determine the earnings, contributions or increases to be taken into account in respect of the periods of insurance or residence completed under the legislation of other Member States on the basis of the average earnings, contributions or increases recorded in respect of the periods of insurance completed under the legislation which it administers.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4943">
+          <num>44</num>
+          <content eId="para_4943__content">
+            <p>In the present case, it should be noted that, at the hearing, the Swedish Government itself recognised that the purpose of the guaranteed pension is to provide those in receipt of such a pension with a reasonable standard of living by guaranteeing them a minimum income in excess of the amount they would receive if they drew only an income-based retirement pension, where that amount is too small or even nil. The guaranteed pension therefore constitutes the basic form of cover under the Swedish state retirement pension system.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4944">
+          <num>45</num>
+          <content eId="para_4944__content">
+            <p>In that regard, the Court held, in paragraph 15 of the judgment of 17 December 1981, Browning ( 22/81, EU:C:1981:316), that there is a `minimum benefit' within the meaning of Article 50 of Regulation No 1408/71 where the legislation of the Member State of residence includes a specific guarantee the object of which is to ensure for recipients of social security benefits a minimum income which is in excess of the amount of benefit which they may claim solely on the basis of their periods of insurance and their contributions.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4945">
+          <num>46</num>
+          <content eId="para_4945__content">
+            <p>It is therefore clear that, in view of its purpose, as described in paragraph 44 above, the guaranteed pension at issue in the main proceedings constitutes a minimum benefit that falls within Article 50 of Regulation No 1408/71.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4946">
+          <num>47</num>
+          <content eId="para_4946__content">
+            <p>As the Advocate General observed in point 47 of his Opinion, since Regulation No 1408/71 does not require Member States to provide minimum benefits and not all national legislation therefore necessarily makes provision for that kind of benefit, Article 46(2) of that regulation cannot impose specific detailed rules for the calculation of such a benefit.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4947">
+          <num>48</num>
+          <content eId="para_4947__content">
+            <p>Consequently, the right to a minimum benefit, such as the guaranteed pension at issue in the main proceedings, must be evaluated not on the basis of Article 46(2) or Article 47(1)(d) of Regulation No 1408/71, but by reference to the specific rules laid down in Article 50 of that regulation and the relevant national legislation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4948">
+          <num>49</num>
+          <content eId="para_4948__content">
+            <p>It is apparent from the summary of the facts of the main proceedings in paragraph 29 above that, in order to calculate whether Mrs Zaniewicz-Dybeck was entitled to a guaranteed pension, the competent institution, first, applied, in accordance with Paragraph 25 of Chapter 67 SFB, to the amount to which she was entitled by way of graduated pension and supplementary pension, which form the basis of the calculation of the guaranteed pension, a pro rata method of calculation, which, as observed by the Advocate General, in essence, in points 45 and 46 of his Opinion, is similar to the method set out in Article 46(2)(a) and (b) of Regulation No 1408/71. Second, when carrying out the pro rata calculation required under Article 46(2) of the regulation, the competent institution, following the instructions, did not take account of the retirement pensions received by Mrs Zaniewicz-Dybeck in Poland but, as provided for in Article 47(1)(d) of the regulation, attributed an annual value to the income-based pension acquired by her in Sweden and then multiplied that amount by the maximum insurance period for the guaranteed pension, namely 40 years. It is clear from the order for reference that the result obtained by the calculation method described above was in excess of the income ceiling for the award of a guaranteed pension.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4949">
+          <num>50</num>
+          <content eId="para_4949__content">
+            <p>As is apparent from paragraph 48 above, such a method of calculation, based on Article 46(2) and Article 47(1)(d) of Regulation No 1408/71, is not permissible for the purpose of calculating a minimum benefit, such as the guaranteed pension at issue in the main proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4950">
+          <num>51</num>
+          <content eId="para_4950__content">
+            <p>The competent institution is required to calculate the guaranteed pension in accordance with Article 50 of Regulation No 1408/71, in conjunction with the provisions of national legislation, with the exception of Paragraph 25 of Chapter 67 SFB and the instructions.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4951">
+          <num>52</num>
+          <content eId="para_4951__content">
+            <p>The answer to the first question is therefore that Regulation No 1408/71 is to be interpreted as meaning that, when the competent institution of a Member State calculates a minimum benefit, such as the guaranteed pension at issue in the main proceedings, it is inappropriate to apply Article 46(2) or Article 47(1)(d) of the regulation. Such a benefit must be calculated in accordance with Article 50 of the regulation, in conjunction with the provisions of national law, without, however, applying national provisions, such as those in the main proceedings, providing for a pro rata calculation.</p>
+            <tblock>
+              <p>The second question</p>
+            </tblock>
+            <p>53 By its second question, the referring court seeks to ascertain, in essence, whether Regulation No 1408/71 is to be interpreted as precluding the legislation of a Member State under which, when calculating a benefit such as the guaranteed pension at issue in the main proceedings, the competent institution must take account of all the retirement pensions which the person concerned actually receives from one or more other Member States.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4952">
+          <num>54</num>
+          <content eId="para_4952__content">
+            <p>As is apparent from the answer to the first question, a minimum benefit such as the guaranteed pension at issue in the main proceedings must be calculated in accordance with Article 50 of Regulation No 1408/71 and the relevant national legislation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4953">
+          <num>55</num>
+          <content eId="para_4953__content">
+            <p>It is expressly stated in the national provisions concerning the guaranteed pension in the SFB, as set out, in particular, in paragraph 19 above, that obligatory retirement pensions under the legislation of other Member States which cannot to be equated to the guaranteed pension are to be included in the basis for the calculation of the guaranteed pension. It is therefore clear that, under the applicable national legislation, the competent institution of the Member State concerned must, when calculating the guaranteed pension, take account of retirement pensions received by the person concerned in other Member States.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4954">
+          <num>56</num>
+          <content eId="para_4954__content">
+            <p>Accordingly, it is necessary to determine whether Regulation No 1408/71, in particular Article 50 thereof, precludes the legislation of a Member State under which, when calculating whether a person is entitled to a minimum benefit, such as the guaranteed pension at issue in the main proceedings, the competent institution must take account of retirement pensions which the person concerned receives from another Member State.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4955">
+          <num>57</num>
+          <content eId="para_4955__content">
+            <p>It should be noted in that regard that it is established case-law that Article 50 of Regulation No 1408/71 covers cases where the periods of employment of the worker under the legislation of the States to which he was subject were relatively short, with the result that the total amount of benefits payable by those States does not provide a reasonable standard of living (judgments of 30 November 1977, Torri, 64/77, EU:C:1977:197, paragraph 5, and of 17 December 1981, Browning, 22/81, EU:C:1981:316, paragraph 12).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4956">
+          <num>58</num>
+          <content eId="para_4956__content">
+            <p>In order to remedy that situation, Article 50 of Regulation No 1408/71 provides that where the legislation of the State of residence makes provision for a minimum benefit, the benefit payable by that State will be increased by a supplement equal to the difference between the total benefits payable by the various Member States to whose legislation the worker was subject and that minimum benefit (judgment of 30 November 1977, Torri, 64/77, EU:C:1977:197, paragraph 6).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4957">
+          <num>59</num>
+          <content eId="para_4957__content">
+            <p>It follows, as the Advocate General observed in point 59 of his Opinion, that, for the purpose of calculating whether a person is entitled to a minimum benefit such as the guaranteed pension at issue in the main proceedings, Article 50 of Regulation No 1408/71 specifically provides that the actual amount of retirement pensions received by the person concerned from another Member State is to be taken into account.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4958">
+          <num>60</num>
+          <content eId="para_4958__content">
+            <p>Accordingly, the answer to the second question is that Regulation No 1408/71, in particular Article 50 thereof, is to be interpreted as not precluding the legislation of a Member State under which, when calculating a minimum benefit such as the guaranteed pension at issue in the main proceedings, the competent institution must take account of all the retirement pensions which the person concerned actually receives from one or more other Member States.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_4959">
+          <num>61</num>
+          <content eId="para_4959__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Fifth Chamber) hereby rules: 1. Regulation (EEC) No 1408/71 of the Council of 14 June 1971 on the application of social security schemes to employed persons, to self-employed persons and to members of their families moving within the Community, as amended and updated by Council Regulation (EC) No 118/97 of 2 December 1996, as amended by Council Regulation (EC) No 1606/98 of 29 June 1998, is to be interpreted as meaning that, when the competent institution of a Member State calculates a minimum benefit, such as the guaranteed pension at issue in the main proceedings, it is not inappropriate to apply Article 46(2) or Article 47(1)(d) of the regulation. Such a benefit must be calculated in accordance with Article 50 of the regulation, in conjunction with the provisions of national law, without, however, applying national provisions, such as those in the main proceedings, providing for a pro rata calculation. 2. Regulation No 1408/71, as amended and updated by Regulation No 118/97, as amended by Regulation No 1606/98, and in particular Article 50 of that regulation, is to be interpreted as not precluding the legislation of a Member State under which, when calculating a minimum benefit such as the guaranteed pension at issue in the main proceedings, the competent institution must take account of all the retirement pensions which the person concerned actually receives from one or more other Member States.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Swedish.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

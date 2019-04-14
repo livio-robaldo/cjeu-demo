@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Fifth Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>29 November 2017 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Protection of the safety and health of workers -- Directive 2003/88/EC -- Organisation of working time -- Article 7 -- Allowance in lieu of annual leave paid on termination of the employment relationship -- National legislation requiring a worker to take his annual leave without the remuneration in respect of that leave being established) In Case C‑214/16, REQUEST for a preliminary ruling under Article 267 TFEU, from the Court of Appeal (England &amp; Wales) (Civil Division), made by decision of 30 March 2016, received at the Court on 18 April 2016, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">Conley King</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#">The Sash Window Workshop Ltd</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="respondent" refersTo="#">Richard Dollar</party>
+      </p>
+      <p>, THE COURT (Fifth Chamber), composed of J.L. da Cruz Vilaça, President of the Chamber, E. Levits (Rapporteur), A. Borg Barthet, M. Berger, and F. Biltgen, Judges, Advocate General: E. Tanchev, Registrar: C. Strömholm, Administrator, having regard to the written procedure and further to the hearing on 29 March 2017, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>Mr King, by C. Gilroy-Scott, Solicitor, A. Dashwood QC and J. Williams, Barrister,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>The Sash Window Workshop Ltd and Mr Dollar, by M. Pilgerstorfer, Barrister, instructed by J. Potts, Solicitor,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the United Kingdom Government, by S. Simmons, acting as Agent, and by C. Banner, Barrister,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by M. van Beek and J. Tomkin, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 8 June 2017,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_4479">
+          <num>1</num>
+          <content eId="para_4479__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Article 7 of Directive 2003/88/EC of the European Parliament and of the Council of 4 November 2003 concerning certain aspects of the organisation of working time ( OJ 2003 L 299, p. 9).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4480">
+          <num>2</num>
+          <content eId="para_4480__content">
+            <p>The request has been made in proceedings between, on the one hand, Mr Conley King and, on the other hand, his former employer, The Sash Window Workshop, and Mr Dollar ( `Sash WW'), concerning Mr King's request for an allowance in lieu of annual leave not taken for the years 1999 to 2012.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>Convention No 132 of the International Labour Organisation</p>
+        </tblock>
+        <paragraph eId="para_4481">
+          <num>3</num>
+          <content eId="para_4481__content">
+            <p>Article 9(1) of Convention No 132 of the International Labour Organisation of 24 June 1970 concerning Annual Holidays with Pay (revised) states: `The uninterrupted part of the annual holiday with pay referred to in Article 8, paragraph 2 of this Convention shall be granted and taken no later than one year, and the remainder of the annual holiday with pay no later than eighteen months, from the end of the year in respect of which the holiday entitlement has arisen.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4482">
+          <num>4</num>
+          <content eId="para_4482__content">
+            <p>That convention was ratified by 37 States, not including the United Kingdom of Great Britain and Northern Ireland.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <paragraph eId="para_4483">
+          <num>5</num>
+          <content eId="para_4483__content">
+            <p>Recital 6 of Directive 2003/88 states: `Account should be taken of the principles of the International Labour Organisation with regard to the organisation of working time, ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4484">
+          <num>6</num>
+          <content eId="para_4484__content">
+            <p>Article 1 of that directive defines its subject matter and scope. It reads: `1.   This Directive lays down minimum safety and health requirements for the organisation of working time. 2.   This Directive applies to:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>minimum periods of ... annual leave ......'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4485">
+          <num>7</num>
+          <content eId="para_4485__content">
+            <p>Article 7 of that directive is worded as follows: `Annual leave 1.   Member States shall take the measures necessary to ensure that every worker is entitled to paid annual leave of at least four weeks in accordance with the conditions for entitlement to, and granting of, such leave laid down by national legislation and/or practice. 2.   The minimum period for annual leave may not be replaced by a payment in lieu, except where the employment relationship is terminated.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4486">
+          <num>8</num>
+          <content eId="para_4486__content">
+            <p>Article 17 of that directive provides that Member States may derogate from certain of its provisions. No derogation is allowed with regard to Article 7 of Directive 2003/88.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>United Kingdom law</p>
+        </tblock>
+        <paragraph eId="para_4487">
+          <num>9</num>
+          <content eId="para_4487__content">
+            <p>Directive 2003/88 is implemented in the UK by the Working Time Regulations 1998, as amended ( `the 1998 Regulations').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4488">
+          <num>10</num>
+          <content eId="para_4488__content">
+            <p>Regulation 13 of the 1998 Regulations sets out workers' rights to annual leave. The first paragraph of that regulation reads as follows: `... a worker is entitled to four weeks' annual leave in each leave year.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4489">
+          <num>11</num>
+          <content eId="para_4489__content">
+            <p>Regulation 13(9) of those regulations provides: `Leave to which a worker is entitled under this regulation may be taken in instalments, but --(a) it may only be taken in the leave year in respect of which it is due, and</p>
+            <blockList>
+              <item>
+                <num>(b)</num>
+                <p>it may not be replaced by a payment in lieu except where the worker's employment is terminated.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4490">
+          <num>12</num>
+          <content eId="para_4490__content">
+            <p>Regulation 16 of those regulations deals with workers' rights to receive remuneration in respect of annual leave. Paragraph 1 thereof reads as follows: `A worker is entitled to be paid in respect of any period of annual leave to which he is entitled under regulation 13, at the rate of a week's pay in respect of each week of leave.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4491">
+          <num>13</num>
+          <content eId="para_4491__content">
+            <p>Regulation 30 of those regulations confers on workers the following right: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>A worker may present a complaint to an employment tribunal that his employer --(a) has refused to permit him to exercise any right he has under --(i) regulation ... 13(1);... or</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>has failed to pay him the whole or any part of any amount due to him under regulation ... 16(1).(2)   An employment tribunal shall not consider a complaint under this regulation unless it is presented --(a) before the end of the period of three months ... beginning with the date on which it is alleged that the exercise of the right should have been permitted (or in the case of a rest period or leave extending over more than one day, the date on which it should have been permitted to begin) or, as the case may be, the payment should have been made;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>within such further period as the tribunal considers reasonable in a case where it is satisfied that it was not reasonably practicable for the complaint to be presented before the end of that period of three or, as the case may be, six months....'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_4492">
+          <num>14</num>
+          <content eId="para_4492__content">
+            <p>Mr King worked for Sash WW on the basis of a `self-employed commission-only contract' from 1 June 1999 until he retired, on 6 October 2012. Under that contract, Mr King was paid on a commission-only basis. When he took annual leave, it was unpaid.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4493">
+          <num>15</num>
+          <content eId="para_4493__content">
+            <p>Upon termination of his employment relationship, Mr King sought to recover payment for his annual leave -- taken and not paid as well as not taken -- for the entire period of his engagement, from 1 June 1999 to 6 October 2012. Sash WW rejected Mr King's claim on the grounds that he had the status of self-employed worker.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4494">
+          <num>16</num>
+          <content eId="para_4494__content">
+            <p>Mr King made a claim to the competent Employment Tribunal. The Tribunal distinguished between three types of holiday, which, it is not disputed, were not paid:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>`Holiday Pay 1' is the holiday accrued but untaken at termination in the final leave year (2012/2013);</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>`Holiday Pay 2' is leave actually taken between 1999 and 2012, but in respect of which no payment was made;</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>`Holiday Pay 3' is the pay in lieu of accrued but untaken leave throughout the whole period of Mr King's employment, that being 24.15 weeks in total.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4495">
+          <num>17</num>
+          <content eId="para_4495__content">
+            <p>In its judgment, the Employment Tribunal considered that Mr King was a `worker' within the meaning of Directive 2003/88 and that he was entitled to the three types of holiday pay claimed.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4496">
+          <num>18</num>
+          <content eId="para_4496__content">
+            <p>Sash WW appealed against the Employment Tribunal's judgment before the Employment Appeal Tribunal, which allowed the appeal and remitted the claim to the original Employment Tribunal for rehearing. Mr King and Sash WW respectively appealed and cross-appealed that decision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4497">
+          <num>19</num>
+          <content eId="para_4497__content">
+            <p>Before the referring court, the Court of Appeal (England &amp; Wales) (Civil Division), it is now common ground that Mr King is a `worker' within the meaning of Directive 2003/88 and that he is entitled to `holiday pay types 1 and 2'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4498">
+          <num>20</num>
+          <content eId="para_4498__content">
+            <p>Regarding `holiday pay type 3', Sash WW claims that, under regulation 13(9)(a) of the 1998 Regulations, Mr King was not entitled to carry over periods of untaken annual leave into a new holiday year. By failing to bring an action pursuant to Regulation 30(1)(a) of those regulations, Mr King lost all entitlement in respect of annual leave, since a claim for payment in lieu of paid annual leave not taken in respect of the holiday years in question was time-barred.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4499">
+          <num>21</num>
+          <content eId="para_4499__content">
+            <p>By contrast, Mr King takes the view that his rights in respect of paid annual leave not taken because it would have been unpaid by the employer were carried over into the next holiday year, notwithstanding regulation 13(9)(a) of the 1998 Regulations, and then from year to year until the date of termination of the employment relationship. Mr King claims, with reference to the judgment of 20 January 2009, Schultz-Hoff and Others ( C‑350/06 and C‑520/06, EU:C:2009:18), that the right to payment in lieu of paid annual leave not taken did not arise until termination of the employment relationship and, accordingly, that his claim was brought in time.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4500">
+          <num>22</num>
+          <content eId="para_4500__content">
+            <p>The referring court, noting that United Kingdom law does not allow annual leave to be carried over beyond the leave year for which it is granted and does not necessarily ensure an effective remedy for breach of Article 7 of Directive 2003/88, expresses doubt as to the interpretation of the relevant EU law for the purpose of resolving the dispute pending before it.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4501">
+          <num>23</num>
+          <content eId="para_4501__content">
+            <p>In that regard, the referring court notes, inter alia, that distinctions could be made between the situation when annual leave not taken is carried over because of refusal by the employer to remunerate it and the situation when annual leave is not taken by the worker because of an illness. However, the relevant provisions of EU law have only been interpreted by the Court in the context of the latter situation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4502">
+          <num>24</num>
+          <content eId="para_4502__content">
+            <p>In those circumstances, the Court of Appeal of England and Wales (Civil Division) decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling:</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>If there is a dispute between a worker and employer as to whether the worker is entitled to annual leave with pay pursuant to Article 7 of Directive 2003/88, is it compatible with EU law, and in particular the principle of effective remedy, if the worker has to take leave first before being able to establish whether he is entitled to be paid?</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>If the worker does not take all or some of the annual leave to which he is entitled in the leave year when any right should be exercised, in circumstances where he would have done so but for the fact that the employer refuses to pay him for any period of leave he takes, can the worker claim that he is prevented from exercising his right to paid leave such that the right carries over until he has the opportunity to exercise it?</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>If the right carries over, does it do so indefinitely or is there a limited period for exercising the carried-over right by analogy with the limitations imposed where the worker is unable to exercise the right to leave in the relevant leave year because of sickness?</p>
+              </item>
+              <item>
+                <num>(4)</num>
+                <p>If there is no statutory or contractual provision specifying a carry-over period, is the court obliged to impose a limit to the carry-over period in order to ensure that the application of the national legislation on working time does not distort the purpose behind Article 7?</p>
+              </item>
+              <item>
+                <num>(5)</num>
+                <p>If the answer to the preceding question is yes, is a period of 18 months following the end of the holiday year in which the leave accrued compatible with the right set out in Article 7 [of Directive 2003/88]?'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The request to reopen the oral procedure</p>
+        </tblock>
+        <paragraph eId="para_4503">
+          <num>25</num>
+          <content eId="para_4503__content">
+            <p>Following the delivery of the Opinion of the Advocate General on 8 June 2017, Mr King, by a document lodged at the Court Registry on 19 June 2017, applied for the oral part of the procedure to be reopened. In support of that application, Mr King claimed, in essence, that the Advocate General's Opinion includes a misunderstanding in respect of a job offer made to him in 2008.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4504">
+          <num>26</num>
+          <content eId="para_4504__content">
+            <p>In that regard, it should be noted that, under the second paragraph of Article 252 TFEU, it is the duty of the Advocate General, acting with complete impartiality and independence, to make, in open court, reasoned submissions on cases which, in accordance with the Statute of the Court of Justice, require his involvement. The Court is not bound either by the Advocate General's Opinion or by the reasoning on which it is based (judgment of 22 June 2017, Federatie Nederlandse Vakvereniging and Others, C‑126/16, EU:C:2017:489, paragraph 31 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4505">
+          <num>27</num>
+          <content eId="para_4505__content">
+            <p>Consequently, an interested party's disagreement with the Opinion of the Advocate General, irrespective of the questions that he examines in that Opinion, cannot in itself constitute grounds justifying the reopening of the oral procedure (see, to that effect, judgment of 17 September 2015, Mory and Others v Commission, C‑33/14 P, EU:C:2015:609, paragraph 26).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4506">
+          <num>28</num>
+          <content eId="para_4506__content">
+            <p>That said, Article 83 of the Rules of Procedure of the Court of Justice provides that the Court may, at any time, after hearing the Advocate General, order the reopening of the oral part of the procedure, in particular if it considers that it lacks sufficient information or where a party has, after the close of that part of the procedure, submitted a new fact which is of such a nature as to be a decisive factor for the decision of the Court, or where the case must be decided on the basis of an argument which has not been debated between the parties or the interested persons referred to in Article 23 of the Statute of the Court of Justice of the European Union.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4507">
+          <num>29</num>
+          <content eId="para_4507__content">
+            <p>That is not the case here. In fact, the Court considers, after hearing the Advocate General, that it has all the information necessary to give a ruling.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4508">
+          <num>30</num>
+          <content eId="para_4508__content">
+            <p>In the light of the foregoing, there is no need to reopen the oral part of the procedure.</p>
+            <tblock>
+              <p>Consideration of the questions referred</p>
+            </tblock>
+            <tblock>
+              <p>The first question</p>
+            </tblock>
+            <p>31 By its first question, the referring court asks, in essence, whether Article 7 of Directive 2003/88 and the right to an effective remedy set out in Article 47 of the Charter of Fundamental Rights of the European Union ( `the Charter') must be interpreted as meaning that, in the case of a dispute between a worker and his employer as to whether the worker has the right to paid annual leave under the first of those articles, they preclude the worker having to take his leave first before establishing whether he has the right to be paid in respect of that leave.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4509">
+          <num>32</num>
+          <content eId="para_4509__content">
+            <p>First, as is clear from the very wording of Article 7(1) of Directive 2003/88, a provision from which no derogation is permitted by that directive, every worker is entitled to paid annual leave of at least four weeks. That right to paid annual leave must be regarded as a particularly important principle of EU social law, the implementation of which by the competent national authorities must be confined within the limits expressly laid down by Directive 2003/88 itself (judgment of 30 June 2016, Sobczyszyn, C‑178/15, EU:C:2016:502, paragraph 19 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4510">
+          <num>33</num>
+          <content eId="para_4510__content">
+            <p>Second, it must be noted that the right to paid annual leave is expressly set out in Article 31(2) of the Charter, which Article 6(1) TEU recognises as having the same legal value as the Treaties (judgment of 22 November 2011, KHS, C‑214/10, EU:C:2011:761, paragraph 37).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4511">
+          <num>34</num>
+          <content eId="para_4511__content">
+            <p>Third, it is clear from the terms of Directive 2003/88 and the Court's case-law that, although it is for the Member States to lay down the conditions for the exercise and implementation of the right to paid annual leave, they must not make the very existence of that right, which derives directly from that directive, subject to any preconditions whatsoever (see, to that effect, judgment of 20 January 2009, Schultz-Hoff and Others, C‑350/06 and C‑520/06, EU:C:2009:18, paragraph 28).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4512">
+          <num>35</num>
+          <content eId="para_4512__content">
+            <p>Fourth, it is also clear from the Court's case-law that Directive 2003/88 treats the right to annual leave and to a payment on that account as being two aspects of a single right. The purpose of the requirement that the leave be paid is to put the worker, during such leave, in a position which is, as regards salary, comparable to periods of work (judgment of 22 May 2014, Lock, C‑539/12, EU:C:2014:351, paragraph 17 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4513">
+          <num>36</num>
+          <content eId="para_4513__content">
+            <p>It follows from the foregoing that, when taking his annual leave, the worker must be able to benefit from the remuneration to which he is entitled under Article 7(1) of Directive 2003/88.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4514">
+          <num>37</num>
+          <content eId="para_4514__content">
+            <p>The very purpose of the right to paid annual leave is to enable the worker to rest and to enjoy a period of relaxation and leisure (see, inter alia, judgments of 20 January 2009, Schultz-Hoff and Others, C‑350/06 and C‑520/06, EU:C:2009:18, paragraph 25, and of 30 June 2016, Sobczyszyn, C‑178/15, EU:C:2016:502, paragraph 25).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4515">
+          <num>38</num>
+          <content eId="para_4515__content">
+            <p>However, as the European Commission notes in its written observations, a worker faced with circumstances liable to give rise to uncertainty during the leave period as to the remuneration owed to him, would not be able to fully benefit from that leave as a period of relaxation and leisure, in accordance with Article 7 of Directive 2003/88.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4516">
+          <num>39</num>
+          <content eId="para_4516__content">
+            <p>Similarly, such circumstances are liable to dissuade the worker from taking his annual leave. In that regard, it must be noted that any practice or omission of an employer that may potentially deter a worker from taking his annual leave is equally incompatible with the purpose of the right to paid annual leave (see, to that effect, judgment of 22 May 2014, Lock, C‑539/12, EU:C:2014:351, paragraph 23 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4517">
+          <num>40</num>
+          <content eId="para_4517__content">
+            <p>Against that background, contrary to what the United Kingdom maintains in its written observations, observance of the right to paid annual leave cannot depend on a factual assessment of the worker's financial situation when he takes leave.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4518">
+          <num>41</num>
+          <content eId="para_4518__content">
+            <p>It is true that Directive 2003/88 contains no provisions on judicial remedies available to the worker, in the case of a dispute with his employer, to enforce his right to paid annual leave under that directive. However, it is not disputed that the Member States must, in such a context, ensure compliance with the right to an effective remedy, as enshrined in Article 47 of the Charter (see, by analogy, judgment of 15 September 2016, Star Storage and Others, C‑439/14 and C‑488/14, EU:C:2016:688, paragraph 46).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4519">
+          <num>42</num>
+          <content eId="para_4519__content">
+            <p>In the present case, it is clear from the order for reference that the right to paid annual leave laid down in Article 7 of Directive 2003/88 is implemented, in the United Kingdom, by two separate regulations of the 1998 Regulations, namely, regulation 13, which recognises the right to a period of annual leave, and regulation 16, which establishes the right to the payment of that leave. Following the same logic, regulation 30(1) of those regulations recognises workers' right to two separate judicial remedies, the worker being able to bring an action before a court either to contest the refusal by his employer to recognise his right to a period of annual leave under regulation 13, or to argue that his employer has not paid him for all or part of that leave pursuant to regulation 16.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4520">
+          <num>43</num>
+          <content eId="para_4520__content">
+            <p>As regards the case in the main proceedings, it is clear from the order for reference that the Employment Appeal Tribunal's interpretation of those provisions was, in essence, that a worker</p>
+            <blockList>
+              <item>
+                <num>(i)</num>
+                <p>could claim breach of the right to annual leave provided for in regulation 13 of the 1998 Regulations only to the extent that his employer did not permit him to take any period of leave, whether paid or not; and,</p>
+              </item>
+              <item>
+                <num>(ii)</num>
+                <p>on the basis of regulation 16 of those regulations, could claim payment only for leave actually taken.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4521">
+          <num>44</num>
+          <content eId="para_4521__content">
+            <p>However, in a situation in which the employer grants only unpaid leave to the worker, such an interpretation of the relevant national remedies would result in the worker not being able to rely, before the courts, on the right to take paid leave per se. To do so he would be forced to take leave without pay in the first place and then to bring an action to claim payment for it.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4522">
+          <num>45</num>
+          <content eId="para_4522__content">
+            <p>Such a result is incompatible with Article 7 of Directive 2003/88 for the reasons set out in paragraphs 36 to 40 of the present judgment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4523">
+          <num>46</num>
+          <content eId="para_4523__content">
+            <p>A fortiori, in the case of a worker in a situation such as that of Mr King, if the national remedies are interpreted as indicated in paragraph 43 of the present judgment, it is impossible for that worker to invoke, after termination of the employment relationship, a breach of Article 7 of Directive 2003/88 in respect of paid leave due but not taken, in order to receive the allowance referred to in paragraph 2 of that article. A worker such as Mr King would thus be deprived of an effective remedy.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4524">
+          <num>47</num>
+          <content eId="para_4524__content">
+            <p>In the light of all the foregoing considerations, the answer to the first question is that Article 7 of Directive 2003/88 and the right to an effective remedy set out in Article 47 of the Charter must be interpreted as meaning that, in the case of a dispute between a worker and his employer as to whether the worker is entitled to paid annual leave in accordance with the first of those articles, they preclude the worker having to take his leave first before establishing whether he has the right to be paid in respect of that leave.</p>
+            <tblock>
+              <p>The second to fifth questions</p>
+            </tblock>
+            <p>48 By its second to fifth questions, which it is appropriate to examine together, the referring court asks, in essence, whether Article 7 of Directive 2003/88 must be interpreted as precluding national provisions or practices that prevent a worker from carrying over and, where appropriate, accumulating, until termination of his employment relationship, paid annual leave rights not exercised in respect of several consecutive reference periods because his employer refused to remunerate that leave.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4525">
+          <num>49</num>
+          <content eId="para_4525__content">
+            <p>In that regard, in order to respond to those questions, it must be noted that the Court has previously been called upon, inter alia, in its judgment of 20 January 2009, Schultz-Hoff and Others ( C‑350/06 and C‑520/06, EU:C:2009:18), to rule on questions concerning a worker's right to paid annual leave which he was unable to exercise until termination of his employment relationship due to reasons beyond his control, specifically because of illness.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4526">
+          <num>50</num>
+          <content eId="para_4526__content">
+            <p>In the present case, it was indeed for reasons beyond his control that Mr King did not exercise his right to paid annual leave before his retirement. The Court points out, in this respect, that even if Mr King could, at some point during his contractual relationship with his employer, have accepted a different contract providing for the right to paid annual leave, that is irrelevant in answering the present questions referred for a preliminary ruling. The Court must take into consideration, in that regard, the employment relationship as it existed and persisted, for whatever reason, until Mr King retired, without him having been able to exercise his right to paid annual leave.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4527">
+          <num>51</num>
+          <content eId="para_4527__content">
+            <p>Thus, it must be noted, in the first place, that Directive 2003/88 does not allow Member States either to exclude the existence of the right to paid annual leave or to provide for the right to paid annual leave of a worker, who was prevented from exercising that right, to be lost at the end of the reference period and/or of a carry-over period fixed by national law (judgment of 20 January 2009, Schultz-Hoff and Others, C‑350/06 and C‑520/06, EU:C:2009:18, paragraphs 47 and 48 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4528">
+          <num>52</num>
+          <content eId="para_4528__content">
+            <p>Moreover, it is clear from the Court's case-law that a worker who has not been able, for reasons beyond his control, to exercise his right to paid annual leave before termination of the employment relationship is entitled to an allowance in lieu under Article 7(2) of Directive 2003/88. The amount of that payment must be calculated so that the worker is put in a position comparable to that he would have been in had he exercised that right during his employment relationship (judgment of 20 January 2009, Schultz-Hoff and Others, C‑350/06 and C‑520/06, EU:C:2009:18, paragraph 61).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4529">
+          <num>53</num>
+          <content eId="para_4529__content">
+            <p>It is to be noted, in the second place, that in cases that have given rise to the Court's case-law on Article 7 of Directive 2003/88, the workers concerned had been prevented from exercising their right to paid annual as a result of their absence from work due to sickness.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4530">
+          <num>54</num>
+          <content eId="para_4530__content">
+            <p>In that particular context, the Court held that although a worker who is unfit for work for several consecutive holiday years would be entitled to accumulate, without any limit, all the entitlements to paid annual leave that are acquired during his absence from work, such unlimited accumulation of entitlements would no longer reflect the actual purpose of the right to paid annual leave (see, to that effect, judgment of 22 November 2011, KHS, C‑214/10, EU:C:2011:761, paragraphs 29 and 30).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4531">
+          <num>55</num>
+          <content eId="para_4531__content">
+            <p>Thus, in the specific circumstances in which a worker is unfit for work for several consecutive holiday years, the Court has held that, having regard not only to the protection of workers as pursued by Directive 2003/88, but also the protection of employers faced with the risk that a worker will accumulate periods of absence of too great a length and the difficulties in the organisation of work which such periods might entail, Article 7 of that directive must be interpreted as not precluding national provisions or practices limiting, by a carry-over period of 15 months at the end of which the right to paid annual leave is lost, the accumulation of entitlements to such leave by a worker who has been unfit for work for several consecutive holiday years (see, to that effect, judgment of 22 November 2011, KHS, C‑214/10, EU:C:2011:761, paragraphs 38, 39 and 44).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4532">
+          <num>56</num>
+          <content eId="para_4532__content">
+            <p>It follows from this that it is necessary to consider, in the third place, whether circumstances such as those at issue in the main proceedings are `specific' for the purposes of the case-law cited in the previous paragraph, such that, as is the case with an extended absence of the worker due to sick leave, they justify an exception to the principle established in Article 7 of Directive 2003/88 and Article 31(2) of the Charter, according to which the right to paid annual leave acquired cannot be lost at the end of the leave year and/or of a carry-over period fixed by national law, when the worker has been unable to take his leave.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4533">
+          <num>57</num>
+          <content eId="para_4533__content">
+            <p>To that end, the following points should be noted.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4534">
+          <num>58</num>
+          <content eId="para_4534__content">
+            <p>First, according to the Court's settled case-law, the right to paid annual leave cannot be interpreted restrictively (see judgment of 22 April 2010Zentralbetriebsrat der Landeskrankenhäuser Tirols, C‑486/08, EU:C:2010:215, paragraph 29). Thus, any derogation from the European Union system for the organisation of working time put in place by Directive 2003/88 must be interpreted in such a way that its scope is limited to what is strictly necessary in order to safeguard the interests which that derogation protects (see, to that effect, judgment of 14 October 2010, Union syndicale Solidaires Isère, C‑428/09, EU:C:2010:612, paragraph 40 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4535">
+          <num>59</num>
+          <content eId="para_4535__content">
+            <p>In circumstances such as those at issue in the main proceedings, protection of the employer's interests does not seem strictly necessary and, accordingly, does not seem to justify derogation from a worker's entitlement to paid annual leave.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4536">
+          <num>60</num>
+          <content eId="para_4536__content">
+            <p>It must be noted that the assessment of the right of a worker, such as Mr King, to paid annual leave is not connected to a situation in which his employer was faced with periods of his absence which, as with long-term sickness absence, would have led to difficulties in the organisation of work. On the contrary, the employer was able to benefit, until Mr King retired, from the fact that he did not interrupt his professional activity in its service in order to take paid annual leave.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4537">
+          <num>61</num>
+          <content eId="para_4537__content">
+            <p>Second, even if it were proved, the fact that Sash WW considered, wrongly, that Mr King was not entitled to paid annual leave is irrelevant. Indeed, it is for the employer to seek all information regarding his obligations in that regard.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4538">
+          <num>62</num>
+          <content eId="para_4538__content">
+            <p>Against that background, as is clear from paragraph 34 of the present judgment, the very existence of the right to paid annual leave cannot be subject to any preconditions whatsoever, that right being conferred directly on the worker by Directive 2003/88. Thus, as regards the case in the main proceedings, it is irrelevant whether or not, over the years, Mr King made requests for paid annual leave (see, to that effect, judgment of 12 June 2014, Bollacke, C‑118/13, EU:C:2014:1755, paragraphs 27 and 28).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4539">
+          <num>63</num>
+          <content eId="para_4539__content">
+            <p>It follows from the above that, unlike in a situation of accumulation of entitlement to paid annual leave by a worker who was unfit for work due to sickness, an employer that does not allow a worker to exercise his right to paid annual leave must bear the consequences.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4540">
+          <num>64</num>
+          <content eId="para_4540__content">
+            <p>Third, in such circumstances, in the absence of any national statutory or collective provision establishing a limit to the carry-over of leave in accordance with the requirements of EU law (see, to that effect, judgments of 22 November 2011, KHS, C‑214/10, EU:C:2011:761 and of 3 May 2012, Neidel, C‑337/10, EU:C:2012:263), the European Union system for the organisation of working time put in place by Directive 2003/88 may not be interpreted restrictively. Indeed, if it were to be accepted, in that context, that the worker's acquired entitlement to paid annual leave could be extinguished, that would amount to validating conduct by which an employer was unjustly enriched to the detriment of the very purpose of that directive, which is that there should be due regard for workers' health.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4541">
+          <num>65</num>
+          <content eId="para_4541__content">
+            <p>It follows from all the foregoing considerations that the answer to the second to fifth questions is that Article 7 of Directive 2003/88 must be interpreted as precluding national provisions or practices that prevent a worker from carrying over and, where appropriate, accumulating, until termination of his employment relationship, paid annual leave rights not exercised in respect of several consecutive reference periods because his employer refused to remunerate that leave.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_4542">
+          <num>66</num>
+          <content eId="para_4542__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Fifth Chamber) hereby rules: 1. Article 7 of Directive 2003/88/EC of the European Parliament and of the Council of 4 November 2003 concerning certain aspects of the organisation of working time, and the right to an effective remedy set out in Article 47 of the Charter of Fundamental Rights of the European Union, must be interpreted as meaning that, in the case of a dispute between a worker and his employer as to whether the worker is entitled to paid annual leave under the first of those articles, they preclude the worker having to take his leave first before establishing whether he has the right to be paid in respect of that leave. 2. Article 7 of Directive 2003/88 must be interpreted as precluding national provisions or practices that prevent a worker from carrying over and, where appropriate, accumulating, until termination of his employment relationship, paid annual leave rights not exercised in respect of several consecutive reference periods because his employer refused to remunerate that leave.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>Da Cruz Vilaça Levits Borg Barthet Berger Biltgen Delivered in open court in Luxembourg on 29 November 2017. A. Calot Escobar Registrar J.L. da Cruz Vilaça President of the Fifth Chamber( *1)Language of the case: English.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

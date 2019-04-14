@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Eighth Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>6 December 2017 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Public procurement -- Directive 2004/18/EC -- Scope -- Regulation (EC) No 1083/2006 -- European Regional Development Fund, European Social Fund and Cohesion Fund -- Finance agreement for the construction of a motorway concluded with the European Investment Bank before the accession of the Member State to the European Union -- Concept of `irregularity' within the meaning of Regulation No 1083/2006) In Case C‑408/16, REQUEST for a preliminary ruling under Article 267 TFEU from the Curtea de Apel Bucureşti (Court of Appeal, Bucharest, Romania), made by decision of 20 May 2016, received at the Court on 21 July 2016, in the proceedings Compania Naţională de Administrare a Infrastructurii Rutiere SA, formerly Compania Naţională de Autostrăzi şi Drumuri Naţionale din România SA, v</p>
+      <p>
+        <party as="respondent" refersTo="#">Ministerul Fondurilor Europene -- Direcția Generală Managementul Fondurilor Externe</party>
+      </p>
+      <p>, THE COURT (Eighth Chamber), composed of J. Malenovský, President of the Chamber, D. Šváby (Rapporteur) and M. Vilaras, Judges, Advocate General: M. Campos Sánchez-Bordona, Registrar: A. Calot Escobar, having regard to the written procedure, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>Compania Naţională de Administrare a Infrastructurii Rutiere SA, by C. Homor, A. Docu, R. Simionescu, I.L. Axente and N.C. Mărgărit and by A. Filipescu, H. Nicolae and M. Curculescu,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Ministerul Fondurilor Europene -- Direcţia Generală Managementul Fondurilor Externe, by D.C. Dinu, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by B.-R. Killmann and A. Tokár and by L. Nicolae, acting as Agents, having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_4717">
+          <num>1</num>
+          <content eId="para_4717__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Article 15 of Directive 2004/18/EC of the European Parliament and of the Council of 31 March 2004 on the coordination of procedures for the award of public works contracts, public supply contracts and public service contracts ( OJ 2004 L 134, p. 114), and of Articles 2(7), 9(5) and 60(a) of Council Regulation (EC) No 1083/2006 of 11 July 2006 laying down general provisions on the European Regional Development Fund, the European Social Fund and the Cohesion Fund and repealing Regulation (EC) No 1260/1999 ( OJ 2006 L 210, p. 25).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4718">
+          <num>2</num>
+          <content eId="para_4718__content">
+            <p>The request has been made in proceedings between Compania Naţională de Administrare and Infrastructurii Rutiere SA, formerly Compania Naţională de Autostrăzi şi Drumuri Naţionale of România SA ( `the CNADNR'), and the Ministerul Fondurilor Europene Direcţia Generală Managementul Fondurilor Externe (Ministry of European Funds Directorate-General of Foreign Funds Management, Romania) concerning a decision of the Autoritatea de Management pentru Programul Operaţional Sectorial `Transport' (Management Authority Sectoral Operational Programme `Transport', Romania, `the AMPOST'), applying a financial correction for infringement of Directive 2004/18 in connection with the award of a public contract for co-financed works, initially by the European Investment Bank (EIB), then in full and retrospectively by the European Union by way of the European Regional Development Fund (ERDF) and the Cohesion Fund.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <tblock>
+          <p>The Adhesion Protocol</p>
+        </tblock>
+        <paragraph eId="para_4719">
+          <num>3</num>
+          <content eId="para_4719__content">
+            <p>Article 2 of the Protocol concerning the conditions and arrangements for admission of the Republic of Bulgaria and Romania to the European Union ( OJ 2005 L 157, p. 29, `the Adhesion Protocol'), provides: `From the date of accession, ... the acts adopted by the institutions before accession shall be binding on Bulgaria and Romania and shall apply in those States under the conditions laid down in the [Treaty Establishing a Constitution for Europe], in the EAEC Treaty and in this Protocol.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4720">
+          <num>4</num>
+          <content eId="para_4720__content">
+            <p>The fourth part of that protocol, headed `Temporary provisions', includes Title III, on `Financial provisions', which contains Article 27, which states, in paragraph 2: `Financial commitments made before accession under the pre-accession financial instruments referred to in paragraph 1 as well as those made under the Transition Facility referred to in Article 31 after accession, including the conclusion and registration of subsequent individual legal commitments and payments made after accession shall continue to be governed by the rules and regulations of the pre-accession financing instruments and be charged to the corresponding budget chapters until closure of the programmes and projects concerned. Notwithstanding this, public procurement procedures initiated after accession shall be carried out in accordance with the relevant Union provisions.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4721">
+          <num>5</num>
+          <content eId="para_4721__content">
+            <p>The fifth part of that protocol, headed `Provisions relating to the implementation of this protocol' includes Title II, entitled `Applicability of the acts of the institutions', and includes Article 53, which provides, in paragraph 1: `Bulgaria and Romania shall put into effect the measures necessary for them to comply, from the date of accession, with the provisions of European framework laws and those European regulations which are binding as to the result to be achieved but leave the national authorities the choice of form and methods within the meaning of Article I‑33 of the [Treaty establishing a Constitution for Europe] and of directives and decisions within the meaning of Article 249 [EC] and of Article 161 of the EAEC Treaty, unless another time limit is provided for in this Protocol. They shall communicate those measures to the Commission at the latest by the date of accession or, where appropriate, by the time limit provided for in this Protocol.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Directive 2004/18</p>
+        </tblock>
+        <paragraph eId="para_4722">
+          <num>6</num>
+          <content eId="para_4722__content">
+            <p>Recital 22 of Directive 2004/18 states: `Provision should be made for cases in which it is possible to refrain from applying the measures for coordinating procedures ... because specific rules on the awarding of contracts ... which are specific to international organisations are applicable.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4723">
+          <num>7</num>
+          <content eId="para_4723__content">
+            <p>Article 15 of that directive, headed `Contracts awarded pursuant to international rules', provides: `This Directive shall not apply to public contracts governed by different procedural rules and awarded: ...</p>
+            <blockList>
+              <item>
+                <num>(c)</num>
+                <p>pursuant to the particular procedure of an international organisation.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Regulation No 1083/2006</p>
+        </tblock>
+        <paragraph eId="para_4724">
+          <num>8</num>
+          <content eId="para_4724__content">
+            <p>Recital 22 of Regulation No 1083/2006 states: `The activities of the Funds and the operations which they help to finance should be consistent with the other Community policies and comply with Community legislation.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4725">
+          <num>9</num>
+          <content eId="para_4725__content">
+            <p>Article 2 of that regulation provides: `For the purposes of this Regulation: ...</p>
+            <blockList>
+              <item>
+                <num>(7)</num>
+                <p>``irregularity '': any infringement of a provision of Community law resulting from an act or omission by an economic operator which has, or would have, the effect of prejudicing the general budget of the European Union by charging an unjustified item of expenditure to the general budget.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4726">
+          <num>10</num>
+          <content eId="para_4726__content">
+            <p>Article 9(5) of that regulation provides: `Operations financed by the Funds shall comply with the provisions of the Treaty and of acts adopted under it.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4727">
+          <num>11</num>
+          <content eId="para_4727__content">
+            <p>In Section 2 of Chapter II of Title III of Regulation No 1083/2006, entitled `Main projects', Article 39 of that regulation provides: `As part of an operational programme, the ERDF and the Cohesion Fund may finance expenditure in respect of an operation comprising a series of works, activities or services intended in itself to accomplish an indivisible task of a precise economic or technical nature, which has clearly identified goals and whose total cost exceeds EUR 25 million in the case of the environment and EUR 50 million in other fields (hereinafter referred to as major projects).'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4728">
+          <num>12</num>
+          <content eId="para_4728__content">
+            <p>Article 41 of that regulation, headed `Decisions of the Commission', states: `1.   The Commission shall appraise the major project, if necessary consulting outside experts, including the EIB, in the light of the factors referred to in Article 40, its consistency with the priorities of the operational programme, its contribution to achieving the goals of those priorities and its consistency with other Community policies. 2.   The Commission shall adopt a decision as soon as possible but no later than three months after the submission by the Member State or the managing authority of a major project, provided that the submission is in accordance with Article 40. That decision shall define the physical object, the amount to which the co-financing rate for the priority axis applies, and the annual plan of financial contribution from the ERDF or the Cohesion Fund. 3.   Where the Commission refuses to make a financial contribution from the Funds to a major project, it shall notify the Member State of its reasons within the period and the related conditions laid down in paragraph 2.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4729">
+          <num>13</num>
+          <content eId="para_4729__content">
+            <p>Article 60 of Regulation No 1083/2006 is worded as follows: `The Managing Authority shall be responsible for managing and implementing the operational programme in accordance with the principle of sound financial management and in particular for:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>ensuring that operations are selected for funding in accordance with the criteria applicable to the operational programme and that they comply with applicable Community and national rules, for the whole of their implementation period; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4730">
+          <num>14</num>
+          <content eId="para_4730__content">
+            <p>Article 98(2) of that regulation provides: `Member States shall make the financial corrections required in connection with individual or systemic irregularities detected in operations or operational programmes. The corrections made by a Member State shall consist of cancelling all or part of the public contribution to the operational programme. Member States shall take into account the nature and gravity of the irregularities and the financial loss to the Fund. The resources from the Funds released in this way may be reused by the Member State until 31 December 2015 for the operational programme concerned in accordance with the provisions referred to in paragraph 3.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>EIB Guide to Procurement</p>
+        </tblock>
+        <paragraph eId="para_4731">
+          <num>15</num>
+          <content eId="para_4731__content">
+            <p>The EIB has a `Guide to procurement for projects financed by the EIB'. That guide, in its 2004 version ( `the EIB Guide'), is intended to inform the promoters of a project whose contracts are financed in whole or in part, by the EIB, of the arrangements to be made for procuring works, goods and services required for the project concerned and receiving financing from the EIB. It is structured in three chapters and distinguishes between the rules governing operations within the Union, which are the subject of Chapter 2 and those governing operations outside the Union, which are the subject of Chapter 3. Chapter 3 of the EIB Guide states that `accession States ... are progressively incorporating [EU] directives into their legislation. In [this] guide, those countries come under the provisions laid down in Chapter 3, ``Operations outside the European Union ... '', until the deadline when they were committed to applying the EU Directives on procurement as agreed during their negotiations with the Commission to the extent that they have transposed these Directives into their national legislation at that moment. Thus the provisions of Chapter 2, ``Operations within the European Union '' apply to them.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Romanian law</p>
+        </tblock>
+        <tblock>
+          <p>OUG No 34/2006</p>
+        </tblock>
+        <paragraph eId="para_4732">
+          <num>16</num>
+          <content eId="para_4732__content">
+            <p>Directive 2004/18 was transposed into Romanian law by the Ordonanța de urgență a Guvernului nr. 34/2006 din 19 aprilie 2006 privind atribuirea contractelor de achiziție publică, a contractelor de concesiune de lucrări publice și a contractelor de concesiune de servicii (Government Emergency Order No 34/2006 on the award of procurement contracts, public works concession contracts and service concession contracts, published in the Monitorul Oficial al României, Partea I, No 418 of 15 Mai 2006, `OUG No 34/2006'). Article 14(1) of that Order provides: `The present Emergency Order shall not apply where the public contract is awarded following: ...</p>
+            <blockList>
+              <item>
+                <num>(c)</num>
+                <p>the application of a specific procedure of an international body or institution; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>OUG No 72/2007</p>
+        </tblock>
+        <paragraph eId="para_4733">
+          <num>17</num>
+          <content eId="para_4733__content">
+            <p>The Ordonanţa de urgenţă a Guvernului nr. 72/2007 din 28 iunie 2007 privind unele măsuri derogatorii de la OUG nr. 34/2006 (Government Emergency Order No 72/2007 laying down measures derogating from OUG No 34/2006, Monitorul Oficial al României, Partea I, No 441 of 29 June 2007, `OUG No 72/2007', has a single article, under which: `By way of derogation from the provisions of [OUG No 34/2006] ... for the purposes of the procedure for the award of public works contracts ..., EIB Loan VI, signed in December 2006, relating to the Arad-Timișoara-Lugoj motorway ..., the [CNADNR] shall apply the provisions of the [EIB Guide], Chapter 3; ...'</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_4734">
+          <num>18</num>
+          <content eId="para_4734__content">
+            <p>The project for the construction of the Arad-Timişoara-Lugoj motorway was initially the subject of a finance agreement concluded on 23 December 2003 between Romania, the EIB and the CNADNR, the contracting authority for the works contract at issue in the case in the main proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4735">
+          <num>19</num>
+          <content eId="para_4735__content">
+            <p>On the basis of that agreement, a loan agreement to finance the construction of several sections of motorway was concluded, between the same parties, on 2 December 2004. That agreement states that `the CNADNR shall comply with the EIB's procedures for the procurement of goods, the guarantee of services and the undertaking of works necessary for the projects, [that it] negotiates and concludes the agreements in accordance with the provisions of [that finance agreement]', namely `through international calls for tender open to candidates from all countries'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4736">
+          <num>20</num>
+          <content eId="para_4736__content">
+            <p>In the context of that loan agreement and with a view to organising the award of the public works contract for the construction of the Arad-Timişoara-Lugoj motorway, the CNADNR awarded a contract on 28 February 2006 to provide the consulting services necessary for the preparation of the procurement file for that contract. As Romania was not yet a member of the Union, the procurement file was drawn up in accordance with Chapter 3 of the EIB Guide, entitled `Operations outside the European Union ...'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4737">
+          <num>21</num>
+          <content eId="para_4737__content">
+            <p>It is apparent from the order for reference that, first, the procedure for the award of the public works contract for the construction of the Arad-Timişoara-Lugoj motorway began on 17 July 2007 in the form of a restricted call for tenders with pre-selection by the publication of the pre-selection notice, and, second, that that contract was awarded on 15 December 2008.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4738">
+          <num>22</num>
+          <content eId="para_4738__content">
+            <p>On 27 October 2009, Romania requested the Commission that the planned construction of the Arad-Timişoara-Lugoj motorway benefit, in the context of the Sectoral Operational Programme `Transport 2007-2013', from retrospective financing by way of the ERDF and the Cohesion Fund as a `major project' within the meaning of Article 39 of Regulation No 1083/2006.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4739">
+          <num>23</num>
+          <content eId="para_4739__content">
+            <p>By two successive decisions, adopted in 2010 and 2014 respectively, the Commission approved the full financing of that project by way of the ERDF and the Cohesion Fund. A finance agreement has thus amended the source of funding for that project so that it now benefits from non-reimbursable European funds under the Sectoral Operational Programme `Transport 2007-2013'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4740">
+          <num>24</num>
+          <content eId="para_4740__content">
+            <p>In order to reimburse the costs incurred by the contracting authority and taking into account the Commission's recommendations concerning compliance with EU public procurement rules in the event of retrospective project financing, the AMPOST reviewed the file for the award of the works contract at issue in the case in the main proceedings. At the end of that review, AMPOST declared irregularities by a memorandum of 29 June 2015 and by a decision of 24 August 2015 applied a financial correction of 10% of the value of the eligible costs of the works contract concluded on 15 December 2008.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4741">
+          <num>25</num>
+          <content eId="para_4741__content">
+            <p>AMPOST justified that financial correction by pointing out, in the first place, that in order to grant non-reimbursable European financing to an operation, the Commission requires that the directives on public procurement in force on the date of publication of the invitation to participate in the procurement procedure concerned be respected. In that regard, AMPOST took the view that Directive 2004/18 was applicable to the procedure for the award of the works contract at issue in the case in the main proceedings, since the latter began solely after Romania's accession to the European Union. In the second place, AMPOST noted that three pre-selection criteria laid down by that contract were more restrictive than those provided for by Directive 2004/18, namely, firstly, a criterion relating to the candidate's personal situation and in particular, the background of non-performance of contracts, which is contrary to Articles 44 and 45 of Directive 2004/18, and secondly, a criterion relating to the applicant's financial situation which is contrary to Article 47 of Directive 2004/18 and, thirdly, a criterion relating to the applicant's experience which does not comply with Article 48 of that directive. In the last place, AMPOST nevertheless noted that the use of those criteria had been authorised under national law, namely OUG No 72/2007, which expressly derogated from OUG No 34/2006, an order transposing Directive 2004/18.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4742">
+          <num>26</num>
+          <content eId="para_4742__content">
+            <p>The CNADNR brought an action before the referring court seeking the annulment of AMPOST's decision of 24 August 2015 and of the memorandum declaring irregularities and setting financial corrections of 29 June 2015, issued concerning the construction project of the Arad-Timişoara-Lugoj motorway.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4743">
+          <num>27</num>
+          <content eId="para_4743__content">
+            <p>In support of its action, the CNADNR takes the view that the financial correction of 10% of the value of the eligible expenses of the works contract for the construction of the Arad-Timişoara Lugoj motorway is based on a misinterpretation of the provisions of OUG No 34/2006, of OUG No 72/2007 as well as of Directive 2004/18. The CNADNR submits that the contracting authority cannot be criticised for having set pre-selection criteria that were unlawful or restrictive in the light of that directive, in so far as, ab initio, the award of that contract was carried out in accordance with Chapter 3 of the EIB Guide.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4744">
+          <num>28</num>
+          <content eId="para_4744__content">
+            <p>The Ministry for European Funds -- Directorate-General for the management of external finances maintains that the reviews were carried out by AMPOST in accordance with Directive 2004/18, precisely because the procurement procedure for the contract concerned derogated from the application of OUG No 34/2006. In view of the change to the source of funding, since the operation was then financed by the Cohesion Fund under the Sectoral Operational Programme `Transport 2007-2013', AMPOST had to ensure that the award of that contract respects the provisions of EU law and, in particular, the public procurement rules.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4745">
+          <num>29</num>
+          <content eId="para_4745__content">
+            <p>The referring court questions, in the first place, the applicable rules ratione temporis and refers, in that regard, not only to Article 27 of the Protocol of Accession, which concerns the financial commitments made by the Member States concerned before their accession to the European Union, but also Article 53 of that protocol, which provides for the immediate entry into force, from the date of accession of those Member States to the European Union, of secondary legislation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4746">
+          <num>30</num>
+          <content eId="para_4746__content">
+            <p>In the second place, the referring court asks whether Article 15(c) of Directive 2004/18 may be interpreted as meaning that that directive does not apply to public contracts governed by different procedural rules and awarded under the particular procedure of an international body, as authorising a Member State to not apply that directive, after that Member State's accession to the European Union, in so far as that Member State is bound by a finance agreement concluded with the EIB before its accession to the European Union, and under which the public procurement procedures comply with specific criteria which are more restrictive than those provided for by that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4747">
+          <num>31</num>
+          <content eId="para_4747__content">
+            <p>The referring court also questions whether Directive 2004/18 precludes a legislative measure of national law, adopted by the Member State concerned after its accession to the European Union, which requires the contracting authority to follow the EIB Guide by derogation from the legislative measure transposing that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4748">
+          <num>32</num>
+          <content eId="para_4748__content">
+            <p>In that regard, the referring court takes the view that, after accession to the Union, a candidate State which has received funding for the duration of the negotiations is no longer subject to Chapter 3 of the EIB Guide, as regards operations outside the European Union, but is then subject to Chapter 2, entitled `Operations within the European Union', of that guide, which confirms that Directive 2004/18 is applicable.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4749">
+          <num>33</num>
+          <content eId="para_4749__content">
+            <p>In the third place, in so far as AMPOST pointed out that some of the pre-selection criteria provided for by the works contract at issue in the case in the main proceedings were more restrictive than those laid down by Directive 2004/18, the referring court asks, in that context, whether such a contract may be considered to comply with EU rules and be eligible for non-reimbursable European funding granted retrospectively.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4750">
+          <num>34</num>
+          <content eId="para_4750__content">
+            <p>In those circumstances, the Curtea de Apel București (Court of Appeal, Bucharest, Romania) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Is Article 15(c) of Directive 2004/18 to be interpreted as permitting a Member State not to apply the directive, following its accession to the ... Union, if it has the benefit of a finance agreement concluded with the [EIB] which was signed before the accession and under which specific requirements imposed by the lending institution, such as those at issue in the present case, which are more restrictive than those laid down by the directive, are applied to public contracts to be awarded?</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>Is Directive 2004/18 to be interpreted as precluding a legislative measure under national law, such as [OUG] No 72/2007, which provides for the application of the [EIB Guide], by way of derogation from the legislative measure by which the directive was transposed into national law, namely, in the present case, [OUG] No 34/2006, on grounds such as those set out in the explanatory memorandum [relating to the former OUG], for the purpose of compliance with the finance agreement concluded prior to accession?</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>On a proper interpretation of Article 9(5) and Article 60(a) of Regulation No 1083/2006, may such a public contract, concluded in compliance with the [EIB Guide] and with national law, be regarded as consistent with EU law and eligible for European non-reimbursable financial support, granted retrospectively?</p>
+              </item>
+              <item>
+                <num>(4)</num>
+                <p>In the event that Question 3 is answered in the negative, if such a public contract was nonetheless considered to be consistent with EU law at the time the check was carried out to verify compliance with the qualification requirements for the Sectoral Operational Programme ``Transport 2007-2013 '', does such an alleged breach of EU public procurement law (determination of certain pre-selection criteria for the tenderers which are similar to those set out in the [EIB Guide] and more restrictive than those laid down in Directive 2004/18 ...) constitute an ``irregularity '' within the meaning of Article 2(7) of Regulation No 1083/2006, giving rise to an obligation on the part of the Member State concerned to make a financial correction/percentage reduction pursuant to Article 98(2) of the regulation?'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the questions referred</p>
+        </tblock>
+        <tblock>
+          <p>Preliminary observations</p>
+        </tblock>
+        <paragraph eId="para_4751">
+          <num>35</num>
+          <content eId="para_4751__content">
+            <p>In order to answer the questions referred, it is necessary, first of all, to determine that Directive 2004/18 is in fact applicable ratione temporis insofar as certain facts mentioned by the referring court have taken place before Romania's accession to the European Union. It follows from Article 2 of the Protocol of Accession that from the day of that accession acts adopted by the EU institutions before accession are to be binding on Romania and are to be applicable in that State, under the conditions laid down in the Treaties and that protocol.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4752">
+          <num>36</num>
+          <content eId="para_4752__content">
+            <p>In that regard, it follows from Article 53(1) of that protocol that Romania is to put into effect the measures necessary for it to comply, from the date of its accession to the European Union, with the provisions of directives which are binding as to the result to be achieved but leave the national authorities the choice of form and methods unless another time limit is provided for in that protocol.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4753">
+          <num>37</num>
+          <content eId="para_4753__content">
+            <p>It must be stated that no such time limit has been provided for transposing Directive 2004/18 into national law. Romania therefore had to comply with that directive as from its accession to the European Union in accordance with the principle that the provisions of EU law apply ab initio and in toto to new Member States (see, to that effect, judgment of 3 December 1998, KappAhl, C‑233/97, EU:C:1998:585, paragraph 15).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4754">
+          <num>38</num>
+          <content eId="para_4754__content">
+            <p>That being said, it must be ensured that Directive 2004/18 is in fact applicable to a procedure for the award of public works contracts such as that at issue in the case in the main proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4755">
+          <num>39</num>
+          <content eId="para_4755__content">
+            <p>In that regard, according to settled case-law, the directive applicable to a public contract is, as a rule, the one in force on the date when the contracting authority chooses the type of procedure to be followed and decides definitively whether it is necessary for a prior call for competition to be issued for the award of that contract (judgment of 7 April 2016, Partner Apelski Dariusz, C‑324/14, EU:C:2016:214, paragraph 83).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4756">
+          <num>40</num>
+          <content eId="para_4756__content">
+            <p>Where a public procurement procedure is the subject of publication of a contract notice, it must be considered that the date on which the contracting authority definitively decides whether it is necessary for a prior call for competition to be issued for the award of that contract is that of the day of that publication. Therefore, it is on that date that the lawfulness of the conditions relating to a procedure for awarding a public contract must be assessed.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4757">
+          <num>41</num>
+          <content eId="para_4757__content">
+            <p>In the present case, the procedure for the award of the public works contract at issue in the case in the main proceedings was the subject of a contract notice published in the supplement to the Official Journal of the European Union on 17 July 2007, that is, after the accession of Romania to the European Union. Since the Accession Protocol did not provide for any transitional measure capable of postponing the application of Directive 2004/18, it must therefore be considered that it is applicable ratione temporis to a public procurement procedure such as that at issue in the case in the main proceedings.</p>
+            <tblock>
+              <p>The first and second questions</p>
+            </tblock>
+            <p>42 By its first and second questions, which must be examined jointly, the referring court asks, in essence, whether Directive 2004/18, and in particular Article 15(c) thereof, must be interpreted as meaning that it precludes a Member State's legislation that provides, for the purposes of a public procurement procedure initiated after the date of its accession to the European Union, in order to complete a project started on the basis of a finance agreement concluded with the EIB prior to that accession, the application of the specific criteria laid down by the provisions of the EIB Guide which do not comply with the provisions of that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4758">
+          <num>43</num>
+          <content eId="para_4758__content">
+            <p>Article 15(c) of Directive 2004/18 states that that directive does not apply to public contracts governed by particular procedural rules of an international organisation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4759">
+          <num>44</num>
+          <content eId="para_4759__content">
+            <p>In addition, it should be noted that that article, read in conjunction with recital 22 of Directive 2004/18, lists three cases of public contracts to which that directive does not apply to the extent that those public contracts are governed by different procedural rules. Moreover, it is clear that that article forms part of Section 3, entitled `Excluded contracts', of Chapter II, entitled `Scope', of Title II, itself entitled `Rules on public contracts' of Directive 2004/18.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4760">
+          <num>45</num>
+          <content eId="para_4760__content">
+            <p>It thus follows both from the wording of Article 15(c) of Directive 2004/18 and from the context in which it appears, that that article constitutes an exception to the material scope of that directive. Such an exception must necessarily be interpreted strictly (see, to that effect, order of 20 June 2013, Consiglio Nazionale degli Ingegneri, C‑352/12, not published, EU:C:2013:416, paragraph 51 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4761">
+          <num>46</num>
+          <content eId="para_4761__content">
+            <p>In order to assess whether a public procurement procedure such as that at issue in the case in the main proceedings, governed by Chapter 3 of the EIB Guide, may fall within the exception provided for in Article 15(c) of Directive 2004/18, it is necessary to determine whether such a procedure can be considered to be governed by particular procedural rules of an international organisation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4762">
+          <num>47</num>
+          <content eId="para_4762__content">
+            <p>As has been stated in paragraph 41 of the present judgment, the contract notice at issue in the case in the main proceedings was published subsequent to Romania's accession to the European Union.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4763">
+          <num>48</num>
+          <content eId="para_4763__content">
+            <p>In those circumstances, a procedure such as that at issue in the case in the main proceedings cannot be regarded as being governed by particular rules of procedure of an international organisation within the meaning of Article 15(c) of Directive 2004/18.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4764">
+          <num>49</num>
+          <content eId="para_4764__content">
+            <p>Therefore, after the date of its accession to the European Union, Romania cannot rely on the exception relating to compliance with the particular rules of an international organisation provided for in Article 15(c) of Directive 2004/18.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4765">
+          <num>50</num>
+          <content eId="para_4765__content">
+            <p>Moreover, as the referring court has pointed out, such an interpretation is supported by the wording of the EIB Guide under which, after accession to the Union, a candidate State which has received EIB funding to complete a project is no longer subject to Chapter 3 of the EIB Guide, as regards operations outside the European Union, but is then subject to Chapter 2 concerning operations within the European Union, and must apply the directives on public procurement procedures.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4766">
+          <num>51</num>
+          <content eId="para_4766__content">
+            <p>It follows from the foregoing that Directive 2004/18 precludes the existence of a legislative act of national law, such as OUG No 72/2007, which provides that the provisions of Chapter 3 of the EIB Guide are to apply by way of derogation from the provisions of that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4767">
+          <num>52</num>
+          <content eId="para_4767__content">
+            <p>In the light of the foregoing considerations, the answer to the first and second questions referred is that Directive 2004/18, and in particular Article 15(c) thereof, must be interpreted as meaning that it precludes a Member State's legislation that provides, for the purposes of a public procurement procedure initiated after the date of its accession to the European Union, in order to complete a project started on the basis of a finance agreement concluded with the EIB prior to that accession, the application of the specific criteria laid down by the provisions of the EIB Guide which do not comply with the provisions of that directive.</p>
+            <tblock>
+              <p>The third and fourth questions</p>
+            </tblock>
+            <p>53 By its third and fourth questions, which should be examined together, the referring court asks, in essence, whether Articles 9(5) and 60(a) of Regulation No 1083/2006 must be interpreted as meaning that a public procurement procedure such as that at issue in the case in the main proceedings, in which more restrictive criteria than those laid down in Directive 2004/18 have been applied, may be considered to comply with EU law and be eligible for non-reimbursable European funding, granted retrospectively, and whether, where appropriate, Article 2(7) of Regulation No 1083/2006 must be interpreted as meaning that the use of pre-selection criteria of tenderers that are more restrictive than those provided for in Directive 2004/18 constitutes an `irregularity', within the meaning of Article 2(7), justifying the application of a financial correction pursuant to Article 98 of that regulation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4768">
+          <num>54</num>
+          <content eId="para_4768__content">
+            <p>As regards the first aspect, it is apparent from the wording of Article 9(5) of Regulation No 1083/2006, read in the light of recital 22 of that regulation, that the European Funds are intended to finance only operations that comply with the provisions of the Treaty and the acts adopted under it.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4769">
+          <num>55</num>
+          <content eId="para_4769__content">
+            <p>In addition, under Article 60(a) of Regulation No 1083/2006, it is the responsibility of the managing authority to ensure that operations selected for funding comply with applicable EU and national rules for the whole of their implementation period.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4770">
+          <num>56</num>
+          <content eId="para_4770__content">
+            <p>Accordingly, Regulation No 1083/2006 forms part of the mechanism designed to ensure the proper management of EU funds and the safeguarding of the European Union's financial interests (see, to that effect, judgment of 26 May 2016, Judeţul Neamţ and Judeţul Bacău, C‑260/14 and C‑261/14, EU:C:2016:360, paragraph 34).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4771">
+          <num>57</num>
+          <content eId="para_4771__content">
+            <p>It follows that the role of the European Union is to finance through its funds only actions conducted in complete conformity with EU law, including the rules applicable to public procurement (see to that effect, judgment of 14 July 2016, Wrocław -- Miasto na prawach powiatu, C‑406/14, EU:C:2016:562, paragraph 43 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4772">
+          <num>58</num>
+          <content eId="para_4772__content">
+            <p>In the present case, it is common ground that, for the purposes of the pre-selection of tenderers, the CNADNR followed the rules of Chapter 3 of the EIB Guide. In that regard, the fact of following the rules of that guide cannot rule out, ab initio, that the EU rules as they result from Directive 2004/18 are observed. Nevertheless, it is clear from the referring court's statements that the pre-selection criteria at issue in the case in the main proceedings are more restrictive than those set out in Articles 44, 45 and 47 of Directive 2004/18.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4773">
+          <num>59</num>
+          <content eId="para_4773__content">
+            <p>In view of the above, a public procurement procedure such as that at issue in the case in the main proceedings, in which more restrictive criteria than those laid down in Directive 2004/18 have been applied, cannot be considered as having been conducted in complete conformity with EU law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4774">
+          <num>60</num>
+          <content eId="para_4774__content">
+            <p>As regards the second aspect referred to in paragraph 53, it follows from the definition in Article 2(7) of Regulation No 1083/2006 that an infringement of EU law constitutes an `irregularity', within the meaning of that provision, only if it has, or would have, the effect of prejudicing the general budget of the European Union by charging an unjustified item of expenditure to that budget. Therefore, the Court has held that such an infringement is to be considered to be an irregularity only in so far as it was capable, as such, to have a budgetary impact. By contrast, there is no requirement that the existence of a specific financial impact be shown (judgment of 14 July 2016, Wrocław -- Miasto na prawach powiatu, C‑406/14, EU:C:2016:562, paragraph 44 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4775">
+          <num>61</num>
+          <content eId="para_4775__content">
+            <p>Consequently, it should be considered that a failure to comply with the public procurement rules constitutes an `irregularity' within the meaning of Article 2(7) of Regulation No 1083/2006 in so far as the possibility may not be excluded that that failure will have an impact on the budget of the Funds concerned (judgment of 14 July 2016, Wrocław -- Miasto na prawach powiatu, C‑406/14, EU:C:2016:562, paragraph 45).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4776">
+          <num>62</num>
+          <content eId="para_4776__content">
+            <p>In the present case, the use of pre-selection criteria for tenderers that are more restrictive than those provided for by Directive 2004/18 constitutes an `irregularity' within the meaning of Article 2(7) of Regulation No 1083/2006, provided that it cannot be ruled out that such use has had an impact on the budget of the Funds at issue.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4777">
+          <num>63</num>
+          <content eId="para_4777__content">
+            <p>In that regard, it is clear from the order for reference that, in the main proceedings, AMPOST has shown that the pre-selection criteria for tenderers were more restrictive than those laid down in Directive 2004/18 and that they had the effect of restricting the circle of participants in the public procurement procedure at issue in the case in the main proceedings so that the impact on the budget of the Funds cannot be ruled out, which it is for the national court to determine.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4778">
+          <num>64</num>
+          <content eId="para_4778__content">
+            <p>Finally, as to whether that irregularity justifies the application of a financial correction pursuant to Article 98 of Regulation No 1083/2006, it is appropriate to note that it is for the Member States to make a financial correction, provided that an irregularity has been established.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4779">
+          <num>65</num>
+          <content eId="para_4779__content">
+            <p>For that purpose, Article 98(2) thereof also requires the competent national authority to calculate the amount of the correction to apply by taking into account three criteria, namely the nature and gravity of the irregularities and the resulting financial loss to the Funds (judgment of 14 July 2016, Wrocław -- Miasto na prawach powiatu, C‑406/14, EU:C:2016:562, paragraph 47).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4780">
+          <num>66</num>
+          <content eId="para_4780__content">
+            <p>Where, as in the case at issue in the main proceedings, a specific, and not a systematic, irregularity is concerned, that requirement necessarily involves a case-by-case examination, taking into account all of the relevant circumstances in the light of one of those three criteria.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4781">
+          <num>67</num>
+          <content eId="para_4781__content">
+            <p>In the present case, the fact that the CNADNR acted in accordance with the national legislation which required it to derogate from Directive 2004/18, so that it had no discretion as to the public procurement award procedure to follow, is a circumstance likely to affect the final amount of the financial correction to be applied, which it is for the national court to determine in the light of the specific circumstances of the case.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4782">
+          <num>68</num>
+          <content eId="para_4782__content">
+            <p>In the light of the above considerations, the answer to the third to fourth questions is:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>Articles 9(5) and 60(a) of Regulation No 1083/2006 must be interpreted as meaning that a public procurement procedure such as that at issue in the case in the main proceedings, in which criteria more restrictive than those laid down in Directive 2004/18 have been applied, cannot be considered as having been conducted in complete conformity with EU law and is not eligible for non-reimbursable European funding, granted retrospectively.</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>Article 2(7) of Regulation No 1083/2006 must be interpreted as meaning that the use of pre-selection criteria for tenderers that are more restrictive than those provided for by Directive 2004/18 constitutes an `irregularity', within the meaning of that article, justifying the application of a financial correction pursuant to Article 98 of that regulation, provided that it cannot be ruled out that such use had an impact on the budget of the Funds at issue, which it is for the national court to determine.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_4783">
+          <num>69</num>
+          <content eId="para_4783__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Eighth Chamber) hereby rules: 1. Directive 2004/18/EC of the European Parliament and of the Council of 31 March 2004 on the coordination of procedures for the award of public works contracts, public supply contracts and public service contracts, and in particular Article 15(c) thereof, must be interpreted as meaning that it precludes a Member State's legislation that provides, for the purposes of a public procurement procedure initiated after the date of its accession to the European Union in order to complete a project started on the basis of a finance agreement concluded with the European Investment Bank prior to that accession, the application of the specific criteria laid down by the provisions of the European Investment Bank's public procurement guide which do not comply with the provisions of that directive. 2. Articles 9(5) and 60(a) of Council Regulation (EC) No 1083/2006 of 11 July 2006 laying down general provisions on the European Regional Development Fund, the European Social Fund and the Cohesion Fund and repealing Regulation (EC) No 1260/1999 must be interpreted as meaning that a public procurement procedure such as that at issue in the case in the main proceedings, in which criteria more restrictive than those laid down in Directive 2004/18 have been applied, cannot be considered as having been conducted in complete conformity with EU law and is not eligible for non-reimbursable European funding, granted retrospectively. Article 2(7) of Regulation No 1083/2006 must be interpreted as meaning that the use of pre-selection criteria for tenderers that are more restrictive than those provided for by Directive 2004/18 constitutes an `irregularity', within the meaning of that article, justifying the application of a financial correction pursuant to Article 98 of that regulation, provided that it cannot be ruled out that such use had an impact on the budget of the Funds at issue, which it is for the national court to determine.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Romanian.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

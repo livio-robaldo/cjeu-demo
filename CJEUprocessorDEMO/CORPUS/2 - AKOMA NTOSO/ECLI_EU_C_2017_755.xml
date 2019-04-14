@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Second Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>12 October 2017 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Area of Freedom, Security and Justice -- Regulation (EU) No 650/2012 -- Succession and the European Certificate of Succession -- Scope -- Immovable property located in a Member State in which legacies `per vindicationem' do not exist -- Refusal to recognise the material effects of such a legacy) In Case C‑218/16, REQUEST for a preliminary ruling under Article 267 TFEU from the Sąd Okręgowy w Gorzowie Wielkopolskim (Regional Court, Gorzów Wielkopolski, Poland), made by decision of 8 March 2016, received at the Court on 19 April 2016, in the proceedings brought by Aleksandra Kubicka intervening party:</p>
+      <p>
+        <party as="intervening" refersTo="#">Przemysława Bac</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="intervening" refersTo="#">acting in her capacity as notary</party>
+      </p>
+      <p>THE COURT (Second Chamber), composed of M. Ilešič, President of the Chamber, A. Rosas, C. Toader (Rapporteur), A. Prechal and E. Jarašiūnas, Judges, Advocate General: Y. Bot, Registrar: M. Aleksejev, Administrator, having regard to the written procedure and further to the hearing on 1 March 2017, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>Ms Przemysława Bac, acting in her capacity as notary, by M. Margoński, zastępca notarialny,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Polish Government, by B. Majczyna, M. Nowak and S. Żyrek, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the German Government, by T. Henze, J. Möller, M. Hellmann and J. Mentgen, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Greek Government, by E. Tsaousi and A. Magrippi, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Spanish Government, by V. Ester Casas and S. Jiménez García, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Hungarian Government, by M.Z. Fehér, G. Koós and M. Tátrai, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by M. Wilderspin and A. Stobiecka-Kuik, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 17 May 2017,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_448">
+          <num>1</num>
+          <content eId="para_448__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Article 1(2)(k) and (l) and Article 31 of Regulation (EU) No 650/2012 of the European Parliament and of the Council of 4 July 2012 on jurisdiction, applicable law, recognition and enforcement of decisions and acceptance and enforcement of authentic instruments in matters of succession and on the creation of a European Certificate of Succession ( OJ 2012 L 201, p. 107).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_449">
+          <num>2</num>
+          <content eId="para_449__content">
+            <p>The request has been made in the context of proceedings brought by Aleksandra Kubicka concerning a notary established in Słubice (Poland) and the execution of a notarially recorded will setting up a legacy `by vindication'.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <paragraph eId="para_450">
+          <num>3</num>
+          <content eId="para_450__content">
+            <p>Recitals 7, 8, 15, 18, 19 and 37 of Regulation No 650/2012 are worded as follows: `</p>
+            <blockList>
+              <item>
+                <num>(7)</num>
+                <p>The proper functioning of the internal market should be facilitated by removing the obstacles to the free movement of persons who currently face difficulties in asserting their rights in the context of a succession having cross-border implications. In the European area of justice, citizens must be able to organise their succession in advance. The rights of heirs and legatees, of other persons close to the deceased and of creditors of the succession must be effectively guaranteed.</p>
+              </item>
+              <item>
+                <num>(8)</num>
+                <p>In order to achieve those objectives, this Regulation should bring together provisions on jurisdiction, on applicable law, on recognition or, as the case may be, acceptance, enforceability and enforcement of decisions, authentic instruments and court settlements and on the creation of a European Certificate of Succession. ...</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(15)</num>
+                <p>This Regulation should allow for the creation or the transfer by succession of a right in immovable or movable property as provided for in the law applicable to the succession. It should, however, not affect the limited number ( ` numerus clausus') of rights in rem known in the national law of some Member States. A Member State should not be required to recognise a right in rem relating to property located in that Member State if the right in rem in question is not known in its law. ...</p>
+                <blockList>
+                  <item>
+                    <num>(18)</num>
+                    <p>The requirements for the recording in a register of a right in immovable or movable property should be excluded from the scope of this Regulation. It should therefore be the law of the Member State in which the register is kept (for immovable property, the lex rei sitae) which determines under what legal conditions and how the recording must be carried out and which authorities, such as land registers or notaries, are in charge of checking that all requirements are met and that the documentation presented or established is sufficient or contains the necessary information. In particular, the authorities may check that the right of the deceased to the succession property mentioned in the document presented for registration is a right which is recorded as such in the register or which is otherwise demonstrated in accordance with the law of the Member State in which the register is kept. In order to avoid duplication of documents, the registration authorities should accept such documents drawn up in another Member State by the competent authorities whose circulation is provided for by this Regulation. In particular, the European Certificate of Succession issued under this Regulation should constitute a valid document for the recording of succession property in a register of a Member State. This should not preclude the authorities involved in the registration from asking the person applying for registration to provide such additional information, or to present such additional documents, as are required under the law of the Member State in which the register is kept, for instance information or documents relating to the payment of revenue. The competent authority may indicate to the person applying for registration how the missing information or documents can be provided.</p>
+                  </item>
+                  <item>
+                    <num>(19)</num>
+                    <p>The effects of the recording of a right in a register should also be excluded from the scope of this Regulation. It should therefore be the law of the Member State in which the register is kept which determines whether the recording is, for instance, declaratory or constitutive in effect. Thus, where, for example, the acquisition of a right in immovable property requires a recording in a register under the law of the Member State in which the register is kept in order to ensure the erga omnes effect of registers or to protect legal transactions, the moment of such acquisition should be governed by the law of that Member State. ...</p>
+                  </item>
+                </blockList>
+              </item>
+              <item>
+                <num>(37)</num>
+                <p>In order to allow citizens to avail themselves, with all legal certainty, of the benefits offered by the internal market, this Regulation should enable them to know in advance which law will apply to their succession. Harmonised conflict-of-laws rules should be introduced in order to avoid contradictory results. The main rule should ensure that the succession is governed by a predictable law with which it is closely connected. For reasons of legal certainty and in order to avoid the fragmentation of the succession, that law should govern the succession as a whole, that is to say, all of the property forming part of the estate, irrespective of the nature of the assets and regardless of whether the assets are located in another Member State or in a third State.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_451">
+          <num>4</num>
+          <content eId="para_451__content">
+            <p>Article 1 of that regulation provides: `1.   This Regulation shall apply to succession to the estates of deceased persons. It shall not apply to revenue, customs or administrative matters. 2.   The following shall be excluded from the scope of this Regulation: ...</p>
+            <blockList>
+              <item>
+                <num>(k)</num>
+                <p>the nature of rights in rem; and</p>
+              </item>
+              <item>
+                <num>(l)</num>
+                <p>any recording in a register of rights in immoveable or moveable property, including the legal requirements for such recording, and the effects of recording or failing to record such rights in a register.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_452">
+          <num>5</num>
+          <content eId="para_452__content">
+            <p>According to the definition in Article 3(1)(a) of that regulation, ```succession '' means succession to the estate of a deceased person and covers all forms of transfer of assets, rights and obligations by reason of death, whether by way of a voluntary transfer under a disposition of property upon death or a transfer through intestate succession.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_453">
+          <num>6</num>
+          <content eId="para_453__content">
+            <p>The first subparagraph of Article 22(1) of Regulation No 650/2012, entitled `Choice of law', provides: `A person may choose as the law to govern his succession as a whole the law of the State whose nationality he possesses at the time of making the choice or at the time of death.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_454">
+          <num>7</num>
+          <content eId="para_454__content">
+            <p>Paragraphs 1 and 2(b) and</p>
+            <blockList>
+              <item>
+                <num>(e)</num>
+                <p>of Article 23 of that regulation, entitled `The scope of the applicable law', provide: `1.   The law determined pursuant to Article 21 or Article 22 shall govern the succession as a whole. 2.   That law shall govern in particular: ...</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>the determination of the beneficiaries, of their respective shares and of the obligations which may be imposed on them by the deceased, and the determination of other succession rights, including the succession rights of the surviving spouse or partner; ...</p>
+              </item>
+              <item>
+                <num>(e)</num>
+                <p>the transfer to the heirs and, as the case may be, to the legatees of the assets, rights and obligations forming part of the estate, including the conditions and effects of the acceptance or waiver of the succession or of a legacy.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_455">
+          <num>8</num>
+          <content eId="para_455__content">
+            <p>Under Article 31 of that regulation, entitled `Adaptation of rights in rem': `Where a person invokes a right in rem to which he is entitled under the law applicable to the succession and the law of the Member State in which the right is invoked does not know the right in rem in question, that right shall, if necessary and to the extent possible, be adapted to the closest equivalent right in rem under the law of that State, taking into account the aims and the interests pursued by the specific right in rem and the effects attached to it.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_456">
+          <num>9</num>
+          <content eId="para_456__content">
+            <p>Chapter VI of Regulation No 650/2012, entitled `European Certificate of Succession', comprises Articles 62 to 73. Article 62 states: `1.   This Regulation creates a European Certificate of Succession (hereinafter referred to as ``the Certificate '') which shall be issued for use in another Member State and shall produce the effects listed in Article 69. 2.   The use of the Certificate shall not be mandatory. 3.   The Certificate shall not take the place of internal documents used for similar purposes in the Member States. However, once issued for use in another Member State, the Certificate shall also produce the effects listed in Article 69 in the Member State whose authorities issued it in accordance with this Chapter.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_457">
+          <num>10</num>
+          <content eId="para_457__content">
+            <p>Paragraphs 1 and 2 of Article 63 of that regulation, entitled `Purpose of the Certificate', provides: `1.   The Certificate is for use by heirs, legatees having direct rights in the succession ... who, in another Member State, need to invoke their status or to exercise respectively their rights as heirs or legatees ... 2.   The Certificate may be used, in particular, to demonstrate one or more of the following:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>the status and/or the rights of each heir or, as the case may be, each legatee mentioned in the Certificate and their respective shares of the estate;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>the attribution of a specific asset or specific assets forming part of the estate to the heir(s) or, as the case may be, the legatee(s) mentioned in the Certificate; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_458">
+          <num>11</num>
+          <content eId="para_458__content">
+            <p>Article 68 of that regulation, which governs the contents of the certificate, states: `The Certificate shall contain the following information, to the extent required for the purpose for which it is issued: ...</p>
+            <blockList>
+              <item>
+                <num>(m)</num>
+                <p>the list of rights and/or assets for any given legatee; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_459">
+          <num>12</num>
+          <content eId="para_459__content">
+            <p>Article 69 of that regulation, entitled `Effects of the Certificate', states: `1.   The Certificate shall produce its effects in all Member States, without any special procedure being required. 2.   The Certificate shall be presumed to accurately demonstrate elements which have been established under the law applicable to the succession or under any other law applicable to specific elements. The person mentioned in the Certificate as the heir, legatee, ... shall be presumed to have the status mentioned in the Certificate and/or to hold the rights or the powers stated in the Certificate, with no conditions and/or restrictions being attached to those rights or powers other than those stated in the Certificate. ... 5.   The Certificate shall constitute a valid document for the recording of succession property in the relevant register of a Member State, without prejudice to points (k) and (l) of Article 1(2).'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Polish law</p>
+        </tblock>
+        <tblock>
+          <p>The Civil Code</p>
+        </tblock>
+        <paragraph eId="para_460">
+          <num>13</num>
+          <content eId="para_460__content">
+            <p>Article 981(1) of the Kodeks Cywilny (Polish Civil Code) provides: `In a will drawn up in the form of a notarial instrument, the testator can decide that an asset to which a legacy relates shall pass to a specified person upon the opening of the succession (legacy ``by vindication '').'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_461">
+          <num>14</num>
+          <content eId="para_461__content">
+            <p>According to Article 981(2)(2), the asset to which such a legacy relates may be, inter alia, a share in the right of ownership of immovable property, constituting a transferable property right.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_462">
+          <num>15</num>
+          <content eId="para_462__content">
+            <p>Article 968 of the Civil Code concerns the `legacy by damnation', which a testator may include in a will drawn up in any permissible form, including a holographic will. For this type of legacy, the heir has an obligation to transfer the right in the property to the legatee, who may also enforce execution of the legacy by the heir.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The Law on notaries</p>
+        </tblock>
+        <paragraph eId="para_463">
+          <num>16</num>
+          <content eId="para_463__content">
+            <p>Under Article 81 of the Prawo o notariacie (Law introducing a notarial code) of 14 February 1991 (Dziennik Ustaw No 22, item 91), as amended by the Law of 13 December 2013(Dziennik Ustaw of 2014, item 164) ( `the Law on notaries'), notaries are required to refuse to execute unlawful notarial instruments.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_464">
+          <num>17</num>
+          <content eId="para_464__content">
+            <p>According to Article 83(2) of the Law on notaries, a person who has had their request to have a notarial instrument drawn up refused by a notary may appeal against that refusal. The appeal is to be brought first before the notary who made the refusal, who, if he considers the appeal well-founded, will draw up the notarial instrument requested. By contrast, if the notary dismisses the appeal, it will be referred to the Sąd Okręgowy (Regional Court, Poland) with jurisdiction in the place where the notary is registered.</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The facts in the main proceedings and the question referred</p>
+        </tblock>
+        <paragraph eId="para_465">
+          <num>18</num>
+          <content eId="para_465__content">
+            <p>Ms Kubicka, a Polish national resident in Frankfurt an der Oder (Germany), is married to a German national. Two children, who are still minors, were born from that marriage. The spouses are joint owners, each with a 50% share, of land in Frankfurt an der Oder on which their family home is built. In order to make her will, Aleksandra Kubicka approached a notary practising in Słubice (Poland).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_466">
+          <num>19</num>
+          <content eId="para_466__content">
+            <p>Ms Kubicka wishes to include in her will a legacy `by vindication', which is allowed by Polish law, in favour of her husband, concerning her share of ownership of the jointly-owned immovable property in Frankfurt an der Oder. She wishes to leave the remainder of the assets that comprise her estate in accordance with the statutory order of inheritance, whereby her husband and children would inherit it in equal shares.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_467">
+          <num>20</num>
+          <content eId="para_467__content">
+            <p>She expressly ruled out recourse to an ordinary legacy (legacy `by damnation'), as provided for by Article 968 of the Civil Code, since such a legacy would entail difficulties in relation to the representation of her minor children, who will inherit, as well as additional costs.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_468">
+          <num>21</num>
+          <content eId="para_468__content">
+            <p>On 4 November 2015, the notary's assistant refused to draw up a will containing the legacy `by vindication' stipulated by Aleksandra Kubicka on the ground that creation of a will containing such a legacy is contrary to German legislation and case-law relating to rights in rem and land registration, which must be taken into consideration under Article 1(2)(k) and (l) and Article 31 of Regulation No 650/2012 and that, as a result, such an act is unlawful.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_469">
+          <num>22</num>
+          <content eId="para_469__content">
+            <p>The notary's assistant stated that, in Germany, a legatee may be entered in the land register only by means of a notarial instrument containing an agreement between the heirs and the legatee to transfer ownership of the immovable property. Foreign legacies `by vindication' will, by means of `adaptation', be considered to be legacies `by damnation' in Germany, under Article 31 of Regulation No 650/2012. This interpretation is clear from the explanatory memorandum of the German law which amended national law in accordance with the provisions of Regulation No 650/2012 (Internationales Erbrechtsverfahrensgesetz (Law on international succession proceedings), of 29 June 2015, BGBl. I, p. 1042).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_470">
+          <num>23</num>
+          <content eId="para_470__content">
+            <p>On 16 November 2015, Aleksandra Kubicka submitted to the notary an appeal pursuant to Article 83 of the Law on notaries against the decision refusing to draw up a will containing such a legacy `by vindication'. She claimed that the provisions of Regulation No 650/2012 should be interpreted independently and, in essence, that none of those provisions justify restricting the provisions of succession law by depriving a legacy `by vindication' of material effects.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_471">
+          <num>24</num>
+          <content eId="para_471__content">
+            <p>Since her appeal to the notary was not upheld, Aleksandra Kubicka brought an appeal before the Sąd Okręgowy w Gorzowie Wielkopolskim (Regional Court, Gorzów Wielkopolski, Poland).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_472">
+          <num>25</num>
+          <content eId="para_472__content">
+            <p>The referring court considers that, pursuant to Article 23(2)(b) and (e) and Article 68(m) of Regulation No 650/2012, legacies `by vindication' fall within the scope of succession law. However, it is uncertain to what extent the law in force in the place where the asset to which the legacy relates is located can limit the material effects of a legacy `by vindication' as provided for in the succession law that was chosen.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_473">
+          <num>26</num>
+          <content eId="para_473__content">
+            <p>Given that, under Article 1(2)(k) of Regulation No 650/2012, the `nature of rights in rem' is excluded from the scope of the regulation, legacies `by vindication', as provided for by succession law, cannot create for an asset rights which are not recognised by the lex rei sitae of the asset to which the legacy relates. However, it is necessary to determine whether that same provision also excludes from the scope of the regulation possible grounds for acquiring rights in rem. In that regard, the referring court considers that the acquisition of rights in rem by means of a legacy `by vindication' is governed exclusively by succession law. Polish legal literature on the matter takes the same position, while the explanatory memorandum of the German draft law on international succession law and amending the provisions governing the certificate of succession and other provisions (Gesetzesentwurf der Bundesregierung, BT-Drs. 17/5451 of 4 March 2015) provides that it is not obligatory, in the context of Regulation No 650/2012, for German law to recognise a legacy `by vindication' on the basis of a will drawn up according to the law of another Member State.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_474">
+          <num>27</num>
+          <content eId="para_474__content">
+            <p>Referring to Article 1(2)(l) of Regulation No 650/2012, the referring court also wonders whether the law governing registers of rights in immoveable or moveable property may have an impact on the effect of a legacy under succession law. In that regard, it states that if the legacy is recognised as producing material effects in matters relating to succession, the law of the Member State in which such a register is kept would govern only the means by which the acquisition of an asset under succession law is proven and could not affect the acquisition itself.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_475">
+          <num>28</num>
+          <content eId="para_475__content">
+            <p>As a result, the referring court considers that the interpretation of Article 31 of Regulation No 650/2012 also depends on whether or not the Member State in which the asset to which the legacy relates is located has the authority to question the material effect of that legacy, which arises under the succession law that has been chosen.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_476">
+          <num>29</num>
+          <content eId="para_476__content">
+            <p>In those circumstances the Sąd Okręgowy w Gorzowie Wielkopolskim (Regional Court, Gorzów Wielkopolski, Poland) decided to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling: `Must Article 1(2)(k) and (l), and Article 31 of Regulation (EU) [No 650/2012] be interpreted as permitting refusal to recognise the material effects of a legacy `by vindication' ( legatum per vindicationem), as provided for by succession law, if that legacy concerns the right of ownership of immovable property located in a Member State the law of which does not provide for legacies having direct material effect?'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the question referred</p>
+        </tblock>
+        <tblock>
+          <p>Admissibility</p>
+        </tblock>
+        <paragraph eId="para_477">
+          <num>30</num>
+          <content eId="para_477__content">
+            <p>The German and Hungarian Governments question the admissibility of the question referred on the ground that it is hypothetical.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_478">
+          <num>31</num>
+          <content eId="para_478__content">
+            <p>According to settled case-law, the procedure set out in Article 267 TFEU is an instrument of cooperation between the Court and the national courts, which gives the latter the responsibility to determine, in view of the special features of each case, both the need for a preliminary ruling in order to enable them to give their judgment and the relevance of the questions which they put to the Court (see, to that effect, judgments of 3 April 2014, Weber, C‑438/12, EU:C:2014:212, paragraph 34, and of 2 March 2017, Pérez Retamero, C‑97/16, EU:C:2017:158, paragraph 20 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_479">
+          <num>32</num>
+          <content eId="para_479__content">
+            <p>Therefore, the Court may refuse to rule on a question referred for a preliminary ruling by a national court only where it is quite obvious that the interpretation of EU law that is sought bears no relation to the actual facts of the main action or its purpose, where the problem is hypothetical, or where the Court does not have before it the factual or legal material necessary to enable it to give a useful answer to the questions submitted to it (see, inter alia, judgments of 3 April 2014, Weber, C‑438/12, EU:C:2014:212, paragraph 35, and of 2 March 2017, Pérez Retamero, C‑97/16, EU:C:2017:158, paragraphs 21 and 22 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_480">
+          <num>33</num>
+          <content eId="para_480__content">
+            <p>The German Government claims that it is not clear from the referring court's decision why drawing up a notarised will, under Polish law as chosen by the testator, that stipulates a legacy `by vindication' on immovable property located in Germany would be unlawful.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_481">
+          <num>34</num>
+          <content eId="para_481__content">
+            <p>In that regard, it should be noted that, as the referring court explained, Article 81 of the Law on notaries provides that the notary is legally required to refuse to execute unlawful notarial instruments. In addition, as was noted during the hearing, provisions of a will setting up a legacy `by vindication' that would be ineffective because of their legal structure would have been held by the Polish courts to be unlawful.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_482">
+          <num>35</num>
+          <content eId="para_482__content">
+            <p>In the main proceedings, the testator, who pursuant to the first sentence of Article 22(1) of Regulation No 650/2012 chose Polish succession law as the law governing her will, wants to establish in her will a legacy `by vindication' in respect of immovable property in Germany, a Member State in which the material effects of that legacy are not recognised.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_483">
+          <num>36</num>
+          <content eId="para_483__content">
+            <p>Therefore, it is clear from the request for a preliminary ruling that the interpretation of Article 1(2)(k) and (l) and Article 31 of Regulation No 650/2012 is necessary in order for a decision to be made in the main proceedings. Indeed, it is for the referring court to ascertain whether the notary's refusal to establish the notarial instrument requested by the applicant in the main proceedings, on the ground that it would be contrary to German law, is well-founded under that regulation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_484">
+          <num>37</num>
+          <content eId="para_484__content">
+            <p>Maintaining that the question referred is inadmissible, the Hungarian Government claims that the question pertains to a dispute which has not yet arisen, the testator not being deceased and the German authority responsible for land registration not having been called upon with regard to that property.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_485">
+          <num>38</num>
+          <content eId="para_485__content">
+            <p>In this respect, it suffices to state that, as is clear from recital 7 of Regulation No 650/2012, the regulation aims to allow citizens to organise their succession in advance. The mere fact that, in the main proceedings, succession has not yet been opened cannot render the question referred hypothetical.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_486">
+          <num>39</num>
+          <content eId="para_486__content">
+            <p>In the light of the above, the question referred for a preliminary ruling is admissible.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Substance</p>
+        </tblock>
+        <paragraph eId="para_487">
+          <num>40</num>
+          <content eId="para_487__content">
+            <p>By its question, the referring court asks, in essence, whether Article 1(2)(k) and (l) and Article 31 of Regulation No 650/2012 must be interpreted as precluding refusal, by an authority of a Member State, to recognise the material effects of a legacy `by vindication', which is recognised by the law governing succession chosen by the testator in accordance with Article 22(1) of that regulation, when that refusal is based on the ground that the legacy concerns the right of ownership of immovable property located in that Member State whose law does not provide for legacies with direct material effect when succession takes place.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_488">
+          <num>41</num>
+          <content eId="para_488__content">
+            <p>It must be noted as a preliminary remark that, according to the first sentence of Article 1(1) of Regulation No 650/2012, that regulation applies to succession to the estates of deceased persons. Article 3(1)(a) of that regulation makes it clear that such successions cover `all forms of transfer of assets, rights and obligations by reason of death, whether by way of a voluntary transfer under a disposition of property upon death or a transfer through intestate succession'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_489">
+          <num>42</num>
+          <content eId="para_489__content">
+            <p>It is not disputed that the facts in the main proceedings concern a testate succession.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_490">
+          <num>43</num>
+          <content eId="para_490__content">
+            <p>It is apparent from the wording of Article 22(1) of Regulation No 650/2012 that the testator may choose the law of the State whose nationality he possesses as the law to govern his succession as a whole. It should also be noted that Article 23(1) of that regulation establishes the principle of the unity of the law applicable to the succession.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_491">
+          <num>44</num>
+          <content eId="para_491__content">
+            <p>The EU legislature thus specified, as is apparent from recital 37 of that regulation, that, for reasons of legal certainty and in order to avoid the fragmentation of the succession, that law must govern the succession as a whole, namely all of the property forming part of the estate, irrespective of the nature of the assets and regardless of whether the assets are located in another Member State or in a third State. Thus, in accordance with Article 23(2) of Regulation No 650/2012, that law governs, inter alia, the transfer of assets forming part of the estate to heirs or, as the case may be, to legatees.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_492">
+          <num>45</num>
+          <content eId="para_492__content">
+            <p>In this respect, Article 1(2) of Regulation No 650/2012 lists various matters that are excluded from the scope of that regulation, including, under point (k) of that provision, `the nature of rights in rem' and, under point (l), `the recording in a register of rights in immovable or movable property, including the legal requirements for such recording, and the effects of recording or failing to record such rights in a register'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_493">
+          <num>46</num>
+          <content eId="para_493__content">
+            <p>Regarding, in the first place, the question of whether Article 1(2)(k) of Regulation No 650/2012 must be interpreted as precluding a refusal to recognise, in Germany, the material effects of a legacy `by vindication' provided for in Polish law, it must be noted that that provision excludes from the scope of the regulation `the nature of rights in rem'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_494">
+          <num>47</num>
+          <content eId="para_494__content">
+            <p>As is clear from the explanatory memorandum to the Proposal for a Regulation of the European Parliament and of the Council on jurisdiction, applicable law, recognition and enforcement of decisions, acceptance and enforcement of authentic instruments in matters of succession and the creation of a European certificate of succession [COM(2009) 154 final, p. 5], that provision covers the classification of property and rights, and the determination of the prerogatives of the holder of such rights.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_495">
+          <num>48</num>
+          <content eId="para_495__content">
+            <p>Moreover, the existence and number of rights in rem in the legal order of the Member States ( ` numerus clausus') are also covered by the scope of that provision. Indeed, recital 15 of Regulation No 650/2012 states in that regard that the regulation does not affect the limited number ( ` numerus clausus') of rights in rem known in the national law of some Member States, and that a Member State should not be required to recognise a right in rem relating to property located in that Member State if the right in rem in question is not known in its law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_496">
+          <num>49</num>
+          <content eId="para_496__content">
+            <p>In the present case, both the legacy `by vindication', provided for by Polish law and the legacy `by damnation', provided for by German law, constitute methods of transfer of ownership of an asset, namely, as the Advocate General noted out in points 46 and 47 of his Opinion, a right in rem that is recognised in both of the legal systems concerned. Therefore, the direct transfer of a property right by means of a legacy `by vindication' concerns only the arrangement by which that right in rem is transferred at the time of the testator's death, which, according to recital 15, is precisely what Regulation No 650/2012 seeks to allow, in accordance with the law governing succession.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_497">
+          <num>50</num>
+          <content eId="para_497__content">
+            <p>Such methods of transfer are not covered by Article 1(2)(k) of Regulation No 650/2012.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_498">
+          <num>51</num>
+          <content eId="para_498__content">
+            <p>Therefore, it must be held that Article 1(2)(k) of Regulation No 650/2012 must be interpreted as precluding a refusal to recognise, in a Member State whose legal system does not provide for legacies `by vindication', the material effects produced by such a legacy when succession takes place, in accordance with the law governing succession chosen by the testator.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_499">
+          <num>52</num>
+          <content eId="para_499__content">
+            <p>In the second place, regarding the question of whether Article 1(2)(l) of Regulation No 650/2012 should be interpreted as precluding refusal to recognise the material effects of a legacy `by vindication', it must be noted that, according to this provision, any recording in a register of rights in immovable or movable property, including the legal requirements for such recording and the effects of recording or failing to record such rights in a register, are excluded from the scope of that regulation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_500">
+          <num>53</num>
+          <content eId="para_500__content">
+            <p>Recital 18 of Regulation No 650/2012 states in that regard that `it should ... be the law of the Member State in which the register is kept (for immovable property, the lex rei sitae) which determines under what legal conditions and how the recording [of a right in rem] must be carried out'. In addition, under recital 19 of that regulation, where `the acquisition of a right in immovable property requires a recording in a register under the law of the Member State in which the register is kept in order to ensure the erga omnes effect of registers or to protect legal transactions, the moment of such acquisition should be governed by the law of that Member State'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_501">
+          <num>54</num>
+          <content eId="para_501__content">
+            <p>It follows that, as the Advocate General noted, in essence, in point 60 of his Opinion, as Article 1(2)(l) of Regulation No 650/2012 concerns only the recording in a register of rights in immovable or movable property, including the legal requirements for such recording, and the effects of recording or failing to record such rights in a register, the conditions under which such rights are acquired do not constitute one of the subjects excluded from the scope of the regulation under this provision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_502">
+          <num>55</num>
+          <content eId="para_502__content">
+            <p>That interpretation is supported by the principle that the law governing succession should govern the succession as a whole, as provided for in Article 23 of Regulation No 650/2012, particularly in Article 23(2)(e), which provides that it governs `the transfer to the heirs and, as the case may be, to the legatees of the assets, rights and obligations forming part of the estate'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_503">
+          <num>56</num>
+          <content eId="para_503__content">
+            <p>Such an interpretation is consonant with the objective pursued by Regulation No 650/2012, referred to in recital 7 of that regulation, under which it seeks to facilitate the proper functioning of the internal market by eliminating obstacles to the free movement of persons who want to claim their rights arising from a cross-border succession. According to that recital, in the European area of justice, citizens must be able to organise their succession in advance.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_504">
+          <num>57</num>
+          <content eId="para_504__content">
+            <p>In this context, to accept that Article 1(2)(l) of Regulation No 650/2012 allows the acquisition of ownership of an asset by legacy `by vindication' to be excluded from the scope of that regulation would lead to the fragmentation of the succession, which is incompatible with the wording of Article 23 of the same regulation and with its objective.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_505">
+          <num>58</num>
+          <content eId="para_505__content">
+            <p>Accordingly, Article 1(2)(l) of Regulation No 650/2012 must be interpreted as precluding refusal to recognise, in a Member State whose legal system does not provide for legacies `by vindication', the material effects produced by such a legacy upon the opening of succession in accordance with the chosen law governing succession.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_506">
+          <num>59</num>
+          <content eId="para_506__content">
+            <p>Furthermore, it should be added that Regulation No 650/2012 provides for the creation of a certificate which must allow every heir, legatee or entitled person mentioned in the certificate to prove in another Member State his status and rights and, in particular, to demonstrate the attribution of a specific asset to the legatee mentioned in that certificate.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_507">
+          <num>60</num>
+          <content eId="para_507__content">
+            <p>According to Article 69(1) of that regulation, the certificate is to produce effects in all Member States, without any special procedure being required. Article 69(2) provides that the person mentioned in the Certificate as the legatee is to be presumed to have the status mentioned in the Certificate with no conditions and/or restrictions being attached to those rights other than those stated in the Certificate.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_508">
+          <num>61</num>
+          <content eId="para_508__content">
+            <p>In the third place, regarding the interpretation of Article 31 of Regulation No 650/2012, it must be noted that, under the terms of that article, `where a person invokes a right in rem to which he is entitled under the law applicable to the succession and the law of the Member State in which the right is invoked does not know the right in rem in question, that right shall, if necessary and to the extent possible, be adapted to the closest equivalent right in rem under the law of that State, taking into account the aims and the interests pursued by the specific right in rem and the effects attached to it'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_509">
+          <num>62</num>
+          <content eId="para_509__content">
+            <p>In this case, it should be noted that the right in rem that Ms Kubicka wishes to transfer by way of a legacy `by vindication' is the right of ownership of immovable property located in Germany. It is undisputed that German law recognises the right of ownership with which the legatee would be vested under Polish law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_510">
+          <num>63</num>
+          <content eId="para_510__content">
+            <p>Article 31 of Regulation No 650/2012 does not concern the method of the transfer of rights in rem, including, inter alia, legacies `by vindication' or `by damnation', but only the respect of the content of rights in rem, determined by the law governing the succession ( lex causae), and their reception in the legal order of the Member State in which they are invoked ( lex rei sitae).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_511">
+          <num>64</num>
+          <content eId="para_511__content">
+            <p>Therefore, in so far as the right in rem transferred by the legacy `by vindication' is the right of ownership, which is recognised in German law, there is no need for the adaptation provided for in Article 31 of Regulation No 650/2012.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_512">
+          <num>65</num>
+          <content eId="para_512__content">
+            <p>It follows that Article 31 of Regulation No 650/2012 must be interpreted as precluding refusal of recognition, in a Member State whose legal system does not provide for legacies `by vindication', of the material effects produced by such a legacy when succession takes place in accordance with the chosen succession law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_513">
+          <num>66</num>
+          <content eId="para_513__content">
+            <p>Having regard to the foregoing, the answer to the question referred is that Article 1(2)(k) and (l) and Article 31 of Regulation No 650/2012 must be interpreted as precluding refusal, by an authority of a Member State, to recognise the material effects of a legacy `by vindication', provided for by the law governing succession, chosen by the testator in accordance with Article 22(1) of that regulation, where that refusal is based on the ground that the legacy concerns the right of ownership of immovable property located in that Member State, whose law does not provide for legacies with direct material effect when succession takes place.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_514">
+          <num>67</num>
+          <content eId="para_514__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Second Chamber) hereby rules: Article 1(2)(k) and (l) and Article 31 of Regulation (EU) No 650/2012 of the European Parliament and of the Council of 4 July 2012 on jurisdiction, applicable law, recognition and enforcement of decisions and acceptance and enforcement of authentic instruments in matters of succession and on the creation of a European Certificate of Succession must be interpreted as precluding refusal, by an authority of a Member State, to recognise the material effects of a legacy `by vindication', provided for by the law governing succession chosen by the testator in accordance with Article 22(1) of that regulation, where that refusal is based on the ground that the legacy concerns the right of ownership of immovable property located in that Member State, whose law does not provide for legacies with direct material effect when succession takes place.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Polish.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

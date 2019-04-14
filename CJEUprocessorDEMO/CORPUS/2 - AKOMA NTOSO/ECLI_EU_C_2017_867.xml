@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Fifth Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>15 November 2017 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(References for a preliminary ruling -- Taxation -- Value added tax (VAT) -- Directive 2006/112/EC -- Article 168(a), Article 178(a) and Article 226(5) -- Deduction of input tax -- Compulsory content of invoices -- Legitimate expectation on the part of the taxable person regarding the existence of the conditions giving rise to the right to deduct) In Joined Cases C‑374/16 and C‑375/16, REQUESTS for a preliminary ruling under Article 267 TFEU from the Bundesfinanzhof (Federal Finance Court, Germany), made by decisions of 6 April 2016, received at the Court on 7 July 2016, in the proceedings Rochus Geissel, in his capacity as liquidator of RGEX GmbH i.L. v</p>
+      <p>
+        <party as="respondent" refersTo="#">Finanzamt Neuss</party>
+      </p>
+      <p>(C‑374/16), and</p>
+      <p>
+        <party as="appellant" refersTo="#">Finanzamt Bergisch Gladbach</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#">Igor Butin</party>
+      </p>
+      <p>(C‑375/16), THE COURT (Fifth Chamber), composed of J.L. da Cruz Vilaça, President of the Chamber, E. Levits (Rapporteur), A. Borg Barthet, M. Berger and F. Biltgen, Judges, Advocate General: N. Wahl, Registrar: A. Calot Escobar, having regard to the written procedure, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>Igor Butin, by L. Rodenbach, Rechtsanwalt,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the German Government, by T. Henze and R. Kanitz, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Austrian Government, by G. Eberhard, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by M. Wasmeier and M. Owsiany-Hornung, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 5 July 2017,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <tblock>
+        <p>Judgment</p>
+      </tblock>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_3678">
+          <num>1</num>
+          <content eId="para_3678__content">
+            <p>These requests for a preliminary ruling concern the interpretation of Article 168(a), Article 178(a) and Article 226(5) of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax ( OJ 2006 L 347, p. 1) ( `the VAT Directive').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3679">
+          <num>2</num>
+          <content eId="para_3679__content">
+            <p>The requests have been made in proceedings between, first, Rochus Geissel, in his capacity as liquidator of RGEX GmbH i.L., and the Finanzamt Neuss (Tax Office, Neuss, Germany) and, second, the Finanzamt Bergisch Gladbach (Tax Office, Bergisch Gladbach, Germany) and Igor Butin, concerning the refusal by those tax authorities to allow a deduction of input value added tax (VAT) on the basis of invoices containing the address where the issuer of those invoices may be reached by post, but where he does not carry out any economic activity.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <paragraph eId="para_3680">
+          <num>3</num>
+          <content eId="para_3680__content">
+            <p>Article 168 of the VAT Directive states: `In so far as the goods and services are used for the purposes of the taxed transactions of a taxable person, the taxable person shall be entitled, in the Member State in which he carries out these transactions, to deduct the following from the VAT which he is liable to pay:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>the VAT due or paid in that Member State in respect of supplies to him of goods or services, carried out or to be carried out by another taxable person; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3681">
+          <num>4</num>
+          <content eId="para_3681__content">
+            <p>According to Article 178 of that directive: `In order to exercise the right of deduction, a taxable person must meet the following conditions:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>for the purposes of deductions pursuant to Article 168(a), in respect of the supply of goods or services, he must hold an invoice drawn up in accordance with Articles 220 to 236 and Articles 238, 239 and 240; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3682">
+          <num>5</num>
+          <content eId="para_3682__content">
+            <p>Article 220 of that directive provides: `Every taxable person shall ensure that, in respect of the following, an invoice is issued, either by himself or by his customer or, in his name and on his behalf, by a third party:</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>supplies of goods or services which he has made to another taxable person or to a non-taxable legal person; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3683">
+          <num>6</num>
+          <content eId="para_3683__content">
+            <p>Article 226 of the VAT Directive states: `Without prejudice to the particular provisions laid down in this Directive, only the following details are required for VAT purposes on invoices issued pursuant to Articles 220 and 221: ...</p>
+            <blockList>
+              <item>
+                <num>(5)</num>
+                <p>the full name and address of the taxable person and of the customer; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3684">
+          <num>7</num>
+          <content eId="para_3684__content">
+            <p>Article 1 of the Thirteenth Council Directive 86/560/EEC of 17 November 1986 on the harmonisation of the laws of the Member States relating to turnover taxes -- Arrangements for the refund of value added tax to taxable persons not established in Community territory ( OJ 1986 L 326, p. 40) states that, for the purposes of that directive, `a taxable person not established in the territory of the Community' means a taxable person as referred to in Article 4(1) of Sixth Council Directive 77/388/EEC of 17 May 1977 on the harmonisation of the laws of the Member States relating to turnover taxes -- Common system of value added tax: uniform basis of assessment ( OJ 1977 L 145, p. 1) who, during the period referred to in Article 3(1) of Thirteenth Council Directive 86/560, had, in that territory, neither his business nor a fixed establishment from which business transactions are effected, nor, if no such business or fixed establishment exists, his permanent address or usual place of residence, and who, during the same period, has supplied no goods or services deemed to have been supplied in the Member State referred to in Article 2 of that directive, save in certain cases.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>German law</p>
+        </tblock>
+        <paragraph eId="para_3685">
+          <num>8</num>
+          <content eId="para_3685__content">
+            <p>Paragraph 14 of the Umsatzsteuergesetz (Law on turnover tax), in the version applicable at the material time ( `the UStG'), states: `1.   An invoice shall be any document by which an account relating to a supply of goods or services is settled, irrespective of the name given to that document in the course of business. The authenticity of the origin of the invoice, the integrity of its content and its legibility must be ensured. Authenticity of origin means the assurance of the identity of the issuer of the invoice ... ... 4.   An invoice must contain the following details:</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>the full name and address of the supplier and the customer; ... ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3686">
+          <num>9</num>
+          <content eId="para_3686__content">
+            <p>Paragraph 15(1) of the UStG provides: `The trader may deduct the following as input tax: 1.   the tax lawfully due on supplies of goods and services which have been effected by another trader for the purposes of his business. The exercise of the right of deduction presupposes that the trader holds an invoice issued in accordance with Paragraphs 14 and 14a [of the UStG] ... ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3687">
+          <num>10</num>
+          <content eId="para_3687__content">
+            <p>In order to satisfy the requirements of Paragraph 14(4)(1) of the UStG, it is sufficient, in accordance with paragraph 31(2) of the Umsatzsteuer-Durchführungsverordnung (Regulation on the implementation of turnover tax), that the name and address of both the supplier and the customer be capable of being clearly ascertained on the basis of the details contained in the invoice.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3688">
+          <num>11</num>
+          <content eId="para_3688__content">
+            <p>Paragraph 163 of the Abgabenordnung (Fiscal Code, `the AO'), entitled `Divergent assessment of taxes on equitable grounds', states: `Taxes may be set at a lower amount and individual bases of taxation which increase the tax may be ignored in assessing the tax where the levy of the tax would be inequitable in the circumstances of the individual case. With the consent of the taxpayer, it shall be permissible with regard to taxes on income for individual bases of taxation, where these increase the tax, to be taken into account at a later point in time and, where they reduce the tax, to be taken into account at an earlier point in time when assessing the tax. The decision on the divergent assessment can be issued in conjunction with the assessment of taxes.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3689">
+          <num>12</num>
+          <content eId="para_3689__content">
+            <p>Article 227 of the AO states: `The tax authorities may remit, in whole or in part, amounts arising from the tax debtor-creditor relationship where their collection would be unreasonable in the circumstances of the individual case; under the same conditions, amounts already paid may be refunded or credited.'</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The disputes in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <tblock>
+          <p>Case C‑374/16</p>
+        </tblock>
+        <paragraph eId="para_3690">
+          <num>13</num>
+          <content eId="para_3690__content">
+            <p>RGEX is a limited liability company which, during 2008, the period at issue in the main proceedings, traded in motor vehicles. Established in December 2007, that company has been in liquidation since 2015. The sole shareholder and director of that company, Mr Geissel, now represents it as liquidator.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3691">
+          <num>14</num>
+          <content eId="para_3691__content">
+            <p>In its VAT return for 2008, RGEX declared, inter alia, tax-exempt intra-Community supplies of motor vehicles and input tax paid, amounting to EUR 1985443.42, in relation to 122 motor vehicles obtained from EXTEL GmbH.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3692">
+          <num>15</num>
+          <content eId="para_3692__content">
+            <p>The Neuss Tax Office did not accept RGEX's VAT return and, by notice dated 31 August 2010, assessed the VAT due for 2008 on the basis of the findings of two VAT inspections. The Neuss Tax Office took the view that the supplies of vehicles to Spain, which had been declared as tax-exempt, were taxable because the vehicles in question had not in fact been delivered in Spain but had been sold in Germany. It also took the view that the input tax deductions claimed on the basis of invoices issued by EXTEL were not deductible because EXTEL was a `ghost company' which did not have any establishment at the address on its invoices.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3693">
+          <num>16</num>
+          <content eId="para_3693__content">
+            <p>After unsuccessfully contesting that notice, RGEX brought an action before the Finanzgericht Düsseldorf (Finance Court, Düsseldorf, Germany), which upheld its action with regard to the taxation of a motor vehicle and dismissed the action as to the remainder as unfounded.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3694">
+          <num>17</num>
+          <content eId="para_3694__content">
+            <p>The Finanzgericht Düsseldorf (Finance Court, Düsseldorf) held in particular that, although the address indicated by EXTEL on its invoices was the seat of its registered office, that address was merely a `letterbox address'. EXTEL could only be contacted by post at that address. It did not carry out any commercial activities at that address.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3695">
+          <num>18</num>
+          <content eId="para_3695__content">
+            <p>The Finanzgericht Düsseldorf (Finance Court, Düsseldorf) rejected the arguments that RGEX had legitimate expectations as regards the authenticity of the address in EXTEL's invoices. The principle of the protection of legitimate expectations could not be taken into account in assessing tax but only, where they arose, within the framework of equitable relief under Paragraphs 163 and 227 of the AO.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3696">
+          <num>19</num>
+          <content eId="para_3696__content">
+            <p>Mr Geissel, in his capacity as RGEX's liquidator, brought an appeal against the judgment of the Finanzgericht Düsseldorf (Finance Court, Düsseldorf) before the Bundesfinanzhof (Federal Finance Court, Germany), arguing that the term `address' within the meaning of Paragraph 14(4)(1) of the UStG and Article 226(5) of the VAT Directive served to identify the issuer of the invoice and that all that is required is that the issuer be contactable by post.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3697">
+          <num>20</num>
+          <content eId="para_3697__content">
+            <p>The referring court notes that, under national law, RGEX is not entitled to the input tax deduction it claims on the basis of EXTEL's invoices since EXTEL does not carry out any economic activity itself at the address on its invoices. In a decision delivered in a parallel action, the referring court held that the term `full address' within the meaning of Paragraph 14(4)(1) of the UStG implies that the trader carries out its economic activities at that location. If, pursuant to an administrative instruction under national law, the tax authorities were to regard it as sufficient to count the post box or post code `in place of the address', such an instruction would not bind the courts.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3698">
+          <num>21</num>
+          <content eId="para_3698__content">
+            <p>In those circumstances, the Bundesfinanzhof (Federal Finance Court) decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Does an invoice required by Article 168(a) in conjunction with Article 178(a) of [the VAT Directive] in order to exercise a right of deduction contain a ``full address '' within the meaning of Article 226(5) of [the same directive] if, on the invoice he issues in relation to the supply, the taxable person making the supply gives an address by which he may be reached by post but where he does not carry out any economic activity?</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>Having regard to the principle of effectiveness, does Article 168(a) in conjunction with Article 178(a) of [the VAT Directive] preclude a national practice which takes into account good faith on the part of the recipient of a supply in the satisfaction of the requirements for the right to deduct input tax only outside the tax assessment procedure, within the framework of a special equitable procedure? In that regard may Article 178(a) of [the VAT Directive] be relied upon?'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Case C‑375/16</p>
+        </tblock>
+        <paragraph eId="para_3699">
+          <num>22</num>
+          <content eId="para_3699__content">
+            <p>Between 2009 and 2011, Mr Butin, operating a motor vehicle dealership in Germany, provided, for the purposes of a deduction of input VAT, invoices relating to a number of vehicles acquired from an undertaking, Z, and destined for resale. The vehicles were delivered to Mr Butin or his employees, sometimes at the place where Z had its registered office, even though Z did not run a dealership from that address, and sometimes in public places, such as at a railway station.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3700">
+          <num>23</num>
+          <content eId="para_3700__content">
+            <p>In the course of a tax audit carried out on Mr Butin, the Bergisch Gladbach Tax Office came to the conclusion that the input tax paid on the basis of invoices issued by Z could not be deducted because the supplier address given by Z on those invoices was incorrect. It was found that that address served merely as a `letterbox address' and that Z had no fixed establishment in Germany.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3701">
+          <num>24</num>
+          <content eId="para_3701__content">
+            <p>On 13 September 2013, the Bergisch Gladbach Tax Office issued amended VAT assessments for 2009 to 2011. By decision of 1 October 2013, it rejected Mr Butin's request for an amended assessment to tax on equitable grounds under Paragraph 163 of the AO.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3702">
+          <num>25</num>
+          <content eId="para_3702__content">
+            <p>The Finanzgericht Köln (Finance Court, Cologne, Germany) upheld Mr Butin's action, by which he challenged the tax adjustment carried out by the Bergisch Gladbach Tax Office. According to that court, the term `address', within the meaning of Paragraph 14(4)(1) of the UStG, does not require that business activities take place there. Furthermore, that court found that the action was also well founded with regard to the claim in the alternative for an amended assessment to tax on equitable grounds. In its view, Mr Butin had done everything that could reasonably be required of him in order to verify Z's status as a trader and the accuracy of the content of the invoices issued by Z.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3703">
+          <num>26</num>
+          <content eId="para_3703__content">
+            <p>The Bergisch Gladbach Tax Office brought an appeal against the judgment of the Finanzgericht Köln (Finance Court, Cologne) before the Bundesfinanzhof (Federal Finance Court). It submitted in particular that the invoices issued by Z did not contain, contrary to what is claimed by Mr Butin, the address at which that company carried out its business activities, and, since Mr Butin had not done everything that could reasonably be required of him in order to ensure the accuracy of the content of the invoices, he should not be granted a deduction of input tax under the equity procedure.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3704">
+          <num>27</num>
+          <content eId="para_3704__content">
+            <p>In those circumstances, the Bundesfinanzhof (Federal Finance Court) decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Does Article 226(5) of [the VAT Directive] require the taxable person to indicate an address at which he carries [out] his economic activities?</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>If the answer to Question 1 is in the negative:</p>
+                <blockList>
+                  <item>
+                    <num>(a)</num>
+                    <p>Is a letterbox address sufficient as an indication of address pursuant to Article 226(5) of the VAT Directive?</p>
+                  </item>
+                  <item>
+                    <num>(b)</num>
+                    <p>Which address must a taxable person who operates an undertaking (in the internet trade, for example) with no business premises indicate on an invoice?</p>
+                  </item>
+                </blockList>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>In the event that the formal invoicing requirements laid down in Article 226 of the VAT Directive are not met, must the taxable person automatically be allowed to deduct input tax where no tax evasion has been committed or the taxable person did not know, and could not have known, of the connection with fraud or, in that event, does the principle of the protection of legitimate expectations presuppose that the taxable person has done everything that could reasonably be required of him in order to verify the accuracy of the content of the invoice?'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Procedure before the Court</p>
+        </tblock>
+        <paragraph eId="para_3705">
+          <num>28</num>
+          <content eId="para_3705__content">
+            <p>By order of the President of the Court of 22 July 2016, Cases C‑374/16 and C‑375/16 were joined for the purposes of the written and oral procedure and the judgment.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the questions referred</p>
+        </tblock>
+        <tblock>
+          <p>The first question in Case C‑374/16 and the first and second questions in Case C‑375/16</p>
+        </tblock>
+        <paragraph eId="para_3706">
+          <num>29</num>
+          <content eId="para_3706__content">
+            <p>By the first question in Case C‑374/16 and the first and second questions in Case C‑375/16, the referring court asks, in essence, whether Article 168(a) and Article 178(a) of the VAT Directive, read in conjunction with Article 226(5) thereof, must be interpreted as precluding national legislation, such as that at issue in the main proceedings, which makes the exercise of the right to deduct input VAT subject to the condition that the address where the issuer of an invoice carries out its economic activity must be indicated on the invoice.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3707">
+          <num>30</num>
+          <content eId="para_3707__content">
+            <p>As a preliminary point, it should be recalled that, pursuant to Article 178(a) of the VAT Directive, in order to exercise the right of deduction, a taxable person must hold an invoice drawn up in accordance with Articles 220 to 236 and Articles 238 to 240 of that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3708">
+          <num>31</num>
+          <content eId="para_3708__content">
+            <p>Article 226 of that directive lists the details which must appear on such an invoice. Article 226(5) lays down, in particular, the requirement to indicate the full name and address of the taxable person and of the customer.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3709">
+          <num>32</num>
+          <content eId="para_3709__content">
+            <p>In accordance with the case-law of the Court, in interpreting a provision of EU law, it is necessary to consider not only its wording but also the context in which it occurs and the objectives pursued by the rules of which it forms part (see, to that effect, judgments of 3 December 2009, Yaesu Europe, C‑433/08, EU:C:2009:750, paragraph 24, and of 6 July 2017, Air Berlin, C‑290/16, EU:C:2017:523, paragraph 22).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3710">
+          <num>33</num>
+          <content eId="para_3710__content">
+            <p>In the first place, as regards the wording of Article 226(5) of the VAT Directive, it should be noted that there are differences in the various language versions of that provision. Some of the language versions of that provision, such as the versions in Spanish, English, French or Latvian, refer, respectively, to the `nombre completo y la dirección', `the full name and address', the `nom complet et l'adresse' or the `pilns vārds vai nosaukums un adrese', while other versions, in particular the versions in German or Italian, lay down a requirement to indicate the `vollständigen Namen und die vollständige Anschrift' or the `nome e l'indirizzo completo' ( `the full name and the full address').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3711">
+          <num>34</num>
+          <content eId="para_3711__content">
+            <p>However, the absence or presence of the adjective `full' in the wording of that requirement does not provide guidance as to whether the address indicated on the invoice must correspond to the address where the issuer of the invoice carries out its economic activity.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3712">
+          <num>35</num>
+          <content eId="para_3712__content">
+            <p>Furthermore, it should be stated that the ordinary meaning of the term `address' is broad. As the Advocate General noted in point 36 of his Opinion, the usual meaning of that term covers any type of address, including a `letterbox address', provided that the person may be contacted at that address.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3713">
+          <num>36</num>
+          <content eId="para_3713__content">
+            <p>Moreover, Article 226 of the VAT Directive states that, without prejudice to the particular provisions of that directive, only the details mentioned in that article are required for VAT purposes on invoices issued pursuant to Article 220 of that directive (see, to that effect, judgment of 15 September 2016, Barlis 06 -- Investimentos Imobiliários e Turísticos, C‑516/14, EU:C:2016:690, paragraph 25).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3714">
+          <num>37</num>
+          <content eId="para_3714__content">
+            <p>It follows that the requirements relating to those details must be interpreted strictly since it is not possible for Member States to lay down more stringent requirements than those under the VAT Directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3715">
+          <num>38</num>
+          <content eId="para_3715__content">
+            <p>Consequently, it is not open to Member States to make the exercise of the right to deduct VAT dependent on compliance with conditions relating to the content of invoices which are not expressly laid down by the provisions of the VAT Directive (judgment of 15 September 2016, Barlis 06 -- Investimentos Imobiliários e Turísticos, C‑516/14, EU:C:2016:690, paragraph 25).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3716">
+          <num>39</num>
+          <content eId="para_3716__content">
+            <p>In the second place, with regard to the context of which Article 226 of the VAT Directive forms part, it should be recalled that the right to deduct VAT may not, in principle, be limited (see, to that effect, judgment of 15 September 2016, Senatex, C‑518/14, EU:C:2016:691, paragraph 37).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3717">
+          <num>40</num>
+          <content eId="para_3717__content">
+            <p>The Court has held, in that regard, that holding an invoice showing the details referred to in Article 226 of the VAT Directive is a formal condition of the right to deduct VAT. The deduction of input VAT must be allowed if the substantive requirements are satisfied, even if the taxable persons have failed to comply with certain formal conditions (see, to that effect, judgment of 15 September 2016, Senatex, C‑518/14, EU:C:2016:691, paragraph 38 and the case-law cited). It follows that the detailed rules regarding the indication of the address of the issuer of the invoice cannot be a decisive condition for the purposes of the deduction of VAT.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3718">
+          <num>41</num>
+          <content eId="para_3718__content">
+            <p>In the third place, as regards the teleological interpretation of Article 226 of the VAT Directive, the purpose of the details which must be shown on an invoice is to allow the tax authorities to monitor the payment of the tax due and the existence of a right to deduct VAT (see, to that effect, judgment of 15 September 2016, Barlis 06 -- Investimentos Imobiliários e Turísticos, C‑516/14, EU:C:2016:690, paragraph 27).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3719">
+          <num>42</num>
+          <content eId="para_3719__content">
+            <p>In that respect, as the Advocate General noted, in essence, in points 40 and 41 of his Opinion, the aim of indicating the address, name and VAT identification number of the issuer of the invoice is to make it possible to establish a link between a given economic transaction and a specific economic operator, namely the issuer of the invoice. The identification of the issuer of the invoice allows the tax authorities to check whether the amount of VAT giving rise to the deduction has been declared and paid. Such identification also allows the taxable person to check whether the issuer of the invoice is a taxable person for the purposes of the VAT rules.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3720">
+          <num>43</num>
+          <content eId="para_3720__content">
+            <p>In that regard, it should be noted that the VAT identification number of the supplier of the goods or services is an essential piece of information in that identification. That number is easily accessible and verifiable by the tax authorities.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3721">
+          <num>44</num>
+          <content eId="para_3721__content">
+            <p>Moreover, as the Advocate General noted in point 43 of his Opinion, in order to obtain a VAT identification number, undertakings must complete a registration process in which they are required to submit a VAT registration form, along with supporting documentation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3722">
+          <num>45</num>
+          <content eId="para_3722__content">
+            <p>It follows that the aim of indicating the address of the issuer of the invoice, in conjunction with his name and VAT identification number, is to identify the issuer of the invoice and thus to enable the tax authorities to carry out the checks referred to in paragraph 41 above.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3723">
+          <num>46</num>
+          <content eId="para_3723__content">
+            <p>In that context, it should also be pointed out that the Court has held that the deduction system is intended to relieve the trader entirely of the burden of the VAT payable or paid in the course of all its economic activities (see, inter alia, judgments of 22 October 2015, Sveda, C‑126/14, EU:C:2015:712, paragraph 17, and of 14 June 2017, Compass Contract Services, C‑38/16, EU:C:2017:454, paragraph 34). In order to achieve the objectives pursued by that system, it is not necessary to lay down an obligation to indicate the address where the issuer of the invoice carries out its economic activity.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3724">
+          <num>47</num>
+          <content eId="para_3724__content">
+            <p>Additionally, such an interpretation is confirmed by the judgment of 22 October 2015, PPUH Stehcemp ( C‑277/14, EU:C:2015:719), in which the Court ruled that it was possible to deduct input VAT on the basis of invoices issued by a company which a national court had found to be a non-existent trader. Even though the national court had found that the building designated in the commercial register as being the trader's seat was in a dilapidated state, the Court held that the fact that no economic activity could be carried out at that company's seat does not mean that that activity could not be conducted in places other than the company's seat (see, to that effect, judgment of 22 October 2015, PPUH Stehcemp, C‑277/14, EU:C:2015:719, paragraph 35), in particular when those activities are carried out remotely through the use of new computer technologies.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3725">
+          <num>48</num>
+          <content eId="para_3725__content">
+            <p>Furthermore, contrary to the arguments of the German and Austrian Governments, the fact that, for the purposes of the right to deduct VAT, it is not a requirement that the economic activities of the taxable person be carried out at the address indicated on the invoice issued by that person, is not undermined by the findings of the Court in the judgment of 28 June 2007, Planzer Luxembourg ( C‑73/06, EU:C:2007:397). The analysis of the scope of the terms `business' and `fixed establishment' for the purposes of the Thirteenth Directive 86/560 is irrelevant to the issue of establishing the meaning of the term `address' in Article 226(5) of the VAT Directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3726">
+          <num>49</num>
+          <content eId="para_3726__content">
+            <p>It follows that, for the purposes of the exercise of the right to deduct VAT by the recipient of goods or services, it is not a requirement that the economic activities of the supplier be carried out at the address indicated on the invoice issued by that supplier.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3727">
+          <num>50</num>
+          <content eId="para_3727__content">
+            <p>Consequently, the answer to the first question in Case C‑374/16 and the first and second questions in Case C‑375/16 is that Article 168(a) and Article 178(a) of the VAT Directive, read in conjunction with Article 226(5) thereof, must be interpreted as precluding national legislation, such as that at issue in the main proceedings, which makes the exercise of the right to deduct input VAT subject to the condition that the address where the issuer of an invoice carries out its economic activity must be indicated on the invoice.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The second question in Case C‑374/16 and the third question in Case C‑375/16</p>
+        </tblock>
+        <paragraph eId="para_3728">
+          <num>51</num>
+          <content eId="para_3728__content">
+            <p>In view of the answer given to the first question in Case C‑374/16 and the first and second questions in Case C‑375/16, there is no need to answer the second question in Case C‑374/16 and the third question in Case C‑375/16.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_3729">
+          <num>52</num>
+          <content eId="para_3729__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Fifth Chamber) hereby rules: Article 168(a) and Article 178(a) of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax, read in conjunction with Article 226(5) thereof, must be interpreted as precluding national legislation, such as that at issue in the main proceedings, which makes the exercise of the right to deduct input VAT subject to the condition that the address where the issuer of an invoice carries out its economic activity must be indicated on the invoice.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: German.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

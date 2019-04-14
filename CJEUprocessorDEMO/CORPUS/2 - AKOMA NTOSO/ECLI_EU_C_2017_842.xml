@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Tenth Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>9 November 2017 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Agriculture -- Common agricultural policy -- Regulation (EC) No 73/2009 -- Single payment scheme -- Veal farmer who concluded an integration contract -- Contractual term under which the single payment is payable to the integration undertaking -- Whether permissible) In Case C‑227/16, REQUEST for a preliminary ruling under Article 267 TFEU from the Gerechtshof Arnhem-Leeuwarden (Regional Court of Appeal, Arnhem-Leeuwarden, Netherlands), made by decision of 19 April 2016, received at the Court on 22 April 2016, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">Jan Theodorus Arts</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#">Veevoederbedrijf Alpuro BV</party>
+      </p>
+      <p>, THE COURT (Tenth Chamber), composed of A. Borg Barthet (Rapporteur), acting as President of the Chamber, M. Berger and F. Biltgen, Judges, Advocate General: E. Sharpston, Registrar: A. Calot Escobar, having regard to the written procedure, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>Veevoederbedrijf Alpuro BV, by J. Geerts, advocaat,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by A. Bouquet and I. Galindo Martín, acting as Agents, having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_3109">
+          <num>1</num>
+          <content eId="para_3109__content">
+            <p>The present request for a preliminary ruling concerns the interpretation of Council Regulation (EC) No 73/2009 of 19 January 2009 establishing common rules for direct support schemes for farmers under the common agricultural policy and establishing certain support schemes for farmers, amending Regulations (EC) No 1290/2005, (EC) No 247/2006, (EC) No 378/2007 and repealing Regulation (EC) No 1782/2003 ( OJ 2009 L 30, p. 16).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3110">
+          <num>2</num>
+          <content eId="para_3110__content">
+            <p>The request has been made in proceedings between Mr Jan Theodorus Arts and Veevoederbedrijf Alpuro BV ( `Alpuro') concerning the validity of a contractual term under which the aid to which he is entitled under the single payment scheme is payable to Alpuro.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <paragraph eId="para_3111">
+          <num>3</num>
+          <content eId="para_3111__content">
+            <p>Recitals 25 and 27 of Regulation No 73/2009 read as follows: `</p>
+            <blockList>
+              <item>
+                <num>(25)</num>
+                <p>The support schemes under the CAP [Common Agricultural Policy] provide for direct income support, in particular with a view to ensuring a fair standard of living for the agricultural community. That objective is closely related to the maintenance of rural areas. In order to avoid any misallocation of Community funds, no support payments should be made to farmers who have artificially created the conditions required to obtain such payments. ...</p>
+              </item>
+              <item>
+                <num>(27)</num>
+                <p>[Council] Regulation (EC) No 1782/2003 [of 29 September 2003 establishing common rules for direct support schemes under the common agricultural policy and establishing certain support schemes for farmers and amending Regulations (EEC) No 2019/93, (EC) No 1452/2001, (EC) No 1453/2001, (EC) No 1454/2001, (EC) No 1868/94, (EC) No 1251/1999, (EC) No 1254/1999, (EC) No 1673/2000, (EEC) No 2358/71 and (EC) No 2529/2001 ( OJ 2003 L 270, p. 1)] established a single payment scheme that combined the existing support mechanisms into a single scheme of decoupled direct payments. ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3112">
+          <num>4</num>
+          <content eId="para_3112__content">
+            <p>Article 1(b) of Regulation No 73/2009 provides that that regulation establishes `an income support scheme for farmers (hereinafter referred to as the ``single payment scheme '')'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3113">
+          <num>5</num>
+          <content eId="para_3113__content">
+            <p>According to Article 4(1) of that regulation: `A farmer receiving direct payments shall respect the statutory management requirements listed in Annex II and the good agricultural and environmental condition referred to in Article 6. ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3114">
+          <num>6</num>
+          <content eId="para_3114__content">
+            <p>Article 5(1) of Regulation No 73/2009 provides: `The statutory management requirements listed in Annex II shall be established by Community legislation in the following areas:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>public, animal and plant health;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>environment;</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>animal welfare.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3115">
+          <num>7</num>
+          <content eId="para_3115__content">
+            <p>Article 6(1) of that regulation provides: `Member States shall ensure that all agricultural land, especially land which is no longer used for production purposes, is maintained in good agricultural and environmental condition. ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3116">
+          <num>8</num>
+          <content eId="para_3116__content">
+            <p>Under Article 33(1)(a) of that regulation: `Support under the single payment scheme shall be available to farmers if they:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>hold payment entitlements which they have obtained in accordance with Regulation (EC) No 1782/2003;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>obtain payment entitlements under this Regulation ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_3117">
+          <num>9</num>
+          <content eId="para_3117__content">
+            <p>In his capacity as a veal farmer, Mr Arts concluded, in 2008, an integration contract with Alpuro ( `the integration contract') by which he undertook to purchase from Alpuro newborn calves and feed to be used for fattening them. At the end of each of the six fattening rounds provided for in the integration contract, Alpuro bought back the fattened calves from Mr Arts. Those fattening rounds, each lasting approximately 26 weeks, were divided into three groups, the first of which was set up on 5 March 2009.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3118">
+          <num>10</num>
+          <content eId="para_3118__content">
+            <p>In accordance with Articles 6 and 13 of the integration contract, Mr Arts received a fattening fee of EUR 200 per calf and per year.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3119">
+          <num>11</num>
+          <content eId="para_3119__content">
+            <p>Under Article 9 of that contract, all revenues and fees which Mr Arts could claim under the single payment scheme in relation to the rearing and fattening of calves on the basis of that contract were payable in their entirety to Alpuro, with Mr Arts, moreover, being required to satisfy all the conditions governing entitlement to receive those revenues and fees.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3120">
+          <num>12</num>
+          <content eId="para_3120__content">
+            <p>In accordance with Article 10 of the integration contract, the price for the sale of the fattened calves to Alpuro was calculated by adding the purchase price of the newborn calves, the cost of the feed used to fatten them and the other costs incurred in rearing them, and by deducting the fees under the single payment scheme. A correction was, moreover, applied in order to take into account differences shown by the calves in relation to the technical standard referred to in Article 7 of that contract.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3121">
+          <num>13</num>
+          <content eId="para_3121__content">
+            <p>In 2012 a dispute arose between the parties concerning the amount of the single payment made to Mr Arts for the years 2010 to 2012.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3122">
+          <num>14</num>
+          <content eId="para_3122__content">
+            <p>Mr Arts brought an action before the Rechtbank Gelderland (District Court, Gelderland, Netherlands), before which he argued, inter alia, that Article 9 of the integration contract was contrary to the objectives of Regulation No 1782/2003 in so far as it required him to pay over aid intended to ensure for him a fair standard of living to Alpuro, which did not fulfil the conditions for benefiting from the single payment scheme and was, furthermore, not subject to the environmental requirements laid down by that regulation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3123">
+          <num>15</num>
+          <content eId="para_3123__content">
+            <p>Alpuro, for its part, argued before that court that the single payment to which Mr Arts is entitled constitutes a factor in the calculation of the sale price of the fattened calves and that it does not itself claim any aid under the single payment scheme.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3124">
+          <num>16</num>
+          <content eId="para_3124__content">
+            <p>Following the dismissal of his action by decision of the Rechtbank Gelderland (District Court, Gelderland), Mr Arts lodged an appeal against that decision before the referring court, which has taken the view that the resolution of the dispute in the main proceedings depends on the interpretation of EU law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3125">
+          <num>17</num>
+          <content eId="para_3125__content">
+            <p>In those circumstances, the Gerechtshof Arnhem-Leeuwarden (Regional Court of Appeal, Arnhem-Leeuwarden, Netherlands) decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Is a set of clauses in an agreement between a calf fattener and an integration undertaking, ..., from which it follows that the single payment allocated to the calf fattener pursuant to [Regulation No 73/2009] is payable to the integration undertaking by means of a deduction from the price for the fattened calves, valid, given the objectives of that regulation, in particular the objective of ensuring a fair standard of living for farmers by means of direct income support and the promotion of public health, animal health, the environment and animal welfare?</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>If Question 1 is answered in the negative: does the national court, given the conflict which exists with the objectives of Regulation No 73/2009, have the power to modify the agreement on the basis of the clausula rebus sic stantibus doctrine in such a way that the disadvantage resulting from the nullity of that set of clauses is fully or partially eliminated for the integration undertaking, in particular by lowering the price for fattened calves?'</p>
+                <tblock>
+                  <p>Consideration of the questions referred</p>
+                </tblock>
+                <tblock>
+                  <p>The first question</p>
+                </tblock>
+                <p>18 By its first question, the referring court asks, in essence, whether Regulation No 73/2009 must be interpreted as precluding a contractual term under which the amount of aid which a veal farmer is entitled to claim under the single payment scheme is payable to an integration undertaking with which he has concluded a contract.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3126">
+          <num>19</num>
+          <content eId="para_3126__content">
+            <p>As a preliminary point, it must be borne in mind that, although a contract is characterised by the principle of freedom of the parties to arrange their own affairs, according to which, in particular, parties are free to enter into obligations with each other, limitations on freedom of contract may nonetheless arise from the applicable EU rules (judgment of 20 May 2010, Harms, C‑434/08, EU:C:2010:285, paragraph 36).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3127">
+          <num>20</num>
+          <content eId="para_3127__content">
+            <p>In particular, the contractual freedom of a person having payment entitlements cannot permit him to enter into commitments which contradict the objectives of Regulation No 73/2009 (see, by analogy, judgment of 20 May 2010, Harms, C‑434/08, EU:C:2010:285, paragraph 37).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3128">
+          <num>21</num>
+          <content eId="para_3128__content">
+            <p>In that regard, it must be pointed out that, according to Article 1(b) of Regulation No 73/2009, the single payment scheme is an income support for farmers. According to recital 25 of that regulation, the objective consisting in ensuring a fair standard of living for the agricultural community is closely related to the maintenance of rural areas, a farmer who receives direct payments being required, in accordance with Article 4(1) of Regulation No 73/2009, read in combination with Articles 5(1) and 6(1) thereof, to respect certain standards relating to the environment and food security, animal and plant health, animal welfare and the maintenance of land in good agricultural and environmental condition.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3129">
+          <num>22</num>
+          <content eId="para_3129__content">
+            <p>However, neither Regulation No 73/2009 nor Commission Regulation (EC) No 1120/2009 of 29 October 2009 laying down detailed rules for the implementation of the single payment scheme provided for in Title III of Regulation No 73/2009 ( OJ 2009 L 316, p. 1) imposes on the beneficiary of the single payment scheme the obligation to use the aid that he receives under that scheme for a specific purpose. Given that the single payment was designed as an income support, its use is, by its nature, not limited.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3130">
+          <num>23</num>
+          <content eId="para_3130__content">
+            <p>In the case in the main proceedings, it is common ground that the aid for the years 2010 to 2012 was paid to Mr Arts. However, the parties to the integration contract agreed, essentially, that the aid to which Mr Arts was entitled under the single payment scheme was payable in its entirety to Alpuro. In practice, that aid was deducted from the price to be paid by Alpuro for the purchase of the fattened calves, in accordance with Articles 9 and 10 of that contract.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3131">
+          <num>24</num>
+          <content eId="para_3131__content">
+            <p>Such a contractual stipulation raises the question as to whether the intention of those parties was to make Alpuro the real beneficiary of the aid, contrary to the objectives of Regulation No 73/2009.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3132">
+          <num>25</num>
+          <content eId="para_3132__content">
+            <p>In that regard, it is appropriate to recall that it would be manifestly contrary to those objectives to permit persons or entities not fulfilling the conditions laid down by that regulation to benefit from aid under the single payment scheme (see, to that effect, judgment of 20 May 2010, Harms, C‑434/08, EU:C:2010:285, paragraphs 39 and 45).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3133">
+          <num>26</num>
+          <content eId="para_3133__content">
+            <p>However, an integration undertaking cannot be regarded as being the real beneficiary of that aid if the farmer who undertakes to pay that aid to the undertaking receives consideration in return for it. In that case, the farmer does indeed benefit from that aid and simply uses it for a purpose which he freely chooses, as follows from paragraph 22 of the present judgment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3134">
+          <num>27</num>
+          <content eId="para_3134__content">
+            <p>In the present case, it is not disputed before the referring court that the transfer of the aid to which Mr Arts was entitled under the single payment scheme took place within the context of a set of reciprocal benefits and obligations negotiated between the parties to the integration contract.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3135">
+          <num>28</num>
+          <content eId="para_3135__content">
+            <p>Consequently, the view cannot be taken that the objectives of Regulation No 73/2009, as set out in paragraph 21 of the present judgment, have been undermined.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3136">
+          <num>29</num>
+          <content eId="para_3136__content">
+            <p>Having regard to all the foregoing considerations, the answer to the first question is that Regulation No 73/2009 must be interpreted as not precluding a contractual term under which the amount of aid which a veal farmer is entitled to claim under the single payment scheme is payable to an integration undertaking in the case where the transfer of that aid takes place within the context of reciprocal benefits and obligations negotiated between the parties to the contract.</p>
+            <tblock>
+              <p>The second question</p>
+            </tblock>
+            <p>30 In the light of the answer given to the first question, there is no need to answer the second question.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_3137">
+          <num>31</num>
+          <content eId="para_3137__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Tenth Chamber) hereby rules: Council Regulation (EC) No 73/2009 of 19 January 2009 establishing common rules for direct support schemes for farmers under the common agricultural policy and establishing certain support schemes for farmers, amending Regulations (EC) No 1290/2005, (EC) No 247/2006, (EC) No 378/2007 and repealing Regulation (EC) No 1782/2003, must be interpreted as not precluding a contractual term under which the amount of aid which a veal farmer is entitled to claim under the single payment scheme is payable to an integration undertaking in the case where the transfer of that aid takes place within the context of reciprocal benefits and obligations negotiated between the parties to the contract.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Dutch.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

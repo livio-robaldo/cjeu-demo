@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+      <references source="#source">
+        <TLCOrganization eId="company_55" showAs="" href="/akn/ontology/Organization/Company/company_55" />
+      </references>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Third Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>23 November 2017 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Competition -- Article 101 TFEU -- Agreements between undertakings -- Business relationships between service station operators and oil companies -- Long-term exclusive supply agreement for fuel -- European Commission decision making an undertaking's commitments binding -- Extent to which national courts are bound by a commitment decision adopted by the Commission -- Articles 9(1) and 16(1) of Regulation (EC) No 1/2003) In Case C‑547/16, REQUEST for a preliminary ruling under Article 267 TFEU from the Tribunal Supremo (Supreme Court, Spain), made by decision of 18 October 2016, received at the Court on 28 October 2016, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">Gasorba SL</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="appellant" refersTo="#">Josefa Rico Gil</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="appellant" refersTo="#">Antonio Ferrándiz González</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#company_55">Repsol Comercial de Productos Petrolíferos SA</party>
+      </p>
+      <p>, THE COURT (Third Chamber), composed of L. Bay Larsen, President of the Chamber, J. Malenovský, M. Safjan, D. Šváby (Rapporteur) and M. Vilaras, Judges, Advocate General: J. Kokott, Registrar: A. Calot Escobar, having regard to the written procedure, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>Gasorba SL, Ms Rico Gil and Mr Ferrándiz González, by D. García Riquelme, procurador, A. Hernández Pardo, abogado, and L. Ruiz Ezquerra, abogada,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>Repsol Comercial de Productos Petrolíferos SA, by A. Requeijo Pascua and P. Arévalo Nieto, abogados, and M. Villarrubia García, abogada,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Spanish Government, by A. Gavela Llopis, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the German Government, by T. Henze and R. Kanitz, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by F. Castilla Contreras, F. Jimeno Fernández and C. Urraca Caviedes, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 14 September 2017,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_4402">
+          <num>1</num>
+          <content eId="para_4402__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Article 16 of C</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <p>ouncil Regulation (EC) No 1/2003 of 16 December 2002 on the implementation of the rules on competition laid down in Articles[101 TFEU] and [102 TFEU] ( OJ 2003 L 1, p. 1), and of Article 101(3) TFEU.</p>
+        <paragraph eId="para_4403">
+          <num>2</num>
+          <content eId="para_4403__content">
+            <p>The request has been made in proceedings between Gasorba SL, Josefa Rico Gil and Antonio Ferrándiz González ( `Gasorba and Others'), and Repsol Comercial de Productos Petrolíferos SA ( `Repsol') concerning the validity, in the light of Article 101 TFEU, of a service station lease coupled with an exclusive supply obligation.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <paragraph eId="para_4404">
+          <num>3</num>
+          <content eId="para_4404__content">
+            <p>Recitals 13 and 22 of Regulation No 1/2013 are worded as follows: `</p>
+            <blockList>
+              <item>
+                <num>(13)</num>
+                <p>Where, in the course of proceedings which might lead to an agreement or practice being prohibited, undertakings offer the Commission commitments such as to meet its concerns, the Commission should be able to adopt decisions which make those commitments binding on the undertakings concerned. Commitment decisions should find that there are no longer grounds for action by the Commission without concluding whether or not there has been or still is an infringement. Commitment decisions are without prejudice to the powers of competition authorities and courts of the Member States to make such a finding and decide upon the case. Commitment decisions are not appropriate in cases where the Commission intends to impose a fine. ...</p>
+              </item>
+              <item>
+                <num>(22)</num>
+                <p>In order to ensure compliance with the principles of legal certainty and the uniform application of the Community competition rules in a system of parallel powers, conflicting decisions must be avoided. It is therefore necessary to clarify, in accordance with the case-law of the Court of Justice, the effects of Commission decisions and proceedings on courts and competition authorities of the Member States. Commitment decisions adopted by the Commission do not affect the power of the courts and the competition authorities of the Member States to apply Articles [101 TFEU] and [102 TFEU].'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4405">
+          <num>4</num>
+          <content eId="para_4405__content">
+            <p>Under Article 6 of that regulation, relating to the `Powers of the national courts': `National courts shall have the power to apply Articles [101 TFEU] and [102 TFEU].'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4406">
+          <num>5</num>
+          <content eId="para_4406__content">
+            <p>Article 9 of that regulation, which concerns `Commitments', provides in paragraph 1: `Where the Commission intends to adopt a decision requiring that an infringement be brought to an end and the undertakings concerned offer commitments to meet the concerns expressed to them by the Commission in its preliminary assessment, the Commission may by decision make those commitments binding on the undertakings. Such a decision may be adopted for a specified period and shall conclude that there are no longer grounds for action by the Commission.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4407">
+          <num>6</num>
+          <content eId="para_4407__content">
+            <p>Article 15 of Regulation No 1/2003, which relates to `Cooperation with national courts', lays down in paragraph 1: `In proceedings for the application of Article [101 TFEU] or Article [102 TFEU], courts of the Member States may ask the Commission to transmit to them information in its possession or its opinion on questions concerning the application of the Community competition rules.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4408">
+          <num>7</num>
+          <content eId="para_4408__content">
+            <p>Article 16 of Regulation No 1/2003, entitled `Uniform application of Community competition law', states in paragraph 1: `When national courts rule on agreements, decisions or practices under Article [101 TFEU] or Article [102 TFEU] which are already the subject of a Commission decision, they cannot take decisions running counter to the decision adopted by the Commission. They must also avoid giving decisions which would conflict with a decision contemplated by the Commission in proceedings it has initiated. To that effect, the national court may assess whether it is necessary to stay its proceedings. This obligation is without prejudice to the rights and obligations under Article [267 TFEU].'</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_4409">
+          <num>8</num>
+          <content eId="para_4409__content">
+            <p>On 15 February 1993, Ms Rico Gil and Mr Ferrándiz González concluded two contracts with Repsol.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4410">
+          <num>9</num>
+          <content eId="para_4410__content">
+            <p>In the first, entitled `usufruct agreement', Ms Rico Gil and Mr Ferrándiz González granted Repsol a right to the usufruct of a plot of land and the service station built on it, in the town of Orba (Spain), and of the administrative concession for the operation of that station, for a term of 25 years.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4411">
+          <num>10</num>
+          <content eId="para_4411__content">
+            <p>In the second, entitled `contract for the transfer of the operation of a service station, business lease agreement and exclusive supply agreement' ( `the lease agreement'), Repsol leased to Mr Ferrándiz González both the land and the service station for a term of 25 years at a monthly rent of ESP 10000 (approximately EUR 60).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4412">
+          <num>11</num>
+          <content eId="para_4412__content">
+            <p>On 12 November 1994, Ms Rico Gil, Mr Ferrándiz González and their two children set up the company called Gasorba, SL, which took over the rights of Ms Rico Gil and Mr Ferrándiz González arising from the contracts concluded with Repsol, with its consent.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4413">
+          <num>12</num>
+          <content eId="para_4413__content">
+            <p>Under the lease agreement, the lessees were required to use Repsol as their sole supplier throughout the term of the lease, and Repsol periodically communicated the maximum retail selling prices of fuel and permitted the lessees to apply discounts to be covered by their commission, without reducing the supplier's receipts.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4414">
+          <num>13</num>
+          <content eId="para_4414__content">
+            <p>The Commission initiated a proceeding under Article 101 TFEU against Repsol. At the end of a preliminary assessment, it found that the long-term exclusive supply agreements, including the contracts linking the parties in the main proceedings, raised concerns as to whether they were compatible with Article 101 TFEU, since they might create a significant `foreclosure effect' on the Spanish retail fuel market.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4415">
+          <num>14</num>
+          <content eId="para_4415__content">
+            <p>In response to the Commission's preliminary assessment, Repsol offered the Commission commitments whereby Repsol would, inter alia, refrain in future from concluding long-term exclusivity agreements, offer the service station tenants concerned financial incentives to terminate early their existing long-term supply agreements with Repsol, and refrain for a certain period of time from buying any independent service stations for which it did not yet act as supplier.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4416">
+          <num>15</num>
+          <content eId="para_4416__content">
+            <p>Those commitments were made binding by Commission Decision 2006/446/EC of 12 April 2006 relating to a proceeding pursuant to Article[101 TFEU] (Case COMP/B-1/38.348 -- Repsol CPP) ( OJ 2006 L 176, p. 104) ( `the commitment decision').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4417">
+          <num>16</num>
+          <content eId="para_4417__content">
+            <p>The operative part of that decision is worded as follows: ` Article 1 The commitments ... shall be binding on [Repsol]. Article 2 The proceedings in the present case shall be brought to an end. Article 3 The Decision shall apply from the date on which it is notified to [Repsol] until 31 December 2011. Аrticle 4 This Decision is addressed to [Repsol].'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4418">
+          <num>17</num>
+          <content eId="para_4418__content">
+            <p>Following the adoption of that decision, Gasorba and Others brought an action against Repsol, before the Juzgado de lo Mercantil No 4 de Madrid (Madrid Commercial Court, Spain), on 17 April 2008, for, first, annulment of the lease agreement on the ground that it was contrary to Article 101 TFEU and, secondly, compensation for the harm arising from the application of that agreement.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4419">
+          <num>18</num>
+          <content eId="para_4419__content">
+            <p>Their case was, however, dismissed, first, by a judgment delivered by that court on 8 July 2011 then, on appeal, by the confirmatory judgment of the Audiencia Provincial de Madrid (Madrid Provincial Court, Spain) of 27 January 2014.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4420">
+          <num>19</num>
+          <content eId="para_4420__content">
+            <p>Since they considered that the commitment decision would not preclude a national court from declaring an agreement to which that decision applies invalid for infringement of Article 101 TFEU, Gasorba and Others brought an appeal on a point of law before the Tribunal Supremo (Supreme Court, Spain).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4421">
+          <num>20</num>
+          <content eId="para_4421__content">
+            <p>That court considers that there is uncertainty concerning the scope of the national courts' jurisdiction in the light of Articles 9 and 16 of Regulation No 1/2003. In that regard, it states that the Commission seems to have minimised the effect of the commitment decision, in stating in the opinion of 8 July 2009 -- requested on the basis of Article 15 of Regulation No 1/2003 by the Juzgado de lo Mercantil No 2 de Barcelona (Barcelona Commercial Court, Spain) in the case giving rise to the order of 27 March 2014, Bright Service ( C‑142/13, not published, EU:C:2014:204) -- that that decision is without prejudice to the analysis which the Commission might carry out on the basis of subsequent investigations and additional facts. The commitment decision is, it is argued, also without prejudice to the analysis which the national court must carry out. In the Commission's view, the sole aim of decisions based on Article 9 of Regulation No 1/2003 is that the commitments made by the parties in order to resolve problems of competition observed are binding on the undertakings concerned, and those decisions do not rule on whether there has been, or whether there still is an infringement of Articles 101 or 102 TFEU.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4422">
+          <num>21</num>
+          <content eId="para_4422__content">
+            <p>In those circumstances the Tribunal Supremo (Supreme Court) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Under Article 16 ... of ... Regulation ... [No 1/2003] ..., does [the commitment decision] preclude a national court from declaring that the agreements to which that decision applies are invalid on account of the duration of the exclusive supply period, even though they may be declared invalid for other reasons such as, for example, the imposition of a minimum retail price by the supplier on the buyer (or reseller)?</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>If so, are long-term contracts to which the Commitment Decision applies to be regarded as benefiting from an individual exemption, under Article 101(3) TFEU, as a consequence of that decision?'</p>
+                <tblock>
+                  <p>Consideration of the questions referred</p>
+                </tblock>
+                <tblock>
+                  <p>The first question</p>
+                </tblock>
+                <p>22 By its first question the national court asks, in essence, whether Article 16(1) of Regulation No 1/2003 must be interpreted as precluding a national court from declaring an agreement between undertakings void on the basis of Article 101(2) TFEU, when the Commission has accepted beforehand commitments concerning that agreement and made them binding in a decision taken under Article 9(1) of that regulation.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4423">
+          <num>23</num>
+          <content eId="para_4423__content">
+            <p>In accordance with Article 6 of Regulation No 1/2003, read in the light of recital 22 of that regulation, the application of EU competition law is based on a system of parallel powers in the context of which both the Commission and the national competition authorities and national courts may apply Articles 101 TFEU and 102 TFEU.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4424">
+          <num>24</num>
+          <content eId="para_4424__content">
+            <p>The uniform application of EU competition law is in particular ensured by Article 16(1) of Regulation No 1/2003 which requires national courts not to take decisions running counter to the decision adopted by the Commission in a proceeding initiated under Regulation No 1/2003.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4425">
+          <num>25</num>
+          <content eId="para_4425__content">
+            <p>It is apparent from the wording of Article 9(1) of that regulation that a decision taken on the basis of that article has in particular the effect of making binding commitments, proposed by undertakings, to meet the competition concerns identified by the Commission in its preliminary assessment. It must be found that such a decision does not certify that the practice, which was the subject of concern, complies with Article 101 TFEU.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4426">
+          <num>26</num>
+          <content eId="para_4426__content">
+            <p>Since, as provided for in Article 9(1) of Regulation No 1/2003, read in the light of recital 13 of that regulation, the Commission may carry out a mere `preliminary assessment' of the competition situation, without the commitment decision taken on the basis of that article subsequently establishing whether there has been or still is an infringement, it cannot be precluded that a national court may conclude that the practice which is the subject of the commitment decision infringes Article 101 TFEU and that, in so doing, it proposes, unlike the Commission, finding that an infringement of that article has been committed.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4427">
+          <num>27</num>
+          <content eId="para_4427__content">
+            <p>In addition, recitals 13 and 22 of Regulation No 1/2003, read together, expressly state that commitment decisions are without prejudice to the powers of competition authorities and courts of the Member States to decide on the case, and do not affect the power of the courts and the competition authorities of the Member States to apply Articles 101 and 102 TFEU.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4428">
+          <num>28</num>
+          <content eId="para_4428__content">
+            <p>It follows that a decision taken on the basis of Article 9(1) of Regulation No 1/2003 cannot create a legitimate expectation in respect of the undertakings concerned as to whether their conduct complies with Article 101 TFEU. As the Advocate General observed in point 39 of her Opinion, the commitment decision cannot `legalise' the market behaviour of the undertaking concerned, and certainly not retroactively.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4429">
+          <num>29</num>
+          <content eId="para_4429__content">
+            <p>Nonetheless, national courts cannot overlook that type of decision. Such acts are, in any event, in the nature of a decision. In addition, both the principle of sincere cooperation laid down in Article 4(3) TEU and the objective of applying EU competition law effectively and uniformly require the national court to take into account the preliminary assessment carried out by the Commission and regard it as an indication, if not prima facie evidence, of the anticompetitive nature of the agreement at issue in the light of Article 101(1) TFEU.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_4430">
+          <num>30</num>
+          <content eId="para_4430__content">
+            <p>In those circumstances, the answer to the first question is that Article 16(1) of Regulation No 1/2003 must be interpreted as meaning that a commitment decision concerning certain agreements between undertakings, adopted by the Commission under Article 9(1) of that regulation, does not preclude national courts from examining whether those agreements comply with the competition rules and, if necessary, declaring those agreements void pursuant to Article 101(2) TFEU.</p>
+            <tblock>
+              <p>The second question</p>
+            </tblock>
+            <p>31 In the light of the answer given to the first question, there is no need to answer the second question.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_4431">
+          <num>32</num>
+          <content eId="para_4431__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Third Chamber) hereby rules: Article 16(1) of Council Regulation (EC) No 1/2003 of 16 December 2002 on the implementation of the rules on competition laid down in Articles [101 TFEU] and [102 TFEU] must be interpreted as meaning that a commitment decision concerning certain agreements between undertakings, adopted by the European Commission under Article 9(1) of that regulation, does not preclude national courts from examining whether those agreements comply with the competition rules and, if necessary, declaring those agreements void pursuant to Article 101(2) TFEU.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Spanish.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

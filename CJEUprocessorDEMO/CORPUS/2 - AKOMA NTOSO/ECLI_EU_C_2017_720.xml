@@ -1,0 +1,1076 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+      <references source="#source">
+        <TLCOrganization eId="institution_43" showAs="" href="/akn/ontology/Organization/Institution/institution_43" />
+      </references>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Fourth Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>21 September 2017 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Appeal -- Intellectual property -- Community designs -- Regulation (EC) No 6/2002 -- Article 5 -- Novelty -- Article 6 -- Individual character -- Article 7 -- Disclosure to the public -- Article 63 -- Powers of the European Union Intellectual Property Office (EUIPO) in the taking of evidence -- Burden of proof on the applicant for a declaration of invalidity -- Requirements relating to the reproduction of an earlier design -- Design for a shower drainage channel -- Dismissal of an application for a declaration of invalidity by the Board of Appeal) In Joined Cases C‑361/15 P and C‑405/15 P, TWO APPEALS under Article 56 of the Statute of the Court of Justice of the European Union, lodged on 11 July and 24 July 2015, respectively, Easy Sanitary Solutions BV, established in Oldenzaal (Netherlands), represented by F. Eijsvogels, advocaat (C‑361/15 P), European Union Intellectual Property Office (EUIPO), represented by S. Bonne and A. Folliard-Monguiral, acting as Agents (C‑405/15 P), appellants, supported by:</p>
+      <p>
+        <party as="intervening" refersTo="#institution_43">United Kingdom of Great Britain and Northern Ireland</party>
+      </p>
+      <p>, represented by J. Kraehling and C.R. Brodie, acting as Agents, and by N. Saunders, Barrister (C‑405/15 P), intervener in the appeal, the other party to the proceedings being: Group Nivelles NV, established in Gingelom (Belgium), represented by H. Jonkhout, advocaat, applicant at first instance THE COURT (Fourth Chamber), composed of T. von Danwitz, President of the Chamber, E. Juhász, C. Vajda, K. Jürimäe and C. Lycourgos (Rapporteur), Judges, Advocate General: Y. Bot, Registrar: L. Hewlett, Principal Administrator, having regard to the written procedure and further to the hearing on 14 December 2016, after hearing the Opinion of the Advocate General at the sitting on 1 February 2017,</p>
+      <p>gives the following</p>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_19343">
+          <num>1</num>
+          <content eId="para_19343__content">
+            <p>By their appeals, Easy Sanitary Solutions BV ( `ESS') and the European Union Intellectual Property Office (EUIPO) request that the Court set aside the judgment of the General Court of the European Union of 13 May 2015, Group Nivelles v OHIM -- Easy Sanitary Solutions (Shower drainage channel) ( T‑15/13, EU:T:2015:281) ( `the judgment under appeal'), by which the General Court annulled the decision of the Third Board of Appeal of EUIPO of 4 October 2012 (Case R 2004/2010-3), relating to proceedings for a declaration of invalidity between I‑Drain BVBA and ESS ( `the contested decision').</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <paragraph eId="para_19344">
+          <num>2</num>
+          <content eId="para_19344__content">
+            <p>As set out in recital 12 of Council Regulation (EC) No 6/2002 of 12 December 2001 on Community designs ( OJ 2002 L 3, p. 1), `protection should not be extended to those component parts which are not visible during normal use of a product, nor to those features of such part which are not visible when the part is mounted, or which would not, in themselves, fulfil the requirements as to novelty and individual character. Therefore, those features of design which are excluded from protection for these reasons should not be taken into consideration for the purpose of assessing whether other features of the design fulfil the requirements for protection'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19345">
+          <num>3</num>
+          <content eId="para_19345__content">
+            <p>In accordance with recital 14 of Regulation No 6/2002, `the assessment as to whether a design has individual character should be based on whether the overall impression produced on an informed user viewing the design clearly differs from that produced on him by the existing design corpus, taking into consideration the nature of the product to which the design is applied or in which it is incorporated, and in particular the industrial sector to which it belongs and the degree of freedom of the designer in developing the design'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19346">
+          <num>4</num>
+          <content eId="para_19346__content">
+            <p>Article 3(a) of that regulation provides: `For the purposes of this Regulation:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>``design '' means the appearance of the whole or a part of a product resulting from the features of, in particular, the lines, contours, colours, shape, texture and/or materials of the product itself and/or its ornamentation.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19347">
+          <num>5</num>
+          <content eId="para_19347__content">
+            <p>Article 4(1) of that regulation, that article being headed `Requirements for protection', provides: `A design shall be protected by a Community design to the extent that it is new and has individual character.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19348">
+          <num>6</num>
+          <content eId="para_19348__content">
+            <p>Under the heading `Novelty', Article 5 of that regulation provides: `1.   A design shall be considered to be new if no identical design has been made available to the public:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>in the case of an unregistered Community design, before the date on which the design for which protection is claimed has first been made available to the public;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>in the case of a registered Community design, before the date of filing of the application for registration of the design for which protection is claimed, or, if priority is claimed, the date of priority. 2.   Designs shall be deemed to be identical if their features differ only in immaterial details.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19349">
+          <num>7</num>
+          <content eId="para_19349__content">
+            <p>Article 6 of Regulation No 6/2002, headed `Individual character', provides: `1.   A design shall be considered to have individual character if the overall impression it produces on the informed user differs from the overall impression produced on such a user by any design which has been made available to the public:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>in the case of an unregistered Community design, before the date on which the design for which protection is claimed has first been made available to the public;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>in the case of a registered Community design, before the date of filing the application for registration or, if a priority is claimed, the date of priority. 2.   In assessing individual character, the degree of freedom of the designer in developing the design shall be taken into consideration.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19350">
+          <num>8</num>
+          <content eId="para_19350__content">
+            <p>Article 7(1) of that regulation, headed `Disclosure', provides: `For the purpose of applying Articles 5 and 6, a design shall be deemed to have been made available to the public if it has been published following registration or otherwise, or exhibited, used in trade or otherwise disclosed, before the date referred to in Articles 5(1)(a) and 6(1)(a) or in Articles 5(1)(b) and 6(1)(b), as the case may be, except where these events could not reasonably have become known in the normal course of business to the circles specialised in the sector concerned, operating within the Community. The design shall not, however, be deemed to have been made available to the public for the sole reason that it has been disclosed to a third person under explicit or implicit conditions of confidentiality.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19351">
+          <num>9</num>
+          <content eId="para_19351__content">
+            <p>Article 10 of that regulation is worded as follows: `1.   The scope of the protection conferred by a Community design shall include any design which does not produce on the informed user a different overall impression. 2.   In assessing the scope of protection, the degree of freedom of the designer in developing his design shall be taken into consideration.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19352">
+          <num>10</num>
+          <content eId="para_19352__content">
+            <p>Under the heading `Rights conferred by the Community design', Article 19(1) of that regulation provides: `A registered Community design shall confer on its holder the exclusive right to use it and to prevent any third party not having his consent from using it. The aforementioned use shall cover, in particular, the making, offering, putting on the market, importing, exporting or using of a product in which the design is incorporated or to which it is applied, or stocking such a product for those purposes.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19353">
+          <num>11</num>
+          <content eId="para_19353__content">
+            <p>Article 25(1)(b) of Regulation No 6/2002 provides that `a Community design may be declared invalid only ... if it does not fulfil the requirements of Articles 4 to 9'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19354">
+          <num>12</num>
+          <content eId="para_19354__content">
+            <p>Article 36(2) and (6) of that regulation, that article being headed `Conditions with which applications must comply', provides: `2.   The application shall further contain an indication of the products in which the design is intended to be incorporated or to which it is intended to be applied. ... 6.   The information contained ... in paragraph 2 ... shall not affect the scope of protection of the design as such.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19355">
+          <num>13</num>
+          <content eId="para_19355__content">
+            <p>Article 52(1) of that regulation provides that, subject to Article 25(2) to (5), any natural or legal person, as well as a public authority empowered to do so, may submit to EUIPO an application for a declaration of invalidity of a registered Community design.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19356">
+          <num>14</num>
+          <content eId="para_19356__content">
+            <p>As provided in Article 53(1) of that regulation, which relates to the assessment of an application for a declaration of invalidity, if EUIPO finds that the application for a declaration of invalidity is admissible, EUIPO is to examine whether the grounds for invalidity referred to in Article 25 prejudice the maintenance of the registered Community design. In accordance with Article 53(2), in the examination of the application, which is to be conducted in accordance with Commission Regulation (EC) No 2245/2002 of 21 October 2002 implementing Regulation No 6/2002 ( OJ 2002 L 341, p. 28), EUIPO is to invite the parties, as often as necessary, to file observations, within a period to be fixed by EUIPO, on communications from the other parties or issued by itself.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19357">
+          <num>15</num>
+          <content eId="para_19357__content">
+            <p>Article 61 of Regulation No 6/2002 provides as follows: `1.   Actions may be brought before the Court of Justice against decisions of the Boards of Appeal on appeals. 2.   The action may be brought on grounds of lack of competence, infringement of an essential procedural requirement, infringement of the Treaty, of this Regulation or of any rule of law relating to their application or misuse of power. 3.   The Court of Justice has jurisdiction to annul or to alter the contested decision. ... 6.   [EUIPO] shall be required to take the necessary measures to comply with the judgment of the Court of Justice.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19358">
+          <num>16</num>
+          <content eId="para_19358__content">
+            <p>As provided in Article 63(1) of that regulation, `in proceedings before it, [EUIPO] shall examine the facts of its own motion. However, in proceedings relating to a declaration of invalidity, [EUIPO] shall be restricted in this examination to the facts, evidence and arguments provided by the parties and the relief sought'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19359">
+          <num>17</num>
+          <content eId="para_19359__content">
+            <p>Article 65(1) of that regulation provides that EUIPO may, in any proceedings, adopt measures of inquiry and may, inter alia, hear the parties and witnesses, request information and the production of documents and items of evidence, or even demand expert opinions.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19360">
+          <num>18</num>
+          <content eId="para_19360__content">
+            <p>Article 28(1)(b)(v) and (vi) of Regulation No 2245/2002 provides: `1.   An application to [EUIPO] for a declaration of invalidity pursuant to Article 52 of Regulation [No 6/2002] shall contain: ...</p>
+            <blockList>
+              <item>
+                <num>(b)</num>
+                <p>as regards the grounds on which the application is based: ...</p>
+                <blockList>
+                  <item>
+                    <num>(v)</num>
+                    <p>where the ground for invalidity is that the registered Community design does not fulfil the requirements set out in Article 5 or 6 of Regulation [No 6/2002], the indication and the reproduction of the prior designs that could form an obstacle to the novelty or individual character of the registered Community design, as well as documents proving the existence of those earlier designs;</p>
+                  </item>
+                  <item>
+                    <num>(vi)</num>
+                    <p>an indication of the facts, evidence and arguments presented in support of those grounds.'</p>
+                  </item>
+                </blockList>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Background to the disputes</p>
+        </tblock>
+        <paragraph eId="para_19361">
+          <num>19</num>
+          <content eId="para_19361__content">
+            <p>On 28 November 2003 ESS filed an application for registration of a Community design with EUIPO, under Regulation No 6/2002. That application covered the design which is represented as follows:</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19362">
+          <num>20</num>
+          <content eId="para_19362__content">
+            <p>The contested design was registered as Community design No 000107834-0025 and published in Community Designs Bulletin No 19/2004 of 9 March 2004. According to that registration, it relates to a `shower drain'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19363">
+          <num>21</num>
+          <content eId="para_19363__content">
+            <p>On 31 March 2009 registration of the contested design was renewed. That renewal was published in Community Designs Bulletin No 61/2009 of 2 April 2009.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19364">
+          <num>22</num>
+          <content eId="para_19364__content">
+            <p>On 3 September 2009 I-Drain, the predecessor of Group Nivelles NV, submitted an application, under Article 52 of Regulation No 6/2002, for a declaration of invalidity of the contested design. In support of that application, it relied on the ground of invalidity set out in Article 25(1)(b) of that regulation, namely that the design did not fulfil the requirements of Articles 4 to 9 of that regulation. As is apparent from Article 4(1) of Regulation No 6/2002, those requirements insist on, inter alia, the novelty (within the meaning of Article 5 of that regulation) and individual character (within the meaning of Article 6 of the same regulation) of the design concerned, as assessed at the date on which it was made available to the public, determined in accordance with Article 7 of the same regulation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19365">
+          <num>23</num>
+          <content eId="para_19365__content">
+            <p>In support of its application for a declaration of invalidity, I-Drain produced, inter alia, extracts from two Blücher product catalogues ( `the Blücher catalogues'). The Blücher catalogues contain, inter alia, the following illustration:</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19366">
+          <num>24</num>
+          <content eId="para_19366__content">
+            <p>By decision of 23 September 2010, the Invalidity Division of EUIPO declared the contested design invalid, thereby granting I-Drain's application to that effect.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19367">
+          <num>25</num>
+          <content eId="para_19367__content">
+            <p>The Invalidity Division of EUIPO stated in paragraph 3 of its decision that it was clear from I-Drain's arguments that its application for a declaration of invalidity was based on the allegation that the contested Community design lacked novelty and individual character. In paragraph 15 of that decision, the Invalidity Division of EUIPO held that the design represented a plate, a collector and a siphon ( sensu stricto), and the only visible feature of the design was the top of the plate. According to paragraph 19 of the decision of the Invalidity Division of EUIPO, the plate is identical to the one shown in the centre of the illustration reproduced in paragraph 23 above, and the contested design lacks novelty in relation to the design shown in that document. In addition, in paragraph 20 of its decision, the Invalidity Division of EUIPO rejected as irrelevant ESS's argument that the plate shown in the centre of the illustration reproduced in paragraph 23 of this judgment was used in a different environment from that in which the product covered by the contested design was intended to be used, on the ground that the use of the product in which the design is incorporated is not a feature of its appearance and hence this difference has no impact on the comparison of the two opposing designs.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19368">
+          <num>26</num>
+          <content eId="para_19368__content">
+            <p>On 15 October 2010 ESS filed a notice of appeal under Articles 55 to 60 of Regulation No 6/2002 against the decision of the Invalidity Division of EUIPO.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19369">
+          <num>27</num>
+          <content eId="para_19369__content">
+            <p>By the contested decision, the Third Board of Appeal of EUIPO annulled the decision of the Invalidity Division of EUIPO of 23 September 2010. In essence, it held, in paragraphs 31 to 33 of the contested decision, in contrast to the Invalidity Division of EUIPO, that the contested Community design was new, within the meaning of Article 5 of Regulation No 6/2002, since it was not identical to the plate shown in the centre of the illustration reproduced in paragraph 23 of this judgment, but contained differences, when compared to it, that were neither `minimal' nor `difficult to appreciate objectively' and which therefore could not be considered immaterial. The Board of Appeal remitted the case to the Invalidity Division of EUIPO `for further prosecution of the request for declaration of invalidity as far as it is based on Article 25(1)(b) in conjunction with [Article 4(1) and Article 6]' of Regulation No 6/2002.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The procedure before the General Court and the judgment under appeal</p>
+        </tblock>
+        <paragraph eId="para_19370">
+          <num>28</num>
+          <content eId="para_19370__content">
+            <p>By application lodged at the Registry of the General Court on 7 January 2013, Group Nivelles brought an action for the annulment of the contested decision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19371">
+          <num>29</num>
+          <content eId="para_19371__content">
+            <p>By its response, lodged at the Registry of the General Court on 15 July 2013, ESS, as intervener, claimed that the General Court should annul the contested decision on a ground not relied on in the application.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19372">
+          <num>30</num>
+          <content eId="para_19372__content">
+            <p>In support of the action, Group Nivelles put forward a single plea in law, claiming that the Third Board of Appeal of EUIPO erred when comparing the contested design with earlier designs which had been relied on in support of the application for a declaration of invalidity. In its view, that error led the Third Board of Appeal of EUIPO to the incorrect conclusion that the contested design was new within the meaning of Article 5 of Regulation No 6/2002.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19373">
+          <num>31</num>
+          <content eId="para_19373__content">
+            <p>In its request for the annulment of the contested decision on a ground other than those relied on by Group Nivelles, ESS maintained that the Third Board of Appeal of EUIPO infringed essential procedural requirements in finding in paragraph 31 of that decision that the illustration reproduced in paragraph 23 of this judgment depicted a very simple rectangular shower drain consisting of a cover plate with a hole in it. In the view of ESS, that finding conflicted with the statements made by the parties during the proceedings before EUIPO and did not state the reasons on which it was based, which means that the contested decision was not sufficiently comprehensible.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19374">
+          <num>32</num>
+          <content eId="para_19374__content">
+            <p>By the judgment under appeal, the General Court upheld the single plea of Group Nivelles and the incidental plea raised by ESS and, consequently, annulled the contested decision. By contrast, the General Court rejected the request lodged by Group Nivelles that that decision be amended.</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>Forms of order sought and procedure before the Court of Justice</p>
+        </tblock>
+        <paragraph eId="para_19375">
+          <num>33</num>
+          <content eId="para_19375__content">
+            <p>By its appeal in Case C‑361/15 P, ESS claims that the Court should:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>set aside in part the judgment under appeal; and</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>order the unsuccessful party to pay the costs.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19376">
+          <num>34</num>
+          <content eId="para_19376__content">
+            <p>By its response in Case C‑361/15 P, EUIPO claims that the Court should:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>dismiss the appeal; and</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>order the appellant to pay the costs incurred by EUIPO.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19377">
+          <num>35</num>
+          <content eId="para_19377__content">
+            <p>By its response in Case C‑361/15 P, Group Nivelles claims that the Court should:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>dismiss the appeal; and</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>order the appellant to pay the costs incurred by Group Nivelles.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19378">
+          <num>36</num>
+          <content eId="para_19378__content">
+            <p>By its appeal in Case C‑405/15 P, EUIPO claims that the Court should:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>set aside the judgment under appeal; and</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>order Group Nivelles and ESS to pay the costs incurred by EUIPO.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19379">
+          <num>37</num>
+          <content eId="para_19379__content">
+            <p>By its response in Case C‑405/15 P, ESS claims that the Court should:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>uphold the appeal as regards the first two grounds of appeal of EUIPO and order Group Nivelles to pay the costs incurred by EUIPO; and</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>dismiss the appeal as regards the third ground of appeal of EUIPO and order EUIPO to bear the costs ESS has incurred in respect of that ground of appeal.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19380">
+          <num>38</num>
+          <content eId="para_19380__content">
+            <p>By its response in Case C‑405/15 P, Group Nivelles claims that the Court should:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>dismiss the appeal; and</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>order EUIPO to pay the costs incurred by Group Nivelles.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19381">
+          <num>39</num>
+          <content eId="para_19381__content">
+            <p>By its statement in intervention in Case C‑405/15 P, the United Kingdom of Great Britain and Northern Ireland claims that the Court should:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>set aside the judgment under appeal; and</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>order it to bear its own costs.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19382">
+          <num>40</num>
+          <content eId="para_19382__content">
+            <p>By decision of the President of the Court of 8 June 2016, Cases C‑361/15 P and C‑405/15 P were joined for the purposes of the oral procedure and the judgment.</p>
+            <tblock>
+              <p>The appeals</p>
+            </tblock>
+            <tblock>
+              <p>The first and second grounds of appeal of EUIPO: infringement of Article 63(1) and of Article 25(1)(b) of Regulation No 6/2002 in conjunction with Article 5 of that regulation</p>
+            </tblock>
+            <p>41 On account of the connection between them, the first and second grounds of appeal of EUIPO should be assessed together.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Arguments of the parties</p>
+        </tblock>
+        <paragraph eId="para_19383">
+          <num>42</num>
+          <content eId="para_19383__content">
+            <p>EUIPO argues, in the first place, that, in paragraphs 74 and 79 of the judgment under appeal, the General Court infringed Article 63(1) of Regulation No 6/2002 and, in particular, the principles governing the burden of proof and the taking of evidence in proceedings for a declaration of invalidity of a registered Community design, by requiring EUIPO to investigate the relevant design or designs on the basis of the various catalogue extracts annexed to the application for a declaration of invalidity.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19384">
+          <num>43</num>
+          <content eId="para_19384__content">
+            <p>It is EUIPO's submission that Article 63(1) is founded on a clear allocation of the respective roles of EUIPO and the applicant in the context of applications for a declaration of invalidity based on Articles 5 and 6 of Regulation No 6/2002, which is, it may be added, confirmed by the wording of Article 28(1)(b)(v) and (vi) of Regulation No 2245/2002.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19385">
+          <num>44</num>
+          <content eId="para_19385__content">
+            <p>Accordingly, EUIPO submits that an applicant for a declaration of invalidity is required to identify precisely which are the relevant earlier designs by presenting reproductions of those designs and evidence of their existence. In addition, he should provide evidence of the disclosure of those earlier designs, in accordance with Article 7 of Regulation No 6/2002. In that regard, EUIPO could assess the application for a declaration of invalidity only on the basis of facts, evidence, arguments and observations submitted by the applicant for that declaration, and could not take the place of the latter in obtaining evidence or investigating which earlier design might be relevant among all of those represented in the documents submitted.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19386">
+          <num>45</num>
+          <content eId="para_19386__content">
+            <p>EUIPO maintains that the General Court erred in law when it held, in paragraphs 74 and 84 of the judgment under appeal, that EUIPO had not correctly identified the earlier design relied on and that such design constituted `the whole ... of the draining device for liquid waste available from Blücher, relied on in support of the application for a declaration of invalidity'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19387">
+          <num>46</num>
+          <content eId="para_19387__content">
+            <p>According to EUIPO, it is apparent from the proceedings for an application for a declaration of invalidity and from the observations of Group Nivelles before the General Court, that Group Nivelles is not relying on the whole of the draining device for liquid waste as an earlier design, but only on the cover plate made available by both Blücher and other undertakings. EUIPO submits that it was only at the stage of an action being lodged before the General Court, and therefore too late, that Group Nivelles referred to the whole of the draining device for liquid waste.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19388">
+          <num>47</num>
+          <content eId="para_19388__content">
+            <p>It is EUIPO's submission that, by imposing on EUIPO, in paragraph 79 of the judgment under appeal, the requirement to compare the contested design with the whole of the draining device for liquid waste offered by Blücher, the General Court, at its own initiative, investigated, in the catalogues produced by Group Nivelles, the earlier design that it considered the most relevant, thereby infringing Article 63(1) of Regulation No 6/2002.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19389">
+          <num>48</num>
+          <content eId="para_19389__content">
+            <p>In the second place, EUIPO argues that, in paragraphs 77 and 78 of the judgment under appeal, the General Court infringed the rules intended to govern the assessment of the novelty of a Community design referred to in Article 5 of Regulation No 6/2002, by requiring it to combine several components of the design that is claimed to be earlier, when they are disclosed separately.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19390">
+          <num>49</num>
+          <content eId="para_19390__content">
+            <p>EUIPO maintains that the Court of Justice has already held in its judgment of 19 June 2014, Karen Millen Fashions ( C‑345/13, EU:C:2014:2013, paragraph 26) that, as regards the assessment of the individual character of a design referred to in Article 6 of Regulation No 6/2002, such a design may be compared with earlier individualised and defined designs, but not with an amalgam of specific features or parts of earlier designs. EUIPO claims that such an assessment would also be appropriate when examining the novelty of a design within the meaning of Article 5 of that regulation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19391">
+          <num>50</num>
+          <content eId="para_19391__content">
+            <p>It is EUIPO's submission that the fact that the various components of a design, which have been disclosed separately, are intended to be used together does not change that conclusion. EUIPO submits that the combination of those various components is capable of giving rise to an assumed, but hypothetical, appearance, or one which is, in any case, subject to considerable approximations, which impedes a comparative assessment of its novelty, as referred to in Article 5 of Regulation No 6/2002. EUIPO claims that, in the present case, the various characteristics of the earlier design cannot be determined with sufficient precision and that the combination of various components intended to be used together would require an effort of imagination and would give rise to a hypothetical amalgamation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19392">
+          <num>51</num>
+          <content eId="para_19392__content">
+            <p>EUIPO adds that the General Court, in paragraphs 68 and 76 of the judgment under appeal, rejected those arguments on the ground that they are based on the premiss that the parties did not submit any image combining the cover plate and the drainage collector, a premiss that, according to the General Court, is incorrect. However, EUIPO submits that the General Court's assertion is founded on a distortion of the facts, which is confirmed by a comparison of the illustrations referred to by the General Court in the judgment under appeal.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19393">
+          <num>52</num>
+          <content eId="para_19393__content">
+            <p>ESS concurs with the arguments raised by EUIPO and submits that the first and second grounds are well founded.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19394">
+          <num>53</num>
+          <content eId="para_19394__content">
+            <p>By contrast, Group Nivelles contests EUIPO's arguments and therefore requests that the Court of Justice reject the first and second grounds as being unfounded.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Findings of the Court</p>
+        </tblock>
+        <paragraph eId="para_19395">
+          <num>54</num>
+          <content eId="para_19395__content">
+            <p>By its first and second grounds of appeal, EUIPO contests, in essence, the assessment of the General Court set out in paragraphs 77 to 79 and 84 of the judgment under appeal.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19396">
+          <num>55</num>
+          <content eId="para_19396__content">
+            <p>EUIPO submits that the General Court infringed, first, Article 63(1) of Regulation No 6/2002 and, in particular, the principles governing the burden of proof and the taking of evidence in proceedings relating to a declaration of invalidity of a registered design. Second, it maintains that the General Court infringed Article 5 of that regulation and, inter alia, the rules governing the assessment of the novelty of a Community design by requiring that EUIPO combine the various elements of one or more designs made available to the public separately in various extracts of catalogues attached to the application for a declaration of invalidity in order to ascertain the entire appearance of the earlier design.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19397">
+          <num>56</num>
+          <content eId="para_19397__content">
+            <p>As regards the taking of evidence, it should be noted that the first sentence of Article 63(1) of Regulation No 6/2002 provides that, in proceedings before it, EUIPO is to examine the facts of its own motion. However, the second sentence of that provision provides that, in proceedings relating to a declaration of invalidity, EUIPO is to be restricted in this examination to the facts, evidence and arguments provided by the parties and the relief sought.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19398">
+          <num>57</num>
+          <content eId="para_19398__content">
+            <p>In the present case, it is apparent from paragraph 22 of this judgment that Group Nivelles lodged an application for a declaration of invalidity of a contested design in accordance with Article 52 of Regulation No 6/2002, relying on the ground of invalidity referred to in Article 25(1)(b) of that regulation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19399">
+          <num>58</num>
+          <content eId="para_19399__content">
+            <p>First, according to Article 28(1)(b)(v) of Regulation No 2245/2002, where an application for a declaration of invalidity of a registered Community design is based on the fact that the design does not fulfil the requirements set out in Article 5 or 6 of Regulation No 6/2002, the application for a declaration of invalidity must contain information on, and a reproduction of, the prior designs capable of forming an obstacle to establishing the novelty or individual character of the registered Community design, as well as documents proving the existence of those earlier designs.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19400">
+          <num>59</num>
+          <content eId="para_19400__content">
+            <p>Second, in the context of an application for a declaration of invalidity based on Article 25 of Regulation No 6/2002, it follows from Article 52(1) and (2) and from Article 53(1) and (2) of that regulation, that it is not for EUIPO or for the General Court, but for the applicant relying on the ground of invalidity referred to in Article 25(1)(b) of that regulation to provide evidence to demonstrate the truth of that ground (see, by analogy, order of 17 July 2014, Kastenholz v OHIM, C‑435/13 P, not published, EU:C:2014:2124, paragraph 55).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19401">
+          <num>60</num>
+          <content eId="para_19401__content">
+            <p>Consequently, when an applicant for a declaration of invalidity refers to the ground of invalidity set out in Article 25(1)(b) of Regulation No 6/2002, it is for him to provide evidence to demonstrate that the contested design does not fulfil the requirements of Articles 4 to 9 of that regulation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19402">
+          <num>61</num>
+          <content eId="para_19402__content">
+            <p>In addition, as regards the argument relating to the infringement of Article 5 of Regulation No 6/2002, it should be added that, by requiring that, in order for a design to be considered to be new, `no identical design has been made available to the public', that provision implies that the assessment of the novelty of a design must be conducted in relation to one or more specific, individualised, defined and identified designs from among all the designs which have been made available to the public previously (see, by analogy, regarding Article 6 of Regulation No 6/2002, judgment of 19 June 2014, Karen Millen Fashions, C‑345/13, EU:C:2014:2013, paragraph 25).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19403">
+          <num>62</num>
+          <content eId="para_19403__content">
+            <p>In that regard, it should be noted that, according to Article 3(a) of that regulation, a design is defined as being `the appearance of the whole or a part of a product resulting from the features of, in particular, the lines, contours, colours, shape, texture and/or materials of the product itself and/or its ornamentation'. It follows that, in the context of the system set out by Regulation No 6/2002, appearance is the decisive factor of a design.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19404">
+          <num>63</num>
+          <content eId="para_19404__content">
+            <p>Consequently, the fact that a characteristic of a design is visible is an essential feature of that protection. It is stated in recital 12 of Regulation No 6/2002 that the protection of designs should not be extended to those component parts which are not visible during normal use of a product, nor to those features of such part which are not visible when the part is mounted and that those characteristics should not, for those reasons, be taken into consideration for the purpose of assessing whether other features of the design fulfil the requirements for protection.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19405">
+          <num>64</num>
+          <content eId="para_19405__content">
+            <p>It follows from the foregoing that, as the Advocate General pointed out, in essence, in points 147 and 149 of his Opinion, it is essential that the departments of EUIPO have an image of the earlier design that makes it possible to see the appearance of the product in which the design is incorporated and to identify the earlier design precisely and with certainty, so that they may, in accordance with Articles 5 to 7 of Regulation No 6/2002, assess the novelty and individual character of the contested design and carry out a comparison of the designs at issue as part of that assessment. It is a prerequisite of an examination whether the contested design does in fact lack novelty or individual character that a specific and defined earlier design is available.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19406">
+          <num>65</num>
+          <content eId="para_19406__content">
+            <p>Having regard also to the findings in paragraphs 58 to 64 of the present judgment, it follows that it is for the party who lodged the application for a declaration of invalidity to provide EUIPO with the necessary information and, in particular, to identify and reproduce precisely and entirely the design that is allegedly earlier in order to demonstrate that the contested design cannot be validly registered.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19407">
+          <num>66</num>
+          <content eId="para_19407__content">
+            <p>In the present cases, it follows from paragraphs 64, 65 and 79 of the judgment under appeal, in particular, no distortion being invoked in that regard in the present appeals, that Group Nivelles failed to present in its application for a declaration of invalidity before the departments of EUIPO a complete reproduction of the design that was claimed to be earlier.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19408">
+          <num>67</num>
+          <content eId="para_19408__content">
+            <p>However, in paragraph 79 of the judgment under appeal, the General Court asserted that, to the extent that it was clear from the Blücher catalogues that the cover plate shown in the centre of the illustration reproduced in paragraph 23 of this judgment was intended to be combined with the collectors and siphons offered by Blücher that also appeared in those catalogues, in order to make up a complete drainage device for liquid waste, it was necessary for EUIPO, when assessing the novelty of the contested design, to compare it, inter alia, with a drain for liquid waste comprising the cover plate in question combined with the other elements of a drainage device for liquid waste offered by Blücher.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19409">
+          <num>68</num>
+          <content eId="para_19409__content">
+            <p>By doing so, the General Court required EUIPO, in the context of the comparison that EUIPO is obliged to undertake of the relevant designs, for the purposes of assessing the novelty of the contested design within the meaning of Article 5 of Regulation No 6/2002, to combine various elements of one or more earlier designs in order to obtain the complete appearance of that design, even though the applicant for a declaration of invalidity failed to reproduce that design in its entirety.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19410">
+          <num>69</num>
+          <content eId="para_19410__content">
+            <p>EUIPO cannot be required, in particular in the context of assessing the novelty of a contested design, to combine various elements of an earlier design, since it is for the applicant for a declaration of invalidity to produce a complete representation of that earlier design. Moreover, any potential combination would be flawed, as the Advocate General has pointed out in point 152 of his Opinion, since it would necessarily entail approximations.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19411">
+          <num>70</num>
+          <content eId="para_19411__content">
+            <p>In those circumstances, as EUIPO correctly submits, and contrary to what the General Court held in paragraph 78 of the judgment under appeal, the fact that the contested design only exists as a combination of designs that have already been made available to the public and in relation to which it was previously stated that they were intended to be used in combination, is not, in the absence of complete information on and reproduction of the design that is claimed to be earlier, relevant for the purpose of assessing novelty within the meaning of Article 5 of Regulation No 6/2002.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19412">
+          <num>71</num>
+          <content eId="para_19412__content">
+            <p>In that regard, it is necessary to add that the fact, as referred to by the General Court in paragraph 68 of the judgment under appeal, that ESS, as the intervener before the General Court, produced extracts of a Blücher catalogue that were different from those produced by Group Nivelles in its application for a declaration of invalidity and that contained an image of a cover plate like the one shown in the centre of the illustration reproduced in paragraph 23 of this judgment, positioned on a collector featuring a drain siphon underneath, is insufficient to overcome the fact that there was no specific information on and no specific reproduction of the earlier design referred to by Group Nivelles. If such a fact were able to be taken into account by EUIPO in order to adopt measures of inquiry on the basis of Article 65(1) of Regulation No 6/2002, it would, by contrast, not be for EUIPO to combine the various elements of one or more designs, made available to the public separately, from the various extracts from catalogues attached to the application for a declaration of invalidity in order to obtain the complete appearance of the earlier design referred to. There is no need to assess EUIPO's argument that paragraphs 68 and 76 of the judgment under appeal are vitiated by a distortion of the facts, since it is sufficient to state that the General Court, in that judgment, does not assert in any way that the image produced by ESS is a complete image of the specific earlier design which is claimed by Group Nivelles to be earlier.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19413">
+          <num>72</num>
+          <content eId="para_19413__content">
+            <p>It follows from the foregoing that the General Court erred in law, in paragraphs 77 to 79 and 84 of the judgment under appeal, when it imposed the requirement on EUIPO that, for the purpose of assessing the novelty of the contested design, EUIPO should construct the earlier design from the various elements of one or more earlier designs in various extracts of Blücher catalogues attached to the application for a declaration of invalidity, even though the applicant for a declaration of invalidity had failed to reproduce in its entirety the design that it claimed to be earlier.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19414">
+          <num>73</num>
+          <content eId="para_19414__content">
+            <p>However, it is apparent from the case-law of the Court of Justice that an error of law committed by the General Court does not invalidate a judgment under appeal if its operative part is well founded on other legal grounds (see judgments of 18 July 2013, FIFA v Commission, C‑204/11 P, EU:C:2013:477, paragraph 43, and of 11 May 2017, Dyson v Commission, C‑44/16 P, EU:C:2017:357, paragraph 55).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19415">
+          <num>74</num>
+          <content eId="para_19415__content">
+            <p>In that regard, it must be noted that the operative part of the judgment under appeal, in so far as it annuls the contested decision, is well founded. It follows from paragraph 67 of the judgment under appeal in particular that the design that Group Nivelles claimed before EUIPO to be earlier was a complete drainage device for liquid waste offered by Blücher. Since EUIPO is not alleging any distortion in this regard, its argument that Group Nivelles referred to such a complete device for the first time at the stage of the action before the General Court cannot succeed.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19416">
+          <num>75</num>
+          <content eId="para_19416__content">
+            <p>As is pointed out in paragraph 70 of this judgment, it is apparent from paragraphs 64, 65 and 79 of the judgment under appeal that Group Nivelles failed to present in its application for a declaration of invalidity before the departments of EUIPO a complete reproduction of that design.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19417">
+          <num>76</num>
+          <content eId="para_19417__content">
+            <p>Nonetheless, the Third Board of Appeal of EUIPO, in the contested decision, proceeded to examine the novelty of the contested design by comparing it with the cover plate that was produced by Group Nivelles in support of its application for a declaration of invalidity, as shown in the centre of the illustration reproduced in paragraph 23 of this judgment. That cover plate was not the design that Group Nivelles claimed was earlier. It follows that, by asserting in paragraph 31 of the contested decision that `the prior design (D1) consists of a very simple rectangular shower drain consisting of a cover plate with a hole in it', the Third Board of Appeal of EUIPO based the contested decision on inaccurate grounds, which was sufficient to justify the General Court's decision to annul that decision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19418">
+          <num>77</num>
+          <content eId="para_19418__content">
+            <p>It follows from the foregoing that the error of law committed by the General Court, as established in paragraph 72 of this judgment, is not of such a kind as to invalidate the judgment under appeal, since its operative part, in so far as it annuls the contested decision, is well founded on other legal grounds. Consequently, EUIPO's first and second grounds of appeal must be rejected as being ineffective.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The first ground of appeal of ESS: an infringement, in paragraphs 115 to 123 of the judgment under appeal, of Article 25(1)(b) of Regulation No 6/2002 in conjunction with Article 5 and Article 7(1) of that regulation as well as Articles 10 and 19 and Article 36(6) of that regulation</p>
+        </tblock>
+        <tblock>
+          <p>Arguments of the parties</p>
+        </tblock>
+        <paragraph eId="para_19419">
+          <num>78</num>
+          <content eId="para_19419__content">
+            <p>By its first ground of appeal, ESS claims that, first, the General Court infringed Article 25(1)(b) of Regulation No 6/2002 in conjunction with Article 7(1) of that regulation, by finding, on the one hand, that an earlier design incorporated into a different product from that covered by a subsequent design or applied to such a product was, in principle, relevant for the purpose of assessing the novelty of the latter design within the meaning of Article 5 of that regulation and, on the other hand, that the wording of that article precluded a design from being considered to be new if an identical design had previously been made available to the public, regardless of the product in which that earlier design was intended to be incorporated or to which it was intended to be applied.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19420">
+          <num>79</num>
+          <content eId="para_19420__content">
+            <p>ESS claims that, contrary to what was held by the General Court in paragraph 119 of the judgment under appeal, the rules set out in Article 7 relate only to the novelty and individual character of products that belong to the same sector or products of the same nature that are intended for the same use.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19421">
+          <num>80</num>
+          <content eId="para_19421__content">
+            <p>ESS takes the view that neither the travaux préparatoires of Directive 98/71/EC of the European Parliament and of the Council of 13 October 1998 on the legal protection of designs ( OJ 1998 L 289, p. 28), nor those of Regulation No 6/2002 make it possible to conclude that the circumstance whereby the use of a design capable of being applied to various products, each with a different practical function, played a role in the drawing up of that regulation. Thus, ESS contends that the General Court was wrong in asserting in paragraph 122 of the judgment under appeal that the `sector concerned', within the meaning of Article 7(1) of Regulation No 6/2002, is not limited to that of the product in which the contested design is intended to be incorporated or to which it is intended to be applied. If that were so, that design could encompass all the sectors in which it is capable of being applied, even those that have no link with the sector in which the party claiming the protection with respect to designs wishes to apply it.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19422">
+          <num>81</num>
+          <content eId="para_19422__content">
+            <p>ESS asserts that for a sector to be considered as being `concerned', there must be a link between the design and the product or products to which the design in question is intended to be applied, that link being constituted by the products referred to in the application for a registration of a Community design in accordance with the provisions of Article 36(2) of Regulation No 6/2002.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19423">
+          <num>82</num>
+          <content eId="para_19423__content">
+            <p>It is ESS's submission that the effect of the wide interpretation that the General Court gives to `sector concerned' is that the category of `[specialised circles]' referred to in Article 7(1) of Regulation No 6/2002 includes persons who are supposed to know not only the sector of the product in which the contested design is intended to be incorporated or to which it is intended to be applied, but also other sectors including products in which the design is also capable of being incorporated or to which it is also capable of being applied. It is unrealistic to assume that those persons would have such a level of knowledge.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19424">
+          <num>83</num>
+          <content eId="para_19424__content">
+            <p>Second, ESS claims that the General Court infringed Article 25(1)(b) of Regulation No 6/2002 in conjunction with Article 5 of that regulation, when it held in paragraphs 115 and 116 of the judgment under appeal that a Community design could not be regarded as being new, within the meaning of Article 5(1), if an identical design had been made available to the public before the dates specified in that provision, even if that earlier design were intended to be incorporated into or applied to a product other than that or those referred to in the application for registration pursuant to Article 36(2) of Regulation No 6/2002.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19425">
+          <num>84</num>
+          <content eId="para_19425__content">
+            <p>Last, ESS asserts that in paragraphs 115 and 116 of the judgment under appeal the General Court infringed Articles 10 and 19 and Article 36(6) of Regulation No 6/2002.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19426">
+          <num>85</num>
+          <content eId="para_19426__content">
+            <p>ESS claims that, in order to assess whether a design produces a different overall impression within the meaning of Article 6 and Article 10(1) of Regulation No 6/2002, it is necessary to start from the viewpoint of the `informed user'. ESS claims that the informed user's knowledge is limited, which influences the assessment of the individual character of the registered Community design and of the scope of its protection.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19427">
+          <num>86</num>
+          <content eId="para_19427__content">
+            <p>In that regard, ESS points to a contradiction between the finding contained in paragraph 115 of the judgment under appeal and the finding made in paragraph 132 of that judgment. ESS asserts that the General Court recognised in paragraph 132 that the knowledge of the informed user is limited and that, if the informed user of the product, bearing in mind the identification of the product concerned in which the design is incorporated or to which it is applied, has no knowledge of the earlier product in which the earlier design has been incorporated or to which it has been applied, that earlier design cannot prevent recognition of the individual character of a subsequent design. ESS claims that, first, the individual character of a design and the scope of its protection are two faces of the same coin and, second, even if the informed user knows the earlier product, that does not necessarily mean that such knowledge can be taken into account when assessing the individual character of a design that, under Article 36(2) of Regulation No 6/2002, is intended to be incorporated into another product or applied to another product.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19428">
+          <num>87</num>
+          <content eId="para_19428__content">
+            <p>Group Nivelles and EUIPO claim that the first ground of appeal of ESS must be rejected as being unfounded.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Findings of the Court</p>
+        </tblock>
+        <paragraph eId="para_19429">
+          <num>88</num>
+          <content eId="para_19429__content">
+            <p>In paragraphs 115 to 123 of the judgment under appeal, the General Court, in essence, held that the nature of the product in which the earlier design is incorporated or to which it is applied has no bearing on the assessment of the novelty of the contested design, within the meaning of Article 5 of Regulation No 6/2002. In paragraph 122 of that judgment, the General Court pointed out that the `sector concerned', within the meaning of Article 7(1) of that regulation, is not limited to that of the product in which the contested design is intended to be incorporated or applied.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19430">
+          <num>89</num>
+          <content eId="para_19430__content">
+            <p>It follows from Article 5(1)(b) of Regulation No 6/2002 that a design is considered new if no identical design has been made available to the public, in the case of a registered Community design, before the date of filing of the application for registration of the design for which protection is claimed, or, if priority is claimed, the date of priority.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19431">
+          <num>90</num>
+          <content eId="para_19431__content">
+            <p>The wording of that provision does not mean that the novelty of a design is dependent on the products in which it is capable of being incorporated or to which it is capable of being applied.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19432">
+          <num>91</num>
+          <content eId="para_19432__content">
+            <p>In addition, it should be noted that, in accordance with Article 10(1) of Regulation No 6/2002, the protection conferred by a Community design is to include `any design' which does not produce on the informed user a different overall impression.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19433">
+          <num>92</num>
+          <content eId="para_19433__content">
+            <p>Accordingly, it must be held that if ESS's position that a design's protection depends on the nature of the product in which that design is incorporated or to which it is applied were to be accepted, such protection would be limited only to the designs belonging to a specific sector. Such a position cannot therefore be accepted.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19434">
+          <num>93</num>
+          <content eId="para_19434__content">
+            <p>In addition, as the General Court was right to hold in paragraph 115 of the judgment under appeal, it follows from both Article 36(6) and Article 19(1) of Regulation No 6/2002 that a registered Community design confers on its holder the exclusive right to use the relevant design in all types of products, and not only in the product indicated in the application for registration.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19435">
+          <num>94</num>
+          <content eId="para_19435__content">
+            <p>Under Article 36(6), the information referred to, inter alia, in paragraph 2 of that same article is not to affect the scope of protection of the design as such. Consequently, that information, consisting of an indication of the products in which the design is intended to be incorporated or to which it is intended to be applied, cannot limit the protection of that design, as is provided for, in particular, in Article 10 of Regulation No 6/2002.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19436">
+          <num>95</num>
+          <content eId="para_19436__content">
+            <p>With regard to Article 19(1) of that regulation, the reference to `a product' in which the design is incorporated or to which it is applied, does not permit the conclusion that the scope of protection of the Community design will be limited to the product in which the design is incorporated or to which it is applied.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19437">
+          <num>96</num>
+          <content eId="para_19437__content">
+            <p>In such circumstances, the General Court was right to hold in paragraph 116 of the judgment under appeal that, having regard to the interpretation of Articles 10, 19 and 36 of Regulation No 6/2002, a Community design cannot be regarded as being new, within the meaning of Article 5(1) of that regulation, if an identical design has been made available to the public before the dates specified in that provision, even if that earlier design was intended to be incorporated into a different product or to be applied to a different product. The fact that the protection granted to a design is not limited only to the products in which it is intended to be incorporated or to which it is intended to be applied must therefore mean that the assessment of the novelty of a design must also not be limited to those products alone. Otherwise, as the General Court pointed out in the same paragraph, the subsequent registration of a Community design, which would be obtained despite the earlier disclosure of an identical design intended to be incorporated in a different product or to be applied to such different product, would allow the holder of that subsequent registration to prohibit the use of that same design for the product that was the subject of the earlier disclosure, which would be an absurd result.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19438">
+          <num>97</num>
+          <content eId="para_19438__content">
+            <p>Contrary to what is argued by ESS, that interpretation is not called into question by Article 7(1) of Regulation No 6/2002.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19439">
+          <num>98</num>
+          <content eId="para_19439__content">
+            <p>In accordance with the first sentence of Article 7(1), for the purpose of applying Articles 5 and 6 of Regulation No 6/2002, a design is to be deemed to have been made available to the public if it has been published following registration or otherwise, or exhibited, used in trade or otherwise disclosed, before the date referred to in Article 5(1)(a) and (b) and Article 6(1)(a) and (b) of that regulation, except where these events could not reasonably have become known in the normal course of business to the circles specialised in the sector concerned, operating within the European Union.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19440">
+          <num>99</num>
+          <content eId="para_19440__content">
+            <p>It follows from the wording of the first sentence of Article 7(1) of Regulation No 6/2002 that the effect of that provision is that the question of whether there is disclosure to the public is dependent only upon how that disclosure is in fact achieved and not upon the product in which that design is intended to be incorporated or to which it is intended to be applied.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19441">
+          <num>100</num>
+          <content eId="para_19441__content">
+            <p>In addition, that provision sets out the rule that the occurrence of any one of the events listed therein constitutes a disclosure to the public of a design, that rule being subject to an exception when, in the normal course of business, the events relied on to claim that there has been a disclosure could not reasonably be known to the circles specialised in the sector concerned, operating within the European Union. The phrase `circles specialised in the sector concerned' therefore only appears in the context of an exception and must, for that reason, be interpreted restrictively.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19442">
+          <num>101</num>
+          <content eId="para_19442__content">
+            <p>In order to determine the scope of that exception, it is necessary, as the General Court did in paragraph 120 of the judgment under appeal, to refer to the Opinion of the Economic and Social Committee on the proposal for a European Parliament and Council Regulation on the Community design ( OJ 1994 C 388, p. 9), the proposal featuring in paragraph 3.1.4 of that opinion being reflected in Article 7 of Regulation No 6/2002. Paragraph 3.1.2 of that opinion states that the provision relating to the assessment of the novelty of a Community design, as worded, would be difficult to apply in many fields, and particularly in the textiles industry. That same paragraph adds that sellers of counterfeit products often obtain false certification stating that the disputed design had already been created in a third country. Paragraph 3.1.3 of that same opinion concludes that, in those circumstances, the aim should be dissemination to interested parties within the European Union before the date of reference.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19443">
+          <num>102</num>
+          <content eId="para_19443__content">
+            <p>It follows from the travaux préparatoires for Regulation No 6/2002 that the purpose of the exception in Article 7(1) of that regulation, relating to cases in which certain events, listed in that provision, cannot constitute a disclosure to the public, is to ensure that events that are difficult to verify and that occur in a third country are not capable of constituting such disclosure, and not to make a distinction between various business sectors within the European Union and to exclude the possibility that events that relate to a business sector that cannot reasonably be known to the specialised circles of another sector within the European Union may constitute a disclosure to the public.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19444">
+          <num>103</num>
+          <content eId="para_19444__content">
+            <p>Thus, the General Court was right to hold, in paragraph 122 of the judgment under appeal, that the `sector concerned', within the meaning of Article 7(1) of Regulation No 6/2002, is not limited to that of the product in which the contested design is intended to be incorporated or applied.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19445">
+          <num>104</num>
+          <content eId="para_19445__content">
+            <p>Therefore, the General Court did not err in law when it held, in paragraph 123 of the judgment under appeal, that an earlier design incorporated in or applied to a product that is different from the one to which the later design relates is, in principle, relevant for the purposes of assessing the novelty, within the meaning of Article 5 of Regulation No 6/2002, of the subsequent design. It follows from the foregoing that, as the General Court stated in paragraph 123 of the judgment under appeal, that article precludes a design from being considered to be new if an identical design was made available to the public earlier, whatever the product in which that earlier design is intended to be incorporated or applied.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19446">
+          <num>105</num>
+          <content eId="para_19446__content">
+            <p>Consequently, ESS's first ground of appeal must be rejected.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The second ground of appeal of ESS: infringement of Article 61 of Regulation No 6/2002</p>
+        </tblock>
+        <paragraph eId="para_19447">
+          <num>106</num>
+          <content eId="para_19447__content">
+            <p>By its second ground of appeal, ESS claims that the General Court exceeded the limits of its power of judicial review, thereby infringing Article 61 of Regulation No 6/2002, when it asserted, in the last sentence of paragraph 137 of the judgment under appeal, that `contrary to what [ESS] seems to presume, [the fact that the cover plates are suitable for industrial use] does not mean that they cannot be used also in other places, inter alia in a shower, where they would normally bear less significant loads'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19448">
+          <num>107</num>
+          <content eId="para_19448__content">
+            <p>ESS submits that the Third Board of Appeal of EUIPO did not rule on either the load classes in the Blücher catalogues and their meaning or on their relevance for the assessment of the novelty or the individual character of the design. ESS adds that the last sentence of paragraph 137 of the judgment under appeal was of no value with regard to the finding reached by the General Court, which emerges from paragraph 138 of that judgment, starting with the words `the fact remains that ...'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19449">
+          <num>108</num>
+          <content eId="para_19449__content">
+            <p>In this respect, the second ground of appeal must be rejected as being ineffective. Paragraph 138 of the judgment under appeal, which contains the finding of the General Court relating to the error of the Third Board of Appeal of EUIPO, is introduced with the words `the fact remains that ...', which shows that the assessment included at the end of paragraph 137 of the judgment under appeal is superfluous, as ESS admits in any case in its written pleadings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19450">
+          <num>109</num>
+          <content eId="para_19450__content">
+            <p>Further, it is appropriate to note that such an assessment can in no way be held to be the basis of the finding reached by the General Court in paragraphs 138 and 139 of that judgment, that the Third Board of Appeal of EUIPO erred in law by classifying the cover plate shown in the centre of the illustration reproduced in paragraph 23 of this judgment as a `shower drain'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19451">
+          <num>110</num>
+          <content eId="para_19451__content">
+            <p>The second ground of appeal must, accordingly, be rejected.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The third ground of appeal of EUIPO: infringement of Article 25(1)(b) of Regulation No 6/2002, read in conjunction with Articles 6 and 7 thereof</p>
+        </tblock>
+        <tblock>
+          <p>Arguments of the parties</p>
+        </tblock>
+        <paragraph eId="para_19452">
+          <num>111</num>
+          <content eId="para_19452__content">
+            <p>By its third ground of appeal, EUIPO asserts, in essence, that the General Court erred in law when it held, in paragraphs 131 and 132 of the judgment under appeal, that, in the context of the assessment of the individual character of the contested design, within the meaning of Article 6 of Regulation No 6/2002, the nature of the products relevant to the designs that are being compared had an influence on the likelihood of the relevant informed user knowing the earlier design.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19453">
+          <num>112</num>
+          <content eId="para_19453__content">
+            <p>EUIPO claims, first, that as soon as an earlier design is disclosed, within the meaning of Article 7 of Regulation No 6/2002, it must be compared with the subsequent design. EUIPO contends that the fact that the assessment of the disclosure may involve `circles specialised in the sector concerned' is irrelevant for the purpose of that finding. EUIPO asserts that Article 7 contains a legal fiction that every design that has `been made available to the public' is assumed to be known both to the professional public of the sector concerned by the earlier design and to the public of informed users of the type of product concerned by the contested design. EUIPO states that such a finding is borne out by the general nature of the phrase `made available to the public' used in Article 7(1).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19454">
+          <num>113</num>
+          <content eId="para_19454__content">
+            <p>The reference to `circles specialised in the sector concerned' is only relevant in the context of the derogation from the rule that every act of making a design available to the public constitutes a valid disclosure. EUIPO submits that the disclosure of the earlier design is thus ineffective if it can be demonstrated that a professional of the relevant sector had no reasonable chance of accessing that disclosure. EUIPO maintains that the reference to `circles specialised in the sector concerned' serves only to emphasise the exceptional nature of a disclosure which would not be recognised as having any legal effect.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19455">
+          <num>114</num>
+          <content eId="para_19455__content">
+            <p>Second, EUIPO claims that the approach proposed by the General Court is tantamount to requiring the applicant for the declaration of invalidity to provide evidence of two disclosures: a first disclosure to those in `circles specialised in the sector concerned' and a second disclosure to users of the type of product relevant to the contested design. EUIPO submits that such a requirement would add a condition that neither the letter nor the spirit of Article 7(1) of Regulation No 6/2002 provides. EUIPO maintains that an applicant for a declaration of invalidity need only prove that a design was made available to the public and not that professionals had an actual knowledge of that disclosure or that the public of informed users were familiar with the products relevant to the earlier design.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19456">
+          <num>115</num>
+          <content eId="para_19456__content">
+            <p>Last, EUIPO asserts that the concept of `disclosure', within the meaning of Article 7 of Regulation No 6/2002, must be interpreted in the same way regardless of whether it is being applied to Article 5 of Regulation No 6/2002, relating to novelty, or Article 6 of that regulation, relating to individual character. EUIPO submits that requiring additional evidence that the informed public concerned by the contested design have knowledge of the earlier design, in the context of the assessment of Article 6, may mean that a design will be recognised as having individual character when it is not new, which would be illogical.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19457">
+          <num>116</num>
+          <content eId="para_19457__content">
+            <p>In such circumstances, EUIPO claims that, in the present case, the General Court cannot instruct the Third Board of Appeal of EUIPO to check whether users of `shower drains' are likely to be acquainted with Blücher's drainage channel.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19458">
+          <num>117</num>
+          <content eId="para_19458__content">
+            <p>Group Nivelles contends that the third ground of appeal of EUIPO should be rejected.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19459">
+          <num>118</num>
+          <content eId="para_19459__content">
+            <p>The United Kingdom, which intervened in the context of Case C‑405/15 P in support of EUIPO, asserts that the third ground of appeal of EUIPO is well founded.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Findings of the Court</p>
+        </tblock>
+        <paragraph eId="para_19460">
+          <num>119</num>
+          <content eId="para_19460__content">
+            <p>As regards the relevance of the identification of the product in which the design is incorporated or to which it is applied for the purpose of assessing the individual character of that design, within the meaning of Article 6 of Regulation No 6/2002, the General Court held, in paragraph 129 of the judgment under appeal, that the user to be taken into consideration is the user of the product in which the design is incorporated or to which it is applied. In paragraph 131 of the judgment under appeal, the General Court held that it cannot be excluded that the informed user of the product to which a particular design applies or in which it is incorporated also has knowledge of the corpus of designs relating to different products, even if that knowledge cannot be presumed automatically.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19461">
+          <num>120</num>
+          <content eId="para_19461__content">
+            <p>In paragraph 132 of the judgment under appeal, the General Court held, consequently, that the identification of the product to which an earlier design applies or in which that design is incorporated, relied on in order to challenge the individual character, within the meaning of Article 6 of Regulation No 6/2002, of a later design, is relevant for that assessment. According to the General Court, it is through the identification of the product concerned that it will be possible to determine whether the informed user of the product to which the later design applies or in which the later design is incorporated has knowledge of the earlier design. The General Court pointed out in that paragraph that it is only if that latter condition is fulfilled that the earlier design may prevent the later design from being recognised as having individual character.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19462">
+          <num>121</num>
+          <content eId="para_19462__content">
+            <p>In paragraph 133 of the judgment under appeal, the General Court held that, although the identification of the precise product in which the earlier design, relied on in support of the application for a declaration of invalidity, was incorporated or to which it was applied, was not relevant for the purposes of assessing the novelty, within the meaning of Article 5 of Regulation No 6/2002, of the contested design, it was none the less relevant for assessing the individual character, within the meaning of Article 6 of that regulation, of the latter design.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19463">
+          <num>122</num>
+          <content eId="para_19463__content">
+            <p>In that regard, EUIPO does not deny that the difference in the nature of the product in which the compared designs are incorporated or to which they are applied can affect the overall impression that they produce on the informed user of the contested design. In particular, EUIPO submits that the conditions in which the products relevant to the compared designs are used are relevant and can, in some circumstances, influence the overall impression left on the informed user.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19464">
+          <num>123</num>
+          <content eId="para_19464__content">
+            <p>However, EUIPO claims that the General Court erred in law when it held, in paragraphs 131 and 132 of the judgment under appeal, that the nature of the products in which the compared designs are incorporated or to which they are applied has an influence on the likelihood of the informed user of a product, in which the subsequent design is incorporated or to which it is applied, knowing the earlier design, and that it is only if this condition of knowledge is fulfilled that the earlier design would be capable of preventing the recognition of the individual character of the subsequent design.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19465">
+          <num>124</num>
+          <content eId="para_19465__content">
+            <p>In that regard, it should be noted that, in accordance with Article 6 of Regulation No 6/2002, a design is to be considered to have individual character if the overall impression it produces on the informed user differs from the overall impression produced on such a user by any design which has been made available to the public. The Court of Justice has already held that the concept of the `informed user', which is not defined in that regulation, may be understood as referring, not to a user of average attention, but to a particularly observant one, either because of his personal experience or his extensive knowledge of the sector in question (see, to that effect, judgment of 20 October 2011, PepsiCo v Grupo Promer Mon Graphic, C‑281/10 P, EU:C:2011:679, paragraph 53).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19466">
+          <num>125</num>
+          <content eId="para_19466__content">
+            <p>It is true that, according to the case-law of the Court of Justice, the adjective `informed' suggests that, without being a designer or a technical expert, the user knows the various designs which exist in the sector concerned, possesses a certain degree of knowledge with regard to the features which those designs normally include, and, as a result of his interest in the products concerned, shows a relatively high degree of attention when he uses them (judgment of 20 October 2011, PepsiCo v Grupo Promer Mon Graphic, C‑281/10 P, EU:C:2011:679, paragraph 59).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19467">
+          <num>126</num>
+          <content eId="para_19467__content">
+            <p>However, the concept of an informed user cannot be interpreted as meaning that it is only if that user knows the earlier design that the earlier design could prevent recognition of the individual character of a subsequent design. Such an interpretation runs counter to Article 7 of Regulation No 6/2002.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19468">
+          <num>127</num>
+          <content eId="para_19468__content">
+            <p>In that regard, it should be noted that, under Articles 5 and 6 of Regulation No 6/2002, it is not necessary to compare one design with another to establish both the novelty and the individual character of the first design, unless the second has been made available to the public.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19469">
+          <num>128</num>
+          <content eId="para_19469__content">
+            <p>When a design is considered to have been made available to the public, within the meaning of Article 7(1) of Regulation No 6/2002, that disclosure is valid for the purposes of the assessment both of novelty, within the meaning of Article 5 of that regulation, of the design to which the disclosed design is compared, and of the individual character of that first design, within the meaning of Article 6 of that regulation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19470">
+          <num>129</num>
+          <content eId="para_19470__content">
+            <p>In addition, as follows from paragraphs 98 to 103 of this judgment, the `sector concerned', within the meaning of Article 7(1) of Regulation No 6/2002, is not limited to that of the product in which the contested design is intended to be incorporated or to which it is intended to be applied.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19471">
+          <num>130</num>
+          <content eId="para_19471__content">
+            <p>The General Court's finding, set out in paragraph 132 of the judgment under appeal, amounts to saying that, for the purposes of examining the individual character of a design, within the meaning of Article 6(1) of Regulation No 6/2002, the earlier design, whose disclosure to the public has been proved, within the meaning of Article 7(1) of that regulation, must be known to the informed user of the contested design.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19472">
+          <num>131</num>
+          <content eId="para_19472__content">
+            <p>However, nothing in Article 7(1) permits the conclusion that it is necessary for an informed user of the product in which the contested design is incorporated or to which it is applied to know the earlier design when it is incorporated in a product in an industry sector that differs from the relevant sector for the contested design, or is applied to such a product.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19473">
+          <num>132</num>
+          <content eId="para_19473__content">
+            <p>If the General Court's finding, set out in paragraph 132 of the judgment under appeal, were to be followed, an applicant for a declaration of invalidity in respect of the contested design would have to prove not only that the earlier design had been made available to the public, within the meaning of Article 7(1) of Regulation No 6/2002, but also that the informed public of the design whose validity is contested knew that earlier design.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19474">
+          <num>133</num>
+          <content eId="para_19474__content">
+            <p>That would be tantamount to requiring an applicant for a declaration of invalidity to provide evidence of two disclosures: a first disclosure to those in `circles specialised in the sector concerned' and a second disclosure to users of the type of product relevant to the contested design. Such a requirement, besides being incompatible with the interpretation of the phrase `sector concerned' referred to in paragraph 129 of this judgment, would add a condition that neither the letter nor the spirit of Article 7(1) of Regulation No 6/2002 provides and would be irreconcilable with the principle arising from Article 10(1) of that regulation, according to which the protection granted by the Community design extends to `any design' that fails to produce on the informed user a different overall impression.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19475">
+          <num>134</num>
+          <content eId="para_19475__content">
+            <p>It follows that the General Court erred in law when it imposed the requirement, in paragraph 132 of the judgment under appeal, that the informed user of the contested design should know the product in which the earlier design is incorporated or to which it is applied.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19476">
+          <num>135</num>
+          <content eId="para_19476__content">
+            <p>That being said, it must be held that those findings, set out in paragraph 132 of the judgment under appeal, are part of an analysis that led the General Court to the conclusion set out in paragraphs 124 and 133 of that judgment, that the sector concerned is relevant for the purpose of assessing the individual character, within the meaning of Article 6 of Regulation No 6/2002, of a design. That conclusion is not challenged by EUIPO in its appeal.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19477">
+          <num>136</num>
+          <content eId="para_19477__content">
+            <p>It follows that EUIPO's third ground of appeal must be rejected as being ineffective.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19478">
+          <num>137</num>
+          <content eId="para_19478__content">
+            <p>In such circumstances, the appeals of both ESS and EUIPO must be dismissed.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_19479">
+          <num>138</num>
+          <content eId="para_19479__content">
+            <p>Article 138(1) of the Rules of Procedure of the Court of Justice, applicable to appeal proceedings by virtue of Article 184(1) of those rules, provides that the unsuccessful party is to be ordered to pay the costs if they have been applied for in the successful party's pleadings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19480">
+          <num>139</num>
+          <content eId="para_19480__content">
+            <p>With regard to Case C‑361/15 P, since Group Nivelles and EUIPO claimed that ESS should be liable to pay their costs and since ESS was not successful, ESS must be ordered to bear its own costs and to pay the costs incurred by Group Nivelles and EUIPO.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19481">
+          <num>140</num>
+          <content eId="para_19481__content">
+            <p>With regard to Case C‑405/15 P, since Group Nivelles claimed that EUIPO should be liable to pay its costs and since EUIPO was not successful, EUIPO must be ordered to bear its own costs and to pay the costs incurred by Group Nivelles. Furthermore, since ESS claimed only that EUIPO should be liable to pay its costs relating to the third ground of appeal and since EUIPO was not successful, it is appropriate that EUIPO should also be ordered to pay a third of the costs incurred by ESS in Case C‑405/15 P, the other two thirds being borne by ESS.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19482">
+          <num>141</num>
+          <content eId="para_19482__content">
+            <p>Under Article 140(1) of the Rules of Procedure, which is also applicable to appeal proceedings by virtue of Article 184(1) thereof, the Member States and institutions which intervene in the proceedings are to bear their own costs.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19483">
+          <num>142</num>
+          <content eId="para_19483__content">
+            <p>With regard to Case C‑405/15 P, the United Kingdom shall bear its own costs. On those grounds, the Court (Fourth Chamber) hereby: 1. Dismisses the appeals in Cases C‑361/15 P and C‑405/15 P; 2. Orders Easy Sanitary Solutions BV to bear its own costs and to pay the costs incurred by Group Nivelles NV and by the European Union Intellectual Property Office (EUIPO) in Case C‑361/15 P; 3. Orders EUIPO to bear its own costs and also to pay the costs incurred by Group Nivelles NV in Case C‑405/15 P; 4. Orders EUIPO to pay a third of the costs incurred by Easy Sanitary Solutions BV in Case C‑405/15 P, the remaining two thirds of those costs being borne by Easy Sanitary Solutions BV; 5. Orders the United Kingdom of Great Britain and Northern Ireland to bear its own costs in Case C‑405/15 P.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Dutch.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

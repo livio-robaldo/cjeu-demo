@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Ninth Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>26 October 2017 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Value added tax (VAT) -- Directive 2006/112/EC -- Inclusion in the register of taxable persons for VAT -- National law requiring provision of a guarantee -- Combating fraud -- Charter of Fundamental Rights of the European Union -- Freedom to conduct a business -- Principle of non-discrimination -- Principle ne bis in idem -- Principle of non-retroactivity) In Case C‑534/16, REQUEST for a preliminary ruling under Article 267 TFEU from the Najvyšší súd Slovenskej republiky (Supreme Court of the Slovak Republic), made by decision of 29 September 2016, received at the Court on 20 October 2016, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">Finančné riaditeľstvo Slovenskej republiky</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#">BB construct s. r. o.</party>
+      </p>
+      <p>, THE COURT (Ninth Chamber), composed of E. Juhász, acting as President of the Chamber, K. Jürimäe (Rapporteur) and C. Lycourgos, Judges, Advocate General: M. Szpunar, Registrar: A. Calot Escobar, having regard to the written procedure, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>the Finančné riaditeľstvo Slovenskej republiky, by F. Imrecze, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>BB construct s. r. o., by P. Ondrášiková, advokátka,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Slovakian Government, by B. Ricziová, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by L. Lozano Palacios and A. Tokár, acting as Agents, having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <tblock>
+        <p>Judgment</p>
+      </tblock>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_2441">
+          <num>1</num>
+          <content eId="para_2441__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Article 273 of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax ( OJ 2006 L 347, p. 1, `the VAT Directive') and the concept of `freedom to conduct a business', the principle of equal treatment, the principle ne bis in idem and the principle of non-retroactivity of offences and penalties, enshrined in the Charter of Fundamental Rights of the European Union ( `the Charter').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2442">
+          <num>2</num>
+          <content eId="para_2442__content">
+            <p>The request has been made in proceedings between the Finančné riaditeľstvo Slovenskej republiky (Tax Directorate of the Slovak Republic, `the tax directorate') and BB construct s. r. o. concerning a guarantee required at the time of registration of the latter for the purposes of value added tax (VAT).</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <paragraph eId="para_2443">
+          <num>3</num>
+          <content eId="para_2443__content">
+            <p>The first paragraph of Article 273 of the VAT Directive provides: `Member States may impose other obligations which they deem necessary to ensure the correct collection of VAT and to prevent evasion, subject to the requirement of equal treatment as between domestic transactions and transactions carried out between Member States by taxable persons and provided that such obligations do not, in trade between Member States, give rise to formalities connected with the crossing of frontiers.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Slovak law</p>
+        </tblock>
+        <paragraph eId="para_2444">
+          <num>4</num>
+          <content eId="para_2444__content">
+            <p>The first sentence of Paragraph 4(1) of Law No 222/2004 on value added tax in the version applicable to the main proceedings ( `the Law on VAT') lays down an obligation for taxable persons to register in the following terms: `A taxable person who has his seat, place of business or fixed establishment within Slovakia ... and who has achieved a turnover of EUR 49790 over the 12 preceding consecutive calendar months, shall be obliged to file a tax registration application with a tax office.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2445">
+          <num>5</num>
+          <content eId="para_2445__content">
+            <p>In the version cited by the referring court, Paragraph 4c of that law, entitled `Tax guarantee', provides: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>The taxable person that has filed a tax registration application pursuant to Paragraph 4(1) and (2) is required to lodge a tax guarantee in the form of a cash deposit made to the account of the tax office, or in the form of a bank guarantee provided by a bank without reservations for a period of 12 months, at the disposal of the tax office and in the amount of the tax guarantee specified ..., if: ...</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>the executive officer or an associate member of that taxable person is a natural or legal person that is or was an executive officer or associate member of another legal person, 1. which has, or had at the date of its dissolution, an outstanding tax debt of [EUR] 1000 or more which accumulated over the period in which that natural or legal person was its executive officer or an associate member thereof, and which has not been paid by the date of submission of the tax registration application, ...</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>The tax office shall issue a decision specifying the amount of the tax guarantee applicable to the applicant for registration referred to in subparagraph (1), which shall be no less than [EUR] 1000 and no more than [EUR] 500000. When determining the amount of the tax guarantee, the tax office shall take into consideration the risk of the taxable person failing to pay tax that falls due. The applicant for registration is required to provide the tax guarantee within 20 days of the notification of the decision requiring the provision of a guarantee.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_2446">
+          <num>6</num>
+          <content eId="para_2446__content">
+            <p>Having attained a turnover of at least EUR 49790, BB construct applied to be registered for the purposes of VAT. On the basis of Paragraph 4c, subparagraphs 1 and 2 of the Law on VAT, the tax directorate ordered it to provide a guarantee for a period of 12 months. The amount of that guarantee was EUR 500000, and it was required to be provided within a period of 20 days. The provision of such a guarantee was justified, according to the tax directorate, because of the VAT arrears of another company, with which the director or associate member of BB construct had a personal or proprietorial connection.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2447">
+          <num>7</num>
+          <content eId="para_2447__content">
+            <p>BB construct applied for the annulment or the reduction of that guarantee before the Krajský súd v Bratislave (Bratislava Regional Court, Slovakia). It is clear from the file before the Court that that court annulled the decision requiring the provision of that guarantee and that the tax directorate brought an appeal against that decision before the Najvyšší súd Slovenskej republiky (Supreme Court of the Slovak Republic).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2448">
+          <num>8</num>
+          <content eId="para_2448__content">
+            <p>That court states that the guarantee laid down in Paragraph 4c of the Law on VAT was adopted on the basis of Article 273 of the VAT Directive in order to prevent fraud and tax evasion. The Slovak legislature sought to encourage the tax directorate to make registration for VAT dependent upon the requirement of providing that guarantee. Such a guarantee would enable that directorate to recover the amounts due if they are not paid by a new taxable person, in the course of the financial year following his registration.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2449">
+          <num>9</num>
+          <content eId="para_2449__content">
+            <p>According to the statements provided by the tax directorate before that court, in each case, the amount of the guarantee provided for in Paragraph 4c of the Law on VAT is automatically calculated by an information technology system, without any possibility of amending that amount. Thus, each application was the object of individual and objective treatment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2450">
+          <num>10</num>
+          <content eId="para_2450__content">
+            <p>BB construct disputes, before the referring court, the amount of the guarantee at issue in the main proceedings. It submits that the guarantee is disproportionate in view of its turnover, to the point that it interferes with the freedom to conduct a business. That guarantee therefore resembles a retroactive sanction, based on past facts.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2451">
+          <num>11</num>
+          <content eId="para_2451__content">
+            <p>Having regard to those arguments, the referring court wonders whether that guarantee is compatible with EU law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2452">
+          <num>12</num>
+          <content eId="para_2452__content">
+            <p>That court observes inter alia that the system established by the Slovak legislature leads to different treatment of, on the one hand, a taxable person who does not comply with its obligation to register for the purposes of VAT which exposes it to penalties of up to EUR 20000 and, on the other hand, a taxable person who complies with that obligation and must, in certain circumstances, provide a guarantee of an amount ranging from EUR 1000 to EUR 500000. It also observes that applicants that have existing debts other than tax debts are not subject to such an obligation of providing a guarantee.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2453">
+          <num>13</num>
+          <content eId="para_2453__content">
+            <p>That court notes in addition that, taking into account the substantial amount of that guarantee compared with the financial capacity of the company concerned, it may be wondered whether that tax guarantee does not become an indirect fiscal penalty within the meaning of the case-law of the European Court of Human Rights.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2454">
+          <num>14</num>
+          <content eId="para_2454__content">
+            <p>In those circumstances, the Najvyšší súd Slovenskej republiky (Supreme Court of the Slovak Republic) decided to stay the proceedings and refer the following questions to the Court of Justice for a preliminary ruling: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Is it possible to interpret as in accordance with the objective of Article 273 of [the VAT Directive], that is, the prevention of VAT evasion, an approach on the part of a national body which considers the fact that the current director of a legal person was also the director of another legal person which has outstanding tax liabilities to be a ground under national law for requiring payment of a tax guarantee of up to the value of EUR 500000?</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>May it be held that the abovementioned tax guarantee, given its amount, which may be up to the value of EUR 500000, as in the case in the main proceedings, is consistent with the freedom to conduct a business under Article 16 of [the Charter], does not directly force the taxable person to declare bankruptcy, does not constitute discrimination under Article 21(1) of [the Charter] and does not constitute a breach, in the area of the levying of VAT, of the principle ne bis in idem or of the prohibition on retroactivity under Article 49(1) and (3) of the Charter?'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the questions referred</p>
+        </tblock>
+        <tblock>
+          <p>Admissibility</p>
+        </tblock>
+        <paragraph eId="para_2455">
+          <num>15</num>
+          <content eId="para_2455__content">
+            <p>The Slovak Government and the tax directorate consider that the questions referred are devoid of any connection with the dispute in the main proceedings. They submit, in essence, that in the context of the appeal before it, the referring court is called upon to give a ruling not on the legality of the guarantee which is the object of those questions, but only on formal aspects connected with the reasoning. Therefore, according to the Slovak Government, the questions, which lack any relevance and are hypothetical, are inadmissible.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2456">
+          <num>16</num>
+          <content eId="para_2456__content">
+            <p>In that regard, it is necessary to recall that questions concerning EU law enjoy a presumption of relevance. The Court may refuse to rule on a question referred by a national court for a preliminary ruling only where it is obvious that the interpretation of EU law that is sought is unrelated to the actual facts of the main action or its purpose, where the problem is hypothetical, or where the Court does not have before it the factual or legal material necessary to give a useful answer to the questions submitted to it (judgment of 8 September 2015, Taricco and Others, C‑105/14, EU:C:2015:555, paragraph 30 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2457">
+          <num>17</num>
+          <content eId="para_2457__content">
+            <p>In the present case, the referring court stated that the legality of the procedure that led to the imposition of the guarantee at issue in the main proceedings depends upon the responses to be given to the questions referred.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2458">
+          <num>18</num>
+          <content eId="para_2458__content">
+            <p>In those circumstances, those questions do not appear to be manifestly hypothetical or devoid of any connection with the facts or purpose of the dispute in the main proceedings. The questions are, therefore, admissible.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Substance</p>
+        </tblock>
+        <paragraph eId="para_2459">
+          <num>19</num>
+          <content eId="para_2459__content">
+            <p>By its two questions, which it is appropriate to examine together, the referring court asks, in essence, whether Article 273 of the VAT Directive, Article 16, Article 21(1) and Article 49(1) and (3) of the Charter, or the principle ne bis in idem enshrined in Article 50 of the Charter, must be interpreted as precluding a tax authority from requiring, at the time of registration for the purposes of VAT, a taxable person, the director of which was formerly the director or associate member of another legal person which had not complied with its tax obligations, to provide a guarantee, the amount of which could reach EUR 500000.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2460">
+          <num>20</num>
+          <content eId="para_2460__content">
+            <p>In that regard, in the first place, it must be recalled that the first paragraph of Article 273 of the VAT Directive provides that Member States may impose other obligations that they deem necessary for the correct collection of VAT and for the prevention of evasion, subject to the requirement of equal treatment for domestic transactions and transactions carried out between Member States by taxable persons, provided that such obligations do not, in trade between Member States, give rise to formalities connected with the crossing of frontiers.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2461">
+          <num>21</num>
+          <content eId="para_2461__content">
+            <p>The Court has held that, outside the limits laid down therein, Article 273 of the VAT Directive does not specify either the conditions or the obligations which the Member States may impose and therefore gives the Member States a margin of discretion with regard to the means of ensuring collection of all the VAT due on their territory and for combating fraud (see, to that effect, judgment of 5 October 2016, Maya Marinova, C‑576/15, EU:C:2016:740, paragraph 43 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2462">
+          <num>22</num>
+          <content eId="para_2462__content">
+            <p>In the present case, it is clear from the order for reference and the observations submitted to the Court that the statutory rule at issue in the main proceedings was adopted pursuant to Article 273 of the VAT Directive in order to ensure the correct collection of VAT and to prevent tax fraud. It enables the tax directorate to require a new taxable person, which presents a risk of unpaid taxes owing to its links with another legal person that has tax debts, to provide a guarantee for a period of 12 months. The amount of that guarantee is determined by an information technology system and falls within the range of EUR 1000 to EUR 500000.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2463">
+          <num>23</num>
+          <content eId="para_2463__content">
+            <p>It follows that a statutory rule, such as that at issue in the main proceedings, is intended to attain the objectives referred to in Article 273 of the VAT Directive and appears capable of attaining them, where there is a real risk of unpaid tax.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2464">
+          <num>24</num>
+          <content eId="para_2464__content">
+            <p>However, the measures which the Member States may adopt under Article 273 of the VAT Directive to ensure the correct collection of the tax and to prevent evasion must not go further than is necessary to attain those objectives and must not undermine the neutrality of VAT (judgments of 21 October 2010, Nidera Handelscompagnie, C‑385/09, EU:C:2010:627, paragraph 49 and the case-law cited, and of 5 October 2016, Maya Marinova, C‑576/15, EU:C:2016:740, paragraph 44 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2465">
+          <num>25</num>
+          <content eId="para_2465__content">
+            <p>It is for the referring court to determine whether that statutory rule is compatible with the requirements stated in the preceding paragraph, having regard to all the circumstances of the case in the main proceedings. Nevertheless, in accordance with settled case-law, the Court may provide the referring court with all indications which may assist it in resolving the dispute before it (see, to that effect, judgments of 28 July 2016, Astone, C‑332/15, EU:C:2016:614, paragraph 36 and the case-law cited, and of 5 October 2016, Maya Marinova, C‑576/15, EU:C:2016:740, paragraph 46).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2466">
+          <num>26</num>
+          <content eId="para_2466__content">
+            <p>First, as regards the principle of proportionality, it must be observed, first, that, for the purposes of the application of the statutory rule, the risk of unpaid tax is calculated by an information technology system that automatically generates the amount of the guarantee sought from the taxable person concerned, apparently without that taxable person having any means of knowing the data used by the tax authority for the purposes of that calculation and without it being possible to amend the amount in accordance with information provided, as the case may be, by that taxable person.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2467">
+          <num>27</num>
+          <content eId="para_2467__content">
+            <p>The obligation to provide a guarantee, in such circumstances, could lead, in certain cases, to an outcome going beyond what is necessary to ensure the correct collection of VAT and the prevention of tax evasion (see, by analogy, judgment of 10 July 2008, Sosnowska, C‑25/07, EU:C:2008:395, paragraph 24 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2468">
+          <num>28</num>
+          <content eId="para_2468__content">
+            <p>Second, it is clear from the information in the case file before the Court that the amount of the guarantee required can reach, as it did in the main proceedings, EUR 500000, namely the maximum amount provided for. In that regard, it must be noted that the principle of proportionality requires that the amount of the guarantee must be in correlation to the risk of non-payment in the future and the amount of the earlier tax debts. Furthermore, it is also necessary to take into account both the role played by the associate member or director of the legal person with tax debts in the constitution and management of the legal person from which the guarantee is sought, and the role that he played in the constitution and management of the earlier legal person in which he was an associate member or a director.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2469">
+          <num>29</num>
+          <content eId="para_2469__content">
+            <p>Secondly, as regards the principle of fiscal neutrality, which was intended by the EU legislature to reflect, in matters relating to VAT, the general principle of equal treatment, it must be held that taxpayers who have not complied with their tax obligations, in particular their obligation to register, are not in a situation comparable to that of taxpayers who comply with their obligation to register (see, by analogy, judgment of 5 October 2016, Maya Marinova, C‑576/15, EU:C:2016:740, paragraph 49). Therefore, the principle of fiscal neutrality cannot be interpreted as precluding the obligation of providing a guarantee, such as that at issue in the main proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2470">
+          <num>30</num>
+          <content eId="para_2470__content">
+            <p>It must be noted, in the second place, that the referring court also asks the Court as to the interpretation to be given, in circumstances such as those in the main proceedings, to Article 49(1) and (3) of the Charter, the principle ne bis in idem enshrined in Article 50 of the Charter, the concept of `freedom to conduct a business' protected by Article 16 of the Charter and the principle of equal treatment guaranteed by Article 21 of the Charter.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2471">
+          <num>31</num>
+          <content eId="para_2471__content">
+            <p>In that regard, it must be recalled that Article 49 of the Charter enshrines the principles of legality and proportionality of criminal offences and penalties, according to which, inter alia, no one shall be held guilty of any criminal offence on account of any act or omission which did not constitute a criminal offence under national law or international law at the time when it was committed; and that, in accordance with the principle ne bis in idem laid down in Article 50 of the Charter, no one shall be liable to be tried or punished again for an offence for which he has already been finally convicted or acquitted in the European Union in accordance with the law. The application of that principle presupposes that the measures which have already been adopted against a person by means of a decision that has become final are of a criminal nature (judgment of 26 February 2013, Åkerberg Fransson, C‑617/10, EU:C:2013:105, paragraph 33).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2472">
+          <num>32</num>
+          <content eId="para_2472__content">
+            <p>The aim of an obligation to provide a guarantee, such as that in the main proceedings, is not enforcement, given that it is common ground that the legal person applying to be registered has not committed any offence and that the aim of the provision at issue is to ensure the correct collection of VAT in the future. The fact, put forward by the referring court, that, due to its amount, the provision of such a guarantee could be a very heavy burden for the newly established legal person, does not in itself enable, in the present case, that guarantee to be regarded as a criminal penalty for the purposes of Articles 49 and 50 of the Charter.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2473">
+          <num>33</num>
+          <content eId="para_2473__content">
+            <p>In those circumstances, as submitted by the tax directorate, the Slovak Government and the European Commission, it must be held that Articles 49 and 50 of the Charter are not applicable in the present case.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2474">
+          <num>34</num>
+          <content eId="para_2474__content">
+            <p>As regards the freedom to conduct a business, it should be recalled that Article 16 of the Charter provides that that freedom is recognised in accordance with Union law and national laws and practices.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2475">
+          <num>35</num>
+          <content eId="para_2475__content">
+            <p>The protection conferred by Article 16 covers the freedom to exercise an economic or commercial activity, and the freedom of contract and free competition (judgment of 22 January 2013, Sky Österreich, C‑283/11, EU:C:2013:28, paragraph 42).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2476">
+          <num>36</num>
+          <content eId="para_2476__content">
+            <p>According to the case-law of the Court, the freedom to conduct a business is not absolute. It may be subject to a broad range of interventions on the part of public authorities which may limit the exercise of economic activity in the public interest (judgment of 17 October 2013, Schaible, C‑101/12, EU:C:2013:661, paragraph 28; see also, to that effect, judgment of 22 January 2013, Sky Österreich, C‑283/11, EU:C:2013:28, paragraphs 45 and 46).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2477">
+          <num>37</num>
+          <content eId="para_2477__content">
+            <p>In accordance with Article 52(1) of the Charter, any limitation on the exercise of the freedom to conduct a business must be provided for by law and respect the essence of that right and, in compliance with the principle of proportionality, is permissible only if it is necessary and actually meets objectives of general interest recognised by the European Union or the need to protect the rights and freedoms of others.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2478">
+          <num>38</num>
+          <content eId="para_2478__content">
+            <p>In the present case, it is clear from the information in case file before the Court that the obligation to provide the guarantee at issue in the main proceedings imposed on the taxable person a constraint which restricted the unhindered use of the financial resources at his disposal and, thus, constitutes an interference with his freedom to conduct a business.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2479">
+          <num>39</num>
+          <content eId="para_2479__content">
+            <p>It is common ground that that guarantee is provided for by the Law on VAT and is justified by the legitimate objectives of ensuring the correct collection of that tax and prevent tax evasion.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2480">
+          <num>40</num>
+          <content eId="para_2480__content">
+            <p>However, the referring court states that the guarantee amounts to EUR 500000 and that it is likely, in view of the amount, to compel BB construct to declare itself insolvent.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2481">
+          <num>41</num>
+          <content eId="para_2481__content">
+            <p>It must be held that, since the provision of a guarantee -- having regard to the fact that it is for a significant amount -- would deprive, without justification, the company concerned of its resources from the moment of its creation and would prevent it from developing its economic activities, that guarantee is a manifestly disproportionate interference with the freedom to conduct a business.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2482">
+          <num>42</num>
+          <content eId="para_2482__content">
+            <p>It is nevertheless for the referring court to determine, taking into account all the elements set out in paragraphs 26 to 28 of this judgment, whether the provision of a guarantee of EUR 500000 goes, in the circumstances of the case in the main proceedings, beyond what is necessary in order to attain the objective of ensuring the correct collection of VAT and the prevention of tax evasion.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2483">
+          <num>43</num>
+          <content eId="para_2483__content">
+            <p>As regards the principle of equal treatment, it must be noted that that principle requires that comparable situations must not be treated differently and that different situations must not be treated in the same way unless such treatment is objectively justified. The elements which characterise various situations, and hence their comparability, must in particular be determined and assessed in the light of the subject matter of the provisions in question and of the aim they pursue, whilst account must be taken for that purpose of the principles and objectives of the field to which the measure at issue relates (judgments of 16 December 2008, Arcelor Atlantique et Lorraine and Others, C‑127/07, EU:C:2008:728, paragraphs 23 and 26, and of 7 March 2017, RPO, C‑390/15, EU:C:2017:174, paragraphs 41 and 42).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2484">
+          <num>44</num>
+          <content eId="para_2484__content">
+            <p>In the present case, as stated in paragraph 22 above, the national measure at issue in the main proceedings is intended to ensure the correct collection of VAT and prevent tax evasion by introducing a guarantee, to be borne by taxable persons who are under the obligation to register for the purposes of VAT and of which an executive officer or associate member was an executive officer or associate member of another legal person that has tax debts amounting, at the date of its dissolution, to at least EUR 1000.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2485">
+          <num>45</num>
+          <content eId="para_2485__content">
+            <p>It is in order to attain those objectives that, according to the statutory rule at issue in the main proceedings, new taxable persons may be subject to an obligation to provide a guarantee because they present a risk of unpaid tax owing to their links with another legal person that itself has tax debts.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2486">
+          <num>46</num>
+          <content eId="para_2486__content">
+            <p>Consequently, it must be held that those taxable persons are in a different situation from taxable persons who have debts other than tax debts, or who have links with legal persons who have debts other than tax debts, with the result that they may be treated differently.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2487">
+          <num>47</num>
+          <content eId="para_2487__content">
+            <p>Having regard to all of the foregoing considerations, the answer to the questions referred is that:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>Article 273 of the VAT Directive and Article 16 of the Charter must be interpreted as not precluding, at the time of the registration for the purposes of VAT of a taxable person, of which the director was formerly the director or associate member of another legal person which had not complied with its tax obligations, the tax authority from requiring that taxable person to provide a guarantee, the amount of which could reach EUR 500000, provided that the guarantee required from that taxable person does not go further than is necessary in order to attain the objectives of Article 273, which it is for the referring court to determine.</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>The principle of equal treatment must be interpreted as not precluding the tax authority from requiring a new taxable person, at the time of his registration for the purposes of VAT, to provide, owing to his links with another legal person that has tax debts, such a guarantee.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_2488">
+          <num>48</num>
+          <content eId="para_2488__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Ninth Chamber) hereby rules: Article 273 of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax and Article 16 of the Charter of Fundamental Rights of the European Union must be interpreted as not precluding, at the time of the registration for the purposes of value added tax of a taxable person, of which the director was formerly the director or associate member of another legal person which had not complied with its tax obligations, the tax authority from requiring that taxable person to provide a guarantee, the amount of which could reach EUR 500000, provided that the guarantee required from that taxable person does not go further than is necessary in order to attain the objectives of Article 273, which it is for the referring court to determine. The principle of equal treatment must be interpreted as not precluding a tax authority from requiring a new taxable person, at the time of his registration for the purposes of value added tax, to provide, owing to his links with another legal person that has tax debts, such a guarantee.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Slovak.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

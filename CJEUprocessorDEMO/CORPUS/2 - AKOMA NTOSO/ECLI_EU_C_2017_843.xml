@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Third Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>9 November 2017 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- General principles of EU law -- Right to good administration and rights of the defence -- National tax rules providing for the right to be heard and the right to be informed during an administrative tax procedure -- Decision to levy value added tax issued by the national tax authorities without giving the taxpayer access to the information and the documents upon which that decision was based) In Case C‑298/16, REQUEST for a preliminary ruling under Article 267 TFEU from the Curtea de Apel Cluj (Court of Appeal, Cluj, Romania), made by decision of 2 March 2016, received at the Court on 25 May 2016, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">Teodor Ispas</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="appellant" refersTo="#">Anduţa Ispas</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#">Direcţia Generală a Finanţelor Publice Cluj</party>
+      </p>
+      <p>, THE COURT (Third Chamber), composed of L. Bay Larsen, President of the Chamber, J. Malenovský, M. Safjan (Rapporteur), D. Šváby and M. Vilaras, Judges, Advocate General: M. Bobek, Registrar: L. Carrasco Marco, Administrator, having regard to the written procedure and further to the hearing on 4 May 2017, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>Teodor Ispas and Anduţa Ispas, by C.F. Costaş and L. Sabou, avocaţi,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Romanian Government, by R.-H. Radu, E. Gane, R. Mangu and C.M. Florescu, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by L. Lozano Palacios and H. Stancu, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 7 September 2017,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <tblock>
+        <p>Judgment</p>
+      </tblock>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_3138">
+          <num>1</num>
+          <content eId="para_3138__content">
+            <p>This request for a preliminary ruling concerns the interpretation of the general principle of EU law of respect for the rights of the defence.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3139">
+          <num>2</num>
+          <content eId="para_3139__content">
+            <p>The request has been made in proceedings between Mr Teodor Ispas and his wife Mrs Anduţa Ispas ( `Mr and Mrs Ispas') and the Direcţia Generală a Finanţelor Publice Cluj (Directorate-General of Public Finances, Cluj, Romania) relating to a value added tax (VAT) assessment notice.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Romanian law</p>
+        </tblock>
+        <paragraph eId="para_3140">
+          <num>3</num>
+          <content eId="para_3140__content">
+            <p>Under Article 7(2) of the Ordonanţa Guvernului nr. 92/2003 privind Codul de procedură fiscală (Government Order No 92/2003 laying down the tax procedure, Monitorul Oficial al României, Part I, No 863 of 26 September 2005), in the version in force on 25 April 2012 ( `the tax procedure code'): `The tax authority is empowered, of its own motion, to examine the factual situation, and to obtain and use all the information and documents required to establish correctly the tax position of the taxpayer. ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3141">
+          <num>4</num>
+          <content eId="para_3141__content">
+            <p>According to Article 9 of that code, headed `Right to be heard': `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Before taking its decision, the tax authority shall ensure that the taxpayer has the opportunity to express his point of view concerning the facts and circumstances relevant to the making of the decision.</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>The tax authority is not bound to apply paragraph 1 if:</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>delay in taking the decision would constitute a risk in relation to establishing the actual tax situation as regards enforcement of the taxpayer's obligations or the adoption of other measures provided for by law;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>there would be an insignificant change in the factual situation presented in respect of the amounts due with regard to tax;</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>the information provided by the taxpayer in a return or application is accepted;</p>
+              </item>
+              <item>
+                <num>(d)</num>
+                <p>coercive measures of enforcement are necessary. ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3142">
+          <num>5</num>
+          <content eId="para_3142__content">
+            <p>Article 43 of that code, headed `Contents of and statement of reasons for the fiscal administrative act', provides: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>A fiscal administrative act shall be drawn up in writing, on paper or in electronic form.</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>A fiscal administrative act which is drawn up on paper shall state the following matters: ...</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(e)</num>
+                <p>the factual grounds;</p>
+              </item>
+              <item>
+                <num>(f)</num>
+                <p>the legal basis; ...</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(i)</num>
+                <p>the manner in which the act may be challenged, the period within which a challenge must be lodged, and the tax authority with which such a challenge must be lodged;</p>
+              </item>
+              <item>
+                <num>(j)</num>
+                <p>statements relating to the hearing of the taxpayer. ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3143">
+          <num>6</num>
+          <content eId="para_3143__content">
+            <p>Article 101 of that code, headed `Notice of tax inspection', provides: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Before carrying out a tax inspection, the tax authority shall be required to inform the taxpayer of the conduct of the procedure by issuing him with a notice of tax inspection.</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>Following the receipt of the notice of tax inspection, the taxpayer may request, once only, for duly justified reasons, that the date of the beginning of the tax inspection be deferred. That deferral shall be accepted or refused by the tax authority, which shall adopt a decision in that regard. In the event that the tax authority accepts the request for a deferral of the tax inspection, the tax authority shall notify the taxpayer of the date to which it has been deferred.</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>The notice of tax inspection shall state:</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>the legal basis for the tax inspection;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>the date on which the tax inspection is to begin;</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>the tax obligations and the periods subject to the tax inspection;</p>
+              </item>
+              <item>
+                <num>(d)</num>
+                <p>the possibility of requesting a deferral of the beginning of the tax inspection.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3144">
+          <num>7</num>
+          <content eId="para_3144__content">
+            <p>Article 107 of the tax procedure code, headed `The taxpayer's right to be informed', is worded as follows: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>The taxpayer shall be informed, during the tax inspection, of the findings made in the course of that inspection.</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>The tax authority shall present to the taxpayer the draft tax inspection report, containing the findings and their tax consequences, and shall give him the opportunity to set out his point of view in accordance with Article 9(1), unless the tax bases remain entirely unchanged following the tax inspection or the taxpayer has waived this right and notified the tax inspection bodies of that fact.</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>The date, time and place of the meeting to present the findings of the tax inspection shall be communicated timeously to the taxpayer.</p>
+              </item>
+              <item>
+                <num>(4)</num>
+                <p>The taxpayer has the right to present, in written form, his point of view on the findings of the tax inspection within a deadline of three working days counting from the date on which the inspection has finished.</p>
+              </item>
+              <item>
+                <num>(5)</num>
+                <p>The date on which the inspection has finished is the date set for the final discussion with the taxpayer or the date on which the taxpayer communicates that it waives that right. ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3145">
+          <num>8</num>
+          <content eId="para_3145__content">
+            <p>Article 109 of that code, headed `Report of tax inspection results', provides: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>The result of the tax inspection shall be recorded in writing, in a tax inspection report, describing the legal and factual findings of the tax inspection.</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>The tax inspection report shall be drawn up at the end of the tax inspection and shall include all the findings relating to the verified periods and tax obligations. If the taxpayer has exercised the right provided for in Article 107(4), the tax inspection report shall also include the opinion of the tax inspection authority, giving reasons in fact and in law, on that point. ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the question referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_3146">
+          <num>9</num>
+          <content eId="para_3146__content">
+            <p>Mr and Mrs Ispas, who are property developers, were the object of a tax inspection covering the period from 1 January 2007 to 31 December 2011. The purpose of that inspection was to verify their tax files and the accounting treatment of their activities with regard to property transactions, and also the way in which their tax obligations had been determined, declared and paid.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3147">
+          <num>10</num>
+          <content eId="para_3147__content">
+            <p>Following that inspection, it was established that Mr and Mrs Ispas had obtained five building permits from the Consiliul Local Florești (local council of Florești, Romania) and that the apartments constructed on the basis of those permits had been sold from December 2007.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3148">
+          <num>11</num>
+          <content eId="para_3148__content">
+            <p>Considering that, by concluding 73 contracts of sale, Mr and Mrs Ispas had engaged in commercial activity, and given that those transactions had a permanent character, the Directorate-General of Public Finances (Cluj) held that they had become taxable persons for VAT purposes and that the transactions in question were subject to that tax. That economic activity commenced on the date on which expenditure was first incurred in respect of the construction of the buildings concerned and not on the date of the sale of those buildings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3149">
+          <num>12</num>
+          <content eId="para_3149__content">
+            <p>The Directorate-General of Public Finances (Cluj) therefore issued, on 25 April 2012, two tax assessment notices imposing on each spouse additional VAT in the amount of 513489 Romanian lei (RON) (approximately EUR 114000) and RON 451546 (approximately EUR 100000) by way of default interest, and the amount of RON 7860 (approximately EUR 1700) by way of late-payment penalty.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3150">
+          <num>13</num>
+          <content eId="para_3150__content">
+            <p>Mr and Mrs Ispas challenged those tax assessment notices before the national court, the Curtea de Apel Cluj (Court of Appeal, Cluj, Romania). In their applications, joined by that court, they submit that those notices were null and void on the grounds that their rights of defence had not been respected.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3151">
+          <num>14</num>
+          <content eId="para_3151__content">
+            <p>According to Mr and Mrs Ispas, the Directorate-General of Public Finances (Cluj), rather than merely inviting them to a final discussion, ought to have given them access of its own motion to all the relevant information on the basis of which it adopted the tax inspection report and issued the two tax assessment notices, so that they would subsequently be in a position to challenge them.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3152">
+          <num>15</num>
+          <content eId="para_3152__content">
+            <p>The applicants therefore asked the national court to refer a question for a preliminary ruling to the Court in that regard.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3153">
+          <num>16</num>
+          <content eId="para_3153__content">
+            <p>In its observations relating to that request, the Directorate-General of Public Finances (Cluj) asked Mr and Mrs Ispas to identify the documents which, according to them, should have been communicated to them.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3154">
+          <num>17</num>
+          <content eId="para_3154__content">
+            <p>Mr and Mrs Ispas state, however, that they are not asking, at this stage of the main proceedings, for the information gathered during the course of the tax inspection procedure to be communicated to them.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3155">
+          <num>18</num>
+          <content eId="para_3155__content">
+            <p>However, they are unsure as to the consequences arising from information and evidence being gathered outwith the tax inspection procedure and access not being permitted during the course of the preliminary administrative procedure. They seek to establish whether such a situation can be remedied by granting access to those documents during the judicial proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3156">
+          <num>19</num>
+          <content eId="para_3156__content">
+            <p>In those circumstances, the Curtea de Apel Cluj (Court of Appeal, Cluj) decided to stay the proceedings and to refer the following question for a preliminary ruling: `Is an administrative practice consisting in the taking of a decision imposing obligations on an individual without allowing that individual to have access to all of the information and documents considered by the public authority when it adopted that decision, being information and documents contained in the administrative file (not a public file) drawn up by the public authority, compatible with the principle of respect for the rights of the defence?'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Admissibility</p>
+        </tblock>
+        <paragraph eId="para_3157">
+          <num>20</num>
+          <content eId="para_3157__content">
+            <p>The Romanian Government and the European Commission submit that the request for a preliminary ruling is inadmissible, on the grounds that the order for reference does not provide sufficient detail on the facts of the case in the main proceedings to enable the Court to give a useful answer. Furthermore, according to the Romanian Government, the national court has not shown that the question referred is helpful for and relevant to the resolution of the dispute in the main proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3158">
+          <num>21</num>
+          <content eId="para_3158__content">
+            <p>In that regard, it should be borne in mind that, according to settled case-law of the Court, questions on the interpretation of EU law referred by a national court in the factual and legislative context which that court is responsible for defining and the accuracy of which is not a matter for the Court to determine enjoy a presumption of relevance. The Court may refuse to rule on a question referred for a preliminary ruling from a national court only where it is quite obvious that the interpretation of EU law that is sought bears no relation to the actual facts of the main action or its purpose, where the problem is hypothetical, or where the Court does not have before it the factual or legal material necessary to give a useful answer to the questions submitted to it (judgment of 16 July 2015, Sommer Antriebs- und Funktechnik, C‑369/14, EU:C:2015:491, paragraph 32 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3159">
+          <num>22</num>
+          <content eId="para_3159__content">
+            <p>The need to provide an interpretation of EU law which will be of use to the national court requires, as made clear by Article 94 of the Rules of Procedure of the Court of Justice, that the national court define the factual and legal context of its questions or, at the very least, that it explain the factual circumstances on which those questions are based (judgments of 11 March 2010, Attanasio Group, C-384/08, EU:C:2010:133, paragraph 32, and of 5 December 2013, Zentralbetriebsrat der gemeinnützigen Salzburger Landeskliniken, C‑514/12, EU:C:2013:799, paragraph 17).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3160">
+          <num>23</num>
+          <content eId="para_3160__content">
+            <p>In the present case, as the Advocate General observed in points 23 and 24 of his Opinion, the order for reference contains the fundamental factual elements which, as a matter of fact, have allowed the interested parties to present observations to the Court. Furthermore, even though the order for reference does not identify a specific provision of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax ( OJ 2006 L 347, p. 1), the general obligations ensuing from that directive are easily identifiable and the Court is in a position to give a useful answer to the national court.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3161">
+          <num>24</num>
+          <content eId="para_3161__content">
+            <p>In those circumstances, the request for a preliminary ruling is admissible.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the question referred</p>
+        </tblock>
+        <paragraph eId="para_3162">
+          <num>25</num>
+          <content eId="para_3162__content">
+            <p>By its question, the national court asks, in essence, whether the general principle of EU law of respect for the rights of the defence must be interpreted as a requirement that, in national administrative procedures of inspection and establishment of the basis for VAT assessment, an individual is to have access to all information and to all documents in the administrative file and considered by the public authority when it adopted its decision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3163">
+          <num>26</num>
+          <content eId="para_3163__content">
+            <p>In order to answer that question, it should be recalled that respect for the rights of the defence is a general principle of EU law which is to be applied where the authorities are minded to adopt in respect of a person a measure that will adversely affect him. In accordance with that principle, the addressees of decisions that significantly affect their interests must be placed in a position in which they can effectively make known their views as regards the information on which the authorities intend to base their decision. The authorities of the Member States are subject to that obligation when they take decisions which come within the scope of EU law, even if the EU legislation applicable does not expressly provide for such a procedural requirement (judgment of 17 December 2015, WebMindLicenses, C‑419/14, EU:C:2015:832, paragraph 84 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3164">
+          <num>27</num>
+          <content eId="para_3164__content">
+            <p>That general principle applies in circumstances such as those at issue in the main proceedings in which a Member State, in order to comply with the obligation arising from the application of EU law to take all legislative and administrative measures appropriate for ensuring collection of all the VAT due on its territory and for preventing fraud (see, to that effect, judgment of 26 February 2013, Åkerberg Fransson, C‑617/10, EU:C:2013:105, paragraph 25), submits taxpayers to a tax inspection procedure.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3165">
+          <num>28</num>
+          <content eId="para_3165__content">
+            <p>Although, as a result, the situation at issue in the main proceedings is to be examined in the light of the general principle of EU law of respect for the rights of the defence, the autonomy of the Member States with regard to the organisation of their administrative procedures must, at the same time, be taken into account.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3166">
+          <num>29</num>
+          <content eId="para_3166__content">
+            <p>Failing any relevant EU rules governing the matter, the detailed procedural rules designed to ensure the protection of the rights which taxpayers acquire under EU law are a matter for the domestic legal order of each Member State, in accordance with the principle of the procedural autonomy of the Member States, provided, however, that they are not less favourable than those governing similar domestic situations (principle of equivalence) and that they do not render impossible in practice or excessively difficult the exercise of rights conferred by the European Union legal order (principle of effectiveness) (judgment of 8 March 2017, Euro Park Service, C‑14/16, EU:C:2017:177, paragraph 36).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3167">
+          <num>30</num>
+          <content eId="para_3167__content">
+            <p>As regards the principle of equivalence, it is common ground that the Romanian rules of procedure applicable to inspections of VAT obligations are not specific to that field, and that therefore a breach of that principle can be excluded.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3168">
+          <num>31</num>
+          <content eId="para_3168__content">
+            <p>With regard to the principle of effectiveness, it should be noted that the requirement, recalled in paragraph 26 of this judgment, for a person to be able to make his views known as regards the information on which the authorities intend to base their decision means that the addressees of that decision must be in a position to be aware of that information.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3169">
+          <num>32</num>
+          <content eId="para_3169__content">
+            <p>To that end, as the Advocate General observed in points 121 and 122 of his Opinion, national tax authorities are not under a general obligation to provide full access to the file or to communicate of their own motion the documents and information that support the intended decision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3170">
+          <num>33</num>
+          <content eId="para_3170__content">
+            <p>In a tax inspection procedure, the purpose of which is to verify whether the taxable persons have performed their obligations in that regard, it is indeed legitimate to expect that those persons would request access to those documents and information, with a view to, if need be, providing explanations or supporting their claims against the point of view of the tax authorities.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3171">
+          <num>34</num>
+          <content eId="para_3171__content">
+            <p>If the rights of the defence are to be genuinely respected, there must nonetheless be a real possibility of access to those documents and that information, unless objectives of public interest warrant restricting that access.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3172">
+          <num>35</num>
+          <content eId="para_3172__content">
+            <p>Indeed, according to settled case-law of the Court, the general principle of EU law of respect for the rights of the defence is not an unfettered prerogative but may be restricted, provided that the restrictions in fact correspond to objectives of public interest pursued by the measure in question and do not constitute, in the light of the objectives pursued, a disproportionate and intolerable interference which impairs the very substance of the rights guaranteed (judgments of 26 September 2013, Texdata Software, C‑418/11, EU:C:2013:588, paragraph 84, and of 3 July 2014, Kamino International Logistics and Datema Hellmann Worldwide Logistics, C‑129/13 and C‑130/13, EU:C:2014:2041, paragraph 42).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3173">
+          <num>36</num>
+          <content eId="para_3173__content">
+            <p>In that regard, in a procedure of tax inspection and establishment of the basis for VAT assessment, such restrictions, enshrined in national law, may, in particular, be designed to protect requirements of confidentiality or professional secrecy, which are liable to be infringed by access to certain information and certain documents.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3174">
+          <num>37</num>
+          <content eId="para_3174__content">
+            <p>In order to determine whether those requirements arising from the principle of effectiveness are met in the present case, it is appropriate to assess not only the content of the relevant national procedural rules, but also their actual application. That assessment is a matter for the national court.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3175">
+          <num>38</num>
+          <content eId="para_3175__content">
+            <p>Finally, with regard to the doubts expressed by the applicants in the main proceedings as to the extent of the review of the lawfulness of an administrative VAT decision, that court has sole jurisdiction to make the necessary findings and, if need be, to request a preliminary ruling from the Court on the requirements of EU law relating to that review.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_3176">
+          <num>39</num>
+          <content eId="para_3176__content">
+            <p>In the light of the foregoing, the answer to the question referred is that the general principle of EU law of respect for the rights of the defence must be interpreted as a requirement that, in national administrative procedures of inspection and establishment of the basis for VAT assessment, an individual is to have the opportunity to have communicated to him, at his request, the information and documents in the administrative file and considered by the public authority when it adopted its decision, unless objectives of public interest warrant restricting access to that information and those documents.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_3177">
+          <num>40</num>
+          <content eId="para_3177__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Third Chamber) hereby rules: The general principle of EU law of respect for the rights of the defence must be interpreted as a requirement that, in national administrative procedures of inspection and establishment of the basis for the assessment of value added tax, an individual is to have the opportunity to have communicated to him, at his request, the information and documents in the administrative file and considered by the public authority when it adopted its decision, unless objectives of public interest warrant restricting access to that information and those documents.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Romanian.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

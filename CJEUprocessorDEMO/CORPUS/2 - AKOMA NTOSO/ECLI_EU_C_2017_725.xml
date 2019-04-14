@@ -1,0 +1,1155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Second Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>27 September 2017 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Charter of Fundamental Rights of the European Union -- Articles 7, 8 and 47 -- Directive 95/46/EC -- Articles 1, 7 and 13 -- Processing of personal data -- Article 4(3) TEU -- Drawing up of a list of personal data -- Subject matter -- Tax collection -- Fight against tax fraud -- Judicial review -- Protection of fundamental rights and freedoms -- Legal action dependent on a requirement of a prior administrative complaint -- Whether that list is permissible as evidence -- Rules on the lawfulness of the processing of personal data -- Performance of a task carried out in the public interest by the controller) In Case C‑73/16, REQUEST for a preliminary ruling under Article 267 TFEU from the Najvyšší súd Slovenskej republiky (Supreme Court of the Slovak Republic), made by decision of 3 February 2016, received at the Court on 10 February 2016, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">Peter Puškár</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#">Finančné riaditeľstvo Slovenskej republiky</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="respondent" refersTo="#">Kriminálny úrad finančnej správy</party>
+      </p>
+      <p>, THE COURT (Second Chamber), composed of M. Ilešič, President of the Chamber, A. Prechal, A. Rosas (Rapporteur), C. Toader and E. Jarašiūnas, Judges, Advocate General: J. Kokott, Registrar: M. Aleksejev, Administrator, having regard to the written procedure and further to the hearing on 16 February 2017, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>Mr Puškár, by M. Mandzák, advokát,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Slovak Government, by B. Ricziová, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Czech Government, by M. Smolek and J. Vláčil, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Spanish Government, by M.J. García-Valdecasas Dorrego, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Italian Government, by G. Palmieri, acting as Agent, and by P. Gentili, avvocato dello Stato,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Polish Government, by B. Majczyna, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by H. Krämer, A. Tokár and H. Kranenborg, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 30 March 2017,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_19666">
+          <num>1</num>
+          <content eId="para_19666__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Articles 7, 8 and 47 of the Charter of Fundamental Rights of the European Union ( `the Charter'), of Article 1(1), of Article 7(e) and of Article 13(1)(e) and (f) of Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data ( OJ 1995 L 281, p. 31), and of Article 4(3) TEU and of Article 267 TFEU.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19667">
+          <num>2</num>
+          <content eId="para_19667__content">
+            <p>The request has been made in proceedings between, on the one hand, Mr Peter Puškár and the Finančné riaditel `stvo Slovenskej republiky (Finance Directorate of the Slovak Republic, `the Finance Directorate') and, on the other, the Kriminálny úrad finančnej správy (Financial Administration Criminal Office, Slovakia) concerning an action seeking to order the latter to remove Mr Puškár's name from a list of persons considered by the Finance Directorate to be `front-men', drawn up by the latter in the context of tax collection and the updating of which is carried out by the Finance Directorate, the tax offices subordinate to it and the Financial Administration Criminal Office ( `the contested list').</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <paragraph eId="para_19668">
+          <num>3</num>
+          <content eId="para_19668__content">
+            <p>Article 1 of Directive 95/46 provides: `1.   In accordance with this Directive, Member States shall protect the fundamental rights and freedoms of natural persons, and in particular their right to privacy with respect to the processing of personal data. 2.   Member States shall neither restrict nor prohibit the free flow of personal data between Member States for reasons connected with the protection afforded under paragraph 1.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19669">
+          <num>4</num>
+          <content eId="para_19669__content">
+            <p>Article 2 of that directive provides: `For the purposes of this Directive:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>``Personal data '' shall mean any information relating to an identified or identifiable natural person ( ``data subject ''); an identifiable person is one who can be identified, directly or indirectly, in particular by reference to an identification number or to one or more factors specific to his physical, physiological, mental, economic, cultural or social identity;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>``processing of personal data '' ( ``processing '') shall mean any operation or set of operations which is performed upon personal data, whether or not by automatic means, such as collection, recording, organisation, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, blocking, erasure or destruction; ...</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(d)</num>
+                <p>``controller '' shall mean the natural or legal person, public authority, agency or any other body which alone or jointly with others determines the purposes and means of the processing of personal data; where the purposes and means of processing are determined by national or Community laws or regulations, the controller or the specific criteria for his nomination may be designated by national or Community law; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19670">
+          <num>5</num>
+          <content eId="para_19670__content">
+            <p>Article 3 of Directive 95/46, entitled `Scope', provides: `1.   This Directive applies to the processing of personal data wholly or partly by automated means, and to the processing other than by automated means of personal data which form part of a filing system or are intended to form part of a filing system. 2.   This Directive shall not apply to the processing of personal data:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>in the course of an activity which falls outside the scope of Community law, such as those provided for by Titles V and VI of the Treaty on European Union and in any case to processing operations concerning public security, defence, State security (including the economic well-being of the State when the processing operation relates to State security matters) and the activities of the State in areas of criminal law, ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19671">
+          <num>6</num>
+          <content eId="para_19671__content">
+            <p>Article 6 of that directive provides: `1.   Member States shall provide that personal data must be:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>processed fairly and lawfully;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>collected for specified, explicit and legitimate purposes and not further processed in a way incompatible with those purposes. Further processing of data for historical, statistical or scientific purposes shall not be considered as incompatible provided that Member States provide appropriate safeguards;</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>adequate, relevant and not excessive in relation to the purposes for which they are collected and/or further processed;</p>
+              </item>
+              <item>
+                <num>(d)</num>
+                <p>accurate and, where necessary, kept up to date; every reasonable step must be taken to ensure that data which are inaccurate or incomplete, having regard to the purpose for which they were collected or for which they are further processed, are erased or rectified;</p>
+              </item>
+              <item>
+                <num>(e)</num>
+                <p>kept in a form which permits identification of data subjects for no longer than is necessary for the purposes for which the data were collected or for which they are further processed. Member States must lay down appropriate safeguards for personal data stored for longer periods for historical, statistical or scientific use. 2.   It shall be for the controller to ensure that paragraph 1 is complied with.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19672">
+          <num>7</num>
+          <content eId="para_19672__content">
+            <p>Article 7 of that directive is worded as follows: `Member States shall provide that personal data may be processed only if:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>the data subject has unambiguously given his consent; or ...</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>processing is necessary for compliance with a legal obligation to which the controller is subject; or ...</p>
+                <blockList>
+                  <item>
+                    <num>(e)</num>
+                    <p>processing is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller or in a third party to whom the data are disclosed; or</p>
+                  </item>
+                  <item>
+                    <num>(f)</num>
+                    <p>processing is necessary for the purposes of the legitimate interests pursued by the controller or by the third party or parties to whom the data are disclosed, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection under Article 1(1).'</p>
+                  </item>
+                </blockList>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19673">
+          <num>8</num>
+          <content eId="para_19673__content">
+            <p>Article 10 of Directive 95/46 provides: `Member States shall provide that the controller or his representative must provide a data subject from whom data relating to himself are collected with at least the following information, except where he already has it:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>the identity of the controller and of his representative, if any;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>the purposes of the processing operation for which the data are intended;</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>any further information such as:</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>the recipients or categories of recipients,</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>whether replies to the questions are obligatory or voluntary, as well as the possible consequences of failure to reply,</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>the existence of the right of access to and the right to rectify the data concerning him or her, in so far as such further information is necessary, having regard to the specific circumstances in which the data are collected, to guarantee fair processing in respect of the data subject.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19674">
+          <num>9</num>
+          <content eId="para_19674__content">
+            <p>Article 11 of that directive states: `1.   Where the data have not been obtained from the data subject, Member States shall provide that the controller or his representative must at the time of undertaking the recording of personal data or if a disclosure to a third party is envisaged, no later than the time when the data are first disclosed provide the data subject with at least the following information, except where he already has it:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>the identity of the controller and of his representative, if any;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>the purposes of the processing;</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>any further information such as:</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>the categories of data concerned,</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>the recipients or categories of recipients,</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>the existence of the right of access to and the right to rectify the data concerning him or her, in so far as such further information is necessary, having regard to the specific circumstances in which the data are collected, to guarantee fair processing in respect of the data subject. ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19675">
+          <num>10</num>
+          <content eId="para_19675__content">
+            <p>Article 12 of that directive provides: `Member States shall guarantee every data subject the right to obtain from the controller:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>without constraint, at reasonable intervals and without excessive delay or expense:</p>
+                <blockList>
+                  <item>
+                    <num>--</num>
+                    <p>confirmation as to whether or not data relating to him are being processed and information at least as to the purposes of the processing, the categories of data concerned, and the recipients or categories of recipients to whom the data are disclosed,</p>
+                  </item>
+                  <item>
+                    <num>--</num>
+                    <p>communication to him in an intelligible form of the data undergoing processing and of any available information as to their source,</p>
+                  </item>
+                  <item>
+                    <num>--</num>
+                    <p>knowledge of the logic involved in any automatic processing of data concerning him at least in the case of the automated decisions referred to in Article 15(1);</p>
+                  </item>
+                </blockList>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>as appropriate the rectification, erasure or blocking of data the processing of which does not comply with the provisions of this Directive, in particular because of the incomplete or inaccurate nature of the data;</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>notification to third parties to whom the data have been disclosed of any rectification, erasure or blocking carried out in compliance with</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(b)</num>
+                <p>, unless this proves impossible or involves a disproportionate effort.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19676">
+          <num>11</num>
+          <content eId="para_19676__content">
+            <p>Article 13(1) of Directive 95/46 provides: `Member States may adopt legislative measures to restrict the scope of the obligations and rights provided for in Articles 6(1), 10, 11(1), 12 and 21 when such a restriction constitutes a necessary measure to safeguard: ...</p>
+            <blockList>
+              <item>
+                <num>(c)</num>
+                <p>public security;</p>
+              </item>
+              <item>
+                <num>(d)</num>
+                <p>the prevention, investigation, detection and prosecution of criminal offences, or of breaches of ethics for regulated professions;</p>
+              </item>
+              <item>
+                <num>(e)</num>
+                <p>an important economic or financial interest of a Member State or of the European Union, including monetary, budgetary and taxation matters;</p>
+              </item>
+              <item>
+                <num>(f)</num>
+                <p>a monitoring, inspection or regulatory function connected, even occasionally, with the exercise of official authority in cases referred to in</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(c)</num>
+                <p>,</p>
+              </item>
+              <item>
+                <num>(d)</num>
+                <p>and</p>
+              </item>
+              <item>
+                <num>(e)</num>
+                <p>; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19677">
+          <num>12</num>
+          <content eId="para_19677__content">
+            <p>Article 14 of Directive 95/46 provides: `Member States shall grant the data subject the right:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>at least in the cases referred to in Article 7(e) and (f), to object at any time on compelling legitimate grounds relating to his particular situation to the processing of data relating to him, save where otherwise provided by national legislation. Where there is a justified objection, the processing instigated by the controller may no longer involve those data; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19678">
+          <num>13</num>
+          <content eId="para_19678__content">
+            <p>Article 17(1) of that directive provides as follows: `1.   Member States shall provide that the controller must implement appropriate technical and organi[s]ational measures to protect personal data against accidental or unlawful destruction or accidental loss, alteration, unauthorised disclosure or access, in particular where the processing involves the transmission of data over a network, and against all other unlawful forms of processing. Having regard to the state of the art and the cost of their implementation, such measures shall ensure a level of security appropriate to the risks represented by the processing and the nature of the data to be protected.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19679">
+          <num>14</num>
+          <content eId="para_19679__content">
+            <p>Article 22 of the directive is worded as follows: `Without prejudice to any administrative remedy for which provision may be made, inter alia before the supervisory authority referred to in Article 28, prior to referral to the judicial authority, Member States shall provide for the right of every person to a judicial remedy for any breach of the rights guaranteed him by the national law applicable to the processing in question.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19680">
+          <num>15</num>
+          <content eId="para_19680__content">
+            <p>Article 94 of the Rules of Procedure of the Court of Justice states: `In addition to the text of the questions referred to the Court for a preliminary ruling, the request for a preliminary ruling shall contain:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>a summary of the subject-matter of the dispute and the relevant findings of fact as determined by the referring court or tribunal, or, at least, an account of the facts on which the questions are based;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>the tenor of any national provisions applicable in the case and, where appropriate, the relevant national case-law;</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>a statement of the reasons which prompted the referring court or tribunal to inquire about the interpretation or validity of certain provisions of European Union law, and the relationship between those provisions and the national legislation applicable to the main proceedings.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Slovak law</p>
+        </tblock>
+        <paragraph eId="para_19681">
+          <num>16</num>
+          <content eId="para_19681__content">
+            <p>Article 19(3) of the Constitution of the Slovak Republic ( `the Constitution'), which forms part of the section entitled `Fundamental Principles', provides: `Everyone shall have the right to be protected against unjustified collection, disclosure and other misuse of his or her personal data.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19682">
+          <num>17</num>
+          <content eId="para_19682__content">
+            <p>Article 46(2) and (4) of the Constitution states: `2.   Any person who considers that the decision of a body of a public authority has adversely affected his rights may take legal action before the court or tribunal with jurisdiction so that it may review the legality of the decision unless otherwise provided for by law. However, review of decisions affecting fundamental rights and freedoms cannot be excluded from the jurisdiction of the court or tribunal. ... 4.   The conditions and procedures for judicial protection and all other forms of legal protection shall be established by law.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19683">
+          <num>18</num>
+          <content eId="para_19683__content">
+            <p>Paragraph 3(1) of Law No 9/2010 on Administrative Complaints reads as follows: `An administrative complaint is an act by means of which an individual or a legal person ...:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>asserts the protection of his rights or legally protected interests, which he considers to have been infringed by the activity or failure to act ... of a body of public administration,</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>alleges specific faults, in particular the infringement of legislation, which the body of public administration has the power to remedy.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19684">
+          <num>19</num>
+          <content eId="para_19684__content">
+            <p>The second sentence of Paragraph 135(1) of the Code of Civil Procedure, in the version applicable to the dispute in the main proceedings, provides: `The court shall also be bound by any decision of the Ústavný súd [Slovenskej republiky] (Constitutional Court of the Slovak Republic) and of the European Court of Human Rights concerning fundamental human rights and freedoms.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19685">
+          <num>20</num>
+          <content eId="para_19685__content">
+            <p>Under Paragraph 250v(1) and (3) of the Code of Civil Procedure: `1.   Individuals or legal persons who claim that their rights or legally protected interests have been harmed by the unlawful action of a public authority, which does not constitute a decision, and that they were the direct addressee of that action or that its effects directly prejudiced them, may apply for protection against the action before a court, provided such action or its effects persist or may recur. ... 3.   Legal proceedings shall be inadmissible unless the claimant has exhausted the remedies available to him under specific legislation ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19686">
+          <num>21</num>
+          <content eId="para_19686__content">
+            <p>Paragraph 164 of Law No 563/2009 on tax administration ( `the Tax Code'), in the version applicable to the case in the main proceedings, provides: `For the purposes of tax administration, the tax authorities, Financial Directorate and Ministry of Finance shall be authorised to process the personal data of taxpayers, the representatives of taxpayers and other persons in accordance with specific legislation ...; personal data may be made accessible only to the municipality in its capacity as the tax authorities, the Financial Administration and the Ministry of Finance and, in connection with tax administration and the performance of their tasks under specific legislation ..., to any other person, court or prosecution authority. In the information systems ... it is permissible to process the name and surname of an individual, his or her permanent address and, if he or she was not allocated a tax identification number on registration, his or her national identity number.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19687">
+          <num>22</num>
+          <content eId="para_19687__content">
+            <p>Paragraph 8 of Law No 479/2009 on State Administrative Bodies in the field of Taxes and Fees reads as follows: `The Financial Directorate and Financial Administration shall be authorised to process personal data, in accordance with specific legislation ... concerning individuals affected by acts adopted by the Financial Administration in connection with performance of its tasks under the present law or specific legislation;</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>the register of personal data is set out in the annex.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19688">
+          <num>23</num>
+          <content eId="para_19688__content">
+            <p>Paragraph 4(3)(d), (e) and (o) of Law No 333/2011 on State Administrative Bodies in the field of Taxes, Fees and Customs provides: `3.   The Finance Directorate shall perform the following tasks: ...</p>
+            <blockList>
+              <item>
+                <num>(d)</num>
+                <p>it shall create, develop and operate the Financial Administration information systems ... it shall notify to the Ministry of Finance its intention to carry out activities in relation to the creation and development of the Financial Administration information systems,</p>
+              </item>
+              <item>
+                <num>(e)</num>
+                <p>it shall create and keep a central list of economic operators and other persons engaged in activities governed by the customs legislation and ensure that it is aligned with the relevant lists of the European Commission; it shall create and keep a central list of taxpayers and maintain and update the database; it shall create and keep that list through the Financial Administration information system, ...</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(o)</num>
+                <p>it shall inform persons about their rights and obligations in matters concerning taxes and fees and their rights and obligations under specific legislation.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19689">
+          <num>24</num>
+          <content eId="para_19689__content">
+            <p>Pursuant to Paragraph 5(3) of Law 333/2011: `The Financial Administration Criminal Office shall use the Financial Administration information systems, in which it shall collect, process, maintain, transfer, use, protect and delete information and personal data ... about persons who have infringed the tax or customs legislation or who are suspected, on reasonable grounds, of infringing the tax or customs legislation, or persons who, within the Financial Administration's field of jurisdiction, have undermined public order or who are suspected, on reasonable grounds, of undermining public order, and any other information on such infringements of the tax or customs legislation or undermining of public order; it shall provide or disclose that information and personal data to the Financial Directorate, the tax office or the customs office to the extent required for those bodies to carry out their tasks.'</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_19690">
+          <num>25</num>
+          <content eId="para_19690__content">
+            <p>Believing himself to be a victim of an infringement of his rights relating to personality by the inclusion of his name on the contested list, Mr Puškár applied to the Najvyšší súd Slovenskej republiky (Supreme Court of the Slovak Republic), by an action of 9 January 2014, followed by an appeal of 19 November 2014, to order the Finance Directorate, all tax offices under its control and the Financial Administration Criminal Office not to include his name on the contested list or any other similar list and to delete any reference to him from those lists and from the finance authority's IT system.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19691">
+          <num>26</num>
+          <content eId="para_19691__content">
+            <p>According to Mr Puškár, the Finance Directorate and the Financial Administration Criminal Office have drawn up and are using the contested list, a list of natural persons, numbering 1227 according to Mr Puškár, which the public authorities refer to by the expression `biele kone' ( `white horses'). That expression is used for persons acting as `fronts' in company director roles. Each natural person is, in principle, together with his national identity number and a tax identification number, associated with a legal person or legal persons -- of which there are 3369, according to Mr Puškár's indications -- within which he is deemed to be performing duties during a determined period.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19692">
+          <num>27</num>
+          <content eId="para_19692__content">
+            <p>The referring court states that the existence of the contested list has been confirmed by the Financial Administration Criminal Office, which submits, however, that this list was drawn up by the Finance Directorate.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19693">
+          <num>28</num>
+          <content eId="para_19693__content">
+            <p>According to the referring court, the contested list is protected against `unauthorised disclosure or access' within the meaning of Article 17(1) of Directive 95/46, by appropriate technical and organisational measures. Nevertheless, neither in his pleadings nor at the hearing, did Mr Puškár claim that he had obtained the contested list with the consent legally required by the Finance Directorate or, where appropriate, the Financial Administration Criminal Office.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19694">
+          <num>29</num>
+          <content eId="para_19694__content">
+            <p>It is apparent from the order for reference that the Najvyšší súd Slovenskej republiky (Supreme Court of the Slovak Republic) has dismissed as unfounded the actions brought by Mr Puškár and two other persons included on the contested list on procedural grounds, namely the fact that those applicants had not exhausted the remedies before the national administrative authorities, or on substantive grounds.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19695">
+          <num>30</num>
+          <content eId="para_19695__content">
+            <p>Following the subsequent constitutional appeals lodged by Mr Puškár and those two other persons, the Ústavný súd Slovenskej republiky (Constitutional Court of the Slovak Republic), relying in particular on the case-law of the European Court of Human Rights, held that, in so doing, the Najvyšší súd Slovenskej republiky (Supreme Court of the Slovak Republic) had infringed several of those applicants' fundamental rights, namely, inter alia, the right to a fair trial, the right to privacy as well as the right to the protection of personal data. Consequently, the Ústavný súd Slovenskej republiky (Constitutional Court of the Slovak Republic) set aside all of the judgments at issue of the Najvyšší súd Slovenskej republiky (Supreme Court of the Slovak Republic) and referred the cases back to that court so that it would rule again, reminding it that it was bound by the case-law of the European Court of Human Rights on the protection of personal data.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19696">
+          <num>31</num>
+          <content eId="para_19696__content">
+            <p>According to the Najvyšší súd Slovenskej republiky (Supreme Court of the Slovak Republic), the Ústavný súd Slovenskej republiky (Constitutional Court of the Slovak Republic) did not take into account the relevant case-law of the Court of Justice on the application of EU law on the protection of personal data.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19697">
+          <num>32</num>
+          <content eId="para_19697__content">
+            <p>In those circumstances, the Najvyšší súd Slovenskej republiky (Supreme Court of the Slovak Republic) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Does Article 47(1) of the Charter, under which every person whose rights -- including the right to privacy with respect to the processing of personal data in Article 1(1) et seq. of Directive 95/46 -- are violated has the right to an effective remedy before a court in compliance with the conditions in Article 47 of the Charter, against a provision of national law which makes the exercise of an effective remedy before a court, meaning an administrative court, conditional on the fact that the claimant, to protect his rights and freedoms, must have previously exhausted the procedures available under lex specialis -- law on a specific subject -- such as the Slovak Law on administrative complaints?</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>Can the right to respect for private and family life, home and communications, in Article 7 of the Charter, and the right to the protection of personal data in Article 8 be interpreted to the effect that where there is an alleged violation of the right to the protection of personal data, which, with respect to the European Union, is implemented primarily through Directive 95/46, and under which, in particular</p>
+                <blockList>
+                  <item>
+                    <num>--</num>
+                    <p>the Member States must protect the right to privacy with respect to the processing of personal data (Article [1](1)), and</p>
+                  </item>
+                  <item>
+                    <num>--</num>
+                    <p>the Member States are authorised to process personal data where this is necessary for the implementation of a task performed in the public interest (Article 7(e)) or is necessary for the purpose of a legitimate interests that is performed by the responsible authority or by the third party or parties to whom the data are disclosed, and</p>
+                  </item>
+                  <item>
+                    <num>--</num>
+                    <p>a Member State is exceptionally authorised to limit obligations and rights (Article 13(1)(e) and (f)), where such a restriction is necessary to safeguard an important economic or financial interest of a Member State or of the European Union, including monetary, budgetary and taxation matters, are interpreted in such a way as not to allow a Member State to create, without the consent of the person concerned, a list of personal data for the purposes of tax administration, so that the fact that personal data is made available to a public authority for the purpose of combating tax fraud in itself constitutes a risk?</p>
+                  </item>
+                </blockList>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>Can a list held by a financial authority of a Member State, which contains the claimant's personal data and the inaccessibility of which has been secured by appropriate technical and organisational measures for the protection of personal data against unauthorised disclosure or access within the meaning of Article 17(1) of Directive 95/46, be regarded as unlawful evidence by virtue of the fact that it was obtained by the claimant without the lawful agreement of the relevant financial authority, which the referring court must refuse to admit in accordance with the requirements of EU law on a fair hearing in the second paragraph of Article 47(2) of the Charter?</p>
+              </item>
+              <item>
+                <num>(4)</num>
+                <p>Is the abovementioned right to an effective legal remedy and to a fair hearing (in particular under Article 47 of the Charter) consistent with an approach taken by the referring court whereby, when, in this case, there is case-law from the European Court of Human Rights which differs from the answer obtained from the Court of Justice of the European Union, the referring court, in accordance with the principle of sincere cooperation in Article 4(3) TEU and Article 267 TFEU, gives precedence to the Court of Justice's legal approach?'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the questions referred</p>
+        </tblock>
+        <tblock>
+          <p>Preliminary observations</p>
+        </tblock>
+        <paragraph eId="para_19698">
+          <num>33</num>
+          <content eId="para_19698__content">
+            <p>It must be held at the outset, on the basis of the information provided by the referring court, that the data included on the contested list, namely, inter alia, the names of some natural persons, including Mr Puškár, are `personal data' within the meaning of Article 2(a) of the Directive 95/46, since they are `information relating to an identified or identifiable natural person' (see, to that effect, judgments of 16 December 2008, Satakunnan Markkinapörssi and Satamedia, C‑73/07, EU:C:2008:727, paragraph 35, and of 1 October 2015, Bara and Others, C‑201/14, EU:C:2015:638, paragraph 29).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19699">
+          <num>34</num>
+          <content eId="para_19699__content">
+            <p>Both their collection and their use by the various tax authorities at issue in the case in the main proceedings therefore constitute `processing of personal data' within the meaning of Article 2(b) of that directive (see, to that effect, judgments of 20 May 2003, Österreichischer Rundfunk and Others, C‑465/00, C‑138/01 and C‑139/01, EU:C:2003:294, paragraph 64; of 16 December 2008, Huber, C‑524/06, EU:C:2008:724, paragraph 43; and of 1 October 2015, Bara and Others, C‑201/14, EU:C:2015:638, paragraph 29).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19700">
+          <num>35</num>
+          <content eId="para_19700__content">
+            <p>The Spanish Government claims, however, that that processing of personal data is excluded from the scope of Directive 95/46 pursuant to the first indent of Article 3(2) thereof, under which that directive does not apply, in any case, to processing operations of personal data concerning public security, defence, State security, including the economic well-being of the State when the processing operation relates to State security matters, and the activities of the State in areas of criminal law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19701">
+          <num>36</num>
+          <content eId="para_19701__content">
+            <p>In that regard, it should be borne in mind that the activities which are mentioned by way of example in that article are, in any event, activities of the State or of State authorities unrelated to the fields of activity of individuals (see judgments of 6 November 2003, Lindqvist, C‑101/01, EU:C:2003:596, paragraph 43, and of 16 December 2008, Satakunnan Markkinapörssi and Satamedia, C‑73/07, EU:C:2008:727, paragraph 41).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19702">
+          <num>37</num>
+          <content eId="para_19702__content">
+            <p>The Court has also considered that the activities mentioned by way of example in the first indent of Article 3(2) of Directive 95/46 are intended to define the scope of the exception which is provided for there, with the result that that exception applies only to the activities which are expressly listed there or which can be classified in the same category (see judgment of 6 November 2003, Lindqvist, C‑101/01, EU:C:2003:596, paragraph 44).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19703">
+          <num>38</num>
+          <content eId="para_19703__content">
+            <p>In so far as it renders inapplicable the system of protection of personal data provided for in Directive 95/46 and thus deviates from the objective underlying it, namely to ensure the protection of the fundamental rights and freedoms of natural persons with regard to the processing of personal data, the exception provided for in the first indent of Article 3(2) of that directive must be interpreted strictly.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19704">
+          <num>39</num>
+          <content eId="para_19704__content">
+            <p>In the case in the main proceedings it is apparent from the order for reference that the data at issue are collected and used for the purpose of collecting tax and combating tax fraud. Subject to the determinations to be carried out in that regard by the referring court, however, it does not appear that the processing of that data has as its object public security, defence or State security.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19705">
+          <num>40</num>
+          <content eId="para_19705__content">
+            <p>Besides, even if it does not appear to be excluded that that data may be used in criminal proceedings which may be brought, in the event of an infringement in the field of taxation, against certain persons whose names are included in the contested list, the data at issue in the case in the main proceedings do not appear to have been collected for the specific purpose of the pursuit of such criminal proceedings or in the context of State activities relating to areas of criminal law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19706">
+          <num>41</num>
+          <content eId="para_19706__content">
+            <p>Moreover, it is clear from the case-law of the Court that tax data constitute `personal data' within the meaning of Article 2(a) of Directive 95/46 (see, to that effect, judgment of 1 October 2015, Bara and Others, C‑201/14, EU:C:2015:638, paragraph 29).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19707">
+          <num>42</num>
+          <content eId="para_19707__content">
+            <p>In that context, it should be noted that Article 13(1)(e) of Directive 95/46 authorises the Member States to take legislative measures to limit the scope of the obligations and rights provided for in Article 6(1), Article 10, Article 11(1) and Articles 12 and 21 of that directive where such a restriction constitutes a measure necessary to safeguard an important economic or financial interest of a Member State or of the European Union, including monetary, budgetary and taxation matters. A limitation of the data protection provided by Directive 95/46 for tax purposes is accordingly expressly provided for in that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19708">
+          <num>43</num>
+          <content eId="para_19708__content">
+            <p>Article 13(1) of Directive 95/46 necessarily presupposes that the national measures referred to therein, such as those necessary to safeguard an important economic or financial interest of a Member State in the field of taxation, fall within the scope of that directive (see, by analogy, judgment of 21 December 2016, Tele2 Sverige and Watson and Others, C‑203/15 and C‑698/15, EU:C:2016:970, paragraph 73).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19709">
+          <num>44</num>
+          <content eId="para_19709__content">
+            <p>It follows from the foregoing that, subject to the determinations to be carried out by the referring court, processing of personal data, such as that at issue in the case in the main proceedings, falls within the scope of Directive 95/46.</p>
+            <tblock>
+              <p>The first question</p>
+            </tblock>
+            <p>45 By its first question, the referring court asks, in essence, whether Article 47 of the Charter must be interpreted as precluding national legislation, which makes the exercise of a judicial remedy by a person stating that his right to protection of personal data guaranteed by Directive 95/46 has been infringed, subject to the prior exhaustion of the remedies available to him before the national administrative authorities ( `the available administrative remedies').</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Admissibility</p>
+        </tblock>
+        <paragraph eId="para_19710">
+          <num>46</num>
+          <content eId="para_19710__content">
+            <p>Mr Puškár and the Slovak Government dispute the admissibility of the first question referred.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19711">
+          <num>47</num>
+          <content eId="para_19711__content">
+            <p>Mr Puškár claims, in particular, that that question is hypothetical in so far as, following the dismissal by the referring court of his first action on the ground that he had not lodged an administrative complaint, he had exhausted, prior to his second appeal before that court, all possible prior remedies.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19712">
+          <num>48</num>
+          <content eId="para_19712__content">
+            <p>Similarly, the Slovak Government points out that the order for reference mentions at least two proceedings initiated by Mr Puškár, without specifying which of them is the subject of the present reference for a preliminary ruling. It claims that the information contained in the order for reference does not make it possible to determine whether a complaint had been lodged under Law No 9/2010, in which case the first question referred for a preliminary ruling would be inadmissible because of its hypothetical nature.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19713">
+          <num>49</num>
+          <content eId="para_19713__content">
+            <p>In that regard, it must be borne in mind that, according to the Court's settled case-law, in the context of the cooperation between the Court and the national courts provided for in Article 267 TFEU, it is solely for the national court before which the dispute has been brought, and which must assume responsibility for the subsequent judicial decision, to determine, in the light of the particular circumstances of the case, both the need for a preliminary ruling in order to enable it to deliver judgment and the relevance of the questions which it submits to the Court. Consequently, where the questions submitted concern the interpretation of EU law, the Court is, in principle, bound to give a ruling (see, in particular, judgment of 26 April 2017, Stichting Brein, C‑527/15, EU:C:2017:300, paragraph 55 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19714">
+          <num>50</num>
+          <content eId="para_19714__content">
+            <p>Questions on the interpretation of EU law referred by a national court in the factual and legislative context which that court is responsible for defining, and the accuracy of which is not a matter for the Court to determine, enjoy a presumption of relevance (see judgment of 17 July 2014, YS and Others, C‑141/12 and C‑372/12, EU:C:2014:2081, paragraph 63). The Court may refuse to rule on a question referred for a preliminary ruling by a national court only where it is quite obvious that the interpretation of EU law that is sought is unrelated to the actual facts of the main action or its purpose, where the problem is hypothetical, or where the Court does not have before it the factual or legal material necessary to give a useful answer to the questions submitted to it (see, in particular, judgment of 26 April 2017, Stichting Brein, C‑527/15, EU:C:2017:300, paragraph 56 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19715">
+          <num>51</num>
+          <content eId="para_19715__content">
+            <p>However, that is not the case here. As was pointed out in paragraphs 29 and 30 of the present judgment, it is clear from the order for reference that the Najvyšší súd Slovenskej republiky (Supreme Court of the Slovak Republic) had initially rejected the actions brought by Mr Puškár and two other persons on the ground, inter alia, that they had not exhausted the available administrative remedies, and that those decisions were annulled by the Ústavný súd Slovenskej republiky (Constitutional Court of the Slovak Republic).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19716">
+          <num>52</num>
+          <content eId="para_19716__content">
+            <p>In those circumstances, it is not obvious that the interpretation of EU law sought by the referring court bears no relation to the actual facts of the main action or its purpose.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19717">
+          <num>53</num>
+          <content eId="para_19717__content">
+            <p>It follows that the first question is admissible.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Substance</p>
+        </tblock>
+        <paragraph eId="para_19718">
+          <num>54</num>
+          <content eId="para_19718__content">
+            <p>Article 22 of Directive 95/46 requires specifically that Member States shall provide for the right of every person to a judicial remedy for any breach of the rights guaranteed him by the national law applicable to the processing of personal data in question.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19719">
+          <num>55</num>
+          <content eId="para_19719__content">
+            <p>That directive, which does not contain any provisions governing specifically the conditions under which that remedy may be exercised, does not however exclude the possibility that national law may also establish remedies before the administrative authorities. On the contrary, it should be pointed out that Article 22 expressly states that it is `without prejudice to any administrative remedy for which provision may be made, inter alia before the supervisory authority referred to in Article 28 [of Directive 95/46], prior to referral to the judicial authority', that Member States are to provide for the right of every person to that judicial remedy.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19720">
+          <num>56</num>
+          <content eId="para_19720__content">
+            <p>However, it is necessary to determine whether Article 47 of the Charter precludes a Member State from providing that the exhaustion of available administrative remedies is a prerequisite for bringing such a judicial remedy.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19721">
+          <num>57</num>
+          <content eId="para_19721__content">
+            <p>It should be recalled that, according to settled case-law of the Court, under the principle of sincere cooperation laid down in Article 4(3) TEU it is for the courts of the Member States to ensure judicial protection of a person's rights under EU law, in addition, Article 19(1) TEU requiring Member States to provide remedies sufficient to ensure effective judicial protection in the fields covered by EU law (see, inter alia, judgments of 8 November 2016, Lesoochranárske zoskupenie VLK, C‑243/15, EU:C:2016:838, paragraph 50, and of 26 July 2017, Sacko, C‑348/16, EU:C:2017:591, paragraph 29).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19722">
+          <num>58</num>
+          <content eId="para_19722__content">
+            <p>That requirement on the part of the Member States corresponds to the right enshrined in Article 47 of the Charter, entitled `Right to an effective remedy and to a fair trial', which provides that everyone whose rights and freedoms guaranteed by the law of the Union are violated has the right to an effective remedy before a tribunal (see, to that effect, judgment of 16 May 2017, Berlioz Investment Fund, C‑682/15, EU:C:2017:373, paragraph 44, and of 26 July 2017, Sacko, C‑348/16, EU:C:2017:591, paragraph 30).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19723">
+          <num>59</num>
+          <content eId="para_19723__content">
+            <p>It follows that, when they set out detailed procedural rules for legal actions intended to ensure the protection of rights conferred by Directive 95/46, the Member States must ensure compliance with the right to an effective remedy and to a fair hearing, enshrined in Article 47 of the Charter, which constitutes a reaffirmation of the principle of effective judicial protection (see, to that effect, judgments of 15 September 2016, Star Storage and Others, C‑439/14 and C‑488/14, EU:C:2016:688, paragraph 46, and of 26 July 2017, Sacko, C‑348/16, EU:C:2017:591, paragraph 31).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19724">
+          <num>60</num>
+          <content eId="para_19724__content">
+            <p>It follows that the characteristics of the remedy provided for in Article 22 of Directive 95/46 must be determined in a manner that is consistent with Article 47 of the Charter (see, by analogy, judgments of 17 December 2015, Tall, C‑239/14, EU:C:2015:824, paragraph 51, and of 26 July 2017, Sacko, C‑348/16, EU:C:2017:591, paragraph 31).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19725">
+          <num>61</num>
+          <content eId="para_19725__content">
+            <p>In the present case, it is common ground in the case in the main proceedings that, by making the admissibility of a legal action brought by a person alleging infringement of his right to protection of personal data guaranteed by Directive 95/46 subject to the prior exhaustion of the administrative remedies available, the national legislation at issue introduces an additional step for access to the courts. As the Advocate General also stated in point 53 of her Opinion, such a procedural rule would delay access to a judicial remedy and could also cause additional costs to be incurred.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19726">
+          <num>62</num>
+          <content eId="para_19726__content">
+            <p>The obligation to exhaust additional administrative remedies thereby constitutes, as a precondition for bringing a legal action, a limitation on the right to an effective remedy before a court within the meaning of Article 47 of the Charter which, in accordance with Article 52(1) of the Charter can therefore be justified only if it is provided for by law, if it respects the essence of that right and, subject to the principle of proportionality, if it is necessary and genuinely meets objectives of general interest recognised by the EU or the need to protect the rights and freedoms of others (see, to that effect, judgment of 15 September 2016, Star Storage and Others, C‑439/14 and C‑488/14, paragraph 49).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19727">
+          <num>63</num>
+          <content eId="para_19727__content">
+            <p>It must be held that, in the case in the main proceedings, it is clear from the order for reference that the legal basis for the obligation to exhaust available administrative remedies is set out in Paragraph 250v(3) of the Code of Civil Procedure, in such a way that it must be regarded as being provided for by national law (see, to that effect, judgment of 15 September 2016, Star Storage and Others, Case C‑439/14 and C‑488/14, paragraph 50 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19728">
+          <num>64</num>
+          <content eId="para_19728__content">
+            <p>Moreover, that obligation respects the essential content of the fundamental right to effective judicial protection, as enshrined in Article 47 of the Charter. That obligation does not call into question that right as such. An additional procedural step is merely imposed in order to exercise it.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19729">
+          <num>65</num>
+          <content eId="para_19729__content">
+            <p>Nonetheless, it must still be determined whether the obligation to exhaust available administrative remedies corresponds to an objective in the general interest and whether, in the affirmative, it complies with the principle of proportionality within the meaning of Article 52(1) of the Charter.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19730">
+          <num>66</num>
+          <content eId="para_19730__content">
+            <p>It is clear from the order for reference and from the observations of the Slovak Government that the reasons for the mandatory introduction of an administrative complaint before bringing a legal action are linked, first, to the administrative authority, if it accepts the applicant's arguments, to remedy more quickly an unlawful situation when it finds that the complaint is well founded, and to avoid seeing unexpected actions brought against that authority in court. Second, those reasons relate to the fact that such an obligation contributes to the efficiency of the judicial procedure where that authority does not share the applicant's opinion and where the latter then lodges a legal action, because the judge can then rely on the existing administrative record.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19731">
+          <num>67</num>
+          <content eId="para_19731__content">
+            <p>Thus it appears that the obligation to exhaust available administrative remedies is intended to relieve the courts of disputes which can be decided directly before the administrative authority concerned and to increase the efficiency of judicial proceedings as regards disputes in which a legal action is brought despite the fact that a complaint has already been lodged. The obligation therefore pursues legitimate general interest objectives.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19732">
+          <num>68</num>
+          <content eId="para_19732__content">
+            <p>As is clear from point 62 of the Advocate General's Opinion, the obligation to exhaust the available administrative remedies appears appropriate for achieving those objectives, no less onerous method than that obligation suggesting itself as capable of realising those objectives as efficiently.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19733">
+          <num>69</num>
+          <content eId="para_19733__content">
+            <p>Moreover, it is not evident that any disadvantages caused by the obligation to exhaust available administrative remedies are clearly disproportionate to those objectives (see, by analogy, judgment of 18 March 2010, Alassini and Others, C‑317/08 to C‑320/08, EU:C:2010:146, paragraph 65).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19734">
+          <num>70</num>
+          <content eId="para_19734__content">
+            <p>In that regard, it should be recalled that the Court held that the principle of effective judicial protection, reaffirmed in Article 47 of the Charter, did not preclude national legislation making the application of legal action in the field of electronic communications and consumer services subject to the prior implementation of out-of-court conciliation and mediation procedures provided that those procedures do not result in a decision which is binding on the parties, that they do not cause a substantial delay for the purposes of bringing legal proceedings, that they suspend the period for the time-barring of claims and that they do not give rise to costs -- or give rise to very low costs -- for the parties, and only if electronic means are not the only means by which the settlement procedure may be accessed and interim measures are possible in exceptional cases where the urgency of the situation so requires (see, to that effect, judgments of 18 March 2010, Alassini and Others, C‑317/08 to C‑320/08, EU:C:2010:146, paragraph 67, and of 14 June 2017, Menini and Rampanelli, C‑75/16, EU:C:2017:457, paragraph 61).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19735">
+          <num>71</num>
+          <content eId="para_19735__content">
+            <p>Those various conditions apply mutatis mutandis to the obligation to exhaust the available administrative remedies at issue in the case in the main proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19736">
+          <num>72</num>
+          <content eId="para_19736__content">
+            <p>It is therefore for the referring court to examine whether the practical arrangements for the exercise of administrative remedies available under Slovak law do not disproportionately affect the right to an effective remedy before a court referred to in Article 47 of the Charter.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19737">
+          <num>73</num>
+          <content eId="para_19737__content">
+            <p>In that context, it should be noted that Mr Puškár claimed, inter alia, that there was uncertainty as to whether the period for bringing a legal action before the national court begins before a decision has been taken, was taken in the context of an action brought before the administrative authority concerned. If that were the case, the obligation to exhaust available administrative remedies, which might prevent access to judicial protection, would not comply with the right to an effective remedy before a court referred to in Article 47 of the Charter.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19738">
+          <num>74</num>
+          <content eId="para_19738__content">
+            <p>As far as delays are concerned, it should be borne in mind that Article 47(2) of the Charter provides for the right of every person to have their case dealt with within a reasonable period of time. While that right admittedly relates to judicial proceedings themselves, it may not however be undermined by a condition prior to bringing a legal action.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19739">
+          <num>75</num>
+          <content eId="para_19739__content">
+            <p>As regards the costs which a prior administrative complaint might entail, as the Advocate General also stated in points 68 and 69 of her Opinion, although it is in principle permissible for Member States to impose an appropriate charge for bringing an action before an administrative authority, such a charge may not, however, be set at a level which might constitute an obstacle to the exercise of the right to a judicial remedy guaranteed by Article 47 of the Charter. In that regard, account must be taken of the fact that that charge adds to the costs of the judicial proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19740">
+          <num>76</num>
+          <content eId="para_19740__content">
+            <p>In the light of all the foregoing considerations, the answer to the first question must be that Article 47 of the Charter must be interpreted as meaning that it does not preclude national legislation, which makes the exercise of a judicial remedy by a person stating that his right to protection of personal data guaranteed by Directive 95/46 has been infringed, subject to the prior exhaustion of the available administrative remedies, provided that the practical arrangements for the exercise of such remedies do not disproportionately affect the right to an effective remedy before a court referred to in that article. It is important, in particular, that the prior exhaustion of the available administrative remedies does not lead to a substantial delay in bringing a legal action, that it involves the suspension of the limitation period of the rights concerned and that it does not involve excessive costs.</p>
+            <tblock>
+              <p>The third question</p>
+            </tblock>
+            <p>77 By its third question, which it is appropriate to examine in the second place, the referring court asks, in essence, whether Article 47 of the Charter must be interpreted as precluding that a national court rejects, as evidence of an infringement of the protection of personal data conferred by Directive 95/46, a list, such as the contested list, submitted by the data subject and containing personal data relating to him, if that person had obtained that list without the consent, legally required, of the person responsible for processing that data.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Admissibility</p>
+        </tblock>
+        <paragraph eId="para_19741">
+          <num>78</num>
+          <content eId="para_19741__content">
+            <p>Several parties and interested parties having submitted observations to the Court take the view that the third question referred for a preliminary ruling is inadmissible.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19742">
+          <num>79</num>
+          <content eId="para_19742__content">
+            <p>First, according to Mr Puškár and the Slovak Government, that question has no connection with EU law in the absence of EU rules on the lawfulness of evidence.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19743">
+          <num>80</num>
+          <content eId="para_19743__content">
+            <p>That argument cannot, however, be accepted.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19744">
+          <num>81</num>
+          <content eId="para_19744__content">
+            <p>It is important to note that Mr Puškár seeks judicial review of a measure by the Slovak tax authorities, namely the drawing up of the contested list, by which the rights conferred on him by Directive 95/46 have, according to him, been infringed.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19745">
+          <num>82</num>
+          <content eId="para_19745__content">
+            <p>The dismissal by the referring court of the evidence at issue in the main proceedings merely on the ground that Mr Puškár has obtained it without the consent, legally required, of the data controller constitutes a limitation on the right to a judicial remedy guaranteed by Article 22 of Directive 95/46 and a limitation on the right to an effective remedy before a court within the meaning of Article 47 of the Charter.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19746">
+          <num>83</num>
+          <content eId="para_19746__content">
+            <p>On the other hand, the Czech Government has expressed doubts as to the relevance of the third question to the resolution of the dispute in the main proceedings, since one of the administrative authorities involved in that dispute, namely the Financial Administration Criminal Office, does not challenge the existence of the contested list. According to the Czech Government, the dispute in the main proceedings does not therefore raise any question as to the existence of the contested list, so that it is not necessary to decide on the admissibility of that list as evidence.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19747">
+          <num>84</num>
+          <content eId="para_19747__content">
+            <p>In that regard, it is sufficient to note that the referring court does not appear to have decided on the circumstances surrounding the drawing up of the contested list.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19748">
+          <num>85</num>
+          <content eId="para_19748__content">
+            <p>In those circumstances, having regard to the case-law referred to in paragraphs 49 and 50 of the present judgment, it is not clear that the interpretation sought of EU law has nothing to do with the facts or the subject matter of the dispute in the main proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19749">
+          <num>86</num>
+          <content eId="para_19749__content">
+            <p>In the light of all the foregoing considerations, the third question must be considered to be admissible.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Substance</p>
+        </tblock>
+        <paragraph eId="para_19750">
+          <num>87</num>
+          <content eId="para_19750__content">
+            <p>As has been stated in paragraph 82 of the present judgment, rejecting a list, such as the contested list, as evidence of an infringement of the rights conferred by Directive 95/46, constitutes a limitation on the right to an effective remedy before a court within the meaning of Article 47 of the Charter.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19751">
+          <num>88</num>
+          <content eId="para_19751__content">
+            <p>It is clear from paragraph 62 of the present judgment that such a restriction is justified only, in accordance with Article 52(1) of the Charter, if it is provided for by law, if it respects the essence of that right and, subject to the principle of proportionality, if it is necessary and genuinely meets objectives of general interest recognised by the EU or the need to protect the rights and freedoms of others.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19752">
+          <num>89</num>
+          <content eId="para_19752__content">
+            <p>Therefore, before the disputed list can be rejected as evidence, the referring court must first of all satisfy itself that that restriction of the right to an effective remedy is indeed provided for by national law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19753">
+          <num>90</num>
+          <content eId="para_19753__content">
+            <p>Next, that court must examine whether such a rejection affects the essential content of the fundamental right to effective judicial protection, as enshrined in Article 47 of the Charter. In that context, it will in particular be necessary to ascertain whether the existence of the contested list and the fact that it contains personal data relating to Mr Puškár are challenged in the context of the dispute in the main proceedings and, where appropriate, if he has other evidence in that regard.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19754">
+          <num>91</num>
+          <content eId="para_19754__content">
+            <p>Finally, it will be for that court to determine whether the rejection of the contested list as evidence is necessary and does in fact satisfy the general interest objectives recognised by the European Union or the need to protect the rights and freedoms of others.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19755">
+          <num>92</num>
+          <content eId="para_19755__content">
+            <p>In that regard, it appears that the objective of avoiding the unauthorised use of internal documents in judicial proceedings is capable of constituting a legitimate general interest objective (see, to that effect, orders of 23 October 2002, Austria v Council, C‑445/00, EU:C:2002:607, paragraph 12; of 23 March 2007, Stadtgemeinde Frohnleiten and Gemeindebetriebe Frohnleiten, C‑221/06, EU:C:2007:185, paragraph 19; and of 29 January 2009, Donnici v Parliament, C‑9/08, not published, EU:C:2009:40, paragraph 13). Furthermore, where a list, such as the contested list, is intended to remain confidential and also contains personal data of other natural persons, there is a need to protect the rights of those persons.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19756">
+          <num>93</num>
+          <content eId="para_19756__content">
+            <p>If the rejection of a list, such as the contested list, as evidence obtained without the consent, legally required, of the authority responsible for processing the data appearing on that list, appears appropriate for achieving those objectives, it is however for the referring court to ascertain whether such a rejection does not disproportionately affect the right to an effective remedy before a court referred to in Article 47 of the Charter.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19757">
+          <num>94</num>
+          <content eId="para_19757__content">
+            <p>At the very least, if the person whose personal data is on the list enjoys a right of access to those data, such rejection appears disproportionate to those very objectives.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19758">
+          <num>95</num>
+          <content eId="para_19758__content">
+            <p>In that regard, Article 12 of Directive 95/46 guarantees everyone a right of access to the data collected relating to him. Furthermore, it is clear from Articles 10 and 11 of Directive 95/46 that the person responsible for processing such data must provide the data subjects with certain information relating to that processing.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19759">
+          <num>96</num>
+          <content eId="para_19759__content">
+            <p>Although Article 13(1) of Directive 95/46 limits the scope of the rights provided for in Articles 10 to 12 of that directive where such a restriction constitutes a necessary measure to safeguard, in particular, the prevention, investigation, detection and prosecution of criminal offences or an important economic or financial interest of a Member State, including taxation and monitoring, inspection or regulatory functions, it expressly requires that such restrictions are imposed by legislative measures (see, to that effect, judgment of 1 October 2015, Bara and Others v Commission, C‑201/14, EU:C:2015:638, paragraph 39).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19760">
+          <num>97</num>
+          <content eId="para_19760__content">
+            <p>Thus, in order to assess the proportionality of a rejection of the disputed list as evidence, the referring court must examine whether its national legislation limits, in relation to the data included in the list, information and access rights laid down in Articles 10 to 12 of Directive 95/46 and if such a limitation is, where appropriate, justified. Moreover, even where that is the case and there is evidence to support a legitimate interest in the possible confidentiality of the contested list, the national courts must determine on a case-by-case basis whether this takes precedence over interest in the protection of the rights of the individual and whether, in the proceedings before that court, other means exist to ensure that confidentiality, in particular as regards the personal data of other natural persons included on that list.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19761">
+          <num>98</num>
+          <content eId="para_19761__content">
+            <p>In the light of the foregoing considerations, the answer to the third question is that Article 47 of the Charter must be interpreted as precluding that a national court rejects, as evidence of an infringement of the protection of personal data conferred by Directive 95/46, a list, such as the contested list, submitted by the data subject and containing personal data relating to him, if that person had obtained that list without the consent, legally required, of the person responsible for processing that data, unless such rejection is laid down by national legislation and respects both the essential content of the right to an effective remedy and the principle of proportionality.</p>
+            <tblock>
+              <p>The second question</p>
+            </tblock>
+            <p>99 By its second question, the referring court asks, in essence, whether Directive 95/46 and Articles 7 and 8 of the Charter are to be interpreted as precluding the processing of personal data by the authorities of a Member State for the purpose of collecting tax and combating tax fraud such as that effected by drawing up the contested list in the main proceedings without the consent of the data subjects.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Admissibility</p>
+        </tblock>
+        <paragraph eId="para_19762">
+          <num>100</num>
+          <content eId="para_19762__content">
+            <p>According to Mr Puškár, the second question is hypothetical and of no relevance to the outcome of the dispute in the main proceedings. In his view, the national court seeks only to ascertain whether the processing of personal data by the Finance Directorate is admissible as a general rule but does not specifically address the contested list which was designed by the Finance Directorate without legal basis.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19763">
+          <num>101</num>
+          <content eId="para_19763__content">
+            <p>It must however be taken into account, having regard to the case-law referred to in paragraphs 49 and 50 of the present judgment, and the information contained in the order for reference, that it is not clear that the interpretation of EU law sought has nothing to do with the facts or the subject matter of the dispute in the main proceedings.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Substance</p>
+        </tblock>
+        <paragraph eId="para_19764">
+          <num>102</num>
+          <content eId="para_19764__content">
+            <p>The second question must be examined in the light of Directive 95/46, inasmuch as, as is clear inter alia from the objective of that directive, as set out in Article 1(1) thereof, as long as the conditions governing the legal processing of personal data under that directive are fulfilled, that processing shall be deemed to satisfy also the requirements laid down in Articles 7 and 8 of the Charter.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19765">
+          <num>103</num>
+          <content eId="para_19765__content">
+            <p>As is apparent from paragraphs 33 and 34 of the present judgment, the drawing up of a list, such as the contested list, which contains the names of certain natural persons and associates them with one or more legal persons within which those natural persons purport to act as company directors, constitutes `processing of personal data' within the meaning of Article 2(b) of Directive 95/46.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19766">
+          <num>104</num>
+          <content eId="para_19766__content">
+            <p>In accordance with the provisions of Chapter II of Directive 95/46, entitled `General rules on the lawfulness of the processing of personal data', subject to the exceptions permitted under Article 13 of that directive, all processing of personal data must comply, first, with the principles relating to data quality set out in Article 6 of the directive and, secondly, with one of the criteria for making data processing legitimate listed in Article 7 of that directive (see, to that effect, judgment of 1 October 2015, Bara and Others, C‑201/14, EU:C:2015:638, paragraph 30).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19767">
+          <num>105</num>
+          <content eId="para_19767__content">
+            <p>It is also important to recall that it follows from the objective of ensuring an equivalent level of protection in all Member States, pursued by that directive, that Article 7 thereof sets out an exhaustive and restrictive list of cases in which the processing of personal data can be regarded as being lawful (see judgment of 24 November 2011, ASNEF and FECEMD, C‑468/10 and C‑469/10, EU:C:2011:777, paragraph 30).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19768">
+          <num>106</num>
+          <content eId="para_19768__content">
+            <p>In particular, it should be stated that Article 7(e) provides that personal data may lawfully be processed if `it is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller or in a third party to whom the data are disclosed'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19769">
+          <num>107</num>
+          <content eId="para_19769__content">
+            <p>The establishment of the contested list appears likely to fall within that provision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19770">
+          <num>108</num>
+          <content eId="para_19770__content">
+            <p>It appears that the collection of the tax and combating tax fraud, for the purposes of which the contested list is established, must be regarded as tasks carried out in the public interest within the meaning of that provision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19771">
+          <num>109</num>
+          <content eId="para_19771__content">
+            <p>However, it is for the referring court to determine whether the Slovak authorities having compiled the list or those to whom it was notified have been invested with those missions by Slovak legislation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19772">
+          <num>110</num>
+          <content eId="para_19772__content">
+            <p>In that regard, it must be observed that Article 6(1)(b) of Directive 95/46 requires that personal data be collected for specific, explicit and legitimate purposes. As the Advocate General stated in point 106 of her Opinion, the objective of the processing of personal data is inextricably linked, within the scope of Article 7(e) of Directive 95/46, to the task of the controller. Consequently, the transfer of the task to the latter must clearly include the purpose of the processing.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19773">
+          <num>111</num>
+          <content eId="para_19773__content">
+            <p>It is also for the referring court to determine whether the establishment of the contested list is necessary for the performance of the tasks carried out in the public interest at issue in the case in the main proceedings, taking account, in particular, of the precise purpose of the establishment of the contested list, the legal effects to which the persons appearing on it and the public nature of that list are subject and whether or not that list is of a public nature.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19774">
+          <num>112</num>
+          <content eId="para_19774__content">
+            <p>It is important, in that regard, to ensure that the principle of proportionality is respected. The protection of the fundamental right to respect for private life at the European Union level requires that derogations from the protection of personal data and its limitations be carried out within the limits of what is strictly necessary (see, to that effect, judgment of 21 December 2016, Tele2 Sverige and Watson and Others, C‑203/15 and C‑698/15, EU:C:2016:970, paragraph 96 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19775">
+          <num>113</num>
+          <content eId="para_19775__content">
+            <p>It is thus for the national court to ascertain whether the establishment of the contested list and the inclusion of the names of the data subjects in such a register are suitable for achieving the objectives pursued by them and whether there is no other less restrictive means in order to achieve those objectives.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19776">
+          <num>114</num>
+          <content eId="para_19776__content">
+            <p>The fact that a person is placed on the contested list is likely to infringe some of his rights. Indeed, inclusion in that list could harm his reputation and affect his relations with the tax authorities. Likewise, such inclusion could affect the presumption of innocence of that person, set out in Article 48(1) of the Charter, as well as the freedom of enterprise enshrined in Article 16 of the Charter of legal persons associated with the natural persons included in the contested list. It appears that an infringement of this kind can be proportionate only if there are sufficient grounds to suspect the person concerned of purportedly acting as a company director of the legal persons associated with him and accordingly undermines the public interest in the collection of taxes and combating tax fraud.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19777">
+          <num>115</num>
+          <content eId="para_19777__content">
+            <p>Although the referring court came to the conclusion that the establishment of the contested list is necessary for the performance of tasks carried out in the public interest of the controller in accordance with Article 7(e) of Directive 95/46, it should also determine that the other conditions for the lawfulness of that processing of personal data imposed by the directive are satisfied, in particular those arising under Articles 6 and 10 to 12 thereof.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19778">
+          <num>116</num>
+          <content eId="para_19778__content">
+            <p>Furthermore, if there were grounds for limiting, under Article 13 of Directive 95/46, certain of the rights provided for in those articles, such as the right to information of the data subject, such a limitation should, as is clear from paragraph 96 of the present judgment, be necessary for the protection of an interest referred to in Article 13(1), such as, inter alia, an important economic and financial interest in the field of taxation and be based on legislative measures.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19779">
+          <num>117</num>
+          <content eId="para_19779__content">
+            <p>In the light of the foregoing considerations, the answer to the second question is that Article 7(e) Directive 95/46 must be interpreted as not precluding the processing of personal data by the authorities of a Member State for the purpose of collecting tax and combating tax fraud such as that effected by drawing up the contested list in the main proceedings, without the consent of the data subjects, provided that, first, those authorities were invested by the national legislation with tasks carried out in the public interest within the meaning of that article, that the drawing-up of that list and the inclusion on it of the names of the data subjects in fact be appropriate and necessary for the purpose of attaining the objectives pursued and that there be sufficient indications to assume that the data subjects are rightly included in that list and, second, that all of the conditions for the lawfulness of that processing of personal data imposed by Directive 95/46 be satisfied.</p>
+            <tblock>
+              <p>The fourth question</p>
+            </tblock>
+            <p>118 By its fourth question, the national court asks, in essence, whether Article 47 of the Charter must be interpreted as precluding a national court, having found that, in a case before it, there are differences between the case-law of the European Court of Human Rights and that of the Court of Justice, following the latter.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19780">
+          <num>119</num>
+          <content eId="para_19780__content">
+            <p>That question was raised by the referring court in general terms, without the latter clarifying in a clear and concrete manner what those differences are.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19781">
+          <num>120</num>
+          <content eId="para_19781__content">
+            <p>It should be borne in mind that the requirements concerning the content of a request for a preliminary ruling are expressly set out in Article 94 of the Court's Rules of Procedure, of which the national court should, in the context of the cooperation instituted by Article 267 TFEU, be aware and which it is bound to observe scrupulously. Thus, the referring court must set out the precise reasons that led it to raise the question of the interpretation of certain provisions of EU law and to consider it necessary to refer questions to the Court of Justice for a preliminary ruling. The Court has previously held that it is essential that the national court should give at the very least some explanation of the reasons for the choice of the EU law provisions which it seeks to have interpreted and of the link it establishes between those provisions and the national legislation applicable to the proceedings pending before it (judgment of 9 March 2017, Milkova, C‑406/15, EU:C:2017:198, paragraphs 72 and 73 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19782">
+          <num>121</num>
+          <content eId="para_19782__content">
+            <p>Those requirements also appear in the recommendations of the Court of Justice of the European Union to national courts and tribunals in relation to the initiation of preliminary ruling proceedings ( OJ 2016 C 439, p. 1).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19783">
+          <num>122</num>
+          <content eId="para_19783__content">
+            <p>In the present case, it must be held that the fourth question does not satisfy the requirements set out in the preceding paragraphs.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19784">
+          <num>123</num>
+          <content eId="para_19784__content">
+            <p>It should also be borne in mind that, in accordance with the Court's settled case-law, the justification for making a request for a preliminary ruling is not for advisory opinions to be delivered on general or hypothetical questions, but rather that it is necessary for the effective resolution of a dispute concerning EU law (see judgment of 21 December 2016, Tele2 Sverige and Watson and Others, C‑203/15 and C‑698/15, EU:C:2016:970, paragraph 130).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19785">
+          <num>124</num>
+          <content eId="para_19785__content">
+            <p>It follows that the third question is inadmissible.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_19786">
+          <num>125</num>
+          <content eId="para_19786__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Second Chamber) hereby rules: 1. Article 47 of the Charter of Fundamental Rights of the European Union must be interpreted as meaning that it does not preclude national legislation, which makes the exercise of a judicial remedy by a person stating that his right to protection of personal data guaranteed by Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data, has been infringed, subject to the prior exhaustion of the remedies available to him before the national administrative authorities, provided that the practical arrangements for the exercise of such remedies do not disproportionately affect the right to an effective remedy before a court referred to in that article. It is important, in particular, that the prior exhaustion of the available remedies before the national administrative authorities does not lead to a substantial delay in bringing a legal action, that it involves the suspension of the limitation period of the rights concerned and that it does not involve excessive costs. 2. Article 47 of the Charter of Fundamental Rights of the European Union must be interpreted as precluding that a national court rejects, as evidence of an infringement of the protection of personal data conferred by Directive 95/46, a list, such as the contested list, submitted by the data subject and containing personal data relating to him, if that person had obtained that list without the consent, legally required, of the person responsible for processing that data, unless such rejection is laid down by national legislation and respects both the essential content of the right to an effective remedy and the principle of proportionality. 3. Article 7(e) Directive 95/46 must be interpreted as not precluding the processing of personal data by the authorities of a Member State for the purpose of collecting tax and combating tax fraud such as that effected by drawing up of a list of persons such as that at issue in the main proceedings, without the consent of the data subjects, provided that, first, those authorities were invested by the national legislation with tasks carried out in the public interest within the meaning of that article, that the drawing-up of that list and the inclusion on it of the names of the data subjects in fact be adequate and necessary for the attainment of the objectives pursued and that there be sufficient indications to assume that the data subjects are rightly included in that list and, second, that all of the conditions for the lawfulness of that processing of personal data imposed by Directive 95/46 be satisfied.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Slovak.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

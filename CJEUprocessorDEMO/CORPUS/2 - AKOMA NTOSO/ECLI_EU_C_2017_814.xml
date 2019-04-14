@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+      <references source="#source">
+        <TLCOrganization eId="institution_60" showAs="" href="/akn/ontology/Organization/Institution/institution_60" />
+      </references>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Fourth Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>26 October 2017 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Taxation -- Value added tax (VAT) -- Directive 2006/112/EC -- Exemption for supplies of services closely linked to sport -- Definition of `sport' -- Activity characterised by a physical element -- Duplicate bridge) In Case C‑90/16, REQUEST for a preliminary ruling under Article 267 TFEU from the Upper Tribunal (Tax and Chancery Chamber), United Kingdom, made by decision of 1 September 2015, received at the Court on 15 February 2016, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#institution_60">The English Bridge Union Limited</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#">Commissioners for Her Majesty's Revenue &amp; Customs</party>
+      </p>
+      <p>, THE COURT (Fourth Chamber), composed of T. von Danwitz (Rapporteur), President of the Chamber, K. Lenaerts, President of the Court, acting as Judge of the Fourth Chamber, E. Juhász, K. Jürimäe and C. Lycourgos, Judges, Advocate General: M. Szpunar, Registrar: L. Hewlett, Principal Administrator, having regard to the written procedure and further to the hearing on 2 March 2017, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>
+            <organization refersTo="#institution_60">The English Bridge Union Limited</organization>
+          </p>
+          <p>, by M. Lewis, Solicitor, and D. Ewart QC,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the United Kingdom Government, by S. Brandon, acting as Agent, and R. Hill, Barrister,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Netherlands Government, by M. Bulterman and M. Noort, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by L. Lozano Palacios and R. Lyal, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 15 June 2017,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <tblock>
+        <p>Judgment</p>
+      </tblock>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_2195">
+          <num>1</num>
+          <content eId="para_2195__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Article 132(1)(m) of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax ( OJ 2006 L 347, p. 1).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2196">
+          <num>2</num>
+          <content eId="para_2196__content">
+            <p>The request has been made in proceedings between</p>
+            <p>
+              <organization refersTo="#institution_60">The English Bridge Union Limited</organization>
+            </p>
+            <p>( `the EBU') and the Commissioners for Her Majesty's Revenue &amp; Customs ( `the tax authority') concerning the taxation, for value added tax (VAT) purposes, of the entry fees received by the EBU for the duplicate bridge tournaments it organises.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <paragraph eId="para_2197">
+          <num>3</num>
+          <content eId="para_2197__content">
+            <p>Directive 2006/112, in accordance with Articles 411 and 413 thereof, repealed and replaced, as of 1 January 2007, the EU legislation on VAT, in particular Sixth Council Directive 77/388/EEC of 17 May 1977 on the harmonisation of the laws of the Member States relating to turnover taxes -- Common system of value added tax: uniform basis of assessment ( OJ 1977 L 145, p. 1).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2198">
+          <num>4</num>
+          <content eId="para_2198__content">
+            <p>Article 132(1) of Directive 2006/112, which is in Chapter 2 ( `Exemptions for certain activities in the public interest') of Title IX of the directive, provides that the Member States are to exempt: `...</p>
+            <blockList>
+              <item>
+                <num>(m)</num>
+                <p>the supply of certain services closely linked to sport or physical education by non-profit-making organisations to persons taking part in sport or physical education;</p>
+              </item>
+              <item>
+                <num>(n)</num>
+                <p>the supply of certain cultural services, and the supply of goods closely linked thereto, by bodies governed by public law or by other cultural bodies recognised by the Member State concerned;...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>United Kingdom law</p>
+        </tblock>
+        <paragraph eId="para_2199">
+          <num>5</num>
+          <content eId="para_2199__content">
+            <p>Group 10 of Schedule 9 of the Value Added Tax Act 1994 provides for a VAT exemption in relation to the following supplies linked to sport: `1. The grant of a right to enter a competition in sport or physical recreation where the consideration for the grant consists in money which is to be allocated wholly towards the provision of a prize or prizes awarded in that competition. 2. The grant by an eligible body established for the purposes of sport or physical recreation, of a right to enter a competition in such an activity. 3. The supply by an eligible body to an individual ... of services closely linked with and essential to sport or physical education in which the individual is taking part.'</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_2200">
+          <num>6</num>
+          <content eId="para_2200__content">
+            <p>The EBU is a national non-profit-making body responsible for regulating and developing duplicate bridge in England. That card game is a form of bridge played competitively at national and international level, in which each partnership successively plays the same deal as their counterparts at other tables. Scoring is thus based on relative performance.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2201">
+          <num>7</num>
+          <content eId="para_2201__content">
+            <p>The EBU, whose members are regional associations and individuals, organises duplicate bridge tournaments and charges players an entry fee to participate. The EBU pays VAT on those fees.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2202">
+          <num>8</num>
+          <content eId="para_2202__content">
+            <p>The EBU, being of the opinion that those fees should be exempt from VAT pursuant to Article 132(1)(m) of Directive 2006/112, made an application to the tax authority for repayment of that tax. The application was rejected.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2203">
+          <num>9</num>
+          <content eId="para_2203__content">
+            <p>The EBU lodged an action before the First-tier Tribunal (Tax Chamber), United Kingdom, which upheld the decision to reject its application and granted the EBU leave to appeal.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2204">
+          <num>10</num>
+          <content eId="para_2204__content">
+            <p>Before the Upper Tribunal (Tax and Chancery Chamber), the EBU claimed that a `sport' within the meaning of Article 132(1)(m) of Directive 2006/112 need not necessarily have a significant physical element, since the purpose of that provision is to encourage activities that provide benefits to the physical and/or mental health of regular participants and intellectual activity is just as important as physical activity. According to the EBU, an activity characterised by a significant mental element and practised competitively, such as duplicate bridge, is therefore a `sport' within the meaning of that provision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2205">
+          <num>11</num>
+          <content eId="para_2205__content">
+            <p>The tax authority does not accept those arguments, on the ground that the terms used in Article 132(1)(m) of Directive 2006/112, pursuant to which the supply of certain services `closely linked to sport or physical education' are exempt, mean that a `sport' within the meaning of that provision must have a significant physical element. In addition, the tax authority contends that the interpretation put forward by the EBU is contrary to the principle of strict interpretation of the exemptions laid down in Article 132 of Directive 2006/112.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2206">
+          <num>12</num>
+          <content eId="para_2206__content">
+            <p>The referring court states that duplicate bridge involves the use of high-level mental skills such as logic, lateral thinking, planning or memory, and that playing duplicate bridge regularly promotes both mental and physical health. It therefore asks whether so-called `mind sports' such as duplicate bridge are covered by the concept of `sport' within the meaning of Article 132(1)(m) of the directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2207">
+          <num>13</num>
+          <content eId="para_2207__content">
+            <p>The Upper Tribunal (Tax and Chancery Chamber), taking the view that that term should be given an autonomous meaning and have uniform application in all the Member States, decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>What are the essential characteristics which an activity must exhibit in order for it to be a ``sport '' within the meaning of Article 132(1)(m) of Directive 2006/112 ...? In particular must an activity have a significant (or not insignificant) physical element which is material to its outcome or is it sufficient that it has a significant mental element which is material to its outcome?</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>Is duplicate contract bridge a ``sport '' within Article 132(1)(m) of the Directive 2006/112?'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the questions referred</p>
+        </tblock>
+        <paragraph eId="para_2208">
+          <num>14</num>
+          <content eId="para_2208__content">
+            <p>As a preliminary point, it should be observed that, as is apparent from the file before the Court, duplicate bridge is a card game involving efforts and skills of an intellectual nature, with a physical element that appears to be negligible.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2209">
+          <num>15</num>
+          <content eId="para_2209__content">
+            <p>By its questions, which it is appropriate to examine together, the referring court asks, in essence, whether Article 132(1)(m) of Directive 2006/112 must be interpreted as meaning that an activity such as duplicate bridge, which is characterised by a physical element that appears to be negligible, is covered by the concept of `sport' within the meaning of that provision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2210">
+          <num>16</num>
+          <content eId="para_2210__content">
+            <p>So, in the present case, the Court is asked, not to determine the meaning of `sport' in general, but to interpret it in the context of Directive 2006/112 on the common system of VAT, and, in particular, the provisions of the directive relating to exemptions.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2211">
+          <num>17</num>
+          <content eId="para_2211__content">
+            <p>According to established case-law, the exemptions provided for in Article 132 of the directive constitute autonomous concepts of EU law whose purpose is to avoid divergences in the application of the VAT system from one Member State to another (see, to that effect, judgments of 16 October 2008, Canterbury Hockey Club and Canterbury Ladies Hockey Club, C‑253/07, EU:C:2008:571, paragraph 16, and of 26 February 2015, VDP Dental Laboratory and Others, C‑144/13, C‑154/13 and C‑160/13, EU:C:2015:116, paragraph 44 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2212">
+          <num>18</num>
+          <content eId="para_2212__content">
+            <p>For want of any definition at all in Directive 2006/112 of the concept of `sport', the meaning and scope of that term must, as the Court has consistently held, be determined by considering its usual meaning in everyday language, while also taking into account the context in which it is used and the purposes of the rules of which it is part (see, to that effect, judgments of 3 September 2014, Deckmyn and Vrijheidsfonds, C‑201/13, EU:C:2014:2132, paragraph 19 and the case-law cited, and of 26 May 2016, Envirotec Denmark, C‑550/14, EU:C:2016:354, paragraph 27).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2213">
+          <num>19</num>
+          <content eId="para_2213__content">
+            <p>With regard, first of all, to the meaning of the term `sport' in everyday language, it is typically used, as the Advocate General observed in point 23 of his Opinion, to refer to an activity of a physical nature or, in other words, an activity characterised by a not negligible physical element.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2214">
+          <num>20</num>
+          <content eId="para_2214__content">
+            <p>With regard, moreover, to the general scheme of Directive 2006/112, it is clear from the settled case-law of the Court that terms used to specify the exemptions provided for by Article 132 of the directive are to be interpreted strictly, given that they constitute exceptions to the general principle that VAT is to be levied on all services supplied for consideration by a taxable person. However, that rule of strict interpretation does not mean that the terms used to specify those exemptions should be construed in such a way as to deprive them of their intended effects (see, to that effect, judgments of 18 November 2004, Temco Europe, C‑284/03, EU:C:2004:730, paragraph 17, and of 25 February 2016, Commission v Netherlands, C‑22/15, not published, EU:C:2016:118, paragraph 20 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2215">
+          <num>21</num>
+          <content eId="para_2215__content">
+            <p>In addition, if, as shown by the title of the chapter in which that article falls, the exemptions provided for in that article are intended to encourage certain activities in the public interest, those exemptions do not, however, concern every activity performed in the public interest, but only those which are listed there and described in great detail (see, to that effect, judgments of 21 February 2013, Žamberk, C‑18/12, EU:C:2013:95, paragraph 18 and the case-law cited, and of 26 February 2015, VDP Dental Laboratory and Others, C‑144/13, C‑154/13 and C‑160/13, EU:C:2015:116, paragraph 45).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2216">
+          <num>22</num>
+          <content eId="para_2216__content">
+            <p>Examination of the context of Article 132(1)(m) of Directive 2006/112 therefore argues in favour of an interpretation that the concept of `sport' appearing in that provision is limited to activities satisfying the ordinary meaning of the term `sport', characterised by a not negligible physical element, but not covering all activities that may, in one way or another, be associated with that concept.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2217">
+          <num>23</num>
+          <content eId="para_2217__content">
+            <p>With regard, lastly, to the purpose of Article 132(1)(m) of the directive, it should be recalled that the objective of that provision is to encourage certain activities in the general interest, namely, services closely linked to sport or physical education supplied by non-profit-making organisations to persons taking part in sport or physical education, and, therefore, that provision seeks to promote such participation by large sections of the population (see, to that effect, judgments of 21 February 2013, Žamberk, C‑18/12, EU:C:2013:95, paragraph 23, and of 19 December 2013, Bridport and West Dorset Golf Club, C‑495/12, EU:C:2013:861, paragraph 20).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2218">
+          <num>24</num>
+          <content eId="para_2218__content">
+            <p>Admittedly, as claimed by the EBU, and as is apparent from the file before the Court, duplicate bridge involves, inter alia, logic, memory, planning and/or lateral thinking, and constitutes an activity beneficial to the mental and physical health of regular participants. However, even if they do prove beneficial to physical and mental health, activities of pure rest or relaxation are not covered by that provision (see, to that effect, judgments of 21 February 2013, Žamberk, C‑18/12, EU:C:2013:95, paragraph 22, and of 25 February 2016, Commission v Netherlands, C‑22/15, not published, EU:C:2016:118, paragraphs 23 to 25). In those circumstances, the fact that an activity promotes physical and mental health is not, of itself, a sufficient element for it to be concluded that that activity is covered by the concept of `sport' within the meaning of that same provision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2219">
+          <num>25</num>
+          <content eId="para_2219__content">
+            <p>The fact that an activity promoting physical and mental well-being is practised competitively does not lead to a different conclusion. In fact, the Court has ruled that Article 132(1)(m) of Directive 2006/112 does not require, for it to be applicable, that the sporting activity be practised at a particular level, for example, at a professional level, or that the sporting activity at issue be practised in a particular way, namely in a regular or organised manner or in order to participate in sports competitions (judgments of 21 February 2013, Žamberk, C‑18/12, EU:C:2013:95, paragraph 22, and of 19 December 2013, Bridport and West Dorset Golf Club, C‑495/12, EU:C:2013:861, paragraph 19). In that respect, it must also be noted that the competitive nature of an activity cannot, per se, be sufficient to establish its classification as a `sport', failing any not negligible physical element.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2220">
+          <num>26</num>
+          <content eId="para_2220__content">
+            <p>In addition, it follows from the case-law referred to in paragraph 21 above that Article 132 of the directive seeks to define, exhaustively, certain activities in the general interest to which, exceptionally, a VAT exemption is to apply. Accordingly, to the extent that, for the reasons set out in paragraphs 19 to 25 above, construing the scope of the exemption provided for in Article 132(1)(m) of the directive as including activities with a physical element that appears to be negligible constitutes an extensive interpretation of that provision, such a reading cannot comply with the requirement of strict interpretation of VAT exemptions, or be compatible with the objective of strict circumscription of the exemption at issue.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2221">
+          <num>27</num>
+          <content eId="para_2221__content">
+            <p>It follows, therefore, from the wording of Article 132(1)(m) and from the systematic and teleological interpretation of Directive 2006/112 that the provision relates only to activities characterised by a not negligible physical element.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2222">
+          <num>28</num>
+          <content eId="para_2222__content">
+            <p>That interpretation is without prejudice to the question whether an activity with a physical element that appears to be negligible may, where appropriate, be covered by the concept of `cultural services' within the meaning of Article 132(1)(n) of the directive, if the activity, in the light of the way in which it is practised, its history and the traditions to which it belongs, in a given Member State, holds such a place in the social and cultural heritage of that country that it may be regarded as forming part of its culture. In that regard, the Court has held that the corresponding provision in Directive 77/388 allowed the Member States a discretion in determining the cultural services exempted (see, to that effect, judgment of 15 February 2017, British Film Institute, C‑592/15, EU:C:2017:117, paragraph 24).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_2223">
+          <num>29</num>
+          <content eId="para_2223__content">
+            <p>In the light of all those considerations, the answer to the questions referred is that Article 132(1)(m) of Directive 2006/112 must be interpreted as meaning that an activity such as duplicate bridge, which is characterised by a physical element that appears to be negligible, is not covered by the concept of `sport' within the meaning of that provision.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_2224">
+          <num>30</num>
+          <content eId="para_2224__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Fourth Chamber) hereby rules: Article 132(1)(m) of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax must be interpreted as meaning that an activity such as duplicate bridge, which is characterised by a physical element that appears to be negligible, is not covered by the concept of `sport' within the meaning of that provision.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>von Danwitz Lenaerts Juhász Jürimäe Lycourgos Delivered in open court in Luxembourg on 26 October 2017. A. Calot Escobar Registrar T. von Danwitz President of the Fourth Chamber( *1)Language of the case: English.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>
