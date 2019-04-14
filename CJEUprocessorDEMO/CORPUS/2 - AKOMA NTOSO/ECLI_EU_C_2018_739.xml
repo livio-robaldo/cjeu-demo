@@ -1,0 +1,822 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+      <references source="#source">
+        <TLCOrganization eId="institution_105" showAs="" href="/akn/ontology/Organization/Institution/institution_105" />
+      </references>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (First Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>19 September 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Urgent preliminary ruling procedure -- Judicial cooperation in civil matters -- Jurisdiction, recognition and enforcement of decisions in matrimonial matters and in matters of parental responsibility -- International child abduction -- Regulation (EC) No 2201/2003 -- Article 11 -- Application for return -- Hague Convention of 25 October 1980 -- Application for a declaration of enforceability -- Appeal -- Charter of Fundamental Rights of the European Union -- Article 47 -- Right to an effective remedy -- Time limit for bringing the appeal -- Order authorising enforcement -- Enforcement prior to service of the order) In Joined Cases C‑325/18 PPU and C‑375/18 PPU, TWO REQUESTS for a preliminary ruling under Article 267 TFEU from the Court of Appeal (Ireland), made by decisions of 17 May 2018 (C‑325/18 PPU) and 7 June 2018 (C‑375/18 PPU), received at the Court on 17 May 2018 and 7 June 2018 respectively, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#institution_105">Hampshire County Council</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#">C.E.</party>
+      </p>
+      <p>, N.E., other parties: Child and Family Agency, Attorney General, THE COURT (First Chamber), composed of R. Silva de Lapuerta, President of the Chamber, C.G. Fernlund, J.C. Bonichot, A. Arabadjiev (Rapporteur) and S. Rodin, Judges, Advocate General: J. Kokott, Registrar: L. Hewlett, Principal Administrator, having regard to the requests of the referring court of 17 May 2018 (C‑325/18 PPU) and 7 June 2018 (C‑375/18 PPU), received at the Court on 17 May 2018 and 7 June 2018 respectively, that the references for a preliminary ruling be dealt with under the urgent procedure, in accordance with Article 107 of the Rules of Procedure of the Court of Justice, having regard to the decision of 11 June 2018 of the First Chamber granting those requests, having regard to the written procedure and further to the hearing on 13 July 2018, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>
+            <organization refersTo="#institution_105">Hampshire County Council</organization>
+          </p>
+          <p>, by D. Day, Barrister, instructed by V. Pearce, Solicitor,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>N.E. and C.E., by N. Jackson, Senior Counsel, B. Shipsey, Senior Counsel, B. McKeever, Barrister-at-Law, and by K. Smyth, Solicitor,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Attorney General, by M. Browne, J. McCann and A. Joyce, acting as Agents, and by A. Finn, Barrister-at-Law, and G. Durcan, Senior Counsel,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>Ireland, by J. McCann, acting as Agent, and by G. Durcan, Senior Counsel, and A. Finn, Barrister-at-Law,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the United Kingdom Government, by R. Fadoju and C. Brodie, acting as Agents, and by E. Devereux QC,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Czech Government, by J. Vláčil, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Polish Government, by M. Nowak, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by M. Wilderspin, acting as Agent, after hearing the Opinion of the Advocate General at the sitting on 7 August 2018,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_19405">
+          <num>1</num>
+          <content eId="para_19405__content">
+            <p>These requests for a preliminary ruling concern the interpretation of Article 47 of the Charter of Fundamental Rights of the European Union ( `the Charter') and of Article 11 and Article 33(5) of Council Regulation (EC) No 2201/2003 of 27 November 2003 concerning jurisdiction and the recognition and enforcement of judgments in matrimonial matters and the matters of parental responsibility, repealing Regulation (EC) No 1347/2000 ( OJ 2003 L 338, p. 1).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19406">
+          <num>2</num>
+          <content eId="para_19406__content">
+            <p>The requests have been made in proceedings between</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>
+                  <organization refersTo="#institution_105">Hampshire County Council</organization>
+                </p>
+                <p>( `HCC') and</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>C.E. and N.E. ( `the parents concerned'), concerning the return to the United Kingdom of three minor children ( `the three children'), removed to Ireland by the parents concerned in order to avoid those children being taken into care, and an application for an interlocutory injunction made by those parents in Ireland in order to suspend the adoption of the youngest of the three children and, if necessary, of the other children in the United Kingdom.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>International law</p>
+        </tblock>
+        <paragraph eId="para_19407">
+          <num>3</num>
+          <content eId="para_19407__content">
+            <p>One objective of the Convention on the Civil Aspects of International Child Abduction, concluded at The Hague on 25 October 1980 ( `the 1980 Hague Convention'), as stated in its preamble, is to protect children internationally from the harmful effects of their wrongful removal or retention and to establish procedures to ensure their prompt return to the State of their habitual residence. The Convention entered into force on 1 December 1983 and all the Member States of the European Union are contracting parties to it.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19408">
+          <num>4</num>
+          <content eId="para_19408__content">
+            <p>Article 1 of the 1980 Hague Convention provides: `The objects of the present Convention are --(a) to secure the prompt return of children wrongfully removed to or retained in any Contracting State; and</p>
+            <blockList>
+              <item>
+                <num>(b)</num>
+                <p>to ensure that rights of custody and of access under the law of one Contracting State are effectively respected in the other Contracting States.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19409">
+          <num>5</num>
+          <content eId="para_19409__content">
+            <p>Article 3 of that convention provides: `The removal or the retention of a child is to be considered wrongful where --(a) it is in breach of rights of custody attributed to a person, an institution or any other body, either jointly or alone, under the law of the State in which the child was habitually resident immediately before the removal or retention; and</p>
+            <blockList>
+              <item>
+                <num>(b)</num>
+                <p>at the time of removal or retention those rights were actually exercised, either jointly or alone, or would have been so exercised but for the removal or retention. The rights of custody mentioned in subparagraph (a) above, may arise in particular by operation of law or by reason of a judicial or administrative decision, or by reason of an agreement having legal effect under the law of that State.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19410">
+          <num>6</num>
+          <content eId="para_19410__content">
+            <p>According to Article 12 of that convention: `Where a child has been wrongfully removed or retained in terms of Article 3 and, at the date of the commencement of the proceedings before the judicial or administrative authority of the Contracting State where the child is, a period of less than one year has elapsed from the date of the wrongful removal or retention, the authority concerned shall order the return of the child forthwith....'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19411">
+          <num>7</num>
+          <content eId="para_19411__content">
+            <p>Article 13 of the 1980 Hague Convention provides: `Notwithstanding the provisions of the preceding Article, the judicial or administrative authority of the requested State is not bound to order the return of the child if the person, institution or other body which opposes its return establishes that --...</p>
+            <blockList>
+              <item>
+                <num>(b)</num>
+                <p>there is a grave risk that his or her return would expose the child to physical or psychological harm or otherwise place the child in an intolerable situation....'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <paragraph eId="para_19412">
+          <num>8</num>
+          <content eId="para_19412__content">
+            <p>Recitals 12, 17, 21 and 33 of Regulation No 2201/2003 are worded as follows: `</p>
+            <blockList>
+              <item>
+                <num>(12)</num>
+                <p>The grounds of jurisdiction in matters of parental responsibility established in the present Regulation are shaped in the light of the best interests of the child, in particular on the criterion of proximity ......</p>
+              </item>
+              <item>
+                <num>(17)</num>
+                <p>In cases of wrongful removal or retention of a child, the return of the child should be obtained without delay, and to this end the [1980 Hague Convention] would continue to apply as complemented by the provisions of this Regulation, in particular Article 11. The courts of the Member State to or in which the child has been wrongfully removed or retained should be able to oppose his or her return in specific, duly justified cases. However, such a decision could be replaced by a subsequent decision by the court of the Member State of habitual residence of the child prior to the wrongful removal or retention. Should that judgment entail the return of the child, the return should take place without any special procedure being required for recognition and enforcement of that judgment in the Member State to or in which the child has been removed or retained....</p>
+              </item>
+              <item>
+                <num>(21)</num>
+                <p>The recognition and enforcement of judgments given in a Member State should be based on the principle of mutual trust and the grounds for non-recognition should be kept to the minimum required....</p>
+              </item>
+              <item>
+                <num>(33)</num>
+                <p>This Regulation recognises the fundamental rights and observes the principles of the [Charter]. In particular, it seeks to ensure respect for the fundamental rights of the child as set out in Article 24 of the [Charter].'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19413">
+          <num>9</num>
+          <content eId="para_19413__content">
+            <p>Article 1 of Regulation No 2201/2003, entitled `Scope', provides, in paragraphs 1 to 3: `1.   This Regulation shall apply, whatever the nature of the court or tribunal, in civil matters relating to:...</p>
+            <blockList>
+              <item>
+                <num>(b)</num>
+                <p>the attribution, exercise, delegation, restriction or termination of parental responsibility. 2.   The matters referred to in paragraph 1(b) may, in particular, deal with:</p>
+                <blockList>
+                  <item>
+                    <num>(a)</num>
+                    <p>rights of custody and rights of access;... 3.   This Regulation shall not apply to:...</p>
+                  </item>
+                  <item>
+                    <num>(b)</num>
+                    <p>decisions on adoption, measures preparatory to adoption, or the annulment or revocation of adoption;...'</p>
+                  </item>
+                </blockList>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19414">
+          <num>10</num>
+          <content eId="para_19414__content">
+            <p>Article 2 of Regulation No 2201/2003 states: `For the purposes of this Regulation: 1. the term ``court '' shall cover all the authorities in the Member States with jurisdiction in the matters falling within the scope of this Regulation pursuant to Article 1;... 7. the term ``parental responsibility '' shall mean all rights and duties relating to the person or the property of a child which are given to a natural or legal person by judgment, by operation of law or by an agreement having legal effect. The term shall include rights of custody and rights of access; 8. the term ``holder of parental responsibility '' shall mean any person having parental responsibility over a child; 9. the term ``rights of custody '' shall include rights and duties relating to the care of the person of a child, and in particular the right to determine the child's place of residence;... 11. the term ``wrongful removal or retention '' shall mean a child's removal or retention where:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>it is in breach of rights of custody acquired by judgment or by operation of law or by an agreement having legal effect under the law of the Member State where the child was habitually resident immediately before the removal or retention; and</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>provided that, at the time of removal or retention, the rights of custody were actually exercised, either jointly or alone, or would have been so exercised but for the removal or retention. Custody shall be considered to be exercised jointly when, pursuant to a judgment or by operation of law, one holder of parental responsibility cannot decide on the child's place of residence without the consent of another holder of parental responsibility.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19415">
+          <num>11</num>
+          <content eId="para_19415__content">
+            <p>Article 11 of Regulation No 2201/2003, entitled `Return of the child', provides: `1.   Where a person, institution or other body having rights of custody applies to the competent authorities in a Member State to deliver a judgment on the basis of the [1980 Hague Convention], in order to obtain the return of a child that has been wrongfully removed or retained in a Member State other than the Member State where the child was habitually resident immediately before the wrongful removal or retention, paragraphs 2 to 8 shall apply.... 3.   A court to which an application for return of a child is made as mentioned in paragraph 1 shall act expeditiously in proceedings on the application, using the most expeditious procedures available in national law. Without prejudice to the first subparagraph, the court shall, except where exceptional circumstances make this impossible, issue its judgment no later than six weeks after the application is lodged.... 6.   If a court has issued an order on non-return pursuant to Article 13 of the 1980 Hague Convention, the court must immediately either directly or through its central authority, transmit a copy of the court order on non-return and of the relevant documents, in particular a transcript of the hearings before the court, to the court with jurisdiction or central authority in the Member State where the child was habitually resident immediately before the wrongful removal or retention, as determined by national law. The court shall receive all the mentioned documents within one month of the date of the non-return order. 7.   Unless the courts in the Member State where the child was habitually resident immediately before the wrongful removal or retention have already been seised by one of the parties, the court or central authority that receives the information mentioned in paragraph 6 must notify it to the parties and invite them to make submissions to the court, in accordance with national law, within three months of the date of notification so that the court can examine the question of custody of the child. Without prejudice to the rules on jurisdiction contained in this Regulation, the court shall close the case if no submissions have been received by the court within the time limit. 8.   Notwithstanding a judgment of non-return pursuant to Article 13 of the 1980 Hague Convention, any subsequent judgment which requires the return of the child issued by a court having jurisdiction under this Regulation shall be enforceable ... in order to secure the return of the child.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19416">
+          <num>12</num>
+          <content eId="para_19416__content">
+            <p>Article 19 of Regulation No 2201/2003, relating to lis pendens, provides, in paragraphs 2 and 3: `2.   Where proceedings relating to parental responsibility relating to the same child and involving the same cause of action are brought before courts of different Member States, the court second seised shall of its own motion stay its proceedings until such time as the jurisdiction of the court first seised is established. 3.   Where the jurisdiction of the court first seised is established, the court second seised shall decline jurisdiction in favour of that court. In that case, the party who brought the relevant action before the court second seised may bring that action before the court first seised.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19417">
+          <num>13</num>
+          <content eId="para_19417__content">
+            <p>Article 20 of Regulation No 2201/2003 provides: `1.   In urgent cases, the provisions of this Regulation shall not prevent the courts of a Member State from taking such provisional, including protective, measures in respect of persons or assets in that State as may be available under the law of that Member State, even if, under this Regulation, the court of another Member State has jurisdiction as to the substance of the matter. 2.   The measures referred to in paragraph 1 shall cease to apply when the court of the Member State having jurisdiction under this Regulation as to the substance of the matter has taken the measures it considers appropriate.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19418">
+          <num>14</num>
+          <content eId="para_19418__content">
+            <p>Article 23 of that regulation, entitled `Grounds of non-recognition for judgments relating to parental responsibility', sets out the circumstances in which a judgment relating to parental responsibility is not to be recognised.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19419">
+          <num>15</num>
+          <content eId="para_19419__content">
+            <p>In accordance with Article 26 of that regulation, a judgment relating to parental responsibility may under no circumstances be reviewed as to its substance.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19420">
+          <num>16</num>
+          <content eId="para_19420__content">
+            <p>In Section 2 of Chapter III of Regulation No 2201/2003, Article 28, entitled `Enforceable judgments', provides: `1.   A judgment on the exercise of parental responsibility in respect of a child given in a Member State which is enforceable in that Member State and has been served shall be enforced in another Member State when, on the application of any interested party, it has been declared enforceable there....'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19421">
+          <num>17</num>
+          <content eId="para_19421__content">
+            <p>Under Article 31 of Regulation No 2201/2003: `1.   The court applied to [for a declaration of enforceability] shall give its decision without delay. Neither the person against whom enforcement is sought, nor the child shall, at this stage of the proceedings, be entitled to make any submissions on the application. 2.   The application may be refused only for one of the reasons specified in Articles 22, 23 and 24. 3.   Under no circumstances may a judgment be reviewed as to its substance.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19422">
+          <num>18</num>
+          <content eId="para_19422__content">
+            <p>Article 33 of Regulation No 2201/2003, entitled `Appeal against the decision', provides: `1.   The decision on the application for a declaration of enforceability may be appealed against by either party.... 3.   The appeal shall be dealt with in accordance with the rules governing procedure in contradictory matters.... 5.   An appeal against a declaration of enforceability must be lodged within one month of service thereof. If the party against whom enforcement is sought is habitually resident in a Member State other than that in which the declaration of enforceability was given, the time for appealing shall be two months and shall run from the date of service, either on him or at his residence. No extension of time may be granted on account of distance.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19423">
+          <num>19</num>
+          <content eId="para_19423__content">
+            <p>Article 60 of Regulation No 2201/2003 states: `In relations between Member States, this Regulation shall take precedence over the following Conventions in so far as they concern matters governed by this Regulation:...</p>
+            <blockList>
+              <item>
+                <num>(e)</num>
+                <p>the Hague Convention of 25 October 1980 on the Civil Aspects of International Child Abduction.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Irish law</p>
+        </tblock>
+        <paragraph eId="para_19424">
+          <num>20</num>
+          <content eId="para_19424__content">
+            <p>As is evident from the request for a preliminary ruling in Case C‑325/18, Order 42A of the Rules of the Superior Courts, inserted by Statutory Instrument No 9 of 2016 (Rules of the Superior Courts (Jurisdiction, Recognition and Enforcement of Judgments) 2016), provided, as originally enacted in 1989, for execution of the enforcement order to be automatically stayed pending the outcome of any appeal. However, the automatic stay rule was not considered appropriate in cases coming within the scope of Regulation No 2201/2003. Order 42A, rule 10(2)(ii) now provides that `execution of the judgment or decision may issue before the expiration' of the relevant appeal period.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19425">
+          <num>21</num>
+          <content eId="para_19425__content">
+            <p>In accordance with Order 42A, rule 10(2)(iii) of the Rules of the Superior Courts, the order providing for enforcement must contain a notification that `execution of the judgment or decision may be stayed on application to the Court in the event of an ordinary appeal in the Member State of origin'.</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_19426">
+          <num>22</num>
+          <content eId="para_19426__content">
+            <p>The parents concerned, who are British nationals, married and who lived together in the United Kingdom, arrived in Ireland by ferry on 5 September 2017 with the three children, one of whom had been born two days previously. Ms E. is the mother of all three children and Mr E. is the father of only the youngest of the three children.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19427">
+          <num>23</num>
+          <content eId="para_19427__content">
+            <p>The two older children had been the subject of interim care orders made in the United Kingdom in June 2017. Concerns had already been expressed by HCC regarding this family, including the standards of hygiene within the home, the parents' capacity to manage their children's behaviour, domestic violence in previous relationships and substance abuse. It also appeared that one child had suffered a non-accidental injury, and the possibility that Mr E. was the perpetrator could not be excluded.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19428">
+          <num>24</num>
+          <content eId="para_19428__content">
+            <p>On 8 September 2017, owing to the concerns of the United Kingdom public authorities about the children's safety, the High Court of Justice (England and Wales) (United Kingdom) issued an order making the three children wards of court, attributing rights of custody to HCC ( `the wardship order') and incorporating an order that the three children be returned ( `the return order').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19429">
+          <num>25</num>
+          <content eId="para_19429__content">
+            <p>On the same day, HCC had contacted its counterpart in Ireland, the Child and Family Agency ( `the CFA'), informing the CFA of HCC's intention to seek an order from the High Court (England and Wales) providing for the return of the three children. The CFA replied that such an order would need to be enforced under Regulation No 2201/2003. Later that same day, HCC informed the CFA that the return order had been made that day by the High Court (England and Wales).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19430">
+          <num>26</num>
+          <content eId="para_19430__content">
+            <p>Several visits were made to the home of family E. in Ireland, but the CFA found nothing of concern with regard to the children. The parents concerned notified the CFA that they had been advised to travel to Ireland to avoid the social services and to prevent the three children being taken into care.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19431">
+          <num>27</num>
+          <content eId="para_19431__content">
+            <p>The CFA informed the parents concerned that it would be applying for an interim care order in respect of the three children on the basis of the information which had been received from HCC. It also informed them that HCC might apply to the High Court (Ireland) to have the return order in respect of the three children recognised, and that if that application were successful, the three children would then be returned to the United Kingdom.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19432">
+          <num>28</num>
+          <content eId="para_19432__content">
+            <p>On 14 September 2017, the District Court (Ireland) granted interim care orders in respect of the three children in favour of the CFA, which placed them in foster care accommodation. The parents concerned consented to that temporary placement on a without prejudice basis. A care plan meeting was arranged by the CFA with those parents. They were expressly informed that HCC intended to have the return order which had just been made by the High Court (England and Wales) enforced by means of an ex parte application to the High Court (Ireland) so that the children would be returned to the United Kingdom.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19433">
+          <num>29</num>
+          <content eId="para_19433__content">
+            <p>On 21 September 2017, the High Court (Ireland) made an order pursuant to Chapter III of Regulation No 2201/2003 recognising the wardship order and ordering that that decision `be enforced in this jurisdiction' ( `the ex parte order'). On the same day, the three children were handed over to HCC social workers and returned to the United Kingdom.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19434">
+          <num>30</num>
+          <content eId="para_19434__content">
+            <p>HCC social services had expressly requested their Irish counterparts not to contact the parents concerned because they were considered to be a flight risk. The parents concerned were therefore informed by telephone only subsequently, that is to say, on the very day on which the three children were returned, and the ex parte order was not formally served on them until the following day.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19435">
+          <num>31</num>
+          <content eId="para_19435__content">
+            <p>The parents concerned endeavoured to appeal against the wardship order but permission to appeal was refused on 9 October 2017 by the Court of Appeal (England and Wales).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19436">
+          <num>32</num>
+          <content eId="para_19436__content">
+            <p>On 24 November 2017, they brought an appeal in the High Court (Ireland) against the ex parte order. On 18 January 2018, that appeal, which had been lodged two days after the period prescribed in Article 33(5) of Regulation No 2201/2003 had expired, was dismissed as being out of time, on the ground that the time limit laid down in that provision was mandatory and that the court seised had no jurisdiction to extend it. They appealed against that decision to the referring court.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19437">
+          <num>33</num>
+          <content eId="para_19437__content">
+            <p>In those circumstances, the Court of Appeal (Ireland), in Case C‑325/18, decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Where it is alleged that children have been wrongfully taken from the country of their habitual residence by their parents and/or other family members in breach of a court order obtained by a public authority of that State, may that public authority apply to have any court order directing the return of the children to that jurisdiction enforced in the courts of another Member State pursuant to the provisions of Chapter III of [Regulation No 2201/2003] or would this amount to a wrongful circumvention of Article 11 of that Regulation and the 1980 Hague Convention or otherwise amount to an abuse of rights or law on the part of the authority concerned?</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>In a case concerning the enforcement provisions of [Regulation No 2201/2003] is there a jurisdiction to extend time for the purposes of Article 33(5) where the delays are essentially de minimis and an extension of time would otherwise have been granted by reference to national procedural law?</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>Without prejudice to question 2 where a foreign public authority removes the children, the subject matter of the dispute, from the jurisdiction of a Member State pursuant to an enforcement order made ex parte in accordance with Article 31 of [Regulation No 2201/2003] but before the service of such order on the parents thereby depriving them of their rights to apply for a stay of such an order pending an appeal, does such conduct compromise the essence of parents' entitlement under Article 6 [of the Convention for the Protection of Human Rights and Fundamental Freedoms, signed in Rome on 4 November 1950] or Article 47 of the Charter such that an extension of time (for the purposes of Article 33(5) of that Regulation) should otherwise be granted?'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19438">
+          <num>34</num>
+          <content eId="para_19438__content">
+            <p>The parents concerned subsequently applied to the referring court for interlocutory relief in order to suspend adoption proceedings in respect of the three children.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19439">
+          <num>35</num>
+          <content eId="para_19439__content">
+            <p>HCC communicated its intention to proceed with the adoption of only the youngest child, since the two other children are currently residing in the United Kingdom with the father of one of those children.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19440">
+          <num>36</num>
+          <content eId="para_19440__content">
+            <p>HCC was named as a `party' to the main proceedings but did not take part in those proceedings before the referring court and did not exercise its rights to be heard in that court.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19441">
+          <num>37</num>
+          <content eId="para_19441__content">
+            <p>In those circumstances, the Court of Appeal (Ireland), in Case C‑375/18, decided to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling: `[Is it] compatible with EU law and, specifically, the provisions of [Regulation No 2201/2003], for the courts of one Member State to grant an interlocutory injunction (protective measures) directed in personam at the public body of another Member State preventing that body arranging for the adoption of children in the courts of that other Member State where the in personam injunction arises from the necessity to protect the rights of the parties in enforcement proceedings arising under Chapter III of the 2003 Regulation?'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19442">
+          <num>38</num>
+          <content eId="para_19442__content">
+            <p>By decision of the President of the Court of 11 June 2018, Cases C‑325/18 and C‑375/18 were joined for the purposes of the written and oral procedure and the judgment.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The urgent preliminary ruling procedure</p>
+        </tblock>
+        <paragraph eId="para_19443">
+          <num>39</num>
+          <content eId="para_19443__content">
+            <p>The referring court requested that the present reference for a preliminary ruling be dealt with under the urgent procedure provided for in Article 107 of the Rules of Procedure of the Court.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19444">
+          <num>40</num>
+          <content eId="para_19444__content">
+            <p>In support of its request, it emphasises the urgency in Case C‑325/18 in view of the process for the adoption of the children with which HCC is said to be proceeding and to which the mother of the three children is opposed. In the case of the youngest child, the father of that child is also opposed to the child's adoption.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19445">
+          <num>41</num>
+          <content eId="para_19445__content">
+            <p>Moreover, the referring court states that the request for an urgent preliminary ruling in Case C‑375/18 arises from interlocutory proceedings the effectiveness of which would be negated if the urgent preliminary ruling procedure is not applied by the Court.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19446">
+          <num>42</num>
+          <content eId="para_19446__content">
+            <p>In that regard, it must be observed, in the first place, that this reference for a preliminary ruling concerns the interpretation of Regulation No 2201/2003 which was adopted on the basis, inter alia, of Article 61(c) EC, now Article 67 TFEU, which is within Title V of Part Three of the FEU Treaty, on the area of freedom, security and justice. Consequently, it may be dealt with under the urgent preliminary ruling procedure.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19447">
+          <num>43</num>
+          <content eId="para_19447__content">
+            <p>In the second place, it should be noted that the cases at issue in the main proceedings concern three children under the age of six who have been separated from their mother for almost a year, and that HCC has taken steps in the United Kingdom to have the youngest child adopted.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19448">
+          <num>44</num>
+          <content eId="para_19448__content">
+            <p>In those circumstances, on 11 June 2018 the First Chamber of the Court, acting on a proposal from the Judge-Rapporteur and after hearing the Advocate General, decided to accede to the referring court's request that the present reference for a preliminary ruling be dealt with under the urgent preliminary ruling procedure.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the questions referred</p>
+        </tblock>
+        <tblock>
+          <p>The first question in Case C‑325/18</p>
+        </tblock>
+        <paragraph eId="para_19449">
+          <num>45</num>
+          <content eId="para_19449__content">
+            <p>By its first question, the referring court asks, in essence, whether the general provisions of Chapter III of Regulation No 2201/2003 must be interpreted as meaning that, where it is alleged that children have been wrongfully removed, the decision of a court of the Member State in which the children were habitually resident, directing that those children be returned, may be declared enforceable in the host Member State in accordance with those general provisions.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19450">
+          <num>46</num>
+          <content eId="para_19450__content">
+            <p>The referring court asks, in particular, whether HCC should have exhausted the legal remedies available under the 1980 Hague Convention in the host Member State before seeking, as it did, recognition and enforcement of the wardship order under Chapter III of Regulation No 2201/2003.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19451">
+          <num>47</num>
+          <content eId="para_19451__content">
+            <p>In the first place, it must be stated that, although that regulation aims, as is apparent from its preamble, to create a judicial area based on the principle of mutual recognition of judicial decisions by setting out rules on jurisdiction, recognition and enforcement of judgments in matters of parental responsibility, whereas the object of the 1980 Hague Convention is, according to Article 1(a) thereof, to secure the prompt return of children wrongfully removed to or retained in any Contracting State, there is a close link between the two instruments which, in essence, have the common objective of deterring child abductions between States and, in cases of abduction, obtaining the child's prompt return to the State of the child's habitual residence (see, to that effect, judgment of 11 July 2008, Rinau, C‑195/08 PPU, EU:C:2008:406, paragraphs 48 and 52).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19452">
+          <num>48</num>
+          <content eId="para_19452__content">
+            <p>It must be noted that recital 17 of Regulation No 2201/2003 highlights the complementary nature of that regulation by stating that it complements the provisions of the 1980 Hague Convention, which nevertheless remains applicable.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19453">
+          <num>49</num>
+          <content eId="para_19453__content">
+            <p>Article 34 of that convention further provides that it `shall not restrict the application of an international instrument in force between the State of origin and the State addressed or other law of the State addressed for the purposes of obtaining the return of a child who has been wrongfully removed or retained or of organising access rights'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19454">
+          <num>50</num>
+          <content eId="para_19454__content">
+            <p>The relationship between the two instruments in question is clarified in Article 11(1) of Regulation No 2201/2003, according to which the courts of a Member State must apply paragraphs 2 to 8 of that article to the return proceedings provided for by the 1980 Hague Convention.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19455">
+          <num>51</num>
+          <content eId="para_19455__content">
+            <p>It must be pointed out that those provisions do not require a person, body or authority, where the international abduction of a child is alleged, to rely on the 1980 Hague Convention in applying for that child's prompt return in the State of the child's habitual residence.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19456">
+          <num>52</num>
+          <content eId="para_19456__content">
+            <p>That interpretation is borne out by Article 60 of Regulation No 2201/2003, from which it is apparent that that regulation is to take precedence over the 1980 Hague Convention (judgment of 11 July 2008, Rinau, C‑195/08 PPU, EU:C:2008:406, paragraph 54).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19457">
+          <num>53</num>
+          <content eId="para_19457__content">
+            <p>Thus, a holder of parental responsibility may apply for the recognition and enforcement, in accordance with the provisions of Chapter III of Regulation No 2201/2003, of a decision relating to parental authority and the return of children that has been made by a court having jurisdiction under Chapter II, Section 2, of Regulation No 2201/2003, even if that holder of parental responsibility has not submitted an application for return based on the 1980 Hague Convention.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19458">
+          <num>54</num>
+          <content eId="para_19458__content">
+            <p>In the second place, the Court must examine whether the return order falls within the scope ratione materiae of that regulation, which C.E. disputes.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19459">
+          <num>55</num>
+          <content eId="para_19459__content">
+            <p>It is clear from Article 1(1)(b) of Regulation No 2201/2003 that that regulation is to apply, whatever the nature of the court or tribunal, in civil matters relating, inter alia, to the attribution, exercise, delegation and restriction or termination of parental responsibility. In this connection, the expression `civil matters' must not be understood restrictively but as an autonomous concept of EU law, covering in particular all applications, measures or decisions in matters of `parental responsibility' within the meaning of that regulation, in accordance with the objective stated in recital 5 in its preamble (judgment of 21 October 2015, Gogova, C‑215/15, EU:C:2015:710, paragraph 26).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19460">
+          <num>56</num>
+          <content eId="para_19460__content">
+            <p>Article 1(2)(a) to (d) of Regulation No 2201/2003 states that matters relating to parental responsibility may, in particular, deal with rights of custody, guardianship, the designation and functions of any person or body having charge of the child's person or property, representing or assisting the child and the placement of the child in a foster family or in institutional care.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19461">
+          <num>57</num>
+          <content eId="para_19461__content">
+            <p>The concept of `parental responsibility' is given a broad definition in Article 2(7) of Regulation No 2201/2003, in that it includes all rights and duties relating to the person or the property of a child which are given to a natural or legal person by judgment, by operation of law or by an agreement having legal effect (judgments of 27 November 2007, C, C‑435/06, EU:C:2007:714, paragraph 49, and of 26 April 2012, Health Service Executive, C‑92/12 PPU, EU:C:2012:255, paragraph 59).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19462">
+          <num>58</num>
+          <content eId="para_19462__content">
+            <p>It must be noted that the exercise by a court of its wardship jurisdiction involves the exercise of rights in relation to the welfare and education of the children that would ordinarily be exercised by the parents, for the purposes of Article 1(2)(a) of Regulation No 2201/2003, or aspects of guardianship and curatorship, within the meaning of Article 1(2)(b) of that regulation. As the referring court pointed out, the transfer of the right of custody to an administrative authority also falls within the scope of that regulation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19463">
+          <num>59</num>
+          <content eId="para_19463__content">
+            <p>It is apparent in that regard from the request for a preliminary ruling that the ex parte order, made by the High Court (Ireland) in accordance with Chapter III of Regulation No 2201/2003, recognised the wardship order and declared it enforceable in Ireland.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19464">
+          <num>60</num>
+          <content eId="para_19464__content">
+            <p>It is common ground that the application for the return of the three children was not based on the 1980 Hague Convention and that the operative part of the wardship order has a number of elements, including an order that those children be made wards of court and the return order. It thus appears that the latter is entailed by the decision relating to parental responsibility and is indissociable from it.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19465">
+          <num>61</num>
+          <content eId="para_19465__content">
+            <p>It follows from this that a decision making children wards of court and directing that those children be returned, such as that at issue in the main proceedings, authorisation for the enforcement of which was sought from the High Court (Ireland), relates to the attribution and/or exercise and/or restriction of parental responsibility, within the meaning of Article 1(1) of Regulation No 2201/2003, and that it deals with `rights of custody' and/or `guardianship', within the meaning of paragraph 2 of that article. Consequently, such a decision falls within the scope ratione materiae of that regulation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19466">
+          <num>62</num>
+          <content eId="para_19466__content">
+            <p>Having regard to the above, the answer to the first question is that the general provisions of Chapter III of Regulation No 2201/2003 must be interpreted as meaning that, where it is alleged that children have been wrongfully removed, the decision of a court of the Member State in which those children were habitually resident, directing that those children be returned and which is entailed by a decision dealing with parental responsibility, may be declared enforceable in the host Member State in accordance with those general provisions.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The second and third questions in Case C‑325/18</p>
+        </tblock>
+        <paragraph eId="para_19467">
+          <num>63</num>
+          <content eId="para_19467__content">
+            <p>By its second and third questions, which it is appropriate to examine together, the referring court asks, in essence, whether Article 33(1) of Regulation No 2201/2003, read in the light of Article 47 of the Charter, must be interpreted as precluding, in a situation such as that at issue in the main proceedings, enforcement of a decision of a court of a Member State which directs that children be made wards of court and that they be returned and which is declared enforceable in the requested Member State, prior to service of the declaration of enforceability of that decision on the parents concerned, and whether the time limit for lodging an appeal laid down in Article 33(5) of that regulation must be invoked against the person against whom enforcement of that decision was sought.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19468">
+          <num>64</num>
+          <content eId="para_19468__content">
+            <p>As is apparent from the request for a preliminary ruling, Order 42A, rule 10(2)(ii) of the Rules of the Superior Courts provides that `execution of the judgment or decision may issue before the expiration' of the period within which an appeal may be made.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19469">
+          <num>65</num>
+          <content eId="para_19469__content">
+            <p>The Court has ruled that, in order to ensure that the requirement under Article 31 of Regulation No 2201/2003 that there be no delay cannot be undermined by the suspensive effect of an appeal brought against a decision on a declaration of enforceability, a placement order is to become enforceable at the point in time when the court of the requested Member State declares, in accordance with Article 31, that that order is enforceable (judgment of 26 April 2012, Health Service Executive, C‑92/12 PPU, EU:C:2012:255, paragraph 125). The Court thus ruled that, in order not to deprive Regulation No 2201/2003 of its effectiveness, the decision of the court of the requested Member State on an application for a declaration of enforceability must be taken with particular expedition, and appeals brought against such a decision of the court of the requested Member State must not have a suspensive effect (judgment of 26 April 2012, Health Service Executive, C‑92/12 PPU, EU:C:2012:255, paragraph 129).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19470">
+          <num>66</num>
+          <content eId="para_19470__content">
+            <p>That statement has no bearing, however, on the -- separate -- question as to whether a decision that has been declared enforceable at the stage of ex parte proceedings may be enforced before it has been served.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19471">
+          <num>67</num>
+          <content eId="para_19471__content">
+            <p>In that regard, it must be observed that the wording of Article 33 of Regulation No 2201/2003 does not, in itself, enable an answer to be given to the questions raised.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19472">
+          <num>68</num>
+          <content eId="para_19472__content">
+            <p>Although that article provides that the period for bringing an appeal against an enforcement decision starts to run from the date of service of that decision, it does not clarify whether enforcement may take place prior to service.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19473">
+          <num>69</num>
+          <content eId="para_19473__content">
+            <p>It must be noted in that regard that the requirement that the decision authorising enforcement be served has a dual function: on the one hand, it serves to protect the rights of the party against whom enforcement is sought and, on the other, it allows, in terms of evidence, the strict and mandatory time limit for appealing provided for in Article 33 of Regulation No 2201/2003 to be calculated precisely (see, by analogy, judgment of 16 February 2006, Verdoliva, C‑3/05, EU:C:2006:113, paragraph 34).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19474">
+          <num>70</num>
+          <content eId="para_19474__content">
+            <p>That requirement of service, with the associated transmission of information about an appeal, ensures that the party against whom enforcement is sought has a right to an effective remedy. Thus, in order to justify the conclusion that it was possible for the party concerned to commence proceedings to challenge a decision authorising enforcement, as provided for in Article 33 of Regulation No 2201/2003, that party must have been aware of the contents of that decision, which presupposes that it was served on that party (see, by analogy, judgment of 14 December 2006, ASML, C‑283/05, EU:C:2006:787, paragraph 40).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19475">
+          <num>71</num>
+          <content eId="para_19475__content">
+            <p>It is apparent in that respect from the request for a preliminary ruling that, in accordance with Order 42A, rule 10(2)(iii) of the Rules of the Superior Courts, the order providing for enforcement must contain a notification that `execution of the judgment or decision may be stayed on application to the Court in the event of an ordinary appeal in the Member State of origin'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19476">
+          <num>72</num>
+          <content eId="para_19476__content">
+            <p>The possibility of applying, in accordance with national law, for such a decision to be stayed constitutes an essential safeguard of the fundamental right to an effective remedy and, more generally, of the rights of the defence, which may be granted, in particular, if enforcement of a decision carries a risk of manifestly excessive consequences.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19477">
+          <num>73</num>
+          <content eId="para_19477__content">
+            <p>In those circumstances, while, as the Advocate General noted in point 119 of her Opinion, the person against whom enforcement is sought must have the opportunity to lodge an appeal in order to be able to raise, in particular, one of the grounds of non-recognition set out in Article 23 of the regulation, it must be noted that enforcement of the return order, before the order had even been served on the parents concerned, prevented them from challenging in good time the `declaration of enforceability' within the meaning of Article 33(5) of Regulation No 2201/2003, and, in any event, from applying for a stay of the order.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19478">
+          <num>74</num>
+          <content eId="para_19478__content">
+            <p>It must also be noted that, at the hearing before this Court, HCC argued that the prompt enforcement of the decision was rendered necessary by a `general flight risk'. It should be pointed out, however, that the children had been placed in foster accommodation in Ireland since 14 September 2017. Consequently, enforcement of the decision ordering their return to the United Kingdom does not appear to have been characterised by a particular urgency.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19479">
+          <num>75</num>
+          <content eId="para_19479__content">
+            <p>In those circumstances, it must be held that enforcement of a decision of a court of a Member State, which directs that children be made wards of court and that they be returned and which is declared enforceable in the requested Member State, prior to service of the declaration of enforceability of that decision on the parents concerned is contrary to Article 33(1) of Regulation No 2201/2003, read in the light of Article 47 of the Charter.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19480">
+          <num>76</num>
+          <content eId="para_19480__content">
+            <p>The referring court also asks whether, in those circumstances, Article 33(5) of Regulation No 2201/2003 must be interpreted as meaning that the period for bringing an appeal laid down in that provision must be invoked against the parents concerned.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19481">
+          <num>77</num>
+          <content eId="para_19481__content">
+            <p>In that regard, it should be borne in mind that, according to settled case-law, in general, limitation periods fulfil the function of ensuring legal certainty (judgment of 7 July 2016, Lebek, C‑70/15, EU:C:2016:524, paragraph 55 and the case-law cited). In addition, it is also consistent with a child's best interests for decisions concerning that child to be open to challenge only for a limited period.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19482">
+          <num>78</num>
+          <content eId="para_19482__content">
+            <p>In the case in the main proceedings, it is not disputed that the decision authorising enforcement was indeed served on the parents concerned.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19483">
+          <num>79</num>
+          <content eId="para_19483__content">
+            <p>Admittedly, since that decision was served after its enforcement, the parents were deprived of their right to seek a stay of the return order. However, that infringement of their rights of defence has no effect on the period for bringing an appeal which commenced when that decision was served.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19484">
+          <num>80</num>
+          <content eId="para_19484__content">
+            <p>In those circumstances, the period for bringing an appeal laid down in Article 33(5) of Regulation No 2201/2003 cannot therefore be extended by the court seised.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19485">
+          <num>81</num>
+          <content eId="para_19485__content">
+            <p>In view of the considerations in paragraph 75 of the present judgment, it is for the referring court to examine whether national law is such that it may withdraw the decision relating to the application for a declaration of enforceability previously made.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19486">
+          <num>82</num>
+          <content eId="para_19486__content">
+            <p>The answer, therefore, to the second and third questions is that Article 33(1) of Regulation No 2201/2003, read in the light of Article 47 of the Charter, must be interpreted as precluding, in a situation such as that at issue in the main proceedings, enforcement of a decision of a court of a Member State which directs that children be made wards of court and that they be returned and which is declared enforceable in the requested Member State, prior to service of the declaration of enforceability of that decision on the parents concerned. Article 33(5) of Regulation No 2201/2003 must be interpreted as meaning that the period for lodging an appeal laid down in that provision may not be extended by the court seised.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The question in Case C‑375/18</p>
+        </tblock>
+        <paragraph eId="para_19487">
+          <num>83</num>
+          <content eId="para_19487__content">
+            <p>By its fourth question, the referring court asks, in essence, whether Regulation No 2201/2003 must be interpreted as precluding, in a situation such as that at issue in the main proceedings, a court of one Member State from adopting protective measures in the form of an injunction directed at a public body of another Member State, preventing that body from commencing or continuing, before the courts of that other Member State, proceedings for the adoption of children who are residing there.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19488">
+          <num>84</num>
+          <content eId="para_19488__content">
+            <p>It must be recalled that Article 20 of Regulation No 2201/2003 enables the courts referred to therein to grant provisional, including protective, measures, provided that those courts do not base their jurisdiction, in relation to parental responsibility, on one of the articles in Section 2 of Chapter II of the regulation (judgment of 15 July 2010, Purrucker, C‑256/09, EU:C:2010:437, paragraph 63).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19489">
+          <num>85</num>
+          <content eId="para_19489__content">
+            <p>The authority of those courts to adopt provisional, including protective, measures is subject to three cumulative conditions, namely:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>the measures concerned must be urgent;</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>they must be taken in respect of persons or assets in the Member State where those courts are situated; and</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>they must be provisional (judgment of 15 July 2010, Purrucker, C‑256/09, EU:C:2010:437, paragraph 77 and the case-law cited).</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19490">
+          <num>86</num>
+          <content eId="para_19490__content">
+            <p>It follows that any judgment in which it is not clear that it has been adopted by a court which has or claims to have substantive jurisdiction does not necessarily fall within the scope of Article 20 of Regulation No 2201/2003, but falls within the scope of that provision solely where it satisfies the conditions laid down in Article 20 (judgment of 15 July 2010, Purrucker, C‑256/09, EU:C:2010:437, paragraph 78).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19491">
+          <num>87</num>
+          <content eId="para_19491__content">
+            <p>It must be noted that the application for an injunction at issue in the main proceedings does not relate to persons in the Member State in which the referring court is situated and does not, therefore, satisfy the condition referred to in paragraph 85 of the present judgment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19492">
+          <num>88</num>
+          <content eId="para_19492__content">
+            <p>It follows that a protective measure such as the injunction at issue in the main proceedings, for which application was made to the court of one Member State and which is directed at a public body of another Member State, preventing that body from commencing or continuing, before the courts of that other Member State, proceedings for the adoption of children who are residing there, does not fall within the scope of Article 20 of Regulation No 2201/2003.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19493">
+          <num>89</num>
+          <content eId="para_19493__content">
+            <p>The referring court also seeks to ascertain whether such an injunction would effectively prohibit HCC from seising the English courts having jurisdiction, and thus amount to a form of anti-suit injunction of the kind prohibited by the judgments of 27 April 2004, Turner ( C‑159/02, EU:C:2004:228), and of 10 February 2009, Allianz and Generali Assicurazioni Generali ( C‑185/07, EU:C:2009:69).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19494">
+          <num>90</num>
+          <content eId="para_19494__content">
+            <p>The Court held in those judgments that an anti-suit injunction, that is to say, an injunction intended to prohibit a person from commencing or continuing proceedings before the courts of another Member State, was incompatible with the Convention concluded on 27 September 1968 on Jurisdiction and the Enforcement of Judgments in Civil and Commercial Matters ( OJ 1978 L 304, p. 36), and also with Council Regulation (EC) No 44/2001 of 22 December 2000 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters ( OJ 2001 L 12, p. 1), since such an injunction does not observe the principle that every court seised itself determines, under the rules applicable to it, whether it has jurisdiction to resolve the dispute before it. Such an interference with the jurisdiction of a court of another Member State is also incompatible with the system of mutual trust which forms the basis for the establishment of a mandatory system of jurisdiction which all courts falling within the scope of those legal instruments are required to respect (judgments of 27 April 2004, Turner, C‑159/02, EU:C:2004:228, paragraphs 24 and 25; of 10 February 2009, Allianz and Generali Assicurazioni Generali, C‑185/07, EU:C:2009:69, paragraphs 29 and 30; and of 13 May 2015, Gazprom, C‑536/13, EU:C:2015:316, paragraphs 33 and 34).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19495">
+          <num>91</num>
+          <content eId="para_19495__content">
+            <p>In the present case, it must be concluded, in accordance with that case-law, that Regulation No 2201/2003, in particular Article 26 thereof, does not enable an injunction to be granted that is intended to prevent HCC from commencing judicial proceedings in the United Kingdom in relation to the adoption of the children or to challenge the jurisdiction of the English courts in that respect.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19496">
+          <num>92</num>
+          <content eId="para_19496__content">
+            <p>However, it must be held that an injunction such as that sought by the parents concerned would, according to the information provided by the referring court and as noted by the Advocate General in points 153 and 154 of her Opinion, have neither the purpose nor the effect of preventing HCC from seising an English court in respect of the same subject matter as that of the dispute pending before the referring court, since a judicial adoption procedure commenced or continued in the United Kingdom has a subject matter and effects that are distinct from those of the proceedings based on Regulation No 2201/2003 concerning the return of the children and intended to preserve the right of appeal of the parents concerned.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19497">
+          <num>93</num>
+          <content eId="para_19497__content">
+            <p>Furthermore, according to the actual wording of Article 1(3)(b) of Regulation No 2201/2003, the decision on that adoption and the measures preparatory to it do not fall within the scope of the regulation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19498">
+          <num>94</num>
+          <content eId="para_19498__content">
+            <p>Having regard to all of the above, the answer to the fourth question is that Regulation No 2201/2003 must be interpreted as not precluding, in a situation such as that at issue in the main proceedings, a court of one Member State from adopting protective measures in the form of an injunction directed at a public body of another Member State, preventing that body from commencing or continuing, before the courts of that other Member State, proceedings for the adoption of children who are residing there.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_19499">
+          <num>95</num>
+          <content eId="para_19499__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the referring court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (First Chamber) hereby rules: 1. The general provisions of Chapter III of Council Regulation (EC) No 2201/2003 of 27 November 2003 concerning jurisdiction and the recognition and enforcement of judgments in matrimonial matters and the matters of parental responsibility, repealing Regulation (EC) No 1347/2000, must be interpreted as meaning that, where it is alleged that children have been wrongfully removed, the decision of a court of the Member State in which those children were habitually resident, directing that those children be returned and which is entailed by a decision dealing with parental responsibility, may be declared enforceable in the host Member State in accordance with those general provisions. 2. Article 33(1) of Regulation No 2201/2003, read in the light of Article 47 of the Charter of Fundamental Rights of the European Union, must be interpreted as precluding, in a situation such as that at issue in the main proceedings, enforcement of a decision of a court of a Member State which directs that children be made wards of court and that they be returned and which is declared enforceable in the requested Member State, prior to service of the declaration of enforceability of that decision on the parents concerned. Article 33(5) of Regulation No 2201/2003 must be interpreted as meaning that the period for lodging an appeal laid down in that provision may not be extended by the court seised. 3. Regulation No 2201/2003 must be interpreted as not precluding, in a situation such as that at issue in the main proceedings, a court of one Member State from adopting protective measures in the form of an injunction directed at a public body of another Member State, preventing that body from commencing or continuing, before the courts of that other Member State, proceedings for the adoption of children who are residing there.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>Silva de Lapuerta Fernlund Bonichot Arabadjiev Rodin Delivered in open court in Luxembourg on 19 September 2018. A. Calot Escobar Registrar R. Silva de Lapuerta President of the First Chamber( *1)Language of the case: English.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

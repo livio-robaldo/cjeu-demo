@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Seventh Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>7 August 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Taxation -- Common system of value added tax (VAT) -- Directive 2006/112/EC -- Article 401 -- Domestic taxes which can be characterised as turnover taxes -- Prohibition -- Concept of `turnover tax' -- Local sales tax -- Essential characteristics of VAT -- None) In Case C‑475/17, REQUEST for a preliminary ruling under Article 267 TFEU from the Riigikohus (Supreme Court, Estonia), made by decision of 1 August 2017, received at the Court on 8 August 2017, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">Viking Motors and Others TKM Beauty Eesti OÜ</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="appellant" refersTo="#">TKM King AS</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="appellant" refersTo="#">Kaubamaja AS</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="appellant" refersTo="#">Selver AS</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#">Tallinna linn</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="respondent" refersTo="#">Maksu- ja Tolliamet</party>
+      </p>
+      <p>, THE COURT (Seventh Chamber), composed of A. Rosas, President of the Chamber, C. Toader (Rapporteur) and E. Jarašiūnas, Judges, Advocate General: E. Sharpston, Registrar: A. Calot Escobar, having regard to the written procedure, after considering the observations submitted on behalf of</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>Viking Motors AS, TKM Beauty Eesti OÜ, TKM King AS, Kaubamaja AS and Selver AS, by E. Talur and L. Naaber-Kivisoo, vandeadvokaadid,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Tallinna linn, by T. Pikamäe, vandeadvokaat,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Polish Government, by B. Majczyna, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by J. Jokubauskaitė and K. Toomus, acting as Agents, having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_18498">
+          <num>1</num>
+          <content eId="para_18498__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Article 401 of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax ( OJ 2006 L 347, p. 1, `the VAT Directive').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18499">
+          <num>2</num>
+          <content eId="para_18499__content">
+            <p>The request has been made in proceedings between Viking Motors AS, TKM Beauty Eesti OÜ, TKM King AS, Kaubamaja AS and Selver AS, on the one hand, and the Tallinna linn (City of Tallinn, Estonia) and the Maksu- ja Tolliamet (tax and customs authority, Estonia, `the tax authority'), on the other, concerning the reimbursement of sales tax paid by those companies.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <tblock>
+          <p>The Sixth Directive</p>
+        </tblock>
+        <paragraph eId="para_18500">
+          <num>3</num>
+          <content eId="para_18500__content">
+            <p>Article 33(1) of the Sixth Council Directive 77/388/EEC of 17 May 1977 on the harmonisation of the laws of the Member States relating to turnover taxes -- Common system of value added tax: uniform basis of assessment ( OJ 1977 L 145 p. 1), as amended by Council Directive 91/680/CEE of 16 December 1991 ( OJ 1991 L 376, p. 1) ( `the Sixth Directive') provides: `Without prejudice to other Community provisions, in particular those laid down in the Community provisions in force relating to the general arrangements for the holding, movement and monitoring of products subject to excise duty, this Directive shall not prevent a Member State from maintaining or introducing taxes on insurance contracts, taxes on betting and gambling, excise duties, stamp duties and, more generally, any taxes, duties or charges which cannot be characterized as turnover taxes, provided however that those taxes, duties or charges do not, in trade between Member States, give rise to formalities connected with the crossing of frontiers.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The VAT Directive</p>
+        </tblock>
+        <paragraph eId="para_18501">
+          <num>4</num>
+          <content eId="para_18501__content">
+            <p>Recitals 4 and 7 of the VAT Directive state: `</p>
+            <blockList>
+              <item>
+                <num>(4)</num>
+                <p>The attainment of the objective of establishing an internal market presupposes the application in Member States of legislation on turnover taxes that does not distort conditions of competition or hinder the free movement of goods and services. It is therefore necessary to achieve such harmonisation of legislation on turnover taxes by means of a system of value added tax (VAT), such as will eliminate, as far as possible, factors which may distort conditions of competition, whether at national or Community level. ...</p>
+              </item>
+              <item>
+                <num>(7)</num>
+                <p>The common system of VAT should, even if rates and exemptions are not fully harmonised, result in neutrality in competition, such that within the territory of each Member State similar goods and services bear the same tax burden, whatever the length of the production and distribution chain.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18502">
+          <num>5</num>
+          <content eId="para_18502__content">
+            <p>Article 401 of the VAT Directive provides: `Without prejudice to other provisions of Community law, this Directive shall not prevent a Member State from maintaining or introducing taxes on insurance contracts, taxes on betting and gambling, excise duties, stamp duties or, more generally, any taxes, duties or charges which cannot be characterised as turnover taxes, provided that the collecting of those taxes, duties or charges does not give rise, in trade between Member States, to formalities connected with the crossing of frontiers.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Estonian law</p>
+        </tblock>
+        <paragraph eId="para_18503">
+          <num>6</num>
+          <content eId="para_18503__content">
+            <p>In the version applicable to the dispute in the main proceedings, the kohalike maksude seadus (Law on local taxes) gives local authorities the right to introduce a tax on sales as a local tax.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18504">
+          <num>7</num>
+          <content eId="para_18504__content">
+            <p>Paragraph 8 of that law provided: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Sales tax shall be paid by sole traders and legal persons having a trading or service licence within the territory of a municipality or city. The sales tax, depending on the establishment, shall be paid by traders within the meaning of the kaubandustegevuse seadus [Law on commercial activity] who are registered in the register of economic activities and who conduct their activity in the field of retailing, catering or the provision of services.</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>Sales tax shall be charged on the value, in the sale price, of the goods and services sold in the territory of the municipality or city by the taxpayer. The sale price of the goods and services within the meaning of the present law is the taxable value, excluding the sales tax, of the ... turnover laid down in the käibemaksuseadus (Law on turnover tax).</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>The amount of the sales tax, which must not exceed 1% of the value, shall be established by the municipal or city council in the sale price of the goods and services referred to in subparagraph 2 of this paragraph.</p>
+              </item>
+              <item>
+                <num>(4)</num>
+                <p>The charging period for sales tax shall be the quarter.</p>
+              </item>
+              <item>
+                <num>(5)</num>
+                <p>The taxpayer shall:</p>
+                <blockList>
+                  <item>
+                    <num>(1)</num>
+                    <p>calculate the sales tax on the value of the goods and services sold by him in the territory of the municipality in accordance with the amount laid down in the council's tax regulation;</p>
+                  </item>
+                  <item>
+                    <num>(2)</num>
+                    <p>submit to the tax administrator determined in the council's decision, by the 20th day of the month succeeding the quarter, the tax declaration determined by the Ministry of Finance with respect to sales tax;</p>
+                  </item>
+                  <item>
+                    <num>(3)</num>
+                    <p>pay the sales tax into the budget of the local authority by the deadline for submission of the declaration.</p>
+                  </item>
+                </blockList>
+              </item>
+              <item>
+                <num>(6)</num>
+                <p>The executive of the municipality or city shall be entitled to grant abatements and exemptions from the sales tax on the conditions and in the cases determined by the council.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18505">
+          <num>8</num>
+          <content eId="para_18505__content">
+            <p>By Regulation No 45 of 17 December 2009 on the Tallinn sales tax ( `Regulation No 45'), the Tallinna Linnavolikogu (Tallinn City Council, Estonia) introduced a sales tax within the meaning of Paragraph 8 of the Law on local taxes. That tax came into force on 1 January 2010 and was applied until 1 January 2012.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18506">
+          <num>9</num>
+          <content eId="para_18506__content">
+            <p>In accordance with Paragraph 1(2) of Regulation No 45, that tax was levied on goods and services supplied in or from the territory of the city of Tallinn to any natural person in the fields of retailing, catering or the provision of services.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18507">
+          <num>10</num>
+          <content eId="para_18507__content">
+            <p>Paragraph 2 of that regulation, entitled `The taxpayer', provided: `Taxpayers are traders, within the meaning of the kaubandustegevuse seadus (Law on commercial activity), who satisfy all of the following conditions:</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>the trader is registered in the register of economic activity;</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>the trader's place of business is located in the territory of the city of Tallinn, according to the data in the register of economic activity;</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>the trader operates in the field of retailing, catering or the provision of services.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18508">
+          <num>11</num>
+          <content eId="para_18508__content">
+            <p>Under Paragraph 4 of Regulation No 45, entitled `Tax rate', the rate of the sales tax was set at 1% of the taxable value of the goods and services referred to in Paragraph 1(2) of that regulation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18509">
+          <num>12</num>
+          <content eId="para_18509__content">
+            <p>Paragraph 4 1 of that regulation, entitled `Point at which the tax liability arises', stated: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>The tax liability shall arise on the day on which the first of the following acts takes place:</p>
+                <blockList>
+                  <item>
+                    <num>(1)</num>
+                    <p>the goods are dispatched or made available to the purchaser, or the purchaser is provided with the service;</p>
+                  </item>
+                  <item>
+                    <num>(2)</num>
+                    <p>payment for the goods or service is received in full or in part;</p>
+                    <blockList>
+                      <item>
+                        <num>(2)</num>
+                        <p>Where services are provided as part of a permanent contractual relationship, the obligation to pay the tax arises in the charging period at the end of the period in which an invoice was drawn up or a payment was agreed for the provision of services, depending on the transaction concluded in the first place.</p>
+                      </item>
+                      <item>
+                        <num>(3)</num>
+                        <p>In order for the tax liability to arise, sole traders who use a cash accounting system may rely on receipt of payment for the goods or service.'</p>
+                      </item>
+                    </blockList>
+                  </item>
+                </blockList>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18510">
+          <num>13</num>
+          <content eId="para_18510__content">
+            <p>Paragraph 4 2 of Regulation No 45 provided: `The taxable value of goods or services subject to the sales tax shall be the sale price of the goods or service, or any other consideration (not including VAT), in accordance with Paragraph 12(1) of the Law on value added tax, which the seller of the goods or the provider of the service receives or has received from the purchaser of the goods, the recipient of the service or a third person for the goods or the service.'</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the question referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_18511">
+          <num>14</num>
+          <content eId="para_18511__content">
+            <p>Believing that they had unduly paid the sales tax introduced by Regulation No 45, the appellants in the main proceedings submitted to the Tallinna Ettevõtlusamet (Tallinn Enterprise Office, Estonia) adjusted returns for the last three quarters of 2010 and the four quarters of 2011, and requests for repayment of the amounts already paid for that tax.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18512">
+          <num>15</num>
+          <content eId="para_18512__content">
+            <p>In reply, the Tallinn Enterprise Office stated that the appellants in the main proceedings were liable to pay that sales tax and, by assessment notices, set the amount of the tax owed by each of them, only partially upholding their claims for repayment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18513">
+          <num>16</num>
+          <content eId="para_18513__content">
+            <p>The appellants in the main proceedings then filed a complaint with the tax authority, which, however, confirmed in essence that they were liable for the sales tax.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18514">
+          <num>17</num>
+          <content eId="para_18514__content">
+            <p>Believing, inter alia, that the sales tax infringed Article 401 of the VAT Directive, Viking Motors, TKM Beauty Eesti and TKM King, on the one hand, and Kaubamaja and Selver, on the other, brought actions before the Tallinna Halduskohus (Tallinn Administrative Court, Estonia), seeking, in essence, annulment of the assessment notices and the decisions of the tax authority concerning those notices, and an order that the tax authority repay the sales tax, together with interest.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18515">
+          <num>18</num>
+          <content eId="para_18515__content">
+            <p>By judgment of 31 March 2015, the Tallinna Halduskohus (Tallinn Administrative Court) dismissed the actions brought by Viking Motors, TKM Beauty Eesti and TKM King. With regard to the actions brought by Kaubamaja and Selver, by judgment of 24 July 2015, that court upheld their claims, but only in so far as the sales tax had been applied to sales of goods subject to excise duty.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18516">
+          <num>19</num>
+          <content eId="para_18516__content">
+            <p>The appellants in the main proceedings lodged an appeal against those judgments before the Tallinna Ringkonnakohus (Tallinn Court of Appeal, Estonia).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18517">
+          <num>20</num>
+          <content eId="para_18517__content">
+            <p>By judgments of 9 May and 30 June 2016, that court dismissed the appeals, adopting the grounds of the court of first instance and stating further that the case-law of the Court of Justice did not lack clarity with regard to the fact that a tax applicable in a Member State infringes Article 401 of the VAT Directive only if it corresponds to each of the four essential characteristics of VAT laid down by the Court.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18518">
+          <num>21</num>
+          <content eId="para_18518__content">
+            <p>The appellants in the main proceedings brought appeals on a point of law before the referring court, which joined the two cases by order of 10 May 2017.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18519">
+          <num>22</num>
+          <content eId="para_18519__content">
+            <p>The Riigikohus (Supreme Court, Estonia) considers that, even though, from a formal point of view, the sales tax at issue in the main proceedings did not have the third and fourth characteristics of VAT for the purposes of the case-law of the Court, since it is not charged at each stage of the production and distribution process and it does not give rise to a deduction of the tax paid at an earlier stage, the application of that sales tax, in essence, achieved the same objective as that which would have been achieved by virtue of the third and fourth characteristics. Thus, the fiscal burden of that sales tax was ultimately borne by the consumer.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18520">
+          <num>23</num>
+          <content eId="para_18520__content">
+            <p>The application of the sales tax could, according to the referring court, also adversely affect the operation of the common system of VAT, resulting in similar goods and services bearing a different tax burden at national level. Referring to the judgment of 5 March 2015, Statoil Fuel &amp; Retail ( C‑553/13, EU:C:2015:149) in which the Court held that the sales tax at issue in the main proceedings infringed Council Directive 2008/118/EC of 16 December 2008 concerning the general arrangements for excise duty and repealing Directive 92/12/EEC ( OJ 2009 L 9, p. 12) in so far as it was levied on retail sales of liquid fuel subject to excise duty, that court observes that, following that judgment, Estonian courts, as far as the taxation of goods subject to excise duty are concerned, upheld actions brought by taxpayers in disputes relating to the sales tax.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18521">
+          <num>24</num>
+          <content eId="para_18521__content">
+            <p>In those circumstances, the Riigikohus (Supreme Court) decided to stay the proceedings and to refer the following question to the Court for a preliminary ruling: `Is Article 401 of [the VAT] Directive to be interpreted as precluding a national tax which applies generally and is proportionate to the price, but which, pursuant to the relevant provisions, is to be levied only at the stage of the sale of goods or services to a consumer, with the result that the final tax burden rests ultimately with the consumer, and which compromises the operation of the common system of value added tax and distorts competition?'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the question referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_18522">
+          <num>25</num>
+          <content eId="para_18522__content">
+            <p>By its question, the referring court asks, in essence, whether Article 401 of the VAT Directive must be interpreted to the effect that it precludes the maintenance or introduction of a local sales tax such as the one at issue in the main proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18523">
+          <num>26</num>
+          <content eId="para_18523__content">
+            <p>In that respect, it must be recalled that, under Article 401 of the VAT Directive, the provisions of that directive do not prevent a Member State from maintaining or introducing taxes on insurance contracts, taxes on betting and gambling, excise duties, stamp duties or, more generally, any taxes, duties or charges which cannot be characterised as turnover taxes, provided that the collecting of those taxes, duties or charges does not give rise, in trade between Member States, to formalities connected with the crossing of frontiers.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18524">
+          <num>27</num>
+          <content eId="para_18524__content">
+            <p>A literal interpretation of that provision leads to the conclusion that, in view of the negative condition in the expression `cannot be characterised as turnover taxes', the maintenance or introduction by a Member State of taxes, duties or charges are authorised only on condition that they are not assimilated to a turnover tax.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18525">
+          <num>28</num>
+          <content eId="para_18525__content">
+            <p>Although the notion of a `turnover tax' is not defined in either Article 401 of the VAT Directive or any other provision of that directive, it must be pointed out that that article, the interpretation of which is sought by the referring court, is in essence identical to Article 33 of the Sixth Directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18526">
+          <num>29</num>
+          <content eId="para_18526__content">
+            <p>The Court, in particular in the judgment of 3 October 2006, Banca popolare di Cremona ( C‑475/03, EU:C:2006:629), interpreted Article 33 of the Sixth Directive, and specifically the term `turnover tax' which it contained, after placing it in its legislative context and recalling the aims pursued by the introduction of a common system of VAT.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18527">
+          <num>30</num>
+          <content eId="para_18527__content">
+            <p>Thus, the Court stated that it was already apparent from the preamble to First Council Directive 67/227/EEC of 11 April 1967 on the harmonisation of legislation of Member States concerning turnover taxes (OJ, English Special Edition 1967 (I), p. 14), that harmonisation of legislation concerning turnover taxes should make it possible to establish a common market within which there is healthy competition and whose characteristics are similar to those of a domestic market, by eliminating tax differences liable to distort competition and hinder trade (judgment of 3 October 2006, Banca popolare di Cremona, C‑475/03, EU:C:2006:629, paragraph 19).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18528">
+          <num>31</num>
+          <content eId="para_18528__content">
+            <p>A common system of VAT was introduced by Second Council Directive 67/228/EEC of 11 April 1967 on the harmonisation of legislation of Member States concerning turnover taxes -- Structure and procedures for application of the common system of value added tax (OJ, English Special Edition 1967 (I), p. 16) and by the Sixth Directive (judgment of 3 October 2006, Banca popolare di Cremona, C‑475/03, EU:C:2006:629, paragraph 20).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18529">
+          <num>32</num>
+          <content eId="para_18529__content">
+            <p>Under Article 2 of First Directive 67/227, the principle of the common system of VAT involves the application to goods and services, up to and including the retail trade stage, of a general tax on consumption exactly proportional to the price of the goods and services, whatever the number of transactions which take place in the production and distribution process before the stage at which tax is charged (judgment of 3 October 2006, Banca popolare di Cremona, C‑475/03, EU:C:2006:629, paragraph 21).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18530">
+          <num>33</num>
+          <content eId="para_18530__content">
+            <p>However, VAT is chargeable on each transaction only after deduction of the amount of VAT borne directly by the costs of the various price components of the goods and services. The procedure for deduction has been arranged by Article 17(2) of the Sixth Directive in such a way that taxable persons are authorised to deduct from the VAT for which they are liable the input VAT already charged on the goods or services and that the tax is charged, at each stage, only on the added value and is ultimately borne by the final consumer (see, to that effect, judgment of 3 October 2006, Banca popolare di Cremona, C‑475/03, EU:C:2006:629, paragraph 22).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18531">
+          <num>34</num>
+          <content eId="para_18531__content">
+            <p>In order to attain the objective of ensuring equal conditions of taxation for the same transaction, no matter in which Member State it is carried out, the common system of VAT was intended, according to the preamble to Second Directive 67/228, to replace the turnover taxes in force in the various Member States (judgment of 3 October 2006, Banca popolare di Cremona, C‑475/03, EU:C:2006:629, paragraph 23).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18532">
+          <num>35</num>
+          <content eId="para_18532__content">
+            <p>Article 33 of the Sixth Directive accordingly permitted a Member State to maintain or introduce taxes, duties or charges on the supply of goods, the provision of services or imports only if they could not be characterised as turnover taxes (see, to that effect, judgment of 3 October 2006, Banca popolare di Cremona, C‑475/03, EU:C:2006:629, paragraph 24).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18533">
+          <num>36</num>
+          <content eId="para_18533__content">
+            <p>In order to decide whether a tax, duty or charge can be characterised as a turnover tax within the meaning of Article 401 of the VAT Directive, it is necessary, in particular, to determine whether it has the effect of jeopardising the functioning of the common system of VAT by being levied on the movement of goods and services and on commercial transactions in a way comparable to VAT (see, by analogy, judgment of 11 October 2007, KÖGÁZ and Others, C‑283/06 and C‑312/06, EU:C:2007:598, paragraph 34 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18534">
+          <num>37</num>
+          <content eId="para_18534__content">
+            <p>The Court has stated in this regard that taxes, duties and charges must in any event be regarded as being imposed on the movement of goods and services in a way comparable to VAT if they exhibit the essential characteristics of VAT, even if they are not identical to it in every way (judgment of 3 October 2006, Banca popolare di Cremona, C‑475/03, EU:C:2006:629, paragraph 26 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18535">
+          <num>38</num>
+          <content eId="para_18535__content">
+            <p>It has been held that Article 33 of the Sixth Directive does not, on the other hand, preclude the maintenance or introduction of a tax which does not display one of the essential characteristics of VAT (judgment of 3 October 2006, Banca popolare di Cremona, C‑475/03, EU:C:2006:629, paragraph 27 and the case-law cited). The same holds true as regards Article 401 of the VAT Directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18536">
+          <num>39</num>
+          <content eId="para_18536__content">
+            <p>It appears from the case-law that there are four such characteristics, that is to say, VAT applies generally to transactions relating to goods or services; it is proportional to the price charged by the taxable person in return for the goods and services which he has supplied; it is charged at each stage of the production and distribution process, including that of retail sale, irrespective of the number of transactions which have previously taken place, and the amounts paid during the preceding stages of the production and distribution process are deducted from the VAT payable by a taxable person, with the result that the tax applies, at any given stage, only to the value added at that stage and the final burden of that tax rests ultimately on the consumer (judgment of 3 October 2006, Banca popolare di Cremona, C‑475/03, EU:C:2006:629, paragraph 28).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18537">
+          <num>40</num>
+          <content eId="para_18537__content">
+            <p>It is therefore necessary to examine whether a tax, such as the sales tax at issue in the main proceedings, has such characteristics. It should be noted that, although the Court held in the judgment of 5 March 2015, Statoil Fuel &amp; Retail ( C‑553/13, EU:C:2015:149) that that tax did not comply with EU law, the case in the main proceedings concerns the compatibility of that tax, not with the general arrangements for excise duty, but with the common system of VAT.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18538">
+          <num>41</num>
+          <content eId="para_18538__content">
+            <p>In order to prevent outcomes which are inconsistent with the objective pursued by the common system of VAT as set out in paragraphs 31 to 37 above, any comparison of the characteristics of a tax such as the sales tax at issue in the main proceedings, with those of VAT must be made in the light of that objective. In that connection, particular attention must be paid to the need to safeguard the neutrality of the common system of VAT at all times (see, to that effect, judgment of 3 October 2006, Banca popolare di Cremona, C‑475/03, EU:C:2006:629, paragraph 29).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18539">
+          <num>42</num>
+          <content eId="para_18539__content">
+            <p>In the present case, with regard to the third and fourth essential conditions for VAT, that is to say, the collection of the tax at each stage of the production and distribution process and the existence of a right to deduct the tax paid at an earlier stage of that process, it must be stated that, as the referring court itself is aware, the tax at issue in the main proceedings does not satisfy those conditions.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18540">
+          <num>43</num>
+          <content eId="para_18540__content">
+            <p>That circumstance is sufficient to conclude that, where the sales tax at issue in the main proceedings does not satisfy the essential characteristics of VAT, it will therefore avoid the prohibition laid down in Article 401 of the VAT Directive (see, by analogy, order of 12 October 2017, Palais Kaiserkron, C‑549/16, not published, EU:C:2017:761, paragraph 21).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18541">
+          <num>44</num>
+          <content eId="para_18541__content">
+            <p>However, the referring court states that the application of that tax, in essence, fulfils the same objective as that of the third and fourth essential characteristics of VAT, since the final burden of that tax rests ultimately on the consumer.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18542">
+          <num>45</num>
+          <content eId="para_18542__content">
+            <p>In that regard, it must be pointed out, as is apparent from the file before the Court, that the legislation governing the sales tax at issue in the main proceedings did not require taxpayers to add the amount of that tax to the sale price or to indicate separately on the invoice delivered to the purchaser the amount of the tax to be paid. Thus, the passing-on of that tax to the final consumer was a possibility and not an obligation for the retailers who could at any time choose to bear that tax themselves, without increasing the prices of the goods and services provided.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18543">
+          <num>46</num>
+          <content eId="para_18543__content">
+            <p>Therefore, it cannot be certain that the burden of the sales tax at issue in the main proceedings was ultimately borne by the final consumer in a way similar to a tax on consumption such as VAT.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18544">
+          <num>47</num>
+          <content eId="para_18544__content">
+            <p>The Court has already held that a tax levied on production in such a way that it is not certain that it will be borne, like a tax on consumption such as VAT, by the final consumer is likely to fall outside the scope of Article 401 of the VAT Directive (judgment of 11 October 2007, KÖGÁZ and Others, C‑283/06 and C‑312/06, EU:C:2007:598, paragraph 50).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18545">
+          <num>48</num>
+          <content eId="para_18545__content">
+            <p>Whereas, through the mechanism of the deduction of VAT, that tax is charged only to the final consumer and is completely neutral as regards the taxable persons involved in the production and distribution process prior to the stage of final taxation, regardless of the number of transactions involved, that is not the case with a tax such as the sales tax (see, by analogy, judgment of 11 October 2007, KÖGÁZ and Others, C‑283/06 and C‑312/06, EU:C:2007:598, paragraph 51 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18546">
+          <num>49</num>
+          <content eId="para_18546__content">
+            <p>The referring court also considers that the application of the tax at issue in the main proceedings, alongside the applicable VAT system, could adversely affect the operation of the common system of VAT and competitive neutrality, which need to be adhered to, as is recalled in recitals 4 and 7 of the VAT Directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18547">
+          <num>50</num>
+          <content eId="para_18547__content">
+            <p>In view of the considerations set out in paragraph 34 to 38 above, provided that it is not levied on commercial transactions in a way comparable to VAT, a tax such as the sales tax at issue in the main proceedings does not adversely affect the operation of the common system of VAT.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18548">
+          <num>51</num>
+          <content eId="para_18548__content">
+            <p>Furthermore, bearing in mind the fact that the application to the sale price of the tax at issue in the main proceedings depends on the sellers who may or may not decide to transfer the burden of the tax to the purchaser, it must be pointed out that only the conduct of the seller can determine the difference in his tax treatment compared with a competitor and the possible differences in price borne by consumers compared with others. Consequently, the neutrality of the common system of VAT, as recalled in paragraph 43 above, is not liable to be jeopardised.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18549">
+          <num>52</num>
+          <content eId="para_18549__content">
+            <p>In the light of all the foregoing considerations, it appears that a tax such as the sales tax at issue in the main proceedings cannot be characterised as a turnover tax within the meaning of Article 401 of the VAT Directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18550">
+          <num>53</num>
+          <content eId="para_18550__content">
+            <p>Consequently, the answer to the question referred is that Article 401 of the VAT Directive must be interpreted to the effect that it does not preclude the maintenance or introduction of a tax such as the sales tax at issue in the main proceedings.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_18551">
+          <num>54</num>
+          <content eId="para_18551__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Seventh Chamber) hereby rules: Article 401 of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax must be interpreted to the effect that it does not preclude the maintenance or introduction of a tax such as the sales tax at issue in the main proceedings.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Estonian.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

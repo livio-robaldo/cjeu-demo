@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Seventh Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>25 July 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Freedom to provide services -- Corporate taxation -- Payments made by a company resident in a Member State to non-resident companies for the leasing of rail tankers -- Obligation to charge withholding tax on income from a domestic source paid to a non-resident company -- Non-compliance -- Double taxation conventions -- Charging the resident company default interest for non-payment of the withholding tax -- Interest payable from the expiry of the statutory time limit for payment until the date on which evidence that the double taxation convention is applicable is furnished -- Irrecoverable interest) In Case C‑553/16, REQUEST for a preliminary ruling under Article 267 TFEU from the Varhoven administrativen sad (Supreme Administrative Court, Bulgaria), made by decision of 24 October 2016, received at the Court on 2 November 2016, in the proceedings `TTL' EOOD v Direktor na Direktsia `Obzhalvane i danachno-osiguritelna praktika' -- Sofia, intervener: Varhovna administrativna prokuratura, THE COURT (Seventh Chamber), composed of A. Rosas (Rapporteur), President of the Chamber, A. Prechal and E. Jarašiūnas, Judges, Advocate General: M. Wathelet, Registrar: M. Aleksejev, Administrator, having regard to the written procedure and further to the hearing on 17 January 2018, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>`TTL' EOOD, by V. Terzieva, advokat,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Direktor na Direktsia `Obzhalvane i danachno-osiguritelna praktika' -- Sofia, by A. Georgiev and S. Atanasova, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Bulgarian Government, by E. Petranova, M. Georgieva and T. Mitova, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the German Government, by T. Henze and R. Kanitz, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by W. Roels, R. Lyal and P. Mihaylova, acting as Agents, having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_18236">
+          <num>1</num>
+          <content eId="para_18236__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Articles 49, 54, 63 and Article 65(1) and (3) TFEU, Article 5(4) and Article 12(b) TEU.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18237">
+          <num>2</num>
+          <content eId="para_18237__content">
+            <p>The request has been made in proceedings between `TTL' EOOD and the Direktor na Direktsia `Obzhalvane i danachno-osiguritelna praktika' -- Sofia (Director of the `Appeals and Tax and Social Security' Directorate of Sofia, Bulgaria) ( `the respondent administration in the main proceedings') regarding the payment, by TTL, of irrecoverable default interest for failure to comply with its obligation to charge withholding tax on cross-border payments of income to unconnected companies established in a Member State other than the Republic of Bulgaria.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>European Union law</p>
+        </tblock>
+        <paragraph eId="para_18238">
+          <num>3</num>
+          <content eId="para_18238__content">
+            <p>The first subparagraph of Article 5(4) TEU provides: `Under the principle of proportionality, the content and form of Union action shall not exceed what is necessary to achieve the objectives of the Treaties.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18239">
+          <num>4</num>
+          <content eId="para_18239__content">
+            <p>Article 12(b) TEU provides: `National Parliaments contribute actively to the good functioning of the Union: ...</p>
+            <blockList>
+              <item>
+                <num>(b)</num>
+                <p>by seeing to it that the principle of subsidiarity is respected in accordance with the procedures provided for in the Protocol on the application of the principles of subsidiarity and proportionality'.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Bulgarian law</p>
+        </tblock>
+        <paragraph eId="para_18240">
+          <num>5</num>
+          <content eId="para_18240__content">
+            <p>Under Article 195(1) of the Zakon za korporativnoto podohodno oblagane (Law on corporation tax) (DV No 105 of 22 December 2006), in its version applicable to the facts of the main proceedings, the income which non-resident legal persons obtain from domestic sources, where it is not obtained through a permanent establishment in Bulgaria, is subject to withholding tax, which extinguishes the tax debt. According to Article 195(2) of that law, the withholding tax referred to in Article 195(1) is retained by Bulgarian legal persons paying income to non-resident legal persons. In accordance with Article 200 of that law, the rate of that withholding tax is 10%.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18241">
+          <num>6</num>
+          <content eId="para_18241__content">
+            <p>Article 202(2) of the Law on corporation tax provides that entities paying the income subject to withholding tax in accordance with Article 195 of that law are required to pay the tax collected within a period of three months from the beginning of the month following the month in which the income was paid.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18242">
+          <num>7</num>
+          <content eId="para_18242__content">
+            <p>The Danachno-osiguritelen protsesualen kodeks (Tax and Social Security Code of Procedure) of 1 January 2006 (DV No 105 of 29 December 2005; the `Tax Code of Procedure'), in its version applicable to the facts of the main proceedings, provides in Article 18, headed `Liability of persons who must withhold and pay tax or social levies': `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>A person legally required to withhold and pay a tax or obligatory social levies who does not withhold and does not pay the tax or the levies shall be jointly and severally liable with the person who is personally liable to pay the tax or social levies which are not withheld and not paid.</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>When the person referred to in paragraph 1 has withheld the tax or the obligatory social levies but has not paid them, he shall owe that tax or those obligatory social levies but the liability of the person who is personally liable to pay them is extinguished.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18243">
+          <num>8</num>
+          <content eId="para_18243__content">
+            <p>Article 175(1) and (2) of the Tax Code of Procedure provides: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Interest in the amount determined in the relevant law shall be charged on debts owed to the State which are not paid within the statutory time limit.</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>Interest shall also be paid: 1. on public debts which have not been correctly reimbursed or charged, including all payments received on the basis of a request for reimbursement in accordance with the legislation on tax and social security contributions; 2. on an early payment which has not been made within the statutory time limit, namely by 31 December of the year in question; 3. on the tax of any non-resident person subject to withholding tax, from the point at which the time limit laid down in Bulgarian law for its payment expires until the date on which the non-resident person furnishes evidence that the requirements for the application of a double taxation convention entered into by the Republic of Bulgaria have been fulfilled, including in cases in which, pursuant to the convention, no such tax or a lower amount thereof is payable.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18244">
+          <num>9</num>
+          <content eId="para_18244__content">
+            <p>Articles 135 to 142 of the Tax Code of Procedure provide for a special procedure for the application of tax exemptions laid down in a double taxation convention.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18245">
+          <num>10</num>
+          <content eId="para_18245__content">
+            <p>According to that procedure, tax exemptions are applied after it has been proved that the conditions for the application of the double taxation convention have been fulfilled.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18246">
+          <num>11</num>
+          <content eId="para_18246__content">
+            <p>To that end, in accordance with Article 136 of the Tax Code of Procedure, a non-resident person must prove, in particular, that once the tax debt corresponding to income subject to withholding tax in Bulgaria has arisen, it was resident for tax purposes in the other Member State, for the purposes of the relevant double taxation convention, it had income from a source in Bulgaria, and it did not own a permanent establishment or fixed place of business in Bulgaria with which the relevant income was actually associated.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18247">
+          <num>12</num>
+          <content eId="para_18247__content">
+            <p>According to Article 139 of the Tax Code of Procedure, in respect of a sum of annual income subject to withholding tax of 100000 Bulgarian leva (BGN) (approximately EUR 51000) or more, a non-resident person must establish with the Teritorialna direktia na Nationalna agentsia za prihodite (Regional Directorate of the National Tax Agency, Bulgaria) of the place where the company paying the income is established, that the requirements for the application of the relevant double taxation convention have been fulfilled, according to the procedure laid down in Articles 139 to 141 of that code. In accordance with Article 139 of that code, the documents proving that the conditions for the application of that convention have been fulfilled must be submitted at the same time as the request that that convention be applied.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18248">
+          <num>13</num>
+          <content eId="para_18248__content">
+            <p>However, under Article 142 of the Tax Code of Procedure, headed `Special cases', when the sum of annual income subject to withholding tax is less than BGN 100000, it is the person who paid the income who must demonstrate that the requirements for the application of the relevant double taxation convention have been fulfilled. In that case, the person who paid the income is to certify that the requirements for the application of the relevant convention have been fulfilled.</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_18249">
+          <num>14</num>
+          <content eId="para_18249__content">
+            <p>From 2007 to 2010, TTL, a company registered and established in Bulgaria, concluded with GATX Dutch Holding, registered in the Netherlands, VTG Austria GmbH, registered in Austria, and GATX Reil Poland sp. z.o.o., registered in Poland ( `the three non-resident companies') contracts for the leasing of rail tankers and paid income to those companies in return for that leasing. Those companies are unconnected to TTL.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18250">
+          <num>15</num>
+          <content eId="para_18250__content">
+            <p>It is apparent from the written observations of the Bulgarian Government that the income from a Bulgarian source received by GATX Dutch Holding and GATX Reil Poland, for each year of the period from 2007 to 2010, was less than BGN 100000 whereas such income received by VTG Austria exceeded that sum.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18251">
+          <num>16</num>
+          <content eId="para_18251__content">
+            <p>As TTL considered that the income was covered by double taxation conventions entered into between the Republic of Bulgaria and each of the Member States concerned, namely the Kingdom of the Netherlands, the Republic of Austria and the Republic of Poland, it did not deduct any withholding tax.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18252">
+          <num>17</num>
+          <content eId="para_18252__content">
+            <p>The three non-resident companies did not request a decision on the applicability of the relevant double taxation conventions, but they submitted to TTL evidence of compliance with the requirements for the application of those conventions. Since that evidence was only submitted to TTL one to four years after the payments of income were made, on 21 March 2011 as regards the Polish company, 28 March 2011 in respect of the Austrian company, and 24 August 2011 as regards the Netherlands company, TTL was able to certify that the requirements for the application of the double taxation conventions were fulfilled.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18253">
+          <num>18</num>
+          <content eId="para_18253__content">
+            <p>TTL was subject to a tax inspection, ordered by decision of 26 May 2011, covering the period from 1 January 2007 to 31 December 2010 regarding the existence of any debts for the purposes of Article 195 of the Law on corporation tax.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18254">
+          <num>19</num>
+          <content eId="para_18254__content">
+            <p>The Teritorialna direktia na Nationalna agentsia za prihodite -- Sofia (Regional Directorate of the National Revenue Agency of Sofia, Bulgaria) issued a tax adjustment notice dated 22 October 2013, which was notified to TTL on 30 October 2013.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18255">
+          <num>20</num>
+          <content eId="para_18255__content">
+            <p>That notice established the existence of a tax debt under Article 195 of the Law on corporation tax for the 2010 financial year, together with interest. In that notice, it is indicated that the requirements for the application of the double taxation conventions are fulfilled for the three non-resident companies, that GATX Dutch Holding and VTG Austria are not liable to pay any tax in Bulgaria and that, under Article 12 of the double taxation convention entered into between the Republic of Bulgaria and the Republic of Poland, the income paid by TTL to GATX Reil Poland for the leasing of rail tankers should have been subject to withholding tax in Bulgaria at the rate of only 5%, corresponding to BGN 2 231.11 (approximately EUR 1140).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18256">
+          <num>21</num>
+          <content eId="para_18256__content">
+            <p>The notice also indicates that interest for non-payment of withholding tax is due on the basis of Article 175(2), point 3 of the Tax Code of Procedure, for the period from the date of expiry of the statutory time limit for payment of the withholding tax under Article 195 of the Law on corporation tax up to the date on which the three non-resident companies demonstrated that the requirements were fulfilled for the application of the double taxation conventions entered into between the Republic of Bulgaria and each of the Member States concerned.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18257">
+          <num>22</num>
+          <content eId="para_18257__content">
+            <p>The same tax adjustment notice fixed the total sum of interest at BGN 71 473.42 (approximately EUR 36500). Although it was subsequently established that the tax was not due, the interest was not reimbursed.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18258">
+          <num>23</num>
+          <content eId="para_18258__content">
+            <p>TTL brought an action against the tax adjustment notice before the Administrativen sad -- Sofia grad (Administrative Court of the City of Sofia, Bulgaria), which was dismissed by judgment of 3 December 2014.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18259">
+          <num>24</num>
+          <content eId="para_18259__content">
+            <p>TTL brought an appeal against that judgment before the referring court, the Varhoven administrativen sad (Supreme Administrative Court, Bulgaria).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18260">
+          <num>25</num>
+          <content eId="para_18260__content">
+            <p>That court notes that, under Article 175(2), point 3 of the Tax Code of Procedure, a resident company which pays income subject to withholding tax is required to pay interest when the company established in another Member State which receives that income has not furnished evidence that the requirements have been fulfilled for the application of the double taxation convention entered into by the Republic of Bulgaria and the Member State where its seat is located, including when, pursuant to that convention, that non-resident company is not liable to pay tax in Bulgaria or the amount thereof is lower than that normally payable under Bulgarian tax law. The referring court also notes that the interest is charged for the period between expiry of the time limit for payment of the income tax and the date on which the non-resident company which receives the income proves that the requirements have been fulfilled for the application of the relevant double taxation convention, and that the income is irrecoverable, whereas, in accordance with that convention, the payment of income from a Bulgarian source is exempt from withholding tax in Bulgaria.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18261">
+          <num>26</num>
+          <content eId="para_18261__content">
+            <p>That court wonders whether such a provision and the tax practice to which that provision gives rise constitute a restriction which is incompatible with EU law in the light, in particular, of the provisions of the TFEU on freedom of establishment (Articles 49 and 54) and on the free movement of capital (Article 63 and Article 65(1) and (3)) in the European Union.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18262">
+          <num>27</num>
+          <content eId="para_18262__content">
+            <p>Furthermore, that court considers that the fact that the company which pays the income subject to withholding tax is required to pay interest on the tax which the company established in another Member State is not required to pay contradicts the ancillary nature of the interest debt. According to that court, in the Bulgarian legal system, there is no other provision which, in the event of failure to comply with the legal requirement to prove that a right exists, requires another person to be charged interest in respect of a tax which does not have to be paid.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18263">
+          <num>28</num>
+          <content eId="para_18263__content">
+            <p>That court therefore wonders whether Article 5(4) and Article 12(b) TEU and the principle of proportionality laid down therein preclude a national provision such as Article 175(2), point 3 of the Tax Code of Procedure.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18264">
+          <num>29</num>
+          <content eId="para_18264__content">
+            <p>In those circumstances the Varhoven administrativen sad (Supreme Administrative Court) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Is a provision of national law such as Article 175(2), point 3 of the [Tax Code of Procedure] which requires domestic companies which pay out income subject to withholding tax to pay interest for the period from the point at which the time limit laid down for the payment of the tax on such income expires until the day on which a non-resident company established in another Member State furnishes evidence that the requirements for the application of a double taxation convention [entered into with the Republic of Bulgaria] have been fulfilled, including in cases in which, pursuant to the convention, no such tax or a lower amount thereof is to be paid, compatible with Articles 5(4) TEU and 12(b) TEU?</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>Are a provision of law such as Article 175(2), point 3 of the [Tax Code of Procedure] and a tax practice in accordance with which companies which pay out income subject to withholding tax are charged interest for the period from the point at which the time limit laid down for the payment of the tax on such income expires until the day on which a non-resident company established in another Member State furnishes evidence that the requirements for the application of a double taxation convention entered into with the Republic of Bulgaria have been fulfilled, which is charged also in cases in which, pursuant to the convention, no such tax or a lower amount thereof is to be paid, compatible with Articles 49, 54, 63 and [Article] 65(1) and</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>TFEU?'</p>
+                <tblock>
+                  <p>Consideration of the questions referred</p>
+                </tblock>
+                <tblock>
+                  <p>The first question</p>
+                </tblock>
+                <p>30 By its first question, the referring court asks, in essence, whether Article 5(4) and Article 12(b) TEU must be interpreted as meaning that they preclude the legislation of a Member State, such as that at issue in the main proceedings, which requires a resident company which pays out income subject to withholding tax to a company established in another Member State, unless stated otherwise in the double taxation convention entered into between those two Member States, to pay interest for the period from the point at which the time limit laid down for the payment of the withholding tax expires until the date on which the non-resident company proves that the requirements for the application of that double taxation convention have been fulfilled, including in cases in which, pursuant to the convention, no such tax is payable in the first Member State, or the amount thereof is lower than that normally payable under the tax law of that Member State.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18265">
+          <num>31</num>
+          <content eId="para_18265__content">
+            <p>According to settled case-law, the Court does not have jurisdiction to reply to a question referred for a preliminary ruling where it is obvious that the provision of EU law referred to the Court for interpretation is incapable of applying (judgements of 20 March 2014, Caixa d'Estalvis i Pensions de Barcelona, C‑139/12, EU:C:2014:174, paragraph 41, and of 30 June 2016, Admiral Casinos &amp; Entertainment, C‑464/15, EU:C:2016:500, paragraph 20).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18266">
+          <num>32</num>
+          <content eId="para_18266__content">
+            <p>The rules of EU law the interpretation of which is sought by the first question are not applicable in a situation such as that at issue in the main proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18267">
+          <num>33</num>
+          <content eId="para_18267__content">
+            <p>Thus, first, Article 5(4) TEU relates to action of the EU institutions. In accordance with the first subparagraph of that provision, under the principle of proportionality, the content and form of EU action is not to exceed what is necessary to achieve the objectives of the Treaties. The second paragraph of that provision concerns the EU institutions and the requirement for them to comply with the principle of proportionality when they act in the exercise of a competence. In this case, the national provision at issue in the main proceedings arises from the Tax Code of Procedure adopted by the Bulgarian legislature and concerns the procedural treatment of taxpayers in Bulgaria.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18268">
+          <num>34</num>
+          <content eId="para_18268__content">
+            <p>Second, Article 12(b) TEU, under which national parliaments contribute to the good functioning of the EU by seeing to it that the principle of subsidiarity is respected, empowers national parliaments to ensure</p>
+            <blockList>
+              <item>
+                <num>(i)</num>
+                <p>respect for that principle when EU institutions exercise a competence and</p>
+              </item>
+              <item>
+                <num>(ii)</num>
+                <p>the good functioning of the Union. That provision does not refer to national legislation but to EU draft legislative acts.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18269">
+          <num>35</num>
+          <content eId="para_18269__content">
+            <p>It follows that it is not necessary to answer the first question, concerning the interpretation of Article 5(4) and Article 12(b) TEU, as those provisions are incapable of applying to a situation such as that at issue in the main proceedings.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The second question</p>
+        </tblock>
+        <tblock>
+          <p>Preliminary observations</p>
+        </tblock>
+        <paragraph eId="para_18270">
+          <num>36</num>
+          <content eId="para_18270__content">
+            <p>TTL, the respondent administration in the main proceedings, the Bulgarian Government and the European Commission submit that the provisions relating to freedom of establishment and free movement of capital, contained in Articles 49, 54, 63 and Article 65(1) and (3) TFEU, referred to by the referring court in its second question, are irrelevant in the light of the facts in the main proceedings and are inapplicable in this case.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18271">
+          <num>37</num>
+          <content eId="para_18271__content">
+            <p>In that regard, it should be pointed out that, according to settled case-law, freedom of establishment entails, for companies formed in accordance with the law of a Member State and having their registered office, central administration or principal place of business within the EU, the right to exercise their activity in other Member States through a subsidiary, branch or agency (judgments of 18 June 2009, Aberdeen Property Fininvest Alpha, C‑303/07, EU:C:2009:377, paragraph 37, and of 21 May 2015, Verder LabTec, C‑657/13, EU:C:2015:331, paragraph 32).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18272">
+          <num>38</num>
+          <content eId="para_18272__content">
+            <p>As, in particular, the Bulgarian Government notes, in view of the facts in the main proceedings, TTL does not exercise freedom of establishment, given that it does not exercise any activity through a subsidiary, branch or agency, in the Kingdom of the Netherlands, the Republic of Poland and the Republic of Austria. As regards the three non-resident companies, they do not engage in any activity in Bulgaria through a subsidiary, branch or agency. Furthermore, the order for reference states that those three non-resident companies are unconnected to TTL.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18273">
+          <num>39</num>
+          <content eId="para_18273__content">
+            <p>In addition, as regards the free movement of capital guaranteed in Article 63(1) TFEU, the Court has defined restrictions on the movement of capital which are prohibited by that provision as including measures which are such as to discourage non-residents from making investments in a Member State or to discourage that Member State's residents from doing so in other States (judgments of 10 February 2011, Haribo Lakritzen Hans Riegel and Österreichische Salinen, C‑436/08 and C‑437/08, EU:C:2011:61, paragraph 50, and of 17 September 2015, Miljoen and Others, C‑10/14, C‑14/14 and C‑17/14, EU:C:2015:608, paragraph 44).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18274">
+          <num>40</num>
+          <content eId="para_18274__content">
+            <p>Nothing of the kind has been put forward in the present case. The main proceedings concern the obligation to pay a tax levied at source and to pay default interest on that tax which was not withheld or paid within the required time limit. That tax debt arose following commercial contracts concluded between a person resident in Bulgaria for tax purposes and non-resident persons, pursuant to which the former made payments to the latter, who therefore received income.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18275">
+          <num>41</num>
+          <content eId="para_18275__content">
+            <p>However, in accordance with settled case-law, the fact that the referring court has limited its question to the interpretation of certain provisions of EU law does not prevent the Court from providing the referring court with all the elements of interpretation of EU law which may be of assistance in adjudicating on the case before it, whether or not that court has specifically referred to them in that question (see, to that effect, judgments of 14 November 2017, Lounes, C‑165/16, EU:C:2017:862, paragraph 28, and of 30 January 2018, X and Visser, C‑360/15 and C‑31/16, EU:C:2018:44, paragraph 55).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18276">
+          <num>42</num>
+          <content eId="para_18276__content">
+            <p>In this case, it is apparent from the information in the request for a preliminary ruling that the transaction at issue in the main proceedings is the leasing of rail tankers. As the leasing of vehicles constitutes a supply of services within the meaning of Article 57 TFEU (judgments of 21 March 2002, Cura Anlagen, C‑451/99, EU:C:2002:195, paragraph 19, and of 4 December 2008, Jobra, C‑330/07, EU:C:2008:685, paragraph 22), the case at issue in the main proceedings must be examined from the perspective of freedom to provide services.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18277">
+          <num>43</num>
+          <content eId="para_18277__content">
+            <p>In those circumstances, it must be held that, by its second question, the referring court asks, in essence, whether Article 56 TFEU, which guarantees the freedom to provide services, must be interpreted as precluding legislation of a Member State, such as that at issue in the main proceedings, whereby the payment of income by a resident company to a company established in another Member State is, in principle, subject to withholding tax, except where otherwise provided in the double taxation convention entered into between those two Member States, if that legislation requires the resident company, which neither levies nor pays that amount to the tax authorities of the first Member State, to pay irrecoverable default interest for the period from the expiry of the time limit for payment of the income tax up to the date on which the non-resident company proves that the requirements for the application of the double taxation convention have been fulfilled, whereas, in accordance with that convention, the non-resident company is not liable to pay any tax in the first Member State or the amount thereof is lower than that normally payable under the tax law of that Member State.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The existence of a restriction on the freedom to provide services</p>
+        </tblock>
+        <paragraph eId="para_18278">
+          <num>44</num>
+          <content eId="para_18278__content">
+            <p>According to settled case-law, Member States must exercise their competence in the area of direct taxation consistently with EU law and, in particular, with the fundamental freedoms guaranteed by the TFEU (judgments of 23 February 2016, Commission v Hungary, C‑179/14, EU:C:2016:108, paragraph 171, and of 2 March 2017, Eschenbrenner, C‑496/15, EU:C:2017:152, paragraph 45).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18279">
+          <num>45</num>
+          <content eId="para_18279__content">
+            <p>In that regard, it is important to note that Article 56 TFEU precludes the application of any national rules which have the effect of making the provision of services between Member States more difficult than the provision of services purely within a Member State. In accordance with the Court's case-law, Article 56 TFEU requires the abolition of any restriction on the freedom to provide services imposed on the ground that the person providing a service is established in a Member State other than that in which the service is provided (see, in particular, judgment of 18 October 2012, X, C‑498/10, EU:C:2012:635, paragraphs 20 and 21 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18280">
+          <num>46</num>
+          <content eId="para_18280__content">
+            <p>Restrictions on the freedom to provide services are national measures which prohibit, impede or render less attractive the exercise of that freedom (judgments of 4 December 2008, Jobra, C‑330/07, EU:C:2008:685, paragraph 19, and of 18 January 2018, Wind 1014 and Daell, C‑249/15, EU:C:2018:21, paragraph 21).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18281">
+          <num>47</num>
+          <content eId="para_18281__content">
+            <p>In this case, it should be pointed out, first, that, pursuant to Article 195(1) of the Law on corporation tax, the income of non-resident legal persons obtained from domestic sources, where it is not obtained through a permanent establishment in Bulgaria, is subject to withholding tax which extinguishes the tax debt. Second, according to Article 175(2), point 3 of the Tax Code of Procedure, a resident company which pays out income to a non-resident person must, in respect of any taxation of a non-resident person who in principle is subject to withholding tax, pay default interest in the event of non-payment from the point at which the time limit laid down by Bulgarian law for the payment of the tax expires until the date on which the non-resident person furnishes evidence that the requirements have been fulfilled for the application of a double taxation convention entered into between the Republic of Bulgaria and the Member State in which that person is established, including in cases in which, pursuant to the convention, that person is not liable for any tax in Bulgaria or the amount thereof is lower than that normally payable under Bulgarian tax law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18282">
+          <num>48</num>
+          <content eId="para_18282__content">
+            <p>It is apparent from the order for reference and from the observations submitted by the Bulgarian Government at the hearing that the payment of such default interest is due only in the event of cross-border transactions, and that the interest is not recoverable.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18283">
+          <num>49</num>
+          <content eId="para_18283__content">
+            <p>Thus, under Bulgarian law, there is a difference in treatment between resident companies which pay out income in return for a provision of services such as, in this case, the leasing of rail tankers, depending on whether the company receiving that income is another company established in Bulgaria or a company established in another Member State. A cross-border situation in which a resident company exercises the freedom to provide services under Article 56 TFEU is therefore treated less favourably than a national situation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18284">
+          <num>50</num>
+          <content eId="para_18284__content">
+            <p>National legislation such as that at issue in the main proceedings is liable to discourage resident companies from using leasing services of companies established in other Member States and therefore to constitute an obstacle to the freedom to provide services.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18285">
+          <num>51</num>
+          <content eId="para_18285__content">
+            <p>In the light of the foregoing considerations, it must be held that national legislation such as that at issue in the main proceedings constitutes a restriction on the freedom to provide services which is in principle prohibited by Article 56 TFEU. Therefore, it must be examined whether such a restriction can be objectively justified.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Possible justification of the restriction on the freedom to provide services</p>
+        </tblock>
+        <paragraph eId="para_18286">
+          <num>52</num>
+          <content eId="para_18286__content">
+            <p>It is clear from the case-law of the Court that a restriction on the freedom to provide services is warranted only if it pursues a legitimate objective compatible with the TFEU and is justified by overriding reasons of public interest; if that is the case, it must be suitable for securing the attainment of the objective which it pursues and not go beyond what is necessary in order to attain it (judgments of 18 December 2007, Laval un Partneri, C‑341/05, EU:C:2007:809, paragraph 101; of 4 December 2008, Jobra, C‑330/07, EU:C:2008:685, paragraph 27; and of 26 May 2016, NN</p>
+            <blockList>
+              <item>
+                <num>(L)</num>
+                <p>International, C‑48/15, EU:C:2016:356, paragraph 58).</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18287">
+          <num>53</num>
+          <content eId="para_18287__content">
+            <p>In that regard, the Bulgarian Government and the respondent administration in the main proceedings submit that the restriction on the freedom to provide services resulting from Article 175(2), point 3 of the Tax Code of Procedure is justified. The Bulgarian Government points to the need to ensure the effective collection of tax and the need to ensure the effectiveness of fiscal supervision, which constitute overriding reasons in the public interest capable of justifying a restriction on the exercise of the fundamental freedoms guaranteed by the Treaty (see, in particular, judgments of 30 June 2011, Meilicke and Others, C‑262/09, EU:C:2011:438, paragraph 41; of 9 October 2014, van Caster, C‑326/12, EU:C:2014:2269, paragraph 46 and the case-law cited; and of 26 May 2016, NN</p>
+            <blockList>
+              <item>
+                <num>(L)</num>
+                <p>International, C‑48/15, EU:C:2016:356, paragraph 59).</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18288">
+          <num>54</num>
+          <content eId="para_18288__content">
+            <p>In that context, the Bulgarian Government and the respondent administration in the main proceedings draw attention to the aims and functions of the legislation at issue in the main proceedings. Under Article 202(2) of the Law on corporation tax, a resident company which pays out income subject to withholding tax under Article 195 of that law is required to pay the tax due within a period of three months from the beginning of the month following the month in which the income was paid, when the recipient of that income is a person established in a Member State with which the Republic of Bulgaria has entered into a double taxation convention. They state that, once that period has expired, the company which paid the income and which does not deduct and does not pay the withholding tax is in default of payment of the tax. They add that, according to Article 203 of that law, that company is also jointly and severally liable for payment of the tax deducted at source. Until it is established that the double taxation convention is applicable, the tax is deemed to be due, in accordance with Bulgarian legislation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18289">
+          <num>55</num>
+          <content eId="para_18289__content">
+            <p>According to the respondent administration in the main proceedings, the failure to pay the tax due within the time limit is penalised by the resident company's having to pay interest in accordance with Article 175(2), point 3 of the Tax Code of Procedure. It states that the interest is due irrespective of the fact that, under the relevant double taxation convention, the income is not taxable in Bulgaria. The payment of that interest penalises the failure to establish in due time that the double taxation convention, which excludes the application of Bulgarian law, is applicable.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18290">
+          <num>56</num>
+          <content eId="para_18290__content">
+            <p>According to the Bulgarian Government, a provision such as Article 175(2), point 3 of the Tax Code of Procedure makes it possible to achieve the objective pursued by national law, which is to collect taxpayers' taxes on time, without undermining the objectives and principles laid down by EU law. That provision therefore aims to enable the tax authorities to plan for and forecast corporation tax receipts and to ensure the effective collection of tax. Furthermore, Article 175(2), point 3 of the Tax Code of Procedure constitutes an incentive for taxable persons to prove within the period prescribed that the requirements for the application of the relevant double taxation convention have been fulfilled when, pursuant to that convention, no tax is payable or the amount thereof is lower than that normally payable under Bulgarian tax law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18291">
+          <num>57</num>
+          <content eId="para_18291__content">
+            <p>As regards the reasons put forward in order to justify the restriction on the freedom to provide services, and as has been noted at paragraph 53 of this judgment, the Court has already held that the need to ensure the effective collection of tax and the need to ensure the effectiveness of fiscal supervision may constitute overriding reasons in the public interest capable of justifying a restriction on the freedom to provide services. The Court has also held that the imposition of penalties, including criminal penalties, may be considered to be necessary in order to ensure compliance with national rules, subject, however, to the condition that the nature and amount of the penalty imposed is in each individual case proportionate to the gravity of the infringement which it is designed to penalise (see, to that effect, judgment of 26 May 2016, NN (L) International, C‑48/15, EU:C:2016:356, paragraph 59 and the case-law cited.)</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18292">
+          <num>58</num>
+          <content eId="para_18292__content">
+            <p>In this case, the need to ensure the collection of withholding tax on cross-border payments and to ensure the effectiveness of fiscal supervision in cross-border situations such as those at issue in the main proceedings appears to justify penalties being imposed on companies which do not pay the taxes within the prescribed time limit and which do not provide on time the documents proving that they can claim an exemption from the obligation to pay those taxes.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18293">
+          <num>59</num>
+          <content eId="para_18293__content">
+            <p>However, national legislation providing for a penalty in the form of irrecoverable interest, calculated on the basis of the sum of tax payable at source according to national legislation and which has accrued for the period from the date on which the tax becomes payable to the date on which the documents proving that the double taxation convention is applicable are submitted to the tax authorities, is not appropriate to ensure the attainment of the objectives referred to in the previous paragraph in the event that it is established that the tax is not payable under the relevant convention. In a situation such as that at issue in the main proceedings, there is no connection between the amount of interest payable, on the one hand, and the amount of tax payable, of which there is none, or the seriousness of the delay in providing those documents to the tax authorities, on the other.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18294">
+          <num>60</num>
+          <content eId="para_18294__content">
+            <p>Furthermore, such a penalty goes beyond what is necessary to attain those objectives, given that the amount of interest accrued may prove to be excessive compared to the amount of tax payable and given that no possibility for that interest to be reimbursed is provided for.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18295">
+          <num>61</num>
+          <content eId="para_18295__content">
+            <p>As the Commission pointed out, the amount of interest for late payment of the tax is the same irrespective of whether the tax is ultimately not payable or the tax withheld at source is payable but has not been paid on time. In the latter situation, which differs from that in the main proceedings, the Bulgarian tax authorities suffer a loss of tax receipts in the period during which the tax is not paid. However, in the main proceedings, it is only the delay in providing the evidence which is penalised.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18296">
+          <num>62</num>
+          <content eId="para_18296__content">
+            <p>Moreover, it should be stated that there are other possibilities that would enable the same objectives to be attained. That would be the case if reimbursement to the resident company of the interest paid for late payment was provided for in the event that the tax debt was recalculated and that it was established that no tax is payable in Bulgaria in respect of income paid to the non-resident company.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18297">
+          <num>63</num>
+          <content eId="para_18297__content">
+            <p>In the light of all the foregoing considerations, the answer to the question referred is that Article 56 TFEU must be interpreted as precluding legislation of a Member State, such as that at issue in the main proceedings, whereby the payment of income by a resident company to a company established in another Member State is, in principle, subject to withholding tax, except where otherwise provided in the double taxation convention entered into between those two Member States, if that legislation requires the resident company, which neither deducts nor pays that sum to the tax authorities of the first Member State, to pay irrecoverable default interest for the period from the expiry of the time limit for payment of the income tax up to the date on which the non-resident company proves that the requirements for the application of the double taxation convention have been fulfilled, even though, in accordance with that convention, the non-resident company is not liable to pay any tax in the first Member State or the amount thereof is lower than that normally payable under the tax law of that Member State.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_18298">
+          <num>64</num>
+          <content eId="para_18298__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Seventh Chamber) hereby rules: Article 56 TFEU must be interpreted as precluding legislation of a Member State, such as that at issue in the main proceedings, whereby the payment of income by a resident company to a company established in another Member State is, in principle, subject to withholding tax, except where otherwise provided in the double taxation convention entered into between those two Member States, if that legislation requires the resident company, which neither deducts nor pays that sum to the tax authorities of the first Member State, to pay irrecoverable default interest for the period from the expiry of the time limit for payment of the income tax up to the date on which the non-resident company proves that the requirements for the application of the double taxation convention have been fulfilled, even though, in accordance with that convention, the non-resident company is not liable to pay any tax in the first Member State or the amount thereof is lower than that normally payable under the tax law of that Member State.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Bulgarian.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

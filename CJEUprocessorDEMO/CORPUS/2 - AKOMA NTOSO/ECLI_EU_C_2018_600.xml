@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Fourth Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>25 July 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Directive 2002/47/EC -- Enforcement of financial collateral arrangements -- Commencement of insolvency proceedings against the collateral taker -- Occurrence of the enforcement event -- Inclusion of the financial collateral in the assets remaining after the insolvency -- Obligation to satisfy the claims primarily from the financial collateral) In Case C‑107/17, REQUEST for a preliminary ruling under Article 267 TFEU from the Lietuvos Aukščiausiasis Teismas (Supreme Court of Lithuania), made by decision of 24 February 2017, received at the Court on 3 March 2017, in the proceedings `Aviabaltika' UAB v</p>
+      <p>
+        <party as="respondent" refersTo="#">`Ūkio bankas' AB</party>
+      </p>
+      <p>, in liquidation, THE COURT (Fourth Chamber), composed of T. von Danwitz (Rapporteur), President of the Chamber, C. Vajda, E. Juhász, K. Jürimäe and C. Lycourgos, Judges, Advocate General: M. Szpunar, Registrar: M. Aleksejev, Administrator, having regard to the written procedure and further to the hearing on 18 January 2018, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>`Aviabaltika' UAB, by E. Baranauskas, advokatas,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>`Ūkio bankas' AB, by T. Bairašauskas and D. Ušinskaitė-Filonovienė, advokatai,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Lithuanian Government, by K. Dieninis, D. Kriaučiūnas, L. Bendoraitytė and R. Butvydytė, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by J. Rius, A. Nijenhuis and A. Steiblytė, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 12 April 2018,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <tblock>
+        <p>Judgment</p>
+      </tblock>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_18055">
+          <num>1</num>
+          <content eId="para_18055__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Article 4(1) and (5) and Article 8 of Directive 2002/47/EC of the European Parliament and of the Council of 6 June 2002 on financial collateral arrangements ( OJ 2002 L 168, p. 43), as amended by Directive 2009/44/EC of the European Parliament and of the Council of 6 May 2009 ( OJ 2009 L 146, p. 37) ( `Directive 2002/47').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18056">
+          <num>2</num>
+          <content eId="para_18056__content">
+            <p>The request has been made in proceedings between `Aviabaltika' UAB and `Ūkio bankas' AB concerning a claim for payment made by the bank Ūkio bankas against Aviabaltika under the collateral arrangements entered into by them.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>European Union law</p>
+        </tblock>
+        <paragraph eId="para_18057">
+          <num>3</num>
+          <content eId="para_18057__content">
+            <p>Recital 3 of Directive 2002/47 states: `A Community regime should be created for the provision of securities and cash as collateral under both security interest and title transfer structures including repurchase agreements (repos). This will contribute to the integration and cost-efficiency of the financial market as well as to the stability of the financial system in the Community, thereby supporting the freedom to provide services and the free movement of capital in the single market in financial services. This Directive focuses on bilateral financial collateral arrangements.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18058">
+          <num>4</num>
+          <content eId="para_18058__content">
+            <p>Article 2 of that directive, entitled `Definitions', provides, in paragraph 1 thereof: `For the purpose of this Directive: ...</p>
+            <blockList>
+              <item>
+                <num>(c)</num>
+                <p>``security financial collateral arrangement '' means an arrangement under which a collateral provider provides financial collateral by way of security to or in favour of a collateral taker, and where the full or qualified ownership of, or full entitlement to, the financial collateral remains with the collateral provider when the security right is established; ...</p>
+              </item>
+              <item>
+                <num>(f)</num>
+                <p>``relevant financial obligations '' means the obligations which are secured by a financial collateral arrangement and which give a right to cash settlement and/or delivery of financial instruments. ...</p>
+              </item>
+              <item>
+                <num>(j)</num>
+                <p>``winding-up proceedings '' means collective proceedings involving realisation of the assets and distribution of the proceeds among the creditors, shareholders or members as appropriate, which involve any intervention by administrative or judicial authorities, including where the collective proceedings are terminated by a composition or other analogous measure, whether or not they are founded on insolvency or are voluntary or compulsory; ...</p>
+              </item>
+              <item>
+                <num>(l)</num>
+                <p>``enforcement event '' means an event of default or any similar event as agreed between the parties on the occurrence of which, under the terms of a financial collateral arrangement or by operation of law, the collateral taker is entitled to realise or appropriate financial collateral or a close-out netting provision comes into effect; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18059">
+          <num>5</num>
+          <content eId="para_18059__content">
+            <p>Under Article 4 of that directive, entitled `Enforcement of financial collateral arrangements': `1.   Member States shall ensure that on the occurrence of an enforcement event, the collateral taker shall be able to realise in the following manners, any financial collateral provided under, and subject to the terms agreed in, a security financial collateral arrangement: ...</p>
+            <blockList>
+              <item>
+                <num>(b)</num>
+                <p>cash by setting off the amount against or applying it in discharge of the relevant financial obligations; ... 4.   The manners of realising the financial collateral referred to in paragraph 1 shall, subject to the terms agreed in the security financial collateral arrangement, be without any requirement to the effect that:</p>
+              </item>
+              <item>
+                <num>(a)</num>
+                <p>prior notice of the intention to realise must have been given; ... 5.   Member States shall ensure that a financial collateral arrangement can take effect in accordance with its terms notwithstanding the commencement or continuation of winding-up proceedings or reorganisation measures in respect of the collateral provider or collateral taker. ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18060">
+          <num>6</num>
+          <content eId="para_18060__content">
+            <p>Article 8 of that directive, entitled `Certain insolvency provisions disapplied', provides: `1.   Member States shall ensure that a financial collateral arrangement, as well as the provision of financial collateral under such arrangement, may not be declared invalid or void or be reversed on the sole basis that the financial collateral arrangement has come into existence, or the financial collateral has been provided:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>on the day of the commencement of winding-up proceedings or reorganisation measures, but prior to the order or decree making that commencement; or</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>in a prescribed period prior to, and defined by reference to, the commencement of such proceedings or measures or by reference to the making of any order or decree or the taking of any other action or occurrence of any other event in the course of such proceedings or measures. 2.   Member States shall ensure that where a financial collateral arrangement or a relevant financial obligation has come into existence, or financial collateral has been provided on the day of, but after the moment of the commencement of, winding-up proceedings or reorganisation measures, it shall be legally enforceable and binding on third parties if the collateral taker can prove that he was not aware, nor should have been aware, of the commencement of such proceedings or measures. ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Lithuanian law</p>
+        </tblock>
+        <paragraph eId="para_18061">
+          <num>7</num>
+          <content eId="para_18061__content">
+            <p>The Lietuvos Respublikos finansinio užtikrinimo susitarimų įstatymas (Law of the Republic of Lithuania on Financial Collateral Arrangements) ( `the FUSĮ'), which implements Directive 2002/47, provides, in Article 2(8) and (32) thereof: `8. ``Financial collateral arrangement with no transfer of title '' means an arrangement under which a collateral provider provides financial collateral guaranteeing fulfilment of the relevant financial obligations to, or in favour of, a collateral taker, but the full or qualified ownership of the financial collateral remains with the collateral provider. ... 32. ``Relevant financial obligation '' means an obligation the fulfilment of which is secured by a financial collateral arrangement and which gives a right to cash settlement and/or delivery of financial instruments and/or assets associated with those financial instruments. ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18062">
+          <num>8</num>
+          <content eId="para_18062__content">
+            <p>Under Article 9(3) and (8) of the FUSĮ: `3.   Following the occurrence of an enforcement event, the collateral taker shall be entitled to realise unilaterally the financial collateral provided under a financial collateral arrangement with no transfer of title in the following manners, subject to the terms agreed in that financial collateral arrangement with no transfer of title: ...</p>
+            <blockList>
+              <item>
+                <num>(2)</num>
+                <p>where cash is involved, by setting off the amount against or applying it in discharge of the relevant financial obligations; ... 8.   A financial collateral arrangement shall come into effect in accordance with the time limits specified therein, notwithstanding the commencement of winding-up proceedings or the application of reorganisation measures in respect of the collateral provider or collateral taker.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_18063">
+          <num>9</num>
+          <content eId="para_18063__content">
+            <p>On 10 October 2011 and 16 August 2012 Aviabaltika and the bank Ūkio bankas entered into two guarantee issue agreements ( `the 2011 and 2012 agreements'), on the basis of which guarantees were provided to Aviabaltika's contracting partners. Aviabaltika itself provided, as security for its obligations, funds paid into an account opened in its name with Ūkio bankas.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18064">
+          <num>10</num>
+          <content eId="para_18064__content">
+            <p>The 2011 and 2012 agreements provided that the funds paid into that account, together with the claim for repayment of those funds, were transferred to the bank as a security guaranteeing that the obligations arising under those agreements would be properly discharged and fell to be classified as financial collateral for the purposes of the FUSĮ.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18065">
+          <num>11</num>
+          <content eId="para_18065__content">
+            <p>Ūkio bankas then entered into counter guarantee agreements with Commerzbank AG, under which Commerzbank provided guarantees to the State Bank of India, and the State Bank of India provided guarantees to the end beneficiaries of those guarantees, namely Aviabaltika's contracting partners. By way of security, Ūkio bankas deposited funds equal to the amount of the guarantees provided by Commerzbank.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18066">
+          <num>12</num>
+          <content eId="para_18066__content">
+            <p>On 2 May 2013 insolvency proceedings were commenced against Ūkio bankas by the Kauno apygardos teismas (Regional Court, Kaunas, Lithuania).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18067">
+          <num>13</num>
+          <content eId="para_18067__content">
+            <p>Aviabaltika having defaulted on its obligations to its contracting partners (the beneficiaries of the guarantees provided under the 2011 and 2012 agreements), Commerzbank was compelled, on 12 March 2014, to discharge its obligations stemming from the counter guarantee agreements and debited part of the funds that Ūkio bankas had transferred by way of security.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18068">
+          <num>14</num>
+          <content eId="para_18068__content">
+            <p>On 28 October 2014 the Kauno apygardos teismas (Regional Court, Kaunas) upheld Aviabaltika's claim against Ūkio bankas, consisting, inter alia, of funds transferred to that bank as financial collateral under the 2011 and 2012 agreements, as a liability in the insolvency proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18069">
+          <num>15</num>
+          <content eId="para_18069__content">
+            <p>Ūkio bankas offset part of the withdrawals made by Commerzbank not with the funds transferred as collateral by Aviabaltika, but with the indemnity received under the Lithuanian legislation on deposit insurance which was in another account held by Aviabaltika. It then claimed that Aviabaltika should be ordered to repay it the portion of the amount owed under the 2011 and 2012 agreements remaining after that offsetting, plus interest.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18070">
+          <num>16</num>
+          <content eId="para_18070__content">
+            <p>By judgment of 14 December 2015, the Kauno apygardos teismas (Regional Court, Kaunas) upheld those claims. By decision of 31 May 2016, the Lietuvos apeliacinis teismas (Court of Appeal of Lithuania) upheld that judgment. Those courts held that the 2011 and 2012 agreements included a financial collateral arrangement regarding the funds credited to the account opened in Aviabaltika's name with that bank. They considered that, following the commencement of the insolvency proceedings against Ūkio bankas, those funds were included in the assets remaining after the insolvency and that the right of that bank to make use of them was limited by the prohibition on discharging any obligation that had not been discharged at the date on which those proceedings were commenced, pursuant to the relevant national legislation. Aviabaltika brought an appeal on a point of law before the Lietuvos Aukščiausiasis Teismas (Supreme Court of Lithuania).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18071">
+          <num>17</num>
+          <content eId="para_18071__content">
+            <p>The referring court explains that Aviabaltika and Ūkio bankas entered into a security financial collateral arrangement within the meaning of Article 2(1)(c) of Directive 2002/47 and that an enforcement event occurred after the commencement of the insolvency proceedings against the collateral taker, namely, in the present case, Ūkio bankas. It therefore questions, in particular, whether that collateral could be enforced by the taker in order to enable it to recover its claim against the collateral provider, namely Aviabaltika, arising from that company's failure to discharge financial obligations covered by that arrangement.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18072">
+          <num>18</num>
+          <content eId="para_18072__content">
+            <p>Aviabaltika submits that, in order to recover its claim, Ūkio bankas must, pursuant to Directive 2002/47 and in particular Article 4 thereof, use the funds which it transferred to that bank as collateral and not other assets belonging to Aviabaltika. Aviabaltika also considers that, were Ūkio bankas' claims to be upheld, it would be unable to recover those funds in the insolvency proceedings, and would be required, in practice, to pay the amount of the financial collateral to that bank a second time. Ūkio bankas contends, by contrast, that, under the national banking and insolvency rules, those funds are included in the assets remaining after the insolvency and may not be used to settle its own claims. It adds that, pursuant to that directive, as the collateral taker, it has the right and not an obligation to use the funds transferred in that regard and may choose to recover its claim from Aviabaltika's other assets.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18073">
+          <num>19</num>
+          <content eId="para_18073__content">
+            <p>According to the statements provided by the referring court, the transfer of funds to a bank account as financial collateral had the effect of pledging the claim for repayment of those funds as collateral, with the title to those funds being transferred to the bank. In addition, the national banking and insolvency rules, on which the courts of first instance and appeal relied, are applicable to the situation at issue in the main proceedings, in particular the prohibition on discharging any obligation not yet discharged at the date on which insolvency proceedings were commenced, which precludes the realisation of that collateral and its effective use by the taker. The referring court emphasises that, if the provider is required to settle the relevant financial obligations using its other assets as a result of that non-enforcement, it will come into conflict, in practice, with the insolvency rules for recovering that collateral.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18074">
+          <num>20</num>
+          <content eId="para_18074__content">
+            <p>In those circumstances, the Lietuvos Aukščiausiasis Teismas (Supreme Court of Lithuania) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Must Article 4(5) of Directive 2002/47 be interpreted as imposing an obligation on Member States to establish legal rules which provide that financial collateral is not included in the assets remaining after the insolvency of the collateral taker (a bank in the process of being wound up)? In other words, are Member States obliged to establish legal rules which require that a collateral taker (a bank) should be de facto able to obtain satisfaction of its claim, which is secured by financial collateral (money in an account of the bank and a right of claim to that money), despite the fact that the enforcement event occurred after the commencement of the proceedings for the winding-up of the collateral taker (the bank)?</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>Should [Article 4(1) and (5)] of Directive 2002/47 be systematically interpreted as conferring on the collateral provider the right to demand that the collateral taker (the bank) should primarily obtain satisfaction of its claim, which is secured by financial collateral (money in an account of the bank and a right of claim to that money), by using the financial collateral, and accordingly as imposing an obligation on the financial collateral taker to give effect to such a demand despite the commencement of proceedings for its winding-up?</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>If the answer to the second question is in the negative, and the collateral provider satisfies the claim of the collateral taker, which is secured by the financial collateral, by using other assets of the collateral provider, should the provisions of Directive 2002/47, in particular Articles 4 and 8 thereof, be interpreted as meaning that the collateral provider should also have applied to it an exemption from equal treatment of the collateral taker's (the bank's) creditors in winding-up proceedings and that the collateral provider should, in order to recover the financial collateral, be granted priority over other creditors in winding-up proceedings?'</p>
+                <tblock>
+                  <p>Consideration of the questions referred</p>
+                </tblock>
+                <tblock>
+                  <p>The first question</p>
+                </tblock>
+                <p>21 By its first question, the referring court asks, in essence, whether Article 4(5) of Directive 2002/47 is to be interpreted as requiring Member States to adopt rules which enable a taker of collateral provided under a security financial collateral arrangement to recover its claim, arising from a failure to discharge the relevant financial obligations, from that collateral, where the enforcement event occurs after insolvency proceedings have been commenced against that taker.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18075">
+          <num>22</num>
+          <content eId="para_18075__content">
+            <p>As is apparent from the request for a preliminary ruling, the referring court considers that the financial collateral at issue in the main proceedings is included in the assets remaining after the insolvency of Ūkio bankas (the taker), and cannot, owing to a prohibition on enforcement applicable under national law, be enforced in order effectively to ensure the recovery of its claim. It thus appears that such a situation would have the result of obliging the provider, in practice, to pay the taker the amount of that collateral, which would fall within the scope of the insolvency proceedings, a second time.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18076">
+          <num>23</num>
+          <content eId="para_18076__content">
+            <p>First of all, it is clear from the wording of Article 4(5) of Directive 2002/47 that the Member States are to ensure that a financial collateral arrangement can take effect in accordance with its terms notwithstanding the commencement or continuation of winding-up proceedings in respect of the collateral provider or collateral taker. That provision expressly refers to both parties to the arrangement, without making a distinction, so far as the enforcement of that arrangement is concerned, between whether such proceedings have been brought against one party or against the other.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18077">
+          <num>24</num>
+          <content eId="para_18077__content">
+            <p>Next, regarding the general scheme and objectives of Directive 2002/47, it should be borne in mind that, according to recital 3 thereof, that directive is intended to contribute to the integration and cost-efficiency of the financial market and to the stability of the financial system in the European Union. To that end, Directive 2002/47 establishes a regime, the objective of which is to limit the administrative burdens for parties using financial collateral under the scope of the directive, to improve the legal certainty of such collateral by ensuring that certain provisions of national insolvency law do not apply to financial collateral arrangements in order to safeguard financial stability and limit contagion effects in case of a default of a party to a financial collateral arrangement (see, to that effect, judgment of 10 November 2016, Private Equity Insurance Group, C‑156/15, EU:C:2016:851, paragraph 23).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18078">
+          <num>25</num>
+          <content eId="para_18078__content">
+            <p>In that context, having regard to Article 4(1) of that directive, which provides that the taker of collateral under a security financial collateral arrangement must be able to realise the collateral in any of the manners described in the directive, the Court has held that that regime therefore confers an advantage on that financial collateral by comparison with other types of security which fall outside the scope of the directive (see, to that effect, judgment of 10 November 2016, Private Equity Insurance Group, C‑156/15, EU:C:2016:851, paragraphs 25 and 50).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18079">
+          <num>26</num>
+          <content eId="para_18079__content">
+            <p>It should be specified that, in the case which gave rise to that judgment, the Court was being questioned only as to whether Directive 2002/47 fell to be interpreted as conferring on takers of that collateral the right to enforce it notwithstanding the commencement of insolvency proceedings against the provider. However, given that, as can be seen from paragraph 23 above, Article 4(5) of that directive does not distinguish depending on whether insolvency proceedings have been commenced against the provider or the taker, that directive must be interpreted as meaning that the regime introduced thereby also confers on takers of financial collateral the right to enforce that collateral, notwithstanding the commencement of insolvency proceedings against them.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18080">
+          <num>27</num>
+          <content eId="para_18080__content">
+            <p>Accordingly, as was noted by the Advocate General in point 85 of his Opinion, Directive 2002/47 is intended to establish a specific legal regime governing financial collateral arrangements, so as to contribute to the stability of the EU financial system.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18081">
+          <num>28</num>
+          <content eId="para_18081__content">
+            <p>An interpretation of Article 4(5) of that directive whereby the security financial collateral arrangement would become ineffective as a result of the commencement of insolvency proceedings against the taker, preventing that party from effectively recovering its claim from that collateral and obliging the provider, in practice, to pay the taker the amount of that collateral a second time, would be contrary to both the wording of that article and the objectives pursued by Directive 2002/47. Indeed, such an interpretation would result in such an arrangement being rendered ineffective to a large extent and could, as the case may be, cause financial difficulties for that provider, contrary to the objective of limiting contagion effects in case of a default of one of the parties.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18082">
+          <num>29</num>
+          <content eId="para_18082__content">
+            <p>It should be added that, as was noted by the Advocate General in points 59 and 60 of his Opinion, as Article 4(5) of Directive 2002/47 does not specify the way in which the effectiveness of financial collateral is to be ensured notwithstanding the commencement of insolvency proceedings, it is for the Member States to provide for appropriate means of ensuring such effectiveness, which could include a measure whereby the financial collateral is excluded from the collateral taker's assets.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18083">
+          <num>30</num>
+          <content eId="para_18083__content">
+            <p>In the light of all of the foregoing, the answer to the first question is that Article 4(5) of Directive 2002/47 must be interpreted as requiring Member States to adopt rules which enable a taker of collateral provided under a security financial collateral arrangement to recover its claim, arising from a failure to discharge the relevant financial obligations, from that collateral, where the enforcement event occurs after insolvency proceedings have been commenced against that taker.</p>
+            <tblock>
+              <p>The second question</p>
+            </tblock>
+            <p>31 By its second question, the referring court asks, in essence, whether Article 4(1) and (5) of Directive 2002/47 should be interpreted as requiring the taker of collateral provided under a security financial collateral arrangement to recover its claim, arising from a failure to discharge the financial obligations covered by that arrangement, primarily from that collateral.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18084">
+          <num>32</num>
+          <content eId="para_18084__content">
+            <p>In the first place, regarding the wording of that article, it should be noted that the expression `the collateral taker shall be able to realise', used in paragraph 1 thereof, indicates that, in cases entailing the enforcement of the financial collateral, the taker has the option, rather than an obligation, to realise that collateral. In addition, the phrases `subject to the terms agreed in' and `in accordance with its terms', used in paragraphs 1 and 5 of that article, show that Directive 2002/47 gives priority to the terms of the arrangement.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18085">
+          <num>33</num>
+          <content eId="para_18085__content">
+            <p>As was noted, in essence, by the Advocate General in point 74 of his Opinion, it thus appears that that provision is intended to ensure that the financial collateral arrangement is enforced first and foremost in accordance with the terms of the arrangement as agreed between the parties.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18086">
+          <num>34</num>
+          <content eId="para_18086__content">
+            <p>In the second place, concerning the context of Article 4(1) and (5) of Directive 2002/47, it should be pointed out that the wording of Article 2(1)(l) of that directive, which defines the `enforcement event' as being `an event of default or any similar event as agreed between the parties', on the occurrence of which `the collateral taker is entitled to realise' the financial collateral, confirms the importance of the terms agreed between the parties. This is also apparent from the wording of other provisions of that directive, such as Article 4(4) thereof, which refers to `the terms agreed in the ... financial collateral arrangement'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18087">
+          <num>35</num>
+          <content eId="para_18087__content">
+            <p>In those circumstances, Article 4(1) and (5) of Directive 2002/47 is intended to ensure that the financial collateral arrangement, while complying with the objectives of that directive as recalled in paragraph 24 above, is enforced first and foremost in accordance with the terms agreed between the parties.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18088">
+          <num>36</num>
+          <content eId="para_18088__content">
+            <p>It should also be noted that, where the arrangement does not contain any terms governing that issue, it follows from those objectives that the taker must recover its claim primarily from the collateral provided for that purpose before making use of other assets of the provider. Such a requirement, inasmuch as it enables the provider to avoid paying, in practice, the amount of that collateral which corresponds to its debt a second time, could help prevent contagion effects in the event of the taker's insolvency.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18089">
+          <num>37</num>
+          <content eId="para_18089__content">
+            <p>Concerning, specifically, the situation at issue in the main proceedings, it appears to follow from the statements set out in the order for reference and, in particular, from Paragraph 6.3 of the 2011 and 2012 agreements, which refers to the financial collateral `intended to ensure proper fulfilment of the Client's obligations towards the Bank under the Agreement', that the taker must recover its claim primarily from the financial collateral before making use of other assets of the provider. However, it is for the referring court to verify whether this is the case.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18090">
+          <num>38</num>
+          <content eId="para_18090__content">
+            <p>In the light of all of the foregoing, the answer to the second question is that Article 4(1) and (5) of Directive 2002/47 must be interpreted as not requiring the taker of collateral provided under a security financial collateral arrangement to recover its claim, arising from a failure to discharge the financial obligations covered by that arrangement, primarily from that collateral.</p>
+            <tblock>
+              <p>The third question</p>
+            </tblock>
+            <p>39 By its third question, the referring court asks, in essence, whether Directive 2002/47, in particular Articles 4 and 8 thereof, is to be interpreted as meaning that, in a situation where the taker of collateral provided under a security financial collateral arrangement has recovered its claim, arising from a failure to discharge the relevant financial obligations, from assets of the provider other than that collateral, that provider must be ranked above the other creditors in the insolvency proceedings against that taker, so that it can recover that collateral.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18091">
+          <num>40</num>
+          <content eId="para_18091__content">
+            <p>According to the Court's established case-law, the justification for a request for a preliminary ruling is not that it enables advisory opinions on general or hypothetical questions to be delivered but rather that it is necessary for the effective resolution of a dispute concerning EU law (judgment of 10 November 2016, Private Equity Insurance Group, C‑156/15, EU:C:2016:851, paragraph 56 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18092">
+          <num>41</num>
+          <content eId="para_18092__content">
+            <p>In that regard, as was noted by the Advocate General in point 93 of his Opinion, the dispute at issue in the main proceedings is between Ūkio bankas and Aviabaltika concerning the enforcement of the 2011 and 2012 agreements entered into by them and does not concern the conduct of the insolvency proceedings against Ūkio bankas. It is not apparent from the statements set out in the request for a preliminary ruling that the referring court is hearing a counterclaim for repayment of the financial collateral brought against that bank, nor that it is called upon to resolve the matters relating to the recovery of Aviabaltika's claim against Ūkio bankas in relation to that collateral in the context of those insolvency proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18093">
+          <num>42</num>
+          <content eId="para_18093__content">
+            <p>In addition, that request does not contain any element relating to the existence or content of provisions of national legislation which the referring court would be likely to apply, as appropriate, depending on the Court's reply, in order to resolve the dispute pending before it, which could have an effect on the ranking of creditors in those proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18094">
+          <num>43</num>
+          <content eId="para_18094__content">
+            <p>In those circumstances, it must be found that the third question is hypothetical and must, consequently, be regarded as inadmissible.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_18095">
+          <num>44</num>
+          <content eId="para_18095__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Fourth Chamber) hereby rules: 1. Article 4(5) of Directive 2002/47/EC of the European Parliament and of the Council of 6 June 2002 on financial collateral arrangements, as amended by Directive 2009/44/EC of the European Parliament and of the Council of 6 May 2009, must be interpreted as requiring Member States to adopt rules which enable a taker of collateral provided under a security financial collateral arrangement to recover its claim, arising from a failure to discharge the relevant financial obligations, from that collateral, where the enforcement event occurs after insolvency proceedings have been commenced against that taker. 2. Article 4(1) and (5) of Directive 2002/47, as amended by Directive 2009/44, must be interpreted as not requiring the taker of collateral provided under a security financial collateral arrangement to recover its claim, arising from a failure to discharge the financial obligations covered by that arrangement, primarily from that collateral.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Lithuanian.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

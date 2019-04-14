@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Fifth Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>25 July 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Judicial cooperation in criminal matters -- European arrest warrant -- Framework Decision 2002/584/JHA -- Article 1(2), Article 3(2) and Article 4(3) -- Grounds for the refusal to execute -- Closure of a criminal investigation -- Principle ne bis in idem -- Requested person who had the status of a witness in previous proceedings concerning the same acts -- Issue of several European arrest warrants against the same person) In Case C‑268/17, REQUEST for a preliminary ruling under Article 267 TFEU from the Županijski Sud u Zagrebu (County Court, Zagreb, Croatia), made by decision of 16 May 2017, received at the Court on 18 May 2017, in proceedings relating to the issue of a European arrest warrant against AY, THE COURT (Fifth Chamber), composed of J.L. da Cruz Vilaça, President of the Chamber, E. Levits, A. Borg Barthet, M. Berger (Rapporteur) and F. Biltgen, Judges, Advocate General: M. Szpunar, Registrar: M. Aleksejev, Administrator, having regard to the written procedure and further to the hearing of 28 February 2018, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>AY, by L. Valković and G. Mikuličić, odvjetnici, M. Lester QC, S. Abram and P. FitzGerald, Barristers, and by M. O'Kane, Solicitor,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>Ured za suzbijanje korupcije i organiziranog kriminaliteta, by T. Laptoš, V. Marušić and D. Hržina, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Croatian Government, by T. Galli, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Czech Government, by M. Smolek, J. Vláčil and O. Serdula, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>Ireland, by M. Browne, L. Williams and A. Joyce, acting as Agents, and G. Mullan, Barrister-at-Law,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Hungarian Government, by M.Z. Fehér, G. Koós and M.M. Tátrai, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Austrian Government, by G. Eberhard, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Romanian Government, by E. Gane, C.M. Florescu and R.-M. Mangu, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by R. Troosters, M. Mataija and S. Grünheid, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 16 May 2018,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_18174">
+          <num>1</num>
+          <content eId="para_18174__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Article 1(2), Article 3(2) and Article 4(3) of Council Framework Decision 2002/584/JHA of 13 June 2002 on the European arrest warrant and the surrender procedures between Member States ( OJ 2002 L 190, p. 1), as amended by Council Framework Decision 2009/299/JHA of 26 February 2009 ( OJ 2009 L 81, p. 24) ( `Framework Decision 2002/584').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18175">
+          <num>2</num>
+          <content eId="para_18175__content">
+            <p>The request has been made in proceedings concerning the issue of a European arrest warrant ( `the EAW') against AY, a Hungarian national, by the Županijski Sud u Zagrebu (County Court, Zagreb, Croatia).</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <paragraph eId="para_18176">
+          <num>3</num>
+          <content eId="para_18176__content">
+            <p>Article 1 of Framework Decision 2002/584 provides: `1.   The [EAW] is a judicial decision issued by a Member State with a view to the arrest and surrender by another Member State of a requested person, for the purposes of conducting a criminal prosecution or executing a custodial sentence or detention order. 2.   Member States shall execute any [EAW] on the basis of the principle of mutual recognition and in accordance with the provisions of this Framework Decision. 3.   This Framework Decision shall not have the effect of modifying the obligation to respect fundamental rights and fundamental legal principles as enshrined in Article 6 of the Treaty on European Union.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18177">
+          <num>4</num>
+          <content eId="para_18177__content">
+            <p>Article 2 of the Framework Decision, entitled `Scope of the [EAW]', provides, in paragraphs 1 and 2: `1.   [An EAW] may be issued for acts punishable by the law of the issuing Member State by a custodial sentence or a detention order for a maximum period of at least 12 months or, where a sentence has been passed or a detention order has been made, for sentences of at least four months. 2.   The following offences, if they are punishable in the issuing Member State by a custodial sentence or a detention order for a maximum period of at least three years and as they are defined by the law of the issuing Member State, shall, under the terms of this Framework Decision and without verification of the double criminality of the act, give rise to surrender pursuant to [an EAW]: ...</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>corruption, ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18178">
+          <num>5</num>
+          <content eId="para_18178__content">
+            <p>Article 3 of the framework decision, entitled `Grounds for mandatory non-execution of the [EAW]', is worded as follows: `The judicial authority of the Member State of execution (hereinafter ``executing judicial authority '') shall refuse to execute the [EAW] in the following cases: ... 2. if the executing judicial authority is informed that the requested person has been finally judged by a Member State in respect of the same acts provided that, where there has been sentence, the sentence has been served or is currently being served or may no longer be executed under the law of the sentencing Member State; ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18179">
+          <num>6</num>
+          <content eId="para_18179__content">
+            <p>Article 4 of Framework Decision 2002/584, entitled `Grounds for optional non-execution of the [EAW]', provides: `The executing judicial authority may refuse to execute the [EAW]: ... 3. where the judicial authorities of the executing Member State have decided either not to prosecute for the offence on which the [EAW] is based or to halt proceedings, or where a final judgment has been passed upon the requested person in a Member State, in respect of the same acts, which prevents further proceedings; ...'</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The main proceedings and the questions referred</p>
+        </tblock>
+        <paragraph eId="para_18180">
+          <num>7</num>
+          <content eId="para_18180__content">
+            <p>AY, a Hungarian national and chairman of the board of directors of a Hungarian company, was indicted in Croatia on 31 March 2014 on charges of active corruption. In the indictment issued by the Ured za suzbijanje korupcije i organiziranog kriminaliteta (Office for Suppression of Corruption and Organised Crime, Croatia), AY is alleged to have arranged for a considerable amount of money to be paid to a high-ranking Croatian politician, in return for the conclusion of an agreement.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18181">
+          <num>8</num>
+          <content eId="para_18181__content">
+            <p>The investigation against AY was opened in Croatia on 10 June 2011. On the adoption of the decision to proceed with that investigation, the competent Hungarian authority was requested to provide international legal assistance by interviewing AY as a suspect and delivering a summons to him.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18182">
+          <num>9</num>
+          <content eId="para_18182__content">
+            <p>The Croatian authorities repeated the request several times by letters rogatory. However, no action was taken on that request by Hungary, on the ground that the execution of the request would have affected Hungarian national interests. Consequently, the Croatian investigation was suspended in December 2012.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18183">
+          <num>10</num>
+          <content eId="para_18183__content">
+            <p>However, on the basis of the information communicated by the Croatian authorities, the Hungarian Attorney General opened, on 14 July 2011, an investigation, as there were reasonable grounds to suspect that a criminal offence consisting of acts of active corruption at international level under the Hungarian Criminal Code had been committed. The referring court states that the investigation was terminated by decision of the Hungarian National Bureau of Investigation of 20 January 2012 on the ground that the acts committed did not constitute a criminal offence under Hungarian law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18184">
+          <num>11</num>
+          <content eId="para_18184__content">
+            <p>That investigation was opened, not against AY as a suspect, but only in connection with the criminal offence against an unknown person. In that connection, AY was interviewed as a witness only. In addition, the high-ranking Croatian politician to whom the money was allegedly paid was not interviewed.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18185">
+          <num>12</num>
+          <content eId="para_18185__content">
+            <p>On 1 October 2013, after the Republic of Croatia's accession to the European Union and before criminal proceedings were initiated in Croatia, the Office for Suppression of Corruption and Organised Crime issued an EAW against AY.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18186">
+          <num>13</num>
+          <content eId="para_18186__content">
+            <p>The execution of that EAW was refused by decision of the Fővárosi Törvényszék (Budapest High Court, Hungary) of 7 October 2013 on the grounds that the available information showed that criminal proceedings had already been brought in Hungary in respect of the same acts as those on which the EAW was based and those proceedings had been halted.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18187">
+          <num>14</num>
+          <content eId="para_18187__content">
+            <p>Following the refusal to execute the EAW, AY was located in Germany and in Austria, but those two Member States indicated that they had decided not to take action on the international wanted persons notice issued through Interpol, as its execution could constitute an infringement of the principle ne bis in idem. Subsequently, the Interpol Secretariat decided to cancel the international wanted persons notice issued against AY and to deny the Republic of Croatia authorisation to use Interpol channels in connection with AY on account of the existence of a risk of infringement of the principle ne bis in idem and for the reasons of national security put forward by Hungary.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18188">
+          <num>15</num>
+          <content eId="para_18188__content">
+            <p>Following AY's indictment in Croatia, a new EAW was issued on 15 December 2015, this time by the division of the referring court responsible for EAWs, which was, however, never executed by Hungary.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18189">
+          <num>16</num>
+          <content eId="para_18189__content">
+            <p>On 27 January 2017, the referring court submitted the EAW again to the competent Hungarian judicial authority. The referring court stated in that regard that, criminal proceedings against AY having been brought before it and the EAW having initially been issued by the Public Prosecutor's Office during the phase prior to the initiation of those proceedings, circumstances had changed in the issuing Member State.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18190">
+          <num>17</num>
+          <content eId="para_18190__content">
+            <p>Given that, after the second EAW was sent, no answer had been received after 60 days, the referring court approached the Croatian member of Eurojust. That court states that, after intervening, that member forwarded to that court the opinion of the competent Hungarian authority, which states that the authority did not consider itself obliged to act on the EAW that was issued, on which a decision had already been taken in the course of the pre-trial phase of the criminal proceedings in Croatia. It therefore considered that it was also not obliged to observe the time limits for processing a European arrest warrant laid down in Framework Decision 2002/584. In addition, the opinion stated that there are no legal means in Hungary to authorise AY's arrest or to initiate a new procedure for the execution of the second EAW issued in Croatia on 15 December 2015. An identical opinion from the competent Hungarian authority was forwarded to the referring court on 4 April 2017.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18191">
+          <num>18</num>
+          <content eId="para_18191__content">
+            <p>In that context, the referring court states that it has doubts as to the interpretation of the grounds for non-execution laid down in Article 3(2) and Article 4(3) of Framework Decision 2002/584. That court is of the opinion that it is the requested person that is the subject of the EAW, as a decision relied on as a ground for the refusal to execute the EAW must relate to the requested person in his capacity as a suspect or an accused. Where the requested person has been interviewed as a witness during the proceedings in which the decision was given, that decision cannot form the basis for a refusal to execute the EAW. As a result, a decision terminating an investigation in Hungary which was not directed against AY cannot form the basis for a refusal to surrender that person.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18192">
+          <num>19</num>
+          <content eId="para_18192__content">
+            <p>That court also considers it necessary to refer questions to the Court in order to ascertain the obligations of the executing Member State in the case where an EAW has been issued several times by various competent authorities in the course of phases prior to and subsequent to the initiation of criminal proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18193">
+          <num>20</num>
+          <content eId="para_18193__content">
+            <p>Consequently, the Županijski Sud u Zagrebu (County Court, Zagreb) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Is Article 4(3) of Framework Decision [2002/584] to be interpreted as meaning that the decision not to prosecute for an offence on which [an EAW] is based or to halt proceedings relates only to the offence on which the [EAW] is based or is that provision to be understood as meaning that the cessation or discontinuation of proceedings must also concern the requested person as the suspect/accused in those proceedings?</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>May a Member State refuse, pursuant to Article 4(3) of Framework Decision [2002/584], to execute [an EAW] which has been issued when the judicial authority of the other Member State has decided either not to prosecute for the offence on which the [EAW] is based or to halt proceedings where the requested person had the status of a witness and not of a suspect/accused in the proceedings?</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>Does the decision to terminate an investigation in which the requested person did not have the status of a suspect but was interviewed as a witness constitute, for the other Member States, a ground not to act on the [EAW] which has been issued in accordance with Article 3(2) of Framework Decision [2002/584]?</p>
+              </item>
+              <item>
+                <num>(4)</num>
+                <p>What is the link between the mandatory ground for refusal of surrender laid down in Article 3(2) of the Framework Decision, where ``the executing judicial authority is informed that the requested person has been finally judged by a Member State in respect of the same acts ... '', and the optional ground for refusal of surrender laid down in Article 4(3) of the Framework Decision, where ``a final judgment has been passed upon the requested person in a Member State, in respect of the same acts, which prevents further proceedings ''? 5. Is Article 1(2) of Framework Decision [2002/584] to be interpreted as meaning that the executing Member State is required to adopt a decision on any [EAW] communicated to it, even where it has already taken a decision on a previous [EAW] issued by the other judicial authority against the same requested person in the same criminal proceedings and where the new [EAW] is issued because of a change in circumstances in the [Member] State issuing the [EAW] (decision to refer -- initiation of criminal proceedings, stricter evidential criteria relating to the commission of the offence, new competent judicial authority/court)?'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Procedure before the Court</p>
+        </tblock>
+        <paragraph eId="para_18194">
+          <num>21</num>
+          <content eId="para_18194__content">
+            <p>The referring court requested that this reference for a preliminary ruling should be dealt with under the urgent preliminary ruling procedure provided for in Article 107 of the Rules of Procedure of the Court. In support of its request, that court stated, inter alia, that the requested person might be arrested and that an order for remand in custody pending trial has been made against him.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18195">
+          <num>22</num>
+          <content eId="para_18195__content">
+            <p>The Fifth Chamber decided, on 1 June 2017, on a proposal from the Judge-Rapporteur, after hearing the Advocate General, not to grant that request. However, having regard to the circumstances in the main proceedings, the President of the Court granted priority treatment to the case by decision of 9 June 2017 under Article 53(3) of the Rules of Procedure.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Admissibility of the request for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_18196">
+          <num>23</num>
+          <content eId="para_18196__content">
+            <p>AY disputes the admissibility of the request for a preliminary ruling on the ground that the answers to the questions submitted are irrelevant for the purpose of the proceedings in default brought against him in Croatia. In his submission, the questions concern whether other Member States were and are required to execute the first and second EAWs issued against him. However, AY argues that there is no need for the Court to answer those questions in order to enable the referring court to deliver judgment on the charges.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18197">
+          <num>24</num>
+          <content eId="para_18197__content">
+            <p>In that regard, it must be borne in mind that, according to the Court's settled case-law, in the context of the cooperation between the Court and the national courts provided for in Article 267 TFEU, it is solely for the national court, before which the dispute has been brought and which must assume responsibility for the subsequent judicial decision, to determine in the light of the particular circumstances of the case both the need for a preliminary ruling in order to enable it to deliver judgment and the relevance of the questions which it submits to the Court. Consequently, where the questions submitted concern the interpretation of EU law, the Court is, in principle, bound to give a ruling (judgment of 12 October 2017, Sleutjes, C‑278/16, EU:C:2017:757, paragraph 21 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18198">
+          <num>25</num>
+          <content eId="para_18198__content">
+            <p>It follows that questions on the interpretation of EU law referred by a national court in the factual and legislative context which that court is responsible for defining and the accuracy of which is not a matter for this Court to determine, enjoy a presumption of relevance. The Court may refuse to rule on a question referred by a national court only where it is quite obvious that the interpretation of EU law that is sought is unrelated to the actual facts of the main action or its object, where the problem is hypothetical, or where the Court does not have before it the factual or legal material necessary to give a useful answer to the questions submitted to it (judgment of 12 October 2017, Sleutjes, C‑278/16, EU:C:2017:757, paragraph 22 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18199">
+          <num>26</num>
+          <content eId="para_18199__content">
+            <p>In the present case, it is not obvious from the case file submitted to the Court that the facts of the case correspond to one of those situations. Two separate sets of proceedings concerning AY are currently pending before the referring court, namely criminal proceedings in default before the adjudicating chamber of that court, and proceedings concerning the issue of an EAW before the competent chamber in those matters. The questions referred for a preliminary ruling have been done so in the context of the latter proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18200">
+          <num>27</num>
+          <content eId="para_18200__content">
+            <p>In that regard, the referring court states that it has brought the matter before the Court with a view to adopting, depending on the answers provided to the questions submitted, a decision to withdraw the EAW issued against AY. Therefore, the claim cannot be made that the questions submitted are unrelated to the actual facts or the object of the proceedings pending before the referring court, or that the problem is hypothetical.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18201">
+          <num>28</num>
+          <content eId="para_18201__content">
+            <p>In any event, the admissibility of the request for a preliminary ruling is not called into question by the fact that the questions asked concern the obligations of the executing judicial authority, even though the referring court is the judicial authority that issued the EAW. The issue of an EAW could result in the arrest of the requested person and, therefore, affects the personal freedom of the latter. The Court has held that, with regard to proceedings relating to an EAW, observance of fundamental rights falls primarily within the responsibility of the issuing Member State (judgment of 23 January 2018, Piotrowski, C‑367/16, EU:C:2018:27, paragraph 50).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18202">
+          <num>29</num>
+          <content eId="para_18202__content">
+            <p>Therefore, in order to ensure observance of those rights -- which may lead a judicial authority to decide to withdraw the EAW it issued -- such an authority must be able to refer questions to the Court for a preliminary ruling.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18203">
+          <num>30</num>
+          <content eId="para_18203__content">
+            <p>Therefore, the Court observes that, in the main proceedings, the maintaining in force of the EAW in question or the adoption of a decision to withdraw that EAW depends on whether Framework Decision 2002/584 must be interpreted as meaning that the judicial authority of the executing Member State is authorised, or, as the case may be, is required, in circumstances such as those of the present case, not to adopt a decision in respect of the EAW forwarded to it or to refuse to execute it.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18204">
+          <num>31</num>
+          <content eId="para_18204__content">
+            <p>This reference for a preliminary ruling is therefore admissible.</p>
+            <tblock>
+              <p>Consideration of the questions referred</p>
+            </tblock>
+            <tblock>
+              <p>The fifth question</p>
+            </tblock>
+            <p>32 By its fifth question, which should be examined first, the referring court asks, in essence, whether Article 1(2) of Framework Decision 2002/584 must be interpreted as requiring the judicial authority of the executing Member State to adopt a decision on any EAW forwarded to it, even when, in that Member State, a ruling has already been made on a previous EAW concerning the same person and the same acts, but the second EAW has been issued only on account of the indictment, in the issuing Member State, of the requested person.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18205">
+          <num>33</num>
+          <content eId="para_18205__content">
+            <p>As is apparent from the wording of Article 1(2) of Framework Decision 2002/584, Member States are required to execute any EAW on the basis of the principle of mutual recognition and in accordance with the provisions of that framework decision. Except in exceptional circumstances, the executing judicial authorities may therefore refuse to execute such a warrant only in the exhaustively listed cases of non-execution provided for by the framework decision and the execution of the EAW may be made subject only to one of the conditions listed exhaustively therein. Thus, the framework decision explicitly states the grounds for mandatory (Article 3) and optional (Articles 4 and 4a) non-execution of the EAW (see judgment of 10 August 2017, Tupikas, C‑270/17 PPU, EU:C:2017:628, paragraphs 50 and 51).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18206">
+          <num>34</num>
+          <content eId="para_18206__content">
+            <p>In that context, Article 15(1) of Framework Decision 2002/584 provides that `the executing judicial authority shall decide, within the time limits and under the conditions defined in this Framework Decision, whether the person is to be surrendered'. Furthermore, Article 17(1) and (6) of the framework decision provides that `[an EAW] shall be dealt with and executed as a matter of urgency' and that `reasons must be given for any refusal to execute [such a warrant]'. In addition, Article 22 of the framework decision provides that `the executing judicial authority shall notify the issuing judicial authority immediately of the decision on the action to be taken on the [EAW]'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18207">
+          <num>35</num>
+          <content eId="para_18207__content">
+            <p>As a result, as observed by the Advocate General in point 38 of his Opinion, an executing judicial authority which does not reply following the issue of an EAW and thus does not communicate any decision to the judicial authority that issued the EAW is in breach of its obligations under those provisions of Framework Decision 2002/584.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18208">
+          <num>36</num>
+          <content eId="para_18208__content">
+            <p>Consequently, the answer to the fifth question is that Article 1(2) of Framework Decision 2002/584 must be interpreted as requiring the judicial authority of the executing Member State to adopt a decision on any EAW forwarded to it, even when, in that Member State, a ruling has already been made on a previous EAW concerning the same person and the same acts, but the second EAW has been issued only on account of the indictment, in the issuing Member State, of the requested person.</p>
+            <tblock>
+              <p>The first to fourth questions</p>
+            </tblock>
+            <p>37 By its first to fourth questions, which should be examined together, the referring court asks, in essence, whether Article 3(2) and Article 4(3) of Framework Decision 2002/584 must be interpreted as meaning that a decision of the Public Prosecutor's Office, such as that of the Hungarian National Bureau of Investigation in question in the main proceedings, which terminated an investigation opened against an unknown person, during which the person who is the subject of the EAW was interviewed as a witness only, may be relied on for the purpose of refusing to execute that EAW pursuant to either of those provisions.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Article 3(2) of Framework Decision 2002/584</p>
+        </tblock>
+        <paragraph eId="para_18209">
+          <num>38</num>
+          <content eId="para_18209__content">
+            <p>Article 3(2) of Framework Decision 2002/584 sets out a ground for obligatory non-execution, pursuant to which the executing judicial authority must refuse to execute the EAW if it is informed that the requested person has been finally judged in a Member State in respect of the same acts provided that, when there has been sentence, the sentence has been served or is currently being served or may no longer be executed under the law of the sentencing Member State.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18210">
+          <num>39</num>
+          <content eId="para_18210__content">
+            <p>The purpose of that provision is to ensure that a person is not prosecuted or tried more than once in respect of the same acts (judgment of 16 November 2010, Mantello, C‑261/09, EU:C:2010:683, paragraph 40), and reflects the principle ne bis in idem enshrined in Article 50 of the Charter of Fundamental Rights of the European Union, according to which no one may be tried or punished twice in criminal proceedings for the same criminal offence.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18211">
+          <num>40</num>
+          <content eId="para_18211__content">
+            <p>One of the conditions to which the refusal to execute an EAW is subject is that the requested person must have been `finally judged'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18212">
+          <num>41</num>
+          <content eId="para_18212__content">
+            <p>In that regard, it must be stated that, even though Article 3(2) of Framework Decision 2002/584 refers to a `judgment', that provision is also applicable to decisions issued by an authority responsible for administering criminal justice in the national legal system concerned, definitively discontinuing criminal proceedings in a Member State, although such decisions are adopted without the involvement of a court and do not take the form of a judicial decision (see, by analogy, judgment of 29 June 2016, Kossowski, C‑486/14, EU:C:2016:483, paragraph 39 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18213">
+          <num>42</num>
+          <content eId="para_18213__content">
+            <p>According to the Court's case-law, a requested person is considered to have been finally judged in respect of the same acts within the meaning of Article 3(2) of Framework Decision 2002/584 when, following criminal proceedings, further prosecution is definitively barred or when the judicial authorities of a Member State have adopted a decision by which the accused is finally acquitted in respect of the alleged acts (judgment of 16 November 2010, Mantello, C‑261/09, EU:C:2010:683, paragraph 45 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18214">
+          <num>43</num>
+          <content eId="para_18214__content">
+            <p>The delivery of a `final judgment' within the meaning of Article 3(2) of Framework Decision 2002/584 thus implies that criminal proceedings had previously been instituted against the requested person (see, to that effect, judgments of 16 November 2010, Mantello, C‑261/09, EU:C:2010:683, paragraphs 46 and 47; of 5 June 2014, M, C‑398/12, EU:C:2014:1057, paragraphs 31 and 32; and of 29 June 2016, Kossowski, C‑486/14, EU:C:2016:483, paragraphs 34 and 35).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18215">
+          <num>44</num>
+          <content eId="para_18215__content">
+            <p>Moreover, the principle ne bis in idem applies only to persons who have been finally judged in a Member State (see judgment of 28 September 2006, Gasparini and Others, C‑467/04, EU:C:2006:610, paragraph 37). By contrast, it does not extend to persons who were merely interviewed in the course of a criminal investigation, such as witnesses.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18216">
+          <num>45</num>
+          <content eId="para_18216__content">
+            <p>In the present case, it appears from the case file submitted to the Court that the investigation conducted in Hungary following the Croatian letter rogatory and terminated by the decision of the Hungarian National Bureau of Investigation of 20 January 2012 was opened against an unknown person. It was not conducted against AY as a suspect or accused, the competent Hungarian authority having interviewed that person as a witness only. Accordingly, as no criminal proceedings were brought against him, AY cannot be considered to have been finally judged within the meaning of Article 3(2) of Framework Decision 2002/584.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18217">
+          <num>46</num>
+          <content eId="para_18217__content">
+            <p>Consequently, a decision of the Public Prosecutor's Office, such as that of the Hungarian National Bureau of Investigation in question in the main proceedings, which terminated an investigation during which the person who is the subject of an EAW was interviewed as a witness only, may not be relied on for the purpose of refusing to execute that EAW under Article 3(2) of Framework Decision 2002/584.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Article 4(3) of Framework Decision 2002/584</p>
+        </tblock>
+        <paragraph eId="para_18218">
+          <num>47</num>
+          <content eId="para_18218__content">
+            <p>Article 4(3) of Framework Decision 2002/584 sets out three optional grounds for non-execution.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18219">
+          <num>48</num>
+          <content eId="para_18219__content">
+            <p>Pursuant to the first ground for non-execution provided for in Article 4(3) of that framework decision, the executing judicial authority may refuse to execute the EAW where the judicial authorities of the executing Member State have decided not to prosecute for the offence on which the EAW is based.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18220">
+          <num>49</num>
+          <content eId="para_18220__content">
+            <p>The decision of the Hungarian National Bureau of Investigation in question in the main proceedings does not concern the discontinuance of criminal proceedings, so that that ground for non-execution is irrelevant in circumstances such as those of the present case.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18221">
+          <num>50</num>
+          <content eId="para_18221__content">
+            <p>Pursuant to the second ground for non-execution provided for in Article 4(3) of Framework Decision 2002/584, execution of the EAW may be refused where, in the executing Member State, the judicial authorities have decided to halt proceedings in respect of the offence on which the EAW is based.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18222">
+          <num>51</num>
+          <content eId="para_18222__content">
+            <p>In that regard, it must be noted that the first part of Article 4(3) of Framework Decision 2002/584, which sets out that ground for non-execution, refers only to the `offence on which the EAW is based', not to the requested person.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18223">
+          <num>52</num>
+          <content eId="para_18223__content">
+            <p>It should also be borne in mind that, as the refusal to execute an EAW constitutes the exception, the grounds for non-execution of such a warrant must be interpreted strictly (see judgment of 23 January 2018, Piotrowski, C‑367/16, EU:C:2018:27, paragraph 48 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18224">
+          <num>53</num>
+          <content eId="para_18224__content">
+            <p>As argued by the Commission, an interpretation according to which the execution of an EAW could be refused on the basis of the second ground for non-execution in Article 4(3) of Framework Decision 2002/584 -- where that warrant concerns the same acts as those that have already been the subject of a previous decision, without the identity of the person against whom criminal proceedings are brought being considered relevant -- would be manifestly too broad and would entail a risk that the obligation to execute an EAW could be circumvented.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18225">
+          <num>54</num>
+          <content eId="para_18225__content">
+            <p>As is apparent from Article 1(1) of the framework decision, the EAW is a judicial decision with a view to the arrest and surrender of a requested person. Accordingly, an EAW is not issued with regard to an offence only, but is necessarily issued against a specific person.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18226">
+          <num>55</num>
+          <content eId="para_18226__content">
+            <p>In addition, that ground for non-execution is not intended to protect a person from having to submit to investigations that may be undertaken successively, in respect of the same acts, in several Member States (see, by analogy, judgment of 29 June 2016, Kossowski, C‑486/14, EU:C:2016:483, paragraph 45 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18227">
+          <num>56</num>
+          <content eId="para_18227__content">
+            <p>Framework Decision 2002/584 comes within the scope of the European area of freedom, security and justice, in which the free movement of persons is ensured in conjunction with appropriate measures with regard to, amongst other matters, the prevention and combating of crime (see, by analogy, judgment of 29 June 2016, Kossowski, C‑486/14, EU:C:2016:483, paragraph 46).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18228">
+          <num>57</num>
+          <content eId="para_18228__content">
+            <p>Therefore, the second ground for non-execution laid down in Article 4(3) of Framework Decision 2002/584 must be interpreted in the light of the need to promote the prevention and combating of crime (see, by analogy, judgment of 29 June 2016, Kossowski, C‑486/14, EU:C:2016:483, paragraph 47).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18229">
+          <num>58</num>
+          <content eId="para_18229__content">
+            <p>It must be stated that, in circumstances such as those at issue in the present case, in which an investigation was conducted against an unknown person, not the person requested by the EAW, and the decision which terminated that investigation was not taken in respect of the requested person, there was no involvement of that person in the criminal proceedings referred to in the first part of Article 4(3) of Framework Decision 2002/584 warranting the refusal to execute the EAW.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18230">
+          <num>59</num>
+          <content eId="para_18230__content">
+            <p>That interpretation is borne out by the origins of Framework Decision 2002/584, since it is clear from the Commission's initial proposal (COM(2001) 522 final, p. 18) that the first part of Article 4(3) of that framework decision reflects the second sentence of Article 9 of the European Convention on Extradition, signed in Paris on 13 December 1957. According to that provision, `extradition may be refused if the competent authorities of the requested Party have decided either not to institute or to terminate proceedings in respect of the same offence or offences'. In that regard, the explanatory report to the Convention states that the provision covers the case of a person `in regard to whom' a decision has been taken precluding proceedings or terminating them (see page 9 of the Explanatory Report to the European Convention on Extradition (Paris, 13. XII.1957, European Treaty Series -- No 24)).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18231">
+          <num>60</num>
+          <content eId="para_18231__content">
+            <p>Thus, in circumstances such as those set out in paragraph 58 of this judgment, that decision cannot be relied on for the purpose of refusing to execute an EAW on the basis of the second ground for non-execution laid down in Article 4(3) of Framework Decision 2002/584.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18232">
+          <num>61</num>
+          <content eId="para_18232__content">
+            <p>Lastly, pursuant to the third ground for non-execution laid down in Article 4(3) of Framework Decision 2002/584, the executing judicial authority may refuse to execute the EAW where a final judgment has been passed upon the requested person in a Member State, in respect of the same acts, which prevents further proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18233">
+          <num>62</num>
+          <content eId="para_18233__content">
+            <p>In that regard, it is sufficient to note that that ground of non-execution cannot apply in a situation such as that at issue in the present case, as the conditions for its application are not fulfilled.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18234">
+          <num>63</num>
+          <content eId="para_18234__content">
+            <p>Consequently, having regard to all the foregoing considerations, the answer to the first to fourth questions is that Article 3(2) and Article 4(3) of Framework Decision 2002/584 must be interpreted as meaning that a decision of the Public Prosecutor's Office, such as that of the Hungarian National Bureau of Investigation in question in the main proceedings, which terminated an investigation opened against an unknown person, during which the person who is the subject of the EAW was interviewed as a witness only, without criminal proceedings having been brought against that person and where the decision was not taken in respect of that person, cannot be relied on for the purpose of refusing to execute that EAW pursuant to either of those provisions.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_18235">
+          <num>64</num>
+          <content eId="para_18235__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Fifth Chamber) hereby rules: 1. Article 1(2) of Council Framework Decision 2002/584/JHA of 13 June 2002 on the European arrest warrant and the surrender procedures between Member States, as amended by Council Framework Decision 2009/299/JHA of 26 February 2009, must be interpreted as requiring the judicial authority of the executing Member State to adopt a decision on any European arrest warrant forwarded to it, even when, in that Member State, a ruling has already been made on a previous European arrest warrant concerning the same person and the same acts, but the second European arrest warrant has been issued only on account of the indictment, in the issuing Member State, of the requested person. 2. Article 3(2) and Article 4(3) of Framework Decision 2002/584, as amended by Framework Decision 2009/299, must be interpreted as meaning that a decision of the Public Prosecutor's Office, such as that of the Hungarian National Bureau of Investigation in question in the main proceedings, which terminated an investigation opened against an unknown person, during which the person who is the subject of the European arrest warrant was interviewed as a witness only, without criminal proceedings having been brought against that person and where the decision was not taken in respect of that person, cannot be relied on for the purpose of refusing to execute that European arrest warrant pursuant to either of those provisions.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Croatian.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

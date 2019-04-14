@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+      <references source="#source">
+        <TLCOrganization eId="institution_11" showAs="" href="/akn/ontology/Organization/Institution/institution_11" />
+      </references>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Fourth Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>7 August 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Agriculture -- Market in wine -- Regulation (EC) No 555/2008 -- Support for the restructuring and conversion of vineyards -- Unannounced on-the-spot checks -- Powers of control officials -- Whether officials may enter agricultural land without having obtained the vine grower's permission) In Case C‑59/17, REQUEST for a preliminary ruling under Article 267 TFEU from the Conseil d'État (Council of State, France), made by decision of 30 January 2017, received at the Court on 3 February 2017, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">Château du Grand Bois SCI</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#institution_11">Établissement national des produits de l'agriculture et de la mer (FranceAgriMer)</party>
+      </p>
+      <p>, THE COURT (Fourth Chamber), composed of T. von Danwitz, President of the Chamber, C. Vajda (Rapporteur), E. Juhász, K. Jürimäe and C. Lycourgos, Judges, Advocate General: M. Bobek, Registrar: V. Giacobbo-Peyronnel, Administrator, having regard to the written procedure and further to the hearing on 7 November 2017, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>the French Government, by D. Colas, S. Horrenberger and E. de Moustier, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Greek Government, by G. Kanellopoulos, E. Leftheriotou, A. Vasilopoulou and E. Chroni, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by D. Triantafyllou and H. Krämer, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 22 February 2018,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <tblock>
+        <p>Judgment</p>
+      </tblock>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_18667">
+          <num>1</num>
+          <content eId="para_18667__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Commission Regulation (EC) No 555/2008 of 27 June 2008 laying down detailed rules for implementing Council Regulation (EC) No 479/2008 on the common organisation of the market in wine as regards support programmes, trade with third countries, production potential and on controls in the wine sector ( OJ 2008 L 170, p. 1).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18668">
+          <num>2</num>
+          <content eId="para_18668__content">
+            <p>The request has been made in the context of proceedings between Château du Grand Bois SCI and the Établissement national des produits de l'agriculture et de la mer (National Institute for Agricultural and Marine Products) (FranceAgriMer) concerning the latter's rejection of the application submitted by Château du Grand Bois for the grant of support for the restructuring and conversion of its vineyard.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <tblock>
+          <p>Regulation (EC) No 479/2008</p>
+        </tblock>
+        <paragraph eId="para_18669">
+          <num>3</num>
+          <content eId="para_18669__content">
+            <p>Council Regulation (EC) No 479/2008 of 29 April 2008 on the common organisation of the market in wine, amending Regulations (EC) No 1493/1999, (EC) No 1782/2003, (EC) No 1290/2005, (EC) No 3/2008 and repealing Regulations (EEC) No 2392/86 and (EC) No 1493/1999 ( OJ 2008 L 148, p. 1) was repealed by Council Regulation (EC) No 491/2009 of 25 May 2009 amending Regulation (EC) No 1234/2007 establishing a common organisation of agricultural markets and on specific provisions for certain agricultural products (Single CMO Regulation) ( OJ 2009 L 154, p. 1). At the time of the facts of the case in the main proceedings, however, Regulation No 479/2008 was still applicable. Article 3 of that regulation, featuring in Chapter 1, entitled `Support programmes', of Title II of the regulation, provided as follows: `This Chapter lays down the rules governing the attribution of Community funds to Member States and the use of those funds by Member States through national support programmes (hereinafter referred to as support programmes) to finance specific support measures to assist the wine sector.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18670">
+          <num>4</num>
+          <content eId="para_18670__content">
+            <p>Under Article 4(2) of that regulation: `Member States shall be responsible for the support programmes and ensure that they are internally consistent and drawn up and implemented in an objective manner, taking into account the economic situation of the producers concerned and the need to avoid unjustified unequal treatment between producers. Member States shall be responsible for providing for, and carrying out, the necessary controls and penalties in case of non-compliance with the support programmes.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Regulation (EC) No 555/2008</p>
+        </tblock>
+        <paragraph eId="para_18671">
+          <num>5</num>
+          <content eId="para_18671__content">
+            <p>Recitals 72 and 73 of Regulation No 555/2008 state: `</p>
+            <blockList>
+              <item>
+                <num>(72)</num>
+                <p>Member States should ensure the effectiveness of the work of the bodies responsible for wine-sector controls. ...</p>
+              </item>
+              <item>
+                <num>(73)</num>
+                <p>To help the uniform application of the rules throughout the Community, Member States should take the necessary steps to ensure that the staff of the competent bodies has adequate powers of investigation to guarantee compliance with the rules.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18672">
+          <num>6</num>
+          <content eId="para_18672__content">
+            <p>Article 57(9) of Commission Delegated Regulation (EU) 2016/1149 of 15 April 2016 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards the national support programmes in the wine sector and amending Commission Regulation (EC) No 555/2008 ( OJ 2016 L 190, p. 1) deleted Articles 75 to 82 of Regulation No 555/2008. For its part, Commission Delegated Regulation (EU) 2018/273 of 11 December 2017 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards the scheme of authorisations for vine plantings, the vineyard register, accompanying documents and certification, the inward and outward register, compulsory declarations, notifications and publication of notified information, and supplementing Regulation (EU) No 1306/2013 of the European Parliament and of the Council as regards the relevant checks and penalties, amending Commission Regulations (EC) No 555/2008, (EC) No 606/2009 and (EC) No 607/2009 and repealing Commission Regulation (EC) No 436/2009 and Commission Delegated Regulation (EU) 2015/560 ( OJ 2018 L 58, p. 1), under Article 52(1), deleted, inter alia, Articles 83 to 95a of Regulation No 555/2008. At the time of the facts of the case in the main proceedings, those deleted articles were still in force.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18673">
+          <num>7</num>
+          <content eId="para_18673__content">
+            <p>Article 76 of Regulation No 555/2008 provided: `Without prejudice to specific provisions of this Regulation or other Community legislation, Member States shall introduce checks and measures in so far as they are necessary to ensure the proper application of Regulation [No 479/2008] and this Regulation. They shall be effective, proportionate and dissuasive so that they provide adequate protection for the Communities' financial interests. In particular, Member States shall ensure that:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>all eligibility criteria established by Community or national legislation or the national framework can be checked; ...</p>
+              </item>
+              <item>
+                <num>(d)</num>
+                <p>the checks and measures are in line with the nature of the support measure concerned. Member States shall define methods and means for verification and specify who shall be subject to checks; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18674">
+          <num>8</num>
+          <content eId="para_18674__content">
+            <p>According to Article 77(1) of the regulation, verification is to be effected by administrative and, where appropriate, on-the-spot checks.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18675">
+          <num>9</num>
+          <content eId="para_18675__content">
+            <p>Under Article 78 of that regulation: `1.   On-the-spot checks shall be unannounced. However, provided that the purpose of the check is not compromised, advance notice limited to the strict minimum necessary may be given. Such notice shall not exceed 48 hours, except in duly justified cases or for those measures where systematic on-the-spot checks are foreseen. ... 3.   The aid application or applications concerned shall be rejected if beneficiaries or their representatives prevent an on-the-spot check from being carried out.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18676">
+          <num>10</num>
+          <content eId="para_18676__content">
+            <p>Article 81(3) and (4) of that regulation provided: `3.   Areas receiving grubbing-up premium shall be systematically verified before and after the execution of the grubbing up. The plots verified shall be those which are the subject of an application for aid. ... 4.   Verification that grubbing-up has actually taken place shall be done by a classical on-the-spot control, or, in the case of grubbing up the entire vineyard parcel or if the resolution of the remote sensing is equal to or better than 1 m 2, may be carried out by remote sensing.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18677">
+          <num>11</num>
+          <content eId="para_18677__content">
+            <p>Article 83 of Regulation No 555/2008, entitled `Powers of control officials', was worded as follows: `Each Member State shall take all appropriate measures to facilitate the work of the officials of its competent bodies. It shall ensure in particular that such officials, where appropriate in conjunction with officials of other departments which it authorises for the purpose:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>have access to vineyards, wine-making and storage installations, installations for processing wine-sector products and vehicles for transporting those products; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_18678">
+          <num>12</num>
+          <content eId="para_18678__content">
+            <p>It is apparent from the order for reference that, on 29 July 2009, Château du Grand Bois applied for the grant of support for the restructuring and conversion of its vineyard for the 2008/2009 season.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18679">
+          <num>13</num>
+          <content eId="para_18679__content">
+            <p>By decision of 18 December 2009, FranceAgriMer rejected that application on the ground that an official of FranceAgriMer had established, in the course of the on-the-spot checks carried out on 27 August and 15 September 2009, that on certain parcels the grubbing-up of vines had not been carried out in accordance with the legislation in force.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18680">
+          <num>14</num>
+          <content eId="para_18680__content">
+            <p>By a ruling of 7 May 2013, the tribunal administratif de Nantes (Administrative Court, Nantes, France) upheld the action brought by Château du Grand Bois against that decision. On appeal by FranceAgriMer, the cour administrative d'appel de Nantes (Administrative Court of Appeal, Nantes, France) set aside that ruling.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18681">
+          <num>15</num>
+          <content eId="para_18681__content">
+            <p>Before the referring court, the Conseil d'État (Council of State, France), Château du Grand Bois submits that the fact that an official of FranceAgriMer entered its property without having been authorised to do so affects the legality of the decision taken by FranceAgriMer on 18 December 2009.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18682">
+          <num>16</num>
+          <content eId="para_18682__content">
+            <p>In those circumstances, the Conseil d'État decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Do Articles 76, 78 and 81 of Regulation [No 555/2008] authorise officials carrying out an on-the-spot check to enter agricultural land without having obtained the farmer's permission?</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>If the first question is answered in the affirmative: must a distinction be made depending on whether or not the land in question is enclosed?</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>If the first question is answered in the affirmative: are Articles 76, 78 and 81 of Regulation [No 555/2008] compatible with the principle of the inviolability of the home as guaranteed by Article 8 of the European Convention [for the Protection of Human Rights and Fundamental Freedoms, signed in Rome on 4 November 1950]?'</p>
+                <tblock>
+                  <p>Consideration of the questions referred</p>
+                </tblock>
+                <tblock>
+                  <p>The first question</p>
+                </tblock>
+                <p>17 By its first question, the referring court asks, in essence, whether Articles 76, 78 and 81 of Regulation No 555/2008 must be interpreted as authorising officials carrying out an on-the-spot check to enter agricultural land without having obtained the vine grower's permission.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18683">
+          <num>18</num>
+          <content eId="para_18683__content">
+            <p>The provisions cited by the referring court in its first question are contained in Chapter 1, entitled `Principles of control', of Title V, entitled `Controls in the wine sector', of Regulation No 555/2008, which lays down detailed rules for the implementation of Regulation No 479/2008. The provisions of that chapter set out some of the principles and rules governing the Member States' obligation to carry out checks in order to verify that that regulation is being properly applied.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18684">
+          <num>19</num>
+          <content eId="para_18684__content">
+            <p>Thus, pursuant to Article 4(2) of Regulation No 479/2008, Article 76 of Regulation No 555/2008 imposes an obligation on Member States to introduce, in so far as they are necessary to ensure the proper application of those regulations, checks and measures that are effective, proportionate and dissuasive in such a way as to provide adequate protection for the European Union's financial interests.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18685">
+          <num>20</num>
+          <content eId="para_18685__content">
+            <p>Article 77(1) of Regulation No 555/2008 provides that the verification carried out is to consist of administrative and, where appropriate, on-the-spot checks. In accordance with Article 78(1) of that regulation, on-the-spot checks must be unannounced, although advance notice limited to the strict minimum necessary may be given provided that the purpose of the check is not compromised.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18686">
+          <num>21</num>
+          <content eId="para_18686__content">
+            <p>As regards the areas receiving a grubbing-up premium, Article 81(3) and (4) of that regulation provides that those areas are to be systematically verified before and after the execution of the grubbing up and that those checks are to be classical on-the-spot checks, notwithstanding the possibility, under certain conditions, of carrying out other kinds of checks detailed in those provisions.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18687">
+          <num>22</num>
+          <content eId="para_18687__content">
+            <p>However, neither the wording of Articles 76, 78 and 81 of Regulation No 555/2008 nor that of the other provisions of that regulation provides that the obligation on the Member States to introduce a system of on-the-spot checks includes an authorisation, for the officials empowered for that purpose, to enter agricultural land without having obtained the vine grower's permission.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18688">
+          <num>23</num>
+          <content eId="para_18688__content">
+            <p>In particular, it cannot be inferred from the fact that, in accordance with Article 78(1) of Regulation No 555/2008, on-the-spot checks must be unannounced that that regulation provides for such authorisation. As observed by the Advocate General in points 40 to 42 of his Opinion, the words `unannounced' and `unauthorised' are not synonymous. The fact that a check can be carried out unannounced means at the very most that it can take place at any time, without the control official having given notice of his visit.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18689">
+          <num>24</num>
+          <content eId="para_18689__content">
+            <p>By contrast, the fact that the check is `unannounced' cannot mean that, once the official is in situ without having given prior notice, that official can claim that he has the right to enter the place where the check is to be carried out without having been authorised to do so by the vine grower. It follows that the obligation of the Member States imposed by Regulation No 555/2008 to introduce a system of unannounced checks does not in itself entail the right of control officials to enter the place where the check is to be carried out without the vine grower's permission.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18690">
+          <num>25</num>
+          <content eId="para_18690__content">
+            <p>This analysis is supported by the general scheme of the regulation. In that regard, recitals 72 and 73 of the regulation state that it is for the Member States to ensure the effectiveness of the work of the bodies responsible for wine-sector controls, taking the necessary steps to ensure that the staff of those bodies has adequate powers of investigation to guarantee compliance with the rules. In addition, as observed by the Advocate General in point 43 of his Opinion, Article 83(a) of that regulation, concerning the powers of control officials, provides that each Member State must ensure that its officials have access to vineyards and other places and installations necessary for them to carry out their duties, without, however, requiring that it be possible to gain such access without the vine grower's permission.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18691">
+          <num>26</num>
+          <content eId="para_18691__content">
+            <p>It follows that Regulation No 555/2008 gives the Member States responsibility for regulating, under their national law, the powers granted to control officials as well as the greater part of the rules governing the checks to be carried out, including those relating to access to the places to be subjected to checks.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18692">
+          <num>27</num>
+          <content eId="para_18692__content">
+            <p>Consequently, Regulation No 555/2008 does not grant authorisation to enter a vine grower's land without his permission.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18693">
+          <num>28</num>
+          <content eId="para_18693__content">
+            <p>However, the French Government and the European Commission essentially take the view that, when they apply for EU funding under the support programmes referred to in Regulations No 479/2008 and No 555/2008, vine growers implicitly authorise checks generally and in advance, as those checks form an integral part of the aid scheme established by those regulations.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18694">
+          <num>29</num>
+          <content eId="para_18694__content">
+            <p>That argument cannot be accepted.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18695">
+          <num>30</num>
+          <content eId="para_18695__content">
+            <p>According to the Court's settled case-law, protection against arbitrary or disproportionate intervention by public authorities in the sphere of the private activities of any natural or legal person constitutes a general principle of EU law; such intervention must have a legal basis and must be justified on the grounds laid down by law (see, to that effect, judgments of 21 September 1989, Hoechst v Commission, 46/87 and 227/88, EU:C:1989:337, paragraph 19; of 22 October 2002, Roquette Frères, C‑94/00, EU:C:2002:603, paragraph 27, and of 16 May 2017, Berlioz Investment Fund, C‑682/15, EU:C:2017:373, paragraph 51).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18696">
+          <num>31</num>
+          <content eId="para_18696__content">
+            <p>Implicit, general authorisation granted in advance, as envisaged by the French Government and the Commission, does not satisfy that requirement. Even though EU law can provide for the possibility of general authorisation to enter agricultural land being granted in advance by the vine grower to control officials, such authorisation should, at the very least, be expressly provided for by law. However, Regulations No 479/2008 and No 555/2008 do not provide for such authorisation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18697">
+          <num>32</num>
+          <content eId="para_18697__content">
+            <p>In any event, the Court finds that the rejection of the aid application provided for in Article 78(3) of Regulation No 555/2008, as a serious legal consequence if vine growers or their representatives prevent the carrying-out of the on-the-spot check, is in itself an effective and sufficient way to achieve the objective, referred to in Article 76 of that regulation, of providing adequate protection for the financial interests of the European Union (see, by analogy, judgment of 16 June 2011, Omejc, C‑536/09, EU:C:2011:398, paragraphs 26 and 27). In order to attain that objective, general authorisation to access the place where the checks are to be carried out, granted in advance to control officials, is therefore unnecessary.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18698">
+          <num>33</num>
+          <content eId="para_18698__content">
+            <p>In the light of the foregoing considerations, the answer to the first question is that Articles 76, 78 and 81 of Regulation No 555/2008 must be interpreted as not authorising officials carrying out an on-the-spot check to enter agricultural land without having obtained the vine grower's permission.</p>
+            <tblock>
+              <p>The second and third questions</p>
+            </tblock>
+            <p>34 In the light of the answer to the first question, there is no need to answer the second and third questions.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_18699">
+          <num>35</num>
+          <content eId="para_18699__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Fourth Chamber) hereby rules: Articles 76, 78 and 81 of Commission Regulation (EC) No 555/2008 of 27 June 2008 laying down detailed rules for implementing Council Regulation (EC) No 479/2008 on the common organisation of the market in wine as regards support programmes, trade with third countries, production potential and on controls in the wine sector, must be interpreted as not authorising officials carrying out an on-the-spot check to enter agricultural land without having obtained the vine grower's permission.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: French.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Second Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>25 July 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Value added tax (VAT) -- Directive 2006/112/EC -- Articles 167, 168 and 184 -- Deduction of input tax -- Adjustment -- Immovable property acquired as capital goods -- Initial allocation to an activity which does not confer entitlement to deduct input tax and subsequently also to an activity subject to VAT -- Public body -- Taxable-person status at the time of the taxable transaction) In Case C‑140/17, REQUEST for a preliminary ruling under Article 267 TFEU from the Naczelny Sąd Administracyjny (Supreme Administrative Court, Poland), made by decision of 22 December 2016, received at the Court on 17 March 2017, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">Szef Krajowej Administracji Skarbowej</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#">Gmina Ryjewo</party>
+      </p>
+      <p>, THE COURT (Second Chamber), composed of M. Ilešič, President of the Chamber, A. Rosas, C. Toader, A. Prechal (Rapporteur) and E. Jarašiūnas, Judges, Advocate General: J. Kokott, Registrar: M. Aleksejev, Administrator, having regard to the written procedure and further to the hearing on 11 January 2018, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>the Szef Krajowej Administracji Skarbowej, by J. Kaute and B. Kołodziej, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>Gmina Ryjewo, by M. Gizicki, adwokat, and B. Rasz, doradca podatkowy,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Polish Government, by B. Majczyna and A. Kramarczyk-Szaładzińska, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by F. Clotuche-Duvieusart and L. Habiak, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 19 April 2018,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_17688">
+          <num>1</num>
+          <content eId="para_17688__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Articles 167, 168 and 184 of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax ( OJ 2006 L 347, p. 1) and of the principle of the neutrality of value added tax ( `VAT').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17689">
+          <num>2</num>
+          <content eId="para_17689__content">
+            <p>The request has been made in proceedings between the Szef Krajowej Administracji Skarbowej (Head of the National Tax Authority, Poland) and Gmina Ryjewo (Municipality of Ryjewo, Poland) ( `the municipality'), concerning a decision by the Minister Finansów (Minister for Finance, Poland) ( `the Minister') to refuse to allow the municipality to adjust the deduction of input VAT paid for immovable property, acquired as capital goods, which was, initially, allocated to a non-taxable activity and, subsequently, to a taxable activity.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <paragraph eId="para_17690">
+          <num>3</num>
+          <content eId="para_17690__content">
+            <p>Article 2(1) of Directive 2006/112 provides: `The following transactions shall be subject to VAT: ...</p>
+            <blockList>
+              <item>
+                <num>(c)</num>
+                <p>the supply of services for consideration within the territory of a Member State by a taxable person acting as such'.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17691">
+          <num>4</num>
+          <content eId="para_17691__content">
+            <p>Under Article 9(1) of the directive: ```Taxable person '' shall mean any person who, independently, carries out in any place any economic activity, whatever the purpose or results of that activity. Any activity of producers, traders or persons supplying services, including mining and agricultural activities and activities of the professions, shall be regarded as ``economic activity ''. The exploitation of tangible or intangible property for the purposes of obtaining income therefrom on a continuing basis is in particular to be regarded as an economic activity.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17692">
+          <num>5</num>
+          <content eId="para_17692__content">
+            <p>Article 13(1) of that directive provides: `States, regional and local government authorities and other bodies governed by public law shall not be regarded as taxable persons in respect of the activities or transactions in which they engage as public authorities, even where they collect dues, fees, contributions or payments in connection with those activities or transactions. However, when they engage in such activities or transactions, they shall be regarded as taxable persons in respect of those activities or transactions where their treatment as non-taxable persons would lead to significant distortions of competition. ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17693">
+          <num>6</num>
+          <content eId="para_17693__content">
+            <p>Article 63 of that directive provides: `The chargeable event shall occur and VAT shall become chargeable when the goods or the services are supplied.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17694">
+          <num>7</num>
+          <content eId="para_17694__content">
+            <p>Article 167 of Directive 2006/112 is worded as follows: `A right of deduction shall arise at the time the deductible tax becomes chargeable.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17695">
+          <num>8</num>
+          <content eId="para_17695__content">
+            <p>Article 168 of the directive provides: `In so far as the goods and services are used for the purposes of the taxed transactions of a taxable person, the taxable person shall be entitled, in the Member State in which he carries out these transactions, to deduct the following from the VAT which he is liable to pay:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>the VAT due or paid in that Member State in respect of supplies to him of goods and services, carried out or to be carried out by another taxable person; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17696">
+          <num>9</num>
+          <content eId="para_17696__content">
+            <p>Under Article 184 of that directive: `The initial deduction shall be adjusted where it is higher or lower than that to which the taxable person was entitled.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17697">
+          <num>10</num>
+          <content eId="para_17697__content">
+            <p>Under Article 185(1) of that directive: `Adjustment shall, in particular, be made where, after the VAT return is made, some change occurs in the factors used to determine the amount to be deducted, for example where purchases are cancelled or price reductions are obtained.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17698">
+          <num>11</num>
+          <content eId="para_17698__content">
+            <p>Articles 187 and 189 of Directive 2006/112 contain rules on adjustment for capital goods concerning, inter alia, the adjustment period applicable to immovable property acquired as capital goods.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Polish law</p>
+        </tblock>
+        <paragraph eId="para_17699">
+          <num>12</num>
+          <content eId="para_17699__content">
+            <p>Article 15 of the ustawa o podatku od towarów i usług (Law on the tax on goods and services) of 11 March 2004 (Dz. U., No 54, heading 535), in the version applicable to the dispute in the main proceedings, ( `the Law on VAT') provides: `1. ``Taxable persons '' shall mean legal persons, organisational entities without legal personality and natural persons independently pursuing an economic activity as referred to in paragraph 2, regardless of the purpose or result of such activity. 2.   Economic activities shall comprise all activities of producers, traders and service providers, including economic operators which extract natural resources and farmers, as well as the activities of the professions. Activities consisting in the exploitation of goods or intangible assets and rights on a continuing basis for the purpose of obtaining income therefrom shall also be regarded as an economic activity. ... 6. ``Taxable persons '' shall not include public authorities and offices which support public authorities with regard to the tasks established by specific provisions, for the accomplishment of which they have been appointed, with the exception of activities carried out by them under private law contracts.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17700">
+          <num>13</num>
+          <content eId="para_17700__content">
+            <p>Article 86(1) of the Law on VAT provides: `In so far as goods and services are used to conduct taxable transactions, a taxable person within the meaning of Article 15 shall have the right to deduct the amount of input tax from the amount of tax due, subject to Articles 114, 119(4), 120(17) and (19) and</p>
+            <blockList>
+              <item>
+                <num>124.</num>
+                <p>'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17701">
+          <num>14</num>
+          <content eId="para_17701__content">
+            <p>Under Article 91 of that law: ` ... 2.   In the case of goods and services which are treated by the taxable person as forming part of his depreciable fixed assets or intangible assets and rights under the provisions applying to income tax, and also land and rights of perpetual usufruct over land, where they have been added to the fixed assets or intangible assets or legal assets of the acquirer, with the exception of those the initial book value of which does not exceed 15000 [Polish złotys (PLN)], the taxable person shall effect the adjustment referred to in paragraph 1 over the five subsequent years, and, in the case of land and rights of perpetual usufruct over land, over ten years, following the year in which they were surrendered for use. ... 7.   The provisions of paragraphs 1 to 6 shall apply mutatis mutandis where the taxable person had the right to deduct the amounts of tax due by the whole amount of the input tax on goods or services used by that taxable person, and he made that deduction, or where the taxable person did not have that right to deduct but the right to deduct the amount of the input tax paid for those goods or services was subsequently amended.'</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_17702">
+          <num>15</num>
+          <content eId="para_17702__content">
+            <p>The municipality has been registered since 2005 as a taxable person for the purpose of VAT.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17703">
+          <num>16</num>
+          <content eId="para_17703__content">
+            <p>During 2009 and 2010, the municipality commissioned the construction of a community centre. In connection with that construction work, the municipality was supplied with goods and services, in respect of which it paid VAT. Once the construction of the community centre had been completed, the municipal cultural centre was entrusted, in 2010, with its management.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17704">
+          <num>17</num>
+          <content eId="para_17704__content">
+            <p>In the course of 2014, the municipality expressed its intention to transfer ownership of that building into its assets and to manage it directly. The municipality intended subsequently to use the community centre both free of charge, in order to meet the needs of the municipality's population, and for consideration, by renting it out for commercial purposes. With regard to that paid use, the municipality expressly stated its intention to issue invoices that included VAT. The municipality has, to date, not yet deducted the VAT paid for the implementation of that investment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17705">
+          <num>18</num>
+          <content eId="para_17705__content">
+            <p>In response to a request by the municipality for a tax ruling, the Minister expressed the view, by a decision of 28 May 2014, that, pursuant to, inter alia, Article 91(2) and (7) of the Law on VAT, the municipality could not be entitled to an adjustment of the right to deduct VAT, primarily on the ground that, having acquired the goods and services in question for the purpose of making the building available to the municipal cultural centre free of charge, the municipality had not acquired those goods for the purposes of an economic activity and had therefore not acted as a person subject to VAT.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17706">
+          <num>19</num>
+          <content eId="para_17706__content">
+            <p>By judgment of 18 November 2014, the Wojewódzki Sąd Administracyjny w Gdańsku (Regional Administrative Court, Gdansk, Poland) upheld the appeal brought by the municipality against the Minister's decision of 28 May 2014.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17707">
+          <num>20</num>
+          <content eId="para_17707__content">
+            <p>That court took the view that the taxable person's initial use of the goods and services for the purpose of carrying out activities that are not subject to VAT does not deprive it of the right subsequently to deduct the input tax, in the case where the intended use of those goods and services has changed and they are then used for the purpose of taxable transactions. In that regard, the municipality cannot validly be criticised for not expressly stating, in its application which led to the decision of 28 May 2014, that, when it acquired the building, it intended to use it as part of an economic activity.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17708">
+          <num>21</num>
+          <content eId="para_17708__content">
+            <p>The referring court, the Naczelny Sąd Administracyjny (Supreme Administrative Court, Poland), to which the Minister appealed on a point of law, is unsure whether, in accordance with Articles 167, 168 and 184 of Directive 2006/112, a municipality is entitled to deduct, by way of adjustment, input VAT on investment expenditure, in a case where the capital goods in question were initially used for the purposes of an activity that is not subject to VAT, in this instance, in connection with the performance by the municipality of tasks coming within its remit as a public authority, and subsequently also to carry out taxable transactions.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17709">
+          <num>22</num>
+          <content eId="para_17709__content">
+            <p>In that regard, the referring court considers that it follows from the judgment of 2 June 2005, Waterschap Zeeuws Vlaanderen ( C‑378/02, EU:C:2005:335), that that question should be answered in the negative, in that it is apparent from that judgment that a body governed by public law which acted as a public authority, and not as a taxable person, at the time of the acquisition of capital goods is not entitled to any right to deduct the VAT paid on such goods, including in the case where that body subsequently acted as a taxable person.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17710">
+          <num>23</num>
+          <content eId="para_17710__content">
+            <p>However, the referring court states, the principles laid down in that judgment have become unclear since, by its order of 5 June 2014, Gmina Międzyzdroje ( C‑500/13, EU:C:2014:1750), the Court took the view that, in a situation where the municipality in question had changed the use made of immovable property acquired as capital goods from an initial use not conferring entitlement to deduct VAT to a subsequent use which did confer such entitlement, an adjustment of the deductions was in principle allowed.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17711">
+          <num>24</num>
+          <content eId="para_17711__content">
+            <p>In that regard, according to the referring court, the question arises as to whether significance should be attached to the issue of whether or not, at the time of the acquisition of the capital goods, the municipality had expressly declared its intention to use those goods also in future in order to carry out taxable transactions.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17712">
+          <num>25</num>
+          <content eId="para_17712__content">
+            <p>In the absence of such an expression of intent, the referring court takes the view that the further question then arises as to whether the capacity in which the public authority has acted must be determined exclusively on the basis of the first use of the capital goods or whether other criteria should also be taken into account.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17713">
+          <num>26</num>
+          <content eId="para_17713__content">
+            <p>In those circumstances, the Naczelny Sąd Administracyjny (Supreme Administrative Court) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>In the light of Articles 167, 168 and 184 et seq. of [Directive 2006/112] and the principle of neutrality, does a municipality have the right to deduct (by effecting an adjustment) input tax on its investment expenditure in the case where:</p>
+                <blockList>
+                  <item>
+                    <num>--</num>
+                    <p>in the initial period after production (acquisition), the capital goods were used for the purposes of a non-taxable activity (in connection with the municipality's performance of the tasks of a public authority within its area of responsibility); and</p>
+                  </item>
+                  <item>
+                    <num>--</num>
+                    <p>the use to which the capital goods are put has changed and they will in future be used by the municipality also to carry out taxable transactions?</p>
+                  </item>
+                </blockList>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>Is it relevant to the answer to the first question that, at the time when the capital goods were produced or acquired, the municipality's intention to use those goods in future to carry out taxable transactions was not indicated clearly?</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>Is it relevant to the answer to the first question that the capital goods will be used for the purpose of carrying out both taxable and non-taxable transactions (in connection with the performance of the tasks of a public authority) and that it is not possible to ascribe specific investment expenditure to one of the abovementioned transaction categories?'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the questions referred</p>
+        </tblock>
+        <paragraph eId="para_17714">
+          <num>27</num>
+          <content eId="para_17714__content">
+            <p>By its three questions, which it is appropriate to examine together, the referring court asks, in essence, whether Articles 167, 168 and 184 of Directive 2006/112 and the principle of VAT neutrality must be interpreted as precluding a public body governed by public law from being entitled to a right to adjustment of deductions of VAT paid on immovable property acquired as capital goods in a situation, such as that obtaining in the main proceedings, where, at the time of the acquisition of those goods, first, they could, by their very nature, be used both for taxable activities and for non-taxable activities but were initially used for non-taxable activities, and second, that public body had not expressly stated its intention to use those goods for a taxable activity but had also not excluded the possibility that they might be used for such a purpose.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17715">
+          <num>28</num>
+          <content eId="para_17715__content">
+            <p>In order to answer that question, it should be recalled that, according to the settled case-law of the Court, the right of taxable persons to deduct the VAT due or already paid on goods purchased and services received as inputs from the VAT which they are liable to pay is a fundamental principle of the common system of VAT established by EU legislation (see, inter alia, judgment of 21 March 2018, Volkswagen, C‑533/16, EU:C:2018:204, paragraph 37).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17716">
+          <num>29</num>
+          <content eId="para_17716__content">
+            <p>The deduction rules are intended to relieve the taxable person entirely of the burden of the VAT payable or paid in the course of all its economic activities. The common system of VAT therefore ensures neutrality of taxation of all economic activities, whatever their purpose or results, provided that those activities are themselves, in principle, subject to VAT (see, to that effect, judgment of 21 March 2018, Volkswagen, C‑533/16, EU:C:2018:204, paragraph 38 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17717">
+          <num>30</num>
+          <content eId="para_17717__content">
+            <p>As the Court has repeatedly held, the right to deduct provided for in Article 167 et seq. of Directive 2006/112 is an integral part of the VAT scheme and in principle may not be limited. In particular, the right to deduct is exercisable immediately in respect of all the taxes charged on input transactions (judgment of 21 March 2018, Volkswagen, C‑533/16, EU:C:2018:204, paragraph 39 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17718">
+          <num>31</num>
+          <content eId="para_17718__content">
+            <p>Article 187 of Directive 2006/112 is applicable in cases of adjustment of deductions, such as that at issue in the main proceedings, in which goods the use of which is not eligible for deduction are then put to a use which is so eligible (order of 5 June 2014, Gmina Międzyzdroje, C‑500/13, EU:C:2014:1750, paragraph 23 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17719">
+          <num>32</num>
+          <content eId="para_17719__content">
+            <p>The system of adjustment of deductions is an essential element of the system introduced by Directive 2006/112 in that its purpose is to ensure the accuracy of deductions and hence the neutrality of the tax burden (order of 5 June 2014, Gmina Międzyzdroje, C‑500/13, EU:C:2014:1750, paragraph 24 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17720">
+          <num>33</num>
+          <content eId="para_17720__content">
+            <p>The right to deduct VAT is, however, subject to compliance with both substantive and formal requirements or conditions (judgment of 21 March 2018, Volkswagen, C‑533/16, EU:C:2018:204, paragraph 40 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17721">
+          <num>34</num>
+          <content eId="para_17721__content">
+            <p>Thus, as regards those substantive requirements or conditions, it follows, according to the settled case-law of the Court, from Article 168 of Directive 2006/112 that only a person who is a taxable person and who is acting as such at the time of the purchase of goods has a right to deduct in respect of those goods and may deduct the VAT due or paid in respect of those goods if he uses them for the purposes of his taxable transactions (see, to that effect, judgments of 11 July 1991, Lennartz, C‑97/90, EU:C:1991:315, paragraph 8, and of 22 October 2015, Sveda, C‑126/14, EU:C:2015:712, paragraph 18 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17722">
+          <num>35</num>
+          <content eId="para_17722__content">
+            <p>In accordance with Articles 63 and 167 of Directive 2006/112, the right to deduct arises at the time when the deductible tax becomes chargeable, namely when the goods are delivered (judgment of 22 March 2012, Klub, C‑153/11, EU:C:2012:163, paragraph 36 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17723">
+          <num>36</num>
+          <content eId="para_17723__content">
+            <p>Those principles also apply in a situation in which the person in question is a body governed by public law claiming a right to adjustment of VAT deduction pursuant to Article 184 et seq. of Directive 2006/112 (see, to that effect, judgment of 2 June 2005, Waterschap Zeeuws Vlaanderen, C‑378/02, EU:C:2005:335, paragraph 39).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17724">
+          <num>37</num>
+          <content eId="para_17724__content">
+            <p>It follows that, where a public body such as, in this case, the municipality, at the time of the acquisition of capital goods, acts as a public authority, within the meaning of Article 13(1) of Directive 2006/112, and, consequently, as a non-taxable person, that body is not entitled, in principle, to adjust the deductions in respect of those goods, even if, subsequently, those goods are used for a taxable activity (see, to that effect, judgment of 2 June 2005, Waterschap Zeeuws Vlaanderen, C‑378/02, EU:C:2005:335, paragraph 44).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17725">
+          <num>38</num>
+          <content eId="para_17725__content">
+            <p>According to the settled case-law of the Court, the question whether, at the time when it received delivery of the goods, the taxable person was acting as a taxable person, namely for the purposes of an economic activity, is a question of fact which it is for the referring court to consider in the light of all the circumstances of the case, including the nature of the goods concerned and the period which elapsed between the acquisition of the goods and their use for the purposes of the taxable person's economic activity (judgments of 11 July 1991, Lennartz, C‑97/90, EU:C:1991:315, paragraph 21, and of 22 October 2015, Sveda, C‑126/14, EU:C:2015:712, paragraph 21).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17726">
+          <num>39</num>
+          <content eId="para_17726__content">
+            <p>That assessment seeks to ascertain whether the taxable person acquired or produced the capital goods in question with the intention, confirmed by objective evidence, of carrying on an economic activity and, consequently, acted as a taxable person within the meaning of Article 9(1) of Directive 2006/112 (see, to that effect, judgment of 22 October 2015, Sveda, C‑126/14, EU:C:2015:712, paragraph 20).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17727">
+          <num>40</num>
+          <content eId="para_17727__content">
+            <p>In the present case, although the national legislation applicable in the main proceedings provides, for immovable property acquired as capital goods, an adjustment period of five, or even ten, years, from the start of the use of the goods in question, it follows from the findings of the referring court that the municipality's claim was introduced four years after the start of the use of the building by the municipal cultural centre entrusted with its management on a free-of-charge basis.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17728">
+          <num>41</num>
+          <content eId="para_17728__content">
+            <p>Furthermore, and subject to verification by the referring court, it is common ground that, in the present case, the municipality, at the time of the acquisition of the immovable property acquired as capital goods at issue in the main proceedings, acted under the same conditions as a natural person wishing to commission the construction of a building, without relying, for that purpose, on the prerogatives of public authorities. It follows, in accordance with Article 13(1) of Directive 2006/112 and the related case-law, that the municipality, at the time when it acquired the immovable property in question, was not acting in its capacity as a public authority.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17729">
+          <num>42</num>
+          <content eId="para_17729__content">
+            <p>Consequently, the situation at issue in the main proceedings can be distinguished from that which gave rise to the judgment of 2 June 2005, Waterschap Zeeuws Vlaanderen ( C‑378/02, EU:C:2005:335), in which the public body at issue had acquired the capital goods in its capacity as a public authority, within the meaning of Article 13(1) and, consequently, as a non-taxable person.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17730">
+          <num>43</num>
+          <content eId="para_17730__content">
+            <p>Another factor distinguishing the situation at issue in the main proceedings from that which gave rise to that judgment lies in the fact that, in the present case, the municipality, at the time of the acquisition of the immovable property as capital goods in the course of 2010, had already been registered as a taxable person for purposes of VAT since 2005.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17731">
+          <num>44</num>
+          <content eId="para_17731__content">
+            <p>The situation at issue in the main proceedings can also be distinguished from that which gave rise to the judgment of 30 March 2006, Uudenkaupungin kaupunki ( C‑184/04, EU:C:2006:214), in which it was common ground that the Finnish town in question had, at the time of the acquisitions of property, acted as a taxable person since those acquisitions had been made for the purposes of an economic activity, namely the rental of the buildings acquired.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17732">
+          <num>45</num>
+          <content eId="para_17732__content">
+            <p>Similarly, the situation at issue in the main proceedings differs from that which gave rise to the order of 5 June 2014, Gmina Międzyzdroje ( C‑500/13, EU:C:2014:1750), since, as is apparent from paragraph 11 of that order, at the time of the supply of the building in question, the Polish municipality in question had acted as a taxable person, the referring court having noted that, already during the work on the construction of the building, that municipality had expressly stated that it wished to rent the building out to a commercial company in return for the payment of rent.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17733">
+          <num>46</num>
+          <content eId="para_17733__content">
+            <p>By contrast, in the context of the main proceedings in the present case, the municipality expressed its intention to rent the building out for commercial purposes only after the building in question has been supplied.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17734">
+          <num>47</num>
+          <content eId="para_17734__content">
+            <p>However, although a clear and express declaration of the intention to use the goods for economic purposes at the time of their acquisition may suffice for a finding that the goods were acquired by the taxable person acting as such, the absence of such a declaration does not exclude the possibility that such an intention may be conveyed implicitly.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17735">
+          <num>48</num>
+          <content eId="para_17735__content">
+            <p>It is true that, in the present case, at the time of the supply of the immovable property at issue in the main proceedings, the municipality's sole declared intention was to use that property for public use, as a community centre. While, subsequently, that intention was realised by making that property available to the municipal community centre free of charge, the fact remains that that use did not in itself exclude the possibility that the property could be used, at least in part, for economic purposes, for instance in connection with a rental transaction.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17736">
+          <num>49</num>
+          <content eId="para_17736__content">
+            <p>To that extent, the nature of the goods which, according to the case-law of the Court cited in paragraph 38 of the present judgment, is a factor which must be taken into account in order to determine whether, at the time when the immovable property was supplied to it, the taxable person was acting in that capacity, is such as to show that the municipality intended to act as a taxable person.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17737">
+          <num>50</num>
+          <content eId="para_17737__content">
+            <p>Likewise, the fact that, well before the supply and acquisition of the immovable property at issue in the main proceedings, the municipality was already registered as a taxable person for the purposes of VAT is evidence to that effect.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17738">
+          <num>51</num>
+          <content eId="para_17738__content">
+            <p>By contrast, it is irrelevant that the goods in question were not immediately used for taxable transactions, since the use to which goods are put merely determines the extent of the initial deduction or the extent of any subsequent possible adjustments but does not affect the issue of whether a right to deduct arises (see, to that effect, judgment of 30 March 2006, Uudenkaupungin kaupunki, C‑184/04, EU:C:2006:214, paragraph 39).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17739">
+          <num>52</num>
+          <content eId="para_17739__content">
+            <p>Therefore, although, in the context of its first question, the referring court refers to the fact that the initial use of the immovable property was made `in connection with the municipality's performance of the tasks of a public authority within its area of responsibility', that fact, on the assumption that it is verified, which the municipality contests, is without prejudice to the separate issue of establishing whether, at the time when it acquired the goods, that public authority was acting as a taxable person, thereby conferring on it a right to deduct in respect of those goods, but it does amount to evidence that the municipality was not acting as a taxable person.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17740">
+          <num>53</num>
+          <content eId="para_17740__content">
+            <p>In a situation such as that at issue in the main proceedings, in which, at the time of the acquisition of immovable property acquired as capital goods which may, by their very nature, be used both for taxable activities and for non-taxable activities, a public body already having the status of taxable person has not expressly stated its intention to use those goods for a taxable activity but has also not excluded the possibility that those goods may be used for such a purpose, an initial use of those goods for non-taxable activities does not preclude a finding, after an assessment of all the facts, which is a matter for the referring court to carry out, as noted in paragraph 38 of the present judgment, that the condition laid down by Article 168 of Directive 2006/112, according to which the taxable person must have acted as a taxable person at the time when it acquired the goods in question, is satisfied.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17741">
+          <num>54</num>
+          <content eId="para_17741__content">
+            <p>In that regard, as the Advocate General also stated in point 55 of her Opinion, the assessment, in each individual case, of whether that condition is met must be carried out by adopting a generous interpretation of the concept of acquisition `as a taxable person'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17742">
+          <num>55</num>
+          <content eId="para_17742__content">
+            <p>Such an interpretation must be generous in view of the objective of the system of deductions and, therefore, of adjustments which, as noted in paragraphs 29 to 31 of the present judgment, is to ensure that all economic activities are taxed in a neutral way, a principle from which it generally follows that all operators must be able to exercise immediately their right to deduct in respect of all the taxes charged on transactions relating to inputs since the accuracy of deductions can, in any event, be guaranteed retroactively by means of an adjustment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17743">
+          <num>56</num>
+          <content eId="para_17743__content">
+            <p>Finally, the fact that it is difficult, or even impossible, objectively to apportion specific investment expenditure between taxable and non-taxable transactions has no bearing on the assessment of whether the condition laid down by Article 168 of Directive 2006/112, according to which the taxable person must have acted as a taxable person at the time when he acquired the goods, is satisfied.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17744">
+          <num>57</num>
+          <content eId="para_17744__content">
+            <p>That apportionment is specifically governed by the rules on proportionality of deduction contained in Articles 173 to 175 of Directive 2006/112. The calculation of a deductible proportion in order to determine the amount of deductible VAT is, in principle, reserved solely to goods and services used by a taxable person to carry out both economic transactions which give rise to a right to deduct and those which do not (see, inter alia, judgment of 14 December 2016, Mercedes Benz Italia, C‑378/15, EU:C:2016:950, paragraph 34).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17745">
+          <num>58</num>
+          <content eId="para_17745__content">
+            <p>Furthermore, the determination of the methods and criteria for apportioning input VAT between economic and non-economic activities lies in the discretion of the Member States, which, when exercising that discretion, must have regard to the aims and broad logic of that directive and must, on that basis, provide for a method of calculation which objectively reflects the part of the input expenditure actually to be attributed, respectively, to those two types of activity (judgment of 6 September 2012, Portugal Telecom, C‑496/11, EU:C:2012:557, paragraph 42).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17746">
+          <num>59</num>
+          <content eId="para_17746__content">
+            <p>Consequently, the answer to the questions referred is that Articles 167, 168 and 184 of Directive 2006/112 and the principle of the neutrality of VAT must be interpreted as not precluding a body governed by public law from being entitled to a right to adjustment of deductions of VAT paid on immovable property acquired as capital goods in a situation, such as that at issue in the main proceedings, where, at the time of the acquisition of those goods, first, they could, by their very nature, be used both for taxable activities and for non-taxable activities but were initially used for non-taxable activities, and second, that public body had not expressly stated its intention to use those goods for a taxable activity but had also not excluded the possibility that they might be used for such a purpose, so long as it follows from an assessment of all the factual circumstances, which it is for the referring court to carry out, that the condition laid down by Article 168 of Directive 2006/112, according to which the taxable person must have acted as a taxable person at the time when it made that acquisition, is satisfied.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_17747">
+          <num>60</num>
+          <content eId="para_17747__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Second Chamber) hereby rules: Articles 167, 168 and 184 of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax and the principle of the neutrality of value added tax must be interpreted as not precluding a body governed by public law from being entitled to a right to adjustment of deductions of value added tax paid on immovable property acquired as capital goods in a situation, such as that at issue in the main proceedings, where, at the time of the acquisition of those goods, first, they could, by their very nature, be used both for taxable activities and for non-taxable activities but were initially used for non-taxable activities, and second, that public body had not expressly stated its intention to use those goods for a taxable activity but had also not excluded the possibility that they might be used for such a purpose, so long as it follows from an assessment of all the factual circumstances, which it is for the referring court to carry out, that the condition laid down by Article 168 of Directive 2006/112, according to which the taxable person must have acted as a taxable person at the time when it made that acquisition, is satisfied.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Polish.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

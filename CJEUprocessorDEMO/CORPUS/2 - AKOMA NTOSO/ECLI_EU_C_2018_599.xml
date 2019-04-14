@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Fourth Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>25 July 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Retail of vacuum cleaners -- Energy class label -- Directive 2010/30/EU -- Delegated Regulation (EU) No 665/2013 -- Vacuum cleaners -- Display of other symbols -- Unfair commercial practices -- Consumer protection -- Directive 2005/29/EC -- Article 7 -- Failure to state the conditions under which energy efficiency is measured -- Misleading omission) In Case C‑632/16, REQUEST for a preliminary ruling under Article 267 TFEU from the voorzitter van de rechtbank van koophandel te Antwerpen (President of the Commercial Court, Antwerp, Belgium), made by decision of 6 July 2016, received at the Court on 7 December 2016, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">Dyson Ltd</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="appellant" refersTo="#">Dyson BV</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#">BSH Home Appliances NV</party>
+      </p>
+      <p>, THE COURT (Fourth Chamber), composed of T. von Danwitz, President of the Chamber, A. Tizzano, Vice-President of the Court, acting as Judge of the Fourth Chamber, C. Vajda, K. Jürimäe and C. Lycourgos (Rapporteur), Judges, Advocate General: H. Saugmandsgaard Øe, Registrar: M. Ferreira, Principal Administrator, having regard to the written procedure and further to the hearing on 26 October 2017, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>Dyson BV and Dyson Ltd, by P. Maeyaert and C. Van Wichelen, advocaten,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>BSH Home Appliances NV, by V. Raus and L. Depypere, advocaten,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Belgian Government, by J. Van Holm and P. Cottin, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the German Government, by T. Henze and M. Hellmann, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Italian Government, by G. Palmieri, acting as Agent, and F. Di Matteo, avvocato dello Stato,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by A. Cleenewerck de Crayencour and K. Talabér-Ritz and by E. Manhaeve, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 22 February 2018,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_17998">
+          <num>1</num>
+          <content eId="para_17998__content">
+            <p>The present request for a preliminary ruling concerns the interpretation of Commission Delegated Regulation (EU) No 665/2013 of 3 May 2013 supplementing Directive 2010/30/EU of the European Parliament and of the Council with regard to energy labelling of vacuum cleaners ( OJ 2013 L 192, p. 1) and of Article 7 of Directive 2005/29/EC of the European Parliament and of the Council of 11 May 2005 concerning unfair business-to-consumer commercial practices in the internal market and amending Council Directive 84/450/EEC, Directives 97/7/EC, 98/27/EC and 2002/65/EC of the European Parliament and of the Council and Regulation (EC) No 2006/2004 of the European Parliament and of the Council ( `Unfair Commercial Practices Directive') ( OJ 2005 L 149, p. 22).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17999">
+          <num>2</num>
+          <content eId="para_17999__content">
+            <p>The request has been made in the context of proceedings between Dyson Ltd and Dyson BV (together, `Dyson') and BSH Home Appliances NV ( `BSH') concerning unfair commercial practices allegedly attributable to BSH in so far as it</p>
+            <blockList>
+              <item>
+                <num>(i)</num>
+                <p>failed to provide information in relation to the energy performance of the vacuum cleaners it markets and</p>
+              </item>
+              <item>
+                <num>(ii)</num>
+                <p>added, to the packaging of the vacuum cleaners it markets, information other than that which must necessarily appear on the label relating to the energy class of the vacuum cleaners, the model of which is shown in Annex II to Delegated Regulation No 665/2013 ( `the energy label').</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <tblock>
+          <p>Directive 2005/29</p>
+        </tblock>
+        <paragraph eId="para_18000">
+          <num>3</num>
+          <content eId="para_18000__content">
+            <p>Article 2 of Directive 2005/29 states: `For the purposes of this Directive: ...</p>
+            <blockList>
+              <item>
+                <num>(d)</num>
+                <p>``business-to-consumer commercial practices '' (hereinafter also referred to as commercial practices) means any act, omission, course of conduct or representation, commercial communication including advertising and marketing, by a trader, directly connected with the promotion, sale or supply of a product to consumers; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18001">
+          <num>4</num>
+          <content eId="para_18001__content">
+            <p>Article 3(4) of that directive provides: `In the case of conflict between the provisions of this Directive and other [EU law] rules regulating specific aspects of unfair commercial practices, the latter shall prevail and apply to those specific aspects.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18002">
+          <num>5</num>
+          <content eId="para_18002__content">
+            <p>Article 7 of the same directive, entitled `Misleading omissions', is worded as follows: `1.   A commercial practice shall be regarded as misleading if, in its factual context, taking account of all its features and circumstances and the limitations of the communication medium, it omits material information that the average consumer needs, according to the context, to take an informed transactional decision and thereby causes or is likely to cause the average consumer to take a transactional decision that he would not have taken otherwise. 2.   It shall also be regarded as a misleading omission when, taking account of the matters described in paragraph 1, a trader hides or provides in an unclear, unintelligible, ambiguous or untimely manner such material information as referred to in that paragraph or fails to identify the commercial intent of the commercial practice if not already apparent from the context, and where, in either case, this causes or is likely to cause the average consumer to take a transactional decision that he would not have taken otherwise. 3.   Where the medium used to communicate the commercial practice imposes limitations of space or time, these limitations and any measures taken by the trader to make the information available to consumers by other means shall be taken into account in deciding whether information has been omitted. 4.   In the case of an invitation to purchase, the following information shall be regarded as material, if not already apparent from the context:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>the main characteristics of the product, to an extent appropriate to the medium and the product;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>the geographical address and the identity of the trader, such as his trading name and, where applicable, the geographical address and the identity of the trader on whose behalf he is acting;</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>the price inclusive of taxes, or where the nature of the product means that the price cannot reasonably be calculated in advance, the manner in which the price is calculated, as well as, where appropriate, all additional freight, delivery or postal charges or, where these charges cannot reasonably be calculated in advance, the fact that such additional charges may be payable;</p>
+              </item>
+              <item>
+                <num>(d)</num>
+                <p>the arrangements for payment, delivery, performance and the complaint handling policy, if they depart from the requirements of professional diligence;</p>
+              </item>
+              <item>
+                <num>(e)</num>
+                <p>for products and transactions involving a right of withdrawal or cancellation, the existence of such a right. 5.   Information requirements established by [EU] law in relation to commercial communication including advertising or marketing, a non-exhaustive list of which is contained in Annex II, shall be regarded as material.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Directive 2010/30/EU</p>
+        </tblock>
+        <paragraph eId="para_18003">
+          <num>6</num>
+          <content eId="para_18003__content">
+            <p>Directive 2010/30/EU of the European Parliament and of the Council of 19 May 2010 on the indication by labelling and standard product information of the consumption of energy and other resources by energy-related products ( OJ 2010 L 153, p. 1) has been repealed by Regulation (EU) 2017/1369 of the European Parliament and of the Council of 4 July 2017 setting a framework for energy labelling and repealing Directive 2010/30 ( OJ 2017 L 198, p. 1). At the time of the facts in the main proceedings, Directive 2010/30 was still applicable.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18004">
+          <num>7</num>
+          <content eId="para_18004__content">
+            <p>Recitals 5 and 8 of Directive 2010/30 stated: `</p>
+            <blockList>
+              <item>
+                <num>(5)</num>
+                <p>The provision of accurate, relevant and comparable information on the specific energy consumption of energy-related products should influence the end-user's choice in favour of those products which consume or indirectly result in consuming less energy and other essential resources during use, thus prompting manufacturers to take steps to reduce the consumption of energy and other essential resources of the products which they manufacture. It should also, indirectly, encourage the efficient use of these products in order to contribute to the EU's 20% energy efficiency target. In the absence of this information, the operation of market forces alone will fail to promote the rational use of energy and other essential resources for these products. ...</p>
+              </item>
+              <item>
+                <num>(8)</num>
+                <p>Information plays a key role in the operation of market forces and it is therefore necessary to introduce a uniform label for all products of the same type, to provide potential purchasers with supplementary standardised information on those products' costs in terms of energy and the consumption of other essential resources and to take measures to ensure that potential end-users who do not see the product displayed, and thus have no opportunity to see the label, are also supplied with this information. In order to be efficient and successful, the label should be easily recognisable to end-users, simple and concise. To this end the existing layout of the label should be retained as the basis to inform end-users about the energy efficiency of products. Energy consumption of and other information concerning the products should be measured in accordance with harmonised standards and methods.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18005">
+          <num>8</num>
+          <content eId="para_18005__content">
+            <p>Article 1(1) of that directive provided: `This Directive establishes a framework for the harmonisation of national measures on end-user information, particularly by means of labelling and standard product information, on the consumption of energy and where relevant of other essential resources during use, and supplementary information concerning energy-related products, thereby allowing end-users to choose more efficient products.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18006">
+          <num>9</num>
+          <content eId="para_18006__content">
+            <p>Article 3(1) of that directive was worded as follows: `Member States shall ensure that: ...</p>
+            <blockList>
+              <item>
+                <num>(b)</num>
+                <p>with respect to products covered by this Directive, the display of other labels, marks, symbols or inscriptions which do not comply with the requirements of this Directive and of the relevant delegated acts is prohibited, if such display is likely to mislead or confuse end-users with respect to the consumption of energy or, where relevant, other essential resources during use; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18007">
+          <num>10</num>
+          <content eId="para_18007__content">
+            <p>According to Article 4 of the same directive: `Member States shall ensure that:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>information relating to the consumption of electric energy, other forms of energy and where relevant other essential resources during use, and supplementary information is, in accordance with delegated acts under this Directive, brought to the attention of end-users by means of a fiche and a label related to products offered for sale, hire, hire-purchase or displayed to end-users directly or indirectly by any means of distance selling, including the internet; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18008">
+          <num>11</num>
+          <content eId="para_18008__content">
+            <p>Article 5 of Directive 2010/30 provided: `Member States shall ensure that:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>suppliers placing on the market or putting into service products covered by a delegated act supply a label and a fiche in accordance with this Directive and the delegated act; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18009">
+          <num>12</num>
+          <content eId="para_18009__content">
+            <p>Article 10 of that directive was worded as follows: `1.   The Commission shall lay down details relating to the label and the fiche by means of delegated acts in accordance with Articles 11 to 13, relating to each type of product in accordance with this Article. ... Provisions in delegated acts regarding information provided on the label and in the fiche on the consumption of energy and other essential resources during use shall enable end-users to make better informed purchasing decisions and shall enable market surveillance authorities to verify whether products comply with the information provided. ... 4.   The delegated acts shall specify in particular: ...</p>
+            <blockList>
+              <item>
+                <num>(d)</num>
+                <p>the design and content of the label referred to in Article 4, which as far as possible shall have uniform design characteristics across product groups and shall in all cases be clearly visible and legible. The format of the label shall retain as a basis the classification using letters from A to G; the steps of the classification shall correspond to significant energy and cost savings from the end-user perspective. ...</p>
+              </item>
+              <item>
+                <num>(g)</num>
+                <p>the specific content of the label for advertising, including, as appropriate, the energy class and other relevant performance level(s) of the given product in a legible and visible form; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Delegated Regulation No 665/2013</p>
+        </tblock>
+        <paragraph eId="para_18010">
+          <num>13</num>
+          <content eId="para_18010__content">
+            <p>Recital 5 of Delegated Regulation No 665/2013 states: `This Regulation should specify a uniform design and content for the label for vacuum cleaners.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18011">
+          <num>14</num>
+          <content eId="para_18011__content">
+            <p>Article 1(1) of that regulation provides: `This Regulation establishes requirements for the labelling and the provision of supplementary product information for electric mains-operated vacuum cleaners, including hybrid vacuum cleaners.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18012">
+          <num>15</num>
+          <content eId="para_18012__content">
+            <p>Article 3(1) of that regulation states: `Suppliers shall ensure that from 1 September 2014:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>each vacuum cleaner is supplied with a printed label in the format and containing the information set out in Annex II; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18013">
+          <num>16</num>
+          <content eId="para_18013__content">
+            <p>Article 4 of the same regulation provides: `Dealers shall ensure that from 1 September 2014:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>each model presented at the point of sale bears the label provided by suppliers in accordance with Article 3 displayed on the outside of the appliance or hung on it, in such a way as to be clearly visible; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18014">
+          <num>17</num>
+          <content eId="para_18014__content">
+            <p>According to Annex I to Delegated Regulation No 665/2013, the energy efficiency class of a vacuum cleaner is determined in accordance with its annual energy consumption, its cleaning performance class in accordance with its dust pick-up and its dust re-emission class in accordance with its dust re-emission.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18015">
+          <num>18</num>
+          <content eId="para_18015__content">
+            <p>Annex II to that regulation establishes the design of the energy label and lists the information that has to be set out there, including the energy efficiency class of the model of vacuum cleaner concerned, its cleaning performance class and its dust re-emission class. It also states that the design of the label must be in accordance with points 3.1, 3.2 or 3.3 of that annex, according to whether it is for a general purpose, hard floor or carpet vacuum cleaner, and that, by way of derogation, where a particular model has been awarded the Ecolabel introduced by Regulation (EC) No 66/2010 of the European Parliament and of the Council of 25 November 2009 on the [European Union] Ecolabel ( OJ 2010 L 27, p. 1) ( `the EU Ecolabel'), a copy of that label may be added.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Belgian law</p>
+        </tblock>
+        <paragraph eId="para_18016">
+          <num>19</num>
+          <content eId="para_18016__content">
+            <p>Pursuant to Article VI.99</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>of the Wetboek van economisch recht (Code on Economic Law) ( Belgisch Staatsblad of 29 March 2013, p. 19975), as amended by the Law of 21 December 2013 ( Belgisch Staatsblad of 30 December 2013, p. 103506), which is intended to transpose into national law Article 7(1) of Directive 2005/29, a commercial practice is to be regarded as a misleading omission if, in its factual context, taking account of all its features and circumstances and the limitations of the communication medium used, it omits material information that the average consumer needs, according to the context, to take an informed transactional decision and thereby causes or is likely to cause the average consumer to take a transactional decision that he would not have taken otherwise.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_18017">
+          <num>20</num>
+          <content eId="para_18017__content">
+            <p>Both Dyson and BSH place on the market vacuum cleaners which, in accordance with Delegated Regulation No 665/2013, must be labelled with an energy label when sold. That label reflects the results of tests which are carried out with an empty dust bag. Dyson criticises, inter alia, BSH for misleading consumers and claims that it is guilty of unfair commercial practices. It is in that context that Dyson brought an action before the referring court, the voorzitter van de rechtbank van koophandel te Antwerpen (President of the Commercial Court, Antwerp, Belgium).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18018">
+          <num>21</num>
+          <content eId="para_18018__content">
+            <p>As a first step, the referring court rejects Dyson's claim that BSH carried out an unfair commercial practice by listing energy class A on the energy labels of the vacuum cleaners it markets. Such a classification is indeed the result of tests carried out with an empty dust bag, the referring court considering that test to be the only one enabling the annual energy consumption of vacuum cleaners to be assessed.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18019">
+          <num>22</num>
+          <content eId="para_18019__content">
+            <p>As a second step, however, the referring court notes that Dyson is correct to note that the tests carried out with an empty dust bag are not in accordance with normal use of a vacuum cleaner and that they do not allow devices to be compared where they operate on different principles, namely</p>
+            <blockList>
+              <item>
+                <num>(i)</num>
+                <p>vacuum cleaners which, like those marketed by BSH, are equipped with a dust bag whose pores gradually obstruct its use, thereby requiring the motor to generate more power and,</p>
+              </item>
+              <item>
+                <num>(ii)</num>
+                <p>vacuum cleaners of the Dyson brand, which are not equipped with such a bag and whose use has no impact on the power the motor must generate. Therefore, it considers the question to be whether, by neglecting to specify the test method used, BSH has misled consumers.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18020">
+          <num>23</num>
+          <content eId="para_18020__content">
+            <p>The referring court notes, in that regard, that BSH is merely complying with Delegated Regulation No 665/2013. That regulation governs in a very precise manner the appearance of the energy label and the references that must appear there, such that, in determining what information to disclose to the consumer, BSH is bound by the limitations of that medium. In the light of Article 7(1) and (3) of Directive 2005/29, that court is of the view that it should examine whether BSH had some freedom in relation to the information it decides to feature on the devices it markets in terms of their energy consumption.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18021">
+          <num>24</num>
+          <content eId="para_18021__content">
+            <p>The referring court further notes that, in addition to the energy label, required by Delegated Regulation No 665/2013, BSH adds other symbols to its vacuum cleaners, including a green label stating ` Energy A', indicating that the vacuum cleaner has attained class A in energy efficiency overall, an orange label stating ` AAAA Best rated: A in all classes', indicating that the vacuum cleaner has attained class A in cleaning performance in respect of both carpets and hard floors, in energy efficiency and in dust re-emissions, as well as a black label with the image of a carpet and stating ` class A Performance', indicating that the vacuum cleaner has attained class A with regard to dust pick-up on carpet.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18022">
+          <num>25</num>
+          <content eId="para_18022__content">
+            <p>That court notes that BSH is hereby producing information that has already been fully communicated by the energy label and questions whether Delegated Regulation No 665/2013 authorises such a practice.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18023">
+          <num>26</num>
+          <content eId="para_18023__content">
+            <p>In those circumstances, the voorzitter van de rechtbank van koophandel te Antwerpen (President of the Commercial Court, Antwerp) decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Can strict compliance with [Delegated Regulation No 665/2013] (without supplementing the label as defined in Annex II thereto with information about the test conditions which lead to the classification in an energy efficiency class in accordance with Annex I) be regarded as a misleading omission within the meaning of Article 7 of [Directive 2005/29]?</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>Does [Delegated Regulation No 665/2013] preclude supplementing the label with other symbols which communicate the same information?'</p>
+                <tblock>
+                  <p>Consideration of the questions referred</p>
+                </tblock>
+                <tblock>
+                  <p>The first question</p>
+                </tblock>
+                <p>27 By its first question, the referring court asks, in essence, whether Article 7 of Directive 2005/29 must be interpreted as meaning that the act of not providing consumers with information on the testing conditions that resulted in the energy classification indicated on the energy label constitutes a `misleading omission' within the meaning of that provision.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18024">
+          <num>28</num>
+          <content eId="para_18024__content">
+            <p>It should be recalled, as a preliminary point, that Directive 2005/29 is intended to establish uniform rules on unfair business-to-consumer commercial practices in order to contribute to the proper functioning of the internal market and to achieve a high level of consumer protection (judgment of 26 October 2016, Canal Digital Danmark, C‑611/14, EU:C:2016:800, paragraph 25).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18025">
+          <num>29</num>
+          <content eId="para_18025__content">
+            <p>In that context, the act of indicating on the energy label only the information required by Delegated Regulation No 665/2013, without specifying the conditions under which the vacuum cleaner's energy efficiency was measured, constitutes a `commercial practice' within the meaning of Article 2(d) of Directive 2005/29.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18026">
+          <num>30</num>
+          <content eId="para_18026__content">
+            <p>The notion of `commercial practices' is defined by means of a particularly broad formulation, the practices covered by it needing to be commercial in nature, that is to say, originating from traders, and directly connected with the promotion, sale or supply of their products to consumers (see, to that effect, judgment of 17 October 2013, RLvS, C‑391/12, EU:C:2013:669, paragraph 37).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18027">
+          <num>31</num>
+          <content eId="para_18027__content">
+            <p>The communication of information relating to the energy efficiency of a product displayed for retail or the non-communication of such information, where it originates from a trader, constitutes a commercial practice directly connected with the sale of that product to consumers. In that regard, as the Advocate General has underlined in point 77 of his Opinion, it is irrelevant that the information in question be unfavourable to the trader's interests or that he may have communicated that information in order to comply with the provisions of Delegated Regulation No 665/2013.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18028">
+          <num>32</num>
+          <content eId="para_18028__content">
+            <p>So far as concerns, in the first place, the absence of information on the testing conditions from the energy label, it should be noted that Article 3(4) of Directive 2005/29 provides that, in the case of conflict between the provisions of that directive and other EU law rules regulating specific aspects of unfair commercial practices, the latter are to prevail and apply to those specific aspects.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18029">
+          <num>33</num>
+          <content eId="para_18029__content">
+            <p>In the case at hand, Directive 2010/30 and Delegated Regulation No 665/2013 constitute EU law rules governing specific aspects of unfair commercial practices, within the meaning of Article 3(4) of Directive 2005/29. Although it follows, in particular, from recitals 5 and 8 of Directive 2010/30 that their first objective is environmental protection, the fact remains that the objective of providing accurate, relevant and comparable information on the specific energy consumption of energy-related products by means of a uniform energy label which must be attached by a trader to a product displayed for retail contributes to consumer protection.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18030">
+          <num>34</num>
+          <content eId="para_18030__content">
+            <p>Therefore, where there is a conflict between Article 7 of Directive 2005/29, on the one hand, and the provisions of Directive 2010/30 and of Delegated Regulation No 665/2013, on the other hand, it is those latter provisions which must be applied, in accordance with Article 3(4) of Directive 2005/29.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18031">
+          <num>35</num>
+          <content eId="para_18031__content">
+            <p>In that regard, it must be stated that Directive 2010/30 and Delegated Regulation No 665/2013 are to be interpreted as meaning that no information relating to the conditions under which the energy efficiency of vacuum cleaners was measured may be added to the energy label.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18032">
+          <num>36</num>
+          <content eId="para_18032__content">
+            <p>It is stipulated, in recital 8 of Directive 2010/30, that it is necessary to introduce a uniform label for all products of the same type. That objective of harmonisation is implemented by Article 1(1), Article 4 and Article 10(4)(d) and (g) of that directive, by virtue of which the directive establishes a framework for the harmonisation of national measures on, inter alia, end-user information on the consumption of energy by means of labelling and standard product information and requires Member States to ensure that the consumption of electric energy during use of the device is indicated by a label the design and specific content of which must be determined by a delegated act, namely, as far as vacuum cleaners are concerned, Delegated Regulation No 665/2013.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18033">
+          <num>37</num>
+          <content eId="para_18033__content">
+            <p>As is apparent from recital 8 and Article 10 of Directive 2010/30, the harmonisation of the design and references contained on the energy label, as well as its simple and concise nature, are aimed at ensuring better legibility and better comparability of the information contained on it for the benefit of the end-user.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18034">
+          <num>38</num>
+          <content eId="para_18034__content">
+            <p>It moreover follows from recital 5 of Delegated Regulation No 665/2013 that that regulation is to specify a uniform design and content for the label for vacuum cleaners.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18035">
+          <num>39</num>
+          <content eId="para_18035__content">
+            <p>The design and content of that label are precisely laid out in Annex II to that regulation. That annex provides, furthermore, that, by way of derogation from the design of the energy label precisely laid out there, only a reproduction of the EU Ecolabel may be added to that label, provided that the vacuum cleaner model concerned has been awarded such a label.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18036">
+          <num>40</num>
+          <content eId="para_18036__content">
+            <p>It follows that Delegated Regulation No 665/2013, read in the light of Directive 2010/30, prohibits references other than, where appropriate, the reproduction of the EU Ecolabel from being added to the energy label.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18037">
+          <num>41</num>
+          <content eId="para_18037__content">
+            <p>It follows from that prohibition that, pursuant to Article 3(4) of Directive 2005/29, Article 7 of that directive cannot apply to the absence, from the energy label, of information on vacuum cleaner energy efficiency testing conditions.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18038">
+          <num>42</num>
+          <content eId="para_18038__content">
+            <p>So far as concerns, in the second place, the absence, from places other than the energy label, of information concerning testing conditions, it should be noted that, according to Article 7(1) of Directive 2005/29, a commercial practice is to be regarded as misleading if, in its factual context, taking account of all its features and circumstances and the limitations of the communication medium, it omits material information that the average consumer needs, in view of the context, to take an informed transactional decision and thereby causes or is likely to cause the average consumer to take a transactional decision that he would not have taken otherwise. It is further apparent from paragraph 5 of the same article that information requirements established by EU law in relation to commercial communications including advertising and marketing are to be regarded as material.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18039">
+          <num>43</num>
+          <content eId="para_18039__content">
+            <p>In the case at hand, the conditions under which the energy efficiency of the model of vacuum cleaner concerned was measured cannot be deemed to constitute material information for the average consumer.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18040">
+          <num>44</num>
+          <content eId="para_18040__content">
+            <p>Directive 2010/30 imposed the use of a uniform energy label so as to inform end-users as to the energy consumption of certain products during their use and Delegated Regulation No 665/2013 established an exhaustive list of information, relating to the energy consumption of vacuum cleaners during their use, which must be brought to the attention of end-users by means of that energy label, without requiring mention of the conditions under which the energy efficiency of the vacuum cleaners was measured. Therefore, it should be considered to follow from a combined reading of Directive 2010/30 and Delegated Regulation No 665/2013 that such information cannot be regarded as material for the average consumer.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18041">
+          <num>45</num>
+          <content eId="para_18041__content">
+            <p>Accordingly, the lack of reference to a vacuum cleaner's energy efficiency testing conditions is not capable of constituting a misleading omission within the meaning of Article 7 of Directive 2005/29.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18042">
+          <num>46</num>
+          <content eId="para_18042__content">
+            <p>It follows from the foregoing that the answer to the first question is that Article 7 of Directive 2005/29 must be interpreted as meaning that the act of not providing consumers with information on the testing conditions that resulted in the energy classification indicated on the energy label does not constitute a `misleading omission' within the meaning of that provision.</p>
+            <tblock>
+              <p>The second question</p>
+            </tblock>
+            <p>47 It must be noted, as a preliminary point, that, according to the settled case-law of the Court, in the procedure laid down by Article 267 TFEU providing for cooperation between national courts and the Court, it is for the latter to provide the national court with an answer which will be of use to it and enable it to determine the case before it. To that end, the Court may have to reformulate the question referred to it (see, inter alia, judgment of 21 December 2016, Ucar and Kilic, C‑508/15 and C‑509/15, EU:C:2016:986, paragraph 51 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18043">
+          <num>48</num>
+          <content eId="para_18043__content">
+            <p>In the case at hand, it is undisputed that Delegated Regulation No 665/2013, which requires that an energy label be attached to each vacuum cleaner marketed at retail, must be interpreted in the light of the provisions of Directive 2010/30, which forms the basis thereof. Therefore, it is appropriate to reformulate the second question, which concerns Delegated Regulation No 665/2013, in order to pertain also to Directive 2010/30.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18044">
+          <num>49</num>
+          <content eId="para_18044__content">
+            <p>Moreover, it is apparent from the order for reference that, in the case at hand, BSH attached, to the packaging of the vacuum cleaners it markets, next to the energy label, several labels or symbols that are not provided for in Delegated Regulation No 665/2013, namely, inter alia, a green label stating ` Energy A', an orange label stating ` AAAA Best rated: A in all classes' and a black label with the image of a carpet and stating ` class A Performance'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18045">
+          <num>50</num>
+          <content eId="para_18045__content">
+            <p>Thus, it is necessary to consider that, by its second question, the referring court asks, in essence, whether Delegated Regulation No 665/2013, read in the light of Directive 2010/30, must be interpreted as meaning that it prohibits the display, in a place other than the energy label, of other labels or symbols recalling the information contained on that energy label.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18046">
+          <num>51</num>
+          <content eId="para_18046__content">
+            <p>It should be noted that Article 3(1)(b) of Directive 2010/30 provides that the display, inter alia, of labels or symbols other than those on the energy label is prohibited if, in the first place, those labels or symbols do not comply with the requirements of that directive or of its delegated acts, namely, in the case at hand, of Delegated Regulation No 665/2013, and if, in the second place, such display is likely to mislead or confuse end-users with respect to the consumption of energy or, where relevant, other essential resources during use of the electric device. Thus, that article makes such a prohibition subject to the verification of that dual condition.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18047">
+          <num>52</num>
+          <content eId="para_18047__content">
+            <p>In the present case, however, given that the labels or the symbols displayed by BSH on the packaging of the vacuum cleaners it markets are not provided for in Delegated Regulation No 665/2013, they must be deemed not to satisfy the requirements of that regulation. It follows that the display of them is prohibited if it is likely to mislead or confuse the final consumer with respect to the consumption of energy of the vacuum cleaner during its use.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18048">
+          <num>53</num>
+          <content eId="para_18048__content">
+            <p>It is for the referring court to determine, in view of all the relevant factors, whether the display of the labels or the symbols used by BSH carries such a risk.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18049">
+          <num>54</num>
+          <content eId="para_18049__content">
+            <p>Nevertheless, it is apparent from the settled case-law of the Court that, in preliminary ruling proceedings, although it is ultimately for the national court to assess the facts, the Court of Justice, which is called on to provide answers of use to the national court, may provide guidance based inter alia on the documents in the file and on the written and oral observations which have been submitted to it, in order to enable the national court to give judgment (judgment of 5 June 2014, I, C‑255/13, EU:C:2014:1291, paragraph 55 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18050">
+          <num>55</num>
+          <content eId="para_18050__content">
+            <p>In that regard, it should be pointed out that it follows from the very wording of Article 3(1)(b) of Directive 2010/30 that the Court must strictly apply the criterion referred to in paragraph 52 of the present judgment, intended to protect the final consumer against any risk of error or confusion related to the energy consumption during the use of the electric device in question. The strict application of that criterion is borne out by that directive's objective of environmental protection, as has been recalled in paragraph 33 of the present judgment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18051">
+          <num>56</num>
+          <content eId="para_18051__content">
+            <p>In addition, it must be noted that, in the context of Directive 2005/29, the benchmark to be used for a misleading commercial practice is that of the average consumer, who is reasonably well-informed and reasonably observant and circumspect, taking into account social, cultural and linguistic factors (judgments of 12 May 2011, Ving Sverige, C‑122/10, EU:C:2011:299, paragraph 22, and of 26 October 2016, Canal Digital Danmark, C‑611/14, EU:C:2016:800, paragraph 39). The inextricable link between the issues justifies the use of that same criterion also in the context of the assessment of the risk of error or of confusion referred to in Article 3(1)(b) of Directive 2010/30.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18052">
+          <num>57</num>
+          <content eId="para_18052__content">
+            <p>In that regard, the mere fact that the labels or the symbols displayed by BSH refer to information already present on the energy label cannot suffice to rule out the existence of such a risk. It should be pointed out, first, that the symbols used by BSH are not graphically identical to those used on the energy label and, second, that some of the labels or symbols used by BSH repeat the same information while using a distinct graphic for each label, which could give the impression that they convey different information each time.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18053">
+          <num>58</num>
+          <content eId="para_18053__content">
+            <p>The answer to the second question, therefore, should be that Delegated Regulation No 665/2013, read in the light of Article 3(1)(b) of Directive 2010/30, must be interpreted as meaning that it prohibits the display, in a place other than the energy label, of labels or symbols recalling the information contained on that energy label, if such display is likely to mislead or confuse end-users with respect to the consumption of energy of the vacuum cleaner marketed at retail at issue during its use, which is for the referring court to verify, in view of all the relevant factors and having regard to the perception of the average end-user, who is reasonably well-informed and reasonably observant and circumspect, taking into account social, cultural and linguistic factors.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_18054">
+          <num>59</num>
+          <content eId="para_18054__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Fourth Chamber) hereby rules: 1. Article 7 of Directive 2005/29/EC of the European Parliament and of the Council of 11 May 2005 concerning unfair business-to-consumer commercial practices in the internal market and amending Council Directive 84/450/EEC, Directives 97/7/EC, 98/27/EC and 2002/65/EC of the European Parliament and of the Council and Regulation (EC) No 2006/2004 of the European Parliament and of the Council must be interpreted as meaning that the act of not providing consumers with information on the testing conditions that resulted in the energy classification indicated on the label relating to the energy class of vacuum cleaners, the model of which is shown in Annex II to Commission Delegated Regulation (EU) No 665/2013 of 3 May 2013 supplementing Directive 2010/30/EU of the European Parliament and of the Council with regard to energy labelling of vacuum cleaners does not constitute a `misleading omission' within the meaning of that provision. 2. Delegated Regulation No 665/2013, read in the light of Article 3(1)(b) of Directive 2010/30/EU of the European Parliament and of the Council of 19 May 2010 on the indication by labelling and standard product information of the consumption of energy and other resources by energy-related products, must be interpreted as meaning that it prohibits the display, in a place other than the label relating to the energy class of vacuum cleaners, the model of which is shown in Annex II to Delegated Regulation No 665/2013, of labels or symbols recalling the information contained on that energy label, if such display is likely to mislead or confuse end-users with respect to the consumption of energy of the vacuum cleaner marketed at retail at issue during its use, which is for the referring court to verify, in view of all the relevant factors and having regard to the perception of the average end-user, who is reasonably well-informed and reasonably observant and circumspect, taking into account social, cultural and linguistic factors.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Dutch.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

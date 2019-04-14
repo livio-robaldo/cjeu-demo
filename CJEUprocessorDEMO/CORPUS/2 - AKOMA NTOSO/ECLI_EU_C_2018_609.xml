@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+      <references source="#source">
+        <TLCOrganization eId="institution_100" showAs="" href="/akn/ontology/Organization/Institution/institution_100" />
+        <TLCOrganization eId="company_80" showAs="" href="/akn/ontology/Organization/Company/company_80" />
+      </references>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Tenth Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>25 July 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Common Customs Tariff -- Combined Nomenclature -- Tariff classification -- Headings 8703, 8704 and 8705 -- Hearses) In Case C‑445/17, REQUEST for a preliminary ruling under Article 267 TFEU from the Commissione tributaria regionale di Roma (Regional Tax Court, Rome, Italy), made by decision of 13 July 2017, received at the Court on 24 July 2017, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#institution_100">Agenzia delle Dogane e dei Monopoli</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#company_80">Pilato SpA</party>
+      </p>
+      <p>THE COURT (Tenth Chamber), composed of E. Levits, President of the Chamber, A. Borg Barthet (Rapporteur) and F. Biltgen, Judges, Advocate General: M. Wathelet, Registrar: A. Calot Escobar, having regard to the written procedure, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>
+            <organization refersTo="#company_80">Pilato SpA</organization>
+          </p>
+          <p>, by G. Tardella, avvocato, and by R. Baggio,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Italian Government, by G. Palmieri, acting as Agent, and by A. Collabolletta, avvocato dello Stato,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by A. Caeiros and F. Tomat, acting as Agents, having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_18336">
+          <num>1</num>
+          <content eId="para_18336__content">
+            <p>This request for a preliminary ruling concerns the interpretation of headings 8703, 8704 and 8705 of the Combined Nomenclature ( `the CN') in Annex I to Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff ( OJ 1987 L 256, p. 1), as amended by Commission Implementing Regulation (EU) No 927/2012 of 9 October 2012 ( OJ 2012 L 304, p. 1).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18337">
+          <num>2</num>
+          <content eId="para_18337__content">
+            <p>The request has been made in proceedings between</p>
+            <p>
+              <organization refersTo="#company_80">Pilato SpA</organization>
+            </p>
+            <p>and the</p>
+            <p>
+              <organization refersTo="#institution_100">Agenzia delle Dogane e dei Monopoli</organization>
+            </p>
+            <p>(Customs and Monopolies Agency, Italy) ( `the Agency') concerning the tariff classification of a hearse.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>The HS</p>
+        </tblock>
+        <paragraph eId="para_18338">
+          <num>3</num>
+          <content eId="para_18338__content">
+            <p>The Customs Cooperation Council, now the World Customs Organisation (WCO), was established by the convention establishing that body, concluded at Brussels on 15 December 1950. The Harmonised Commodity Description and Coding System ( `the HS') was drawn up by the WCO and established by the International Convention on the Harmonised Commodity Description and Coding System, concluded in Brussels on 14 June 1983 and approved, with its amending protocol of 24 June 1986, on behalf of the European Economic Community by Council Decision 87/369/EEC of 7 April 1987 ( OJ 1987 L 198, p. 1).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18339">
+          <num>4</num>
+          <content eId="para_18339__content">
+            <p>Under Article 3(1) of the latter convention, each contracting party undertakes to ensure that its customs tariff and statistical nomenclatures will be in conformity with the HS, to use all of the headings and subheadings of the HS without addition or modification, together with their related codes, and to follow the numerical sequence of that system. Each Contracting Party also undertakes to apply the general rules for the interpretation of the HS and all the section, chapter and subheading notes of the HS, and not to modify their scope.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The HS Explanatory Note</p>
+        </tblock>
+        <paragraph eId="para_18340">
+          <num>5</num>
+          <content eId="para_18340__content">
+            <p>The HS Explanatory Note relating to heading 8703 is worded as follows: `This heading covers motor vehicles of various types (including amphibious motor vehicles) designed for the transport of persons; it does not, however, cover the motor vehicles of heading 87.02. The vehicles of this heading may have any type of motor (internal combustion piston engine, electric motor, gas turbine, etc.). The heading also covers lightweight three-wheeled vehicles such as:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>those fitted with motorcycle engines and wheels, etc., but which, by virtue of their mechanical structure, possess the characteristics of conventional motor cars. That is to say, they are provided with a motor car type steering system or both reverse gear and differential;</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>those mounted on a T-shaped chassis, whose two rear wheels are independently driven by separate battery-powered electric motors. These vehicles are normally operated by means of a single central control stick with which the driver can start, accelerate, brake, stop and reverse the vehicle, as well as steer it to the right or to the left by applying a differential torque to the drive wheels or by turning the front wheel. Three-wheeled vehicles of the above-described character are classified under heading 87.04 if they are designed for the transport of goods. The vehicles of this heading may be of the wheeled or track-laying type. The heading also includes: 1. Motor cars (e.g., limousines, taxis, sports cars and racing cars). 2. Specialised transport vehicles such as ambulances, prison vans and hearses. ... 4. Vehicles specially designed for travelling on snow (e.g., snowmobiles). 5. Golf cars and similar vehicles. 6. Four-wheeled motor vehicles with tube chassis, having a motor-car type steering system (e.g., a steering system based on the Ackerman principle). For the purposes of this heading, the expression `` station wagons '' means vehicles with a maximum seating capacity of nine persons (including the driver), the interior of which may be used, without structural alteration, for the transport of both persons and goods. The classification of certain motor vehicles in this heading is determined by certain features which indicate that the vehicles are principally designed for the transport of persons rather than for the transport of goods (heading 87.04). These design features are especially helpful in determining the classification of motor vehicles which generally have a gross vehicle weight rating of less than 5 tonnes and which have a single enclosed interior space comprising an area for the driver and passengers and another area that may be used for the transport of both persons and goods. Included in this category of motor vehicles are those commonly known as ``multipurpose '' vehicles (e.g., van-type vehicles, sports utility vehicles, certain pick-up type vehicles). The following features are indicative of the design characteristics generally applicable to the vehicles which fall in this heading:</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>Presence of permanent seats with safety equipment (e.g., safety seat belts or anchor points and fittings for installing safety seat belts) for each person or the presence of permanent anchor points and fittings for installing seats and safety equipment in the rear area behind the area for the driver and front passengers; such seats may be fixed, fold-away, removable from anchor points or collapsible;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>Presence of rear windows along the two side panels;</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>Presence of sliding, swing-out or lift-up door or doors, with windows, on the side panels or in the rear;</p>
+              </item>
+              <item>
+                <num>(d)</num>
+                <p>Absence of a permanent panel or barrier between the area for the driver and front passengers and the rear area that may be used for the transport of both persons and goods;</p>
+              </item>
+              <item>
+                <num>(e)</num>
+                <p>Presence of comfort features and interior finish and fittings throughout the vehicle interior that are associated with the passenger areas of vehicles (e.g., floor carpeting, ventilation, interior lighting, ashtrays). Vehicles specialised for use in fairgrounds, e.g., ``dodgem '' cars are classified in heading 95.08.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18341">
+          <num>6</num>
+          <content eId="para_18341__content">
+            <p>The HS Explanatory Note relating to heading 8704 is worded as follows: `This heading covers in particular: Ordinary lorries (trucks) and vans (flat, tarpaulin-covered, closed, etc.); delivery trucks and vans of all kinds, removal vans; lorries (trucks) with automatic discharging devices (tipping lorries (trucks), etc.); tankers (whether or not fitted with pumps); refrigerated or insulated lorries (trucks); multi-floored lorries (trucks) for the transport of acid in carboys, cylinders of butane, etc.; dropframe heavy-duty lorries (trucks) with loading ramps for the transport of tanks, lifting or excavating machinery, electrical transformers, etc.; lorries (trucks) specially constructed for the transport of fresh concrete, other than concrete-mixer lorries (trucks) of heading 87.05; refuse collectors whether or not fitted with loading, compressing, damping, etc., devices. The heading also covers lightweight three-wheeled vehicles such as:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>those fitted with motorcycle engine and wheels, etc. which, by virtue of their mechanical structure, possess the characteristics of conventional motor cars, that is motor car type steering system or both reverse gear and differential;</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>those mounted on a T-shaped chassis, whose two rear wheels are independently driven by separate battery-powered electric motors. These vehicles are normally operated by means of a single central control stick with which the driver can start, accelerate, brake, stop and reverse the vehicle, as well as steer it to the right or to the left by applying a differential torque to the drive wheels or by turning the front wheel. Three-wheeled vehicles of the above-described character are classified in heading 87.03 if they are designed for the transport of persons. The classification of certain motor vehicles in this heading is determined by certain features which indicate that the vehicles are designed for the transport of goods rather than for the transport of persons (heading 87.03). These features are especially helpful in determining the classification of motor vehicles, generally vehicles having a gross vehicle weight rating of less than 5 tonnes, which have either a separate closed rear area or an open rear platform normally used for the transport of goods, but may have rear bench-type seats that are without safety seat belts, anchor points or passenger amenities and that fold flat against the sides to permit full use of the rear platform for the transport of goods. Included in this category of motor vehicles are those commonly known as ``multipurpose '' vehicles (e.g., van-type vehicles, pick-up type vehicles and certain sports utility vehicles). The following features are indicative of the design characteristics generally applicable to the vehicles which fall in this heading:</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>Presence of bench-type seats without safety equipment (e.g., safety seat belts or anchor points and fittings for installing safety seat belts) or passenger amenities in the rear area behind the area for the driver and front passengers. Such seats are normally fold-away or collapsible to allow full use of the rear floor (van-type vehicles) or a separate platform (pickup vehicles) for the transport of goods;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>Presence of a separate cabin for the driver and passengers and a separate open platform with side panels and a drop-down tailgate (pickup vehicles);</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>Absence of rear windows along the two side panels; presence of sliding, swing-out or lift-up door or doors, without windows, on the side panels or in the rear for loading and unloading goods (van-type vehicles);</p>
+              </item>
+              <item>
+                <num>(d)</num>
+                <p>Presence of a permanent panel or barrier between the area for the driver and front passengers and the rear area;</p>
+              </item>
+              <item>
+                <num>(e)</num>
+                <p>Absence of comfort features and interior finish and fittings in the cargo bed area which are associated with the passenger areas of vehicles (e.g., floor carpeting, ventilation, interior lighting, ashtrays). ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18342">
+          <num>7</num>
+          <content eId="para_18342__content">
+            <p>The HS Explanatory Note relating to heading 8705 is worded as follows: `This heading covers a range of motor vehicles, specially constructed or adapted, equipped with various devices that enable them to perform certain non-transport functions, i.e., the primary purpose of a vehicle of this heading is not the transport of persons or goods. The heading includes:</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Motor breakdown lorries (trucks) consisting of a lorry (truck) chassis, with or without a floor, equipped with lifting gear such as non-rotating cranes, trestles, pulleys or winches, designed for lifting and towing broken-down vehicles.</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>Motor pump vehicles, with a pump usually driven by the vehicle's engine (e.g., fire fighting vehicles).</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>Lorries (trucks) fitted with ladders or elevator platforms for the maintenance of overhead cables, street lighting, etc.; lorries (trucks) with an adjustable arm and platform ( ``dollies '') for cinematographic or television work.</p>
+              </item>
+              <item>
+                <num>(4)</num>
+                <p>Lorries (trucks) used for cleansing streets, gutters, airfield runways, etc., (e.g., sweepers, sprinklers, sprinkler sweepers and cesspool emptiers).</p>
+              </item>
+              <item>
+                <num>(5)</num>
+                <p>Snow-ploughs and snow-blowers, with built-in equipment; i.e., vehicles constructed solely for snow clearance, and usually equipped with turbines, rotating blades, etc., driven either by the vehicle engine or by a separate engine. Interchangeable snow-plough or snow-blower equipment of all types is in all cases excluded (heading 84.30), whether or not presented mounted on a vehicle.</p>
+              </item>
+              <item>
+                <num>(6)</num>
+                <p>Spraying lorries (trucks) of all kinds, whether or not fitted with heating equipment, for spreading tar or gravel, for agricultural use, etc. .</p>
+              </item>
+              <item>
+                <num>(7)</num>
+                <p>Crane lorries (trucks), not for the transport of goods, consisting of a motor vehicle chassis on which a cab and a rotating crane are permanently mounted. However, lorries (trucks) with self-loading devices are excluded (heading 87.04).</p>
+              </item>
+              <item>
+                <num>(8)</num>
+                <p>Mobile drilling derricks (i.e., lorries (trucks) fitted with a derrick assembly, winches and other appliances for drilling, etc.). ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The CN</p>
+        </tblock>
+        <paragraph eId="para_18343">
+          <num>8</num>
+          <content eId="para_18343__content">
+            <p>Regulation No 2658/87 established the CN, which is based on the HS, from which it takes the six-digit headings and subheadings, only the seventh and eighth digits forming subdivisions specific to the CN.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18344">
+          <num>9</num>
+          <content eId="para_18344__content">
+            <p>Pursuant to Article 12(1) of Regulation No 2658/87, as amended by Council Regulation (EC) No 254/2000 of 31 January 2000 ( OJ 2000 L 28, p. 16), the European Commission is to adopt each year a regulation reproducing the complete version of the combined nomenclature, together with the rates of duty, as resulting from measures adopted by the Council of the European Union or the Commission. That regulation is to apply from 1 January of the following year.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18345">
+          <num>10</num>
+          <content eId="para_18345__content">
+            <p>The version of the CN applicable to the facts at issue in the main proceedings, which occurred in 2013, is that defined by Implementing Regulation No 927/2012.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18346">
+          <num>11</num>
+          <content eId="para_18346__content">
+            <p>The general rules for the interpretation of the CN, which are set out in Part One, Section I, A, provide: `Classification of goods in the [CN] shall be governed by the following principles: 1. The titles of sections, chapters and sub-chapters are provided for ease of reference only; for legal purposes, classification shall be determined according to the terms of the headings and any relative section or chapter notes and, provided such headings or notes do not otherwise require, according to the following provisions. ... 6. For legal purposes, the classification of goods in the subheadings of a heading shall be determined according to the terms of those subheadings and any related subheading notes and, mutatis mutandis, to the above rules, on the understanding that only subheadings at the same level are comparable. For the purposes of this rule, the relative section and chapter notes also apply, unless the context requires otherwise.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18347">
+          <num>12</num>
+          <content eId="para_18347__content">
+            <p>The second part of the CN, entitled `Schedule of Customs Duties', contains, inter alia, Section XVII, entitled `Vehicles, aircraft, vessels and associated transport equipment'. That section includes Chapter 87 entitled `Vehicles other than railway or tramway rolling-stock, and parts and accessories thereof', which includes CN headings 8703, 8704 and 8705. Those headings read as follows: `8703 Motor cars and other motor vehicles principally designed for the transport of persons (other than those of heading No 8702), including station wagons and racing cars. ... 8704 Motor vehicles for the transport of goods: ... 8705 Special-purpose motor vehicles, other than those principally designed for the transport of persons or goods (for example, breakdown lorries, crane lorries, fire-fighting vehicles, concrete-mixer lorries, road-sweeper lorries, spraying lorries, mobile workshops, mobile radiological units): ...'</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the question referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_18348">
+          <num>13</num>
+          <content eId="para_18348__content">
+            <p>On 20 August 2013, Pilato submitted to the Agency an application for binding tariff information for the classification of hearses equipped with a diesel engine under CN subheading 87049000, namely `motor vehicles for the transport of goods'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18349">
+          <num>14</num>
+          <content eId="para_18349__content">
+            <p>In that application, the vehicle was described as follows: `Diesel hearse. The vehicle features:</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>a separate cabin for the driver;</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>a panel separating the area for the driver from the rear area;</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>the rear door lifts up to enable the coffin to be loaded and unloaded;</p>
+              </item>
+              <item>
+                <num>(4)</num>
+                <p>special equipment enabling the coffin and other containers to be loaded and fixed in place;</p>
+              </item>
+              <item>
+                <num>(5)</num>
+                <p>cylinder capacity 2143 cc;</p>
+              </item>
+              <item>
+                <num>(6)</num>
+                <p>the dimensions of the vehicle are 5.990 metres long and 1.870 metres wide.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18350">
+          <num>15</num>
+          <content eId="para_18350__content">
+            <p>By a decision of 2 December 2013, the Agency provided the requested binding tariff information classifying the motor vehicles concerned under CN subheading 87033290, that is, as `[m]otor cars and other motor vehicles principally designed for the transport of persons (other than those of heading 8702), including station wagons and racing cars.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18351">
+          <num>16</num>
+          <content eId="para_18351__content">
+            <p>On 26 February 2014, Pilato brought an appeal against that decision before the Commissione tributaria provinciale di Roma (Rome Provincial Tax Court, Italy), which upheld that appeal by judgment of 19 May 2016. That court held, inter alia, that hearses do not possess the structural characteristics that the Explanatory Note attributes to motor vehicles principally designed for the carriage of persons, and are actually distinguished by structural characteristics attributed to motor vehicles for the carriage of goods.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18352">
+          <num>17</num>
+          <content eId="para_18352__content">
+            <p>On 13 January 2017 the Agency lodged an appeal against that judgment before the Commissione tributaria regionale del Lazio (Regional Tax Court, Lazio, Italy). In particular, it maintained that the HS Explanatory Note relating to CN heading 8703 also includes `specialised transport vehicles such as ambulances, prison vans and hearses.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18353">
+          <num>18</num>
+          <content eId="para_18353__content">
+            <p>That court states, first, that the HS Explanatory Note relating to CN heading 8703 includes, inter alia, specialised transport vehicles such as ambulances, prison vans and hearses, and also multipurpose vehicles `which have a single enclosed interior space comprising an area for the driver and passengers and another area that may be used for the transport of both persons and goods.' It points out in that regard that, despite the specific reference to hearses among vehicles included under CN heading 8703, the structural and objective characteristics of those vehicles do not correspond to those indicated in the HS Explanatory Note. Thus, hearses do not have a single enclosed space comprising an area for the driver and passengers and another area that may be used for the transport of both persons and goods, since, on the contrary, a fixed and hermetic barrier is installed, which is necessary for hygienic and sanitary reasons, separating the driver's cab from the rear area.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18354">
+          <num>19</num>
+          <content eId="para_18354__content">
+            <p>Second, the referring court states that the HS Explanatory Note relating to CN heading 8704 indicates, in particular, construction characteristics which vehicles under that heading generally have as being the presence of a permanent panel or barrier between the area for the driver and front passengers and the rear area as well as the lack of windows on the rear part of the lateral panel. Those characteristics would appear to be fully consistent with those of hearses.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18355">
+          <num>20</num>
+          <content eId="para_18355__content">
+            <p>Consequently, the referring court takes the view that the specific reference to hearses in the HS Explanatory Note, under CN heading 8703, is incompatible with the objective conditions which motor vehicles must fulfil in order to come within that heading. Given that the HS Explanatory Note is not binding, the classification of hearses under CN heading 8704 cannot be ruled out.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18356">
+          <num>21</num>
+          <content eId="para_18356__content">
+            <p>In those circumstances, the Commissione tributaria regionale del Lazio (Regional Tax Court, Lazio) decided to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling: `Has [CN heading 8704] to be interpreted to the effect that it must include hearses? If the answer to the first question is in the negative, are hearses to be classified under [CN heading 8705] or [CN heading 8703]?'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the question referred</p>
+        </tblock>
+        <paragraph eId="para_18357">
+          <num>22</num>
+          <content eId="para_18357__content">
+            <p>The referring court asks, in essence, whether hearses such as those at issue in the main proceedings must be classified as vehicles designed for the transport of persons, under CN heading 8703, as vehicles designed for the transport of goods under CN heading 8704, or as special-purpose vehicles, other than those principally designed for the transport of persons or goods, under CN heading 8705.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18358">
+          <num>23</num>
+          <content eId="para_18358__content">
+            <p>In order to provide a helpful answer to the referring court, it must be stated at the outset that, as is apparent from paragraph 11 of the present judgment, first, the general rules for the interpretation of the CN provide that the classification of goods is to be determined according to the terms of the headings and any relative section or chapter notes, the titles of sections, chapters and sub-chapters being provided for ease of reference only.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18359">
+          <num>24</num>
+          <content eId="para_18359__content">
+            <p>Second, according to the Court's settled case-law, in the interests of legal certainty and ease of verification, the decisive criterion for the classification of goods is in general to be sought in their objective characteristics and properties as defined in the wording of the relevant heading of the CN and of the notes to the sections or chapters (judgment of 12 June 2014, Lukoyl Neftohim Burgas, C‑330/13, EU:C:2014:1757, paragraph 34 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18360">
+          <num>25</num>
+          <content eId="para_18360__content">
+            <p>Next, the intended use of a product may constitute an objective criterion for classification if it is inherent to the product, and that inherent character must be capable of being assessed on the basis of the product's objective characteristics and properties (judgment of 6 December 2007, Van Landeghem, C‑486/06, EU:C:2007:762, paragraph 24 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18361">
+          <num>26</num>
+          <content eId="para_18361__content">
+            <p>Lastly, it should be recalled, according to the Court's case-law, that the Explanatory Note drawn up, as regards the CN, by the Commission and, as regards the HS, by the WCO, is an important aid to the interpretation of the scope of the various headings but does not have legally binding force. Moreover, although the WCO opinions classifying goods in the HS do not have legally binding force, they amount, as regards the classification of those goods in the CN, to indications which are an important aid to the interpretation of the scope of the various tariff headings of the CN (judgment of 6 December 2007, Van Landeghem, C‑486/06, EU:C:2007:762, paragraph 25 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18362">
+          <num>27</num>
+          <content eId="para_18362__content">
+            <p>Pilato claims that hearses must be classified under CN heading 8704, since they have characteristics comparable to those referred to in the HS Explanatory Note for vehicles for the transport of goods, whereas the Italian Government and the Commission take the view that hearses must be classified under CN heading 8703.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18363">
+          <num>28</num>
+          <content eId="para_18363__content">
+            <p>It is apparent from the wording of CN headings 8703, 8704 and 8705 that the first covers means of transport for persons in general, whereas the second relates to the means of transport for goods and the third concerns special-purpose means of transport, which, in principle, are not designed for transporting people or goods.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18364">
+          <num>29</num>
+          <content eId="para_18364__content">
+            <p>Moreover, according to the wording of heading 8703, that is, ` ... motor vehicles principally designed for the transport of persons', the principal intended use of those vehicles is decisive for their classification. It follows from the use of the term `designed', as supported by the settled case-law of the Court referred to in paragraph 25 of this judgment, that the principal intended use of the vehicle is decisive, provided that it is inherent to the product. The intended use is determined by the general appearance of the vehicles at issue in the main proceedings and on the basis of the entirety of the characteristics of those vehicles which give them their essential character (judgment of 6 December 2007, Van Landeghem, C‑486/06, EU:C:2007:762, paragraph 27 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18365">
+          <num>30</num>
+          <content eId="para_18365__content">
+            <p>In the present case, having regard to the description of the vehicle at issue in the main proceedings, which is referred to in paragraph 14 of the present judgment, hearses are particularly built and equipped for the transport of coffins, which contain corpses. In that regard, as the Italian Government and the Commission point out, a human body, even lifeless, cannot be treated in the same way as goods which may be the subject, as such, of commercial transactions. Therefore, the principal use of hearses is for the transport of persons.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18366">
+          <num>31</num>
+          <content eId="para_18366__content">
+            <p>Such an interpretation is consistent with an overall reading of the HS Explanatory Note relating to CN heading 8703.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18367">
+          <num>32</num>
+          <content eId="para_18367__content">
+            <p>That note states expressly, in the fifth paragraph, that `[t]he heading also includes: ... [s]pecialised transport vehicles such as ambulances, prison vans and hearses'. It is only the seventh paragraph of that note which states that `[t]he classification of certain motor vehicles in this heading is determined by certain features which indicate that the vehicles are principally designed for the transport of persons rather than for the transport of goods', and that `[i]ncluded in this category of motor vehicles are those commonly known as ``multipurpose '' vehicles'. That paragraph then sets out a series of design characteristics generally applicable to the vehicles which fall in that heading.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18368">
+          <num>33</num>
+          <content eId="para_18368__content">
+            <p>It follows that the Explanatory Note refers, first, specifically to vehicles which fall within CN heading 8703, without further clarification. It describes, second, as is apparent from its wording, characteristics to identify the vehicles whose classification is ambiguous and to indicate that the principal intended use of those vehicles is the transport of persons. Third, that note sets out the design characteristics generally applicable to the vehicles principally designed for the transport of persons.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18369">
+          <num>34</num>
+          <content eId="para_18369__content">
+            <p>Accordingly, racing cars, snowmobiles or golf cars, which are specifically referred to in the fifth paragraph of that Explanatory Note, respectively in subparagraphs 1, 4 and 5, fall within CN heading 8703, even if they do not, in principle, have sliding, swing-out or lift-up door or doors, with windows, on the side panels or in the rear, that characteristic being, according to the seventh paragraph of the Note, a design characteristic generally applicable to the vehicles principally designed for the transport of persons under CN heading 8703.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18370">
+          <num>35</num>
+          <content eId="para_18370__content">
+            <p>That analysis can be applied to specialised transport vehicles, such as ambulances and hearses, which are referred to in the second subparagraph of the fifth paragraph of the HS Explanatory Note relating to CN heading 8703, despite the fact that they usually have a permanent barrier between the front area intended for the driver and the rear area intended for the transport of a stretcher or a coffin, a characteristic which generally vehicles principally designed for the transport of persons do not have, under the seventh paragraph of that Explanatory Note.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18371">
+          <num>36</num>
+          <content eId="para_18371__content">
+            <p>In those circumstances, the fact that that Explanatory Note provides no indication concerning the design characteristics which the specialised transport vehicles listed therein must have means that hearses are classified under CN heading 8703, without it being necessary that they have other specific characteristics.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18372">
+          <num>37</num>
+          <content eId="para_18372__content">
+            <p>That finding cannot be called into question by Pilato's arguments, according to which hearses should be classified under CN heading 8704 on the ground that they have characteristics which are broadly comparable to those set out in the HS Explanatory Note for motor vehicles for the transport of goods under that tariff heading.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18373">
+          <num>38</num>
+          <content eId="para_18373__content">
+            <p>First, as is apparent from paragraphs 32 to 36 of the present judgment, the fact that hearses do not have the design characteristics listed in the HS Explanatory Note relating to CN heading 8703 is irrelevant for the purposes of their tariff classification, since vehicles designed for the transport of persons fall under CN heading 8703 although they do not have the design characteristics generally applicable to vehicles falling under that heading.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18374">
+          <num>39</num>
+          <content eId="para_18374__content">
+            <p>Second, it should be stated that some of the design characteristics generally applicable to vehicles for the transport of goods, listed in subparagraphs (a) to (e) of the fourth paragraph of the HS Explanatory Note relating to CN heading 8704, do not relates to hearses. An example is the presence of a separate open platform with side panels and a drop-down tailgate and the absence of rear windows along the two side panels.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18375">
+          <num>40</num>
+          <content eId="para_18375__content">
+            <p>Furthermore, hearses such as those at issue in the main proceedings cannot be classified under CN heading 8705 which refers to `[s]pecial-purpose motor vehicles, other than those principally designed for the transport of persons or goods.' Indeed, as is apparent from the very wording of that heading, the principal function of vehicles which fall within it is neither the transport of persons nor of goods.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18376">
+          <num>41</num>
+          <content eId="para_18376__content">
+            <p>In the light of all the foregoing considerations, the answer to the question referred is that the CN must be interpreted as meaning that hearses such as those at issue in the case in the main proceedings must be classified under CN heading 8703.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_18377">
+          <num>42</num>
+          <content eId="para_18377__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Tenth Chamber) hereby rules: The Combined Nomenclature in Annex I to Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff, as amended by Commission Implementing Regulation (EU) No 927/2012 of 9 October 2012, must be interpreted as meaning that hearses such as those at issue in the case in the main proceedings must be classified under heading 8703 of that combined nomenclature.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Italian.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>
