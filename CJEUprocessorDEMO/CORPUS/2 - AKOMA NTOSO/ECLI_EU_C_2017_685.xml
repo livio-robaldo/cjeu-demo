@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+      <references source="#source">
+        <TLCOrganization eId="institution_57" showAs="" href="/akn/ontology/Organization/Institution/institution_57" />
+      </references>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (First Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>14 September 2017 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Directive 2004/18/EC -- Articles 47(2) and 48(3) -- Tenderer relying on the capacities of other entities to meet the requirements of the contracting authority -- Loss by those entities of the capacities required -- National legislation providing for the exclusion of the tenderer from the call for tenders and for the award of the contract to a competitor) In Case C‑223/16, REQUEST for a preliminary ruling under Article 267 TFEU from the Consiglio di Stato (Council of State, Italy), made by decision of 3 November 2015, received at the Court on 20 April 2016, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">Casertana Costruzioni Srl</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#institution_57">Ministero delle Infrastrutture e dei Trasporti -- Provveditorato Interregionale per le opere pubbliche della Campania e del Molise</party>
+      </p>
+      <p>, Agenzia Regionale Campana per la Difesa del Suolo -- A.R.Ca.Di.S., third parties: Consorzio Stabile Infratech, W.E.E. Water Environment Energy SpA, Massimo Fontana, Studio Tecnico Associato Thinkd, Claudio Della Rocca, Nicola Maione, Vittorio Ciotola, Fin.Se.Co. SpA, Edilgen SpA, Site Srl, THE COURT (First Chamber), composed of R. Silva de Lapuerta, President of the Chamber, E. Regan, A. Arabadjiev, C.G. Fernlund and S. Rodin (Rapporteur), Judges, Advocate General: N. Wahl, Registrar: I. Illéssy, Administrator, having regard to the written procedure and further to the hearing on 15 March 2017, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>Casertana Costruzioni Srl, by E. Sticchi Damiani and G. Ceceri, avvocati,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>Consorzio Stabile Infratech, by L. Lentini and F. Migliarotti, avvocati,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Italian Government, by G. Palmieri, acting as Agent, and C. Colelli, avvocato dello Stato,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by G. Gattinara and A. Tokár, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 11 May 2017,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_17663">
+          <num>1</num>
+          <content eId="para_17663__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Articles 47 and 48 of Directive 2004/18/EC of the European Parliament and of the Council of 31 March 2004 on the coordination of procedures for the award of public works contracts, public supply contracts and public service contracts ( OJ 2004 L 134, p. 114) and Article 63 of Directive 2014/24/EU of the European Parliament and of the Council of 26 February 2014 on public procurement and repealing Directive 2004/18/EC ( OJ 2014 L 94, p. 65).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17664">
+          <num>2</num>
+          <content eId="para_17664__content">
+            <p>The request has been made in proceedings brought by Casertana Costruzioni Srl ( `Casertana') against the</p>
+            <p>
+              <organization refersTo="#institution_57">Ministero delle Infrastrutture e dei Trasporti -- Provveditorato Interregionale per le opere pubbliche della Campania e del Molise</organization>
+            </p>
+            <p>(Ministry for Infrastructure and Transport -- Interregional Authority for Public Works in Campania and Molise, Italy) and the Agenzia Regionale Campana per la Difesa del Suolo -- A.R.Ca.Di.S. (Campania Regional Agency for Soil Protection) regarding the tendering procedure for the executive design, for safety coordination at the planning stage and for the execution of works relating to the project called `La Bandiera Blu' on the Domitian coast.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <tblock>
+          <p>Directive 2004/18</p>
+        </tblock>
+        <paragraph eId="para_17665">
+          <num>3</num>
+          <content eId="para_17665__content">
+            <p>Article 47(2) of Directive 2004/18 provided: `An economic operator may, where appropriate and for a particular contract, rely on the capacities of other entities, regardless of the legal nature of the links which it has with them. It must in that case prove to the contracting authority that it will have at its disposal the resources necessary, for example, by producing an undertaking by those entities to that effect.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17666">
+          <num>4</num>
+          <content eId="para_17666__content">
+            <p>Article 48(3) of that directive was worded as follows: `An economic operator may, where appropriate and for a particular contract, rely on the capacities of other entities, regardless of the legal nature of the links which it has with them. It must in that case prove to the contracting authority that it will have at its disposal the resources necessary for the execution of the contract, for example, by producing an undertaking by those entities to place the necessary resources at the disposal of the economic operator.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17667">
+          <num>5</num>
+          <content eId="para_17667__content">
+            <p>Directive 2004/18 was repealed by Directive 2014/24.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Directive 2014/24</p>
+        </tblock>
+        <paragraph eId="para_17668">
+          <num>6</num>
+          <content eId="para_17668__content">
+            <p>Article 63(1) of Directive 2014/24 states as follows: `With regard to criteria relating to economic and financial standing as set out pursuant to Article 58(3), and to criteria relating to technical and professional ability as set out pursuant to Article 58(4), an economic operator may, where appropriate and for a particular contract, rely on the capacities of other entities, regardless of the legal nature of the links which it has with them. ... Where an economic operator wants to rely on the capacities of other entities, it shall prove to the contracting authority that it will have at its disposal the resources necessary, for example, by producing a commitment by those entities to that effect. The contracting authority shall, in accordance with Articles 59, 60 and 61, verify whether the entities on whose capacity the economic operator intends to rely fulfil the relevant selection criteria and whether there are grounds for exclusion pursuant to Article 57. The contracting authority shall require that the economic operator replaces an entity which does not meet a relevant selection criterion, or in respect of which there are compulsory grounds for exclusion. The contracting authority may require or may be required by the Member State to require that the economic operator substitutes an entity in respect of which there are non-compulsory grounds for exclusion. Where an economic operator relies on the capacities of other entities with regard to criteria relating to economic and financial standing, the contracting authority may require that the economic operator and those entities be jointly liable for the execution of the contract. ...'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Italian law</p>
+        </tblock>
+        <paragraph eId="para_17669">
+          <num>7</num>
+          <content eId="para_17669__content">
+            <p>Article 40(1) and (2) of decreto legislativo n. 163 -- Codice dei contratti pubblici relativi a lavori, servizi e forniture in attuazione delle direttive 2004/17/CE e 2004/18/CE (Legislative Decree No 163 establishing the Code on public works contracts, public service contracts and public supply contracts pursuant to Directives 2004/17/EC and 2004/18/EC) of 12 April 2006 (Ordinary Supplement to GURI No 100 of 2 May 2006) provides: `1.   Entities carrying out public works in any capacity must be duly authorised and must ensure that their activities comply with the principles of quality, professionalism and fairness. To that end, the goods, processes, services and business quality control systems used by those entities shall be subject to a system of certification in accordance with the legislation in force. 2.   The regulation set out in Article 5 shall govern the single certification scheme for any entities carrying out, in any capacity, public works for an amount exceeding EUR 150000, on the basis of the type and amount of the works. The regulation under Article 5 also allows the categories of certification to be periodically reviewed and possible new categories to be provided for.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17670">
+          <num>8</num>
+          <content eId="para_17670__content">
+            <p>Article 49 of that decree provides: `The tenderer, be it an individual tenderer or a member of a consortium or group within the meaning of Article 34, in a specific tendering procedure for a public works, services or supply contract, may fulfil the requirements relating to possession of economic, financial, technical and organisational capacity, or possession of an SOA certificate [a Certification Body certificate], by relying on the capacity of another entity or the SOA certificate of another entity.'</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the question referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_17671">
+          <num>9</num>
+          <content eId="para_17671__content">
+            <p>It follows from the order for reference that, in the course of June 2013, the Interregional Authority for Public Works in Campania and Molise, on behalf of the Campania Regional Agency for Soil Protection, launched an open tendering procedure of EU interest for the executive design, for safety coordination at the planning stage and for the execution of works relating to the project `La Bandiera Blu' on the Domitian coast.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17672">
+          <num>10</num>
+          <content eId="para_17672__content">
+            <p>The tender specifications stated that, in order to take part in the call for tenders, it was necessary to obtain a certificate from the Società Organismo di Attestazione (Certification Body) relating to the qualifications required to provide design and execution services falling within certain categories.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17673">
+          <num>11</num>
+          <content eId="para_17673__content">
+            <p>Casertana participated in the call for tenders within the framework of an ad hoc tendering consortium under formation, as lead company, and declared that it relied, as regards the qualifications required by Legislative Decree No 163, on those of two auxiliary undertakings, one being Consorzio Stabile GAP.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17674">
+          <num>12</num>
+          <content eId="para_17674__content">
+            <p>In the course of the procedure and after the end of the stage of admission to the call for tenders, that auxiliary undertaking lost qualification for the required category of services, thus becoming qualified for a lower category of services only.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17675">
+          <num>13</num>
+          <content eId="para_17675__content">
+            <p>By decision of 8 October 2014, the contract was awarded to the ad hoc tendering consortium led by Consorzio Stabile Infratech, while the consortium led by Casertana was ranked second.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17676">
+          <num>14</num>
+          <content eId="para_17676__content">
+            <p>Casertana brought an action before the Tribunale amministrativo regionale per la Campania (Campania Regional Administrative Court, Italy), contesting several aspects of the final award decision for the contract at issue.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17677">
+          <num>15</num>
+          <content eId="para_17677__content">
+            <p>Subsequently, the ad hoc tendering consortium to which the contract was awarded brought a counterclaim intended to preclude the action brought by the applicant in the main proceedings, arguing that it should have been excluded from the call for tenders on the ground that its auxiliary undertaking had, in the course of the tendering procedure, lost the classification required for participating in the call for tenders. In defence, the applicant in the main proceedings stated that the loss of rank attributable to the auxiliary undertaking amounted to a case of force majeure and could not result in the automatic exclusion of its consortium.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17678">
+          <num>16</num>
+          <content eId="para_17678__content">
+            <p>By judgment of 27 March 2015, the Tribunale amministrativo regionale per la Campania (Campania Regional Administrative Court) granted the counterclaim brought by the ad hoc tendering consortium that had been awarded the contract; it upheld the first plea in law, holding that the loss in the course of the tendering procedure of qualification for the classification required of the auxiliary undertaking had the effect of excluding the consortium of the applicant in the main proceedings from that procedure. In addition, that court took the view that the arguments of the applicant in the main proceedings regarding the occurrence of a case of force majeure were irrelevant.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17679">
+          <num>17</num>
+          <content eId="para_17679__content">
+            <p>On 8 July 2015, Casertana brought an appeal against the judgment of the Tribunale amministrativo regionale per la Campania (Campania Regional Administrative Court). In essence, the applicant in the main proceedings considers that the tenderer, trusting that the auxiliary undertaking had the required qualifications, cannot be called upon to answer for the loss of that qualification as long as that loss cannot be attributed to it. It is impossible to identify a `fault' attributable to the tenderer and that court should, consequently, have recognised the tenderer's right to replace the auxiliary undertaking, a right which follows from the Court's case-law, as well as from Article 63 of Directive 2014/24, which expressly lays down that right.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17680">
+          <num>18</num>
+          <content eId="para_17680__content">
+            <p>In those circumstances, the Consiglio di Stato (Council of State, Italy) decided to stay proceedings and refer the following question to the Court for a preliminary ruling: `Do Article 47(2) and Article 48(3) of Directive [2004/18], as replaced by Article 63 of Directive [2014/24], preclude national rules which exclude, or may be construed as excluding, any possibility for an economic operator, that is to say a tenderer, of appointing another undertaking to replace the undertaking originally selected as ``auxiliary undertaking '' where the latter no longer has the capacity to participate or that capacity is diminished, thus resulting in the economic operator being excluded from the tendering procedure for reasons that are neither objectively nor subjectively imputable to it?'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the question referred</p>
+        </tblock>
+        <paragraph eId="para_17681">
+          <num>19</num>
+          <content eId="para_17681__content">
+            <p>By its question, the referring court asks, in essence, whether Articles 47(2) and 48(3) of Directive 2004/18, read in the light of Article 63 of Directive 2014/24, must be interpreted as precluding national legislation which excludes the possibility for an economic operator taking part in a tendering procedure to replace an auxiliary undertaking that has lost required qualifications after the submission of the tender and which results in the automatic exclusion of that operator.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Applicability of Article 63(1) of Directive 2014/24</p>
+        </tblock>
+        <paragraph eId="para_17682">
+          <num>20</num>
+          <content eId="para_17682__content">
+            <p>The referring court raises the question of whether Article 48(3) of Directive 2004/18 should be interpreted by taking Article 63(1) of Directive 2014/24 into consideration.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17683">
+          <num>21</num>
+          <content eId="para_17683__content">
+            <p>In order to answer that question, it must be recalled, as a preliminary point, that, according to settled case-law, the applicable directive is, as a rule, the one in force when the contracting authority chooses the type of procedure to be followed and decides definitively whether it is necessary for a prior call for competition to be issued for the award of a public contract. Conversely, a directive is not applicable if the period prescribed for its transposition expired after that point in time (judgments of 10 July 2014, Impresa Pizzarotti, C‑213/13, EU;C:2014:2067, paragraph 31 and the case-law cited, and of 7 April 2016, Partner Apelski Dariusz, C‑324/14, EU:C:2016:214, paragraph 83).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17684">
+          <num>22</num>
+          <content eId="para_17684__content">
+            <p>In the main proceedings, the contract notice was sent to the Official Journal of the European Union on 7 June 2013 and published in the Gazzetta Ufficiale della Repubblica Italiana(Official Gazette of the Italian Republic) on 10 June 2013, whereas Directive 2014/24 was adopted on 26 February 2014 and, in any event, the period for transposing it expired, in accordance with Article 90 thereof, on 18 April 2016.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17685">
+          <num>23</num>
+          <content eId="para_17685__content">
+            <p>That being so, when the call for tenders at issue in the main proceedings was published in June 2013, Directive 2014/24 was not applicable ratione temporis.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17686">
+          <num>24</num>
+          <content eId="para_17686__content">
+            <p>As for the question whether Article 48(3) of Directive 2004/18 must be interpreted by taking into consideration the content of Article 63(1) of Directive 2014/24, which is the provision corresponding inter alia to Article 48(3) of Directive 2004/18, it must be observed that Article 48(3) is formulated in general terms and does not expressly set out the detailed rules in accordance with which an economic operator may rely on the capacities of other entities in a public procurement procedure (judgment of 7 April 2016, Partner Apelski Dariusz, C‑324/14, EU:C:2016:214, paragraphs 87 and 88).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17687">
+          <num>25</num>
+          <content eId="para_17687__content">
+            <p>On the other hand, Article 63(1) of Directive 2014/24 now provides that economic operators may `only rely on the capacities of other entities where the latter will perform the works or services for which these capacities are required' (judgment of 7 April 2016, Partner Apelski Dariusz, C‑324/14, EU:C:2016:214, paragraph 89) and that `the contracting authority shall require that the economic operator replaces an entity which does not meet a relevant selection criterion, or in respect of which there are compulsory grounds for exclusion'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17688">
+          <num>26</num>
+          <content eId="para_17688__content">
+            <p>Although it is true that, as stated, inter alia, in recital 2 thereof, Directive 2014/24 aims to clarify basic notions and concepts to ensure legal certainty, and to incorporate certain aspects of related well-established case-law of the Court of Justice of the European Union, the fact remains that Article 63 of that directive introduces substantial amendments as regards the right of an economic operator to rely on the capacities of other entities in the context of public contracts (judgment of 7 April 2016, Partner Apelski Dariusz, C‑324/14, EU:C:2016:214, paragraph 90).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17689">
+          <num>27</num>
+          <content eId="para_17689__content">
+            <p>Far from preserving the continuity of Article 48(3) of Directive 2004/18 and clarifying its scope, Article 63(1) of Directive 2014/24 introduces new conditions which were not provided for under the previous legislation (judgment of 7 April 2016, Partner Apelski Dariusz, C‑324/14, EU:C:2016:214, paragraph 91).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17690">
+          <num>28</num>
+          <content eId="para_17690__content">
+            <p>Accordingly, that provision of Directive 2014/24 cannot be used as a criterion for the interpretation of Article 48(3) of Directive 2004/18 since there is no question in the present case of dispelling a problem of interpretation concerning the content of the latter provision (judgment of 7 April 2016, Partner Apelski Dariusz, C‑324/14, EU:C:2016:214, paragraph 92).</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Articles 47(2) and 48(3) of Directive 2004/18</p>
+        </tblock>
+        <paragraph eId="para_17691">
+          <num>29</num>
+          <content eId="para_17691__content">
+            <p>According to settled case-law, Articles 47(2) and 48(3) of Directive 2004/18 confer on every economic operator the right to rely, for a particular contract, on the capacities of other entities, regardless of the nature of the links which it has with them, provided that it proves to the contracting authority that it will have at its disposal the resources necessary for the execution of the contract (judgment of 10 October 2013, Swm Costruzioni 2and Mannocchi Luigino, C‑94/12, EU:C:2013:646, paragraph 29).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17692">
+          <num>30</num>
+          <content eId="para_17692__content">
+            <p>Those provisions do not lay down any general prohibition regarding a tenderer's reliance on the capacities of one or more third-party entities in addition to its own capacities in order to fulfil the criteria set by a contracting authority. In addition, the Court has expressly referred to an economic operator's right to use resources belonging to one or more other entities, possibly in addition to its own resources, in order to carry out a contract (judgment of 10 October 2013, Swm Costruzioni 2and Mannocchi Luigino, C‑94/12, EU:C:2013:646, paragraphs 30 and 32).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17693">
+          <num>31</num>
+          <content eId="para_17693__content">
+            <p>Such an interpretation is consistent with the objective pursued by the directives in this area of attaining the widest possible opening up of public contracts to competition to the benefit not only of economic operators but also of contracting authorities. In addition, that interpretation also facilitates the involvement of small and medium-sized undertakings in the contracts procurement market, an aim also pursued by Directive 2004/18, as stated in recital 32 thereof (judgment of 10 October 2013, Swm Costruzioni 2 and MannocchiLuigino, C‑94/12, EU:C:2013:646, paragraph 34).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17694">
+          <num>32</num>
+          <content eId="para_17694__content">
+            <p>In the present case, Casertana disputes the assessment of the Tribunale amministrativo regionale per la Campania (Campania Regional Administrative Court) that it was automatically excluded from the procurement procedure at issue in the main proceedings because Consorzio Stabile GAP had lost its qualification for classification in the service category concerned.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17695">
+          <num>33</num>
+          <content eId="para_17695__content">
+            <p>In this regard, it must be recalled that, in accordance with recital 46 and Article 2 of Directive 2004/18, contracting authorities are required to afford economic operators equal, non-discriminatory and transparent treatment (judgments of 7 April 2016, Partner Apelski Dariusz, C‑324/14, EU:C:2016:214, paragraph 60, and of 4 May 2017, Esaprojekt, C‑387/14, EU:C:2017:338, paragraph 35).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17696">
+          <num>34</num>
+          <content eId="para_17696__content">
+            <p>Thus, first, the principles of equal treatment and non-discrimination require tenderers to be afforded equality of opportunity when formulating their bids, which therefore implies that the bids of all tenderers must be subject to the same conditions. Secondly, the obligation of transparency is intended to preclude any risk of favouritism or arbitrariness on the part of the contracting authority. That obligation implies that all the conditions and detailed rules of the award procedure must be drawn up in a clear, precise and unequivocal manner in the contract notice or tender specifications so that, first, all reasonably informed tenderers exercising ordinary care can understand their exact significance and interpret them in the same way and, secondly, the contracting authority is able to ascertain whether the tenders submitted satisfy the criteria applying to the contract in question (judgments of 7 April 2016, Partner Apelski Dariusz, C‑324/14, EU:C:2016:214, paragraph 61 and the case-law cited, and of 4 May 2017, Esaprojekt, C‑387/14, EU:C:2017:338, paragraph 36).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17697">
+          <num>35</num>
+          <content eId="para_17697__content">
+            <p>Furthermore, it is apparent from the Court's case-law that the principles of equal treatment and non-discrimination and the obligation of transparency preclude any negotiation between the contracting authority and a tenderer during a public procurement procedure, which means that, as a general rule, a tender cannot be amended after it has been submitted, whether at the request of the contracting authority or at the request of the tenderer concerned. It follows that, where the contracting authority regards a tender as imprecise or as failing to meet the technical requirements of the tender specifications, it cannot require the tenderer to provide clarification (judgments of 7 April 2016, Partner Apelski Dariusz, C‑324/14, EU:C:2016:214, paragraph 62 and the case-law cited, and of 4 May 2017, Esaprojekt, C‑387/14, EU:C:2017:338, paragraph 37).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17698">
+          <num>36</num>
+          <content eId="para_17698__content">
+            <p>However, the Court has explained that Article 2 of Directive 2004/18 does not preclude the correction or amplification of details of a tender, on a limited and specific basis, particularly when it is clear that they require mere clarification, or to correct obvious clerical errors (judgments of 7 April 2016, Partner Apelski Dariusz, C‑324/14, EU:C:2016:214, paragraph 63 and the case-law cited, and of 4 May 2017, Esaprojekt, C‑387/14, EU:C:2017:338, paragraph 38).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17699">
+          <num>37</num>
+          <content eId="para_17699__content">
+            <p>As regards amendments relating to successful tenderers, the Court has already held that the decision authorising the change in composition of the consortium to which the contract was awarded necessitates an amendment of the award decision which may be regarded as substantial if, in the light of the particular features of the procurement procedure in question, it relates to one of the essential elements that were decisive in the adoption of the award decision. In that situation, the relevant measures provided for by national law would have to be taken to remedy that irregularity, which might extend to organisation of a new award procedure (judgment of 8 May 2014, Idrodinamica Spurgo Velox and Others, C‑161/13, EU:C:2014:307, paragraph 39 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17700">
+          <num>38</num>
+          <content eId="para_17700__content">
+            <p>In addition, in the field of concession contracts, the Court has held that a change of subcontractor, even if the possibility of a change is provided for in the contract, may in exceptional cases constitute a substantial amendment to one of the essential provisions of a concession contract where the use of one subcontractor rather than another was, in view of the particular characteristics of the services concerned, a decisive factor in concluding the contract (judgment of 13 April 2010, Wall, C‑91/08, EU:C:2010:182, paragraph 39).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17701">
+          <num>39</num>
+          <content eId="para_17701__content">
+            <p>In the main proceedings, as the Advocate General observed in point 47 of his Opinion, the possibility afforded, unpredictably, exclusively to a consortium of undertakings to replace a third-party undertaking which belongs to that consortium and has lost a qualification that is required in order not to be excluded would amount to a substantial change of the tender and the very identity of the consortium. Indeed, such a change of the tender would compel the contracting authority to carry out new checks whilst at the same time granting a competitive advantage to that consortium which might attempt to optimise its tender in order to deal better with its competitors' tenders in the procurement procedure at issue.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17702">
+          <num>40</num>
+          <content eId="para_17702__content">
+            <p>Such a situation would be contrary to the principle of equal treatment which requires that tenderers be afforded equality of opportunity when formulating their bids and which implies that the bids of all tenderers must be subject to the same conditions, and would amount to a distortion of healthy and effective competition between undertakings participating in a public procurement procedure.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17703">
+          <num>41</num>
+          <content eId="para_17703__content">
+            <p>Finally, regarding the force majeure argument relied on by Casertana, it must be noted that, although Directive 2004/18, as has been stated in paragraphs 30 and 31 of the present judgment, enables a tenderer to rely on the capacities of one or more third party entities in addition to its own capacities in order to fulfil the criteria set by a contracting authority, that tenderer remains responsible, in its capacity as the lead undertaking in a consortium of undertakings, for the compliance of those undertakings with the obligations and conditions for participation in the call for tenders laid down by the contracting authority in the documents relating to the procurement procedure at issue.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17704">
+          <num>42</num>
+          <content eId="para_17704__content">
+            <p>In the light of the foregoing, the answer to the question referred is that Articles 47(2) and 48(3) of Directive 2004/18 must be interpreted as not precluding national legislation which excludes the possibility for an economic operator taking part in a tendering procedure to replace an auxiliary undertaking that has lost required qualifications after the submission of its tender and which results in the automatic exclusion of that operator.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_17705">
+          <num>43</num>
+          <content eId="para_17705__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (First Chamber) hereby rules: Articles 47(2) and 48(3) of Directive 2004/18/EC of the European Parliament and of the Council of 31 March 2004 on the coordination of procedures for the award of public works contracts, public supply contracts and public service contracts must be interpreted as not precluding national legislation which excludes the possibility for an economic operator taking part in a tendering procedure to replace an auxiliary undertaking that has lost required qualifications after the submission of its tender and which results in the automatic exclusion of that operator.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Italian.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

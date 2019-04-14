@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Fifth Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>7 September 2017 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Competition -- Concentrations between undertakings -- Regulation (EC) No 139/2004 -- Article 3(1)(b) and (4) -- Scope -- Definition of `concentration' -- Change in the form of control of an existing undertaking which, previously exclusive, becomes joint -- Creation of a joint venture performing on a lasting basis all the functions of an autonomous economic entity) In Case C‑248/16, REQUEST for a preliminary ruling under Article 267 TFEU from the Oberster Gerichtshof (Supreme Court, Austria), made by decision of 31 March 2016, received at the Court on 2 May 2016, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">Austria Asphalt GmbH &amp; Co OG</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#">Bundeskartellanwalt</party>
+      </p>
+      <p>, THE COURT (Fifth Chamber), composed of J.L. da Cruz Vilaça, President of the Chamber, A. Tizzano (Rapporteur), Vice-President of the Court, A. Borg Barthet, E. Levits and F. Biltgen, Judges, Advocate General: J. Kokott, Registrar: X. Lopez Bancalari, Administrator, having regard to the written procedure and further to the hearing on 22 March 2017, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>Austria Asphalt GmbH &amp; Co OG, by B. Kofler-Senoner, S. Huber, M. Mayer and H. Kristoferitsch, Rechtsanwälte,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Bundeskartellanwalt, by A. Mair, H.L. Majer and G. Stifter, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by T. Christoforou, H. Leupold and M. Farley, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 27 April 2017,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_16673">
+          <num>1</num>
+          <content eId="para_16673__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Article 3 of Council Regulation (EC) No 139/2004 of 20 January 2004 on the control of concentrations between undertakings (the EC Merger Regulation) ( OJ 2004 L 24, p. 1).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16674">
+          <num>2</num>
+          <content eId="para_16674__content">
+            <p>The request has been made in proceedings between Austria Asphalt GmbH &amp; Co OG ( `Austria Asphalt') and the Bundeskartellanwalt (Federal Cartel Prosecutor) concerning an alleged concentration.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <paragraph eId="para_16675">
+          <num>3</num>
+          <content eId="para_16675__content">
+            <p>Recitals 5, 6, 8 and 20 of Regulation No 139/2004 read as follows: `</p>
+            <blockList>
+              <item>
+                <num>(5)</num>
+                <p>... it should be ensured that the process of reorganisation does not result in lasting damage to competition; Community law must therefore include provisions governing those concentrations which may significantly impede effective competition in the common market or in a substantial part of it.</p>
+              </item>
+              <item>
+                <num>(6)</num>
+                <p>A specific legal instrument is therefore necessary to permit effective control of all concentrations in terms of their effect on the structure of competition in the Community and to be the only instrument applicable to such concentrations. Regulation (EEC) No 4064/89 has allowed a Community policy to develop in this field. In the light of experience, however, that Regulation should now be recast into legislation designed to meet the challenges of a more integrated market and the future enlargement of the European Union. In accordance with the principles of subsidiarity and of proportionality as set out in Article 5 of the Treaty, this Regulation does not go beyond what is necessary in order to achieve the objective of ensuring that competition in the common market is not distorted, in accordance with the principle of an open market economy with free competition. ...</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(8)</num>
+                <p>The provisions to be adopted in this Regulation should apply to significant structural changes, the impact of which on the market goes beyond the national borders of any one Member State. Such concentrations should, as a general rule, be reviewed exclusively at Community level, in application of a ``one-stop shop '' system and in compliance with the principle of subsidiarity. ...</p>
+              </item>
+              <item>
+                <num>(20)</num>
+                <p>It is expedient to define the concept of concentration in such a manner as to cover operations bringing about a lasting change in the control of the undertakings concerned and therefore in the structure of the market. It is therefore appropriate to include, within the scope of this Regulation, all joint ventures performing on a lasting basis all the functions of an autonomous economic entity. It is moreover appropriate to treat as a single concentration transactions that are closely connected in that they are linked by condition or take the form of a series of transactions in securities taking place within a reasonably short period of time.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16676">
+          <num>4</num>
+          <content eId="para_16676__content">
+            <p>Article 2(1) and (4) of Regulation No 139/2004 provides: `1.   Concentrations within the scope of this Regulation shall be appraised in accordance with the objectives of this Regulation and the following provisions with a view to establishing whether or not they are compatible with the common market. In making this appraisal, the Commission shall take into account:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>the need to maintain and develop effective competition within the common market in view of, among other things, the structure of all the markets concerned and the actual or potential competition from undertakings located either within or outwith the Community; ... 4.   To the extent that the creation of a joint venture constituting a concentration pursuant to Article 3 has as its object or effect the coordination of the competitive behaviour of undertakings that remain independent, such coordination shall be appraised in accordance with the criteria of Article [101](1) and</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>[TFEU], with a view to establishing whether or not the operation is compatible with the common market.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16677">
+          <num>5</num>
+          <content eId="para_16677__content">
+            <p>Article 3 of the regulation, headed `Definition of concentration', provides, in paragraphs 1 and 4: `1.   A concentration shall be deemed to arise where a change of control on a lasting basis results from: ...</p>
+            <blockList>
+              <item>
+                <num>(b)</num>
+                <p>the acquisition, by one or more persons already controlling at least one undertaking, or by one or more undertakings, whether by purchase of securities or assets, by contract or by any other means, of direct or indirect control of the whole or parts of one or more other undertakings. ... 4.   The creation of a joint venture performing on a lasting basis all the functions of an autonomous economic entity shall constitute a concentration within the meaning of paragraph 1(b).'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16678">
+          <num>6</num>
+          <content eId="para_16678__content">
+            <p>Article 21 of Regulation No 139/2004, headed `Application of the Regulation and jurisdiction', states, in paragraph 1: `This Regulation alone shall apply to concentrations as defined in Article 3, and Council Regulations (EC) No 1/2003 [of 16 December 2002 on the implementation of the rules on competition laid down in Articles 101 and 102 TFEU ( OJ 2003 L 1, p. 1)], (EEC) No 1017/68 [...], (EEC) No 4056/86 [...] and (EEC) No 3975/87 [...] shall not apply, except in relation to joint ventures that do not have a Community dimension and which have as their object or effect the coordination of the competitive behaviour of undertakings that remain independent.'</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the question referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_16679">
+          <num>7</num>
+          <content eId="para_16679__content">
+            <p>Austria Asphalt is a subsidiary of Strabag SE which controls it indirectly. The Strabag group to which those undertakings belong is an international construction group operating, in particular, in the field of road networks.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16680">
+          <num>8</num>
+          <content eId="para_16680__content">
+            <p>Porr AG, which also belongs to a road-building international construction group, holds the entire share capital in Teerag Asdag AG. Teerag Asdag AG is the sole owner of the Mürzzuschlag asphalt plant ( `the target undertaking'), which manufactures asphalt used in road construction. It appears from the order for reference that most of that undertaking's production is intended for the Porr group so that the undertaking cannot be characterised as a full-function undertaking.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16681">
+          <num>9</num>
+          <content eId="para_16681__content">
+            <p>Austria Asphalt and Teerag Asdag seek to form a company incorporated under Austrian law which would buy the target undertaking. Thus, it is intended that Austria Asphalt should hold 50% of the share capital in that undertaking and exercise, jointly with Teerag Asdag, the control of the target undertaking. Accordingly, from the date of that transaction, Teerag Asdag would no longer exercise sole control of the target undertaking, but exercise it jointly with Austria Asphalt. According to the referring court, the joint venture created by that transaction could not be regarded as a full-function joint venture either, given that most of its production would be intended for the undertakings of the two groups controlling it.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16682">
+          <num>10</num>
+          <content eId="para_16682__content">
+            <p>Austria Asphalt notified the federal competition authority of the concentration proposal on 3 August 2015.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16683">
+          <num>11</num>
+          <content eId="para_16683__content">
+            <p>Pursuant to provisions of national procedural law, the Federal Cartel Prosecutor applied to the Kartellgericht (Competition Court, Austria) for a review of that proposal. That court held, in essence, that the proposed transaction was a concentration within the meaning of Article 3(1)(b) of Regulation No 139/2004 and that, the other conditions laid down by that regulation being satisfied, the transaction could not be reviewed under Austrian law. It therefore held that it did not have jurisdiction and, by decision of 6 October 2015, dismissed the application for a review.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16684">
+          <num>12</num>
+          <content eId="para_16684__content">
+            <p>Austria Asphalt appealed against that decision before the Oberster Gerichtshof (Supreme Court, Austria) on the ground that, under Article 3(4) of the regulation, the creation of a joint venture results in a concentration only where that undertaking performs on a lasting basis all of the functions of an autonomous economic entity, that is to say, in so far as the undertaking is a full-function joint venture. Austria Asphalt maintained that that would not be so in the present case, and therefore Regulation No 139/2004 is not applicable.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16685">
+          <num>13</num>
+          <content eId="para_16685__content">
+            <p>The referring court found, first of all, that there is no case-law specifying the meaning of the term `creation of a joint venture' referred to in Article 3(4) of Regulation No 139/2004, or clarifying the relationship between Article 3(4) and (1) of that regulation, defining in general terms the criteria according to which a concentration is deemed to be created, other than in the case of the merger of two or more previously independent undertakings or parts of undertakings. Next, a clear interpretation of those provisions could not be found in either the Commission Consolidated Jurisdictional Notice under Regulation No 139/2004 ( OJ 2008 C 95, p. 1, and corrigendum OJ 2009 C 43, p. 10) or the Commission's decision-making practice. Lastly, legal scholarship itself is divided on the subject.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16686">
+          <num>14</num>
+          <content eId="para_16686__content">
+            <p>In those circumstances, the Oberster Gerichtshof (Supreme Court) decided to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling: `Must Article 3(1)(b) and (4) of [Regulation No 139/2004] be interpreted as meaning that a move from sole control to joint control of an existing undertaking, in circumstances where the undertaking previously having sole control becomes an undertaking exercising joint control, constitutes a concentration only where the undertaking [the control of which has changed] has on a lasting basis all the functions of an autonomous economic entity?'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the question referred</p>
+        </tblock>
+        <paragraph eId="para_16687">
+          <num>15</num>
+          <content eId="para_16687__content">
+            <p>By its question, the referring court asks, in essence, whether Article 3(1)(b) and (4) of Regulation No 139/2004 must be interpreted to the effect that a concentration is deemed to be created following a change in the form of control of an existing undertaking which, previously exclusive, becomes joint, only if the joint venture resulting from such a transaction performs on a lasting basis all the functions of an autonomous economic entity.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16688">
+          <num>16</num>
+          <content eId="para_16688__content">
+            <p>In order to answer that question, it should be noted that, according to Article 3(1)(b) of that regulation, a concentration is to be deemed to arise, inter alia, where a change of control on a lasting basis results from the acquisition, by one or more undertakings, of direct or indirect control of the whole or parts of one or more other undertakings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16689">
+          <num>17</num>
+          <content eId="para_16689__content">
+            <p>However, according to Article 3(4) of the regulation, the creation of a joint venture is a concentration within the meaning Article 3(1)(b) thereof only where that undertaking performs on a lasting basis all of the functions of an autonomous economic entity.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16690">
+          <num>18</num>
+          <content eId="para_16690__content">
+            <p>Consequently, it cannot be determined from the wording of Article 3 of the regulation alone whether a concentration, within the meaning of that regulation, is deemed to arise as a result of a transaction by which the sole control of an existing undertaking becomes joint when the joint venture resulting from such a transaction does not perform all the functions of an autonomous economic entity.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16691">
+          <num>19</num>
+          <content eId="para_16691__content">
+            <p>Such a transaction, on the one hand, implies a change of control on a lasting basis of the undertaking forming the object of that transaction, thereby satisfying one of the criteria laid down in Article 3(1)(b) of that regulation and, on the other, may be regarded as creating a joint venture and thereby falling within the scope of Article 3(4) of that regulation, so that a concentration would be deemed to be created only if that undertaking performed on a lasting basis all the functions of an autonomous economic entity.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16692">
+          <num>20</num>
+          <content eId="para_16692__content">
+            <p>When a textual interpretation of a provision of EU law does not permit its precise scope to be assessed, the provision in question must be interpreted by reference to its purpose and general structure (see, to that effect, judgments of 31 March 1998, France and Others v Commission, C‑68/94 and C‑30/95, EU:C:1998:148, paragraph 168, and of 7 April 2016, Marchon Germany, C‑315/14, EU:C:2016:211, paragraphs 28 and 29).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16693">
+          <num>21</num>
+          <content eId="para_16693__content">
+            <p>As regards the objectives pursued by Regulation No 139/2004, it appears from recitals 5 and 6 thereof that the regulation seeks to ensure that the process of reorganisation of undertakings does not result in lasting damage to competition. According to those recitals, EU law must therefore include provisions governing those concentrations that may significantly impede effective competition in the internal market or in a substantial part of it and permitting effective control of all concentrations in terms of their effect on the structure of competition in the European Union. Accordingly, that regulation should apply to significant structural changes the impact of which on the market goes beyond the national borders of any one Member State.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16694">
+          <num>22</num>
+          <content eId="para_16694__content">
+            <p>Therefore, as is apparent from recital 20 of the regulation, the concept of concentration must be defined in such a manner as to cover operations bringing about a lasting change in the control of the undertakings concerned and therefore in the structure of the market. Thus, as regards joint ventures, these must be included within the ambit of the regulation if they perform on a lasting basis all the functions of an autonomous economic entity.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16695">
+          <num>23</num>
+          <content eId="para_16695__content">
+            <p>In that regard, as the Advocate General stated in point 28 of her Opinion, Regulation No 139/2004 does not draw any distinction in its recitals between a newly created undertaking resulting from such a transaction and an existing undertaking hitherto subject to sole control by a group which passes to the joint control of several undertakings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16696">
+          <num>24</num>
+          <content eId="para_16696__content">
+            <p>That lack of a distinction is entirely justified due to the fact that, although the creation of a joint venture must be assessed by the Commission as regards its effects on the structure of the market, the realisation of such effects depends on the actual emergence of a joint venture into the market, that is to say, of an undertaking performing on a lasting basis all the functions of an autonomous economic entity.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16697">
+          <num>25</num>
+          <content eId="para_16697__content">
+            <p>Article 3 of the regulation therefore concerns joint ventures only in so far as their creation provokes a lasting effect on the structure of the market.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16698">
+          <num>26</num>
+          <content eId="para_16698__content">
+            <p>Such an interpretation is supported by Article 3(1)(b) of the regulation which takes as the constituent element of the concept of concentration not the creation of an undertaking but a change in the control of an undertaking.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16699">
+          <num>27</num>
+          <content eId="para_16699__content">
+            <p>To follow the converse interpretation of Article 3 of Regulation No 139/2004, such as that espoused, inter alia, by the Commission, would lead to an unjustified difference in treatment between, on the one hand, undertakings newly created as a result of the transaction in question, which would be covered by the concept of concentration only if they performed on a lasting basis all the functions of autonomous economic entities, and, on the other, undertakings existing before such a transaction, which would be covered by that concept regardless of whether, once the transaction is completed, they performed those functions on a lasting basis.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16700">
+          <num>28</num>
+          <content eId="para_16700__content">
+            <p>It follows that, in the light of the objectives pursued by the regulation, Article 3(4) thereof must be interpreted as referring to the creation of a joint venture, that is to say to a transaction as a result of which an undertaking controlled jointly by at least two other undertakings emerges in the market, regardless of whether that undertaking, now jointly controlled, existed before the transaction in question.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16701">
+          <num>29</num>
+          <content eId="para_16701__content">
+            <p>Such an interpretation of Article 3 is also consonant with the general scheme of the regulation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16702">
+          <num>30</num>
+          <content eId="para_16702__content">
+            <p>Although it is certainly true that, according to recital 6 of the regulation, the preventative control of all concentrations established under that regulation concerns concentrations having an effect on the structure of competition in the European Union, it does not follow that any action of undertakings not producing such effects escapes the control of the Commission or that of the competent national competition authorities.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16703">
+          <num>31</num>
+          <content eId="para_16703__content">
+            <p>That regulation, like, in particular, Regulation (EC) No 1/2003, forms part of a legislative whole intended to implement Articles 101 and 102 TFEU and to establish a system of control ensuring that competition is not distorted in the internal market of the European Union.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16704">
+          <num>32</num>
+          <content eId="para_16704__content">
+            <p>As follows from Article 21(1) of Regulation No 139/2004, that regulation alone is to apply to concentrations as defined in Article 3 of the regulation, to which Regulation No 1/2003 is not, in principle, applicable.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16705">
+          <num>33</num>
+          <content eId="para_16705__content">
+            <p>By contrast, Regulation No 1/2003 continues to apply to the actions of undertakings which, without constituting a concentration within the meaning of Regulation No 139/2004, are nevertheless capable of leading to coordination between undertakings in breach of Article 101 TFEU and which, for that reason, are subject to the control of the Commission or of the national competition authorities.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16706">
+          <num>34</num>
+          <content eId="para_16706__content">
+            <p>The Commission's interpretation of Article 3 of Regulation No 139/2004, according to which a change in the control of an undertaking which, previously exclusive, becomes joint is covered by the concept of concentration even if the undertaking does not perform on a lasting basis all the functions of an autonomous economic entity is not, therefore, consistent with Article 21(1) thereof. Such an interpretation would effectively extend the scope of the preventative control laid down in that regulation to transactions which are not capable of having an effect on the structure of the market in question and would, at the same time, limit the scope of Regulation No 1/2003, which would then no longer be applicable to such transactions, even though they may lead to coordination between undertakings within the meaning of Article 101 TFEU.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16707">
+          <num>35</num>
+          <content eId="para_16707__content">
+            <p>Having regard to all of the foregoing considerations, the answer to the question referred is that Article 3 of Regulation No 139/2004 must be interpreted as meaning that a concentration is deemed to arise upon a change in the form of control of an existing undertaking which, previously exclusive, becomes joint, only if the joint venture created by such a transaction performs on a lasting basis all the functions of an autonomous economic entity.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_16708">
+          <num>36</num>
+          <content eId="para_16708__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Fifth Chamber) hereby rules: Article 3 of Council Regulation (EC) No 139/2004 of 20 January 2004 on the control of concentrations between undertakings (the EC Merger Regulation) must be interpreted as meaning that a concentration is deemed to arise upon a change in the form of control of an existing undertaking which, previously exclusive, becomes joint, only if the joint venture created by such a transaction performs on a lasting basis all the functions of an autonomous economic entity.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: German.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+      <references source="#source">
+        <TLCOrganization eId="institution_53" showAs="" href="/akn/ontology/Organization/Institution/institution_53" />
+        <TLCOrganization eId="institution_52" showAs="" href="/akn/ontology/Organization/Institution/institution_52" />
+        <TLCOrganization eId="company_61" showAs="" href="/akn/ontology/Organization/Company/company_61" />
+      </references>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (First Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>26 July 2017 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Environment -- Directive 85/337/EEC -- Directive 2011/92/EU -- Possibility of carrying out, a posteriori, an environmental impact assessment of an operational plant for the production of energy from biogas with a view to obtaining a new consent) In Joined Cases C‑196/16 and C‑197/16, REQUESTS for a preliminary ruling under Article 267 TFEU from the Tribunale amministrativo regionale per le Marche (Administrative Court for the Marche Region, Italy), made by decisions of 22 March 2016, received at the Court on, respectively, 7 and 8 April 2016, in the proceedings Comune di Corridonia(C‑196/16), Comune di Loro Piceno(C‑197/16), Marcello Bartolini(C‑197/16), Filippo Bruè(C‑197/16), Sergio Forti(C‑197/16), Stefano Piatti(C‑197/16), Gaetano Silvetti(C‑197/16), Gianfranco Silvetti(C‑197/16), Rocco Tirabasso(C‑197/16), Sante Vagni(C‑197/16), Albergo Ristorante Le Grazie Sas di Forti Sergio &amp; Co. (C‑197/16), Suolificio Elefante Srl(C‑197/16), Suolificio Roxy Srl(C‑197/16), Aldo Alessandrini(C‑197/</p>
+      <blockList>
+        <item>
+          <num>16)</num>
+          <p>v</p>
+          <p>
+            <party as="respondent" refersTo="#institution_53">Provincia di Macerata</party>
+          </p>
+          <p>,</p>
+          <p>
+            <party as="respondent" refersTo="#institution_52">Provincia di Macerata Settore 10 -- Ambiente</party>
+          </p>
+          <p>, intervening parties:</p>
+          <p>
+            <party as="intervening" refersTo="#company_61">VBIO1 Società Agricola Srl</party>
+          </p>
+          <p>(C‑196/16), Regione Marche, Agenzia Regionale per la Protezione Ambientale delle Marche -- (ARPAM) -- Dipartimento Provinciale di Macerata, ARPAM, VBIO2 Società Agricola Srl(C‑197/16), Azienda Sanitaria Unica Regionale -- Marche (ASUR Marche)(C‑197/16), ASUR Marche -- Area Vasta 3(C‑197/16), Comune di Colmurano(C‑197/16), Comune di Loro Piceno(C‑197/16), THE COURT (First Chamber), composed of R. Silva de Lapuerta, President of the Chamber, E. Regan, J.C. Bonichot (Rapporteur), C.G. Fernlund and S. Rodin, Judges, Advocate General: J. Kokott, Registrar: Registrar: R. Schiano, Administrator, having regard to the written procedure and further to the hearing on 8 March 2017, after considering the observations submitted on behalf of:</p>
+          <blockList>
+            <item>
+              <num>--</num>
+              <p>the Comune di Corridonia, by L. Forte, avvocato,</p>
+            </item>
+            <item>
+              <num>--</num>
+              <p>the Comune di Loro Piceno, by L. Forte and A. Alessandrini, avvocati,</p>
+            </item>
+            <item>
+              <num>--</num>
+              <p>Mr Bartolini and Others, by A. Alessandrini and G. Contaldi, avvocati,</p>
+            </item>
+            <item>
+              <num>--</num>
+              <p>the</p>
+              <p>
+                <organization refersTo="#institution_53">Provincia di Macerata</organization>
+              </p>
+              <p>, by S. Sopranzi and F. Gentili, avvocati,</p>
+            </item>
+            <item>
+              <num>--</num>
+              <p>
+                <organization refersTo="#company_61">VBIO1 Società Agricola Srl</organization>
+              </p>
+              <p>, by A. Piccinini and A. Santarelli, avvocati,</p>
+            </item>
+            <item>
+              <num>--</num>
+              <p>the Regione Marche, by P. De Bellis, avvocato,</p>
+            </item>
+            <item>
+              <num>--</num>
+              <p>VBIO2 Società Agricola Srl, by A. Piccinini, avvocatessa,</p>
+            </item>
+            <item>
+              <num>--</num>
+              <p>the Italian Government, by G. Palmieri, acting as Agent, assisted by G. Palatiello, avvocato dello Stato,</p>
+            </item>
+            <item>
+              <num>--</num>
+              <p>the European Commission, by C. Zadra and L. Pignataro-Nolin, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 30 March 2017,</p>
+              <p>gives the following</p>
+            </item>
+          </blockList>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_14605">
+          <num>1</num>
+          <content eId="para_14605__content">
+            <p>The present requests for a preliminary ruling concern the interpretation of Article 191 TFEU and Article 2 of Directive 2011/92/EU of the European Parliament and of the Council of 13 December 2011 on the assessment of the effects of certain public and private projects on the environment ( OJ 2012 L 26, p. 1).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14606">
+          <num>2</num>
+          <content eId="para_14606__content">
+            <p>These requests have been made in the context of proceedings between, on the one hand, the Comune di Corridonia (municipality of Corridonia, Italy), the Comune di Loro Piceno (municipality of Loro Piceno, Italy) and Mr Marcello Bartolini and other individuals ( `Mr Bartolini and Others') and, on the other hand, the</p>
+            <p>
+              <organization refersTo="#institution_53">Provincia di Macerata</organization>
+            </p>
+            <p>(</p>
+            <p>
+              <organization refersTo="#institution_53">Province of Macerata</organization>
+            </p>
+            <p>, Italy), concerning decisions by which that province found that plants for the generation of electrical energy from biogas belonging to</p>
+            <p>
+              <organization refersTo="#company_61">VBIO1 Società Agricola Srl</organization>
+            </p>
+            <p>( `VBIO1') and VBIO2 Società Agricola Srl ( `VBIO2') were compliant with environmental standards, following the completion of assessment procedures carried out after the construction and entry into operation of those plants and following the annulment of an initial consent.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <paragraph eId="para_14607">
+          <num>3</num>
+          <content eId="para_14607__content">
+            <p>The sixth recital of Council Directive 85/337/EEC of 27 June 1985 on the assessment of the effects of certain public and private projects on the environment ( OJ 1985 L 175, p. 40), as amended by Directive 2009/31/EC of the European Parliament and of the Council of 23 April 2009 ( OJ 2009 L 140, p. 114), ( `Directive 85/337') is worded as follows: ` ... development consent for public and private projects which are likely to have significant effects on the environment should be granted only after prior assessment of the likely significant environmental effects of these projects has been carried out ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14608">
+          <num>4</num>
+          <content eId="para_14608__content">
+            <p>Article 2(1) of Directive 85/337 provides as follows: `Member States shall adopt all measures necessary to ensure that, before consent is given, projects likely to have significant effects on the environment by virtue, inter alia, of their nature, size or location are made subject to a requirement for development consent and an assessment with regard to their effects. These projects are defined in Article 4.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14609">
+          <num>5</num>
+          <content eId="para_14609__content">
+            <p>Article 4(1) to (3) of Directive 85/337 provides: `1.   Subject to Article 2(3), projects listed in Annex I shall be made subject to an assessment in accordance with Articles 5 to 10. 2.   Subject to Article 2(3), for projects listed in Annex II, the Member States shall determine through:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>a case-by-case examination; or</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>thresholds or criteria set by the Member State whether the project shall be made subject to an assessment in accordance with Articles 5 to 10. Member States may decide to apply both procedures referred to in</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>and (b). 3.   When a case-by-case examination is carried out or thresholds or criteria are set for the purpose of paragraph 2, the relevant selection criteria set out in Annex III shall be taken into account.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14610">
+          <num>6</num>
+          <content eId="para_14610__content">
+            <p>Directive 2011/92, which replaced Directive 85/337, contains provisions which are essentially identical to those cited in the previous paragraphs.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Italian law</p>
+        </tblock>
+        <paragraph eId="para_14611">
+          <num>7</num>
+          <content eId="para_14611__content">
+            <p>Article 29 of decreto legislativo n. 152 -- Norme in materia ambientale (Legislative Decree No 152 on environmental standards) of 3 April 2006 (ordinary supplement to GURI No 88 of 14 April 2006) provides: `1.   An environmental impact assessment, for the projects of works or interventions to which the provisions of the present decree apply, is a prior condition or an integral part of the consent or approval procedure. Decisions concerning consent or approval taken without a prior environmental impact assessment, when such an EIA is required, may be annulled for breach of law. ... 4.   Where works and interventions have been carried out without the project having been subject beforehand to a preliminary verification or an assessment, in breach of the provisions referred to in Title III of the present decree, and in the case of irregularities of application as provided for in the final decisions, the competent authorities shall assess the extent of environmental damage caused and the damage resulting from the application of a penalty, and is then to order that works on the project be suspended and may order that the construction be demolished and the site restored to its former state and environmental position at the expense of the person responsible, the time limits and conditions of which it shall determine. If the person responsible fails to comply, the competent authorities shall order that demolition and restoration of their own motion at the expense of that person who has failed to comply. Those expenses shall be reimbursed according to the procedures provided for in, and the effects of, the single text of the rules relating to State capital revenue collection approved by Royal Decree No 639 of 14 April 1910 concerning State capital revenue collection. 5.   Where an authorisation or consent issued following an environmental impact assessment has been annulled by the courts or withdrawn by a public authority, or where an assessment that a project is environmentally compatible is annulled, the powers referred to in paragraph 4 shall be exercised only after a new environmental impact assessment has been carried out. ...'</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The disputes in the main proceedings and the question referred for a preliminary ruling</p>
+        </tblock>
+        <tblock>
+          <p>Case C‑196/16</p>
+        </tblock>
+        <paragraph eId="para_14612">
+          <num>8</num>
+          <content eId="para_14612__content">
+            <p>On 19 October 2011, VBIO1 sought consent from the Regione Marche (Marche Region, Italy) to build and operate a plant for the generation of electrical energy from biogas obtained from the anaerobic fermentation of biomass within the territory of the municipality of Corridonia.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14613">
+          <num>9</num>
+          <content eId="para_14613__content">
+            <p>Pursuant to the legge Regione Marche No 7/2004 (Law No 7/2004 of the Marche Region), VBIO1 had also submitted that project to the</p>
+            <p>
+              <organization refersTo="#institution_53">Provincia di Macerata</organization>
+            </p>
+            <p>(</p>
+            <p>
+              <organization refersTo="#institution_53">Province of Macerata</organization>
+            </p>
+            <p>, Italy) on 4 October 2011 for a preliminary examination as to the need for an environmental assessment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14614">
+          <num>10</num>
+          <content eId="para_14614__content">
+            <p>That procedure was, however, closed on 26 January 2012, after Law No 7/2004 of the Marche Region had been amended by the legge Regione Marche No 20/2011 (Law No 20/2011 of the Marche Region), which entered into force on 9 November 2011 and by virtue of which projects the heating potential of which did not reach a certain threshold were no longer required to undergo an assessment of their impact on the environment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14615">
+          <num>11</num>
+          <content eId="para_14615__content">
+            <p>Consequently, the Marche Region consented, by decision of 5 June 2012, to the construction and operation of that plant in the municipality of Corridonia, which challenged that decision by bringing an action before the Tribunale amministrativo regionale per le Marche (Administrative Court for the Marche Region, Italy).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14616">
+          <num>12</num>
+          <content eId="para_14616__content">
+            <p>By judgment of 10 October 2013, that court annulled the decision on the ground that Law No 20/2011 of the Marche Region was inapplicable and that, in any event, the relevant provisions of that law were incompatible with Directive 2011/92. That judgment was upheld by the Consiglio di Stato (Council of State, Italy).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14617">
+          <num>13</num>
+          <content eId="para_14617__content">
+            <p>Drawing the consequences of that annulment, VBIO1 ceased operations at that plant and submitted an application to the</p>
+            <p>
+              <organization refersTo="#institution_53">Province of Macerata</organization>
+            </p>
+            <p>requesting a preliminary examination as to the need for an assessment of the impact which that plant might have on the environment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14618">
+          <num>14</num>
+          <content eId="para_14618__content">
+            <p>On 15 November 2013, the</p>
+            <p>
+              <organization refersTo="#institution_53">Province of Macerata</organization>
+            </p>
+            <p>decided that such an assessment was necessary and, subsequent to that assessment, found, on 7 July 2014, that that plant complied with the environmental requirements.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14619">
+          <num>15</num>
+          <content eId="para_14619__content">
+            <p>The municipality of Corridonia lodged an application for annulment of those decisions before the Tribunale amministrativo regionale per le Marche (Administrative Court for the Marche Region), maintaining that the assessment carried out did not comply with Article 191 TFEU or with Article 2(1) to (3) of Directive 85/337, replaced by Directive 2011/92, given that it had been carried out after the plant in question had been built.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Case C‑197/16</p>
+        </tblock>
+        <paragraph eId="para_14620">
+          <num>16</num>
+          <content eId="para_14620__content">
+            <p>On 16 December 2011, VBIO2 sought consent from the Marche Region to build and operate, within the territory of the municipality of Loro Piceno, a plant for the generation of electrical energy of the same type as the plant at issue in Case C‑196/16.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14621">
+          <num>17</num>
+          <content eId="para_14621__content">
+            <p>That consent was granted to VBIO2 on 29 June 2012, without a prior assessment of the impact of that plant on the environment having been carried out.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14622">
+          <num>18</num>
+          <content eId="para_14622__content">
+            <p>The municipality of Loro Piceno and Mr Bartolini and Others challenged that decision by bringing an action before the Tribunale amministrativo regionale per le Marche (Administrative Court for the Marche Region).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14623">
+          <num>19</num>
+          <content eId="para_14623__content">
+            <p>By judgment of 22 May 2013 (No 93/2013), the Corte costituzionale (Constitutional Court, Italy), held that the legge Regione Marche No 3/2012 (Law No 3/2012 of the Marche Region), repealing Law No 7/2004 of the Marche Region with effect from 20 April 2012, without, however, amending the criteria for identifying projects subject to environmental impact assessments, was unconstitutional in that it was incompatible with EU law to the extent that it did not, in accordance with Article 4(3) of Directive 2011/92, require account to be taken of the criteria set in Annex III to that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14624">
+          <num>20</num>
+          <content eId="para_14624__content">
+            <p>On 10 October 2013, the Tribunale amministrativo regionale per le Marche (Administrative Court for the Marche Region) withdrew the consent granted to VBIO2, which filed an appeal before the Consiglio di Stato (Council of State).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14625">
+          <num>21</num>
+          <content eId="para_14625__content">
+            <p>VBIO2 requested that the</p>
+            <p>
+              <organization refersTo="#institution_53">Province of Macerata</organization>
+            </p>
+            <p>conduct a preliminary examination into whether it was necessary to carry out an environmental impact assessment of the plant concerned.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14626">
+          <num>22</num>
+          <content eId="para_14626__content">
+            <p>By decision of 19 November 2013, the</p>
+            <p>
+              <organization refersTo="#institution_53">Province of Macerata</organization>
+            </p>
+            <p>held that it was necessary to carry out such an assessment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14627">
+          <num>23</num>
+          <content eId="para_14627__content">
+            <p>The municipality of Loro Piceno and Mr Bartolini and Others applied to the Tribunale amministrativo regionale per le Marche (Administrative Court for the Marche Region) seeking an annulment of that decision and its suspension on a temporary basis.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14628">
+          <num>24</num>
+          <content eId="para_14628__content">
+            <p>That court rejected the application for suspension on the ground that the mere fact that the plant concerned was subject to an environmental impact assessment procedure did not result in serious and irreparable damage for persons residing in the area concerned.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14629">
+          <num>25</num>
+          <content eId="para_14629__content">
+            <p>The competent authorities of the</p>
+            <p>
+              <organization refersTo="#institution_53">Province of Macerata</organization>
+            </p>
+            <p>adopted a decision on 10 February 2015 finding that the plant at issue in the main proceedings was compatible with environmental requirements.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14630">
+          <num>26</num>
+          <content eId="para_14630__content">
+            <p>The municipality of Loro Piceno and Mr Bartolini and Others applied to the Tribunale amministrativo regionale per le Marche (Administrative Court for the Marche Region) for annulment of that decision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14631">
+          <num>27</num>
+          <content eId="para_14631__content">
+            <p>In Cases C‑196/16 and C‑197/16, the Tribunale amministrativo regionale per le Marche (Administrative Court for the Marche Region) decided to stay proceedings and to refer the following question to the Court for a preliminary ruling: `On a constructive interpretation of Article 191 TFEU and Article 2 of Directive [2011/92], is it compatible with EU law to proceed with the verification of whether an environmental impact assessment needs to be undertaken (and possibly thereafter to carry out an environmental impact assessment) after the construction of the plant where the consent has been annulled by the national court due to a failure to verify whether the environmental impact assessment was needed, because such a verification had been excluded on the basis of a national law which was contrary to EU law?'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the question referred</p>
+        </tblock>
+        <paragraph eId="para_14632">
+          <num>28</num>
+          <content eId="para_14632__content">
+            <p>In these two cases, the referring court asks, in essence, whether Article 191 TFEU and Article 2 of Directive 2011/92, in circumstances such as those in the main proceedings, mean that the failure to carry out an environmental impact assessment of a plant project required pursuant to Directive 85/337 cannot be regularised, following the annulment of consent granted in respect of that plant, by such an assessment being carried out after that plant has been built and has entered into operation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14633">
+          <num>29</num>
+          <content eId="para_14633__content">
+            <p>As a preliminary point, it is necessary to note that Article 191 TFEU, paragraph 2 of which fixes general objectives in environmental matters (see, to that effect, judgment of 4 March 2015, Fipa Group and Others, C‑534/13, EU:C:2015:140, paragraph 39 and the case-law cited), is irrelevant for the purposes of answering the questions posed.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14634">
+          <num>30</num>
+          <content eId="para_14634__content">
+            <p>Moreover, the question posed by the referring court rests on the premiss that the two plants at issue in the main proceedings ought to have been the subject of a prior assessment of their impact on the environment, by virtue of Article 2(1) of Directive 85/337, which is a matter for that court to assess.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14635">
+          <num>31</num>
+          <content eId="para_14635__content">
+            <p>Finally, as regards the question of whether, in order to answer the question posed, it is appropriate to take into account Directive 85/337, in force when VBIO1 and VBIO2 submitted the first applications for consent, or Directive 2011/92, in force when they submitted the second applications, following the annulment of the first consents granted to them, it is sufficient to note that the provisions of those two directives which are or could be relevant in the present case, and Article 2(1) of those directives in particular, are, in any event, essentially identical.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14636">
+          <num>32</num>
+          <content eId="para_14636__content">
+            <p>As to whether it is possible to regularise a posteriori the failure to carry out an environmental impact assessment of a project as required under Directive 85/337, in circumstances such as those at issue in the main proceedings, it should be remembered that Article 2(1) of that directive provides that projects that may have a significant impact on the environment, within the meaning of Article 4 of that directive, read in conjunction with Annex I or II to that directive, must be subject to that assessment before consent is granted (judgment of 7 January 2004, Wells, C‑201/02, EU:C:2004:12, paragraph 42).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14637">
+          <num>33</num>
+          <content eId="para_14637__content">
+            <p>As the Court has also emphasised, the prior nature of such an assessment is justified by the fact it is necessary for the competent authority to take effects on the environment into account at the earliest possible stage in all the technical planning and decision-making processes, the objective being to prevent the creation of pollution or nuisances at source rather than subsequently trying to counteract their effects (judgment of 3 July 2008, Commission v Ireland, C‑215/06, EU:C:2008:380, paragraph 58).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14638">
+          <num>34</num>
+          <content eId="para_14638__content">
+            <p>However, neither Directive 85/337 nor Directive 2011/92 contains provisions relating to the consequences of a breach of that obligation to carry out a prior assessment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14639">
+          <num>35</num>
+          <content eId="para_14639__content">
+            <p>Under the principle of cooperation in good faith laid down in Article 4 TEU, Member States are nevertheless required to nullify the unlawful consequences of that breach of EU law. The competent national authorities are therefore under an obligation to take all measures necessary, within the sphere of their competence, to remedy the failure to carry out an environmental impact assessment, for example by revoking or suspending consent already granted in order to carry out such an assessment (see, to that effect, judgments of 7 January 2004, Wells, C‑201/02, EU:C:2004:12, paragraphs 64 and 65; of 3 July 2008, Commission v Ireland, C‑215/06, EU:C:2008:380, paragraph 59; and of 28 February 2012, Inter-Environnement Wallonie and Terre wallonne, C‑41/11, EU:C:2012:103, paragraphs 42, 43 and 46).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14640">
+          <num>36</num>
+          <content eId="para_14640__content">
+            <p>The Member State concerned is likewise required to make good any harm caused by the failure to carry out an environmental impact assessment (judgment of 7 January 2004, Wells, C‑201/02, EU:C:2004:12, paragraph 66).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14641">
+          <num>37</num>
+          <content eId="para_14641__content">
+            <p>The Court has, however, held that EU law does not preclude national rules which, in certain cases, permit the regularisation of operations or measures which are unlawful in the light of EU law (judgments of 3 July 2008, Commission v Ireland, C‑215/06, EU:C:2008:380, paragraph 57; of 15 January 2013, Križan and Others, C‑416/10, EU:C:2013:8, paragraph 87; and of 17 November 2016, Stadt Wiener Neustadt, C‑348/15, EU:C:2016:882, paragraph 36).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14642">
+          <num>38</num>
+          <content eId="para_14642__content">
+            <p>The Court has made it clear that such a possible regularisation would have to be subject to the condition that it does not offer the persons concerned the opportunity to circumvent the rules of EU law or to dispense with their application, and that it should remain the exception (judgments of 3 July 2008, Commission v Ireland, C‑215/06, EU:C:2008:380, paragraph 57; of 15 January 2013, Križan and Others, C‑416/10, EU:C:2013:8, paragraph 87; and of 17 November 2016, Stadt WienerNeustadt, C‑348/15, EU:C:2016:882, paragraph 36).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14643">
+          <num>39</num>
+          <content eId="para_14643__content">
+            <p>Consequently, the Court has held that legislation which attaches the same effects to regularisation permission, which can be issued even where no exceptional circumstances are proved, as those attached to prior planning consent fails to have regard for the requirements of Directive 85/337 (see, to that effect, judgments of 3 July 2008, Commission v Ireland, C‑215/06, EU:C:2008:380, paragraph 61, and of 17 November 2016, Stadt Wiener Neustadt, C‑348/15, EU:C:2016:882, paragraph 37).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14644">
+          <num>40</num>
+          <content eId="para_14644__content">
+            <p>The same is also true of a legislative measure which could allow, without even requiring a later assessment and even where there are no specific exceptional circumstances, a project which ought to have been subject to an environmental impact assessment, by virtue of Article 2(1) of Directive 85/337, to be deemed to have been subject to such an assessment, even if such a measure were applicable only to projects in respect of which consent was no longer subject to a possibility of being directly challenged before the courts because of the expiry of the time limit for bringing proceedings laid down in national legislation (see, to that effect, judgment of 17 November 2016, Stadt Wiener Neustadt, C‑348/15, EU:C:2016:882, paragraphs 38 and 43).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14645">
+          <num>41</num>
+          <content eId="para_14645__content">
+            <p>Furthermore, an assessment carried out after a plant has been constructed and has entered into operation cannot be confined to its future impact on the environment, but must also take into account its environmental impact from the time of its completion.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14646">
+          <num>42</num>
+          <content eId="para_14646__content">
+            <p>It is for the referring court to assess whether the legislation at issue in the main proceedings satisfies those requirements. It is, however, appropriate to mention to the referring court that the facts that the undertakings concerned took the necessary steps to arrange for, if need be, an assessment of the environmental impact of their projects to be carried out, that the refusal of the competent authorities to accede to those requests was based on national rules, the incompatibility of which with EU law was only subsequently established by a ruling of the Corte costituzionale (Constitutional Court), and that the activities of the plants concerned were suspended appear rather to indicate that the regularisations carried out were not permitted under national law in conditions similar to those in the case leading to the judgment of 3 July 2008, Commission v Ireland ( C‑215/06, EU:C:2008:380, paragraph 61), and did not attempt to circumvent rules of EU law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14647">
+          <num>43</num>
+          <content eId="para_14647__content">
+            <p>In the light of all of the foregoing considerations, the answer to the question posed is that, in the event of failure to carry out an environmental impact assessment required under Directive 85/337, EU law, on the one hand, requires Member States to nullify the unlawful consequences of that failure and, on the other hand, does not preclude regularisation through the conducting of an impact assessment, after the plant concerned has been constructed and has entered into operation, on condition that:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>national rules allowing for that regularisation do not provide the parties concerned with an opportunity to circumvent the rules of EU law or to dispense with applying them, and</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>an assessment carried out for regularisation purposes is not conducted solely in respect of the plant's future environmental impact, but must also take into account its environmental impact from the time of its completion.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_14648">
+          <num>44</num>
+          <content eId="para_14648__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (First Chamber) hereby rules: In the event of failure to carry out an environmental impact assessment required under Council Directive 85/337/EEC of 27 June 1985 on the assessment of the effects of certain public and private projects on the environment, EU law, on the one hand, requires Member States to nullify the unlawful consequences of that failure and, on the other hand, does not preclude regularisation through the conducting of an impact assessment, after the plant concerned has been constructed and has entered into operation, on condition that:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>national rules allowing for that regularisation do not provide the parties concerned with an opportunity to circumvent the rules of EU law or to dispense with applying them, and</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>an assessment carried out for regularisation purposes is not conducted solely in respect of the plant's future environmental impact, but must also take into account its environmental impact from the time of its completion.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the cases: Italian.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

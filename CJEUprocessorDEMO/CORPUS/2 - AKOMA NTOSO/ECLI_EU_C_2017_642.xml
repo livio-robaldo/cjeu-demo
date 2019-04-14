@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Sixth Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>7 September 2017 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Insurance against civil liability in respect of the use of motor vehicles -- Directive 72/166/EEC -- Directive 84/5/EEC -- Directive 90/232/EEC -- Driver responsible for the accident which caused the death of his spouse, a passenger in the vehicle -- National legislation excluding compensation for material damage suffered by the driver responsible for the accident) In Case C-506/16, REQUEST for a preliminary ruling under Article 267 TFEU from the Tribunal da Relação do Porto (Court of Appeal, Oporto, Portugal), made by decision of 7 July 2016, received at the Court on 26 September 2016, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">José Joaquim Neto de Sousa</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#">Portuguese State</party>
+      </p>
+      <p>, THE COURT (Sixth Chamber), composed of E. Regan, President of the Chamber, A. Arabadjiev (Rapporteur) and S. Rodin, Judges, Advocate General: P. Mengozzi, Registrar: A. Calot Escobar, having regard to the written procedure, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>the Portuguese State, by M.E. Duarte Rodrigues, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Portuguese Government, by L. Inez Fernandes, M. Figueiredo and S. Jaulino, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by P. Costa de Oliveira and K.-Ph. Wojcik, acting as Agents, Wojcik, acting as Agents, having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_16634">
+          <num>1</num>
+          <content eId="para_16634__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Second Council Directive 84/5/EEC of 30 December 1983 on the approximation of the laws of Member States relating to insurance against civil liability in respect of the use of motor vehicles, and to the enforcement of the obligation to insure against such liability ( OJ 1984 L 8, p. 17), as amended by Council Directive 2005/14/EEC of 11 May 2005 ( OJ 2005 L 149, p. 14; `the Second Directive'), and of Third Council Directive 90/232/EEC of 14 May 1990 on the approximation of the laws of the Member States relating to insurance against civil liability in respect of the use of motor vehicles ( OJ 1990 L 129, p. 33; `the Third Directive').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16635">
+          <num>2</num>
+          <content eId="para_16635__content">
+            <p>The request has been made in proceedings between Mr José Joaquim Neto de Sousa and the Estado português (Portuguese State) concerning an alleged infringement of EU law attributable to the Supremo Tribunal de Justiça (Supreme Court, Portugal).</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <paragraph eId="para_16636">
+          <num>3</num>
+          <content eId="para_16636__content">
+            <p>Directive 2009/103/EC of the European Parliament and of the Council of 16 September 2009 relating to insurance against civil liability in respect of the use of motor vehicles, and the enforcement of the obligation to insure against such liability ( OJ 2009 L 263, p. 11) repealed Council Directive 72/166/EEC of 24 April 1972 on the approximation of the laws of Member States relating to insurance against civil liability in respect of the use of motor vehicles, and to the enforcement of the obligation to insure against such liability (OJ, English Special Edition 1972(II), p. 360; `the First Directive') and the Second and Third Directives. Nevertheless, in the light of the date of the material facts of the main proceedings, it is appropriate to have regard to the repealed directives.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16637">
+          <num>4</num>
+          <content eId="para_16637__content">
+            <p>Under Article 3(1) of the First Directive: `Each Member State shall take all appropriate measures to ensure that civil liability in respect of the use of vehicles normally based in its territory is covered by insurance. The extent of the liability covered and the terms and conditions of the cover shall be determined on the basis of these measures.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16638">
+          <num>5</num>
+          <content eId="para_16638__content">
+            <p>Article 1(1) of the Second Directive provided: `The insurance referred to in Article 3(1) of [the First Directive] shall cover compulsorily both damage to property and personal injuries.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16639">
+          <num>6</num>
+          <content eId="para_16639__content">
+            <p>Article 3 of that directive was worded as follows: `The members of the family of the insured person, driver or any other person who is liable under civil law in the event of an accident, and whose liability is covered by the insurance referred to in Article 1(1) shall not be excluded from insurance in respect of their personal injuries by virtue of that relationship.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16640">
+          <num>7</num>
+          <content eId="para_16640__content">
+            <p>Article 1 of the Third Directive provides: ` ... the insurance referred to in Article 3(1) of [the First Directive] shall cover liability for personal injuries to all passengers, other than the driver, arising out of the use of a vehicle. ...'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Portuguese law</p>
+        </tblock>
+        <paragraph eId="para_16641">
+          <num>8</num>
+          <content eId="para_16641__content">
+            <p>Under Article 7(1) of Decreto-Lei No 522/85 -- Seguro Obrigatório de Responsabilidade Civil Automóvel (Decree-Law No 522/85 on compulsory automobile insurance against civil liability) of 31 December 1985, as amended by Decreto-Lei No 130/94 (Decree-Law No 130/94), of 19 May 1994 ( `Decree-Law No 522/85'), losses following from personal injury suffered by the driver of the insured vehicle are excluded from cover under the compulsory insurance against civil liability in respect of the use of motor vehicles ( `the compulsory insurance').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16642">
+          <num>9</num>
+          <content eId="para_16642__content">
+            <p>It follows from Article 7(3) of Decree-Law No 522/85 that, in the event of death following an accident, in particular of the spouse of the driver of the vehicle and holder of the insurance policy, payment of any compensation for non-pecuniary damage to the person at fault responsible for the accident is excluded.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16643">
+          <num>10</num>
+          <content eId="para_16643__content">
+            <p>Under Article 483 of the Civil Code, a person who, through his own fault, unlawfully breaches the right of another person is required to compensate the person harmed for the damage caused.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16644">
+          <num>11</num>
+          <content eId="para_16644__content">
+            <p>Article 495(3) of that code provides that, in the event of death or bodily injury, the persons who could require to be maintained by the person harmed or whose needs were provided for by the person harmed in performance of a natural obligation are entitled to compensation.</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the question referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_16645">
+          <num>12</num>
+          <content eId="para_16645__content">
+            <p>On 3 December 2005 at Paredes (Portugal), an accident occurred between the vehicle driven by Mr Neto de Sousa, insured with the Zurich insurance company, and another vehicle. Mr Neto de Sousa, who had lost control of his vehicle, was declared to be responsible for the accident. In the vehicle, as a passenger, was Ms da Rocha Carvalho, Mr Neto de Sousa's wife, who died as a result of the accident.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16646">
+          <num>13</num>
+          <content eId="para_16646__content">
+            <p>Mr Neto de Sousa sued Zurich before the Tribunal Judicial de Paredes (District Court, Paredes, Portugal), seeking an order that that insurance company pay him the sum of EUR 335700, together with interest, as compensation for material and bodily harm suffered in the accident of 3 December 2005. In particular, he submitted in that regard, that Article 7(3) of Decree-Law No 522/85 did not exclude compensation for the person at fault responsible for the accident.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16647">
+          <num>14</num>
+          <content eId="para_16647__content">
+            <p>The Tribunal Judicial de Paredes (District Court, Paredes) dismissed Mr Neto de Sousa's action in that it sought compensation for the material harm on the ground that that court was not in a position to determine the income, expenditure and liabilities of Mr Neto de Sousa, nor to what extent the deceased contributed or was to contribute to the couple's income. That court also dismissed that action as regards compensation for the non-material harm on the ground that compensation for that harm was excluded by virtue of Article 7(3) of Decree-Law No 522/85.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16648">
+          <num>15</num>
+          <content eId="para_16648__content">
+            <p>Mr Neto de Sousa appealed against that judgment to the Tribunal da Relação do Porto (Court of Appeal, Oporto, Portugal) with regard solely to compensation for the material harm. That court dismissed the appeal, taking the view, in essence, that Mr Neto de Sousa was not entitled to any compensation since he was the driver responsible for the accident in which his wife, a passenger in the vehicle which he was driving, lost her life.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16649">
+          <num>16</num>
+          <content eId="para_16649__content">
+            <p>Mr Neto de Sousa appealed to the Supremo Tribunal de Justiça (Supreme Court, Portugal), reiterating his line of argument that Decree-Law No 522/85 did not exclude compensation for material harm suffered by the driver at fault because of the death of his spouse following the accident and arguing that, by refusing him the right to compensation for the material harm resulting from the death of his wife, a passenger in the vehicle involved in the accident, the Tribunal da Relação do Porto (Court of Appeal, Oporto) infringed Article 7(3) of that Decree-Law. Mr Neto de Sousa also requested that court to refer a question to the Court of Justice, under Article 267 TFEU, for a preliminary ruling concerning whether the provisions of the Second and Third Directives preclude compensation for such harm.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16650">
+          <num>17</num>
+          <content eId="para_16650__content">
+            <p>The Supremo Tribunal de Justiça (Supreme Court) dismissed the appeal. In essence, it took the view that Mr Neto de Sousa's entitlement to compensation was governed by both Article 495(3) and Article 483 of the Civil Code, that that right arose `in the legal sphere' of the party claiming the compensation and not that of the deceased and that, by his culpable driving, Mr Neto de Sousa has infringed one of his own rights. That court held that, in accordance with the maxim sibi imputet, the right provided for in Article 495(3) of the Civil Code was not open to a person who is alone responsible for an accident which caused the death of his wife, a passenger in the vehicle which he was driving and that, in consequence, Mr Neto de Sousa was not entitled to compensation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16651">
+          <num>18</num>
+          <content eId="para_16651__content">
+            <p>As regards the request for a preliminary ruling, the Supremo Tribunal de Justiça (Supreme Court) held, in essence, that the Second and Third Directives lay down the compulsory insurance system while leaving to national law the arrangements for insurance against civil liability and that, even if, as regards passengers, that system encroaches to some extent on national law, the rules of Decree-Law No 522/85 do not have the effect of excluding the application of the national system of civil liability, as provided for in Article 495(3) of the Civil Code.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16652">
+          <num>19</num>
+          <content eId="para_16652__content">
+            <p>Mr Neto de Sousa brought a declarative action before the Tribunal da Comarca do Porto-Este (Penafiel) (Local Court, Porto Este -- Penafiel, Portugal) against the Portuguese State seeking an order that it pay him the sum of EUR 245700 together with interest in respect of the loss which he suffered by reason of the judicial error committed by the Supremo Tribunal de Justiça (Supreme Court) in dismissing his appeal.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16653">
+          <num>20</num>
+          <content eId="para_16653__content">
+            <p>Since the Tribunal da Comarca do Porto-Este (Penafiel) (Local Court, Porto Este -- Penafiel) dismissed Mr Neto de Sousa's action, he appealed to the Tribunal da Relação do Porto (Court of Appeal, Oporto), arguing in particular that the Supremo Tribunal de Justiça (Supreme Court) made an incorrect interpretation of Article 3 of the Second Directive and of Article 1 of the Third Directive, which guarantee the passengers of a vehicle, other than the driver, compensation for bodily harm which they have suffered as a result of a traffic accident, and failed to fulfil its obligation under Article 267 TFEU. Mr Neto de Sousa also requested the Tribunal da Relação do Porto (Court of Appeal, Oporto) to refer to the Court of Justice, under Article 267 TFEU, the question referred to in paragraph 16 of this judgment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16654">
+          <num>21</num>
+          <content eId="para_16654__content">
+            <p>The referring court noted that the Supremo Tribunal de Justiça (Supreme Court) did not give a ruling on whether or not the deceased passenger should be compensated, but on whether or not Mr Neto de Sousa is entitled to compensation, having regard to the fact that he is the person responsible for the accident. The referring court considers that, in order to determine whether the Supremo Tribunal de Justiça (Supreme Court) could refuse to refer a question to the Court for a preliminary ruling, it is necessary first to ascertain whether the provisions of EU law relied on before it were clear and unambiguous.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16655">
+          <num>22</num>
+          <content eId="para_16655__content">
+            <p>In those circumstances, the Tribunal da Relação do Porto (Court of Appeal, Oporto) decided to stay the proceedings and to refer the following question to the Court for a preliminary ruling: `Do the requirements of the [Second and Third Directives] preclude the national legislation from providing for the culpable driver to be compensated in respect of pecuniary damage, in the event that his spouse, who was a passenger in the vehicle, dies, in accordance with Article 7(3) of [Decree-Law No 522/85]?'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the question referred</p>
+        </tblock>
+        <paragraph eId="para_16656">
+          <num>23</num>
+          <content eId="para_16656__content">
+            <p>It should be observed as a preliminary point that, according to the Court's settled case-law, in the procedure laid down by Article 267 TFEU, providing for cooperation between national courts and the Court of Justice, it is for the latter to provide the national court with an answer which will be of use to it and enable it to determine the case before it. With this in mind, the Court may have to reformulate the questions referred to it. The Court may also find it necessary to consider provisions of EU law to which the national court has not referred in its questions (judgment of 1 February 2017, Município de Palmela, C‑144/16, EU:C:2017:76, paragraph 20 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16657">
+          <num>24</num>
+          <content eId="para_16657__content">
+            <p>In the present case, it is clear from the order for reference that, in the judgment in which it allegedly disregarded the provisions of the Second and Third Directives, the Supremo Tribunal de Justiça (Supreme Court) took the view that the Portuguese law applicable, in particular Articles 483 and 495(3) of the Civil Code, does not allow Mr Neto de Sousa to obtain the compensation he claims.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16658">
+          <num>25</num>
+          <content eId="para_16658__content">
+            <p>In those circumstances, the question referred must be understood as asking whether the EU rules in matters of compulsory insurance must be interpreted as precluding national legislation which allows exclusion of the right of a driver of a motor vehicle responsible, by his own fault, for a traffic accident as a result of which his spouse, a passenger in that vehicle, has died, to receive compensation for the material harm which he has suffered as a result of that death.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16659">
+          <num>26</num>
+          <content eId="para_16659__content">
+            <p>In that regard, it should be noted that the preambles to the First and Second Directives show that their aim is, firstly, to ensure the free movement of vehicles normally based on EU territory and of persons travelling in those vehicles and, secondly, to guarantee that the victims of accidents caused by those vehicles receive comparable treatment irrespective of where in the European Union the accident occurred (judgments of 9 June 2011, Ambrósio Lavrador and Olival Ferreira Bonifácio, C‑409/09, EU:C:2011:371, paragraph 23, and of 23 October 2012, Marques Almeida, C‑300/10, EU:C:2012:656, paragraph 26).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16660">
+          <num>27</num>
+          <content eId="para_16660__content">
+            <p>The First Directive, as amplified and supplemented by the Second and Third Directives, requires the Member States to ensure that civil liability in respect of the use of vehicles normally based in their territory is covered by insurance, and specifies, inter alia, the types of damage and the third-party victims to be covered by that insurance (judgment of 23 October 2012, Marques Almeida, C‑300/10, EU:C:2012:656, paragraph 27 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16661">
+          <num>28</num>
+          <content eId="para_16661__content">
+            <p>It should however be noted that the obligation to provide insurance cover against civil liability for damage caused to third parties by motor vehicles is distinct from the extent of the compensation to be afforded to them on the basis of the civil liability of the insured person. Whereas the former is defined and guaranteed by EU legislation, the latter is, essentially, governed by national law (judgments of 17 March 2011, Carvalho Ferreira Santos, C‑484/09, EU:C:2011:158, paragraph 31, and of 23 October 2012, Marques Almeida, C‑300/10, EU:C:2012:656, paragraph 28).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16662">
+          <num>29</num>
+          <content eId="para_16662__content">
+            <p>In that regard, the Court has previously held that it is apparent from the aim of the First, Second and Third Directives, and from their wording, that they do not seek to harmonise the rules of the Member States governing civil liability and that, as EU law now stands, the Member States are free to determine the rules of civil liability applicable to road accidents (judgment of 23 October 2012, Marques Almeida, C‑300/10, EU:C:2012:656, paragraph 29 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16663">
+          <num>30</num>
+          <content eId="para_16663__content">
+            <p>However, the Member States are required to ensure that the civil liability resulting from the use of motor vehicles arising under their domestic law is covered by insurance which complies with the provisions of the three abovementioned directives (judgment of 23 October 2012, Marques Almeida, C‑300/10, EU:C:2012:656, paragraph 30 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16664">
+          <num>31</num>
+          <content eId="para_16664__content">
+            <p>In addition, the Member States must exercise their powers in compliance with EU law and that the national provisions which govern compensation for road accidents may not deprive the First, Second and Third Directives of their effectiveness (judgment of 23 October 2012, Marques Almeida, C‑300/10, EU:C:2012:656, paragraph 31).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16665">
+          <num>32</num>
+          <content eId="para_16665__content">
+            <p>The Court has previously held that those directives would be deprived of their effectiveness if, solely on the basis of the victim's contribution to the occurrence of his injuries, national rules, established on the basis of general and abstract criteria, either denied the victim the right to be compensated by the compulsory insurance against civil liability in respect of the use of motor vehicles or limited such a right in a disproportionate manner (judgments of 9 June 2011, Ambrósio Lavrador and Olival Ferreira Bonifácio, C‑409/09, EU:C:2011:371, paragraph 29, and of 23 October 2012, Marques Almeida, C‑300/10, EU:C:2012:656, paragraph 32).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16666">
+          <num>33</num>
+          <content eId="para_16666__content">
+            <p>However, in the main proceedings, it must be borne in mind that Mr Neto de Sousa's right to compensation is affected not by a limitation of the cover for civil liability in respect of the use of motor vehicles under provisions in the area of insurance but by the applicable national system of civil liability.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16667">
+          <num>34</num>
+          <content eId="para_16667__content">
+            <p>The national legislation at issue in the main proceedings, as interpreted by the Supremo Tribunal de Justiça (Supreme Court), has the effect of excluding the driver of a motor vehicle, as the person responsible for a traffic accident, from the right to be compensated for the harm which he himself has suffered following that accident.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16668">
+          <num>35</num>
+          <content eId="para_16668__content">
+            <p>That legislation is thus not such as to limit the civil liability insurance cover established for the insured person in respect of damage caused to third parties (see, by analogy, judgment of 23 October 2012, Marques Almeida, C‑300/10, EU:C:2012:656, paragraph 35).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16669">
+          <num>36</num>
+          <content eId="para_16669__content">
+            <p>Having regard to the foregoing considerations, it must be held that the national legislation at issue in the main proceedings does not affect the guarantee, provided by the law of the European Union, that civil liability in respect of the use of motor vehicles, determined according to the applicable national law, will be covered by insurance in accordance with the First, Second and Third Directives (see, by analogy, judgment of 23 October 2012, Marques Almeida, C‑300/10, EU:C:2012:656, paragraph 38).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16670">
+          <num>37</num>
+          <content eId="para_16670__content">
+            <p>That consideration is not called into question by the fact that the material harm suffered by Mr Neto de Sousa flows from the death of his wife, who was a passenger in the vehicle which he was driving when he caused the accident. The information provided by the referring court appears to show that the main proceedings do not concern the right to compensation for harm suffered by a victim who was a passenger in a vehicle involved in an accident but the right to compensation for the harm suffered by the driver responsible for that accident.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16671">
+          <num>38</num>
+          <content eId="para_16671__content">
+            <p>Having regard to the foregoing considerations, the answer to the question referred that the First, Second and Third Directives must be interpreted as not precluding national legislation which allows exclusion of the right of a driver of a motor vehicle responsible, by his own fault, for a traffic accident as a result of which his spouse, a passenger in that vehicle, has died, to receive compensation for the material harm which he has suffered as a result of that death.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_16672">
+          <num>39</num>
+          <content eId="para_16672__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Sixth Chamber) hereby rules: Council Directive 72/166/EEC of 24 April 1972 on the approximation of the laws of Member States relating to insurance against civil liability in respect of the use of motor vehicles, and to the enforcement of the obligation to insure against such liability, Second Council Directive 84/5/EEC of 30 December 1983 on the approximation of the laws of the Member States relating to insurance against civil liability in respect of the use of motor vehicles, as amended by Directive 2005/14/EC of 11 May 2005, and Third Council Directive 90/232/EEC of 14 May 1990 on the approximation of the laws of the Member States relating to insurance against civil liability in respect of the use of motor vehicles, must be interpreted as not precluding national provisions which allow exclusion of the right of a driver of a motor vehicle responsible, by his own fault, for a traffic accident as a result of which his spouse, a passenger in that vehicle, has died, to receive compensation for the material harm which he has suffered as a result of that death.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Portuguese.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

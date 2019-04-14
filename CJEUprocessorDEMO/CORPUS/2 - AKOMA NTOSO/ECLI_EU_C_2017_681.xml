@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+      <references source="#source">
+        <TLCOrganization eId="company_55" showAs="" href="/akn/ontology/Organization/Company/company_55" />
+      </references>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Sixth Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>14 September 2017 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Compulsory insurance against civil liability in respect of the use of motor vehicles -- Directives 72/166/EEC, 84/5/EEC, 90/232/EEC and 2009/103/EC -- Theft of a vehicle -- Motor vehicle accident -- Personal injuries and property damage sustained by the insured owner of the vehicle, as a pedestrian -- Civil liability -- Compensation -- Compulsory insurance cover -- Exclusion clauses -- National legislation excluding the insured owner of the vehicle from compensation from the insurers -- Compatibility with those directives -- Concept of `third parties who have been victims') In Case C‑503/16, REQUEST for a preliminary ruling under Article 267 TFEU from the Tribunal da Relação de Évora (Court of Appeal of Evora, Portugal), made by decision of 16 June 2016, received at the Court on 23 September 2016, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">Luís Isidro Delgado Mendes</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#company_55">Crédito Agrícola Seguros -- Companhia de Seguros de Ramos Reais SA</party>
+      </p>
+      <p>, THE COURT (Sixth Chamber), composed of E. Regan, President of the Chamber, A. Arabadjiev (Rapporteur) and C.G. Fernlund, Judges, Advocate General: P. Mengozzi, Registrar: A. Calot Escobar, having regard to the written procedure, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>Crédito Agrícola Seguros -- Companhia de Seguros de Ramos Reais SA, by V. Ferreira Pires, advogado,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by P. Costa de Oliveira, K.-P. Wojcik and B. Rechena, acting as Agents, having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <tblock>
+        <p>Judgment</p>
+      </tblock>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_17429">
+          <num>1</num>
+          <content eId="para_17429__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Articles 12(3) and 13(1) of Directive 2009/103/EC of the European Parliament and of the Council of 16 September 2009 relating to insurance against civil liability in respect of the use of motor vehicles, and the enforcement of the obligation to insure against such liability ( OJ 2009 L 263, p. 11).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17430">
+          <num>2</num>
+          <content eId="para_17430__content">
+            <p>The request has been made in proceedings between Mr Luís Isidro Delgado Mendes and Crédito Agrícola Seguros -- Companhia de Seguros de Ramos Reais SA ( `CA Seguros') concerning the compensation payable by the latter, with respect to civil liability in respect of the use of motor vehicles, for the harm suffered by Mr Delgado Mendes as a result of a motor vehicle accident.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <paragraph eId="para_17431">
+          <num>3</num>
+          <content eId="para_17431__content">
+            <p>Article 3(1) of Council Directive 72/166/EEC of 24 April 1972 on the approximation of the laws of Member States relating to insurance against civil liability in respect of the use of motor vehicles, and to the enforcement of the obligation to insure against such liability (OJ, English Special Edition 1972 (II), p. 360; `the First Directive') provides: `Each Member State shall ... take all appropriate measures to ensure that civil liability in respect of the use of vehicles normally based in its territory is covered by insurance. The extent of the liability covered and the terms and conditions of the cover shall be determined on the basis of those measures.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17432">
+          <num>4</num>
+          <content eId="para_17432__content">
+            <p>Article 1(1) and (2) of Second Council Directive 84/5/EEC of 30 December 1983 on the approximation of the laws of the Member States relating to insurance against civil liability in respect of the use of motor vehicles ( OJ 1984 L 8, p. 17), as amended by Directive 2005/14/EC of the European Parliament and of the Council of 11 May 2005 ( OJ 2005 L 149, p. 14; `the Second Directive'), provided: `The insurance referred to in Article 3(1) of [the First Directive] shall cover compulsorily both damage to property and personal injuries.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17433">
+          <num>5</num>
+          <content eId="para_17433__content">
+            <p>Article 2(1) of the Second Directive provided: `Each Member State shall take the necessary measures to ensure that any statutory provision or any contractual clause contained in an insurance policy issued in accordance with Article 3(1) of [the First Directive], which excludes from insurance the use or driving of vehicles by:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>persons who do not have express or implied authorisation thereto; ... shall, for the purposes of Article 3(1) of [the First Directive], be deemed to be void in respect of claims by third parties who have been victims of an accident. However, the provision or clause referred to in the first indent may be invoked against persons who voluntarily entered the vehicle which caused the damage or injury, when the insurer can prove that they knew the vehicle was stolen. Member States shall have the option -- in the case of accidents occurring on their territory -- of not applying the provision in the first subparagraph if and in so far as the victim may obtain compensation for the damage suffered from a social security body.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17434">
+          <num>6</num>
+          <content eId="para_17434__content">
+            <p>Article 1 of Third Council Directive 90/232/EEC of 14 May 1990 on the approximation of the laws of the Member States relating to insurance against civil liability in respect of the use of motor vehicles ( OJ 1990 L 129, p. 33) as amended by Directive 2005/14 ( `the Third Directive') provided, inter alia, that `the insurance referred to in Article 3(1) of [the First Directive] shall cover liability for personal injuries to all passengers, other than the driver, arising out of the use of a vehicle'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17435">
+          <num>7</num>
+          <content eId="para_17435__content">
+            <p>Article 1a of the Third Directive provided: `The insurance referred to in Article 3(1) of [the First Directive] shall cover personal injuries and damage to property suffered by pedestrians, cyclists and other non-motorised users of the roads who, as a consequence of an accident in which a motor vehicle is involved, are entitled to compensation in accordance with national civil law. This Article shall be without prejudice either to civil liability or to the amount of damages.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17436">
+          <num>8</num>
+          <content eId="para_17436__content">
+            <p>Directive 2009/103 consolidated the earlier directives relating to compulsory insurance against civil liability in respect of the use of motor vehicles and therefore repealed those earlier directives with effect from 27 October 2009. According to the correlation table in Annex II to that directive, Article 2(1) of the Second Directive corresponds to Article 13(1) of Directive 2009/103, and Article 1a of the Third Directive corresponds to Article 12(3) of Directive 2009/103.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Portuguese law</p>
+        </tblock>
+        <paragraph eId="para_17437">
+          <num>9</num>
+          <content eId="para_17437__content">
+            <p>Under Article 4(1) of decreto-lei No 291/2007, que aprova o regime do sistema do seguro obrigatório de responsabilidade civil automóvel e transpõe parcialmente para a ordem jurídica interna a Directiva No 2005/14/CE, do Parlamento Europeu e do Conselho, de 11 de Maio, que altera as Directivas n os 72/166/CEE, 84/5/CEE, 88/357/CEE e 90/232/CEE, do Conselho, e a Directiva No 2000/26/CE, relativas ao seguro de responsabilidade civil resultante da circulação de veículos automóveis (Decree-Law No 291/2007 approving the rules relating to compulsory insurance against civil liability in respect of the use of motor vehicles and partly transposing Directive 2005/14/EC of the European Parliament and of the Council of 11 May 2005 amending Council Directives 72/166/EEC, 84/5/EEC, 88/357/EEC and 90/232/EEC and Directive 2000/26/EC of the European Parliament and of the Council relating to insurance against civil liability in respect of the use of motor vehicles), of 21 August 2007 ( Diáro da República, First series, No 160, of 21 August 2007): `Any person who may be held liable under civil law to provide compensation for personal injuries or damage to property inflicted on a third party by a motorised road vehicle the driving of which requires a specific licence, or by its trailer, and which is normally based in Portugal, must, before that vehicle can be used, be covered by insurance which covers such liability in accordance with this decree-law.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17438">
+          <num>10</num>
+          <content eId="para_17438__content">
+            <p>Article 11(2) of Decree-Law No 291/2007 provides: `The insurance against civil liability provided for in Article 4 shall cover harm suffered by pedestrians, cyclists and other non-motorised road users when, and in so far as, the law applicable to the civil liability resulting from a motor vehicle accident provides for compensation of such harm.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17439">
+          <num>11</num>
+          <content eId="para_17439__content">
+            <p>Article 14(2)(b) of that Decree-Law provides: `Any damage to property sustained by the following persons shall also be excluded from the insurance cover: ... the insurance policy-holder'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17440">
+          <num>12</num>
+          <content eId="para_17440__content">
+            <p>Article 15(3) of that Decree-Law provides: `In cases of theft, robbery or misappropriation of motor vehicles and motor vehicle accidents caused intentionally, the insurance shall not cover compensation payable by the perpetrators of such acts and their accomplices to the owner of the vehicle ...'</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the question referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_17441">
+          <num>13</num>
+          <content eId="para_17441__content">
+            <p>On 26 April 2009 Mr Delgado Mendes and his wife were at a farm owned by them in Chamusca (Portugal), in the yard of which were parked two motor vehicles, one belonging to Mr Delgado Mendes, the other to his wife. About 6pm, they noticed that a man who was not known to them was at the wheel of the vehicle belonging to Mr Delgado Mendes and that he was driving off in that vehicle. Mr Delgado Mendes and his wife immediately entered the other vehicle and set off in pursuit of the first vehicle.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17442">
+          <num>14</num>
+          <content eId="para_17442__content">
+            <p>Having come to a junction, the vehicle belonging to Mr Delgado Mendes stopped. Mr Delgado Mendes also stopped, some 20 metres away, and got out of his wife's vehicle in order to approach his own vehicle.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17443">
+          <num>15</num>
+          <content eId="para_17443__content">
+            <p>The driver of the vehicle belonging to Mr Delgado Mendes then reversed, with the result that that vehicle struck both the right side of the car belonging to Mr Delgado Mendes's wife and Mr Delgado Mendes himself, causing him to fall to the ground. The driver moved forward and then reversed again, abruptly and rapidly, knocking down Mr Delgado Mendes who had just got to his feet and driving over him, causing him to be dragged by his own vehicle over a distance of about eight metres.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17444">
+          <num>16</num>
+          <content eId="para_17444__content">
+            <p>Mr Delgado Mendes suffered, as a direct consequence of that accident, a number of broken bones and injuries. He was subject to medical treatment until 8 February 2011 and was unfit to work for 654 days; the after-effects of the accident were considerable.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17445">
+          <num>17</num>
+          <content eId="para_17445__content">
+            <p>At the time of that accident, civil liability insurance with respect to harm caused to third parties by the vehicle owned by Mr Delgado Mendes was provided by CA Seguros, under an insurance policy where he was named as the insurance policy-holder and the regular driver of that vehicle. That insurance policy included the following provisions:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>a third party is defined as any `person who, following an accident covered by the contract, suffers harm capable of being remedied or compensated under civil law or the present insurance policy' [clause 1(e)];</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>`this contract meets the requirements of compulsory motor vehicle civil liability insurance, laid down in Article 4 of Decree-Law [No 291/2007]' (clause 2, point 1);</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>`this contract guarantees, subject to limitations and on the conditions laid down by statute:</p>
+                <blockList>
+                  <item>
+                    <num>(a)</num>
+                    <p>the civil liability of the insurance policy-holder, the owner of the vehicle ... and also that of those persons who legitimately possess or drive the vehicle, with respect to personal injury and damage to property, caused to third parties;</p>
+                  </item>
+                  <item>
+                    <num>(b)</num>
+                    <p>compensation payable by the perpetrators of theft, robbery, or unlawful use of motor vehicles or by those who deliberately cause motor vehicle accidents' (clause 2, point 2);</p>
+                  </item>
+                </blockList>
+              </item>
+              <item>
+                <num>--</num>
+                <p>`this contract includes ... with respect to accidents that have occurred in Portugal, the mandatory compensation established by civil law' [clause 4(1)(a)];</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>`excluded from the compulsory insurance cover is all damage caused to the property of the insurance policy-holder' [clause 5(2)(b)];</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>`in cases of robbery ... and motor vehicle accidents caused intentionally , the insurance does not cover compensation payable by the respective perpetrators and accomplices to the owner ...' (clause 5(5)).</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17446">
+          <num>18</num>
+          <content eId="para_17446__content">
+            <p>Mr Delgado Mendes brought an action before the Tribunal de Comarca de Santarém (District Court of Santarém, Portugal), claiming that CA Seguros should be ordered to pay him compensation amounting to a total of EUR 210641, with respect to material and non-material harm suffered by him, together with interest at the legal rate as from the date of service of the action. CA Seguros contended, on several grounds, that the action should be dismissed.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17447">
+          <num>19</num>
+          <content eId="para_17447__content">
+            <p>That court dismissed the action brought by Mr Delgado Mendes as being unfounded, on the ground, in particular, that, under Article 15(3) of Decree-Law No 291/2007, the owner of the vehicle was excluded from being one of the beneficiaries of the insurance taken out by him.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17448">
+          <num>20</num>
+          <content eId="para_17448__content">
+            <p>Mr Delgado Mendes brought an appeal against that judgment before the Tribunal da Relação de Évora (Court of Appeal of Evora, Portugal). He maintains, inter alia, that Article 15(3) should be interpreted strictly, in that it excludes compensation only for damage to property sustained by the owner of the vehicle. Mr Delgado Mendes claims that, that provision being so worded, the legislature had not envisaged accidents such as that of which he had been a victim. Since the main objective of the insurance contract at issue in the main proceedings was the protection of victims who sustained personal injuries, by means of providing compensation to all victims, with the exception of the driver himself, the compensation for the personal injuries sustained by Mr Delgado Mendes falls, in this case, within the scope of the situation of `third parties who have been victims'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17449">
+          <num>21</num>
+          <content eId="para_17449__content">
+            <p>CA Seguros does not accept that strict interpretation and contends, inter alia, that such an interpretation would be in breach of Article 9 of the código civil (Civil Code), since the aim of the insurance in question is to ensure the liability of `any person who may incur civil liability to provide compensation for harm caused to third parties by a motorised road vehicle'. It cannot however be accepted that the person responsible for the risk arising from the use of a motor vehicle is himself protected with respect to civil liability, as if he had the status of a third party.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17450">
+          <num>22</num>
+          <content eId="para_17450__content">
+            <p>The referring court states that the subject matter of the action is confined to the determination of whether there is a link between, on the one hand, the facts that gave rise to the liability and the ensuing obligation to compensate the victim, and, on the other, the limitations and scope of the insurance contract at issue in the main proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17451">
+          <num>23</num>
+          <content eId="para_17451__content">
+            <p>The Tribunal da Relação de Évora (Court of Appeal of Evora) states that it finds both that the driver of the vehicle belonging to Mr Delgado Mendes, insured by CA Seguros, is responsible for the occurrence of the accident, and that that driver is under an obligation to provide compensation for the harm that he has caused. That court adds that, under the insurance contract concluded between Mr Delgado Mendes and CA Seguros, the latter, in an ordinary situation where the victim is a third party with respect to the insurance relationship between the owner of the vehicle and his insurance company, is clearly responsible for the provision of compensation for harm caused exclusively by the fault of that driver.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17452">
+          <num>24</num>
+          <content eId="para_17452__content">
+            <p>There are however two singular features in the main proceedings, in that the accident was caused intentionally by the driver of the vehicle belonging to Mr Delgado Mendes and in that the victim and applicant for compensation is the policy-holder of the insurance relating to that vehicle.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17453">
+          <num>25</num>
+          <content eId="para_17453__content">
+            <p>As regards the first of those features, the referring court states that the obligation, on the insurer, to provide compensation for harm arising from motor vehicle accidents that are caused intentionally has been affirmed, since 2007, in settled case-law of the Supremo Tribunal de Justiça (Supreme Court, Portugal).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17454">
+          <num>26</num>
+          <content eId="para_17454__content">
+            <p>As regards, however, the second of those features, both Article 15(3) of Decree-Law No 291/2007 and the insurance contract at issue in the main proceedings expressly provide that `in cases of theft ... of motor vehicles and motor vehicle accidents caused intentionally, the insurance shall not cover compensation payable by the perpetrators of such acts and their accomplices to the owner of the vehicle'. The circumstances of this case correspond to those two situations. Further, Article 14(2)(b) of that legislation also excludes `from insurance cover any damage to property sustained by ... the insurance policy-holder'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17455">
+          <num>27</num>
+          <content eId="para_17455__content">
+            <p>The Tribunal da Relação de Évora (Court of Appeal of Evora) and CA Seguros consider, moreover, that the interpretation of Article 15(3) of Decree-Law No 291/2007 proposed by Mr Delgado Mendes does not satisfy the requirements laid down, in that regard, in Article 9 of the Civil Code.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17456">
+          <num>28</num>
+          <content eId="para_17456__content">
+            <p>Nonetheless, the referring court has some doubts as to the compatibility of Article 14(2)(b) and Article 15(3) of Decree-Law No 291/2007 ( `the legislation at issue') with EU law. The referring court states, in that regard, that the Second Directive substituted for the relationship between owner and insurer, typical of an insurance contract, the relationship between the insurer and the person responsible for the accident, and the Third Directive confirmed that the determinative relationship, with respect to any statutory provision or contract term on exclusion from insurance, was the relationship between the insurer and the driver and not the relationship between the insurer and the owner, that approach having been reiterated, in 2008, by the Supremo Tribunal de Justiça (Supreme Court).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17457">
+          <num>29</num>
+          <content eId="para_17457__content">
+            <p>Further, the referring court considers that the exclusion of the persons referred to by the legislation at issue is defined on the basis of general and abstract criteria, which the Court has held to be contrary to the directives concerned. The referring court also questions the compatibility of those exclusions, based solely on the status of being the owner of the vehicle involved in the accident, with the principle of equal treatment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17458">
+          <num>30</num>
+          <content eId="para_17458__content">
+            <p>In those circumstances, the Tribunal da Relação de Évora (Court of Appeal of Evora) decided to stay the proceedings and to refer the following question to the Court for a preliminary ruling: `In the case of a motor vehicle accident resulting in personal injuries to and damage to property of a pedestrian who was intentionally run over by the motor vehicle of which he is the owner, which was being driven by a person who stole the car, does EU law, specifically Articles 12(3) and 13(1) of Directive 2009/103/EC ... preclude the exclusion by national law of any form of compensation for the pedestrian in question on the ground that he is the owner of the vehicle and the insurance policy-holder?'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the question referred</p>
+        </tblock>
+        <paragraph eId="para_17459">
+          <num>31</num>
+          <content eId="para_17459__content">
+            <p>First, it must be observed, at the outset, that Directive 2009/103 is not applicable ratione temporis to the main proceedings. Having regard to the date of the accident which gave rise to those proceedings, Article 2(1) of the Second Directive and Article 1a of the Third Directive are the provisions which are, in this case, applicable.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17460">
+          <num>32</num>
+          <content eId="para_17460__content">
+            <p>Second, in order to give a useful answer to the question referred, the Court must take into consideration not only the provisions expressly mentioned in the question referred for a preliminary ruling, but also Article 3(1) of the First Directive and Article 1(1) of the Second Directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17461">
+          <num>33</num>
+          <content eId="para_17461__content">
+            <p>Last, since the referring court has stated that the obligation, on the insurer, to provide compensation for motor vehicle accidents that are caused intentionally has been affirmed, since 2007, in settled case-law of the Supremo Tribunal de Justiça (Supreme Court), it is apparent that the question referred relates, in fact, not to the issue of whether the First, Second and Third Directives do or do not require compulsory insurance cover with respect to harm arising from motor vehicle accidents caused intentionally, but specifically to the compatibility with those directives of the exclusion of a pedestrian from such cover for the sole reason that that pedestrian was the insurance policy-holder and the owner of the vehicle that caused that harm.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17462">
+          <num>34</num>
+          <content eId="para_17462__content">
+            <p>Therefore, the view must be taken that, by its question, the referring court is, in essence, asking the Court whether Article 3(1) of the First Directive, Article 1(1) and Article 2(1) of the Second Directive, and Article 1a of the Third Directive must be interpreted as precluding national legislation, such as that at issue in the main proceedings, which excludes from cover and, therefore, compensation by compulsory civil liability insurance in respect of the use of motor vehicles, the personal injuries and damage to property sustained by a pedestrian who is the victim of a motor vehicle accident, on the sole ground that that pedestrian was the insurance policy-holder and the owner of the vehicle that caused those injuries and that damage.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17463">
+          <num>35</num>
+          <content eId="para_17463__content">
+            <p>In that regard, first, it must be borne in mind that EU rules relating to compulsory insurance against civil liability in respect of the use of motor vehicles are designed to ensure the free movement of vehicles normally based on EU territory and of persons travelling in those vehicles and to guarantee that the victims of accidents caused by those vehicles receive comparable treatment, irrespective of where in the European Union the accident has occurred (judgment of 1 December 2011, Churchill Insurance Company Limited and Evans, C‑442/10, EU:C:2011:799, paragraph 27).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17464">
+          <num>36</num>
+          <content eId="para_17464__content">
+            <p>Accordingly, the First Directive, as amplified and supplemented by the Second and Third Directives, requires the Member States to ensure that civil liability in respect of the use of vehicles normally based in their territory is covered by insurance, and specifies, inter alia, the types of damage and the third-party victims to be covered by that insurance (judgment of 23 October 2012, Marques Almeida, C‑300/10, EU:C:2012:656, paragraph 27 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17465">
+          <num>37</num>
+          <content eId="para_17465__content">
+            <p>In that regard, the Court has already held that the aim of Article 3(1) of the First Directive, Article 2(1) of the Second Directive and Article 1 of the Third Directive is to ensure that compulsory insurance against civil liability in respect of the use of motor vehicles allows all passengers who are victims of an accident caused by a motor vehicle to be compensated for the injury or loss they have suffered (judgment of 1 December 2011, Churchill Insurance Company Limited and Evans, C‑442/10, EU:C:2011:799, paragraph 29).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17466">
+          <num>38</num>
+          <content eId="para_17466__content">
+            <p>The development of the EU legislation concerning compulsory insurance shows that that objective of protecting the victims of accidents caused by vehicles has continuously been pursued and reinforced by the EU legislature (judgment of 4 September 2014, Vnuk, C‑162/13, EU:C:2014:2146, paragraph 52).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17467">
+          <num>39</num>
+          <content eId="para_17467__content">
+            <p>In particular, Directive 2005/14, by inserting Article 1a in the Third Directive, extended the insurance coverage provided for in Article 3(1) of the First Directive to personal injuries and damage to property suffered by pedestrians, cyclists and other non-motorised users of the roads (see, to that effect, judgment of 4 September 2014, Vnuk, C‑162/13, EU:C:2014:2146, paragraph 55).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17468">
+          <num>40</num>
+          <content eId="para_17468__content">
+            <p>Consequently, since Mr Delgado Mendes was a pedestrian at the time of the accident at issue in the main proceedings, it is clear that the effect of Article 1a of the Third Directive is that the personal injuries and property damage that he sustained as a result of that accident, for which a pedestrian is entitled to obtain compensation, in accordance with national civil law, must be covered by the compulsory insurance pertaining to his vehicle.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17469">
+          <num>41</num>
+          <content eId="para_17469__content">
+            <p>As regards more specifically the circumstance of a victim of a motor vehicle accident being the insurance policy-holder and owner of the vehicle involved in that accident, it must be recalled that the Court has held that the aim of protecting victims pursued by the First, Second and Third Directives requires the legal position of the owner of the vehicle, present in the vehicle at the time of an accident as a passenger, to be the same as that of any other passenger who is a victim of that accident (judgment of 1 December 2011, Churchill Insurance Company Limited and Evans, C‑442/10, EU:C:2011:799, paragraph 30).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17470">
+          <num>42</num>
+          <content eId="para_17470__content">
+            <p>Likewise, the Court has held that that aim also precludes national rules from restricting unduly the concept of passenger covered by compulsory insurance against civil liability in respect of the use of motor vehicles, by excluding from that concept persons who were within a part of a vehicle not designed for their carriage and not fitted out for that purpose (judgment of 1 December 2011, Churchill Insurance Company Limited and Evans, C‑442/10, EU:C:2011:799, paragraph 30).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17471">
+          <num>43</num>
+          <content eId="para_17471__content">
+            <p>The Court concluded that the same aim of protecting victims also requires the legal position of the person who was insured to drive a vehicle but who was, at the time of an accident, a passenger in that vehicle, to be the same as that of any other passenger who is a victim of the accident and that, consequently, the fact that a person was insured to drive the vehicle which caused the accident does not mean that that person should be excluded from the concept of `third parties who have been victims' within the meaning of Article 2(1) of the Second Directive, in so far as he was a passenger in that vehicle (judgment of 1 December 2011, Churchill Insurance Company Limited and Evans, C‑442/10, EU:C:2011:799, paragraphs 31 and 32).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17472">
+          <num>44</num>
+          <content eId="para_17472__content">
+            <p>By analogy, the Court must hold that the fact that a pedestrian who was knocked down in a motor vehicle accident was the insurance policy-holder and the owner of the vehicle that caused that accident does not permit the exclusion of that person from the concept of `third parties who have been victims', within the meaning of Article 2(1) of the Second Directive and Article 1a of the Third Directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17473">
+          <num>45</num>
+          <content eId="para_17473__content">
+            <p>As observed by the referring court and as correctly argued by the Commission, the fact that the owner of the vehicle concerned and insurance policy-holder was not within that vehicle at the time of the accident, but was a pedestrian who was knocked down by that vehicle cannot justify, having regard to the same objective of protection pursued by the First, Second and Third Directives, as described in paragraph 41 of the present judgment, a difference in treatment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17474">
+          <num>46</num>
+          <content eId="para_17474__content">
+            <p>Secondly, as regards the recognised rights of third parties who have been victims of an accident, it must be borne in mind that the obligation to provide insurance cover against civil liability for damage caused to third parties by motor vehicles is distinct from the extent of the compensation for that harm to be provided to them on the basis of the civil liability of the insured person. Whereas the former is defined and guaranteed by EU legislation, the latter is, essentially, governed by national law (judgment of 23 October 2012, Marques Almeida, C‑300/10, EU:C:2012:656, paragraph 28 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17475">
+          <num>47</num>
+          <content eId="para_17475__content">
+            <p>Thus, the Court has held that it is apparent from the aim of the First, Second and Third Directives, and from their wording, that they do not seek to harmonise the rules of the Member States governing civil liability and that, as EU law stands at present, the Member States are free to determine the rules of civil liability applicable to accidents arising from the use of motor vehicles (judgment of 23 October 2012, Marques Almeida, C‑300/10, EU:C:2012:656, paragraph 29 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17476">
+          <num>48</num>
+          <content eId="para_17476__content">
+            <p>However, the Court has stated that the Member States must exercise their powers in that field in compliance with EU law and that provisions of national law which govern compensation for accidents arising from the use of motor vehicles may not deprive the First, Second and Third Directives of their effectiveness (judgment of 23 October 2012, Marques Almeida, C‑300/10, EU:C:2012:656, paragraph 31 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17477">
+          <num>49</num>
+          <content eId="para_17477__content">
+            <p>As the Court has also stated, those directives would be deprived of that effectiveness if, on the basis of the victim's contribution to the occurrence of harm, national rules, established on the basis of general and abstract criteria, either denied the victim the right to be compensated by the compulsory insurance against civil liability in respect of the use of motor vehicles or restricted such a right disproportionately. It is, therefore, only in exceptional circumstances that, on the basis of an individual assessment, that right may be limited (judgment of 23 October 2012, Marques Almeida, C‑300/10, EU:C:2012:656, paragraph 32 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17478">
+          <num>50</num>
+          <content eId="para_17478__content">
+            <p>Accordingly, it follows from the case-law that those directives preclude national rules which allow a refusal of or disproportionate restriction on the right of a passenger to obtain compensation by means of compulsory insurance against civil liability in respect of the use of motor vehicles, solely on the basis of that passenger's contribution to the occurrence of the harm suffered by him (see, to that effect, judgment of 23 October 2012, Marques Almeida, C‑300/10, EU:C:2012:656, paragraph 33 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17479">
+          <num>51</num>
+          <content eId="para_17479__content">
+            <p>The same is true of national legislation, such as the legislation at issue, which makes it possible to deny to a pedestrian, solely on the basis that he is the insurance policy-holder and the owner of the vehicle which caused him to sustain physical injuries and property damage, the right to compensation by means of the compulsory civil liability insurance in respect of the use of motor vehicles.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17480">
+          <num>52</num>
+          <content eId="para_17480__content">
+            <p>The Court has held that Article 3(1) of the First Directive precludes an insurer against civil liability with respect to the use of motor vehicles from relying on statutory provisions or contractual terms in order to refuse to compensate the victims of an accident caused by the insured vehicle (judgment of 1 December 2011, Churchill Insurance Company Limited and Evans, C‑442/10, EU:C:2011:799, paragraph 33).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17481">
+          <num>53</num>
+          <content eId="para_17481__content">
+            <p>The Court has also held that the first subparagraph of Article 2(1) of the Second Directive simply renews that obligation with respect to provisions or terms in an insurance policy referred to in that article that exclude, from the cover provided by insurance against civil liability in respect of the use of motor vehicles, damage or injury suffered by third parties who have been victims of an accident caused by the use or driving of an insured vehicle by persons not authorised to drive the vehicle, persons not holding a driving licence, or persons in breach of the statutory technical requirements concerning the condition and safety of the vehicle (judgment of 1 December 2011, Churchill Insurance Company Limited and Evans, C‑442/10, EU:C:2011:799, paragraph 34).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17482">
+          <num>54</num>
+          <content eId="para_17482__content">
+            <p>It is true that by way of derogation from that obligation, the second subparagraph of Article 2(1) provides that certain persons may be excluded from compensation by the insurer, having regard to a situation they have themselves brought about, that is to say, persons who voluntarily entered the vehicle which caused the damage or injury, when the insurer can prove that they knew the vehicle had been stolen. However, and as the Court has already held, derogations from the first subparagraph of Article 2(1) of the Second Directive may only be made in that single, specific case (judgment of 1 December 2011, Churchill Insurance Company Limited and Evans, C‑442/10, EU:C:2011:799, paragraph 35).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17483">
+          <num>55</num>
+          <content eId="para_17483__content">
+            <p>However, in the main proceedings, it is common ground that that situation does not apply.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17484">
+          <num>56</num>
+          <content eId="para_17484__content">
+            <p>In those circumstances, it is clear that the legislation at issue undermines the guarantee, provided for by EU law, that civil liability with respect to the use of motor vehicles, determined in accordance with the applicable national law, must be covered by insurance that meets the requirements of the First, Second and Third Directives.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17485">
+          <num>57</num>
+          <content eId="para_17485__content">
+            <p>It follows that Article 3(1) of the First Directive and Article 1(1) and Article 2(1) of the Second Directive must be interpreted as precluding the insurer against civil liability in relation to the use of motor vehicles being able to rely on national legislation such as the legislation at issue in order to refuse to pay compensation to third parties who have been victims of an accident, who have sustained personal injuries and property damage in an accident caused by an insured vehicle.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17486">
+          <num>58</num>
+          <content eId="para_17486__content">
+            <p>Third, it must be observed that that finding is not called into question by the argument of CA Seguros that the civil liability system would be seriously damaged if that liability could be incurred to the insured person himself, as is required by the application for compensation at issue in the main proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17487">
+          <num>59</num>
+          <content eId="para_17487__content">
+            <p>In that regard, it must be emphasised that the referring court has stated that the subject matter of the action in the main proceedings is confined, at this stage in the procedure, to the question of to what extent the civil liability already identified is covered by the insurance contract at issue in the main proceedings. That court has stated that it has already accepted that the driver of the vehicle insured had the responsibility to provide compensation for the harm that he had caused and has indicated that, under the insurance contract concluded by Mr Delgado Mendes and CA Seguros, the latter would, were it not for the legislation at issue, be liable to provide compensation for the harm caused exclusively by the fault of that driver.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17488">
+          <num>60</num>
+          <content eId="para_17488__content">
+            <p>Therefore, the argument of CA Seguros has no basis in fact, given that the referring court has found not that Mr Delgado Mendes incurred civil liability to himself, but rather that the liability incurred to him is the liability of the driver of the vehicle involved in the accident at issue in the main proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17489">
+          <num>61</num>
+          <content eId="para_17489__content">
+            <p>In the light of all the foregoing, the answer to the question referred is that Article 3(1) of the First Directive, Article 1(1) and Article 2(1) of the Second Directive and Article 1a of the Third Directive must be interpreted as precluding national legislation, such as that at issue in the main proceedings, which excluded from coverage under compulsory insurance against civil liability with respect to the use of motor vehicles and, therefore, compensation by means of that insurance the personal injuries and property damage sustained by a pedestrian victim of a motor vehicle accident, on the sole ground that that pedestrian was the insurance policy-holder and the owner of the vehicle that caused those injuries and that damage.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_17490">
+          <num>62</num>
+          <content eId="para_17490__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Sixth Chamber) hereby rules: Article 3(1) of Council Directive 72/166/EEC of 24 April 1972 on the approximation of the laws of Member States relating to insurance against civil liability in respect of the use of motor vehicles, and to the enforcement of the obligation to insure against such liability, Article 1(1) and Article 2(1) of the Second Council Directive 84/5/EEC of 30 December 1983 on the approximation of the laws of the Member States relating to insurance against civil liability in respect of the use of motor vehicles, as amended by Directive 2005/14/EC of the European Parliament and of the Council of 11 May 2005, and Article 1a of the Third Council Directive 90/232/EEC of 14 May 1990 on the approximation of the laws of the Member States relating to insurance against civil liability in respect of the use of motor vehicle, as amended by Directive 2005/14, must be interpreted as precluding national legislation, such as that at issue in the main proceedings, which excluded from coverage under compulsory insurance against civil liability with respect to the use of motor vehicles and, therefore, compensation by means of that insurance the personal injuries and property damage sustained by a pedestrian victim of a motor vehicle accident, on the sole ground that that pedestrian was the insurance policy-holder and the owner of the vehicle that caused those injuries and that damage.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Portuguese.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

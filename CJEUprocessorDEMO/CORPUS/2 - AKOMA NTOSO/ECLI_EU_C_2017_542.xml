@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Third Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>13 July 2017 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Citizenship of the Union -- Right to move and reside freely in the territory of the Member States -- Directive 2004/38/EC -- The second subparagraph of Article 27(2) -- Restrictions on the right of entry and the right of residence on grounds of public policy, public security or public health -- Expulsion from the territory for reasons of public policy or public security -- Conduct representing a sufficiently serious present and genuine threat for a fundamental interest of society -- Present and genuine threat -- Concept -- Union citizen residing in the host Member State where he is serving a prison sentence for repeated child sexual abuse offences) In Case C‑193/16, REQUEST for a preliminary ruling under Article 267 TFEU from the Tribunal Superior de Justicia del País Vasco (High Court of Justice of the Basque Country, Spain), made by decision of 8 March 2016, received at the Court on 7 April 2016, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">E</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#">Subdelegación del Gobierno en Álava</party>
+      </p>
+      <p>, THE COURT (Third Chamber), composed of L. Bay Larsen, President of the Chamber, M. Vilaras (Rapporteur), J. Malenovský, M. Safjan and D. Šváby, Judges, Advocate General: H. Saugmandsgaard Øe, Registrar: A. Calot Escobar, having regard to the written procedure, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>the Spanish Government, by V. Ester Casas, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Belgian Government, by C. Pochet and L. Van den Broeck, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the German Government, by K. Stranz and M. T. Henze, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Estonian Government, by K. Kraavi-Käerdi, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Austrian Government, by G. Eberhard, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the United Kingdom Government, by S. Brandon and C. Crane, acting as Agents, and by B. Lask, Barrister.</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by E. Montaguti and I. Martínez del Peral, acting as Agents, having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_13054">
+          <num>1</num>
+          <content eId="para_13054__content">
+            <p>This request for a preliminary ruling concerns the interpretation of the second subparagraph of Article 27(2) of Directive 2004/38/EC of the European Parliament and of the Council of 29 April 2004 on the right of citizens of the Union and their family members to move and reside freely within the territory of the Member States amending Regulation (EEC) No 1612/68 and repealing Directives 64/221/EEC, 68/360/EEC, 72/194/EEC, 73/148/EEC, 75/34/EEC, 75/35/EEC, 90/364/EEC, 90/365/EEC and 93/96/EEC ( OJ 2004 L 158, p. 77, and corrigendum OJ 2004 L 229, p. 35).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13055">
+          <num>2</num>
+          <content eId="para_13055__content">
+            <p>The request has been made in proceedings between E and the Subdelegación del Gobierno en Álava (Provincial Office of the Spanish Government in Álava, Spain), concerning a decision by the latter ordering the expulsion of E from the territory of the Kingdom of Spain, with a 10-year entry ban on grounds of public security.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>European Union law</p>
+        </tblock>
+        <paragraph eId="para_13056">
+          <num>3</num>
+          <content eId="para_13056__content">
+            <p>Article 27(1) and (2) of Directive 2004/38 provides: `1.   Subject to the provisions of this Chapter, Member States may restrict the freedom of movement and residence of Union citizens and their family members, irrespective of nationality, on grounds of public policy, public security or public health. These grounds shall not be invoked to serve economic ends. 2.   Measures taken on grounds of public policy or public security shall comply with the principle of proportionality and shall be based exclusively on the personal conduct of the individual concerned. Previous criminal convictions shall not in themselves constitute grounds for taking such measures. The personal conduct of the individual concerned must represent a genuine, present and sufficiently serious threat affecting one of the fundamental interests of society. Justifications that are isolated from the particulars of the case or that rely on considerations of general prevention shall not be accepted.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13057">
+          <num>4</num>
+          <content eId="para_13057__content">
+            <p>Article 28(3) of that directive is worded as follows: `An expulsion decision may not be taken against Union citizens, except if the decision is based on imperative grounds of public security, as defined by Member States, if they:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>have resided in the host Member State for the previous ten years; or</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>are a minor, except if the expulsion is necessary for the best interests of the child, as provided for in the United Nations Convention on the Rights of the Child of 20 November 1989.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13058">
+          <num>5</num>
+          <content eId="para_13058__content">
+            <p>Article 33(1) and (2) of that directive provides: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Expulsion orders may not be issued by the host Member State as a penalty or legal consequence of a custodial penalty, unless they conform to the requirements of Articles 27 ...</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>If an expulsion order, as provided for in paragraph 1, is enforced more than two years after it was issued, the Member State shall check that the individual concerned is currently and genuinely a threat to public policy or public security and shall assess whether there has been any material change in the circumstances since the expulsion order was issued.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Spanish law</p>
+        </tblock>
+        <paragraph eId="para_13059">
+          <num>6</num>
+          <content eId="para_13059__content">
+            <p>Article 10(1) of real decreto 240/2007, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo (Royal Decree No 240/2007 on the entry, free movement and residence in Spain of citizens of Member States of the European Union and of other States parties to the Agreement on the European Economic Area) of 16 February 2007 (BOE No 51 of 28 February 2007, p. 8558) ( `Royal Decree No 240/2007'), provides: `Citizens of a Member State of the European Union or of a State party to the Agreement on the European Economic Area and any family members who are not nationals of one of those States but have resided legally in Spain for a continuous period of five years shall have a right of permanent residence. That right shall not be subject to the conditions provided for in Chapter III of this Royal Decree. ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13060">
+          <num>7</num>
+          <content eId="para_13060__content">
+            <p>Article 15 of Royal Decree No 240/2007 states: `1.   Where necessary on grounds of public policy, public security or public health, any of the following measures may be adopted in respect of a citizen of a Member State of the European Union or of another State party to the Agreement on the European Economic Area, or in respect of his family members: ...</p>
+            <blockList>
+              <item>
+                <num>(c)</num>
+                <p>order of expulsion or return from Spanish territory. A decision to expel a citizen of a Member State of the European Union or of another State party to the Agreement on the European Economic Area, or any of his family members, irrespective of their nationality, who have acquired the right of permanent residence in Spain, may be adopted only on serious grounds of public policy or public security. Furthermore, before adopting such a decision, consideration must be given to the length of residence and social and cultural integration of the person concerned in Spain, his age, health status, family and economic situation, and the significance of his links with his country of origin. ... 4.   In cases in which an expulsion decision is to be enforced more than two years after it was issued, the competent authorities must ascertain and assess any changes in circumstances that may have occurred since the expulsion decision was adopted, and whether the threat public policy or public security represented by the person concerned is genuine. 5.   Adoption of any of the measures provided for in paragraphs 1 to 4 above shall meet the following criteria:</p>
+                <blockList>
+                  <item>
+                    <num>(a)</num>
+                    <p>it shall be adopted in accordance with the legislation governing public policy and public security and the regulatory provisions in force in that regard;</p>
+                  </item>
+                  <item>
+                    <num>(b)</num>
+                    <p>it may be revoked ex officio or at the request of the person concerned if the grounds on which it was adopted no longer exist;</p>
+                  </item>
+                  <item>
+                    <num>(c)</num>
+                    <p>it may not be adopted for economic purposes;</p>
+                  </item>
+                  <item>
+                    <num>(d)</num>
+                    <p>when it is adopted on grounds of public policy or public security, it must be based exclusively on the personal conduct of the person against whom it is directed, who must, in any case, represent a genuine, present and sufficiently serious threat affecting one of the fundamental interests of society, and who will be assessed, by the competent adjudicatory body, on the basis of such reports of the police, prosecution or judicial authorities as are contained in the case file. Previous criminal convictions shall not in themselves constitute grounds for taking such measures. ...'</p>
+                  </item>
+                </blockList>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the question referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_13061">
+          <num>8</num>
+          <content eId="para_13061__content">
+            <p>E is an Italian national. On 14 April 2003, he was registered as a European Union citizen residing in Spain.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13062">
+          <num>9</num>
+          <content eId="para_13062__content">
+            <p>On 13 November 2013, the Provincial Office of the Spanish Government in Álava adopted, on the basis of Article 15(1)(c) of Royal Decree No 240/2007, a decision ordering, for reasons of public security, the expulsion of E from the territory of the Kingdom of Spain ( `the expulsion decision'), with a 10-year entry ban, on the ground that E had been sentenced by three final judgments to 12 years' imprisonment for repeated offences of child abuse, which he served in a prison facility.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13063">
+          <num>10</num>
+          <content eId="para_13063__content">
+            <p>E lodged an appeal against that decision before the Juzgado de lo Contencioso-Administrativo No 3 de Vitoria-Gasteiz (Administrative Court No 3, Vitoria-Gasteiz, Spain). On 12 September 2014, that court dismissed that appeal, holding that the expulsion decision was duly reasoned, taking into account, in particular, the psychologist's report drawn up by the prison authorities and the family and economic situation of the person concerned in the host Member State.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13064">
+          <num>11</num>
+          <content eId="para_13064__content">
+            <p>E appealed against that decision before the referring court. He, in particular, claimed that he had been in prison for six years for child sexual abuse offences. According to him, as a result of those circumstances, he could not be considered to represent a genuine and present threat to a fundamental interest of society at the time the expulsion decision was adopted.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13065">
+          <num>12</num>
+          <content eId="para_13065__content">
+            <p>The referring court considers that E's conduct is sufficiently serious to be classified as a `threat to public security'. However, it doubts whether E represents a genuine and present threat to the extent that he is imprisoned and still has a long sentence to serve.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13066">
+          <num>13</num>
+          <content eId="para_13066__content">
+            <p>Therefore, the referring court questions whether the expulsion decision is compatible with Article 27(1) and (2) of Directive 2004/38.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13067">
+          <num>14</num>
+          <content eId="para_13067__content">
+            <p>In those circumstances, the Tribunal Superior de Justicia del País Vasco (High Court of Justice of the Basque Country) decided to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling: `In accordance with Article 27(1) and (2) of Directive 2004/38/EC, does E, sentenced to 12 years' imprisonment for repeated offences of child abuse, represent a genuine and present threat to public security, bearing in mind that he is detained in prison and, having served six years, has several years left to serve before being released?'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the question referred</p>
+        </tblock>
+        <paragraph eId="para_13068">
+          <num>15</num>
+          <content eId="para_13068__content">
+            <p>By its question, the referring court asks, in essence, whether the second subparagraph of Article 27(2) of Directive 2004/38 must be interpreted as meaning that the fact that a person is imprisoned at the time the expulsion decision was adopted without the prospect of being released in the near future, excludes that his conduct represents, as the case may be, a present and genuine threat for a fundamental interest of the society of the host Member State.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13069">
+          <num>16</num>
+          <content eId="para_13069__content">
+            <p>First of all, it must be pointed out that the right of Union citizens and their family members to reside in the European Union is not unconditional but may be subject to the limitations and conditions imposed by the Treaty and by the measures adopted to give it effect (see, inter alia, judgment of 10 July 2008, Jipa, C‑33/07, EU:C:2008:396, paragraph 21, and of 13 September 2016, Rendón Marín, C‑165/14, EU:C:2016:675, paragraph 55).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13070">
+          <num>17</num>
+          <content eId="para_13070__content">
+            <p>In that regard, the limitations on the right of residence derive in particular from Article 27(1) of Directive 2004/38, which provides that Member States may restrict the right of residence of Union citizens and their family members, irrespective of nationality, on grounds, in particular, of public policy or public security (see judgments of 10 July 2008, Jipa, C‑33/07, EU:C:2008:396, paragraph 22, and of 13 September 2016, Rendón Marín, C‑165/14, EU:C:2016:675, paragraph 57).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13071">
+          <num>18</num>
+          <content eId="para_13071__content">
+            <p>It is settled case-law that the public policy exception constitutes a derogation from the right of residence of Union citizens and their family members, which must be interpreted strictly and the scope of which cannot be determined unilaterally by the Member States (see, to that effect, judgments of 4 December 1974, van Duyn, 41/74, EU:C:1974:133, paragraph 18; of 27 October 1977, Bouchereau, 30/77, EU:C:1977:172, paragraph 33; of 29 April 2004, Orfanopoulos and Oliveri, C‑482/01 and C‑493/01, EU:C:2004:262, paragraph 65; and of 13 September 2016, Rendón Marín, C‑165/14, EU:C:2016:675, paragraph 58).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13072">
+          <num>19</num>
+          <content eId="para_13072__content">
+            <p>As is apparent from the first subparagraph of Article 27(2) of Directive 2004/38, in order to be justified, measures restricting the right of residence of a Union citizen or a member of his family, including measures taken on grounds of public policy, must comply with the principle of proportionality and be based exclusively on the personal conduct of the individual concerned (judgment of 13 September 2016, Rendón Marín, C‑165/14, EU:C:2016:675, paragraph 59).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13073">
+          <num>20</num>
+          <content eId="para_13073__content">
+            <p>In that regard, it must be noted that, in accordance with Article 83(1) TFEU, the sexual exploitation of children is one of the areas of particularly serious crime with a cross-border dimension in which the European Union legislature may intervene. Therefore, it is open to the Member States to regard criminal offences such as those referred to in the second subparagraph of Article 83(1) TFEU as constituting a particularly serious threat to one of the fundamental interests of society, which might pose a direct threat to the calm and physical security of the population and thus is capable of being covered by the concept of `imperative grounds of public security', capable of justifying an expulsion order under Article 28(3) of Directive 2004/38, as long as the manner in which such offences were committed discloses particularly serious characteristics, which is a matter for the referring court to determine on the basis of an individual examination of the specific case before it (see, to that effect, judgment of 22 May 2012, I, C‑348/09, EU:C:2012:300, paragraph 33).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13074">
+          <num>21</num>
+          <content eId="para_13074__content">
+            <p>However, should the referring court find that, according to the particular values of the legal order of the Member State in which it has jurisdiction, offences such as those committed by E pose such a threat, that should not necessarily lead to the expulsion of the person concerned (see, by analogy, judgment of 22 May 2012, I, C‑348/09, EU:C:2012:300, paragraph 29).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13075">
+          <num>22</num>
+          <content eId="para_13075__content">
+            <p>It follows from the wording of Article 27(2) of Directive 2004/38 that the measures taken on grounds of public policy or public security must be based exclusively on the personal conduct of the individual concerned.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13076">
+          <num>23</num>
+          <content eId="para_13076__content">
+            <p>Moreover, under the second subparagraph of Article 27(2) of that directive, the issue of any expulsion measure is conditional on the requirement that such conduct must represent a genuine, present threat affecting one of the fundamental interests of society or of the host Member State, which implies, in general, the existence in the individual concerned of a propensity to act in the same way in the future (judgment of 22 May 2012, I, C‑348/09, EU:C:2012:300, paragraph 30).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13077">
+          <num>24</num>
+          <content eId="para_13077__content">
+            <p>The fact that the person concerned is imprisoned at the time the expulsion decision is adopted, without that person having a prospect of being released for several years, cannot be regarded as relating to the personal conduct of the person concerned.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13078">
+          <num>25</num>
+          <content eId="para_13078__content">
+            <p>Moreover, it should be noted that Article 33(1) of Directive 2004/38 provides for the possibility, for the host Member State, to adopt, in conformity, inter alia, with the requirements of Article 27 of that directive, an expulsion order as a consequence of a custodial sentence. The Union legislator therefore provided for the possibility for Member States to adopt an expulsion order concerning a person sentenced to a custodial sentence, if it is established that his conduct represents a genuine, present threat affecting one of the fundamental interests of the society of that Member State.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13079">
+          <num>26</num>
+          <content eId="para_13079__content">
+            <p>It must also be noted that the Court has already had to deal with questions on the interpretation of Directive 2004/38, referred in cases concerning a person who has been sentenced to imprisonment and which required an examination of the conditions in which the conduct of such a person could be regarded as justifying the adoption of an expulsion order in relation to him (see judgments of 23 November 2010, Tsakouridis, C‑145/09, EU:C:2010:708, and of 22 May 2012, I, C‑348/09, EU:C:2012:300).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13080">
+          <num>27</num>
+          <content eId="para_13080__content">
+            <p>In the light of all the above considerations, the answer to the question referred is that the second subparagraph of Article 27(2) of Directive 2004/38 must be interpreted as meaning that the fact that a person is imprisoned at the time the expulsion decision was adopted, without the prospect of being released in the near future, does not exclude that his conduct represents, as the case may be, a present and genuine threat for a fundamental interest of the society of the host Member State.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_13081">
+          <num>28</num>
+          <content eId="para_13081__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Third Chamber) hereby rules: The second subparagraph of Article 27(2) of Directive 2004/38/EC of the European Parliament and of the Council of 29 April 2004 on the right of citizens of the Union and their family members to move and reside freely within the territory of the Member States amending Regulation (EEC) No 1612/68 and repealing Directives 64/221/EEC, 68/360/EEC, 72/194/EEC, 73/148/EEC, 75/34/EEC, 75/35/EEC, 90/364/EEC, 90/365/EEC and 93/96/EEC, must be interpreted as meaning that the fact that a person is imprisoned at the time the expulsion decision was adopted, without the prospect of being released in the near future, does not exclude that his conduct represents, as the case may be, a present and genuine threat for a fundamental interest of the society of the host Member State.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Spanish.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

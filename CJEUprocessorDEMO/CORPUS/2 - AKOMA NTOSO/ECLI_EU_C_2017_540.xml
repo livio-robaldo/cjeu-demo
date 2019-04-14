@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Fifth Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>13 July 2017 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Appeal -- Right of access to documents held by European Union institutions -- Regulation (EC) No 1049/2001 -- Exceptions to the right of access -- Article 4(3), first subparagraph -- Protection of the decision-making process of those institutions -- Environment -- Aarhus Convention -- Regulation (EC) No 1367/2006 -- Article 6(1) -- Public interest in the disclosure of environmental information -- Information communicated by the German authorities to the European Commission pertaining to installations situated on German territory and concerned by the Union legislation on the scheme for greenhouse gas emission allowance trading -- Partial refusal of access) In Case C‑60/15 P, APPEAL under Article 56 of the Statute of the Court of Justice of the European Union, brought on 11 February 2015, Saint-Gobain Glass Deutschland GmbH, established in Stolberg (Germany), represented by S. Altenschmidt and P.-A. Schütter, Rechtsanwälte, appellant, the other party to the proceedings being: European Commission, represented by M.H. Krämer and by F. Clotuche-Duvieusart and P. Mihaylova, acting as Agents, with an address for service in Luxembourg, defendant at first instance, THE COURT (Fifth Chamber), composed of J.L. da Cruz Vilaça, President of the Chamber, A. Tizzano (Rapporteur), Vice-President of the Court, A. Borg Barthet, E. Levits and F. Biltgen, Judges, Advocate General: M. Szpunar, Registrar: M. Aleksejev, Administrator, having regard to the written procedure and further to the hearing on 6 July 2016, after hearing the Opinion of the Advocate General at the sitting on 19 October 2016,</p>
+      <p>gives the following</p>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_12908">
+          <num>1</num>
+          <content eId="para_12908__content">
+            <p>By its appeal, Saint-Gobain Glass Deutschland GmbH ( `Saint-Gobain') asks the Court to set aside the judgment of the General Court of the European Union of 11 December 2014, Saint-Gobain Glass Deutschland v Commission ( T‑476/12, not published, EU:T:2014:1059) ( `the judgment under appeal'), by which that court dismissed its action for annulment of the Commission's decision of 17 January 2013 refusing full access to the list communicated by the Federal Republic of Germany to the Commission under the procedure provided for in Article 15(1) of Commission Decision 2011/278/EU of 27 April 2011 determining transitional Union-wide rules for harmonised free allocation of emission allowances pursuant to Article 10a of Directive 2003/87/EC of the European Parliament and of the Council ( OJ 2011 L 130, p. 1), to the extent that that document contains information relating to certain installations of Saint-Gobain, situated on German territory, relating to provisional allocations and activities and capacity levels in relation to carbon dioxide (CO</p>
+            <blockList>
+              <item>
+                <num>2)</num>
+                <p>emissions between 2005 and 2010, the efficiency of the installations and the annual emission quotas provisionally allocated for the period between 2013 and 2020 ( `the contested decision').</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>International law</p>
+        </tblock>
+        <paragraph eId="para_12909">
+          <num>2</num>
+          <content eId="para_12909__content">
+            <p>Article 4 of the Convention on access to information, public participation in decision-making and access to justice in environmental matters, signed at Aarhus on 25 June 1998 and approved on behalf of the European Community by Council Decision 2005/370/EC of 17 February 2005 ( OJ 2005 L 124, p. 1) ( `the Aarhus Convention'), is worded as follows: `1.   Each party shall ensure that, subject to the following paragraphs of this Article, public authorities, in response to a request for environmental information, make such information available to the public, within the framework of national legislation ...</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>without an interest having to be stated; ... 4.   A request for environmental information may be refused if the disclosure would adversely affect:</p>
+              </item>
+              <item>
+                <num>(a)</num>
+                <p>the confidentiality of the proceedings of public authorities, where such confidentiality is provided for under national law; ... The aforementioned grounds for refusal shall be interpreted in a restrictive way, taking into account the public interest served by disclosure and taking into account whether the information requested relates to emissions into the environment. ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>European Union law</p>
+        </tblock>
+        <paragraph eId="para_12910">
+          <num>3</num>
+          <content eId="para_12910__content">
+            <p>Recitals 1, 2, 4, 6 and 11 of Regulation (EC) No 1049/2001 of the European Parliament and of the Council of 30 May 2001 regarding public access to European Parliament, Council and Commission documents ( OJ 2001 L 145, p. 43), read as follows: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>The second subparagraph of Article 1 of the Treaty on European Union enshrines the concept of openness, stating that the Treaty marks a new stage in the process of creating an ever closer union among the peoples of Europe, in which decisions are taken as openly as possible and as closely as possible to the citizen.</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>Openness enables citizens to participate more closely in the decision-making process and guarantees that the administration enjoys greater legitimacy and is more effective and more accountable to the citizen in a democratic system. Openness contributes to strengthening the principles of democracy and respect for fundamental rights as laid down in Article 6 of the EU Treaty and in the Charter of Fundamental Rights of the European Union. ...</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(4)</num>
+                <p>The purpose of this Regulation is to give the fullest possible effect to the right of public access to documents and to lay down the general principles and limits on such access in accordance with Article 255(2) of the EC Treaty. ...</p>
+              </item>
+              <item>
+                <num>(6)</num>
+                <p>Wider access should be granted to documents in cases where the institutions are acting in their legislative capacity, including under delegated powers, while at the same time preserving the effectiveness of the institutions' decision-making process. Such documents should be made directly accessible to the greatest possible extent. ...</p>
+              </item>
+              <item>
+                <num>(11)</num>
+                <p>In principle, all documents of the institutions should be accessible to the public. However, certain public and private interests should be protected by way of exceptions. The institutions should be entitled to protect their internal consultations and deliberations where necessary to safeguard their ability to carry out their tasks. In assessing the exceptions, the institutions should take account of the principles in Community legislation concerning the protection of personal data, in all areas of Union activities.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12911">
+          <num>4</num>
+          <content eId="para_12911__content">
+            <p>Article 1 of that directive, entitled `Purpose', provides: `The purpose of this Regulation is:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>to define the principles, conditions and limits on grounds of public or private interest governing the right of access to European Parliament, Council and Commission (hereinafter referred to as ``the institutions '') documents provided for in Article 255 of the EC Treaty in such a way as to ensure the widest possible access to documents,</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>to establish rules ensuring the easiest possible exercise of this right, and</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>to promote good administrative practice on access to documents.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12912">
+          <num>5</num>
+          <content eId="para_12912__content">
+            <p>Article 2 of that regulation, entitled `Beneficiaries and scope', provides in paragraph 3: `This Regulation shall apply to all documents held by an institution, that is to say, documents drawn up or received by it and in its possession, in all areas of activity of the European Union.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12913">
+          <num>6</num>
+          <content eId="para_12913__content">
+            <p>Article 4 of that same regulation, entitled `Exceptions', states: ` ... 2.   The institutions shall refuse access to a document where disclosure would undermine the protection of:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>commercial interests of a natural or legal person, including intellectual property,</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>...</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>the purpose of inspections, investigations and audits, unless there is an overriding public interest in disclosure. 3.   Access to a document, drawn up by an institution for internal use or received by an institution, which relates to a matter where the decision has not been taken by the institution, shall be refused if disclosure of the document would seriously undermine the institution's decision-making process, unless there is an overriding public interest in disclosure. ... 5.   A Member State may request the institution not to disclose a document originating from that Member State without its prior agreement. ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12914">
+          <num>7</num>
+          <content eId="para_12914__content">
+            <p>Article 4(2) of Directive 2003/4/EC of the European Parliament and of the Council of 28 January 2003 on public access to environmental information and repealing Council Directive 90/313/EEC ( OJ 2003 L 41, p. 26) provides: `Member States may provide for a request for environmental information to be refused if disclosure of the information would adversely affect:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>the confidentiality of the proceedings of public authorities, where such confidentiality is provided for by law; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12915">
+          <num>8</num>
+          <content eId="para_12915__content">
+            <p>Recital 2 in the preamble to Regulation (EC) No 1367/2006 of the European Parliament and of the Council of 6 September 2006 on the application of the provisions of the Aarhus Convention on Access to Information, Public Participation in Decision-making and Access to Justice in Environmental Matters to Community institutions and bodies ( OJ 2006 L 264, p. 13) is worded as follows: `The Sixth Community Environment Action Programme ... stresses the importance of providing adequate environmental information and effective opportunities for public participation in environmental decision-making, thereby increasing accountability and transparency of decision-making and contributing to public awareness and support for the decisions taken. It furthermore encourages, as did its predecessors ..., more effective implementation and application of Community legislation on environmental protection, including the enforcement of Community rules and the taking of action against breaches of Community environmental legislation.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12916">
+          <num>9</num>
+          <content eId="para_12916__content">
+            <p>Article 1 of that regulation provides: `1.   The objective of this Regulation is to contribute to the implementation of the obligations arising under the [Aarhus Convention] by laying down rules to apply the provisions of the Convention to Community institutions and bodies, in particular by</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>guaranteeing the right of public access to environmental information received or produced by Community institutions or bodies and held by them, and by setting out the basic terms and conditions of, and practical arrangements for, the exercise of that right;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>ensuring that environmental information is progressively made available and disseminated to the public in order to achieve its widest possible systematic availability and dissemination. To that end, the use, in particular, of computer telecommunication and/or electronic technology, where available, shall be promoted;</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>providing for public participation concerning plans and programmes relating to the environment;</p>
+              </item>
+              <item>
+                <num>(d)</num>
+                <p>granting access to justice in environmental matters at Community level under the conditions laid down by this Regulation. 2.   In applying the provisions of this Regulation, the Community institutions and bodies shall endeavour to assist and provide guidance to the public with regard to access to information, participation in decision-making and access to justice in environmental matters.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12917">
+          <num>10</num>
+          <content eId="para_12917__content">
+            <p>Article 2(1) of that regulation provides: `For the purposes of this Regulation: ...</p>
+            <blockList>
+              <item>
+                <num>(d)</num>
+                <p>``environmental information '' means any information in written, visual, aural, electronic or any other material form on: ...</p>
+              </item>
+              <item>
+                <num>(iii)</num>
+                <p>measures (including administrative measures), such as policies, legislation, plans, programmes, environmental agreements, and activities affecting or likely to affect the elements and factors referred to in points (i) and (ii) as well as measures or activities designed to protect those elements; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12918">
+          <num>11</num>
+          <content eId="para_12918__content">
+            <p>The first paragraph of Article 3 of that regulation is worded as follows: `Regulation (EC) No 1049/2001 shall apply to any request by an applicant for access to environmental information held by Community institutions and bodies without discrimination as to citizenship, nationality or domicile and, in the case of a legal person, without discrimination as to where it has its registered seat or an effective centre of its activities.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12919">
+          <num>12</num>
+          <content eId="para_12919__content">
+            <p>Article 6 of Regulation No 1367/2006, entitled `Application of exceptions concerning requests for access to environmental information', provides, in paragraph 1: `As regards Article 4(2), first and third indents, of Regulation (EC) No 1049/2001, with the exception of investigations, in particular those concerning possible infringements of Community law, an overriding public interest in disclosure shall be deemed to exist where the information requested relates to emissions into the environment. As regards the other exceptions set out in Article 4 of Regulation (EC) No 1049/2001, the grounds for refusal shall be interpreted in a restrictive way, taking into account the public interest served by disclosure and whether the information requested relates to emissions into the environment.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12920">
+          <num>13</num>
+          <content eId="para_12920__content">
+            <p>According to Article 15(1) of Decision 2011/278: `In accordance with Article 11(1) of Directive 2003/87/EC, Member States shall submit to the Commission by 30 September 2011 a list of installations covered by Directive 2003/87/EC in their territory, including installations identified pursuant to Article 5, using an electronic template provided by the Commission.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Background to the dispute</p>
+        </tblock>
+        <paragraph eId="para_12921">
+          <num>14</num>
+          <content eId="para_12921__content">
+            <p>Saint-Gobain is a company involved in the world glass market and operates installations coming within the scope of Directive 2003/87/EC of the European Parliament and of the Council of 13 October 2003 establishing a scheme for greenhouse gas emission allowance trading within the Community and amending Council Directive 96/61/EC ( OJ 2003 L 275, p. 32).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12922">
+          <num>15</num>
+          <content eId="para_12922__content">
+            <p>On the basis of Decision 2011/278, Saint-Gobain applied to the competent German authorities for the free allocation of emission allowances for the third period provided for under the emission allowances trading scheme established by that directive, for the period between 2013 and 2020.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12923">
+          <num>16</num>
+          <content eId="para_12923__content">
+            <p>That decision provides, in essence, that Member States are to calculate the provisional number of free emission allowances allocated from 2013 onwards to each incumbent installation on their territory on the basis of the reference values calculated by the European Commission. That decision provides, in particular, in Article 15(1) that the results of those calculations are to be entered in the list of installations covered by Directive 2003/87 in the territory of each Member State, which is sent to the Commission by each State for verification.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12924">
+          <num>17</num>
+          <content eId="para_12924__content">
+            <p>By letter of 3 July 2012, on the basis of Regulation No 1049/2001 and Regulation No 1367/2006, Saint-Gobain submitted a request to the Commission for access to the Excel table, communicated by the Federal Republic of Germany to the Commission under the procedure provided for in Article 15(1). That table contains information relating to certain installations of Saint-Gobain situated on German territory. In particular, Saint-Gobain requested access to information relating to `initial installed capacities', communicated for each sub-installation, and the annual provisional number of free emission allowances allocated to each of those sub-installations for the period between 2013 and 2020.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12925">
+          <num>18</num>
+          <content eId="para_12925__content">
+            <p>By letter of 23 July 2012, the Commission's Directorate-General for Climate Action refused Saint-Gobain's request on the basis of the first subparagraph of Article 4(3) of Regulation No 1049/2001.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12926">
+          <num>19</num>
+          <content eId="para_12926__content">
+            <p>The German authorities subsequently made public the list installations concerned and the annual emission quotas provisionally allocated, by installation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12927">
+          <num>20</num>
+          <content eId="para_12927__content">
+            <p>On 7 August 2012, Saint-Gobain submitted a confirmatory application for access to the documents pursuant to Regulation No 1049/2001.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12928">
+          <num>21</num>
+          <content eId="para_12928__content">
+            <p>By letter of 4 September 2012, the Commission extended the time limit for reply by 15 working days, until 25 September 2012.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12929">
+          <num>22</num>
+          <content eId="para_12929__content">
+            <p>However, by letter of 25 September 2012, the Commission informed Saint-Gobain that it would not be able to provide it with a definitive decision within the time limit fixed, as the German authorities, which had been consulted in their capacity as the originators of the information requested, had not yet provided any response.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12930">
+          <num>23</num>
+          <content eId="para_12930__content">
+            <p>On 28 September 2012, Saint-Gobain requested the Commission to rule on its confirmatory application before 15 October 2012.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12931">
+          <num>24</num>
+          <content eId="para_12931__content">
+            <p>On 17 January 2013, the Commission, by the contested decision, granted partial access to the information requested, comprising the information made public by the German authorities and the non-essential information in the Excel table, whilst refusing access to the rest of the information.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12932">
+          <num>25</num>
+          <content eId="para_12932__content">
+            <p>The Commission based its decision refusing access on the first subparagraph of Article 4(3) of Regulation No 1049/2001, as it took the view that full disclosure of the requested information would seriously undermine its decision-making process, which was still in progress and related to a large number of installations in a number of Member States. According to the Commission, full communication of that information would permit the public, and in particular the undertakings concerned, to raise questions or make criticisms in respect of the information communicated by the Member States, which would be likely to interfere in the decision-making process. Those interferences would, in turn, be likely seriously to delay the decision-making process and to prejudice the dialogue between the Commission and the Member States.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12933">
+          <num>26</num>
+          <content eId="para_12933__content">
+            <p>As the information requested was produced by the Federal Republic of Germany, the Commission, on the basis of Article 4(5) of Regulation No 1049/2001, consulted the Federal Republic of Germany, which objected to its being disclosed. Like the Commission, the Federal Republic of Germany based its objection on the exception set out in the first subparagraph of Article 4(3) of that regulation. In particular, it stated that the Commission had not yet adopted a decision on that information and that such a decision was strongly expected within the time limits granted. The Commission submitted that these grounds were prima facie relevant.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12934">
+          <num>27</num>
+          <content eId="para_12934__content">
+            <p>In the contested decision, the Commission found, first of all, that there was no overriding public interest within the meaning of the first subparagraph of Article 4(3) of Regulation No 1049/2001 justifying the disclosure of the requested information, whilst stating that the interests invoked by Saint-Gobain in its request were purely private in nature. In the circumstances, the priority interests were to ensure that decisions were taken without any external interference and to preserve the climate of trust between the Commission and the German authorities. Furthermore, the Commission noted that a substantial proportion of the requested information had already been made public by the German authorities and stated that the public therefore had access to the main elements of the proposed harmonised free allocation of emission allowances.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12935">
+          <num>28</num>
+          <content eId="para_12935__content">
+            <p>Lastly, in that decision, the Commission stated that, even assuming that the information requested by Saint-Gobain constituted environmental information, unlike the exceptions provided for in the first indents of Article 4(2) of Regulation No 1049/2001, Article 6 of Regulation No 1367/2006 did not contain any provision under which the application of the exception laid down in the first subparagraph of Article 4(3) of Regulation No 1049/2001 could be excluded.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The procedure before the General Court and the judgment under appeal</p>
+        </tblock>
+        <paragraph eId="para_12936">
+          <num>29</num>
+          <content eId="para_12936__content">
+            <p>On 31 October 2012, Saint-Gobain brought an action for annulment of the Commission's implicit decisions of 4 and 25 September 2012. Following the adoption of the contested decision on 17 January 2013, Saint-Gobain requested permission to modify its form of order sought. After allowing that request, the General Court considered that the action henceforth covered only annulment of the latter decision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12937">
+          <num>30</num>
+          <content eId="para_12937__content">
+            <p>By the judgment under appeal, the General Court rejected the two pleas in law put forward by Saint-Gobain and dismissed the action.</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>Forms of order sought by the parties</p>
+        </tblock>
+        <paragraph eId="para_12938">
+          <num>31</num>
+          <content eId="para_12938__content">
+            <p>Saint-Gobain claims that the Court should:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>set aside the judgment under appeal and annul the contested decision;</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>in the alternative, set aside the judgment under appeal and refer the case back to the General Court;</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>order the Commission to pay the costs.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12939">
+          <num>32</num>
+          <content eId="para_12939__content">
+            <p>The Commission contends that the appeal should be dismissed and Saint-Gobain ordered to pay the costs.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The appeal</p>
+        </tblock>
+        <paragraph eId="para_12940">
+          <num>33</num>
+          <content eId="para_12940__content">
+            <p>In support of its appeal, Saint-Gobain puts forward, in essence, two grounds of appeal. The first ground, divided into two parts, is based on an incorrect interpretation of the first subparagraph of Article 4(3) of Regulation No 1049/2001, read in conjunction with the second sentence of Article 6(1) of Regulation No 1367/2006, in that the General Court, first, made an extensive interpretation of those provisions and, second, did not hold that, in the case before it, there was an overriding public interest justifying disclosure of the environmental information requested. The second ground of appeal alleges misapplication of Article 4(5) of Regulation No 1049/2001.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Arguments of the parties</p>
+        </tblock>
+        <paragraph eId="para_12941">
+          <num>34</num>
+          <content eId="para_12941__content">
+            <p>By the first part of the first ground of appeal, Saint-Gobain submits that the General Court erred in law in disregarding the requirements under Regulation No 1367/2006, in particular the second sentence of Article 6(1) regarding the need for a `strict' interpretation of the exceptions laid down in Article 4 of Regulation No 1049/2001 -- in particular the exception in the first subparagraph of Article 4(3) thereof, aimed at safeguarding the institutions' decision-making process -- in order to refuse access to environmental information.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12942">
+          <num>35</num>
+          <content eId="para_12942__content">
+            <p>After observing that the General Court found that the information to which access was requested in the present case is `environmental information' within the meaning of Article 2(1)(d) of Regulation No 1367/2006, Saint-Gobain states that, where such information is present, the EU institutions are required to comply with the provisions of that regulation, which is aimed at applying the Aarhus Convention, which in turn forms an integral part of the legal order of the European Union and which the General Court ought to have taken into account, to those institutions.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12943">
+          <num>36</num>
+          <content eId="para_12943__content">
+            <p>The Aarhus Convention does not contain any general provision comparable to Article 4(3) of Regulation No 1049/2001, providing that access to environmental information is to be refused where disclosure thereof would seriously undermine the decision-making process of the public authorities concerned. On the contrary, under Article 4(4)(a) of that convention, in a situation such as the one at issue here, a request for access to environmental information may be refused only where disclosure of that information would adversely affect the confidentiality of `proceedings of public authorities', where such confidentiality is provided for under national law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12944">
+          <num>37</num>
+          <content eId="para_12944__content">
+            <p>Such a ground of refusal is, moreover, identical to that provided for in Article 4(2)(a) of Directive 2003/4, the objective of which is to apply the Aarhus Convention in the legal orders of the Member States.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12945">
+          <num>38</num>
+          <content eId="para_12945__content">
+            <p>In the light of both Regulation No 1049/2001 and that directive, and also German case-law at national level, the ground for refusal at issue here must be construed as covering only those internal proceedings involving decision-making and not factors preceding those proceedings, such as data on which they are based.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12946">
+          <num>39</num>
+          <content eId="para_12946__content">
+            <p>The General Court, however, made an extensive interpretation of the exception laid down in Article 4(3) of that regulation, holding that the refusal of access to the information requested is justified in the present case in order to avoid external influences that might interfere with the normal conduct of the decision-making process in progress, in particular by causing significant delays in the verification process for the information communicated to the Commission in the procedure in question and by giving rise to friction with the Member States which communicated that information, which would be likely to prejudice the dialogue between the Commission and those Member States.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12947">
+          <num>40</num>
+          <content eId="para_12947__content">
+            <p>Saint-Gobain further submits that the mere possibility that disclosure of environmental information, such as that at issue in the present case, draws criticism cannot justify its being categorised as confidential, given that such public criticism, which comes about as a result of the transparency of administrative procedures, is the intended consequence of the rules in question. That criticism serves precisely the objectives pursued by those rules, in particular better decision-making in environmental matters on the basis of information put to public scrutiny. Saint-Gobain adds that neither Regulation No 1367/2006 nor Directive 2003/4 sets out grounds for refusal of access relating to safeguarding relations between the Commission and the Member States.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12948">
+          <num>41</num>
+          <content eId="para_12948__content">
+            <p>Lastly, Saint-Gobain submits that, in paragraphs 80 to 82 and 87 of the judgment under appeal, the General Court incorrectly based itself on a number of occasions on the Court of Justice's case-law on Regulation No 1049/2001 not relating to environmental information in the context of a Commission administrative procedure in progress.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12949">
+          <num>42</num>
+          <content eId="para_12949__content">
+            <p>The Commission replies by submitting at the outset that the first ground of appeal is inadmissible. First of all, as that ground of appeal must be construed as calling into question the lawfulness of Regulation No 1367/2006 in the light of the provisions of the Aarhus Convention, it modifies the subject matter of the dispute as it was before the General Court. Next, in so far as the first ground of appeal could be construed as criticising the General Court for having disregarded the requirement to interpret the exception provided for in the first subparagraph of Article 4(3) of Regulation No 1049/2001 in the light of the concept of the expression `proceedings of public authorities' set out in Article 4(4)(a) of the Aarhus Convention, it is based on an argument which was not put forward or debated before the General Court. Lastly, the first ground of appeal does not identify precisely which paragraphs of the reasons in the judgment under appeal are being challenged.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12950">
+          <num>43</num>
+          <content eId="para_12950__content">
+            <p>In any event, in the Commission's submission, the first ground of appeal is unfounded. Firstly, the wording of both Article 4(4)(a) of the Aarhus Convention and Article 4(2)(a) of Directive 2003/4 refer not to `internal proceedings' but simply `proceedings' of public authorities. Moreover, given that, like the Union, all Member States are party to the Aarhus Convention, it may be presumed that the EU legislature did not intend that Directive 2003/4 should place substantively different obligations on Member States than those imposed on EU bodies by Regulations Nos 1049/2001 and 1367/2006.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12951">
+          <num>44</num>
+          <content eId="para_12951__content">
+            <p>Secondly, an interpretation of the concept of `proceedings' to the effect that it covers only operations internal to a public authority is only one of the possible interpretations of that concept, according to the indications found in the Aarhus Convention Implementation Guide, which the Court of Justice may take into consideration in interpreting the first subparagraph of Article 4(3) of Regulation No 1049/2001.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12952">
+          <num>45</num>
+          <content eId="para_12952__content">
+            <p>Thirdly, just like the first subparagraph of Article 4(3) of Regulation 1049/2001, the criterion used in Article 4(4)(a) of the Aarhus Convention is not the content of the document, but rather the `adverse effect' of disclosure of that content. Consequently, even if a document does not divulge a public authority's internal proceedings but only the factors that served as a basis for the adoption of its decision, access to that document could be refused under the latter provision.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Findings of the Court</p>
+        </tblock>
+        <tblock>
+          <p>Admissibility</p>
+        </tblock>
+        <paragraph eId="para_12953">
+          <num>46</num>
+          <content eId="para_12953__content">
+            <p>The Commission disputes, first of all, the admissibility of the first ground of appeal should it be construed as challenging the validity of Regulation No 1367/2006 in the light of the provisions of the Aarhus Convention.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12954">
+          <num>47</num>
+          <content eId="para_12954__content">
+            <p>However, as Saint-Gobain specifically stated in its reply that, by the ground of appeal in question, it was not challenging in any way the validity of that regulation and the Commission noted that point in its rejoinder, there is no longer any need to rule on this argument put forward by the Commission.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12955">
+          <num>48</num>
+          <content eId="para_12955__content">
+            <p>Next, the Commission submits, in essence, that the first ground of appeal is inadmissible as it is based on a submission that was not relied on or argued before the General Court.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12956">
+          <num>49</num>
+          <content eId="para_12956__content">
+            <p>In that regard, it should be borne in mind that under Article 170(1) of the Rules of Procedure of the Court of Justice, the subject matter of the proceedings before the General Court may not be changed in the appeal.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12957">
+          <num>50</num>
+          <content eId="para_12957__content">
+            <p>According to settled case-law, the jurisdiction of the Court of Justice in an appeal is limited to a review of the findings of law on the pleas argued before the General Court. Consequently, a party cannot put forward for the first time before the Court of Justice a plea in law which it has not raised before the General Court since that would allow that party to bring before the Court of Justice, whose jurisdiction in appeal proceedings is limited, a wider case than that heard by the General Court (order of the President of the Court of Justice of 7 July 2016, Fapricela v Commission, C‑510/15 P, not published, EU:C:2016:547, paragraph 20 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12958">
+          <num>51</num>
+          <content eId="para_12958__content">
+            <p>However, an argument which was not raised at first instance does not constitute a new plea that is inadmissible at the appeal stage if it is simply an amplification of an argument already developed in the context of a plea set out in the application before the General Court (judgment of 10 April 2014, Areva and Others v Commission, C‑247/11 P and C‑253/11 P, EU:C:2014:257, paragraph 114 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12959">
+          <num>52</num>
+          <content eId="para_12959__content">
+            <p>In the present case, as observed by the Advocate General in point 31 of his Opinion, before the General Court Saint-Gobain alleged infringement of the first subparagraph of Article 4(3) of Regulation No 1049/2001, read in conjunction with Article 6(1) of Regulation No 1367/2006, arguing that the grounds given for refusing access must be interpreted strictly. To that end, Saint-Gobain referred specifically to the purpose of the latter regulation, namely, to implement the Aarhus Convention.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12960">
+          <num>53</num>
+          <content eId="para_12960__content">
+            <p>Moreover, by the first part of the first ground of appeal, Saint-Gobain criticises the General Court for having erred in law in holding that the exception laid down in the first subparagraph of Article 4(3) of Regulation No 1049/2001 applies both to documents drawn up as part of the decision-making process and to documents directly relating to the matters dealt with in that process. Saint-Gobain submits that that interpretation is contrary to the second sentence of Article 6(1) of Regulation No 1367/2006, read in the light of the Aarhus Convention, which the latter regulation is aimed at implementing, in particular Article 4(4)(a) thereof.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12961">
+          <num>54</num>
+          <content eId="para_12961__content">
+            <p>It is true that, in its application at first instance, Saint-Gobain did not refer specifically to Article 4(4)(a) of the Aarhus Convention. It nevertheless held that the Commission's interpretation of the first subparagraph of Article 4(3) of Regulation No 1049/2001 did not comply with Article 6(1) of Regulation No 1367/2006.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12962">
+          <num>55</num>
+          <content eId="para_12962__content">
+            <p>Thus, given that the first part of the first ground of appeal alleges infringement of the first subparagraph of Article 4(3) of Regulation No 1049/2001, Saint-Gobain's argument is merely the expansion of an argument already put forward as part of a plea in law set out in its application at first instance and accordingly cannot be held to be inadmissible.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12963">
+          <num>56</num>
+          <content eId="para_12963__content">
+            <p>Lastly, the Commission submits that the appeal fails to identify specifically which paragraphs of the judgment under appeal are being challenged.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12964">
+          <num>57</num>
+          <content eId="para_12964__content">
+            <p>In that regard, it should be borne in mind that Article 169(2) of the Rules of Procedure of the Court of Justice specifies that the pleas in law and legal arguments relied on must identify precisely those points in the grounds of the decision of the General Court which are contested. An appeal that fails to identify which points of the judgment under appeal are being contested and the alleged error of law by the General Court is inadmissible (see, to that effect, judgment of 22 September 2016, NIOC and Others v Council, C‑595/15 P, not published, EU:C:2016:721, paragraphs 95 and 96).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12965">
+          <num>58</num>
+          <content eId="para_12965__content">
+            <p>In the present case, by the first part of the first ground of appeal, Saint-Gobain refers specifically to paragraphs 80 to 82 and 87 of the judgment under appeal. Moreover, in so far as it criticises the General Court for having failed to take account of the Aarhus Convention in its interpretation of Article 6 of Regulation No 1367/2006, clearly it was impossible for it to identify the specific points of the judgment in which the General Court failed to do so. It follows that the appeal satisfies the requirements of Article 169(2) of the Rules of Procedure.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12966">
+          <num>59</num>
+          <content eId="para_12966__content">
+            <p>In the light of the foregoing considerations, the plea of inadmissibility put forward by the Commission must be rejected.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Substance</p>
+        </tblock>
+        <paragraph eId="para_12967">
+          <num>60</num>
+          <content eId="para_12967__content">
+            <p>As a preliminary observation, it should be noted that, in accordance with the first recital of Regulation No 1049/2001, that regulation reflects the intention expressed in the second paragraph of Article 1 of the EU Treaty -- inserted by the Treaty of Amsterdam -- of marking a new stage in the process of creating an ever closer union among the peoples of Europe, in which decisions are taken as openly as possible and as closely as possible to the citizen. As is stated in recital 2 in the preamble to Regulation No 1049/2001, the right of public access to documents of the institutions is related to the democratic nature of those institutions (judgment of 1 July 2008, Sweden and Turco v Council, C‑39/05 P and C‑52/05 P, EU:C:2008:374, paragraph 34).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12968">
+          <num>61</num>
+          <content eId="para_12968__content">
+            <p>To that end, Regulation No 1049/2001 is designed -- as is stated in recital 4 and reflected in Article 1 -- to confer on the public as wide a right of access as possible to documents of the institutions (judgment of 14 November 2013, LPN and Finland v Commission, C‑514/11 P and C‑605/11 P, EU:C:2013:738, paragraph 40 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12969">
+          <num>62</num>
+          <content eId="para_12969__content">
+            <p>That right of access is of course subject to certain limitations based on grounds of public or private interest. More specifically, and in reflection of recital 11 in the preamble thereto, Article 4 of Regulation No 1049/2001 sets out a series of exceptions allowing the institutions to refuse access to a document where its disclosure would undermine the protection of one of the interests protected by that provision (judgment of 21 September 2010, Sweden and Others v API and Commission, C‑514/07 P, C‑528/07 P and C‑532/07 P, EU:C:2010:541, paragraphs 70 and 71 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12970">
+          <num>63</num>
+          <content eId="para_12970__content">
+            <p>Nevertheless, as such exceptions depart from the principle of the widest possible public access to documents, they must be interpreted and applied strictly (judgments of 18 December 2007, Sweden v Commission, C‑64/05 P, EU:C:2007:802, paragraph 66, and of 21 July 2011, Sweden v MyTravel and Commission, C‑506/08 P, EU:C:2011:496, paragraph 75).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12971">
+          <num>64</num>
+          <content eId="para_12971__content">
+            <p>As regards environmental information held by the institutions and bodies of the European Union, Regulation No 1367/2006 aims, as provided for in Article 1 thereof, to ensure the widest possible systematic availability and dissemination thereof (see, to that effect, judgment of 23 November 2016, Commission v Stichting Greenpeace Nederland and PAN Europe, C‑673/13 P, EU:C:2016:889, paragraph 52).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12972">
+          <num>65</num>
+          <content eId="para_12972__content">
+            <p>Although, pursuant to Article 3 of Regulation No 1367/2006, Regulation No 1049/2001, and in particular Article 4 thereof, is to apply to any request by an applicant for access to environmental information held by European Union institutions, Article 6 of Regulation No 1367/2006 adds more specific rules concerning such requests which in part favour and in part restrict the access to the documents (judgment of 14 November 2013, LPN and Finland v Commission, C‑514/11 P and C‑605/11 P, EU:C:2013:738, paragraph 53).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12973">
+          <num>66</num>
+          <content eId="para_12973__content">
+            <p>In particular, the second sentence of Article 6(1) of Regulation No 1367/2006 provides that, as regards the other exceptions set out in the first sentence of Article 4(3) of Regulation No 1049/2001, the grounds for refusal are to be interpreted in a restrictive way, taking into account the public interest served by disclosure and whether the information requested relates to emissions into the environment (judgment of 14 November 2013, LPN and Finland v Commission, C‑514/11 P and C‑605/11 P, EU:C:2013:738, paragraph 83).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12974">
+          <num>67</num>
+          <content eId="para_12974__content">
+            <p>It is in the light of those provisions and principles that the first part of the first ground of appeal must be interpreted.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12975">
+          <num>68</num>
+          <content eId="para_12975__content">
+            <p>In paragraphs 79 to 82 of the judgment under appeal, the General Court considered, first, that the decision-making process at issue in the present case was an administrative procedure aimed at a harmonised allocation of free emission allowances and that, on the date the contested decision was adopted, that administrative procedure had not yet been closed.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12976">
+          <num>69</num>
+          <content eId="para_12976__content">
+            <p>Secondly, it observed that that administrative procedure `merited greater protection' and that there is a greater risk that access to internal documents forming part of the procedure in question may have negative repercussions on the decision-making process. Such information can be used by interested parties to exert influence selectively, which may in particular adversely affect the quality of the final decision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12977">
+          <num>70</num>
+          <content eId="para_12977__content">
+            <p>Thirdly, it observed that the administrative procedures are governed by strict time limits, compliance with which would be compromised if the Commission had to examine and respond to reactions to internal discussions during that procedure.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12978">
+          <num>71</num>
+          <content eId="para_12978__content">
+            <p>Fourthly, it considered that the Commission's administrative activities do not require access to documents that is as broad as access to the legislative activities of a European Union institution which, as stated in recital 6 in the preamble to Regulation No 1049/2001, should be wider.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12979">
+          <num>72</num>
+          <content eId="para_12979__content">
+            <p>Next, in paragraphs 86 to 90 of the judgment under appeal, the General Court rejected Saint-Gobain's argument to the effect that the information requested does not concern the Commission's verification of the information communicated by the Member States pursuant to Article 15(1) of Decision 2011/278, but rather the table communicated by the German authorities to the Commission and cannot, therefore, be held to concern the decision-making process itself.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12980">
+          <num>73</num>
+          <content eId="para_12980__content">
+            <p>In order to reach that conclusion, the General Court considered that, in using the expression `which relates to a matter' the legislature did not intend to restrict the scope of the information covered by the exception laid down in the first subparagraph of Article 4(3) of Regulation No 1049/2001 solely to documents drawn up as part of the decision-making process in question and that the use of that expression also allows for the application of that provision to documents directly relating to the matters dealt with in that process.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12981">
+          <num>74</num>
+          <content eId="para_12981__content">
+            <p>Thus, according to the General Court, since the information to which Saint-Gobain requested access is information directly relating to the matter being examined as part of the decision-making process in progress at the time when the contested decision was adopted, it `relate[d] to a matter where the decision [had] not been taken by the institution'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12982">
+          <num>75</num>
+          <content eId="para_12982__content">
+            <p>The General Court's interpretation of the first subparagraph of Article 4(3) of Regulation No 1049/2001, confusing as it does the concepts of decision-making process and administrative procedure, has the effect of expanding the scope of the exception to the right of access provided for by that provision to the point where it allows a European Union institution to refuse access to any document, including documents containing environmental information, held by that institution, in so far as that document directly relates to matters dealt with as part of an administrative procedure pending before that institution.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12983">
+          <num>76</num>
+          <content eId="para_12983__content">
+            <p>Yet the concept of `decision-making process' referred to in that provision must be construed as relating to decision-making, without covering the entire administrative procedure which led to the decision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12984">
+          <num>77</num>
+          <content eId="para_12984__content">
+            <p>Such an interpretation follows, first of all, from the very wording of the provision, referring as it does to documents which `where the decision has not been taken by the [Union] institution'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12985">
+          <num>78</num>
+          <content eId="para_12985__content">
+            <p>Next, that interpretation addresses the requirement of strict interpretation of the first sentence of Article 4(3) of Regulation No 1049/2001, which requirement is all the more compelling where the documents communication of which is requested contain environmental information.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12986">
+          <num>79</num>
+          <content eId="para_12986__content">
+            <p>Lastly, that interpretation is also compelling in respect of documents containing environmental information in the light of the purpose of Regulation No 1367/2006 which, as evidenced by its title, is to apply the provisions of the Aarhus Convention to the institutions and bodies of the European Union.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12987">
+          <num>80</num>
+          <content eId="para_12987__content">
+            <p>It is true that Article 6 of Regulation No 1367/2006 merely states that the exception laid down in the first subparagraph of Article 4(3) of Regulation No 1049/2001 must be interpreted in a restrictive way, without elaborating on the concept of `decision-making process' within the meaning of that provision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12988">
+          <num>81</num>
+          <content eId="para_12988__content">
+            <p>However, as observed by the Advocate General in point 76 of his Opinion, Article 4(4)(a) of the Aarhus Convention provides that a request for environmental information may be refused where disclosure of that information would adversely affect the confidentiality of the proceedings of public authorities, where such confidentiality is provided for under national law, and not the entire administrative procedure at the end of which those authorities hold their proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12989">
+          <num>82</num>
+          <content eId="para_12989__content">
+            <p>Accordingly, in that context, it must be held, first of all, that the aspect referred to by the General Court in paragraph 79 of the judgment under appeal, according to which the administrative procedure at issue had not yet been closed on the date of adoption of the contested decision does not in itself establish that disclosure of the documents requested would seriously undermine the Commission's decision-making procedure.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12990">
+          <num>83</num>
+          <content eId="para_12990__content">
+            <p>Next, contrary to the statement in paragraph 80 of the judgment under appeal, to the effect that the administrative procedure in question merits greater protection, it is in fact the obligation of strict interpretation of the exception set out in the first subparagraph of Article 4(3) of Regulation No 1049/2001 that must prevail, as the General Court itself correctly observed in paragraph 63 of the judgment under appeal. Thus, the mere reference to a risk of negative repercussions linked to access to internal documents and the possibility that interested parties may influence the procedure do not suffice to prove that disclosure of those documents would seriously undermine the decision-making process of the institution concerned.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12991">
+          <num>84</num>
+          <content eId="para_12991__content">
+            <p>Moreover, although recital 2 in the preamble to Regulation No 1367/2006 refers to the need to provide effective opportunities for public participation in environmental decision-making, thereby increasing accountability and transparency of decision-making, contrary to what the General Court held in paragraph 81 of the judgment under appeal, that regulation does not set out any requirement for the Commission to examine or respond to public reactions following the disclosure of documents containing environmental information relating to an administrative procedure in progress and divulging internal discussions. In those circumstances, it cannot therefore be held that such disclosure jeopardises compliance with time limits in administrative procedures conducted by the Commission.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12992">
+          <num>85</num>
+          <content eId="para_12992__content">
+            <p>Lastly, it should be borne in mind that, although the administrative activity of the Commission does not require as extensive an access to documents as that concerning the legislative activity of a Union institution, that does not in any way mean that such an activity falls outside the scope of Regulation No 1049/2001 which, as provided in Article 2(3) thereof, applies to all documents held by an institution, that is to say drawn up or received by it and in its possession, in all areas of Union activity (see, to that effect, judgment of 21 July 2011, Sweden v MyTravel and Commission, C‑506/08 P, EU:C:2011:496, paragraphs 87 and 88 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12993">
+          <num>86</num>
+          <content eId="para_12993__content">
+            <p>Given the foregoing considerations, the conclusion is that, in not having interpreted the first subparagraph of Article 4(3) of Regulation No 1049/2001 strictly as required by the second sentence of Article 6(1) of Regulation No 1367/2006, the General Court erred in law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12994">
+          <num>87</num>
+          <content eId="para_12994__content">
+            <p>Consequently, as the first part of the first ground of appeal is well founded, the judgment under appeal must be set aside, without its being necessary to examine the second part of the first ground of appeal or the second ground of appeal.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The consequences of quashing the judgment under appeal</p>
+        </tblock>
+        <paragraph eId="para_12995">
+          <num>88</num>
+          <content eId="para_12995__content">
+            <p>In accordance with the first paragraph of Article 61 of the Statute of the Court of Justice of the European Union, the Court may, after quashing a decision of the General Court, refer the case back to the General Court for judgment or, where the state of the proceedings so permits, itself give final judgment in the matter.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12996">
+          <num>89</num>
+          <content eId="para_12996__content">
+            <p>In the present case, it is appropriate for the Court to give a final ruling on the dispute, as the state of proceedings so permits.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12997">
+          <num>90</num>
+          <content eId="para_12997__content">
+            <p>In its application for annulment, Saint-Gobain put forward two pleas in law, the first alleging infringement of the first subparagraph of Article 4(3) of Regulation No 1049/2001, read in conjunction with Article 2(1)(d)(iii), and the second sentence of Article 6(1) of Regulation No 1367/2006.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12998">
+          <num>91</num>
+          <content eId="para_12998__content">
+            <p>As observed in paragraphs 25 to 28 above, in the contested decision the Commission found that full disclosure of the information in question would permit the public and in particular the undertakings concerned, to raise questions or make criticisms in respect of the information communicated by the Member States, which would interfere in the decision-making process both before the Commission and before the Member States. Those interferences would, in turn, be likely seriously to delay the decision-making process and to prejudice the dialogue between the Commission and the Member States. The Commission also considered relevant the fact that it had not yet adopted a decision on that information and that such a decision was expected within the time limits granted. The Commission added that, in the present case, it was essential to guarantee that the decision in question must be able to be taken without any external interference and that the climate of trust between the Commission and the German authorities would be preserved.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12999">
+          <num>92</num>
+          <content eId="para_12999__content">
+            <p>Given the reasoning set out in paragraphs 75 to 81 of the present judgment, such considerations do not establish that disclosure of the environmental information would have seriously undermined the Commission's decision-making process within the meaning of the first subparagraph of Article 4(3) of Regulation No 1049/2001, read in the light of the second sentence of Article 6(1) of Regulation No 1367/2006.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13000">
+          <num>93</num>
+          <content eId="para_13000__content">
+            <p>Consequently, the first ground of appeal of the action for annulment must be upheld and the contested decision annulled, without its being necessary to examine the second plea in law of that action.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_13001">
+          <num>94</num>
+          <content eId="para_13001__content">
+            <p>Under Article 138(1) of the Rules of Procedure of the Court of Justice, which applies to appeal proceedings by virtue of Article 184(1) thereof, the unsuccessful party is to be ordered to pay the costs if they have been applied for in the successful party's pleadings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13002">
+          <num>95</num>
+          <content eId="para_13002__content">
+            <p>Since Saint-Gobain has applied for costs and the Commission has been unsuccessful, the Commission must be ordered to pay the costs both at first instance and in the present appeal proceedings. On those grounds, the Court (Fifth Chamber) hereby: 1) Sets aside the judgment of the General Court of the European Union of 11 December 2014, Saint-Gobain Glass Deutschland v Commission (T‑476/12, not published,EU:T:2014:1059); 2) Annuls the Commission's decision of 17 January 2013 refusing full access to the list communicated by the Federal Republic of Germany to the Commission, under the procedure provided for in Article 15(1) of Decision 2011/278/EU of 27 April 2011 determining transitional Union-wide rules for harmonised free allocation of emission allowances pursuant to Article 10a of Directive 2003/87/EC of the European Parliament and of the Council, to the extent that that document contains information relating to certain installations of Saint-Gobain Glass Deutschland GmbH, situated on German territory, relating to provisional allocations and activities and capacity levels in relation to carbon dioxide (CO2) emissions between 2005 and 2010, the efficiency of the installations and the annual emission quotas provisionally allocated for the period between 2013 and 2020; 3) Orders the European Commission to pay the costs incurred by Saint-Gobain Glass Deutschland GmbH at first instance and in the present appeal proceedings.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: German.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

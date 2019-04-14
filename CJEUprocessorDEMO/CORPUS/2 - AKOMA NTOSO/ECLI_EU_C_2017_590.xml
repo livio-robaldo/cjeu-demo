@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Second Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>26 July 2017 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Area of freedom, security and justice -- Return of illegally staying third-country nationals -- Directive 2008/115/EC -- Article 11(2) -- Decision to impose an entry ban taken before that directive entered into force and relating to a longer period than that provided for by the directive -- Time from which the period of the entry ban starts to run) In Case C‑225/16, REQUEST for a preliminary ruling under Article 267 TFEU from the Hoge Raad der Nederlanden (Supreme Court of the Netherlands), made by decision of 29 March 2016, received at the Court on 22 April 2016, in the criminal proceedings against Mossa Ouhrami, THE COURT (Second Chamber), composed of M. Ilešič (Rapporteur), President of the Chamber, K. Lenaerts, President of the Court, acting as a Judge of the Second Chamber, A. Prechal, C. Toader and E. Jarašiūnas, Judges, Advocate General: E. Sharpston, Registrar: M. Ferreira, Principal Administrator, having regard to the written procedure and further to the hearing on 16 March 2017, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>Mr Ouhrami, by S.J. van der Woude, advocaat,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Netherlands Government, by C.S. Schillemans, M. Gijzen and M. Bulterman, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Danish Government, by C. Thorning and M. Wolff, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by C. Cattabriga and R. Troosters, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Swiss Government, by C. Bichet, acting as Agent, after hearing the Opinion of the Advocate General at the sitting on 18 May 2017,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_14733">
+          <num>1</num>
+          <content eId="para_14733__content">
+            <p>The present request for a preliminary ruling concerns the interpretation of Article 11(2) of Directive 2008/115/EC of the European Parliament and of the Council of 16 December 2008 on common standards and procedures in Member States for returning illegally staying third-country nationals ( OJ 2008 L 348, p. 98).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14734">
+          <num>2</num>
+          <content eId="para_14734__content">
+            <p>The request has been made in criminal proceedings brought against Mr Mossa Ouhrami, who was born in Algeria in 1979 and is apparently a national of that third country, on the ground that he was staying in the Netherlands during 2011 and 2012 even though he knew that he had been declared an undesirable foreign national by a decision adopted in 2002.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <paragraph eId="para_14735">
+          <num>3</num>
+          <content eId="para_14735__content">
+            <p>Recitals 2, 4, 6, 10, 11 and 14 of Directive 2008/115 state: `</p>
+            <blockList>
+              <item>
+                <num>(2)</num>
+                <p>The Brussels European Council of 4 and 5 November 2004 called for the establishment of an effective removal and repatriation policy, based on common standards, for persons to be returned in a humane manner and with full respect for their fundamental rights and dignity. ...</p>
+              </item>
+              <item>
+                <num>(4)</num>
+                <p>Clear, transparent and fair rules need to be fixed to provide for an effective return policy as a necessary element of a well-managed migration policy. ...</p>
+              </item>
+              <item>
+                <num>(6)</num>
+                <p>Member States should ensure that the ending of the illegal stay of third-country nationals is carried out through a fair and transparent procedure. According to general principles of EU law, decisions taken under this Directive should be adopted on a case-by-case basis and based on objective criteria, implying that consideration should go beyond the mere fact of an illegal stay. When using standard forms for decisions related to return, namely return decisions and, if issued, entry-ban decisions and decisions on removal, Member States should respect that principle and fully comply with all applicable provisions of this Directive. ...</p>
+                <blockList>
+                  <item>
+                    <num>(10)</num>
+                    <p>Where there are no reasons to believe that this would undermine the purpose of a return procedure, voluntary return should be preferred over forced return and a period for voluntary departure should be granted. ...</p>
+                  </item>
+                  <item>
+                    <num>(11)</num>
+                    <p>A common minimum set of legal safeguards on decisions related to return should be established to guarantee effective protection of the interests of the individuals concerned. ... ...</p>
+                  </item>
+                </blockList>
+              </item>
+              <item>
+                <num>(14)</num>
+                <p>The effects of national return measures should be given a European dimension by establishing an entry ban prohibiting entry into and stay on the territory of all the Member States. The length of the entry ban should be determined with due regard to all relevant circumstances of an individual case and should not normally exceed five years. In this context, particular account should be taken of the fact that the third-country national concerned has already been the subject of more than one return decision or removal order or has entered the territory of a Member State during an entry ban.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14736">
+          <num>4</num>
+          <content eId="para_14736__content">
+            <p>Article 1 of Directive 2008/115, entitled `Subject matter', provides: `This Directive sets out common standards and procedures to be applied in Member States for returning illegally staying third-country nationals, in accordance with fundamental rights as general principles of [EU] law as well as international law, including refugee protection and human rights obligations.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14737">
+          <num>5</num>
+          <content eId="para_14737__content">
+            <p>Article 3 of that directive, entitled `Definitions', is worded as follows: `For the purpose of this Directive the following definitions shall apply: ...</p>
+            <blockList>
+              <item>
+                <num>(2)</num>
+                <p>``illegal stay '' means the presence on the territory of a Member State of a third-country national who does not fulfil, or no longer fulfils, the conditions of entry as set out in Article 5 of the Schengen Borders Code or other conditions for entry, stay or residence in that Member State;</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>``return '' means the process of a third-country national going back -- whether in voluntary compliance with an obligation to return, or enforced -- to:</p>
+                <blockList>
+                  <item>
+                    <num>--</num>
+                    <p>his or her country of origin, or</p>
+                  </item>
+                  <item>
+                    <num>--</num>
+                    <p>a country of transit in accordance with [EU] or bilateral readmission agreements or other arrangements, or</p>
+                  </item>
+                  <item>
+                    <num>--</num>
+                    <p>another third country, to which the third-country national concerned voluntarily decides to return and in which he or she will be accepted;</p>
+                  </item>
+                </blockList>
+              </item>
+              <item>
+                <num>(4)</num>
+                <p>``return decision '' means an administrative or judicial decision or act, stating or declaring the stay of a third-country national to be illegal and imposing or stating an obligation to return;</p>
+              </item>
+              <item>
+                <num>(5)</num>
+                <p>``removal '' means the enforcement of the obligation to return, namely the physical transportation out of the Member State;</p>
+              </item>
+              <item>
+                <num>(6)</num>
+                <p>``entry ban '' means an administrative or judicial decision or act prohibiting entry into and stay on the territory of the Member States for a specified period, accompanying a return decision; ...</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(8)</num>
+                <p>``voluntary departure '' means compliance with the obligation to return within the time limit fixed for that purpose in the return decision; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14738">
+          <num>6</num>
+          <content eId="para_14738__content">
+            <p>Article 6 of Directive 2008/115, entitled `Return decision', provides: `1.   Member States shall issue a return decision to any third-country national staying illegally on their territory, without prejudice to the exceptions referred to in paragraphs 2 to 5. ... 6.   This Directive shall not prevent Member States from adopting a decision on the ending of a legal stay together with a return decision and/or a decision on a removal and/or entry ban in a single administrative or judicial decision or act as provided for in their national legislation, without prejudice to the procedural safeguards available under Chapter III and under other relevant provisions of [EU] and national law.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14739">
+          <num>7</num>
+          <content eId="para_14739__content">
+            <p>Article 7 of that directive, entitled `Voluntary departure', provides: `1.   A return decision shall provide for an appropriate period for voluntary departure of between seven and thirty days, without prejudice to the exceptions referred to in paragraphs 2 and 4. ... ... 2.   Member States shall, where necessary, extend the period for voluntary departure by an appropriate period, taking into account the specific circumstances of the individual case, such as the length of stay, the existence of children attending school and the existence of other family and social links. ... 4.   If there is a risk of absconding, or if an application for a legal stay has been dismissed as manifestly unfounded or fraudulent, or if the person concerned poses a risk to public policy, public security or national security, Member States may refrain from granting a period for voluntary departure, or may grant a period shorter than seven days.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14740">
+          <num>8</num>
+          <content eId="para_14740__content">
+            <p>Article 8 of Directive 2008/115, entitled `Removal', provides: `1.   Member States shall take all necessary measures to enforce the return decision if no period for voluntary departure has been granted in accordance with Article 7(4) or if the obligation to return has not been complied with within the period for voluntary departure granted in accordance with Article 7. ... 3.   Member States may adopt a separate administrative or judicial decision or act ordering the removal. ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14741">
+          <num>9</num>
+          <content eId="para_14741__content">
+            <p>Article 11 of that directive, entitled `Entry ban', states: `1.   Return decisions shall be accompanied by an entry ban:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>if no period for voluntary departure has been granted, or</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>if the obligation to return has not been complied with. In other cases return decisions may be accompanied by an entry ban. 2.   The length of the entry ban shall be determined with due regard to all relevant circumstances of the individual case and shall not in principle exceed five years. It may, however, exceed five years if the third-country national represents a serious threat to public policy, public security or national security. 3.   Member States shall consider withdrawing or suspending an entry ban where a third-country national who is the subject of an entry ban issued in accordance with paragraph 1, second subparagraph, can demonstrate that he or she has left the territory of a Member State in full compliance with a return decision. ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14742">
+          <num>10</num>
+          <content eId="para_14742__content">
+            <p>The first subparagraph of Article 12(1) of Directive 2008/115, that article being entitled `Form', is worded as follows: `Return decisions and, if issued, entry-ban decisions and decisions on removal shall be issued in writing and give reasons in fact and in law as well as information about available legal remedies.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14743">
+          <num>11</num>
+          <content eId="para_14743__content">
+            <p>Under Article 20 of Directive 2008/115, Member States were required to bring into force the laws, regulations and administrative provisions necessary to comply with that directive by 24 December 2010.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Netherlands law</p>
+        </tblock>
+        <paragraph eId="para_14744">
+          <num>12</num>
+          <content eId="para_14744__content">
+            <p>Under Article 67(1) of the Vreemdelingenwet 2000 (Law on Foreign Nationals; `the Vw'), in the version in force in 2002, a foreign national could be declared undesirable, inter alia: `</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>if he [was] not lawfully resident in the Netherlands and if he [had] repeatedly committed acts punishable under this law;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>if he [had] been convicted by a judgment, which [had] become final, for an offence in respect of which he [could be] liable to a sentence of imprisonment of three years or more;</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>if he [represented] a threat to public policy or national security;</p>
+              </item>
+              <item>
+                <num>(d)</num>
+                <p>pursuant to a treaty; or</p>
+              </item>
+              <item>
+                <num>(e)</num>
+                <p>in the interests of the international relations of the Netherlands'.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14745">
+          <num>13</num>
+          <content eId="para_14745__content">
+            <p>Under Article 68 of the Vw, in the version in force in 2002, a declaration of undesirability was to be lifted at the request of the foreign national if he had stayed outside the Netherlands for an uninterrupted period of 10 years during which none of the grounds referred to in Article 67(1) of the Vw had arisen.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14746">
+          <num>14</num>
+          <content eId="para_14746__content">
+            <p>The Vw was subsequently amended for the purpose of transposing Directive 2008/115.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14747">
+          <num>15</num>
+          <content eId="para_14747__content">
+            <p>Under the current version of Article 61(1) of the Vw, a foreign national who is not, or is no longer, legally resident must leave the Netherlands voluntarily within the period laid down in Article 62 of that Law, paragraphs 1 and 2 of which transpose paragraphs 1 and 4 of Article 7 of Directive 2008/115.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14748">
+          <num>16</num>
+          <content eId="para_14748__content">
+            <p>Article 66a(1) of the Vw, which is intended to transpose Article 11(2) of Directive 2008/115, provides that an entry ban is to be issued against a foreign national who has not left the Netherlands voluntarily within the period provided.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14749">
+          <num>17</num>
+          <content eId="para_14749__content">
+            <p>Under Article 66a(4) of the Vw, the entry ban is to be issued for a specified period, which may not exceed five years, unless the foreign national represents a serious threat to public policy, public security or national security. That period is to be calculated from the date on which the foreign national has actually left the Netherlands.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14750">
+          <num>18</num>
+          <content eId="para_14750__content">
+            <p>Under Article 66a(7) of the Vw, a foreign national who is subject to an entry ban may not, under any circumstances, be lawfully resident: `</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>if he has been convicted by a judgment, which has become final, for an offence in respect of which he is liable to a sentence of imprisonment of three years or more;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>if he represents a threat to public policy or national security;</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>if he represents a serious threat within the meaning of paragraph 4; or</p>
+              </item>
+              <item>
+                <num>(d)</num>
+                <p>if, pursuant to a treaty or in the interests of the international relations of the Netherlands, he should be denied any form of stay'.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14751">
+          <num>19</num>
+          <content eId="para_14751__content">
+            <p>Under Article 197 of the Wetboek van Strafrecht (Code of Criminal Law), in the version resulting from the Law of 10 March 1984 (Stb. 1984, No 91), which applies to the main proceedings, a foreign national who remains in the Netherlands while knowing, or having serious reason to suspect, that he has been declared undesirable pursuant to a statutory provision is liable to, inter alia, a term of imprisonment not exceeding six months.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14752">
+          <num>20</num>
+          <content eId="para_14752__content">
+            <p>Under the current version of Article 197, resulting from the Law of 15 December 2011 (Stb. 2011, No 663), a foreign national who remains in the Netherlands while knowing, or having serious reason to suspect, that he has been declared undesirable pursuant to a statutory provision or that an entry ban has been imposed on him pursuant to Article 66a(7) of the Vw is liable to, inter alia, a term of imprisonment not exceeding six months.</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_14753">
+          <num>21</num>
+          <content eId="para_14753__content">
+            <p>By a decision of the Minister van Vreemdelingenzaken en Immigratie (Minister for Immigration and Integration, Netherlands) of 22 October 2002, Mr Ouhrami was declared undesirable. In that decision, the minister stated that, in the years 2000 to 2002, Mr Ouhrami had, on five occasions, been sentenced by the criminal courts to a total of more than 13 months imprisonment for aggravated theft, handling stolen property and possession of hard drugs. On that basis, the Minister for Immigration and Integration took the view that Mr Ouhrami represented a threat to public policy and, accordingly, declared him undesirable. As a result, Mr Ouhrami was under the obligation</p>
+            <blockList>
+              <item>
+                <num>(i)</num>
+                <p>to leave the Netherlands, failing which he could be removed, and</p>
+              </item>
+              <item>
+                <num>(ii)</num>
+                <p>to remain outside the Netherlands for 10 consecutive years since he had been declared undesirable, inter alia as a result of drug-related crimes. According to that decision, that 10-year period was to commence on the date on which Mr Ouhrami actually left the Netherlands.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14754">
+          <num>22</num>
+          <content eId="para_14754__content">
+            <p>The decision declaring him undesirable was served on Mr Ouhrami on 17 April 2003. As no appeal was lodged, that decision became final on 15 May 2003. However, Mr Ouhrami did not leave the Netherlands, claiming that he did not have the necessary travel documents.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14755">
+          <num>23</num>
+          <content eId="para_14755__content">
+            <p>During the years 2011 and 2012, it was established on seven occasions that Mr Ouhrami had, in breach of that decision, stayed in Amsterdam (Netherlands), even though he knew that he had been declared undesirable; this constitutes a punishable offence under Article 197 of the Code of Criminal Law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14756">
+          <num>24</num>
+          <content eId="para_14756__content">
+            <p>Having been sentenced at first instance to a term of imprisonment on that account, Mr Ouhrami appealed to the Gerechtshof Amsterdam (Court of Appeal, Amsterdam, Netherlands), arguing that the imposition of such a sentence infringed Directive 2008/115 on the ground that the return procedure laid down in that directive had not been exhausted.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14757">
+          <num>25</num>
+          <content eId="para_14757__content">
+            <p>The Gerechtshof Amsterdam (Court of Appeal, Amsterdam) held that the imposition of an unconditional prison sentence on a third-country national, within the meaning of Article 3(1) of Directive 2008/115, who has been declared undesirable and who, without a justified ground for non-return, remains illegally in the Netherlands, is contrary to that directive if the steps of the return procedure laid down in that directive have not yet been exhausted. The imposition of such a penalty could, in its view, jeopardise the attainment of the objective pursued by that directive, namely, the establishment of an effective removal and repatriation policy for third-country nationals illegally staying in a Member State.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14758">
+          <num>26</num>
+          <content eId="para_14758__content">
+            <p>The Gerechtshof Amsterdam (Court of Appeal, Amsterdam) also found that, in the present case, the return procedure had been followed in its entirety. In this regard, it noted that:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>the Dienst Terugkeer en Vertrek (Repatriation and Departure Service, Netherlands) had conducted 26 interviews with Mr Ouhrami in connection with his return,</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>Mr Ouhrami had repeatedly been referred to the authorities of Algeria, Morocco and Tunisia, but no positive report was forthcoming from any of those countries,</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>various investigations had been conducted through Interpol, particularly with regard to fingerprints,</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>efforts had been made to conduct a language analysis in relation to Mr Ouhrami,</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>all procedures of the Repatriation and Departure Service with regard to repatriation had been followed,</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>however, all of those steps had failed to result in the removal of Mr Ouhrami because he had refused cooperate.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14759">
+          <num>27</num>
+          <content eId="para_14759__content">
+            <p>On that basis, the Gerechtshof Amsterdam (Court of Appeal, Amsterdam) took the view that the competent authorities had made adequate efforts to establish Mr Ouhrami's identity and have him returned to his country of origin. Accordingly, that court found that, in the present case, the return procedure had to be regarded as exhausted and, as a result, the imposition of a prison sentence in respect of the matters alleged against him was not contrary to Directive 2008/115. Having rejected Mr Ouhrami's arguments, the Gerechtshof Amsterdam (Court of Appeal, Amsterdam) sentenced him to a prison term of two months.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14760">
+          <num>28</num>
+          <content eId="para_14760__content">
+            <p>Mr Ouhrami appealed on a point of law to the Hoge Raad der Nederlanden (Supreme Court of the Netherlands).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14761">
+          <num>29</num>
+          <content eId="para_14761__content">
+            <p>In the context of his appeal, Mr Ouhrami does not challenge the finding of the Gerechtshof Amsterdam (Court of Appeal, Amsterdam) that the return procedure laid down in Directive 2008/115 had been followed exhaustively in the present case. He submits, however, that that court erred in convicting him because the decision of 22 October 2002 declaring him undesirable had, in his view, ceased to produce legal effects at the time of the facts at issue in the main proceedings. In that regard, Mr Ouhrami argues that that decision had to be regarded as equivalent to an entry ban. Furthermore, given that it entered into force on being issued, or at the latest when Mr Ouhrami became aware of it, and that, pursuant to Article 11(2) of Directive 2008/115, the duration of the entry ban in the present case could not exceed five years, he claims that that ban was no longer in force in 2011 and 2012.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14762">
+          <num>30</num>
+          <content eId="para_14762__content">
+            <p>The Hoge Raad der Nederlanden (Supreme Court of the Netherlands) notes that, according to its own case-law, it may be inferred from the judgment of 19 September 2013 in Filev and Osmani ( C‑297/12, EU:C:2013:569) that a declaration of undesirability which was adopted before the date of the entry into force of Directive 2008/115 or before the expiry of the final implementation deadline has to be regarded as equivalent to an entry ban within the meaning of Article 3(6) of that directive. Following the expiry of that deadline, such a declaration of undesirability must in principle comply with the maximum duration of five years laid down in Article 11(2) of that directive. Such equivalence thus raises the question as to the point in time from which the period of the entry ban starts to run.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14763">
+          <num>31</num>
+          <content eId="para_14763__content">
+            <p>In that context, the referring court observes that, under Article 197 of the Code of Criminal Law, in the version applicable to the case in the main proceedings, non-compliance with a return decision as such is not an offence, but it is an offence for the third-country national concerned to remain in the Netherlands while knowing, or having serious reason to suspect, that he has been declared undesirable.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14764">
+          <num>32</num>
+          <content eId="para_14764__content">
+            <p>In those circumstances, the Hoge Raad der Nederlanden (Supreme Court of the Netherlands) decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Must Article 11(2) of [Directive 2008/115] be interpreted as meaning that the period of five years mentioned therein is to be calculated:</p>
+                <blockList>
+                  <item>
+                    <num>(a)</num>
+                    <p>from the moment at which the entry ban (or, with retroactive effect, the equivalent declaration of undesirability) was issued, or</p>
+                  </item>
+                  <item>
+                    <num>(b)</num>
+                    <p>with effect from the date on which the person concerned actually left the territory of -- essentially -- the Member States of the European Union, or</p>
+                  </item>
+                  <item>
+                    <num>(c)</num>
+                    <p>from some other point in time?</p>
+                  </item>
+                </blockList>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>For the purposes of applying the relevant transitional provisions, must Article 11(2) of [Directive 2008/115] be interpreted as meaning that decisions taken before that directive entered into force, the legal effect of which is that the addressee must remain outside the Netherlands for 10 consecutive years, where the entry ban was determined having regard to all the relevant circumstances of the individual case and was open to challenge on legal grounds, can no longer have any legal effect if, at the time by which that directive had to be transposed or at the time at which it was established that the person to whom that decision was addressed was present in the Netherlands, the duration of that entry ban exceeded the period laid down in that provision?'</p>
+                <tblock>
+                  <p>Consideration of the questions referred</p>
+                </tblock>
+                <tblock>
+                  <p>The first question</p>
+                </tblock>
+                <p>33 By its first question, the referring court asks, in essence, whether Article 11(2) of Directive 2008/115 must be interpreted as meaning that the starting point of the period of application of an entry ban, as referred to in that provision, which in principle may not exceed five years, must be calculated from the date on which the decision to impose that entry ban was issued, from the date on which the person concerned actually left the territory of the Member States, or from some other date.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14765">
+          <num>34</num>
+          <content eId="para_14765__content">
+            <p>In the main proceedings, that question has arisen in relation to a decision which was adopted before the expiry of the deadline for transposing Directive 2008/115 and by which Mr Ouhrami was declared undesirable. The legal effect of that decision was that the person concerned was required to leave the Netherlands and to remain outside that Member State for 10 consecutive years. It is common ground that, following the adoption of that decision, Mr Ouhrami never left the Netherlands and that, after that deadline for transposition had passed, he was sentenced at first instance and on appeal to a term of imprisonment for failure to comply with that decision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14766">
+          <num>35</num>
+          <content eId="para_14766__content">
+            <p>In that regard, it must be noted that the Court has held that Directive 2008/115 is applicable to those effects which occur after the date of its applicability in the Member State concerned of entry-ban decisions taken under national rules which were applicable before that date. Although that directive does not include a provision providing for transitional arrangements in relation to entry-ban decisions adopted before it became applicable, it is nevertheless clear from settled case-law that new rules apply immediately, except in the event of a derogation, to the future effects of a situation which arose under the old rules (see, to that effect, judgment of 19 September 2013, Filev and Osmani, C‑297/12, EU:C:2013:569, paragraphs 39 to 41).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14767">
+          <num>36</num>
+          <content eId="para_14767__content">
+            <p>It follows that the provisions of Directive 2008/115 apply to the entry ban decision at issue in the main proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14768">
+          <num>37</num>
+          <content eId="para_14768__content">
+            <p>Pursuant to Article 11(2) of Directive 2008/115, the length of the entry ban is to be determined with due regard to all relevant circumstances of the individual case and may not in principle exceed five years. It may, however, exceed five years if the third-country national represents a serious threat to public policy, public security or national security.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14769">
+          <num>38</num>
+          <content eId="para_14769__content">
+            <p>For the purposes of interpreting that provision, it should be noted that, in accordance with the need for a uniform application of EU law and the principle of equality, a provision of EU law which makes no express reference to the law of the Member States for the purpose of determining its meaning and scope must normally be given an autonomous and uniform interpretation throughout the European Union, and that interpretation must take into account, inter alia, the context of the provision and the objective pursued by the legislation in question (see, by analogy, judgment of 17 July 2008, Kozłowski, C‑66/08, EU:C:2008:437, paragraph 42 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14770">
+          <num>39</num>
+          <content eId="para_14770__content">
+            <p>As is apparent from recital 14 of Directive 2008/115, the purpose of introducing an entry ban prohibiting any entry into and stay within the territory of all the Member States is to give a European dimension to the effects of national return measures.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14771">
+          <num>40</num>
+          <content eId="para_14771__content">
+            <p>Although Directive 2008/115 does not expressly lay down the starting point from which the period of application of the entry ban is to be calculated, it is clear from that purpose and, more generally, from the objective of that directive, which sets out common standards and procedures in order to ensure the effective return of illegally staying third-country nationals while respecting their fundamental rights, as well as from the fact that there is no reference to national law, that, contrary to the submissions of the Danish Government, the determination of that starting point cannot be left to the discretion of each Member State.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14772">
+          <num>41</num>
+          <content eId="para_14772__content">
+            <p>As the Advocate General has noted, in essence, in point 49 of her Opinion, to accept that an entry ban, the legal foundation of which is a set of harmonised rules at a European level, should start and cease to produce its effects at different points in time depending on different choices exercised by Member States through their national legislation would undermine the objective of Directive 2008/115 and the purpose of such entry bans.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14773">
+          <num>42</num>
+          <content eId="para_14773__content">
+            <p>The question as to the specific point in time at which an entry ban starts to produce its effects and from which the period of application of the entry ban is to be calculated must be answered by reference to the wording, general scheme and objective of Directive 2008/115.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14774">
+          <num>43</num>
+          <content eId="para_14774__content">
+            <p>Article 3(6) of Directive 2008/115 defines an `entry ban' as `an administrative or judicial decision or act prohibiting entry into and stay on the territory of the Member States for a specified period, accompanying a return decision'. Article 3(4) of the directive defines a `return decision' as `an administrative or judicial decision or act, stating or declaring the stay of a third-country national to be illegal and imposing or stating an obligation to return'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14775">
+          <num>44</num>
+          <content eId="para_14775__content">
+            <p>Under Article 11(1) of Directive 2008/115, return decisions must be accompanied by an entry ban if no period for voluntary departure has been granted or if the obligation to return has not been complied with. In other cases, return decisions may be accompanied by an entry ban.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14776">
+          <num>45</num>
+          <content eId="para_14776__content">
+            <p>It follows from the wording of those provisions and from the use of the term `entry ban' that such a ban is intended to supplement a return order by prohibiting the person concerned, for a specified period of time following his return -- the term `return' being understood, in accordance with the definition in Article 3(3) of Directive 2008/115, to mean after leaving the territory of the Member States -- from again entering and staying in that territory. Accordingly, in order for an entry ban to come into effect, the person concerned must previously have left that territory.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14777">
+          <num>46</num>
+          <content eId="para_14777__content">
+            <p>That finding is borne out by the general scheme of Directive 2008/115.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14778">
+          <num>47</num>
+          <content eId="para_14778__content">
+            <p>In this regard, it must be noted that it is apparent from the provisions cited in paragraphs 43 and 44 of the present judgment, as well as from, inter alia, recital 6, Article 6(1), Article 6(6), Article 8(1), Article 8(3), the first subparagraph of Article 11(3) and Article 12(1) of Directive 2008/115 that the latter draws a clear distinction between, on the one hand, a return decision and a possible removal decision, and on the other hand, an entry ban.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14779">
+          <num>48</num>
+          <content eId="para_14779__content">
+            <p>Thus, in accordance with Article 3(4) and Article 6(1) of Directive 2008/115, it is by means of a return decision that the initial illegal stay of the person concerned is declared to be unlawful and an obligation to return is imposed on him. Under Article 7(1) of that directive, and subject to the exceptions set out in Article 7(4) thereof, such a return decision must provide for an appropriate period within which the person concerned may depart voluntarily. In the event that such a period is not granted or the obligation to return is not complied with within the period granted, Member States are required, in accordance with Article 8(1) and Article 8(3) of Directive 2008/115, to take all necessary measures to enforce the return decision, adopting, where appropriate, a removal decision, that is to say, a separate administrative or judicial decision or act ordering enforcement of the obligation to return.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14780">
+          <num>49</num>
+          <content eId="para_14780__content">
+            <p>It follows that, until the point in time at which the obligation to return is voluntarily complied with or enforced, and the person concerned has thus actually gone back to his country of origin, to a country of transit or to another third country, within the meaning of Article 3(3) of Directive 2008/115, the illegal stay of the person concerned is governed by the return decision and not by the entry ban. It is only from that point in time that the entry ban produces its effects, by prohibiting the person concerned, for a certain period of time following his return, from again entering and staying in the territory of the Member States.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14781">
+          <num>50</num>
+          <content eId="para_14781__content">
+            <p>Consequently, although Article 6(6) of Directive 2008/115 opens the possibility for Member States to adopt a return decision and an entry ban at the same time, it is nevertheless clear from the general scheme of that directive that those two decisions are separate since a return decision results from the fact that the initial stay is unlawful whereas an entry ban applies to any possible subsequent stay by making it unlawful.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14782">
+          <num>51</num>
+          <content eId="para_14782__content">
+            <p>A possible entry ban thus constitutes a means of increasing the effectiveness of the European Union's return policy by ensuring that, for a certain period after the removal of a third-country national who was staying illegally, that person can no longer lawfully return to the territory of the Member States.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14783">
+          <num>52</num>
+          <content eId="para_14783__content">
+            <p>That objective of Article 11 of Directive 2008/115 and the general purpose pursued by that directive, as recalled in paragraph 40 of the present judgment, would be compromised if the refusal of a third-country national to comply with the obligation to return and to cooperate in the context of a removal procedure were to enable him to avoid, in whole or in part, the legal effects of an entry ban, which would be the case if the period of application of such an entry ban were to commence and possibly expire during such a removal procedure.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14784">
+          <num>53</num>
+          <content eId="para_14784__content">
+            <p>It thus follows from the wording, general scheme and objective of Directive 2008/115 that the period of application of the entry ban does not begin to run until the date on which the person concerned has actually left the territory of the Member States.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14785">
+          <num>54</num>
+          <content eId="para_14785__content">
+            <p>With regard to the question whether, in a situation such as that at issue in the main proceedings, Directive 2008/115 precludes the imposition of a prison sentence for the breach of a decision declaring the person concerned undesirable, where such a decision has the legal effects mentioned in paragraph 34 of this judgment, it should be noted that the Court has held that a Member State may not impose criminal sanctions for breach of an entry ban coming within the scope of Directive 2008/115 unless the continuation of the effects of that ban complies with Article 11 of that directive (see, to that effect, judgments of 19 September 2013, Filev and Osmani, C‑297/12, EU:C:2013:569, paragraph 37, and of 1 October 2015, Celaj, C‑290/14, EU:C:2015:640, paragraph 31).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14786">
+          <num>55</num>
+          <content eId="para_14786__content">
+            <p>However, inasmuch as Mr Ouhrami did not leave the Netherlands following the adoption of the decision declaring him undesirable and, consequently, the obligation to return prescribed by that decision was never fulfilled, the person concerned is in an unlawful situation as a consequence of an initial illegal stay, and not as a consequence of a subsequent illegal stay resulting from a breach of an entry ban, within the meaning of Article 11 of Directive 2008/115.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14787">
+          <num>56</num>
+          <content eId="para_14787__content">
+            <p>In that regard, it must be noted that it is settled case-law that Directive 2008/115 precludes legislation of a Member State laying down criminal penalties for initial illegal stays, in so far as that legislation permits the imprisonment of a third-country national who, though staying illegally on the territory of that Member State and not being willing to leave that territory voluntarily, has not been subject to the coercive measures referred to in Article 8 of the directive. However, the Court has pointed out that Directive 2008/115 does not preclude national legislation which permits the imprisonment of a third-country national to whom the return procedure established by the directive has been applied and who is staying illegally on the territory of the Member State without a justified ground for non-return (see, to that effect, judgments of 6 December 2011, Achughbabian, C‑329/11, EU:C:2011:807, paragraph 50, and of 7 June 2016, Affum, C‑47/15, EU:C:2016:408, paragraphs 52 and 54).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14788">
+          <num>57</num>
+          <content eId="para_14788__content">
+            <p>From the documents before the Court it is apparent, first, that, in the main proceedings, the Gerechtshof Amsterdam (Court of Appeal, Amsterdam) held that, in the present case, the return procedure had to be regarded as exhausted and, as a result, the imposition of a prison sentence for the proven offences was not contrary to Directive 2008/115, and, secondly, that that finding, which appears to meet the conditions laid down in the case-law referred to in the previous paragraph of the present judgment, had not been contested in the appeal brought before the referring court, although this is a matter for the referring court to verify.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14789">
+          <num>58</num>
+          <content eId="para_14789__content">
+            <p>In the light of all of the foregoing considerations, the answer to the first question is that Article 11(2) of Directive 2008/115 must be interpreted as meaning that the starting point of the duration of an entry ban, as referred to in that provision, which in principle may not exceed five years, must be calculated from the date on which the person concerned actually left the territory of the Member States.</p>
+            <tblock>
+              <p>The second question</p>
+            </tblock>
+            <p>59 As the referring court noted in its request for a preliminary ruling, the second question is posed solely in case the reply to the first question might be that the starting point of the duration of an entry ban, as provided for by Article 11(2) of Directive 2008/115, was to be calculated, not from the date on which the person concerned actually left the territory of the Member States, but from an earlier date, such as the date on which that entry ban was issued. As the Advocate General observed in point 64 of her Opinion, it is only in that event that the second question would have been relevant to the resolution of the dispute in the main proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14790">
+          <num>60</num>
+          <content eId="para_14790__content">
+            <p>Consequently, in the light of the answer given to the first question, there is no need to reply to the second question.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_14791">
+          <num>61</num>
+          <content eId="para_14791__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Second Chamber) hereby rules: Article 11(2) of Directive 2008/115/EC of the European Parliament and of the Council of 16 December 2008 on common standards and procedures in Member States for returning illegally staying third-country nationals must be interpreted as meaning that the starting point of the duration of an entry ban, as referred to in that provision, which in principle may not exceed five years, must be calculated from the date on which the person concerned actually left the territory of the Member States.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Dutch.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>
