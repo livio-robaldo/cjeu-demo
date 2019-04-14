@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+      <references source="#source">
+        <TLCOrganization eId="institution_27" showAs="" href="/akn/ontology/Organization/Institution/institution_27" />
+      </references>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Seventh Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>13 June 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Value added tax (VAT) -- Directive 2006/112/EC -- Article 2(1)(a) -- Supply of goods for consideration -- Article 14(1) -- Transfer of the right to dispose of tangible property as owner -- Article 14(2)(a) -- Transfer of the ownership of property belonging to a municipality to the Public Treasury in return for the payment of compensation for the purposes of the construction of a national road -- Concept of `compensation' -- Transaction subject to VAT) In Case C‑665/16, REQUEST for a preliminary ruling under Article 267 TFEU from the Naczelny Sąd Administracyjny (Supreme Administrative Court, Poland), made by decision of 14 September 2016, received at the Court on 22 December 2016, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#institution_27">Minister Finansów</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#">Gmina Wrocław</party>
+      </p>
+      <p>, THE COURT (Seventh Chamber), composed of A. Rosas, President of the Chamber, C. Toader (Rapporteur) and A. Prechal, Judges, Advocate General: M. Bobek, Registrar: K. Malacek, Administrator, having regard to the written procedure and further to the hearing on 13 December 2017, after considering the observations submitted on behalf of</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>the Minister Finansów, by J. Kaute and M. Kowalewska,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Gmina Wrocław, by A. Januszkiewicz, radca prawny, and J. Martini, doradca podatkowy,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Polish Government, by B. Majczyna and A. Kramarczyk-Szaładzińska, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by N. Gossement and L. Baumgart, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 22 February 2018,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_13678">
+          <num>1</num>
+          <content eId="para_13678__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Article 14(2)(a) of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax ( OJ 2006 L 347, p. 1) ( `the VAT Directive').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13679">
+          <num>2</num>
+          <content eId="para_13679__content">
+            <p>The request has been made in proceedings between the Minister Finansów (Minister for Finance, Poland; `the Minister') and the Gmina Wrocław (Municipality of Wrocław, Poland; `the Municipality'), concerning the liability to value added tax (VAT) of a transaction in which ownership of immovable property belonging to the Municipality was transferred, in accordance with national legislation and in return for the payment of compensation, to the Public Treasury for the purposes of the construction of a national road.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <paragraph eId="para_13680">
+          <num>3</num>
+          <content eId="para_13680__content">
+            <p>Article 2(1) of the VAT Directive provides: `The following transactions shall be subject to VAT:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>the supply of goods for consideration within the territory of a Member State by a taxable person acting as such; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13681">
+          <num>4</num>
+          <content eId="para_13681__content">
+            <p>Article 9(1) of that directive states: ```Taxable person '' shall mean any person who, independently, carries out in any place any economic activity, whatever the purpose or results of that activity. Any activity of producers, traders or persons supplying services, including mining and agricultural activities and activities of the professions, shall be regarded as ``economic activity ''. The exploitation of tangible or intangible property for the purposes of obtaining income therefrom on a continuing basis shall in particular be regarded as an economic activity.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13682">
+          <num>5</num>
+          <content eId="para_13682__content">
+            <p>Article 13(1) of that directive provides: `States, regional and local government authorities and other bodies governed by public law shall not be regarded as taxable persons in respect of the activities or transactions in which they engage as public authorities, even where they collect dues, fees, contributions or payments in connection with those activities or transactions. However, when they engage in such activities or transactions, they shall be considered taxable persons in respect of those activities or transactions where their treatment as non-taxable persons would lead to significant distortions of competition. In any event, bodies governed by public law shall be regarded as taxable persons in respect of the activities listed in Annex I, provided that those activities are not carried out on such a small scale as to be negligible.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13683">
+          <num>6</num>
+          <content eId="para_13683__content">
+            <p>Article 14(1) and (2)(a) of the VAT Directive, appearing in Chapter 1, headed `Supply of goods', under Title IV of that directive, headed `Taxable transactions', states: `1. ``Supply of goods '' shall mean the transfer of the right to dispose of tangible property as owner. 2.   In addition to the transaction referred to in paragraph 1, each of the following shall be regarded as a supply of goods:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>the transfer, by order made by or in the name of a public authority or in pursuance of the law, of the ownership of property against payment of compensation'.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Polish law</p>
+        </tblock>
+        <tblock>
+          <p>The Law on VAT</p>
+        </tblock>
+        <paragraph eId="para_13684">
+          <num>7</num>
+          <content eId="para_13684__content">
+            <p>Article 7(1)(1) of the ustawa o podatku od towarów i usług (Law on the tax on goods and services), of 11 March 2004 (Dz. U. No 54, item 535), as amended (Dz. U. 2011, No 177, item 1054) ( `the Law on VAT'), states: `The supply of goods referred to in Article 5(1)(1) shall mean the transfer of the right to dispose of goods as owner, including the transfer, by order of a public authority or a body acting in the name of the public authority, or the transfer, pursuant to the law, of the ownership of goods in return for payment of compensation.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The Law on specific rules for the preparation and realisation of investments in respect of public roads</p>
+        </tblock>
+        <paragraph eId="para_13685">
+          <num>8</num>
+          <content eId="para_13685__content">
+            <p>Article 12(4) and (4a) of the ustawa o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych (Law on specific rules for the preparation and realisation of investments in respect of public roads) of 10 April 2003 (Dz. U. No 80, item 721), as amended, provides: `4.   Immovable property or a part thereof ... shall become, pursuant to the law:</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>property of the Public Treasury with regard to national roads;</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>property of the corresponding local authority with regard to municipal, district or regional authority roads,</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>upon the date on which the decision authorising the investment becomes final. 4a.   The decision setting the amount of the compensation due in respect of the immovable property referred to in paragraph 4 shall be taken by the body which took the decision authorising the road investment.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The Law on public roads</p>
+        </tblock>
+        <paragraph eId="para_13686">
+          <num>9</num>
+          <content eId="para_13686__content">
+            <p>Article 1 of the ustawa o drogach publicznych (Law on public roads) of 21 March 1985, as amended (Dz. U. 2016, item 1440) states: `A public road is a road referred to, for the purposes of this law, in one of the categories of road that anyone may use, according to his destination, subject to the restrictions and exceptions set out in this law or in other specific provisions.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13687">
+          <num>10</num>
+          <content eId="para_13687__content">
+            <p>Article 2(1) of that law provides: `Having regard to their role in the road network, public roads are divided into the following categories:</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>national roads;</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>regional authority roads;</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>district roads;</p>
+              </item>
+              <item>
+                <num>(4)</num>
+                <p>municipal roads.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13688">
+          <num>11</num>
+          <content eId="para_13688__content">
+            <p>Pursuant to Article 19(1) and (5) of that law: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>The competent government administration or local authority body for the purposes of the planning, building, rebuilding, renovation, maintenance and protection of roads is the road operator. ...</p>
+              </item>
+              <item>
+                <num>(5)</num>
+                <p>Within the territory of county cities, the mayor of the city is the operator of all public roads, except for motorways and express roads.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the question referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_13689">
+          <num>12</num>
+          <content eId="para_13689__content">
+            <p>In Poland, the hierarchy of local authorities is organised as follows: the first level is the gmina(municipality), the second level is the powiat(district) and the third level is the województwo(regional authority). A miasto na prawach powiatu(city county) is a municipality that carries out the tasks of a district. In such county cities, the mayor, who is the primary executive authority of the city, has all the powers granted by the law to the executive authority of the district, including those relating to the administration of immovable property.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13690">
+          <num>13</num>
+          <content eId="para_13690__content">
+            <p>The Województwo Dolnośląskie (Regional Authority of Lower Silesia, Poland) is divided into 26 districts, including 169 municipalities and 4 city counties.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13691">
+          <num>14</num>
+          <content eId="para_13691__content">
+            <p>The Municipality, which owns several immovable assets, is a county city that is registered as a taxable person for VAT purposes. While acting as the executive authority of the Municipality, its mayor is also the representative of the Public Treasury and is therefore responsible for the administration of any immovable property belonging to the Public Treasury that is located within the territory of the Municipality.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13692">
+          <num>15</num>
+          <content eId="para_13692__content">
+            <p>Following a decision of the Wojewoda Dolnośląski (Regional Governor of Lower Silesia, Poland), the ownership of immovable property previously belonging to the Municipality was transferred to the Public Treasury for the purposes of the construction of a national road. By a separate decision, the Regional Governor of Lower Silesia set the compensation to which the Municipality was entitled and ordered the mayor of the Municipality to pay that sum.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13693">
+          <num>16</num>
+          <content eId="para_13693__content">
+            <p>The Municipality submitted an application to the Minister for an interpretation of the tax law, asking whether the transfer of the ownership of immovable property, pursuant to the law, in return for payment of compensation constituted a supply of goods for consideration subject to VAT, and, if it did, which body should appear on the VAT invoice as the purchaser of the goods.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13694">
+          <num>17</num>
+          <content eId="para_13694__content">
+            <p>In his interpretation of the tax law, the Minister stated that, in the present case, there had been a supply of goods for consideration subject to VAT, as the ownership of the immovable property had been transferred from the Municipality to the Public Treasury in return for the payment of compensation. The Minister noted that in this transaction the taxable person for VAT purposes was the Municipality, since the mayor is not a body independently carrying out an economic activity and does not operate under his own responsibility.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13695">
+          <num>18</num>
+          <content eId="para_13695__content">
+            <p>The Minister concluded that the Municipality had an obligation to account for the supply of the expropriated immovable property in the form of a VAT invoice on which the mayor of the Municipality had to be listed as acting as both seller and purchaser, acting, respectively, as the executive authority of the Municipality and as the representative of the Public Treasury responsible for the administration of immovable property belonging to the Public Treasury that is located within the territory of the Municipality.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13696">
+          <num>19</num>
+          <content eId="para_13696__content">
+            <p>The Municipality brought an action before the Wojewódzki Sąd Administracyjny we Wrocławiu (Regional Administrative Court, Wrocław, Poland) seeking annulment of that individual tax ruling.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13697">
+          <num>20</num>
+          <content eId="para_13697__content">
+            <p>By its judgment, that court upheld the action and annulled the tax ruling on the ground that, from a tax perspective, the supplier and person to whom the supply had been made were the same entity, namely the Municipality, with the result that there could not, upon the conclusion of the transaction, be a transfer of the right to dispose of the property in question in the economic sense.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13698">
+          <num>21</num>
+          <content eId="para_13698__content">
+            <p>The Minister brought an appeal on a point of law against that judgment before the referring court, the Naczelny Sąd Administracyjny (Supreme Administrative Court, Poland).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13699">
+          <num>22</num>
+          <content eId="para_13699__content">
+            <p>On 12 February 2015, the three-judge chamber before which the appeal was brought took the view that it was not clear whether the transfer by a municipality of the ownership of immovable property by order of a public authority in return for payment of compensation had to be considered to be a `supply of goods' within the meaning of Article 7(1)(1) of the Law on VAT and accordingly submitted an application for an interpretation of the law by an enlarged panel.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13700">
+          <num>23</num>
+          <content eId="para_13700__content">
+            <p>By decision of 12 October 2015, a seven-judge panel of the referring court replied that such a transfer constitutes a `supply of goods' within the meaning of Article 7(1)(1) of the Law on VAT and that it was not relevant to address the issue of whether that transaction also involved the transfer of economic control over the relevant property.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13701">
+          <num>24</num>
+          <content eId="para_13701__content">
+            <p>Nevertheless, in its request for a preliminary ruling, the referring court expresses doubts as to the particular nature of the transaction forming the subject of the case pending before it, taking into account, inter alia, the specific role played by the parties to that transaction.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13702">
+          <num>25</num>
+          <content eId="para_13702__content">
+            <p>In those circumstances, the Naczelny Sąd Administracyjny (Supreme Administrative Court) decided to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling: `Does the transfer, pursuant to the law, of the ownership of immovable property owned by a municipality to the Public Treasury in return for payment of compensation, in the case where, under the rules of national law, that immovable property continues to be managed by the mayor of the municipality, who is simultaneously the representative of the Public Treasury and the executive body of the municipality, constitute a taxable transaction within the meaning of Article 14(2)(a) of [the VAT Directive]? In answering that question, is it significant whether the compensation paid to the municipality consists of an actual payment or is a mere transfer of accounting entries within the municipal budget?'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The question referred</p>
+        </tblock>
+        <paragraph eId="para_13703">
+          <num>26</num>
+          <content eId="para_13703__content">
+            <p>As a preliminary point, it must be noted that the question referred specifically mentions Article 14(2)(a) of the VAT Directive, whereas the general conditions that must be fulfilled in order for a supply of goods to qualify as a transaction `subject to VAT' are set out in Article 2(1)(a) of that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13704">
+          <num>27</num>
+          <content eId="para_13704__content">
+            <p>In that regard, it follows from settled case-law of the Court that the fact that a national court has, formally speaking, worded a request for a preliminary ruling with reference to certain provisions of EU law does not preclude the Court from providing to the national court all the elements of interpretation which may be of assistance in adjudicating on the case pending before it, whether or not that court has referred to them in its questions (judgment of 20 December 2017, Incyte, C‑492/16, EU:C:2017:995, paragraph 30 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13705">
+          <num>28</num>
+          <content eId="para_13705__content">
+            <p>It is therefore also necessary to examine the question referred in the light of Article 2(1)(a) of the VAT Directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13706">
+          <num>29</num>
+          <content eId="para_13706__content">
+            <p>By its question, the referring court asks, in essence, whether Article 2(1)(a) and Article 14(2)(a) of the VAT Directive must be interpreted as meaning that a transfer of ownership of immovable property belonging to a taxable person for VAT purposes to the Public Treasury of a Member State carried out in accordance with the law and in return for payment of compensation constitutes a transaction subject to VAT in a situation, such as that at issue in the main proceedings, where the same person simultaneously represents the expropriating authority and the municipality that is the subject of the expropriation and where the latter continues the practical management of the relevant property, even if the payment of compensation has only been made by means of an internal accounting transfer within the budget of the municipality.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13707">
+          <num>30</num>
+          <content eId="para_13707__content">
+            <p>At the outset it must be recalled that the VAT Directive establishes a common system of VAT based on, inter alia, a uniform definition of taxable transactions (judgment of 11 May 2017, Posnania Investment, C‑36/16, EU:C:2017:361, paragraph 25 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13708">
+          <num>31</num>
+          <content eId="para_13708__content">
+            <p>Thus, according to Article 2(1)(a) of the VAT Directive, the supply of goods for consideration within the territory of a Member State by a taxable person acting as such is subject to VAT.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13709">
+          <num>32</num>
+          <content eId="para_13709__content">
+            <p>First, with regard to the concept of a `supply of goods', that concept is not defined in that provision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13710">
+          <num>33</num>
+          <content eId="para_13710__content">
+            <p>By contrast, Article 14(1) of the VAT Directive defines that concept as the transfer of the right to dispose of tangible property as owner. Further, Article 14(2)(a) of that directive provides that, in addition to the transaction referred to in Article 14(1), the transfer, by order made by or in the name of a public authority or in pursuance of the law, of the ownership of property against payment of compensation is also to be regarded as a `supply of goods'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13711">
+          <num>34</num>
+          <content eId="para_13711__content">
+            <p>With regard to the transaction at issue in the main proceedings, the Municipality, in its written observations and during the hearing before the Court, stated that, in order for a transaction to come within Article 14(2)(a) of the VAT Directive, it must also satisfy the conditions of Article 14(1) of the VAT Directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13712">
+          <num>35</num>
+          <content eId="para_13712__content">
+            <p>In that regard, while Article 14(1) of the VAT Directive defines generally the concept of a `supply of goods', it can be concluded from a literal interpretation of Article 14(2), in particular the expression `in addition to the transaction referred to in paragraph 1', that paragraph 2 refers to other transactions that are also regarded as a `supply of goods'. It follows that, while grouping them under the same concept of a `supply of goods', the EU legislature intended to distinguish the transaction referred to in Article 14(2)(a) of the VAT Directive from that referred to in Article 14(1) of that directive, as those two transactions are not defined in the same terms. In particular, the definition of the transaction that is the subject of Article 14(2)(a) of that directive does not make any reference to the `right to dispose of tangible property as owner', as referred to in Article 14(1) of the same directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13713">
+          <num>36</num>
+          <content eId="para_13713__content">
+            <p>Thus, it follows from the wording and structure of Article 14 of the VAT Directive, as the Advocate General noted in point 47 of his Opinion, that, as against the general definition set out in paragraph 1 thereof, paragraph 2 of that article constitutes a lex specialis, the conditions for the application of which are independent of those in paragraph 1.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13714">
+          <num>37</num>
+          <content eId="para_13714__content">
+            <p>Thus, in order to qualify as a `supply of goods' within the meaning of Article 14(2)(a) of the VAT Directive, three cumulative conditions must be satisfied. First, there has to be a transfer of a right to ownership. Second, that transfer has to be by order made by, or in the name of, a public authority or in pursuance of the law. Third, there has to be payment of compensation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13715">
+          <num>38</num>
+          <content eId="para_13715__content">
+            <p>In that regard, it must be noted that the first of those three conditions, namely the transfer of the right to ownership, cannot be understood as implying that a transfer in the economic sense is necessary.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13716">
+          <num>39</num>
+          <content eId="para_13716__content">
+            <p>Admittedly, when prompted to interpret Article 5(1) of Sixth Council Directive 77/388/EEC of 17 May 1977 on the harmonisation of the laws of the Member States relating to turnover taxes -- Common system of value added tax: uniform basis of assessment ( OJ 1977 L 145, p. 1), the wording of which is identical to that of Article 14(1) of the VAT Directive, the Court held that `supply of goods' in Article 5(1) must be interpreted as meaning the transfer of the right to dispose of tangible property as owner, even if there is no transfer of legal ownership of the property (judgment of 8 February 1990, Shipping and Forwarding Enterprise Safe, C‑320/88, EU:C:1990:61, paragraph 9). However, in the context of the present request for a preliminary ruling, the referring court has raised the question of whether there can be a `supply of goods' within the meaning of Article 14(2)(a) of the VAT Directive in circumstances where only a legal transfer of ownership of the goods has occurred, in return for the payment of compensation, while the party having economic control over the relevant goods remained the same. That particularity of Polish administrative law, according to which, in the event of expropriation by the Public Treasury of immovable property belonging to a county city, those goods are to continue to be administered by that same entity, represented by the mayor, may be sufficient to deprive the transfer of ownership at issue, at least partially, of its economic nature, on the ground that the expropriating authority does not have the power to dispose of the goods at issue as an owner.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13717">
+          <num>40</num>
+          <content eId="para_13717__content">
+            <p>In that regard, Article 14(2)(a) of the VAT Directive refers not to the transfer of the power to dispose of property as owner, which is the case in paragraph 1 of that article, but, more explicitly, to the transfer of ownership of that property (see, with regard to Article 14(2)(b), judgment of 4 October 2017, Mercedes-Benz Financial Services UK, C‑164/16, EU:C:2017:734, paragraph 31).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13718">
+          <num>41</num>
+          <content eId="para_13718__content">
+            <p>Consequently, as the Advocate General has also noted in point 53 of his Opinion, for the purposes of Article 14(2)(a) of the VAT Directive, it is the transfer of the ownership of property in the sense of the formal legal title that suffices for such a transaction to be regarded as a taxable `supply of goods', on condition that the other requirements of that provision are fulfilled.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13719">
+          <num>42</num>
+          <content eId="para_13719__content">
+            <p>Second, with regard to the general condition that the transaction must involve consideration, as set out in Article 2(1)(a) of the VAT Directive, the referring court raised the question, in essence, of the nature of the relation between the concept of `consideration' referred to in that article and the concept of `compensation' within the meaning of Article 14(2)(a) of that directive, in a situation where the payment of compensation to the municipality that is the subject of the expropriation is made by means of an internal accounting transfer alone.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13720">
+          <num>43</num>
+          <content eId="para_13720__content">
+            <p>With regard to the consideration for the relevant transaction, it follows from the settled case-law of the Court that the fact that a supply of goods is made `for consideration', within the meaning of Article 2(1)(a) of the VAT Directive, presupposes the existence of a direct link between the goods supplied and the consideration received (see, to that effect, judgment of 7 October 2010, Loyalty Management UKand Baxi Group, C‑53/09 and C‑55/09, EU:C:2010:590, paragraph 51 and the case-law cited). Such a direct link exists only if there is a legal relationship between the supplier and the purchaser entailing reciprocal performance, the price received by the supplier constituting the value actually given in return for the goods supplied (see, to that effect, judgment of 11 May 2017, Posnania Investment, C‑36/16, EU:C:2017:361, paragraph 31 and the case-law cited). Further, that consideration must have a subjective value that is actually received and is capable of being expressed in monetary terms (see, to that effect, judgments of 19 December 2012, Orfey, C‑549/11, EU:C:2012:832, paragraphs 44 and 45 and the case-law cited, and of 7 November 2013, Tulică and Plavoşin, C‑249/12 and C‑250/12, EU:C:2013:722, paragraph 33 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13721">
+          <num>44</num>
+          <content eId="para_13721__content">
+            <p>However, as the Advocate General noted, in essence, in point 61 of his Opinion, it is irrelevant whether, in order for there to be a `payment of compensation' within the meaning of Article 14(2)(a) of the VAT Directive, it is necessary that such a payment have all the constitutive elements of the concept of `consideration' referred to in Article 2(1)(a) of that directive, due to the first of those provisions being a lex specialis, as follows from paragraph 36 of this judgment. Those constitutive elements have been identified by the Court not in the context of the interpretation of Article 14(2)(a) of the VAT Directive, but in that of Article 2(1) of that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13722">
+          <num>45</num>
+          <content eId="para_13722__content">
+            <p>It follows from the order for reference that the compensation at issue in the main proceedings is directly linked to the transfer of the ownership of the immovable property from the Municipality to the Public Treasury. In that respect, provided that the payment of that compensation has become effective, which is a matter for the referring court to verify, it is irrelevant that that payment was made by way of an internal accounting transfer within a single budget.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13723">
+          <num>46</num>
+          <content eId="para_13723__content">
+            <p>Third, with regard to the other general conditions appearing in Article 2(1)(a) of the VAT Directive, namely the condition as to the place of supply of the goods, the status as a taxable person of an entity such as the Municipality and the fact that the taxable person was `acting as such', it is not in dispute, first, that, in the present case, the condition as to the place of supply is satisfied, as the supply occurred within the territory of a Member State, namely in Poland.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13724">
+          <num>47</num>
+          <content eId="para_13724__content">
+            <p>Second, the Municipality's status as taxable person for VAT purposes is not called into question by the referring court. Pursuant to Article 9(1) of the VAT Directive, `taxable person' means any person who, independently, carries out in any place any economic activity, whatever the purpose or results of that activity. The exploitation of tangible or intangible property for the purposes of obtaining income therefrom on a continuing basis is in particular to be regarded as an `economic activity'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13725">
+          <num>48</num>
+          <content eId="para_13725__content">
+            <p>Third, as to the condition of acting `as a taxable person' at the moment of the transfer of ownership of the immovable property to the Public Treasury, which is contested by the Municipality on the basis of the first subparagraph of Article 13(1) of the VAT Directive, it must be noted that the Court has previously held that activities pursued as public authorities within the meaning of that provision are those engaged in by bodies governed by public law under the special legal regime applicable to them and do not include activities pursued by them under the same legal conditions as those that apply to private economic operators (judgment of 16 September 2008, Isle of Wight Council and Others, C‑288/07, EU:C:2008:505, paragraph 21 and the case-law cited). It is for the referring court to establish whether that condition has been fulfilled in the case pending before it.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13726">
+          <num>49</num>
+          <content eId="para_13726__content">
+            <p>Concerning the case in the main proceedings, and as follows from paragraph 15 of this judgment, the ownership of immovable property previously belonging to the Municipality was indeed transferred to the Public Treasury for the purposes of constructing a national road. That transfer occurred pursuant to an order issued by a public authority, namely the Regional Governor of Lower Silesia, who, by separate decision, also set the amount of the compensation due to the Municipality.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13727">
+          <num>50</num>
+          <content eId="para_13727__content">
+            <p>Subject to verification by the referring court, it follows that the three conditions set out in Article 14(2)(a) of the VAT Directive are satisfied in the main proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13728">
+          <num>51</num>
+          <content eId="para_13728__content">
+            <p>Taking into account the findings above, the answer to the question referred is that Article 2(1)(a) and Article 14(2)(a) of the VAT Directive must be interpreted as meaning that a transfer of ownership of immovable property belonging to a taxable person for VAT purposes to the Public Treasury of a Member State, carried out in accordance with the law and in return for a payment of compensation, constitutes a transaction subject to VAT in a situation, such as that at issue in the main proceedings, where the same person simultaneously represents the expropriating authority and the municipality that is the subject of the expropriation and where the latter continues the practical management of the relevant property, even if the payment of compensation has been made only by means of an internal accounting transfer within the budget of the municipality.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_13729">
+          <num>52</num>
+          <content eId="para_13729__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the referring court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Seventh Chamber) hereby rules: Article 2(1)(a) and Article 14(2)(a) of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax must be interpreted as meaning that a transfer of ownership of immovable property belonging to a taxable person for value added tax purposes to the Public Treasury of a Member State, carried out in accordance with the law and in return for a payment of compensation, constitutes a transaction subject to value added tax in a situation, such as that at issue in the main proceedings, where the same person simultaneously represents the expropriating authority and the municipality that is the subject of the expropriation and where the latter continues the practical management of the relevant property, even if the payment of compensation has been made only by means of an internal accounting transfer within the budget of the municipality.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Polish.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

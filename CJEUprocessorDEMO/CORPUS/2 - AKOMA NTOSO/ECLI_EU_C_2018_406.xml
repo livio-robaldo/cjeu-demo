@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Fifth Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>7 June 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Common agricultural policy -- Regulation (EC) No 73/2009 -- Support for farmers -- Suckler-cow premium -- Second paragraph of Article 117 -- Transmission of information -- Decision 2001/672/EC, as amended by Decision 2010/300/EU -- Movements of bovine animals to summer grazing in mountain areas -- Article 2(4) -- Time limit for notification of the movement -- Calculation -- Notifications out of time -- Eligibility for the payment of premiums -- Condition -- Taking account of the time limit for dispatch) In Case C‑554/16, REQUEST for a preliminary ruling under Article 267 TFEU from the Verwaltungsgerichtshof (Administrative Court, Austria), made by decision of 10 October 2016, received at the Court on 31 October 2016, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">EP Agrarhandel GmbH</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#">Bundesminister für Land- und Forstwirtschaft</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="respondent" refersTo="#">Umwelt und Wasserwirtschaft</party>
+      </p>
+      <p>, THE COURT (Fifth Chamber), composed of J.L. da Cruz Vilaça, President of the Chamber, E. Levits, A. Borg Barthet (Rapporteur), M. Berger and F. Biltgen, Judges, Advocate General: J. Kokott Registrar: A. Calot Escobar, having regard to the written procedure, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>the Austrian Government, by G. Eberhard, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by D. Triantafyllou and A. Sauka, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 7 December 2017,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <tblock>
+        <p>Judgment</p>
+      </tblock>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_13267">
+          <num>1</num>
+          <content eId="para_13267__content">
+            <p>This request for a preliminary ruling concerns the interpretation of the second paragraph of Article 117 of Council Regulation (EC) No 73/2009 of 19 January 2009 establishing common rules for direct support schemes for farmers under the common agricultural policy and establishing certain support schemes for farmers, amending Regulations (EC) No 1290/2005, (EC) No 247/2006 and (EC) No 378/2007 and repealing Regulation (EC) No 1782/2003 ( OJ 2009 L 30, p. 16), and of Article 2(4) of Commission Decision 2001/672/EC of 20 August 2001 laying down special rules applicable to movements of bovine animals when put out to summer grazing in mountain areas ( OJ 2001 L 235, p. 23), as amended by Commission Decision 2010/300/EU of 25 May 2010 ( OJ 2010 L 127, p. 19) ( `Decision 2001/672').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13268">
+          <num>2</num>
+          <content eId="para_13268__content">
+            <p>The request has been made in proceedings between EP Agrarhandel GmbH and the Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft (Federal Minister for Agriculture, Forestry, Environment and Water ( `the Minister for Agriculture') concerning the latter's refusal to grant EP Agrarhandel a suckler-cow premium for certain cows on the ground that their movement to and from summer pastures was notified late.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>European Union law</p>
+        </tblock>
+        <tblock>
+          <p>Regulation (EC) No 1760/2000</p>
+        </tblock>
+        <paragraph eId="para_13269">
+          <num>3</num>
+          <content eId="para_13269__content">
+            <p>Recitals 4 to 7 and 14 of Regulation (EC) No 1760/2000 of the European Parliament and of the Council of 17 July 2000 establishing a system for the identification and registration of bovine animals and regarding the labelling of beef and beef products and repealing Council Regulation (EC) No 820/97 ( OJ 2000 L 204, p. 1) states: `</p>
+            <blockList>
+              <item>
+                <num>(4)</num>
+                <p>Following the instability in the market in beef and beef products caused by the bovine spongiform encephalopathy crisis, the improvement in the transparency of the conditions for the production and marketing of the products concerned, particularly as regards traceability, has exerted a positive influence on consumption of beef. In order to maintain and strengthen the confidence of consumers in beef and to avoid misleading them, it is necessary to develop the framework in which the information is made available to consumers by sufficient and clear labelling of the product.</p>
+              </item>
+              <item>
+                <num>(5)</num>
+                <p>To that end it is essential to establish, on the one hand, an efficient system for the identification and registration of bovine animals at the production stage and to create, on the other hand, a specific Community labelling system in the beef sector based on objective criteria at the marketing stage.</p>
+              </item>
+              <item>
+                <num>(6)</num>
+                <p>By virtue of the guarantees provided through this improvement, certain public interest requirements will also be attained, in particular the protection of human and animal health.</p>
+              </item>
+              <item>
+                <num>(7)</num>
+                <p>As a result, consumer confidence in the quality of beef and beef products will be improved, a higher level of protection of public health preserved and the lasting stability of the beef market will be reinforced. ...</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(14)</num>
+                <p>For the purpose of rapid and accurate tracing of animals for reasons relating to the control of Community aid schemes, each Member State should create a national computerised data base which will record the identity of the animal, all holdings on its territory and the movements of the animals, in accordance with the provisions of Council Directive 97/12/EC of 17 March 1997 amending and updating Directive 64/432/EEC on health problems affecting intra-Community trade in bovine animals and swine ( OJ 1997 L 109, p. 1), which clarifies the health requirements concerning this database. ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13270">
+          <num>4</num>
+          <content eId="para_13270__content">
+            <p>Article 3 of that regulation provides: `The system for the identification and registration of bovine animals shall comprise the following elements:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>eartags to identify animals individually;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>computerised databases;</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>animal passports;</p>
+              </item>
+              <item>
+                <num>(d)</num>
+                <p>individual registers kept on each holding. The Commission and the competent authority of the Member State concerned shall have access to all the information covered by this title. The Member States and the Commission shall take the measures necessary to ensure access to these data for all parties concerned, including consumer organisations having an interest which are recognised by the Member State, provided that the data confidentiality and protection prescribed by national law are ensured. ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13271">
+          <num>5</num>
+          <content eId="para_13271__content">
+            <p>According to Article 7(1) of that regulation: `With the exception of transporters, each keeper of animals shall:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>keep an up-to-date register,</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>once the computerised database is fully operational, report to the competent authority all movements to and from the holding and all births and deaths of animals on the holding, along with the dates of these events, within a period fixed by the Member State of between three and seven days of the event occurring. However, at the request of a Member State and in accordance with the procedure referred to in Article 23(2), the Commission may determine the circumstances in which Member States may extend the maximum period and provide for special rules applicable to movements of bovine animals when put out to summer grazing in different mountain areas.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Regulation (EC) No 73/2009</p>
+        </tblock>
+        <paragraph eId="para_13272">
+          <num>6</num>
+          <content eId="para_13272__content">
+            <p>Article 4(1) of Regulation No 73/2009 provides: `A farmer receiving direct payments shall respect the statutory management requirements listed in Annex II and the good agricultural and environmental condition referred to in Article 6. ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13273">
+          <num>7</num>
+          <content eId="para_13273__content">
+            <p>Article 23(1) of that regulation provides: `Where the statutory management requirements or good agricultural and environmental condition are not complied with at any time in a given calendar year (hereinafter referred to as ``the calendar year concerned ''), and the non-compliance in question is the result of an act or omission directly attributable to the farmer who submitted the aid application in the calendar year concerned, the total amount of direct payments granted or to be granted, following application of Articles 7, 10 and 11 to that farmer, shall be reduced or excluded in accordance with the detailed rules laid down in Article 24. ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13274">
+          <num>8</num>
+          <content eId="para_13274__content">
+            <p>Article 111(1) and (2) of that regulation states: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>A farmer keeping suckler cows on his holding may qualify, on application, for a premium for maintaining suckler cows ( `suckler-cow premium'). It shall be granted in the form of an annual premium per calendar year and per farmer within the limits of individual ceilings.</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>The suckler-cow premium shall be granted to any farmer:</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>not supplying milk or milk products from his farm for 12 months from the day on which the application is lodged. The supply of milk or milk products directly from the holding to the consumer shall not, however, prevent the premium being granted;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>supplying milk or milk products the total individual quota of which, as referred to in Article 67 of [Council] Regulation (EC) No 1234/2007 [of 22 October 2007 establishing a common organisation of agricultural markets and on specific provisions for certain agricultural products (Single CMO Regulation) ( OJ 2007 L 299, p. 1)], does not exceed 120000 kg. However, Member States may decide, on the basis of objective and non-discriminatory criteria which they determine, to change or waive the quantitative limit, provided that the farmer keeps, for at least six consecutive months from the day on which the application is lodged, a number of suckler cows not less than 60% and of heifers not exceeding 40% of the number for which the premium was requested. For the purposes of determining the number of eligible animals under points (a) and (b) of the first subparagraph, whether cows belong to a suckler herd or to a dairy herd shall be established on the basis of the beneficiary's individual quota for milk available on the holding on 31 March of the calendar year concerned, expressed in tonnes and the average milk yield. ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13275">
+          <num>9</num>
+          <content eId="para_13275__content">
+            <p>Article 117 of Regulation No 73/2009 provides: `To qualify for the payments under this section, an animal shall be identified and registered in accordance with Regulation (EC) No 1760/2000. Nevertheless, an animal shall also be deemed eligible for the payments where the information laid down in the second indent of Article 7(1) of Regulation (EC) No 1760/2000 has been reported to the competent authority on the first day of the retention period of the animal as determined in accordance with the procedure referred to in Article 141(2) of this regulation. ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13276">
+          <num>10</num>
+          <content eId="para_13276__content">
+            <p>In accordance with Annex II concerning the statutory management requirements referred to in Articles 4 and 5, point A, concerning public and animal health, point 7, animal identification and registration are provided for, with reference to Articles 4 and 7 of Regulation No 1760/2000.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Regulation (EC) No 1121/2009</p>
+        </tblock>
+        <paragraph eId="para_13277">
+          <num>11</num>
+          <content eId="para_13277__content">
+            <p>Article 61 of Commission Regulation (EC) No 1121/2009 of 29 October 2009 laying down detailed rules for the application of Council Regulation (EC) No 73/2009 as regards the support schemes for farmers provided for in Titles IV and V thereof ( OJ 2009 L 316, p. 27) provides: `The six-month retention period provided for in the second subparagraph of Article 111(2) of Regulation (EC) No 73/2009 shall start on the day following that on which the application is submitted. ...'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Regulation (EC) No 1122/2009</p>
+        </tblock>
+        <paragraph eId="para_13278">
+          <num>12</num>
+          <content eId="para_13278__content">
+            <p>Article 2, point 24, of Commission Regulation (EC) No 1122/2009 of 30 November 2009 laying down detailed rules for the implementation of Council Regulation (EC) No 73/2009 as regards cross-compliance, modulation and the integrated administration and control system, under the direct support schemes for farmers provided for that regulation, as well as for the implementation of Council Regulation (EC) No 1234/2007 as regards cross-compliance under the support scheme provided for the wine sector ( OJ 2009 L 316, p. 65) contains the following definition: ```animal determined '' means an animal for which all conditions laid down in the rules for granting the aid have been met'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13279">
+          <num>13</num>
+          <content eId="para_13279__content">
+            <p>Article 23(1) of that regulation provides: `Except in cases of force majeure and exceptional circumstances as referred to in Article 75, the submission of an aid application pursuant to this Regulation after the relevant time limit shall lead to a 1% reduction per working day in the amounts to which the farmer would have been entitled if the application had been submitted within the time limit. Without prejudice to any particular measures to be taken by the Member States with regard to the need for the submission of any supporting documents in due time to allow effective controls to be scheduled and carried out, the first subparagraph shall also apply with regard to documents, contracts or declarations to be submitted to the competent authority in accordance with Articles 12 and 13 where such documents, contracts or declarations are constitutive for the eligibility for the aid in question. In that case, the reduction shall be applied on the amount payable for the aid concerned. If the delay amounts to more than 25 calendar days the application shall be considered inadmissible. ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13280">
+          <num>14</num>
+          <content eId="para_13280__content">
+            <p>Under Article 63(4) of Regulation No 1122/2009: `Where cases of irregularities with regard to the system for the identification and registration for bovine animals are found, the following shall apply:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>a bovine animal which has lost one of the two ear tags shall be regarded as determined provided that it is clearly and individually identified by the other elements of the system for the identification and registration of bovine animals;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>where the irregularities found relate to incorrect entries in the register or the animal passports, the animal concerned shall only be deemed as not determined if such errors are found on at least two checks within a period of 24 months. In all other cases the animals concerned shall be deemed as not determined after the first finding. Article 21 shall apply in relation to entries in, and notifications to, the system for the identification and registration of bovine animals. ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13281">
+          <num>15</num>
+          <content eId="para_13281__content">
+            <p>Article 65(1) of that regulation provides: `Where, in respect of an application for aid under the bovine aid schemes, a difference is found between the number of animals declared and that determined in accordance with Article 63(3), the total amount of aid to which the farmer is entitled under those schemes for the premium period concerned shall be reduced by the percentage to be established in accordance with paragraph 3 of this Article, if no more than three animals are found with irregularities. ...'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Decision 2001/672</p>
+        </tblock>
+        <paragraph eId="para_13282">
+          <num>16</num>
+          <content eId="para_13282__content">
+            <p>Article 2(4) of Decision 2001/672, in its initial version, provided: `The information contained in the list mentioned in paragraph 2 is introduced in the national database for bovine animals at the latest seven days after the date when the animals are moved to the pasture. ...'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Decision 2010/300</p>
+        </tblock>
+        <paragraph eId="para_13283">
+          <num>17</num>
+          <content eId="para_13283__content">
+            <p>Recitals 5 and 6 of Decision 2010/300 state: `</p>
+            <blockList>
+              <item>
+                <num>(5)</num>
+                <p>Under certain conditions, animals, which are moved from different holdings to the same summer grazing mountain area, arrive there over a period of more than seven days. In order to reduce unnecessary administrative burdens, time limits in Decision 2001/672/EC [in its initial version] should therefore be adapted to take account of that practical fact without compromising traceability ...</p>
+              </item>
+              <item>
+                <num>(6)</num>
+                <p>Decision 2001/672/EC should therefore be amended accordingly. ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13284">
+          <num>18</num>
+          <content eId="para_13284__content">
+            <p>Under Article 1(2) of that decision, Article 2(4) of Decision 2001/672, in its initial version, was amended as follows: `The information contained in the list mentioned in paragraph 2 shall be reported to the competent authority in accordance with Article 7(1) of Regulation (EC) No 1760/2000 at the latest 15 days after the date when the animals were moved to the pasture. ...'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Austrian law</p>
+        </tblock>
+        <paragraph eId="para_13285">
+          <num>19</num>
+          <content eId="para_13285__content">
+            <p>Section 3 of the Verordnung des Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft über Direktzahlungen im Rahmen der gemeinsamen Agrarpolitik (Order of the Minister for Agriculture on direct payments under the Common Agricultural Policy) (BGBl. II No 491/2009), entitled `Suckler cow premium and dairy cow premium', provides: `Application § 12. The data from the computerised database for bovine animals on the keeping of suckler cows and heifers shall be regarded as the farmer's application form the suckler-cow premium. General rules § 13. (1) The farmer who keeps the eligible suckler cows, heifers or dairy cows on 1 January, 16 March or 10 April [of the year under consideration] and for whose holding a single application for the relevant year is submitted shall be regarded as the applicant. ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13286">
+          <num>20</num>
+          <content eId="para_13286__content">
+            <p>Article 6 of the Verordnung des Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft über die Kennzeichnung und Registrierung von Rindern (Order of the Minister for Agriculture on the identification and registration of bovine animals) ((BGBl. II No 201/2008 in the version in BGBl. II No 66/2010), entitled `Notifications by the keeper of the animals', provides: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>The following shall be notified within seven days: 1. ... movements of animals onto and out of the holding ... ... 3.   movements of animals to mountain pastures/pastures where it results in the mixing of the bovine animals of several keepers, 4.   movements to mountain pastures/pastures in another municipality where there are particular holding numbers for the mountain pastures/pastures ... ...</p>
+              </item>
+              <item>
+                <num>(5)</num>
+                <p>the mountain pasture/pasture notification shall be effected using a form to be produced by the AMA and be submitted to the AMA by post or online. 1 to 4 shall be submitted to the AMA by telephone, in writing or online, without prejudice to Paragraph 5(1).(6)   As regards compliance with the time limit, receipt shall be the determining factor.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_13287">
+          <num>21</num>
+          <content eId="para_13287__content">
+            <p>By decision of 28 March 2012, the Vorstand für den Geschäftsbereich II der Agrarmarkt Austria (supervisory body) granted EP Agrarhandel, for calendar year 2011, bovine premiums totalling EUR 398.80. However, it refused to grant, for the same year, premiums in respect of certain bovine animals.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13288">
+          <num>22</num>
+          <content eId="para_13288__content">
+            <p>EP Agrarhandel appealed against that decision to the Minister for Agriculture. By a decision of 6 December 2013, the Minister rejected the appeal on the ground that, in the absence of a notification or in the case of an incorrect or late notification to the bovine database of information relevant for the granting of premiums, the animal is not considered as an `animal determined', within the meaning of Article 2, point 24, of Regulation No 1122/2009, and that no premium may be granted where that late notification was not made before the start of the retention period.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13289">
+          <num>23</num>
+          <content eId="para_13289__content">
+            <p>The Minister for Agriculture recalls that the notification in respect of the 37 cows and 6 heifers concerned was not received within the 15-day period laid down in Article 2(4) of Decision 2001/672, so that the suckler-cow premium could not be paid for those animals, irrespective of the number of days it took for delivery by post. The movement of those animals in fact took place on 17 June 2011 and the notification was received by the competent authority on 7 July 2011.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13290">
+          <num>24</num>
+          <content eId="para_13290__content">
+            <p>EP Agrarhandel brought an appeal on a point of law against that decision before the referring court. It argued that Article 2(4) of Decision 2001/672 does not refer to the `receipt' of notification of movement of bovine animals to pasture and that the notification was posted on the last day of the 15-day period laid down in that provision and therefore took place within the prescribed time limits.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13291">
+          <num>25</num>
+          <content eId="para_13291__content">
+            <p>It is of the opinion that if, however, the deadline was not observed, the penalty imposed, namely the loss of the premium in respect of the cows and heifers concerned, on the sole ground that the notification, the content of which is, furthermore, correct, was received some days late, due to the post taking more time to deliver it, is contrary to the principle of proportionality.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13292">
+          <num>26</num>
+          <content eId="para_13292__content">
+            <p>It was in those circumstances that the Verwaltungsgerichtshof (Administrative Court, Austria) decided to stay the proceedings and to refer to the Court the following questions for a preliminary ruling: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Does Article 2(4) of Decision [2001/672] preclude a provision of national law, such as Paragraph 6(6) of the Order of the Minister for Agriculture which, as regards compliance with all the time limits covered by that provision -- and thus also that relating to notification of movement to summer pasture -- regards receipt of the relevant notification as the determining factor?</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>What effect does the second paragraph of Article 117 of Regulation No 73/2009 have on the eligibility for a premium of bovine animals whose movement to summer pasture was notified late within the meaning of Article 2(4) of Decision [2001/672]?</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>If the late notification of movement to summer pasture under the second paragraph of Article 117 of Regulation No 73/2009 does not result in the loss of eligibility for a premium, are penalties to be imposed for such late notification?'</p>
+                <tblock>
+                  <p>Consideration of the questions referred</p>
+                </tblock>
+                <tblock>
+                  <p>The first question</p>
+                </tblock>
+                <p>27 By its first question, the referring court asks, in essence, whether Article 2(4) of Decision 2001/672 must be interpreted as precluding a national provision under which, for the purpose of compliance with the time limit for notification of movements to summer grazing, the date of receipt of the notification is regarded as the determining factor.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13293">
+          <num>28</num>
+          <content eId="para_13293__content">
+            <p>As a preliminary point, it must be recalled that Article 111(1) of Regulation No 73/2009 provides for a premium called the `suckler-cow premium' to be granted to any farmer meeting the conditions laid down in Article 111(2).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13294">
+          <num>29</num>
+          <content eId="para_13294__content">
+            <p>Under Article 117 of that regulation, only animals identified and registered in accordance with Regulation No 1760/2000 are eligible for that premium.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13295">
+          <num>30</num>
+          <content eId="para_13295__content">
+            <p>As regards, in particular, the registration of bovine animals, the second indent of Article 7(1) of Regulation No 1760/2000 provides that each keeper of animals is to `report ... to the competent authority all movements to and from the holding and all births and deaths of animals on the holding, along with the dates of these events, within a period fixed by the Member State of between three and seven days of the event occurring. However, at the request of a Member State and in accordance with the procedure referred to in Article 23(2), the Commission may determine the circumstances in which Member States may extend the maximum period and provide for special rules applicable to movements of bovine animals when put out to summer grazing in different mountain areas.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13296">
+          <num>31</num>
+          <content eId="para_13296__content">
+            <p>Decision 2001/672 provides in Article 2(4) that the information which must be contained in the list of bovine animals likely to be moved to pasture is to be `communicated to the competent authority ... at the latest 15 days after the date when the animals are moved to the pasture'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13297">
+          <num>32</num>
+          <content eId="para_13297__content">
+            <p>In that regard, it must be noted that the wording of that provision does not specify whether that time limit should be regarded as a time limit for receipt or for dispatch of the required information. In the first case, the information must have been received by the competent authority no later than 15 days after the movement of the bovine animals and, in the second, it must have been sent before the expiry of that period.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13298">
+          <num>33</num>
+          <content eId="para_13298__content">
+            <p>It must be pointed out that the wording in the majority of the language versions of Article 2(4) of Decision 2001/672 states that the information is to be `reported' to the competent national authority no later than 15 days after the date when the animals were moved to the pasture. It follows from that wording that the information must be sent before the deadline (see, by analogy, judgment of 1 April 2004, Borgmann, C‑1/02, EU:C:2004:202, paragraph 23).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13299">
+          <num>34</num>
+          <content eId="para_13299__content">
+            <p>However, as the Advocate General has observed in point 43 of her Opinion, the terms used are general and therefore open to interpretation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13300">
+          <num>35</num>
+          <content eId="para_13300__content">
+            <p>In addition, the Portuguese language version of Article 2(4) of Decision 2001/672 provides that information must be notified within 15 days of the movement of the animals to pasture and not at the latest 15 days after their arrival.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13301">
+          <num>36</num>
+          <content eId="para_13301__content">
+            <p>Where there is divergence between the various language versions of a text of EU law, the provision in question must be interpreted by reference to the purpose and general scheme of the rules of which it forms part (judgment of 26 April 2012, DR and TV2 Danmark, C‑510/10, EU:C:2012:244, paragraph 45 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13302">
+          <num>37</num>
+          <content eId="para_13302__content">
+            <p>In that regard, it follows from recitals 4 to 7 of Regulation No 1760/2000, on the basis of which Article 2(4) of Decision 2001/672 is based, that that provision seeks to improve consumer confidence in the quality of beef and beef products, to preserve the protection of public health and to reinforce the lasting stability of the beef market.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13303">
+          <num>38</num>
+          <content eId="para_13303__content">
+            <p>Indeed, the Court has held, in paragraph 41 of the judgment of 24 May 2007, Maatschap Schonewille-Prins ( C‑45/05, EU:C:2007:296), concerning the premiums for the slaughter of bovine animals, that, in order to meet those objectives, the system of identification and registration of bovine animals must be fully effective and reliable at all times so as, in particular, to enable the competent authorities, in the event of epizootic disease, to pinpoint as soon as possible the origin of an animal and immediately to take the necessary measures for the purpose of avoiding any risk to public health. That cannot be the case if the keeper of animals fails to notify movements of his bovine animals to the computerised database within the time limit laid down in the second indent of Article 7(1) of Regulation No 1760/2000.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13304">
+          <num>39</num>
+          <content eId="para_13304__content">
+            <p>However, a distinction should be made between, on the one hand, the notification of the movement to and from the holding of animals which creates basic rights in law as far as the livestock is concerned and is of particular importance from the point of view of tracing animals to be slaughtered because those animals are intended for immediate consumption and, on the other, simply registering the movement of animals to and from the pastures, which does not affect the fact that they belong to the holding and is not a step immediately preceding consumption.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13305">
+          <num>40</num>
+          <content eId="para_13305__content">
+            <p>In that regard, it must be observed that the second indent of Article 7(1) of Regulation No 1760/2000, as pointed out in paragraph 30 of this judgment, states that the Commission may determine the circumstances in which Member States may extend the maximum period and provide for special rules applicable to movements of bovine animals when put out to summer grazing in different mountain areas. Decision 2001/672 provides for such a derogation from the time limit laid down in that provision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13306">
+          <num>41</num>
+          <content eId="para_13306__content">
+            <p>Furthermore, Article 2(4) of Decision 2001/672, in its original version, did indeed provide that the information referred to in paragraph 2 of that article must be `introduced in the national database for bovine animals at the latest seven days after the date when the animals are moved to the pasture'. It follows therefrom that that information could not be regarded as having been introduced until it was actually registered in that database. It was not therefore sufficient that the notification was posted within the time limit (see, by analogy, judgment of 11 November 2004, Toeters and Verberk, C‑171/03, EU:C:2004:714, paragraph 43).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13307">
+          <num>42</num>
+          <content eId="para_13307__content">
+            <p>However, recital 5 of Decision 2010/300 states that, under certain conditions, animals, which are moved from different holdings to the same summer grazing mountain area, arrive there over a period of more than seven days and that, in order to reduce unnecessary administrative burdens, time limits in Decision 2001/672, in its original version, should therefore be adapted to take account of that practical fact without compromising traceability.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13308">
+          <num>43</num>
+          <content eId="para_13308__content">
+            <p>Thus, in order to take account of the change in wording of Article 2(4) of Decision 2001/672, it must be held that the time limit laid down by that provision has been complied with when the required information has been sent to the competent authority no later than 15 days after the date when the animals were moved to the pastures.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13309">
+          <num>44</num>
+          <content eId="para_13309__content">
+            <p>In that regard, as the Commission contended in its written observations, a more restrictive approach, requiring that the notification be received by the competent authority within the prescribed time limit, would run counter to the objective of extension and increased flexibility of the time limit for sending it.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13310">
+          <num>45</num>
+          <content eId="para_13310__content">
+            <p>Accordingly, neither the general scheme nor the purpose of Regulation No 1760/2000 and of Decision 2001/672 preclude the time limit in question from being understood as a time limit for dispatch so that, in some circumstances, the information to be transmitted may not be received by the competent authority of the Member State until several days after the time limit set.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13311">
+          <num>46</num>
+          <content eId="para_13311__content">
+            <p>Having regard to the foregoing considerations, the answer to the first question is that Article 2(4) of Decision 2001/672 must be interpreted as precluding a national provision under which, for the purpose of compliance with the time limit for notification of movements to summer grazing, the date of receipt of the notification is regarded as the determining factor.</p>
+            <tblock>
+              <p>The second and third questions</p>
+            </tblock>
+            <p>47 Having regard to the answer to the first question, there is no need to answer the second and third questions.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_13312">
+          <num>48</num>
+          <content eId="para_13312__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Fifth Chamber) hereby rules: Article 2(4) of Commission Decision 2001/672/EC of 20 August 2001 laying down special rules applicable to movements of bovine animals when put out to summer grazing in mountain areas, as amended by Commission Decision 2010/300/EU of 25 May 2010, must be interpreted as precluding a national provision under which, for the purpose of compliance with the time limit for notification of movements to summer grazing, the date of receipt of the notification is regarded as the determining factor.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: German.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

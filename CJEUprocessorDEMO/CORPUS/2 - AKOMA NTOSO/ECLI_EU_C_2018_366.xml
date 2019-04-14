@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Second Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>31 May 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Freedom of establishment -- Corporation tax -- Legislation of a Member State -- Calculation of the taxable revenue of companies -- Advantage granted gratuitously by a resident company to a non-resident company to which is it linked by a relationship of interdependence -- Correction of the taxable income of the resident company -- No correction of taxable income in the event of an identical advantage granted by a resident company to another resident company to which it is linked by such a relationship -- Restriction on the freedom of establishment -- Justification) In Case C‑382/16, REQUEST for a preliminary ruling under Article 267 TFEU from the Finanzgericht Rheinland-Pfalz (Finance Court, Rhineland-Palatinate, Germany), made by decision of 28 June 2016, received at the Court on 11 July 2016, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">Hornbach-Baumarkt AG</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#">Finanzamt Landau</party>
+      </p>
+      <p>, THE COURT (Second Chamber), composed of M. Ilešič, President of the Chamber, A. Rosas (Rapporteur), C. Toader, A. Prechal and E. Jarašiūnas, Judges, Advocate General: M. Bobek, Registrar: K. Malacek, Administrator, having regard to the written procedure and further to the hearing on 27 September 2017, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>Hornbach-Baumarkt AG, by J. Uterhark and J. Nagler, Rechtsanwälte,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the German Government, by T. Henze and R. Kanitz, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Swedish Government, by A. Falk, C. Meyer-Seitz, H. Shev, U. Persson and N. Otte Widgren and by F. Bergius and L. Swedenborg, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by W. Roels and M. Wasmeier, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 14 December 2017,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_12558">
+          <num>1</num>
+          <content eId="para_12558__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Article 43 EC (now Article 49 TFEU), in conjunction with Article 48 EC (now Article 54 TFEU).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12559">
+          <num>2</num>
+          <content eId="para_12559__content">
+            <p>The request has been in made in proceedings between Hornbach-Baumarkt AG and the Finanzamt Landau (Tax Office, Landau, Germany) ( `the Tax Office'), relating to the calculation by the latter of the corporation tax and the basis of calculation for that company's business tax for the year 2003.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <paragraph eId="para_12560">
+          <num>3</num>
+          <content eId="para_12560__content">
+            <p>The Gesetz über die Besteuerung bei Auslandsbeziehungen (Außensteuergesetz) (Foreign Transaction Tax Law), in the version resulting from the Gesetz zum Abbau von Steuervergünstigungen und Ausnahmeregelungen (Law on the Reduction of Tax Advantages and Exemptions) of 16 May 2003 (BGBl. 2003 I, p. 660) ( `the AStG'), provides, in Paragraph 1, entitled `Correction of income': `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>If a taxpayer's income from business relations with a related party is reduced as a result of the fact that, in connection with such business relations abroad, it agrees to terms that depart from those that would have been agreed on by unrelated third parties under the same or similar circumstances, then, without prejudice to other provisions, its income must be declared as if it had been earned under terms agreed upon between unrelated third parties.</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>A party is related to a taxpayer if: 1. the party has a direct or indirect shareholding in that taxpayer of at least 25% (substantial shareholding) or can exercise direct or indirect influence over the taxpayer or, conversely, where the taxpayer has a substantial shareholding in that party or can exercise direct or indirect influence over that party; or 2. a third party has a substantial shareholding in that party or taxpayer, or can exercise direct or indirect influence over the party or the taxpayer; or 3. the party or the taxpayer is in a position, when agreeing the terms of a business relationship, to exercise an influence on the other which has its source outside that business relationship or if one of those parties has a particular interest in the other's generation of income.</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>If, in accordance with Paragraph 162 of the Abgabeordnung [Fiscal Code], it is necessary to estimate the income referred to in subparagraph 1, the reference point for that estimate is, in the absence of another adequate point of reference, the return on the capital invested in the undertaking or the profit margin that experience and use allow in normal circumstances.</p>
+              </item>
+              <item>
+                <num>(4)</num>
+                <p>A business relationship, within the meaning of subparagraphs 1 and 2, shall mean any relationship falling within the law of obligations, which is not agreed in the company statutes and which is part of the activity of either the taxpayer or the related party to which Paragraphs 13, 15, 18 or 21 of the Einkommensteuergesetz [Law on Income Tax] are applicable or which, in the case of a related party which is non-resident, would be applicable if the activity were carried out in Germany.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the question referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_12561">
+          <num>4</num>
+          <content eId="para_12561__content">
+            <p>Hornbach-Baumarkt AG is a public limited company established in Germany which operates do-it-yourself (DIY) and building materials shops in that Member State and in other Member States.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12562">
+          <num>5</num>
+          <content eId="para_12562__content">
+            <p>In 2003, Hornbach-Baumarkt AG, through its subsidiary Hornbach International GmbH and, in turn, through the latter's Dutch subsidiary Hornbach Holding BV, held an indirect shareholding of 100% in two companies established in the Netherlands, namely Hornbach Real Estate Groningen BV and Hornbach Real Estate Wateringen BV ( `the foreign group companies').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12563">
+          <num>6</num>
+          <content eId="para_12563__content">
+            <p>The foreign group companies had negative equity capital and required, respectively, in order to continue their business operations and to finance the planned construction of a DIY store and garden centre, bank loans of EUR 10057000 as regards Hornbach Real Estate Groningen BV and of EUR 14800000 as regards Hornbach Real Estate Wateringen BV.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12564">
+          <num>7</num>
+          <content eId="para_12564__content">
+            <p>The bank ensuring the financing of those companies had made the granting of the loans contingent on the provision of comfort letters containing a guarantee statement from Hornbach-Baumarkt AG.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12565">
+          <num>8</num>
+          <content eId="para_12565__content">
+            <p>On 25 September 2002, Hornbach-Baumarkt AG provided those comfort letters gratuitously.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12566">
+          <num>9</num>
+          <content eId="para_12566__content">
+            <p>In those comfort letters, Hornbach-Baumarkt AG undertook vis-à-vis the financing bank to refrain from divesting of or changing its shareholding in Hornbach Holding BV and, in addition, undertook to ensure that Hornbach Holding BV would likewise refrain from divesting of or changing its shareholding in the foreign group companies without giving the bank written notice thereof at least three weeks prior to such divestment or change.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12567">
+          <num>10</num>
+          <content eId="para_12567__content">
+            <p>Furthermore, Hornbach-Baumarkt AG irrevocably and unconditionally undertook to fund the foreign group companies in such a way as to enable them to meet all of their liabilities. Accordingly, it had to make available those companies, as necessary, the requisite funds to enable them to satisfy their liabilities towards the funding bank. In addition, Hornbach-Baumarkt AG had to ensure that such funds would be used to settle any liabilities towards the funding bank.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12568">
+          <num>11</num>
+          <content eId="para_12568__content">
+            <p>Taking the view that unrelated third parties, under the same or similar circumstances, would agree on remuneration in exchange for granting the guarantees, the Tax Office decided that the income of Hornbach-Baumarkt AG had to be increased, in accordance with Paragraph 1(1) and (4) of the AStG, by an amount corresponding to the presumed amount of the remuneration for the guarantees granted and accordingly amended the corporation tax and the basis of calculation for that company's business tax for the year 2003. The Tax Office therefore corrected the amount of taxable income of Hornbach-Baumarkt AG as a result of the guarantees granted to Hornbach Real Estate Groningen BV and Hornbach Real Estate Wateringen BV by EUR 15253 and EUR 22447 respectively.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12569">
+          <num>12</num>
+          <content eId="para_12569__content">
+            <p>Since the objections brought against the decisions pursuant to which the Tax Office carried out those corrections were rejected by the Tax Office as being unfounded, Hornbach-Baumarkt AG brought an action against those decisions before the Finanzgericht Rheinland-Pfalz (Finance Court, Rhineland-Palatinate, Germany).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12570">
+          <num>13</num>
+          <content eId="para_12570__content">
+            <p>In the context of that action, Hornbach-Baumarkt AG argued that Paragraph 1 of the AStG leads to unequal treatment in cases involving domestic and foreign transactions since, in a case involving purely domestic transactions, no corrections of income would be made in order to reflect the presumed amount of the remuneration for guarantees granted to subsidiaries.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12571">
+          <num>14</num>
+          <content eId="para_12571__content">
+            <p>In that connection, it submits, in particular, that it is apparent from the judgment of 21 January 2010, SGI ( C‑311/08, EU:C:2010:26), which concerns a provision of Belgian tax law which is analogous to Paragraph 1 of the AStG, that the latter provision must be regarded as a restriction on freedom of establishment which is not justified due to the fact that it is disproportionate. Contrary to the requirements stemming from that judgment, Paragraph 1 of the AStG does not contain any provision concerning the opportunity to present commercial justification in order to explain a non-arm's-length transaction. In the present case, according to Hornbach-Baumarkt AG, commercial reasons explain why no remuneration was given for the comfort letters at issue in the main proceedings. Those commercial reasons relate to supportive actions to replace the equity capital of the foreign group companies.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12572">
+          <num>15</num>
+          <content eId="para_12572__content">
+            <p>The Tax Office contends that, even though Paragraph 1 of the AStG does not contain a separate provision concerning the presentation of evidence of any commercial justification for a transaction, the taxpayer does however have the opportunity to present evidence of the reasonableness of the transaction carried out.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12573">
+          <num>16</num>
+          <content eId="para_12573__content">
+            <p>According to the referring court, the Tax Office correctly proceeded on the assumption that the terms agreed on between Hornbach-Baumarkt AG and the foreign group companies departed from those that would have been agreed on by unrelated third parties under the same or similar circumstances. This is because unrelated business partners would agree on remuneration for the provider of a comfort letter containing a guarantee statement due to the associated liability risk. The factual requirements in Paragraph 1(1) of the AStG, in conjunction with the third alternative in point 1 of Paragraph 1(2) of the AStG, were thus satisfied for the purpose of correcting the income of Hornbach-Baumarkt AG.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12574">
+          <num>17</num>
+          <content eId="para_12574__content">
+            <p>However, the referring court is uncertain as to the compatibility of legislation such as that at issue in the main proceedings with the freedom of establishment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12575">
+          <num>18</num>
+          <content eId="para_12575__content">
+            <p>In that regard, that court notes that, according to Paragraph 1(1) of the AStG, the income of a taxpayer resident in the Member State concerned that is reduced as a result of agreement on non-arm's-length terms will be recalculated only if the related party is domiciled in another State. If, on the other hand, that related party is a resident subsidiary of the taxpayer established in the territory of the Member State in which that taxpayer is resident, the income will not be corrected either under Paragraph 1(1) of the AStG or under any other national legislation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12576">
+          <num>19</num>
+          <content eId="para_12576__content">
+            <p>As a result, where a taxpayer resident in the Member State concerned has a shareholding in a company established in another Member State, that taxpayer is treaded less favourably than if he had a shareholding in a resident company. The referring court accordingly takes the view that Paragraph 1(1) of the AStG results in a restriction on the resident taxpayer's freedom of establishment which is precluded by Article 43 EC (now Article 49 TFEU).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12577">
+          <num>20</num>
+          <content eId="para_12577__content">
+            <p>In that regard, it is apparent from the judgment of 21 January 2010, SGI ( C‑311/08, EU:C:2010:26), that legislation of a Member State establishing a difference in the tax treatment of resident companies, depending on whether or not the companies to which they have granted unusual and gratuitous advantages and with which they have a relationship of interdependence are established in that Member State, constitutes, in principle, a restriction on freedom of establishment, but that it pursues legitimate objectives concerning the need to maintain the balanced allocation of the power to tax between the Member States and that of preventing tax avoidance.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12578">
+          <num>21</num>
+          <content eId="para_12578__content">
+            <p>However, the referring court is uncertain whether legislation such as Paragraph 1(1) of the AStG complies with the principle of proportionality.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12579">
+          <num>22</num>
+          <content eId="para_12579__content">
+            <p>In that regard, that court notes that, in accordance with paragraph 71 of the judgment of 21 January 2010, SGI ( C‑311/08, EU:C:2010:26), compliance with the principle of proportionality requires that, in a situation where it cannot be excluded that a transaction does not correspond to that which would have been agreed upon under market conditions, the taxpayer has the opportunity, without being subject to undue administrative constraints, to provide evidence of any commercial justification that there may have been for that transaction.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12580">
+          <num>23</num>
+          <content eId="para_12580__content">
+            <p>The referring court is uncertain as to whether commercial justification may be presented as evidence to explain why a transaction concluded on non-arm's-length terms could be connected to the fact that Hornbach-Baumarkt AG has a shareholding in the foreign group companies, in particular in situations in which the subsidiary borrows funds from a bank to increase its capital. The parent company has its own financial interest in the commercial success of its subsidiary and furthermore would assume, where necessary, financial responsibility in respect of that subsidiary.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12581">
+          <num>24</num>
+          <content eId="para_12581__content">
+            <p>That court notes that, although, under German law, the taxpayer has the opportunity to present and explain why the terms agreed on with a foreign company are in line with those that would have been agreed on by unrelated third parties under the same or similar circumstances, Paragraph 1(1) of the AStG however does not provide an opportunity for the taxpayer to present evidence of a commercial justification for a transaction concluded on non-arm's-length terms where that justification is based on the relationship of interdependence between the parties in question.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12582">
+          <num>25</num>
+          <content eId="para_12582__content">
+            <p>Consequently, the referring court takes the view that it is necessary to obtain clarification as to whether a provision such as Paragraph 1(1) of the AStG, in conjunction with the third alternative in point 1 of Paragraph 1(2) thereof, complies with the requirements of EU law relating to the opportunity to present evidence of the commercial justification for concluding an agreement on non-arm's-length terms.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12583">
+          <num>26</num>
+          <content eId="para_12583__content">
+            <p>In those circumstances, the Finanzgericht Rheinland-Pfalz (Finance Court, Rhineland-Palatinate) decided to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling: `Does Article 49 TFEU (formerly Article 43 EC), in conjunction with Article 54 TFEU (formerly Article 48 EC), preclude legislation of a Member State which provides that income of a resident taxpayer derived from business relations with a company established in another Member State in which that taxpayer has a direct or indirect shareholding of at least 25% and with which that taxpayer has agreed terms that depart from those that would have been agreed on by unrelated third parties under the same or similar circumstances must be calculated as if that income had been earned pursuant to terms agreed on between unrelated third parties, if such a correction is not made in respect of income from business relations with a resident company and the legislation in question does not afford the resident taxpayer the opportunity to present evidence that the terms were agreed on for commercial reasons resulting from its status as a shareholder of the company?'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the question referred</p>
+        </tblock>
+        <paragraph eId="para_12584">
+          <num>27</num>
+          <content eId="para_12584__content">
+            <p>By its question, the referring court asks, in essence, whether Article 43 EC (now Article 49 TFEU), in conjunction with Article 48 EC (now Article 54 TFEU), must be interpreted as precluding national legislation, such as that at issue in the main proceedings, pursuant to which the income of a company resident in a Member State, which granted to a company established in another Member State with which it has a relationship of interdependence advantages under terms that depart from those that would have been agreed by unrelated third parties under the same or similar circumstances, must be calculated as it would have been if the terms which would have been agreed with unrelated third parties had been applicable and be corrected, despite the fact that such a correction is not made in respect of taxable income when the same advantages are granted by a resident company to another resident company with which it has a relationship of interdependence, and when that legislation does not afford the resident taxpayer the opportunity to present evidence that the terms were agreed on for commercial reasons resulting from its status as a shareholder of the non-resident company.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12585">
+          <num>28</num>
+          <content eId="para_12585__content">
+            <p>According to the settled case-law of the Court, national legislation intended to apply only to those shareholdings which enable the holder to exert a definite influence on a company's decisions and to determine its activities fall within the scope of freedom of establishment (judgments of 13 November 2012, Test Claimants in the FII Group Litigation, C‑35/11, EU:C:2012:707, paragraph 91; of 5 February 2014, Hervis Sport- és Divatkereskedelmi, C‑385/12, EU:C:2014:47, paragraph 22; and of 10 June 2015, X, C‑686/13, EU:C:2015:375, paragraph 18).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12586">
+          <num>29</num>
+          <content eId="para_12586__content">
+            <p>The third alternative in point 1 of Paragraph 1(2) of the AStG covers the situation in which a resident taxpayer has at least a 25% shareholding in a company established in a Member State other than the Member State in which it is resident, namely a holding which enables the taxpayer to exert a definite influence on the company in question.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12587">
+          <num>30</num>
+          <content eId="para_12587__content">
+            <p>As the referring court stated, in the case in the main proceedings, Hornbach-Baumarkt AG holds an indirect shareholding of 100% in the foreign group companies and can therefore exert a definite influence on the decisions and activities of those companies.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12588">
+          <num>31</num>
+          <content eId="para_12588__content">
+            <p>The national legislation at issue in the main proceedings must therefore be examined in the light of the provisions of the EC Treaty concerning freedom of establishment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12589">
+          <num>32</num>
+          <content eId="para_12589__content">
+            <p>According to settled case-law, the provisions of the Treaty concerning freedom of establishment prohibit the Member State of origin from hindering the establishment in another Member State of a company incorporated under its legislation, in particular through a subsidiary. Freedom of establishment is hindered if, under a Member State's tax system, a resident company having a subsidiary in another Member State suffers a disadvantageous difference in treatment for tax purposes compared with a resident company having a subsidiary in the first Member State (judgment of 21 December 2016, Masco Denmark and Damixa, C‑593/14, EU:C:2016:984, paragraphs 24 and 25).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12590">
+          <num>33</num>
+          <content eId="para_12590__content">
+            <p>In the present case, it must be stated, as the referring court noted, that, under Paragraph 1(1) of the AStG, a correction may be made to a taxpayer's income only in connection with its business relations outside Germany. Thus, the income of a resident taxpayer, reduced due to the fact that it agreed on non-arm's-length terms with a related party, is the subject of a correction only if that party is established outside Germany. If, by contrast, that party is a subsidiary of the taxpayer which is established in Germany, the income will not be corrected either under Paragraph 1(1) of the AStG or under any other national legislation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12591">
+          <num>34</num>
+          <content eId="para_12591__content">
+            <p>It follows that a parent company resident in the Member State concerned, which holds a shareholding in a company established in another Member State, is treated less favourably than if it had a shareholding in a resident company.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12592">
+          <num>35</num>
+          <content eId="para_12592__content">
+            <p>According to the case-law of the Court, such a difference in the tax treatment of taxpayers based on the place where the companies with which an agreement on non-arm's-length terms have been made have their registered office is liable to constitute a restriction of freedom of establishment, within the meaning of Article 43 EC. The taxpayer might thereby be deterred from acquiring, creating or maintaining a subsidiary in a Member State other than its Member State of residence or from acquiring or maintaining a substantial holding in a company established in that other Member State because of the tax burden imposed, in a cross-border situation, on the agreement entered into on non-arm's-length terms (see, to that effect, judgment of 21 January 2010, SGI, C‑311/08, EU:C:2010:26, paragraph 44).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12593">
+          <num>36</num>
+          <content eId="para_12593__content">
+            <p>According to the Court's settled case-law, a tax measure which is liable to hinder the freedom of establishment enshrined in Article 43 EC is permissible only if it relates to situations which are not objectively comparable or if it can be justified by overriding reasons in the public interest recognised by EU law. It is further necessary, in such a case, that it is appropriate for ensuring the attainment of the objective in question and does not go beyond what is necessary to attain that objective (see, to that effect, judgments of 29 November 2011, National Grid Indus, C‑371/10, EU:C:2011:785, paragraph 42; of 17 December 2015, Timac Agro Deutschland, C‑388/14, EU:C:2015:829, paragraphs 26 and 29; of 21 December 2016, Masco Denmark and Damixa, C‑593/14, EU:C:2016:984, paragraph 28; and of 23 November 2017, A, C‑292/16, EU:C:2017:888, paragraph 28).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12594">
+          <num>37</num>
+          <content eId="para_12594__content">
+            <p>It is apparent from the national legislation at issue in the main proceedings that that legislation imposes tax on a resident company when that company has granted advantages to a non-resident company, with which it has a relationship, under conditions which are not market conditions, so that the taxable income of the resident company may be reduced in the Member State concerned.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12595">
+          <num>38</num>
+          <content eId="para_12595__content">
+            <p>According to the German Government, the tax situation of a resident parent company differs depending on whether it has business relations with a resident subsidiary or a non-resident subsidiary, given that the Federal Republic of Germany does not have the power to impose tax on the income of subsidiaries established in other Member States.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12596">
+          <num>39</num>
+          <content eId="para_12596__content">
+            <p>The German Government argues that the lack of correction of the income which a parent company receives from its business relations in a domestic situation is justified by the fact that the advantage granted gratuitously by that parent company increases the income of its subsidiary and the Federal Republic of Germany taxes both the income of the parent company and the profits of its subsidiary established in Germany. The position will be different for the subsidiaries of Hornbach-Baumarkt AG, which are established in the Netherlands, since the Federal Republic of Germany cannot tax the profits of those subsidiaries.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12597">
+          <num>40</num>
+          <content eId="para_12597__content">
+            <p>It should be noted that those arguments do not relate to the comparability of the situations but rather to the justification derived from the principle of territoriality, whereby Member States are entitled to tax income generated on their territory, or connected with the need to preserve the allocation of powers of taxation between Member States, which is a legitimate objective recognised by the Court (see, to that effect, judgments of 17 July 2014, Nordea Bank Danmark, C‑48/13, EU:C:2014:2087, paragraph 27, and of 23 November 2017, A, C‑292/16, EU:C:2017:888, paragraph 30).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12598">
+          <num>41</num>
+          <content eId="para_12598__content">
+            <p>In that regard, it should be noted that both the German Government and the Swedish Government argue that legislation such as that at issue in the main proceedings is justified by the overriding reason in the public interest of the preservation of the balanced allocation of the power to tax between the Member States and they rely, in this connection, on the judgment of 21 January 2010, SGI, ( C‑311/08, EU:C:2010:26, paragraph 69).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12599">
+          <num>42</num>
+          <content eId="para_12599__content">
+            <p>Furthermore, the Swedish Government argues that the rules in German law which implement the arm's length principle are a natural consequence of the principle of territoriality and are necessary to ensure that that principle is respected and that the balanced allocation of the power to tax is maintained.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12600">
+          <num>43</num>
+          <content eId="para_12600__content">
+            <p>According to settled case-law, the need to maintain the balanced allocation of the power to tax between the Member States may be capable of justifying a difference in treatment where the system in question is designed to prevent conduct liable to jeopardise the right of a Member State to exercise its power to tax in relation to activities carried out in its territory (judgments of 29 March 2007, Rewe Zentralfinanz, C‑347/04, EU:C:2007:194, paragraph 42; of 18 July 2007, Oy AA, C‑231/05, EU:C:2007:439, paragraph 54, of 21 February 2013, A, C‑123/11, EU:C:2013:84, paragraph 41; and of 21 December 2016, Masco Denmark and Damixa, C‑593/14, EU:C:2016:984, paragraph 35).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12601">
+          <num>44</num>
+          <content eId="para_12601__content">
+            <p>The Court has held that allowing companies resident in a Member State to transfer their profits, in the form of unusual or gratuitous advantages, to companies with which they have a relationship of interdependence and which are established in other Member States may well undermine the balanced allocation of the power to tax between the Member States and that legislation of a Member State providing that the resident company is to be taxed in respect of such advantages which it has granted to a company established in another Member State allows the former Member State to exercise its tax jurisdiction in relation to activities carried out in its territory. The Court has further held that such national legislation pursues legitimate objectives which are compatible with the Treaty and constitute overriding reasons in the public interest and that such legislation must be regarded as appropriate to ensure the attainment of those objectives (see, to that effect, judgment of 21 January 2010, SGI, C‑311/08, EU:C:2010:26, paragraphs 63, 64 and 69).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12602">
+          <num>45</num>
+          <content eId="para_12602__content">
+            <p>The same applies with respect to the national legislation at issue in the main proceedings, given that a resident company granting advantages to a company established in another Member State with which it has a relationship of interdependence under conditions which are not market conditions, could allow the resident company to transfer profits in the form of advantages to its non-resident subsidiary and may well undermine the balanced allocation of the power to tax between the Member States.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12603">
+          <num>46</num>
+          <content eId="para_12603__content">
+            <p>By taxing the resident company of the Member State concerned, on the basis of the value corresponding to the presumed amount of the remuneration for the advantage granted gratuitously to a company established in another Member State with which it has a relationship of interdependence in order to take account of the amount which the parent company would have had to declare in respect of those profits if the transaction had been concluded in accordance with market conditions, the legislation at issue in the main proceedings allows the first Member State to exercise its powers of taxation in relation to activities carried out in its territory.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12604">
+          <num>47</num>
+          <content eId="para_12604__content">
+            <p>It must therefore be held that national legislation such as that at issue in the main proceedings, which seeks to prevent profits generated in the Member State concerned from being transferred outside the tax jurisdiction of that Member State via transactions that are not in accordance with market conditions, without being taxed, is appropriate for ensuring the preservation of the allocation of powers of taxation between the Member States.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12605">
+          <num>48</num>
+          <content eId="para_12605__content">
+            <p>Lastly, it must be examined whether such national legislation does not go beyond what is necessary to achieve the objective pursued.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12606">
+          <num>49</num>
+          <content eId="para_12606__content">
+            <p>In that regard, the Court has held that national legislation which provides for a consideration of objective and verifiable elements in order to determine whether a transaction represents an artificial arrangement, entered into for tax reasons, is to be regarded as not going beyond what is necessary to attain the objectives relating to the need to maintain the balanced allocation of the power to tax between the Member States and to prevent tax avoidance where, first, on each occasion on which there is a suspicion that a transaction goes beyond what the companies concerned would have agreed under market conditions, the taxpayer is given an opportunity, without being subject to undue administrative constraints, to provide evidence of any commercial justification that there may have been for that transaction. Second, the corrective tax measure must, where required, be confined to the part which exceeds what would have been agreed between the companies in question under market conditions (judgment of 21 January 2010, SGI, C‑311/08, EU:C:2010:26, paragraphs 71 and 72).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12607">
+          <num>50</num>
+          <content eId="para_12607__content">
+            <p>As regards, first of all, the calculation of the amount of the income correction in relation to the taxpayer concerned, it should be noted that, before the Court, that issue was not the subject of debate between Hornbach-Baumarkt AG and the Tax Office. However, it should be noted that the German Government argued, without being contradicted on this point, that the corrections made by the German tax authorities in situations such as those at issue in the main proceedings are confined to the part which exceeds what would have been agreed if the companies in question did not have a relationship of interdependence.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12608">
+          <num>51</num>
+          <content eId="para_12608__content">
+            <p>Next, as regards the taxpayer's opportunity to provide evidence of any commercial justification for an agreement on non-arm's-length terms, the referring court's question relates, in particular, to whether any commercial justification may include economic reasons resulting from the very existence of a relationship of interdependence between the parent company resident in the Member State concerned and its subsidiaries which are resident in another Member State.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12609">
+          <num>52</num>
+          <content eId="para_12609__content">
+            <p>According to the German Government, the concept of `commercial justification' within the meaning of paragraph 71 of the judgment of 21 January 2010, SGI ( C‑311/08, EU:C:2010:26), must be interpreted in the light of the principle of free competition which, by its nature, rules out acceptance of economic reasons resulting from the position of the shareholder. For the purposes of assessing the proportionality of legislation such as that at issue in the main proceedings, it is necessary, moreover, to distinguish between, on the one hand, the possibility of relying on the reasons why advantages were granted gratuitously between companies in the same group, and, on the other hand, the assessment of the substance of those advantages. Hornbach-Baumarkt AG had the opportunity to present the reasons for its decision but could not show that those reasons corresponded to economic reasons.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12610">
+          <num>53</num>
+          <content eId="para_12610__content">
+            <p>In the present case, it is clear from the order for reference that the foreign group companies had negative equity capital and the financing bank made the granting of the loans required for the continuation and expansion of business operations contingent on the provision of comfort letters by Hornbach-Baumarkt AG.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12611">
+          <num>54</num>
+          <content eId="para_12611__content">
+            <p>In a situation where the expansion of the business operations of a subsidiary requires additional capital due to the fact that it lacks sufficient equity capital, there may be commercial reasons for a parent company to agree to provide capital on non-arm's-length terms.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12612">
+          <num>55</num>
+          <content eId="para_12612__content">
+            <p>Furthermore, it should be noted that, in the present case, no argument relating to the risk of tax avoidance has been advanced. The German Government has neither identified a wholly artificial arrangement, within the meaning of the Court's case-law, nor a desire on the part of the applicant in the main proceedings to reduce its taxable profit in Germany.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12613">
+          <num>56</num>
+          <content eId="para_12613__content">
+            <p>Accordingly, there may be a commercial justification by virtue of the fact that Hornbach-Baumarkt AG is a shareholder in the foreign group companies, which would justify the conclusion of the transaction at issue in the main proceedings under terms that deviated from arm's-length terms. Since the continuation and expansion of the business operations of those foreign companies was contingent, due to a lack of sufficient equity capital, upon a provision of capital, the gratuitous granting of comfort letters containing a guarantee statement, even though companies independent from one another would have agreed on remuneration for such guarantees, could be explained by the economic interest of Hornbach-Baumarkt AG itself in the financial success of the foreign group companies, in which it participates through the distribution of profits, as well as by a certain responsibility of the applicant in the main proceedings, as a shareholder, in the financing of those companies.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12614">
+          <num>57</num>
+          <content eId="para_12614__content">
+            <p>In the present case, it is for the referring court to determine whether Hornbach-Baumarkt AG was in a position, without being subject to undue administrative constraints, to put forward elements attesting to a possible commercial justification for the transactions at issue in the main proceedings, without it being precluded that economic reasons resulting from its position as a shareholder of the non-resident company might be taken into account in that regard.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12615">
+          <num>58</num>
+          <content eId="para_12615__content">
+            <p>Accordingly, it must be held that legislation such as that at issue in the main proceedings does not go beyond what is necessary to achieve the objective which it pursues, provided that the authorities responsible for the enforcement of that legislation afford the resident taxpayer the opportunity to prove that the terms were agreed on for commercial reasons which could result from its status as a shareholder in the non-resident company, which is a matter for the referring court to assess.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12616">
+          <num>59</num>
+          <content eId="para_12616__content">
+            <p>In the light of the foregoing considerations, the answer to the question referred is that Article 43 EC, in conjunction with Article 48 EC, must be interpreted as, in principle, not precluding national legislation, such as that at issue in the main proceedings, pursuant to which the income of a company resident in a Member State which granted to a company established in another Member State, with which it has a relationship of interdependence advantages under terms that depart from those that would have been agreed on by unrelated third parties under the same or similar circumstances, must be calculated as it would have been if the terms which would have been agreed with unrelated third parties had been applicable, and be corrected, despite the fact that such a correction is not made in respect of taxable income when the same advantages are granted by a resident company to another resident company with which it has a relationship of interdependence. However, it is for the national court to determine whether the legislation at issue in the main proceedings affords the resident taxpayer the opportunity to prove that the terms were agreed on for commercial reasons resulting from its status as a shareholder of the non-resident company.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_12617">
+          <num>60</num>
+          <content eId="para_12617__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Second Chamber) hereby rules: Article 43 EC (now Article 49 TFEU), in conjunction with Article 48 EC (now Article 54 TFEU), must be interpreted as, in principle, not precluding national legislation, such as that at issue in the main proceedings, pursuant to which the income of a company resident in a Member State which granted to a company established in another Member State with which it has a relationship of interdependence advantages under terms that depart from those that would have been agreed on by unrelated third parties under the same or similar circumstances, must be calculated as it would have been if the terms which would have been agreed with unrelated third parties had been applicable, and be corrected, despite the fact that such a correction is not made in respect of taxable income when the same advantages are granted by a resident company to another resident company with which it has a relationship of interdependence. However, it is for the national court to determine whether the legislation at issue in the main proceedings affords the resident taxpayer the opportunity to prove that the terms were agreed on for commercial reasons resulting from its status as a shareholder of the non-resident company.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: German.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

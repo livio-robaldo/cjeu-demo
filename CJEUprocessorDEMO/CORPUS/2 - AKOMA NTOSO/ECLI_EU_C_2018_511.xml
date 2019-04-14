@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+      <references source="#source">
+        <TLCOrganization eId="institution_96" showAs="" href="/akn/ontology/Organization/Institution/institution_96" />
+      </references>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Tenth Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>28 June 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Agreement between the European Community and its Member States, of the one part, and the Swiss Confederation, of the other, on the free movement of persons -- Social security for migrant workers -- Regulation (EC) No 883/2004 -- Paragraph 2 of the section `Spain' in Annex XI -- Retirement pension -- Method of calculation -- Theoretical amount -- Relevant contribution basis -- Special agreement -- Choice of contribution basis -- National legislation requiring the worker to make contributions in accordance with the minimum contribution basis) In Case C‑2/17, REQUEST for a preliminary ruling under Article 267 TFEU from the Tribunal Superior de Justicia de Galicia (High Court of Justice of Galicia, Spain), made by decision of 13 December 2016, received at the Court on 2 January 2017, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#institution_96">Instituto Nacional de la Seguridad Social (INSS)</party>
+      </p>
+      <p>v Jesús Crespo Rey, third party Tesorería General de la Seguridad Social, THE COURT (Tenth Chamber), composed of E. Levits, President of the Chamber, M. Berger and F. Biltgen (Rapporteur), Judges, Advocate General: E. Tanchev, Registrar: L. Carrasco Marco, Administrator, having regard to the written procedure and further to the hearing on 14 December 2017, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>the</p>
+          <p>
+            <organization refersTo="#institution_96">Instituto Nacional de la Seguridad Social (INSS)</organization>
+          </p>
+          <p>, by A.R. Trillo García and A. Alvarez Moreno, letrados,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Spanish Government, by V. Ester Casas, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by S. Pardo Quintillán, D. Martin and J. Tomkin, acting as Agents, having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_15316">
+          <num>1</num>
+          <content eId="para_15316__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Regulation (EC) No 883/2004 of the European Parliament and of the Council of 29 April 2004 on the coordination of social security systems ( OJ 2004 L 166, p. 1, and corrigendum OJ 2004 L 200, p. 1), as amended by Regulation (EC) No 988/2009 of the European Parliament and of the Council of 16 September 2009 ( OJ 2009 L 284, p. 423) ( `Regulation No 883/2004').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15317">
+          <num>2</num>
+          <content eId="para_15317__content">
+            <p>The request has been made in proceedings between, on the one hand, the</p>
+            <p>
+              <organization refersTo="#institution_96">Instituto Nacional de la Seguridad Social (INSS)</organization>
+            </p>
+            <p>(National Institute for Social Security (</p>
+            <p>
+              <organization refersTo="#institution_96">INSS</organization>
+            </p>
+            <p>), Spain) and, on the other hand, the Tesorería General de la Seguridad Social (Social Security General Fund, Spain) and Mr Jesús Crespo Rey, concerning the calculation of the latter's retirement pension.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>The Agreement on the free movement of persons</p>
+        </tblock>
+        <paragraph eId="para_15318">
+          <num>3</num>
+          <content eId="para_15318__content">
+            <p>The objective of the Agreement between the European Community and its Member States, of the one part, and the Swiss Confederation, of the other on the Free Movement of Persons, signed in Luxembourg on 21 June 1999 ( OJ 2002 L 114, p. 6, `the Agreement on the free movement of persons'), in accordance with Article 1(a) and (d) thereof, is to accord to nationals of the Member States of the European Community and Switzerland a right of entry, residence, access to work as employed persons, establishment on a self-employed basis and the right to stay in the territory of the Contracting Parties and to accord the same living, employment and working conditions as those accorded to nationals.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15319">
+          <num>4</num>
+          <content eId="para_15319__content">
+            <p>Article 2 of that Agreement provides that nationals of one Contracting Party who are lawfully resident in the territory of another Contracting Party are not, in application of and in accordance with the provisions of Annexes I, II and III to that Agreement, to be the subject of any discrimination on grounds of nationality.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15320">
+          <num>5</num>
+          <content eId="para_15320__content">
+            <p>Article 8 of the Agreement provides as follows: `The Contracting Parties shall make provision, in accordance with Annex II, for the coordination of social security systems with the aim in particular of:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>securing equality of treatment;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>determining the legislation applicable;</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>aggregation, for the purpose of acquiring and retaining the right to benefits, and of calculating such benefits, all periods taken into consideration by the national legislation of the countries concerned;</p>
+              </item>
+              <item>
+                <num>(d)</num>
+                <p>paying benefits to persons residing in the territory of the Contracting Parties;</p>
+              </item>
+              <item>
+                <num>(e)</num>
+                <p>fostering mutual administrative assistance and cooperation between authorities and institutions.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15321">
+          <num>6</num>
+          <content eId="para_15321__content">
+            <p>Article 9(1) and (2) of Annex I to the Agreement on the free movement of persons, entitled `Equal treatment', provides: `1.   An employed person who is a national of a Contracting Party may not, by reason of his nationality, be treated differently in the territory of the other Contracting Party from national employed persons as regards conditions of employment and working conditions, especially as regards pay, dismissal, or reinstatement or re-employment if he becomes unemployed. 2.   An employed person and the members of his family referred to in Article 3 of this Annex shall enjoy the same tax concessions and welfare benefits as national employed persons and members of their family.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15322">
+          <num>7</num>
+          <content eId="para_15322__content">
+            <p>Annex II to the Agreement on the free movement of persons, entitled `Coordination of social security schemes', was amended by the Annex to Decision No 1/2012 of the Joint Committee established by the Agreement, of 31 March 2012 ( OJ 2012 L 103, p. 51).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15323">
+          <num>8</num>
+          <content eId="para_15323__content">
+            <p>Under Article 1 of Annex II to the Agreement on the free movement of persons, as amended by the Annex to Decision No 1/2012: `1.   The contracting parties agree, with regard to the coordination of social security schemes, to apply among themselves the legal acts of the European Union to which reference is made in, and as amended by, section A of this Annex, or rules equivalent to such acts. 2.   The term ``Member State(s) '' contained in the legal acts referred to in section A of this Annex shall be understood to include Switzerland in addition to the States covered by the relevant legal acts of the European Union.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15324">
+          <num>9</num>
+          <content eId="para_15324__content">
+            <p>Section A of Annex II to the Agreement on the free movement of persons, in its amended version, lists the `legal acts referred to', which includes Regulation No 883/2004.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Regulation No 883/2004</p>
+        </tblock>
+        <paragraph eId="para_15325">
+          <num>10</num>
+          <content eId="para_15325__content">
+            <p>Article 52(1) of Regulation No 883/2004, entitled `Award of benefits', which forms part of Title III of that regulation on special provisions concerning the various categories of benefits and, more specifically, of Chapter 5 on `Old-age and survivors' pensions', provides: `The competent institution shall calculate the amount of the benefit that would be due:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>under the legislation it applies, only where the conditions for entitlement to benefits have been satisfied exclusively under national law (independent benefit);</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>by calculating a theoretical amount and subsequently an actual amount (pro rata benefit), as follows:</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(i)</num>
+                <p>the theoretical amount of the benefit is equal to the benefit which the person concerned could claim if all the periods of insurance and/or of residence which have been completed under the legislation of the other Member States had been completed under the legislation it applies on the date of the award of the benefit. If, under this legislation, the amount does not depend on the duration of the periods completed, that amount shall be regarded as being the theoretical amount;</p>
+              </item>
+              <item>
+                <num>(ii)</num>
+                <p>the competent institution shall then establish the actual amount of the pro rata benefit by applying to the theoretical amount the ratio between the duration of the periods completed before materialisation of the risk under the legislation it applies and the total duration of the periods completed before materialisation of the risk under the legislations of all the Member States concerned.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15326">
+          <num>11</num>
+          <content eId="para_15326__content">
+            <p>Article 56 of that regulation, also in Chapter 5, headed `Additional provisions for the calculation of benefits', provides in paragraph 1: `For the calculation of the theoretical and pro rata amounts referred to in Article 52(1)(b), the following rules shall apply: ...</p>
+            <blockList>
+              <item>
+                <num>(c)</num>
+                <p>if the legislation of a Member State provides that the benefits are to be calculated on the basis of incomes, contributions, bases of contributions, increases, earnings, other amounts or a combination of more than one of them (average, proportional, fixed or credited), the competent institution shall:</p>
+                <blockList>
+                  <item>
+                    <num>(i)</num>
+                    <p>determine the basis for calculation of the benefits in accordance only with periods of insurance completed under the legislation it applies;</p>
+                  </item>
+                  <item>
+                    <num>(ii)</num>
+                    <p>use, in order to determine the amount to be calculated in accordance with the periods of insurance and/or residence completed under the legislation of the other Member States, the same elements determined or recorded for the periods of insurance completed under the legislation it applies; where necessary in accordance with the procedures laid down in Annex XI for the Member State concerned. ...'</p>
+                  </item>
+                </blockList>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15327">
+          <num>12</num>
+          <content eId="para_15327__content">
+            <p>Annex XI to that regulation, entitled `Special provisions for the application of the legislation of the Member States', is intended to take account of the particularities of the various social security systems of Member States in order to facilitate the application of the rules on coordination. It is apparent from recital 3 of Regulation No 988/2009 that a number of Member States have asked for entries concerning the application of their social security legislation to be included in this annex and have provided the European Commission with legal and practical explanations of their legislation and systems.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15328">
+          <num>13</num>
+          <content eId="para_15328__content">
+            <p>Paragraph 2 of the section ``Spain' in Annex XI to Regulation No 883/2004 provides: `</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>Under Article 56(1)(c) of this Regulation, the calculation of the theoretical Spanish benefit shall be carried out on the basis of the actual contributions of the person during the years immediately preceding payment of the last contribution to Spanish social security. Where, in the calculation of the basic amount for the pension, periods of insurance and/or residence under the legislation of other Member States have to be taken into account, the contribution basis in Spain which is closest in time to the reference periods shall be used for the aforementioned periods, taking into account the development of the retail price index.</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>The amount of the pension obtained shall be increased by the amount of the increases and revaluations calculated for each subsequent year for pensions of the same nature.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The relevant provisions of Spanish law</p>
+        </tblock>
+        <tblock>
+          <p>The General Law on Social Security</p>
+        </tblock>
+        <paragraph eId="para_15329">
+          <num>14</num>
+          <content eId="para_15329__content">
+            <p>Article 162 of the Ley General de la Seguridad Social (General Law on Social Security), in its consolidated version approved by Real Decreto Legislativo 1/1994 (Royal Legislative Decree 1/1994) of 20 June 1994 (BOE No 154 of 29 June 1994, p. 20568), applicable ratione temporis in the case in the main proceedings, provides the method for calculating the basic amount for the contributory retirement pension.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15330">
+          <num>15</num>
+          <content eId="para_15330__content">
+            <p>The Fifth Transitional Provision of the General Law on Social Security, entitled `Transitional provisions on the basic amount for the retirement pension' states in the first sentence of the first paragraph that `from 1 January 2013, the basic amount for the retirement pension shall be the figure obtained by dividing by 224 the contribution bases for the 192 months immediately preceding the month before that of the operative event'.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The Order of 2003</p>
+        </tblock>
+        <paragraph eId="para_15331">
+          <num>16</num>
+          <content eId="para_15331__content">
+            <p>The Orden TAS/2865/2003 (Order TAS/2865/2003) of 13 October 2003 (BOE No 250 of 18 October 2003, `the Order of 2003'), provides the conditions under which affiliation to the Spanish social security system may be obtained by means of a special agreement.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15332">
+          <num>17</num>
+          <content eId="para_15332__content">
+            <p>Article 2 of the Order of 2003 defines the persons who may normally conclude such an agreement. Essentially, these are workers not covered by social security.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15333">
+          <num>18</num>
+          <content eId="para_15333__content">
+            <p>Article 6 of that order sets the contribution basis applicable to those who have concluded such an agreement, who may choose, at the time they enter into the agreement, between the various monthly contribution bases as follows:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>the maximum basis for ordinary risks of the contribution group corresponding to the person's professional category, or in the scheme to which he belongs, under certain conditions;</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>the contribution basis resulting from the division by 12 of the sum of the bases for ordinary risks used for the payment of contributions during a determined period;</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>the minimum basis in force, on the date the special agreement takes effect, in the special social security scheme for self-employed persons;</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>a contribution basis between those determined in accordance with the three preceding possibilities.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15334">
+          <num>19</num>
+          <content eId="para_15334__content">
+            <p>Chapter II of the Order of 2003, entitled `Rules for special agreements', includes a section 3 which brings together provisions on special agreements applicable to Spanish nationals and their children who work abroad and to beneficiaries of a foreign social security system resident in Spain.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15335">
+          <num>20</num>
+          <content eId="para_15335__content">
+            <p>Article 15 of the Order of 2003, which is in section 3, governs in that respect the `special agreement for Spanish emigrants and their children working abroad' ( `the special agreement'). Article 15(1) provides that such an agreement may be concluded by `Spanish emigrants and their children who have Spanish nationality, independently of whether or not they have been affiliated to the Spanish social security system previously and regardless of the country they work in and whether or not that country has signed an agreement on social security affairs with the Kingdom of Spain' and `Spanish emigrants and their children who have Spanish nationality, regardless of the country they worked in, upon their return to Spanish territory, as long as they have not been compulsorily included in any public social protection scheme in Spain'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15336">
+          <num>21</num>
+          <content eId="para_15336__content">
+            <p>Furthermore, Article 15(4) provides: `The contribution basis in this special agreement shall in all cases be the minimum contribution basis that is at any time laid down in the General Social Security Scheme ...'</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_15337">
+          <num>22</num>
+          <content eId="para_15337__content">
+            <p>Mr Crespo Rey is a Spanish national. After paying social security contributions in Spain during several periods between August 1965 and June 1980 in accordance with contribution bases higher than the minimum set by the Spanish general social security scheme, he moved to Switzerland. The referring court states that during the period from 1 May 1984 to 30 November 2007 he paid contributions to the social security system of that State.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15338">
+          <num>23</num>
+          <content eId="para_15338__content">
+            <p>On 1 December 2007, Mr Crespo Rey signed a special agreement with the Spanish social security ( `the special agreement of 1 December 2007') so that from that date until 1 January 2014 he paid contributions calculated on the minimum contribution basis set by the Spanish general social security scheme.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15339">
+          <num>24</num>
+          <content eId="para_15339__content">
+            <p>By decision of the</p>
+            <p>
+              <organization refersTo="#institution_96">INSS</organization>
+            </p>
+            <p>of 26 September 2014, Mr Crespo Rey was granted a retirement pension in Spain.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15340">
+          <num>25</num>
+          <content eId="para_15340__content">
+            <p>When calculating that pension, the</p>
+            <p>
+              <organization refersTo="#institution_96">INSS</organization>
+            </p>
+            <p>, in accordance with the Fifth Transitional Provision of the General Law on Social Security, took into account the amount of contributions paid by Mr Crespo Rey during the 192 months preceding his retirement, namely the period from 1 January 1998 to 31 December 2013.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15341">
+          <num>26</num>
+          <content eId="para_15341__content">
+            <p>The</p>
+            <p>
+              <organization refersTo="#institution_96">INSS</organization>
+            </p>
+            <p>treated the period from 1 December 2007 to 31 December 2013, during which the special agreement of 1 December 2007 applied, as a period completed in Spain. Accordingly, it applied the terms provided for in paragraph 2 of the section `Spain' in Annex XI to Regulation No 883/2004 and took as the basis for the calculation for that period the contributions paid by Mr Crespo Rey under that agreement.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15342">
+          <num>27</num>
+          <content eId="para_15342__content">
+            <p>As for the period between 1 January 1998 and 30 November 2007, during which Mr Crespo Rey worked in Switzerland before concluding the special agreement, the</p>
+            <p>
+              <organization refersTo="#institution_96">INSS</organization>
+            </p>
+            <p>took into consideration, in accordance with paragraph 2 of the section `Spain' in Annex XI to Regulation No 883/2004, the contribution basis in Spain closest in time to the reference periods. The</p>
+            <p>
+              <organization refersTo="#institution_96">INSS</organization>
+            </p>
+            <p>considered that to be the contribution basis of December 2007, on the basis of which it calculated the first minimum contribution paid by Mr Crespo Rey under that agreement.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15343">
+          <num>28</num>
+          <content eId="para_15343__content">
+            <p>Mr Crespo Rey brought an action against that decision before the Juzgado de lo Social n o 1 de La Coruňa (Social Court No 1, Corunna, Spain) challenging the calculation made by the</p>
+            <p>
+              <organization refersTo="#institution_96">INSS</organization>
+            </p>
+            <p>of his retirement pension.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15344">
+          <num>29</num>
+          <content eId="para_15344__content">
+            <p>After Mr Crespo Rey's action was upheld by the Juzgado de lo Social n o 1 de La Coruňa (Social Court No 1, Corunna) the</p>
+            <p>
+              <organization refersTo="#institution_96">INSS</organization>
+            </p>
+            <p>appealed that judgment before the referring court, the Tribunal Superior de Justicia de Galicia (High Court of Justice, Galicia, Spain).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15345">
+          <num>30</num>
+          <content eId="para_15345__content">
+            <p>The referring court is uncertain whether the national legislation at issue in the case before it is compatible with Article 45(1) TFEU in so far as, first, Article 15 of the Order of 2003 obligates the migrant worker to make contributions in accordance with the minimum contribution basis, with no possibility of choosing a different contribution basis and, second, the</p>
+            <p>
+              <organization refersTo="#institution_96">INSS</organization>
+            </p>
+            <p>treats the period during which that agreement applies as a period completed in Spain; as a result, when the theoretical amount of that worker's retirement pension is calculated, only the minimum contributions paid under that agreement are taken into account, even though, before exercising his right to free movement, the worker concerned made contributions in accordance with contribution bases higher than the minimum.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15346">
+          <num>31</num>
+          <content eId="para_15346__content">
+            <p>In the event that the Court should hold that there is such incompatibility, the referring court questions whether it is necessary, in accordance with Article 45 TFEU and paragraph 2 of the section `Spain' in Annex XI to Regulation No 883/2004, to take into account, for the purposes of calculating the theoretical amount of a migrant worker's retirement pension, the basis of the last actual contributions paid by the latter in Spain before he exercised his right to free movement, namely a higher contribution basis than the one under which the contributions paid by that worker under the special agreement of 1 December 2007 were calculated.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15347">
+          <num>32</num>
+          <content eId="para_15347__content">
+            <p>In those circumstances, the Tribunal Superior de Justicia de Galicia (High Court of Justice, Galicia) decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Must the expression ``the contribution basis in Spain which is closest in time to the reference periods '', referred to in [paragraph 2 of the section `Spain' in Annex XI] of Regulation No 883/2004, be interpreted as excluding those contribution bases arising from the application of Spanish domestic legislation under which a migrant worker who has returned to Spain and whose actual final Spanish contributions are higher than the minimum bases may conclude an agreement maintaining the contributions in accordance only with the minimum bases, whereas, if he were a non-migrant worker, he could have concluded such an agreement on higher bases?</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>In the event of an affirmative answer to the [previous question], and in accordance with [paragraph 2 of the section `Spain' in Annex XI] of Regulation No 883/2004, do taking into account the last actual contributions made in Spain, duly updated, and considering the contribution period under the agreement maintaining contributions as a neutral period or interval constitute remedies appropriate for indemnifying the damage done to that worker?'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the questions referred</p>
+        </tblock>
+        <tblock>
+          <p>Admissibility</p>
+        </tblock>
+        <paragraph eId="para_15348">
+          <num>33</num>
+          <content eId="para_15348__content">
+            <p>The Spanish Government contends that the request for a preliminary ruling is inadmissible on the ground that the referring court made an error in its assessment of the facts, the examination of which was not addressed on appeal, which has resulted in an interpretation being sought that has no connection with the reality of the case in the main proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15349">
+          <num>34</num>
+          <content eId="para_15349__content">
+            <p>In that regard, it should be recalled that, in proceedings under Article 267 TFEU, which are based on a clear separation of functions between the national courts and tribunals and the Court of Justice, any assessment of the facts in the case is a matter for the national court or tribunal. Similarly it is solely for the national court before which the dispute has been brought and which must assume responsibility for the forthcoming judicial decision, to determine, in the light of the particular circumstances of the case, both the need for a preliminary ruling in order to enable it to deliver judgment and the relevance of the questions which it submits to the Court. Consequently, where the questions submitted concern the interpretation of EU law, the Court is, in principle, bound to give a ruling (see, inter alia, judgments of 10 February 2011, Haribo Lakritzen Hans Riegel and Österreichische Salinen, C‑436/08 and C‑437/08, EU:C:2011:61, paragraph 41, and of 22 October 2009, Zurita García and Choque Cabrera, C‑261/08 and C‑348/08, EU:C:2009:648, paragraph 34 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15350">
+          <num>35</num>
+          <content eId="para_15350__content">
+            <p>The Court may refuse to rule on a question referred by a national court only where it is quite obvious that the interpretation of EU law that is sought bears no relation to the actual facts of the main action or its purpose, where the problem is hypothetical, or where the Court does not have before it the factual or legal material necessary to give a useful answer to the questions submitted to it (judgments of 5 December 2006, Cipolla and Others, C‑94/04 and C‑202/04, EU:C:2006:758, paragraph 25, and of 22 September 2016, Breitsamer und Ulrich, C‑113/15, EU:C:2016:718, paragraph 33).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15351">
+          <num>36</num>
+          <content eId="para_15351__content">
+            <p>That presumption of relevance cannot be rebutted by the simple fact that one of the parties to the main proceedings contests certain facts, the accuracy of which is not a matter for the Court to determine and on which the delimitation of the subject matter of those proceedings depends (judgments of 5 December 2006, Cipolla and Others, C‑94/04 and C‑202/04, EU:C:2006:758, paragraph 26, and of 22 September 2016, Breitsamer und Ulrich, C‑113/15, EU:C:2016:718, paragraph 34).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15352">
+          <num>37</num>
+          <content eId="para_15352__content">
+            <p>In the present case, the Spanish Government and the</p>
+            <p>
+              <organization refersTo="#institution_96">INSS</organization>
+            </p>
+            <p>have submitted before the Court that, contrary to what the referring court states, during the period from 1 December 2007 (the date on which the special agreement of 1 December 2007 was signed) to 31 December 2013 (the date of Mr Crespo Rey's retirement) Mr Crespo Rey continued to work and pay contributions in Switzerland.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15353">
+          <num>38</num>
+          <content eId="para_15353__content">
+            <p>However, the question whether, at the time of entering into the agreement, Mr Crespo Rey had returned to Spain or continued to work and make contributions in Switzerland is a matter that forms part of the factual background of the case in the main proceedings, which is not for the Court to ascertain.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15354">
+          <num>39</num>
+          <content eId="para_15354__content">
+            <p>In those circumstances, the plea of inadmissibility raised by the Spanish Government must be rejected.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Substance</p>
+        </tblock>
+        <paragraph eId="para_15355">
+          <num>40</num>
+          <content eId="para_15355__content">
+            <p>It should be observed that, according to the Court's settled case-law, in the procedure laid down by Article 267 TFEU providing for cooperation between national courts and the Court of Justice, it is for the latter to provide the national court with an answer which will be of use to it and enable it to determine the case before it. To that end, the Court may have to reformulate the questions referred to it. The Court has a duty to interpret all provisions of EU law which national courts need in order to decide the actions pending before them, even if those provisions are not expressly indicated in the questions referred to the Court by those courts (judgment of 19 October 2017, Otero Ramos, C‑531/15, EU:C:2017:789, paragraph 39 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15356">
+          <num>41</num>
+          <content eId="para_15356__content">
+            <p>Consequently, even if, formally, the referring court has limited its questions to the interpretation of paragraph 2 of the section `Spain' in Annex XI to Regulation No 883/2004, that does not prevent this Court from providing the referring court with all the elements of interpretation of EU law that may be of assistance in adjudicating in the case pending before it, whether or not the referring court has referred to them in the wording of its questions. It is, in this regard, for the Court to extract from all the information provided by the national court, in particular from the grounds of the decision to make the reference, the points of EU law which require interpretation in view of the subject matter of the dispute (see, by analogy, judgment of 19 October 2017, Otero Ramos, C‑531/15, EU:C:2017:789, paragraph 40 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15357">
+          <num>42</num>
+          <content eId="para_15357__content">
+            <p>In the present case it is clear from the order for reference that the referring court asks whether the national legislation at issue in the main proceedings is compatible with Article 45 TFEU, to the extent that it obligates a migrant worker who concludes a special agreement with the Spanish social security system to make contributions in accordance with the minimum contribution basis, with the result that, when the theoretical amount of that worker's retirement pension is calculated, in accordance with paragraph 2 of the section `Spain' in Annex XI to Regulation No 883/2004, the competent body treats the period covered by that agreement as a period completed in Spain and will take into consideration only the contributions paid under that agreement by that worker, even if, before exercising his right to free movement, he made contributions to the social security system in Spain in accordance with contribution bases higher than the minimum.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15358">
+          <num>43</num>
+          <content eId="para_15358__content">
+            <p>In a situation such as that at issue in the main proceedings, which concerns a migrant worker who is a national of a Member State and who worked and made contributions in Switzerland during a certain period, the national legislation at issue in the main proceedings should be assessed with regard to the provisions of the Agreement on the free movement of persons.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15359">
+          <num>44</num>
+          <content eId="para_15359__content">
+            <p>In the light of those considerations, it must be understood that, by its questions, which it is appropriate to consider together, the referring court is asking, is essence, whether the Agreement on the free movement of persons must be interpreted as precluding legislation of a Member State, such as that at issue in the main proceedings, which obligates a migrant worker who concludes a special agreement with the social security system of that Member State to make contributions in accordance with the minimum contribution basis, with the result that, when the theoretical amount of that worker's retirement pension is calculated, the competent body of that Member State treats the period covered by that agreement as a period completed in that Member State and will take into consideration, for the purposes of that calculation, only the contributions paid by the worker under that agreement, even though, before exercising his right to free movement, the latter made contributions in that Member State in accordance with contribution bases higher than the minimum, and a non-migrant worker who did not exercise his right to free movement and who concludes such an agreement has the possibility of making contributions in accordance with contribution bases higher than the minimum.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the questions referred</p>
+        </tblock>
+        <paragraph eId="para_15360">
+          <num>45</num>
+          <content eId="para_15360__content">
+            <p>As a preliminary point, it should be noted that Regulation No 883/2004 does not set up a common scheme of social security, but allows different national schemes to exist and its sole objective is to ensure the coordination of those schemes. Thus, according to the Court's settled case-law, Member States retain the power to organise their own social security schemes (see, inter alia, judgment of 21 February 2013, Salgado González, C‑282/11, EU:C:2013:86, paragraph 35 and the case-law cited, and of 7 December 2017, Zaniewicz-Dybeck, C‑189/16, EU:C:2017:946, paragraph 38).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15361">
+          <num>46</num>
+          <content eId="para_15361__content">
+            <p>Therefore, in the absence of harmonisation at EU level, it is for the legislation of each Member State to determine, in particular, the conditions for entitlement to benefits (judgments of 21 February 2013, Salgado González, C‑282/11, EU:C:2013:86, paragraph 36 and the case-law cited, and of 7 December 2017, Zaniewicz-Dybeck, C‑189/16, EU:C:2017:946, paragraph 39).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15362">
+          <num>47</num>
+          <content eId="para_15362__content">
+            <p>In exercising those powers, Member States must nonetheless comply with EU law and, in particular, with the provisions of the FEU Treaty giving every citizen of the Union the right to move and reside within the territory of the Member States (judgments of 21 February 2013, Salgado González, C‑282/11, EU:C:2013:86, paragraph 37 and the case-law cited, and of 7 December 2017, Zaniewicz-Dybeck, C‑189/16, EU:C:2017:946, paragraph 40).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15363">
+          <num>48</num>
+          <content eId="para_15363__content">
+            <p>As is apparent from the preamble to and Articles 1 and 16(2) of the Agreement on the free movement of persons, the objective of the Agreement is to bring about, for the benefit of nationals of the European Union and of the Swiss Confederation, the free movement of persons in the territory of the contracting parties to that agreement based on the rules applying in the European Union, the terms of which must be interpreted in accordance with the case-law of the Court of Justice (judgments of 19 November 2015, Bukovansky, C‑241/14, EU:C:2015:766, paragraph 40, and of 21 September 2016, Radgen, C‑478/15, EU:C:2016:705, paragraph 36).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15364">
+          <num>49</num>
+          <content eId="para_15364__content">
+            <p>In that context, it should be noted that that objective includes, pursuant to Article 1(a) and (d) of the Agreement, the objective of granting to those nationals, inter alia, a right of entry, residence, access to work as employed persons and the same living, employment and working conditions as those accorded to nationals of the individual States in question (judgment of 21 September 2016, Radgen, C‑478/15, EU:C:2016:705, paragraph 37).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15365">
+          <num>50</num>
+          <content eId="para_15365__content">
+            <p>Accordingly, Article 8(a) of the Agreement on the free movement of persons states that the contracting parties are to make provision, in accordance with Annex II to that Agreement, for the coordination of social security systems with the aim of ensuring equal treatment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15366">
+          <num>51</num>
+          <content eId="para_15366__content">
+            <p>Article 9 of Annex I to the Agreement on the free movement of persons, entitled `Equal treatment', ensures the application of the principle of non-discrimination laid down in Article 2 of the Agreement in connection with the free movement of workers (judgments of 19 November 2015, Bukovansky, C‑241/14, EU:C:2015:766, paragraph 36 and the case-law cited, and of 21 September 2016, Radgen, C‑478/15, EU:C:2016:705, paragraph 40).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15367">
+          <num>52</num>
+          <content eId="para_15367__content">
+            <p>With regard to the case in the main proceedings, it must be noted that it appears, subject to the verifications to be made by the referring court, that Mr Crespo Rey exercised his right to free movement by working as an employee in Switzerland. It follows that he falls within the scope of the Agreement on the free movement of workers and may, therefore, rely on that Agreement with regard to his State of origin.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15368">
+          <num>53</num>
+          <content eId="para_15368__content">
+            <p>In the present case, it must be noted that the reference period for the calculation of Mr Cespo Rey's retirement pension is, in accordance with the Fifth Transitional Provision of the General Law on Social Security, the period between 1 January 1998 and 31 December 2013.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15369">
+          <num>54</num>
+          <content eId="para_15369__content">
+            <p>The facts, as noted in paragraph 23 of this judgment, show that Mr Crespo Rey entered into the special agreement of 1 December 2007 under which he made contributions in accordance with the minimum contribution basis until 31 December 2013.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15370">
+          <num>55</num>
+          <content eId="para_15370__content">
+            <p>In the case in the main proceedings, the conclusion, by Mr Crespo Rey, of the special agreement of 1 December 2007 meant that the</p>
+            <p>
+              <organization refersTo="#institution_96">INSS</organization>
+            </p>
+            <p>based its calculation of the theoretical amount of his retirement pension on the minimum contribution basis.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15371">
+          <num>56</num>
+          <content eId="para_15371__content">
+            <p>Accordingly, in order to establish the relevant contribution basis for that period, the</p>
+            <p>
+              <organization refersTo="#institution_96">INSS</organization>
+            </p>
+            <p>took into account, in accordance with paragraph 2 of the section `Spain' in Annex XI to Regulation No 883/2004, the actual contributions made by Mr Crespo Rey during the years immediately preceding the payment of his last contribution to social security, namely the minimum contributions paid by him in accordance with the special agreement of 1 December 2007.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15372">
+          <num>57</num>
+          <content eId="para_15372__content">
+            <p>As for the period from 1 January 1998 to 30 November 2007 during which Mr Crespo Rey worked in Switzerland, and at which time he had not yet concluded that special agreement, the</p>
+            <p>
+              <organization refersTo="#institution_96">INSS</organization>
+            </p>
+            <p>took into consideration, in accordance with paragraph 2 of the section `Spain' in Annex XI to Regulation No 883/2004, the contribution basis in Spain closest in time to the reference periods. The</p>
+            <p>
+              <organization refersTo="#institution_96">INSS</organization>
+            </p>
+            <p>considered that to be the contribution basis of December 2007, namely, once again, the minimum contribution basis under which Mr Crespo Rey paid his contributions under that agreement.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15373">
+          <num>58</num>
+          <content eId="para_15373__content">
+            <p>It follows that, as a result of the</p>
+            <p>
+              <organization refersTo="#institution_96">INSS</organization>
+            </p>
+            <p>treating the period covered by the special agreement of 1 December 2007 as a period of work completed in Spain, when calculating the theoretical amount of Mr Crespo Rey's retirement pension, only the minimum contribution basis under which he paid his contributions under that agreement was taken into account.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15374">
+          <num>59</num>
+          <content eId="para_15374__content">
+            <p>It must be noted, in that regard, that it is clear from the order for reference that, before exercising his right of free movement and concluding the special agreement of 1 December 2007, Mr Crespo Rey made contributions to the Spanish social security scheme in accordance with contribution bases higher than the minimum applied under that agreement.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15375">
+          <num>60</num>
+          <content eId="para_15375__content">
+            <p>In accordance with Article 15(4) of the Order of 2003, a migrant worker is not free to continue to make contributions in accordance with higher bases under the special agreement, the amount of those contributions being mandatorily established, under such an agreement, in accordance with the minimum contribution basis set by the Spanish general social security scheme.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15376">
+          <num>61</num>
+          <content eId="para_15376__content">
+            <p>As a consequence, when, as in the case in the main proceedings, a migrant worker, before exercising his right to free movement and concluding a special agreement, has made contributions to the social security scheme of the Member State in question in accordance with contribution bases higher than the minimum, the contributions paid by that worker under the agreement he concluded do not correspond to those that he would have paid if he had continued to work under the same conditions in that Member State.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15377">
+          <num>62</num>
+          <content eId="para_15377__content">
+            <p>Moreover, it must be noted that the</p>
+            <p>
+              <organization refersTo="#institution_96">INSS</organization>
+            </p>
+            <p>and the Spanish Government acknowledged, in their written observations and at the hearing before the Court, that the national legislation at issue in the main proceedings does not impose such an obligation on non-migrant workers who did not exercise their right to free movement and therefore spent their entire working lives in Spain. The latter have the right to make contributions in accordance with contribution bases higher than the minimum.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15378">
+          <num>63</num>
+          <content eId="para_15378__content">
+            <p>It follows that, by requiring migrant workers who conclude a special agreement to pay contributions calculated in accordance with the minimum contribution basis, the national legislation at issue in the main proceedings establishes a difference of treatment which places migrant workers at a disadvantage compared to non-migrant workers who spent their entire working life in the Member State in question.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15379">
+          <num>64</num>
+          <content eId="para_15379__content">
+            <p>The</p>
+            <p>
+              <organization refersTo="#institution_96">INSS</organization>
+            </p>
+            <p>and the Spanish Government submit, in that regard, that the purpose of concluding a special agreement is to prevent the migrant worker suffering a reduction in the amount of his retirement pension because he exercised his right to free movement.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15380">
+          <num>65</num>
+          <content eId="para_15380__content">
+            <p>It must be stated, however, that in a situation such as that at issue in the main proceedings, a migrant worker who concludes a special agreement is, in reality, likely to see a non-negligible decrease in the amount of his retirement pension, since, as has already been noted in paragraph 59 of this judgment, when the theoretical amount of that pension is calculated, only the contributions paid by the worker under that agreement, namely contributions calculated in accordance with the minimum contribution basis, are taken into account.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15381">
+          <num>66</num>
+          <content eId="para_15381__content">
+            <p>It must be added that that would not be the case if that worker had, after exercising his right to free movement, made contributions only in another Member State, without concluding a special agreement.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15382">
+          <num>67</num>
+          <content eId="para_15382__content">
+            <p>Indeed, paragraph 2 of the section `Spain' in Annex XI to Regulation No 883/2004 provides that, when calculating the basic amount for the migrant worker's pension, `the contribution basis in Spain which is closest in time to the reference periods' must be taken into account for the periods completed by that worker in other Member States.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15383">
+          <num>68</num>
+          <content eId="para_15383__content">
+            <p>Accordingly, in a situation such as that in the main proceedings, where the worker concerned, before exercising his right to free movement, made contributions to the social security scheme of the Member State in question in accordance with contribution bases higher than the minimum, the relevant contribution basis for the purposes of the calculation of his retirement pension would be the last contribution paid by that worker in that Member State, namely a contribution basis that is higher than the minimum provided for by the special agreement.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15384">
+          <num>69</num>
+          <content eId="para_15384__content">
+            <p>It follows that national legislation, such as that at issue in the main proceedings, which obligates a migrant worker who concludes a special agreement with the social security scheme of the Member State in question to make contributions in accordance with the minimum contribution basis, even if that worker, before exercising his right to free movement, made contributions in that State in accordance with contribution bases higher than the minimum, with the result that, when the theoretical amount of that worker's retirement pension is calculated, the competent body of the Member State in question treats the period covered by that agreement as a period completed on its territory and takes into account, for the purposes of that calculation, only the minimum contributions paid by that worker under that agreement, places such a worker at a disadvantage compared with those who completed their entire working life in the Member State concerned.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15385">
+          <num>70</num>
+          <content eId="para_15385__content">
+            <p>To the extent that the referring court is uncertain as to what consequences it must draw from a possible incompatibility of national legislation with EU law, it must be borne in mind that the principle that national law must be interpreted in conformity with EU law requires national courts to do whatever lies within their jurisdiction, taking the whole body of domestic law into consideration and applying the interpretative methods recognised by domestic law, with a view to ensuring that EU law is fully effective and to achieving an outcome consistent with the objective pursued by it (judgment of 13 July 2016, Pöpperl, C‑187/15, EU:C:2016:550, paragraph 43 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15386">
+          <num>71</num>
+          <content eId="para_15386__content">
+            <p>It is true that this principle of interpreting national law in conformity with EU law has certain limits. Thus, the obligation on a national court to refer to the content of EU law when interpreting and applying the relevant rules of domestic law is limited by general principles of law and cannot serve as the basis for an interpretation of national law contra legem (judgment of 13 July 2016, Pöpperl, C‑187/15, EU:C:2016:550, paragraph 44 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15387">
+          <num>72</num>
+          <content eId="para_15387__content">
+            <p>If an interpretation of national law in conformity with EU law is not possible, the national court must fully apply EU law and protect rights which the latter confers on individuals, disapplying, if necessary, any provision in so far as its application would, in the circumstances of the case, lead to a result contrary to EU law (judgment of 13 July 2016, Pöpperl, C‑187/15, EU:C:2016:550, paragraph 45 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15388">
+          <num>73</num>
+          <content eId="para_15388__content">
+            <p>Where national law, in breach of EU law, provides for different treatment between a number of groups of persons, the members of the group placed at a disadvantage must be treated in the same way and made subject to the same arrangements as the other persons concerned. The arrangements applicable to members of the group placed at an advantage remain, for want of the correct application of EU law, the only valid point of reference (judgment of 13 July 2016, Pöpperl, C‑187/15, EU:C:2016:550, paragraph 46 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15389">
+          <num>74</num>
+          <content eId="para_15389__content">
+            <p>As is clear from the order for reference and has already been noted in paragraph 63 of the present judgment, non-migrant workers who conclude a special agreement are entitled to make contributions in accordance with contribution bases higher than the minimum. It is therefore this legal framework which constitutes a valid point of reference of that kind.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15390">
+          <num>75</num>
+          <content eId="para_15390__content">
+            <p>It is true that it is for the court dealing with the dispute to establish what, in national law, are the most appropriate means for achieving equality of treatment between migrant workers and non-migrant workers. However, it must be noted, in that regard, that that aim should, in principle, be achieved by granting also to migrant workers who conclude a special agreement the option to make contributions retroactively in accordance with contribution bases higher than the minimum and, as a consequence, to claim their right to a retirement pension on those new bases.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15391">
+          <num>76</num>
+          <content eId="para_15391__content">
+            <p>Having regard to all the foregoing considerations, the answer to the questions asked is that the Agreement on the free movement of persons must be interpreted as precluding legislation of a Member State, such as that at issue in the main proceedings, which obligates a migrant worker who concludes a special agreement with the social security system of that Member State to make contributions in accordance with the minimum contribution basis, with the result that, when the theoretical amount of that worker's retirement pension is calculated, the competent body of that Member State treats the period covered by that agreement as a period completed in that Member State and will take into consideration, for the purposes of that calculation, only the contributions paid under that agreement, even though, before exercising his right to free movement, that worker made contributions in the Member State in question in accordance with contribution bases higher than the minimum, and a non-migrant worker who did not exercise his right to free movement and who concludes such an agreement has the option of making contributions in accordance with contribution bases higher than the minimum.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_15392">
+          <num>77</num>
+          <content eId="para_15392__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Tenth Chamber) hereby rules: The Agreement between the European Community and its Member States, of the one part, and the Swiss Confederation, of the other, on the free movement of persons, signed at Luxembourg on 21 June 1999, must be interpreted as precluding legislation of a Member State, such as that at issue in the main proceedings, which obligates a migrant worker who concludes a special agreement with the social security system of that Member State to make contributions in accordance with the minimum contribution basis, with the result that, when the theoretical amount of that worker's retirement pension is calculated, the competent body of that Member State treats the period covered by that agreement as a period completed in that Member State and will take into consideration, for the purposes of that calculation, only the contributions paid by the worker under that agreement, even though, before exercising his right to free movement, that worker made contributions in that Member State in accordance with contribution bases higher than the minimum, and a non-migrant worker who did not exercise his right to free movement and who concludes such an agreement has the option of making contributions in accordance with contribution bases higher than the minimum.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Spanish.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

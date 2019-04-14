@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+      <references source="#source">
+        <TLCOrganization eId="company_75" showAs="" href="/akn/ontology/Organization/Company/company_75" />
+        <TLCOrganization eId="company_74" showAs="" href="/akn/ontology/Organization/Company/company_74" />
+      </references>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Ninth Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>19 April 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Procurement procedures of entities operating in the water, energy, transport and postal services sectors -- Directive 2004/17/EC -- Obligation to review prices after the award of the contract -- No such obligation in Directive 2004/17/EC or arising from the general principles underlying Article 56 TFEU and Directive 2004/17/EC -- Cleaning and maintenance services linked to railway transport operations -- Article 3(3) TEU -- Articles 26, 57, 58 and 101 TFEU -- Lack of sufficient information concerning the factual context of the dispute in the main proceedings and the reasons justifying the need for a reply to the questions referred -- Inadmissibility -- Article 16 of the Charter of Fundamental Rights of the European Union -- Provision of national law not implementing EU law -- Lack of jurisdiction) In Case C‑152/17, REQUEST for a preliminary ruling under Article 267 TFEU from the Consiglio di Stato (Council of State, Italy), made by decision of 24 November 2016, received at the Court on 24 March 2017, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">Consorzio Italian Management</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="appellant" refersTo="#company_75">Catania Multiservizi SpA</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#company_74">Rete Ferroviaria Italiana SpA</party>
+      </p>
+      <p>THE COURT (Ninth Chamber), composed of C. Vajda (Rapporteur), President of the Chamber, E. Juhász and C. Lycourgos, Judges, Advocate General : M. Bobek, Registrar: A. Calot Escobar, having regard to the written procedure, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>Consorzio Italian Management and</p>
+          <p>
+            <organization refersTo="#company_75">Catania Multiservizi SpA</organization>
+          </p>
+          <p>, by E. Giardino and A. Cariola, avvocati,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>
+            <organization refersTo="#company_74">Rete Ferroviaria Italiana SpA</organization>
+          </p>
+          <p>, by U. Cossu, avvocato,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Italian Government, by G. Palmieri, acting as Agent, and S. Fiorentino, avvocato dello Stato,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Spanish Government, by M.J. García-Valdecasas Dorrego, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Parliament, by L. Visaggio and R. van de Westelaken, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Council of the European Union, by E. Moro and M. Balta, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by G. Gattinara and P. Ondrůšek, acting as Agents, having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_10643">
+          <num>1</num>
+          <content eId="para_10643__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Article 3(3) TEU, Articles 26, 56 to 58 and 101 TFEU, Article 16 of the Charter of Fundamental Rights of the European Union ( `the Charter') and Directive 2004/17/EC of the European Parliament and of the Council of 31 March 2004 coordinating the procurement procedures of entities operating in the water, energy, transport and postal services sectors ( OJ 2004 L 134, p. 1), as amended by Commission Regulation (EU) No 1251/2011 of 30 November 2011 ( OJ 2011 L 319, p. 43) ( `Directive 2004/17'), and the assessment of the validity of Directive 2004/17.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10644">
+          <num>2</num>
+          <content eId="para_10644__content">
+            <p>The request has been made in proceedings between Consorzio Italian Management and</p>
+            <p>
+              <organization refersTo="#company_75">Catania multiservizi SpA</organization>
+            </p>
+            <p>on the one hand, and</p>
+            <p>
+              <organization refersTo="#company_74">Rete Ferroviaria Italiana SpA</organization>
+            </p>
+            <p>( `RFI') on the other, concerning the latter's refusal to grant the former's request for a review of the contract price, after the award of a contract for, inter alia, cleaning services at railway stations.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <paragraph eId="para_10645">
+          <num>3</num>
+          <content eId="para_10645__content">
+            <p>Directive 2004/17 coordinates procurement procedures in specific sectors, as referred to in Articles 3 to 7 of that directive, including transport services.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10646">
+          <num>4</num>
+          <content eId="para_10646__content">
+            <p>Article 10 of Directive 2004/17 which is in Chapter III, entitled `General principles', of Title I, entitled `Principles of awarding contracts', provides: `Contracting entities shall treat economic operators equally and non-discriminatorily and shall act in a transparent way.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10647">
+          <num>5</num>
+          <content eId="para_10647__content">
+            <p>Under Article 16 of that directive, entitled `Contract Thresholds': `Save where they are ruled out by the exclusions in Articles 19 to 26 or pursuant to Article 30, concerning the pursuit of the activity in question, this Directive shall apply to contracts which have a value excluding value-added tax (VAT) estimated to be no less than the following thresholds:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>EUR 400000 in the case of supply and service contracts; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10648">
+          <num>6</num>
+          <content eId="para_10648__content">
+            <p>Article 20 of that directive, under the heading `Contracts awarded for purposes other than the pursuit of an activity covered or for the pursuit of such an activity in a third country', provides in paragraph 1 thereof: `This Directive shall not apply to contracts which the contracting entities award for purposes other than the pursuit of their activities as described in Articles 3 to 7 ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10649">
+          <num>7</num>
+          <content eId="para_10649__content">
+            <p>Article 55 of Directive 2004/17, entitled `Contract award criteria', provides in paragraph 1 thereof as follows: `Without prejudice to national laws, regulations or administrative provisions on the remuneration of certain services, the criteria on which the contracting entities shall base the award of contracts shall:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>where the contract is awarded on the basis of the most economically advantageous tender from the point of view of the contracting entity, be various criteria linked to the subject matter of the contract in question, such as delivery or completion date, running costs, cost-effectiveness, quality, aesthetic and functional characteristics, environmental characteristics, technical merit, after-sales service and technical assistance, commitments with regard to parts, security of supply, and price or otherwise</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>the lowest price only.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10650">
+          <num>8</num>
+          <content eId="para_10650__content">
+            <p>According to Article 94 of the Rules of Procedure of the Court of Justice: `In addition to the text of the questions referred to the Court for a preliminary ruling, the request for a preliminary ruling shall contain:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>a summary of the subject matter of the dispute and the relevant findings of fact as determined by the referring court or tribunal, or, at least, an account of the facts on which the questions are based; ...</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>a statement of the reasons which prompted the referring court or tribunal to inquire about the interpretation or validity of certain provisions of EU law, and the relationship between those provisions and the national legislation applicable to the main proceedings.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Italian law</p>
+        </tblock>
+        <paragraph eId="para_10651">
+          <num>9</num>
+          <content eId="para_10651__content">
+            <p>Article 2(4) of decreto legislativo n. 163 -- Codice dei contratti pubblici relativi a lavori, servizi e forniture in attuazione delle direttive 2004/17/CE e 2004/18/CE (Legislative Decree No 163 establishing the Code on public works contracts, public service contracts and public supply contracts pursuant to Directives 2004/17/EC and 2004/18/EC) of 12 April 2006 (Ordinary Supplement to GURI No 100 of 2 May 2006) ( `Legislative Decree No 163/2006') provides: `In the absence of any express provisions in this Code, the contractual arrangements of the persons referred to in the first article shall also be regulated according to the provisions laid down in the Civil Code.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10652">
+          <num>10</num>
+          <content eId="para_10652__content">
+            <p>Under Article 115 of Legislative Decree No 163/2006, entitled `Price adjustment': `1.   All contracts for the supply of goods or services on an ongoing basis must include a clause providing for periodic review of the price. The revision shall be carried out on the basis of an investigation by the managers responsible for the acquisition of goods and services on the basis of the data referred to in Article 7(4)(c) and (5).'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10653">
+          <num>11</num>
+          <content eId="para_10653__content">
+            <p>Article 115 of that Legislative Decree was one of the provisions which, under Article 206 thereof, were applicable to public contracts in the special sectors corresponding to those referred to in Articles 3 to 7 of Directive 2004/17.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10654">
+          <num>12</num>
+          <content eId="para_10654__content">
+            <p>Article 1664 of the Codice Civile (Civil Code), entitled `Onerous financial burdens or difficulties in performance', provides, in paragraph 1 thereof: `When, as a result of unforeseeable circumstances, there are increases or decreases in the cost of labour or materials which give rise to an increase or decrease of more than one tenth of the overall price agreed, the contractor or developer may seek review of that price. The review may be granted only in respect of the difference which exceeds one tenth.'</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_10655">
+          <num>13</num>
+          <content eId="para_10655__content">
+            <p>RFI awarded the applicants in the main proceedings a contract for the provision of services relating to the cleaning and maintenance of the decoration of the premises and other areas which are open to the public, as well as ancillary services at stations, installations, offices and workshops at various sites throughout the territory covered by the Direzione Compartimentale Movimento de Cagliari (Cagliari Regional Operations Division, Italy). The contract contained a specific clause laying down the procedures for review of the agreed price, which derogated from Article 1664 of the Civil Code.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10656">
+          <num>14</num>
+          <content eId="para_10656__content">
+            <p>During the performance of that contract, the applicants in the main proceedings submitted a request to RFI for a review of the previously agreed contract price in order to take account of higher contract costs resulting from an increase in staff costs. By decision of 22 February 2012, RFI refused that request.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10657">
+          <num>15</num>
+          <content eId="para_10657__content">
+            <p>Following that decision, the applicants in the main proceedings brought proceedings before the Tribunale amministrativo regionale per la Sardegna (Regional Administrative Court, Sardinia, Italy) seeking annulment of that decision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10658">
+          <num>16</num>
+          <content eId="para_10658__content">
+            <p>By judgment of 11 June 2014, the Tribunale amministrativo regionale per la Sardegna (Regional Administrative Court, Sardinia) dismissed the action. That court held that Article 115 of Legislative Decree No 163/2006 was not applicable to contracts relating to special sectors, such as the contract at issue in the main proceedings. That court took the view that the supply of cleaning services at stations, installations, offices and workshops was ancillary to the performance of activities covered by special sectors, in that those services related to elements forming an essential part of the rail transport network. The court added that price review was not mandatory under Article 1664 of the Civil Code, as the parties to a contract may derogate from that provision by inserting in the contract a contract term limiting price review, which was the case in the main proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10659">
+          <num>17</num>
+          <content eId="para_10659__content">
+            <p>The applicants in the main proceedings appealed against that judgment before the referring court, claiming, in their first and second pleas, that Article 115 of Legislative Decree No 163/2006 or, in the alternative, Article 1664 of the Civil Code is, contrary to the finding of the Tribunale amministrativo regionale per la Sardegna (Regional Administrative Court, Sardinia), applicable to the contract at issue in the main proceedings. In addition, the applicants in the main proceedings have claimed that Articles 115 and 206 of Legislative Decree No 163/2006, in particular, do not comply with EU law, arguing that those provisions, in so far as they seek to exclude price review in the transport sector, particularly in linked contracts for cleaning, are contrary to Article 3(3) TEU, Articles 26 and 101 TFEU et seq. and Directive 2004/17. They contend that the national legislation is excessive and unjustified compared to EU legislation. That legislation is also unjustly disproportionate and likely to place an undertaking that has been awarded a contract for the provision of cleaning services in a position of subordination and weakness, as compared to a public undertaking, which results in a disproportionate and unfair contractual imbalance and ultimately alters the rules governing the functioning of the market. Finally, they submit that if price review may be excluded in all contracts concluded and implemented in the special sectors as a direct result of Directive 2004/17, then that directive is invalid.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10660">
+          <num>18</num>
+          <content eId="para_10660__content">
+            <p>As regards the first plea in law raised by the applicants in the main proceedings, the referring court has indicated that it intends to reject it, confirming the view taken by the Tribunale amministrativo regionale per la Sardegna (Regional Administrative Court, Sardinia) that, since it is functionally linked to special sectors, the contract at issue in the main proceedings is covered by the provisions of Legislative Decree No 163/2006 applicable to those sectors. The referring court states that it also intends to reject the second plea raised by the applicants in the main proceedings, on the grounds that those provisions, which are mandatory in nature, take precedence over Article 1664 of the Civil Code, that the parties in the main proceedings provided a special rule derogating from that article and that the condition relating to `unforeseeable circumstances' referred to in that article was not satisfied in the present case. The referring court nonetheless considers, since it is a court of last instance and the applicants in the main proceedings have made a submission to that effect, that it is its duty to verify the compliance with EU law of, in particular, Article 206 of Legislative Decree No 163/2006, in so far as it precludes the application of Article 115 of that decree not only to contracts in the special sectors but also, as a result of judicial interpretation, service contracts which, even if they are not covered by special sectors, are functionally linked to these sectors. In addition, the referring court considers that it is required, according to the case-law of the Court, to refer the question of the validity of Directive 2004/17 raised by the applicants in the main proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10661">
+          <num>19</num>
+          <content eId="para_10661__content">
+            <p>In those circumstances, the Consiglio di Stato (Council of State, Italy) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Is an interpretation of national law that excludes price review in contracts relating to ``special sectors '', particularly as regards contracts with a different object from those to which the Directive 2004/17 refers, but which are functionally linked to those sectors, compatible with EU law, in particular, Article 3(3) TEU, Articles 26, 56 to 58 and 101 TFEU, and Article 16 of the Charter and Directive 2004/17?</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>Is Directive 2004/17 (if it should be considered that price review may be excluded, in all contracts concluded and implemented within ``special sectors '' as a direct result of that directive compatible with the principles of the European Union, in particular Articles 3(1) TEU, Articles 26, 56 to 58 and 101 TFEU, and Article 16 of the Charter, ``in the light of the unfairness, disproportionality and distortion of contractual balance and, therefore, of the rules governing an efficient market ''?'</p>
+                <tblock>
+                  <p>Consideration of the questions referred</p>
+                </tblock>
+                <tblock>
+                  <p>The first question</p>
+                </tblock>
+                <p>20 By its first question, the referring court asks, in essence, whether Article 3(3) TEU, Articles 26, 56 to 58 and 101 TFEU, Article 16 of the Charter and Directive 2004/17 must be interpreted as precluding national rules, such as those at issue in the main proceedings, which do not provide for periodic review of prices after a contract has been awarded in the sectors covered by that directive.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10662">
+          <num>21</num>
+          <content eId="para_10662__content">
+            <p>As a preliminary point, it should be recalled that, according to the Court's settled case-law, in the context of the cooperation between the Court of Justice and the national courts, the need to provide an interpretation of EU law which will be of use to the national court means that the national court is bound to observe scrupulously the requirements concerning the content of a request for a preliminary ruling, expressly set out in Article 94 of the Rules of Procedure of the Court of Justice of which the national court is presumed to be aware (judgment of 26 July 2017, Persidera, C‑112/16, EU:C:2017:597, paragraph 27 and the case-law cited). Moreover, those requirements are set out in the Court's recommendations to national courts and tribunals in relation to the initiation of preliminary ruling proceedings ( OJ 2012 C 338, p. 1).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10663">
+          <num>22</num>
+          <content eId="para_10663__content">
+            <p>Thus, it is essential, as is stated in Article 94(a) and (c) of the Rules of Procedure, that the reference for a preliminary ruling itself contain a summary of the relevant findings of fact, or at least, an account of the facts on which the questions are based, and a statement of the reasons which prompted the national court to inquire about the interpretation or validity of certain provisions of EU law, and the relationship between those provisions and the national legislation applicable to the main proceedings (see, to that effect, judgment of 26 July 2017, Persidera, C‑112/16, EU:C:2017:597, paragraphs 28 and 29 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10664">
+          <num>23</num>
+          <content eId="para_10664__content">
+            <p>It should be noted, in that regard, that the order for reference gives no explanation of the relevance of the interpretation of Article 3(3) TEU or Articles 26, 57, 58 and 101 TFEU for the resolution of the dispute in the main proceedings. The same is true of Article 56 TFEU, in so far as it relates to aspects other than those which are examined by the Court in paragraph 32 above.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10665">
+          <num>24</num>
+          <content eId="para_10665__content">
+            <p>It follows that the first question is, to that extent, inadmissible.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10666">
+          <num>25</num>
+          <content eId="para_10666__content">
+            <p>First, as regards the interpretation of Directive 2004/17 and of the underlying general principles, the referring court considers that the contract at issue in the main proceedings falls within the scope of that directive, since it was awarded by a contracting authority within the meaning of that directive, namely RFI, and that it is functionally linked to rail transport operations falling within the scope of that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10667">
+          <num>26</num>
+          <content eId="para_10667__content">
+            <p>In that regard, it follows from the Court's case-law that Directive 2004/17 in fact applies not only to contracts awarded in the sphere of one of the activities expressly listed in Articles 3 to 7 thereof, but also to contracts which, even though they are different in nature and could as such normally fall within the scope of Directive 2004/18/EC of the European Parliament and of the Council of 31 March 2004 on the coordination of procedures for the award of public works contracts, public supply contracts and public service contracts ( OJ 2004 L 134, p. 114), are used in the exercise of activities defined in Directive 2004/17. Consequently, where a contract awarded by a contracting entity is connected with an activity which that entity carries out in the sectors listed in Articles 3 to 7 of that directive, that contract is subject to the procedures laid down in that directive (see, to that effect, judgment of 10 April 2008, Ing Aigner, C‑393/06, EU:C:2008:213, paragraphs 56 to 59).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10668">
+          <num>27</num>
+          <content eId="para_10668__content">
+            <p>Moreover, although the order for reference does not contain any evidence on the value of the contract at issue in the main proceedings, it is apparent from the documents in the file before the Court that that value exceeds the relevant threshold for the application of that directive, set at EUR 400000 under Article 16(a) thereof.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10669">
+          <num>28</num>
+          <content eId="para_10669__content">
+            <p>Directive 2004/17 is therefore relevant for the purposes of the answer to be given to the first question.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10670">
+          <num>29</num>
+          <content eId="para_10670__content">
+            <p>In this respect, it should be noted that it is not apparent from any provision of that directive that it must be interpreted as precluding rules of national law, such as Article 115, in conjunction with Article 206, of Legislative Decree No 163/2006, which do not provide for periodic review of prices after contracts are awarded in the sectors covered by the directive, since the latter does not impose any specific obligation on Member States to lay down provisions requiring the contracting entity to grant its contractual partner an upwards review of the price after the contract has been awarded.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10671">
+          <num>30</num>
+          <content eId="para_10671__content">
+            <p>Similarly, the general principles underlying Directive 2004/17, in particular the principle of equal treatment and the consequent obligation of transparency enshrined in Article 10 of that directive do not preclude such rules either. On the contrary, it cannot be ruled out that a price review after the contract has been awarded may run counter to that principle and that obligation (see, by analogy, judgment of 7 September 2016, Finn Frogne, C‑549/14, EU:C:2016:634, paragraph 40). Indeed, as the Commission points out in its written observations, the contract price is an element of great importance in the assessment of tenders by a contracting entity, as well as in its decision to award the contract to an operator. This is also clear from the reference to the price in both of the criteria for the award of contracts mentioned in Article 55(1) of Directive 2004/17. In those circumstances, rules of national law which do not provide for periodic price review after the award of contracts in the sectors covered by that directive are, in fact, likely to encourage compliance with those principles.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10672">
+          <num>31</num>
+          <content eId="para_10672__content">
+            <p>It follows from those considerations that Directive 2004/17 and the general principles that underlie it are to be interpreted as not precluding national rules, such as those at issue in the main proceedings, which do not provide for periodic price review after a contract has been awarded in the sectors covered by that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10673">
+          <num>32</num>
+          <content eId="para_10673__content">
+            <p>Secondly, as regards the interpretation of Article 56 TFEU, it should be noted that that article enshrines, with regard to freedom to provide services, the principles of equal treatment and non-discrimination and the obligation of transparency, with which the compatibility of national rules such as those at issue in the main proceedings has already been examined in paragraph 30 above. Therefore, there is no need to give an interpretation again, in that regard, of that article.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10674">
+          <num>33</num>
+          <content eId="para_10674__content">
+            <p>Thirdly, as regards the interpretation of Article 16 of the Charter, it must be recalled that, under Article 51(1) of the Charter, its provisions are addressed to the Member States only when they are implementing EU law. Under Article 51(2) of the Charter, the Charter does not establish any new power or task for the Union, or modify powers and tasks as defined in the Treaties. Accordingly, the Court is called upon to interpret EU law, in the light of the Charter, within the limits of the powers conferred on it (see judgment of 10 July 2014, Julián Hernández and Others, C‑198/13, EU:C:2014:2055, paragraph 32 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10675">
+          <num>34</num>
+          <content eId="para_10675__content">
+            <p>In that regard, it should be borne in mind that the concept of `implementing Union law' within the meaning of Article 51 of the Charter presupposes a degree of connection between the measure of EU law and the national measure at issue. In particular, the Court has ruled that fundamental European Union rights could not be applied in relation to national legislation because the provisions of EU law in the area concerned did not impose any specific obligation on Member States with regard to the situation at issue in the main proceedings (see judgment of 10 July 2014, Julián Hernández and Others, C‑198/13, EU:C:2014:2055, paragraphs 34 and 35 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10676">
+          <num>35</num>
+          <content eId="para_10676__content">
+            <p>In the present case, since it is apparent from paragraphs 29 and 30 above that neither Directive 2004/17 nor its underlying general principles impose on Member States a specific obligation to lay down provisions requiring the contracting entity to grant its contractual partner an upwards price review after the award of a contract, the provisions of Legislative Decree No 163/2006 at issue in the main proceedings, in so far as they do not provide for periodic price review within the sectors covered by that directive, do not have any connection with that directive and cannot, therefore, be regarded as implementing EU law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10677">
+          <num>36</num>
+          <content eId="para_10677__content">
+            <p>In the light of the foregoing considerations, the answer to the first question is that Directive 2004/17 and the general principles underlying that directive are to be interpreted as not precluding national rules such as those at issue in the main proceedings, which do not provide for periodic price review after a contract has been awarded in the sectors covered by that directive.</p>
+            <tblock>
+              <p>The second question</p>
+            </tblock>
+            <p>37 It is apparent from the case-law of the Court that where it is quite obvious that the interpretation of a provision of EU law or the assessment of its validity, which is sought by the national court bears no relation to the actual facts of the main action or its purpose or where the problem is hypothetical, the Court may reject as inadmissible a request made by that national court (see, to that effect, judgment of 28 March 2017, Rosneft, C‑72/15, EU:C:2017:236, paragraph 50 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10678">
+          <num>38</num>
+          <content eId="para_10678__content">
+            <p>In this respect, it should be noted that the second question, by which the referring court questions the validity of Directive 2004/17, is based on the premiss that the provisions of Legislative Decree No 163/2006 at issue in the main proceedings, in so far as they do not provide for periodic price review within the sectors covered by that directive, constitute an implementation of the directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10679">
+          <num>39</num>
+          <content eId="para_10679__content">
+            <p>However, since it is clear from the examination of the first question that neither Directive 2004/17 nor the general principles underlying it preclude national rules, such as those at issue in the main proceedings, which do not provide for periodic price review after a contract has been awarded in the sectors covered by this directive, that question is a hypothetical one.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10680">
+          <num>40</num>
+          <content eId="para_10680__content">
+            <p>In those circumstances, it must be held that the second question is inadmissible.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_10681">
+          <num>41</num>
+          <content eId="para_10681__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Ninth Chamber) hereby rules: Directive 2004/17/EC of the European Parliament and of the Council of 31 March 2004 coordinating the procurement procedures of entities operating in the water, energy, transport and postal services sectors, as amended by Commission Regulation (EU) No 1251/2011 of 30 November 2011, and the general principles underlying that directive are to be interpreted as not precluding national rules, such as those at issue in the main proceedings, which do not provide for periodic price review after a contract has been awarded in the sectors covered by that directive.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Italian.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

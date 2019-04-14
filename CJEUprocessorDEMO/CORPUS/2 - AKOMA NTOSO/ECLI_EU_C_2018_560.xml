@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Tenth Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>11 July 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Taxation -- Value added tax -- Directive 2006/112/EC -- Article 311(1)(1) -- Special arrangements for second-hand goods -- Definition of `second-hand goods' -- Goods containing precious metals or precious stones resold by a trader -- Processing of those goods after sale -- Recovery of the precious metals or precious stones -- Concept of `precious metals or precious stones') In Case C‑154/17, REQUEST for a preliminary ruling under Article 267 TFEU from the Augstākā tiesa (Supreme Court, Latvia), made by decision of 21 March 2017, received at the Court on 27 March 2017, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">SIA `E LATS'</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#">Valsts ieņēmumu dienests</party>
+      </p>
+      <p>, THE COURT (Tenth Chamber), composed of E. Levits, President of the Chamber, A. Borg Barthet and F. Biltgen (Rapporteur), Judges, Advocate General: M. Bobek, Registrar: M. Aleksejev, Administrator, having regard to the written procedure and further to the hearing on 25 January 2018, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>SIA `E LATS', by Ņ. Podvinska, advokāte, and J. Lagzdiņš, advokāts,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Latvian Government, by I. Kucina and J. Davidoviča, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by L. Lozano Palacios and E. Kalniņš, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 10 April 2018,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_16437">
+          <num>1</num>
+          <content eId="para_16437__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Article 311(1)(1) of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax ( OJ 2006 L 347, p. 1; `the VAT Directive').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16438">
+          <num>2</num>
+          <content eId="para_16438__content">
+            <p>The request has been made in proceedings between SIA `E LATS' ( `E LATS') and the Valsts ieņēmumu dienests (tax authority, Latvia) concerning payment of value added tax (VAT) and, particularly, the applicability of the margin scheme to the sale of goods containing, inter alia, gold, silver and precious stones.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <paragraph eId="para_16439">
+          <num>3</num>
+          <content eId="para_16439__content">
+            <p>Recital 51 of the VAT Directive states: `It is appropriate to adopt a Community taxation system to be applied to second-hand goods, works of art, antiques and collectors' items, with a view to preventing double taxation and the distortion of competition as between taxable persons.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16440">
+          <num>4</num>
+          <content eId="para_16440__content">
+            <p>Article 1(2) of that directive provides: `The principle of the common system of VAT entails the application to goods and services of a general tax on consumption exactly proportional to the price of the goods and services, however many transactions take place in the production and distribution process before the stage at which the tax is charged. On each transaction, VAT, calculated on the price of the goods or services at the rate applicable to such goods or services, shall be chargeable after deduction of the amount of VAT borne directly by the various cost components. ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16441">
+          <num>5</num>
+          <content eId="para_16441__content">
+            <p>Title XII of the VAT Directive, entitled `Special schemes', includes Chapter 4, which is entitled `Special arrangements for second-hand goods, works of art, collectors' items and antiques' and consists of Articles 311 to 343.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16442">
+          <num>6</num>
+          <content eId="para_16442__content">
+            <p>Article 311(1) of the VAT Directive provides: `For the purposes of this Chapter, and without prejudice to other Community provisions, the following definitions shall apply:</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>``second-hand goods '' means movable tangible property that is suitable for further use as it is or after repair, other than works of art, collectors' items or antiques and other than precious metals or precious stones as defined by the Member States; ...</p>
+              </item>
+              <item>
+                <num>(5)</num>
+                <p>``taxable dealer '' means any taxable person who, in the course of his economic activity and with a view to resale, purchases, or applies for the purposes of his business, or imports, second-hand goods, works of art, collectors' items or antiques, whether that taxable person is acting for himself or on behalf of another person pursuant to a contract under which commission is payable on purchase or sale.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Latvian law</p>
+        </tblock>
+        <paragraph eId="para_16443">
+          <num>7</num>
+          <content eId="para_16443__content">
+            <p>Article 138 of the Pievienotās vērtības nodokļa likums (Law on value added tax, `the Law on VAT') establishes a special VAT scheme in Latvia applicable to transactions involving second-hand goods, works of art, collectors' items and antiques, which is to transpose into national law the special VAT arrangements provided for, inter alia, in Article 311 of the VAT Directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16444">
+          <num>8</num>
+          <content eId="para_16444__content">
+            <p>The Latvian legislature has defined second-hand goods as used movable tangible property suitable for further use as it is, without alteration or after repair, other than works of art, collectors' items or antiques and other than articles containing precious metals or precious stones, when the seller referred to in Article 138(4) of the Law on VAT supplies them or transfers them to a dealer.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16445">
+          <num>9</num>
+          <content eId="para_16445__content">
+            <p>In accordance with Articles 183 and 184 of the Ministru kabineta 2013. gada 3. janvāra noteikumi Nr. 17 `Pievienotās vērtības nodokļa likuma normu piemērošanas kārtība un atsevišķas prasības pievienotās vērtības nodokļa maksāšanai un administrēšanai' (Regulation No 17 of the Council of Ministers of 3 January 2013 on the procedure for implementing the provisions of the Law on VAT and various requirements for the payment and administration of value added tax), articles which correspond to Chapters 71, 82, 83, 90 or 96 of the Combined Nomenclature, in its version in force at the material time, are to be regarded as items containing precious metals or precious stones. Those chapters include, inter alia, rings, bracelets, necklaces, broaches, earrings, watch chains and pendants.</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_16446">
+          <num>10</num>
+          <content eId="para_16446__content">
+            <p>E LATS is a company taxable for the purpose of VAT. It grants loans to individuals who are not subject to VAT, in exchange for pledges of precious metals and items containing gold and/or silver, such as necklaces, pendants, rings, wedding rings, cutlery and dental materials.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16447">
+          <num>11</num>
+          <content eId="para_16447__content">
+            <p>E LATS resold the unredeemed items, graded according to their type and purity, to other traders, who were liable to VAT. It applied a special VAT scheme to those transactions and paid VAT only on the difference between the purchase price and the sale price of the items made of precious metal.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16448">
+          <num>12</num>
+          <content eId="para_16448__content">
+            <p>The tax authority carried out a VAT inspection of E LATS and concluded that the latter resold the items made of precious metal as scrap and not as second-hand goods. Taking the view that, in the circumstances, the special VAT regime provided for by Article 138 of the Law on VAT was not applicable, the tax authority decided to impose an additional amount of VAT on E LATS.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16449">
+          <num>13</num>
+          <content eId="para_16449__content">
+            <p>The action brought by E LATS against that decision was dismissed by the Administratīvā apgabaltiesa (Regional Administrative Court, Latvia) on the ground that E LATS resold the items made of gold and silver as scrap and not as second-hand goods and was therefore not entitled to apply the margin scheme provided for in Article 138 of the Law on VAT.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16450">
+          <num>14</num>
+          <content eId="para_16450__content">
+            <p>In support of its appeal on a point of law before the Augstākā tiesa (Supreme Court, Latvia), E LATS claims, inter alia, that the application of the margin scheme cannot depend on whether or not it knew the use, namely resale or processing, to which the buyer would put the goods sold, and that it was illogical to consider that grouping items of jewellery together should lead to their classification being changed from `second-hand goods' to `scrap'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16451">
+          <num>15</num>
+          <content eId="para_16451__content">
+            <p>The referring court considers that the goods at issue in the main proceedings, which are sold with the sole purpose of recovering from them the precious metals and precious stones that they contain, do not fall within the concept of `second-hand goods' referred to in Article 311(1)(1) of the VAT Directive, but within the concept of `precious metals and precious stones' in that provision. It also takes the view that that provision does not grant Member States a discretion in that regard. However, according to the referring court, the Court of Justice has not yet ruled on such an interpretation of that provision and its interpretation is of crucial importance to the resolution of the case.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16452">
+          <num>16</num>
+          <content eId="para_16452__content">
+            <p>In those circumstances, the Augstākā tiesa (Supreme Court) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Must Article 311(1)(1) of [the VAT Directive] be interpreted as meaning that used articles, acquired by a trader, that contain precious metals or precious stones (as in the present case) and are resold principally in order for those precious metals or precious stones to be extracted, may be regarded as second-hand goods?</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>If the answer to question 1 is in the affirmative, is it relevant, for the purpose of limiting the application of the special arrangements, that the trader knows that the subsequent buyer intends to extract the precious metals or precious stones present in the used articles, or are the objective characteristics of the transaction (the quantity of goods, legal status of the counterparty to the transaction, etc.) relevant?'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the questions referred</p>
+        </tblock>
+        <paragraph eId="para_16453">
+          <num>17</num>
+          <content eId="para_16453__content">
+            <p>By its two questions, which it is appropriate to examine together, the referring court asks, in essence, whether Article 311(1)(1) of the VAT Directive must be interpreted as meaning that the term `second-hand goods' covers used goods containing precious metals or precious stones which are resold with the purpose of recovering those metals or stones.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16454">
+          <num>18</num>
+          <content eId="para_16454__content">
+            <p>In accordance with the settled case-law of the Court, in interpreting a provision of EU law it is necessary to consider not only its wording but also its context and the objectives of the legislation of which it forms part, and in particular the origin of that legislation (judgment of 17 April 2018, Egenberger, C‑414/16, EU:C:2018:257, paragraph 44).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16455">
+          <num>19</num>
+          <content eId="para_16455__content">
+            <p>Regarding, in the first place, the wording of Article 311(1)(1) of the VAT Directive, it should be recalled that, under that provision, `second-hand goods' are defined as `movable tangible property that is suitable for further use as it is or after repair, other than works of art, collectors' items or antiques and other than precious metals or precious stones as defined by the Member States'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16456">
+          <num>20</num>
+          <content eId="para_16456__content">
+            <p>It follows that, in order to be considered second-hand goods within the meaning of that provision, goods must fulfil a number of conditions, namely</p>
+            <blockList>
+              <item>
+                <num>(i)</num>
+                <p>be movable tangible property,</p>
+              </item>
+              <item>
+                <num>(ii)</num>
+                <p>be suitable for further use as they are or after repair, and</p>
+              </item>
+              <item>
+                <num>(iii)</num>
+                <p>not fall within the category of works of art, collectors' items or antiques, or of precious metals or precious stones.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16457">
+          <num>21</num>
+          <content eId="para_16457__content">
+            <p>As regards the first and second of those conditions, it must be noted that the Court has already ruled that the concept of `second-hand goods', within the meaning of Article 311(1)(1) of the VAT Directive, does not exclude movable tangible property that is suitable for further use, as it is or after repair, coming from other property in which it was incorporated as a component, and that, in order to be characterised as `second-hand goods', it is necessary only that the used property has maintained the functionalities it possessed when new and that it may, therefore, be reused as it is or after repair (see, to that effect, judgment of 18 January 2017, Sjelle Autogenbrug, C‑471/15, EU:C:2017:20, paragraphs 31 and 32).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16458">
+          <num>22</num>
+          <content eId="para_16458__content">
+            <p>As regards the third condition, it should be noted that, whilst, under Article 311(1)(1) of the VAT Directive, works of art, collectors' items and antiques cannot be classified as `second-hand goods', those items, unlike precious metals and precious stones, may nevertheless qualify for the scheme for taxation of the profit margin made by the taxable dealer, which constitutes a scheme derogating from the general scheme of the VAT Directive (see, to that effect, judgment of 18 May 2017, Litdana, C‑624/15, EU:C:2017:389, paragraph 24).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16459">
+          <num>23</num>
+          <content eId="para_16459__content">
+            <p>It must also be stated that Article 311(1)(1) of the VAT Directive expressly mentions actual precious metals and precious stones, but it makes no express reference to items containing precious metals or precious stones and suitable for `further use', within the meaning of that provision as interpreted by the Court.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16460">
+          <num>24</num>
+          <content eId="para_16460__content">
+            <p>Regarding, in the second place, the context of Article 311(1)(1) of the VAT Directive, it is to be noted that Article 311 is the only article in Section 1, entitled `Definitions', of Chapter 4 of the VAT Directive, a chapter dedicated to special arrangements for second-hand goods, works of art, collectors' items and antiques. Those special arrangements derogate from the general scheme of the VAT Directive and must therefore be applied only to the extent necessary to achieve their objective (see, to that effect, judgment of 8 December 2005, Jyske Finans, C‑280/04, EU:C:2005:753, paragraph 35).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16461">
+          <num>25</num>
+          <content eId="para_16461__content">
+            <p>Since no provision of Chapter 4 relates to precious metals or precious stones or to items containing such metals or stones, no conclusion can be drawn from the context of Article 311(1)(1) of the VAT Directive for the purpose of establishing to what extent items made of precious metals and/or precious stones may be considered `second-hand goods', within the meaning of that provision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16462">
+          <num>26</num>
+          <content eId="para_16462__content">
+            <p>It is necessary, therefore, in the third place, to refer to the objective pursued by Article 311(1)(1) of the VAT Directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16463">
+          <num>27</num>
+          <content eId="para_16463__content">
+            <p>In that regard, first, it should be noted that that provision contains the definitions applicable to the margin scheme and that it is clear from recital 51 of the VAT Directive that the objective of that scheme is to avoid double taxation and distortions of competition between taxable persons in the area of second-hand goods, works of art, collectors' items or antiques (judgment of 18 May 2017, Litdana, C‑624/15, EU:C:2017:389, paragraph 25).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16464">
+          <num>28</num>
+          <content eId="para_16464__content">
+            <p>Next, as the Advocate General has observed in points 49 to 55 of his Opinion, the exclusion of precious metals and precious stones from the margin scheme is due to the fact that the value which should be attached to precious metals and precious stones does not stem solely from their usefulness as a raw material for the production of other goods, but essentially depends on the intrinsic value that may be attributed to them. Therefore, without there even being any need to integrate them or transform them into a product with a particular function, such metals and stones have an intrinsic functionality which is that they represent a financial value that may be achieved on the market for precious metals or precious stones. Moreover, that intrinsic value is not lost since the metals and stones can be reused many times owing to the fact that those materials are easily recovered and transformed while retaining their value.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16465">
+          <num>29</num>
+          <content eId="para_16465__content">
+            <p>Finally, it is clear from the history of Council Directive 94/5/EC of 14 February 1994 supplementing the common system of value added tax and amending Directive 77/388/EEC -- Special arrangements applicable to second-hand goods, works of art, collectors' items and antiques ( OJ 1994 L 60, p. 16), which inserted in Sixth Council Directive 77/388/EEC of 17 May 1977 on the harmonisation of the laws of the Member States relating to turnover taxes -- Common system of value added tax: uniform basis of assessment ( OJ 1977 L 145, p. 1), Article 26a the wording of which is identical to that of Article 311(1)(1) of the VAT Directive that the legislature intended, to a certain extent, to allow objects containing precious metals or precious stones to benefit from the margin scheme.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16466">
+          <num>30</num>
+          <content eId="para_16466__content">
+            <p>In its proposal for a directive (COM(88) 846 final), the European Commission proposed that the margin scheme should cover `objects ... made of gold or any other precious metal or containing precious stones, where the value of such materials incorporated does not exceed 50% of the selling price of those objects', thus introducing a distinction between, on the one hand, precious metals and precious stones and, on the other hand, objects made of those materials, such as jewellery.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16467">
+          <num>31</num>
+          <content eId="para_16467__content">
+            <p>However, as the Advocate General has stated in points 45 to 48 of his Opinion, in the final version of Article 26a of Sixth Directive 77/388 all references to objects containing precious metals or precious stones had been removed and only `precious metals and precious stones' in themselves were excluded from the margin scheme, the definition of what was to be understood by `precious metals or precious stones' being a matter for the Member States.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16468">
+          <num>32</num>
+          <content eId="para_16468__content">
+            <p>Although the EU legislature thus accorded the Member States the power to define `precious metals or precious stones', according to the case-law of the Court such a power to define is limited by the prohibition on undermining not only the very terms of the derogation established by the EU legislature, by adopting a definition so wide that it would deprive the concept of `second-hand goods' of its content (see, to that effect, judgments of 28 June 2007, JP Morgan Fleming Claverhouse Investment Trust and The Association of Investment Trust Companies, C‑363/05, EU:C:2007:391, paragraph 21, and of 13 March 2014, ATP PensionService, C‑464/12, EU:C:2014:139, paragraph 41), but also the objectives pursued by the VAT Directive and the principle of fiscal neutrality inherent in the common system of VAT (see, to that effect, judgment of 13 March 2014, ATP PensionService, C‑464/12, EU:C:2014:139, paragraph 42).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16469">
+          <num>33</num>
+          <content eId="para_16469__content">
+            <p>It follows that, in order for an object composed of precious metals or precious stones to be capable of falling within the category of `second-hand goods', within the meaning of Article 311(1)(1) of the VAT Directive, which are eligible for the special margin scheme, and not that of `precious metals or precious stones', which are excluded from that scheme, it must have had a functionality other than that which is inherent in the materials of which it is composed, have retained that functionality and be suitable for further use, as it is or after repair.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16470">
+          <num>34</num>
+          <content eId="para_16470__content">
+            <p>By contrast, as the Advocate General has stated in point 72 of his Opinion, where an object has no functionality other than that inherent in its component materials, or is not capable of fulfilling any other function, the object in question does not qualify for the special margin scheme since it is no longer in the same economic cycle and will be useful only for the purposes of being transformed into a new object, which will have a new economic cycle, with the result that the risk of double taxation, which is the basis for the establishment of the margin scheme, disappears.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16471">
+          <num>35</num>
+          <content eId="para_16471__content">
+            <p>The factors which must be taken into account in order to establish, in a particular case, whether a resold item falls within the category of `second-hand goods' or that of `precious metals and precious stones' include all the objective circumstances in which the resale has taken place. As is clear from the Court's case-law, the terms contained in the VAT Directive are objective in nature and apply without regard to the purpose or results of the transactions concerned (see, to that effect, judgment of 6 July 2006, Kittel and Recolta Recycling, C‑439/04 and C‑440/04, EU:C:2006:446, paragraph 41).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16472">
+          <num>36</num>
+          <content eId="para_16472__content">
+            <p>Consequently, taking into consideration factors such as the intention of a taxable person participating in the transaction is, save in exceptional cases, contrary to the objectives of the common system of VAT of ensuring legal certainty and facilitating the measures necessary for the application of VAT by having regard to the objective character of the transaction concerned (judgment of 6 July 2006, Kittel and Recolta Recycling, C‑439/04 and C‑440/04, EU:C:2006:446, paragraph 42 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16473">
+          <num>37</num>
+          <content eId="para_16473__content">
+            <p>By contrast, as the Advocate General has noted in points 78 and 82 of his Opinion, factors such as the presentation of the items in question, the method of valuing them and the method of charging, namely in bulk (gross/weight) or per item, are objective factors that may legitimately be taken into consideration.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16474">
+          <num>38</num>
+          <content eId="para_16474__content">
+            <p>In that regard, it should be added that, since the taxable amount determined in accordance with the margin scheme must result from accounts from which it may be ascertained that all the conditions for applying that scheme have been fulfilled (judgment of 18 January 2017, Sjelle Autogenbrug, C‑471/15, EU:C:2017:20, paragraph 43), the accounts of the taxable dealer and the connected invoices may, save in exceptional cases, provide objective information on the transaction in question and the items sold.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16475">
+          <num>39</num>
+          <content eId="para_16475__content">
+            <p>In the light of all the foregoing, the answer to the questions referred is that Article 311(1)(1) of the VAT Directive must be interpreted as meaning that the concept of `second-hand goods' does not cover used goods containing precious metals or precious stones if those goods are no longer capable of performing their initial function and have retained only the functionalities inherent in those metals and stones, which is for the national court to determine taking into account all the objective circumstances relevant in each individual case.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_16476">
+          <num>40</num>
+          <content eId="para_16476__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Tenth Chamber) hereby rules: Article 311(1)(1) of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax must be interpreted as meaning that the concept of `second-hand goods' does not cover used goods containing precious metals or precious stones if those goods are no longer capable of performing their initial function and have retained only the functionalities inherent in those metals and stones, which is for the national court to determine taking into account all the objective circumstances relevant in each individual case.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Latvian.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

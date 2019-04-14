@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Seventh Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>13 June 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Taxation -- Common system of value added tax (VAT) -- Directive 2006/112/EC -- Article 2(1)(a) -- Scope -- Taxable transactions -- Supply of goods for consideration -- Transfer, by a public limited company of a building to a shareholder as the counterpart to the buy-back of its shares) In Case C‑421/17, REQUEST for a preliminary ruling under Article 267 TFEU from the Naczelny Sąd Administracyjny (Supreme Administrative Court, Poland), made by decision of 22 March 2017, received at the Court on 13 July 2017, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">SZEF Krajowej Administracji Skarbowej</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#">Polfarmex Spółka Akcyjna w Kutnie</party>
+      </p>
+      <p>, THE COURT (Seventh Chamber), composed of A. Rosas, President of the Chamber, C. Toader (Rapporteur) and A. Prechal, Judges, Advocate General: M. Campos Sánchez-Bordona, Registrar: A. Calot Escobar, having regard to the written procedure, after considering the observations submitted on behalf of</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>the Polish Government, by B. Majczyna, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Estonian Government, by N. Grünberg, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Italian Government, by G. Palmieri, acting as Agent, and G. De Socio, avvocato dello Stato,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by R. Lyal and M. Owsiany-Hornung, acting as Agents, having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <tblock>
+        <p>Judgment</p>
+      </tblock>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_13730">
+          <num>1</num>
+          <content eId="para_13730__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Article 2(1)(a) of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax ( OJ 2006 L 347, p. 1; `the VAT Directive').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13731">
+          <num>2</num>
+          <content eId="para_13731__content">
+            <p>The request has been made in proceedings between the Szef Krajowej Administracji Skarbowej (Director of the National Tax Board, Poland) and Polfarmex Spółka Akcyjna w Kutnie ( `Polfarmex') concerning a tax ruling issued to that company by the Minister Finansów (Minister for Finance, Poland; `the Minister'), by which the Minister held that a transaction whereby Polfarmex intends to transfer property to a limited liability company, holder of shares issued by Polfarmex, as payment for those shares, under a buy-back procedure permitted by national legislation, is subject to value added tax (VAT).</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <paragraph eId="para_13732">
+          <num>3</num>
+          <content eId="para_13732__content">
+            <p>Recitals 7 and 35 of the VAT Directive read as follows: `</p>
+            <blockList>
+              <item>
+                <num>(7)</num>
+                <p>The common system of VAT should, even if rates and exemptions are not fully harmonised, result in neutrality in competition, such that within the territory of each Member State similar goods and services bear the same tax burden, whatever the length of the production and distribution chain. ...</p>
+              </item>
+              <item>
+                <num>(35)</num>
+                <p>A common list of exemptions should be drawn up so that the Communities' own resources may be collected in a uniform manner in all the Member States.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13733">
+          <num>4</num>
+          <content eId="para_13733__content">
+            <p>Article 2(1) of that directive provides: `The following transactions shall be subject to VAT:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>the supply of goods for consideration within the territory of a Member State by a taxable person acting as such; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13734">
+          <num>5</num>
+          <content eId="para_13734__content">
+            <p>Article 9(1) of that directive provides: ```Taxable person '' shall mean any person who, independently, carries out in any place any economic activity, whatever the purpose or results of that activity. Any activity of producers, traders or persons supplying services, including mining and agricultural activities and activities of the professions, shall be regarded as ``economic activity ''. The exploitation of tangible or intangible property for the purposes of obtaining income therefrom on a continuing basis is in particular to be regarded as an economic activity.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13735">
+          <num>6</num>
+          <content eId="para_13735__content">
+            <p>Pursuant to Article 12(1) and (2) of the VAT Directive: `1.   Member States may regard as a taxable person anyone who carries out, on an occasional basis, a transaction relating to the activities referred to in the second subparagraph of Article 9(1) and in particular one of the following transactions:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>the supply, before first occupation, of a building or parts of a building and of the land on which the building stands;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>the supply of building land. 2.   For the purposes of paragraph 1(a), ``building '' shall mean any structure fixed to or in the ground. Member States may lay down the detailed rules for applying the criterion referred to in paragraph 1(a) to conversions of buildings and may determine what is meant by ``the land on which a building stands ''. Member States may apply criteria other than that of first occupation, such as the period elapsing between the date of completion of the building and the date of first supply, or the period elapsing between the date of first occupation and the date of subsequent supply, provided that those periods do not exceed five years and two years respectively.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13736">
+          <num>7</num>
+          <content eId="para_13736__content">
+            <p>Under Article 14(1) of the VAT Directive, ``supply of goods '' means the transfer of the right to dispose of tangible property as owner.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13737">
+          <num>8</num>
+          <content eId="para_13737__content">
+            <p>Article 135(1) of that directive, within Chapter 3 thereof, entitled `Exemptions for other activities', provides: `Member States shall exempt the following transactions: ...</p>
+            <blockList>
+              <item>
+                <num>(f)</num>
+                <p>transactions, including negotiation but not management or safekeeping, in shares, interests in companies or associations, debentures and other securities, but excluding documents establishing title to goods, and the rights or securities referred to in Article 15(2); ...</p>
+              </item>
+              <item>
+                <num>(j)</num>
+                <p>the supply of a building or parts thereof, and of the land on which it stands, other than the supply referred to in point (a) of Article 12(1); ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Polish law</p>
+        </tblock>
+        <tblock>
+          <p>The Law implementing the Law on the National Tax Board</p>
+        </tblock>
+        <paragraph eId="para_13738">
+          <num>9</num>
+          <content eId="para_13738__content">
+            <p>In accordance with Article 206(1) of the Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Law implementing the Law on the National Tax Board), as amended (Dz. U. of 2016, heading 1948), which entered into force on 1 March 2017, in legal proceedings relating to requests for tax rulings to which the Minister competent in matters of public finances is a party or could be a party on the basis of previous provisions, the Director of the National Tax Board is to assume the rights and obligations of that Minister, unless otherwise specified.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The VAT Law</p>
+        </tblock>
+        <paragraph eId="para_13739">
+          <num>10</num>
+          <content eId="para_13739__content">
+            <p>Under Article 2(1)(a) of the VAT Directive, which has been transposed into Polish law by Article 5(1), point 1, of the ustawa o podatku od towarów i usług (Law on the tax on goods and services) of 11 March 2004 (Dz. U No 54, heading 535), as amended (Dz. U. 2011, No 177, heading 1054) ( `the Law on VAT'), VAT is applicable to the supply of goods and services for consideration on the national territory.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13740">
+          <num>11</num>
+          <content eId="para_13740__content">
+            <p>Article 6(1) of the Law on VAT, provides that the provisions of that Law do not apply `to the transfers by an undertaking or by an organised establishment of the undertaking'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13741">
+          <num>12</num>
+          <content eId="para_13741__content">
+            <p>Article 14(1) of the VAT Directive has been transposed into Polish law by Article 7(1) of the Law on VAT, which provides that `the supply of goods, referred to in Article 5(1), point 1, shall mean the transfer of the right to dispose of the goods as owner'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13742">
+          <num>13</num>
+          <content eId="para_13742__content">
+            <p>In accordance with Article 15(1) and (2) of the Law on VAT: `1.   Taxable persons are legal persons, organisational units without legal personality and natural persons pursuing an independent economic activity referred to in paragraph 2, regardless of the purpose or result of such activity. 2.   Any activity of producers, traders or persons supplying services, including mining and agricultural activities and activities of the professions, shall be regarded as economic activity. The exploitation of tangible or intangible property for the purposes of obtaining income therefrom on a continuing basis shall in particular be regarded as an economic activity.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The Companies Code</p>
+        </tblock>
+        <paragraph eId="para_13743">
+          <num>14</num>
+          <content eId="para_13743__content">
+            <p>Article 359 of the Kodeks spółek handlowych (the Companies Code) of 15 September 2000, as amended (Dz. U. 2016, heading 1578) ( `the Companies Code'), provides: `1.   Shares may be redeemed where the Articles of Association so provide. Shares may be redeemed either with the agreement of the shareholder, by way of acquisition by the company, (voluntary redemption), or without the agreement of the shareholder (compulsory redemption). Voluntary redemption may not take place more than once in a financial year. The Articles of Association shall stipulate the conditions and method of compulsory redemption. 2.   Redemption of shares requires a resolution of the General Meeting. The resolution shall, in particular, define the legal basis of the redemption, the amount of remuneration payable to the shareholder whose shares have been redeemed, or the reasons for the redemption of shares without compensation and the method of reduction of the share capital. Compulsory redemption shall be against remuneration, which may not be less than the value of the net assets corresponding to a share, as set out in the annual accounts of the last financial year, less the amount allocated to sharing between shareholders. ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13744">
+          <num>15</num>
+          <content eId="para_13744__content">
+            <p>Article 360(1) of that code provides that the redemption of shares requires a reduction in the share capital. The resolution to decrease the share capital must be adopted at the General Meeting at which the resolution on the redemption of shares was adopted.</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the question referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_13745">
+          <num>16</num>
+          <content eId="para_13745__content">
+            <p>Polfarmex, a limited company with its registered office in Kutno (Poland), carries out its economic activity in the area of manufacture of pharmaceutical products. As such, it is subject to VAT.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13746">
+          <num>17</num>
+          <content eId="para_13746__content">
+            <p>Polfarmex has planned to restructure the company's share capital through the buy-back of part of the shares held in that capital by a limited liability company, using one of the methods of `redemption' provided for by the Companies Code, that is to say, automatic, mandatory or voluntary redemption. The compensation due by reason of that redemption would be the transfer, in favour of that other company with limited liability, of ownership of some land and the buildings thereon and their equipment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13747">
+          <num>18</num>
+          <content eId="para_13747__content">
+            <p>To that end, Polfarmex made an application to the Minister for a tax ruling in order to determine whether the redemption of the shares held by the limited liability company, on the one hand, and the transfer of ownership of immovable property in favour of that company, on the other, would be subject to VAT.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13748">
+          <num>19</num>
+          <content eId="para_13748__content">
+            <p>In its application, Polfarmex submitted that the transactions in question should not be subject to VAT, in so far as, in doing so, it will not act in the exercise of its economic activity, whether at the stage of redemption of the shares or transfer of ownership of the immovable property. The company is of the opinion that those transactions constitute a single complex transaction comprising the redemption of shares and the payment made therefor and that there is a causal link between those two transactions, so that it is incorrect to treat them separately for tax purposes.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13749">
+          <num>20</num>
+          <content eId="para_13749__content">
+            <p>In his ruling, the Minister took the view that the transfer of immovable property in return for the redemption of shares must be regarded as a supply of goods for consideration subject to VAT, within the meaning of point 1 of Article 5(1) of the Law on VAT. According to the Minister, between the parties to the transaction there will be a binding relationship, Polfarmex committing to transfer, to the limited company holding shares in its capital, ownership of immovable property and the shares redeemed constituting the consideration for that transfer. In other words, since there will be a supply of goods for consideration, the transaction must be subject to VAT.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13750">
+          <num>21</num>
+          <content eId="para_13750__content">
+            <p>Polfarmex brought an action before the Wojewódzki Sąd Administracyjny w Łodzi (Regional Administrative Court, Łódź, Poland) seeking annulment of that tax ruling.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13751">
+          <num>22</num>
+          <content eId="para_13751__content">
+            <p>By judgment of 10 March 2015, that court annulled the tax ruling, taking the view not only that the transaction proposed by Polfarmex will not be a transaction carried out in the course of its economic activity, but also that the examination of the applicability of VAT must cover the entire transaction. What is at issue in the present case is a single, complex transaction, consisting of the redemption of shares combined with the transfer to a shareholder of consideration in kind in exchange for the shares redeemed. Redemption of the shares is thus closely linked to the transfer of ownership of the assets as payment, those two aspects of the transaction being interdependent. It follows that the transfer of the immovable property to the shareholder cannot be analysed as an autonomous and separate transaction subject to VAT, since, in accordance with the Law on VAT, the redemption of shares is not such a transaction.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13752">
+          <num>23</num>
+          <content eId="para_13752__content">
+            <p>That judgment was the object of an appeal in cassation brought by the Minister before the referring court, the Naczelny Sąd Administracyjny (Supreme Administrative Court, Poland).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13753">
+          <num>24</num>
+          <content eId="para_13753__content">
+            <p>In its request for a preliminary ruling, the referring court states that, in accordance with its case-law on limited liability companies, the transfer of immovable property by such a company to a partner, in consideration for the acquisition of the equity which he holds in that company, constitutes a taxable transaction within the meaning of Article 5(1), point 1, and Article 7(1) of the Law on VAT. In the light of that case-law, the referring court states that, despite the similarity between the redemption of equity and shares, the question of whether the transaction proposed in the case before it is subject to VAT raises doubts regarding the condition of acting as a taxable person and the pecuniary nature of that operation, since, following the redemption of shares, a company limited by shares, such as Polfarmex, receives nothing directly in return, since the representative shares in part of its share capital are cancelled and that share capital is reduced on a pro rata basis.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13754">
+          <num>25</num>
+          <content eId="para_13754__content">
+            <p>In those circumstances, the Naczelny Sąd Administracyjny (Supreme Administrative Court) decided to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling: `Does the transfer by a public limited company of immovable property to a shareholder in connection with the redemption of its shares constitute a transaction that is subject to value added tax in accordance with Article 2(1)(a) of Council Directive 2006/112?'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the question referred</p>
+        </tblock>
+        <paragraph eId="para_13755">
+          <num>26</num>
+          <content eId="para_13755__content">
+            <p>By its question, the referring court asks, in essence, whether Article 2(1)(a) of the VAT Directive must be interpreted as meaning that the transfer by a limited company to one of its shareholders of the ownership of immovable property, made, as is the one at issue in the main proceedings, as consideration for the buy-back, by that limited company, under a mechanism for the redemption of shares provided for in national legislation, of shares held in its share capital by that shareholder, constitutes a supply of goods for consideration subject to VAT.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13756">
+          <num>27</num>
+          <content eId="para_13756__content">
+            <p>It must be recalled, first of all, that the VAT Directive establishes a common system of VAT based on, inter alia, a uniform definition of taxable transactions (judgment of 20 June 2013, Newey, C‑653/11, EU:C:2013:409, paragraph 39 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13757">
+          <num>28</num>
+          <content eId="para_13757__content">
+            <p>Thus, under Article 2(1)(a) of the VAT Directive, the supply of goods for consideration within the territory of a Member State by a taxable person acting as such is subject to VAT.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13758">
+          <num>29</num>
+          <content eId="para_13758__content">
+            <p>Pursuant to Article 9(1) of the VAT Directive, `taxable person' means any person who, independently, carries out in any place any economic activity, whatever the purpose or results of that activity. The exploitation of tangible or intangible property for the purposes of obtaining income therefrom on a continuing basis is in particular to be regarded as an `economic activity'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13759">
+          <num>30</num>
+          <content eId="para_13759__content">
+            <p>Article 14(1) of the VAT Directive defines `supply of goods' as the transfer of the right to dispose of tangible property as owner.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13760">
+          <num>31</num>
+          <content eId="para_13760__content">
+            <p>It follows therefrom that a transaction may, in principle, be subject to VAT only if it includes the transfer, for consideration, of a property right belonging to a taxable person acting as such on the territory of a Member State.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13761">
+          <num>32</num>
+          <content eId="para_13761__content">
+            <p>In the case of a transaction such as that at issue in the main proceedings, it is common ground, firstly, that the transaction proposed between Polfarmex and its shareholder will lead to the transfer of the right of ownership of immovable property and, secondly, that Polfarmex has the status of a taxable person.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13762">
+          <num>33</num>
+          <content eId="para_13762__content">
+            <p>Thirdly, the condition of the place of supply of the goods is undoubtedly met, the transaction having taken place within the territory of a Member State, namely in Poland.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13763">
+          <num>34</num>
+          <content eId="para_13763__content">
+            <p>As regards, fourthly, the question of whether the transaction, by a limited company to a shareholder, transferring ownership of immovable property in return for the buy-back of the shares held by that shareholder, under a mechanism provided for in national legislation, can be considered to have been made for consideration, it should be noted that a supply of goods is made `for consideration', within the meaning of Article 2(1)(a) of the VAT Directive, only if there is a legal relationship between the supplier and the purchaser entailing reciprocal performance, the price received by the supplier constituting the value actually given in return for the asset supplied (judgments of 27 April 1999, Kuwait Petroleum, C‑48/97, EU:C:1999:203, paragraph 26, and of 21 November 2013, Dixons Retail, C‑494/12, EU:C:2013:758, paragraph 32).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13764">
+          <num>35</num>
+          <content eId="para_13764__content">
+            <p>In that regard, although, indeed, the Court has previously ruled that the transfer of immovable property, by a taxable person subject to VAT, to the State Treasury or to a local authority of such a State, as payment for tax arrears, is not subject to VAT on the ground that it does not constitute, having regard to the unilateral nature of the payment of a tax debt, a supply of goods for consideration (judgment of 11 May 2017, Posnania Investment, C‑36/16, EU:C:2017:361, paragraphs 35 and 36), it must be held that, in the present case, there is, between the supplier of the immovable property and the beneficiary thereof, a legal relationship in which Polfarmex transfers ownership of immovable property to its shareholder in exchange for the shares held by the latter. Thus, by a mutual transfer of property rights, each party is involved in the transaction as both the supplier and the purchaser.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13765">
+          <num>36</num>
+          <content eId="para_13765__content">
+            <p>Consequently, it is a legal relationship in which there is reciprocal performance, the one being the consideration for the other, within the meaning of the case-law of the Court cited in paragraph 34 of this judgment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13766">
+          <num>37</num>
+          <content eId="para_13766__content">
+            <p>As regards, fifthly, the condition that a taxable person acts as such in the context of the proposed transaction, it must be noted that a taxable person, within the meaning of the second subparagraph of Article 9(1) of the VAT Directive, acts as such, in principle, only if he does so as part of his economic activity (see, to that effect, judgment of 4 October 1995, Armbrecht, C‑291/92, EU:C:1995:304, paragraph 17).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13767">
+          <num>38</num>
+          <content eId="para_13767__content">
+            <p>With regard to the concept of `economic activity', the Court has held that it must be understood as encompassing all activities of producers, traders and persons supplying services. An analysis of those definitions highlights the scope of that concept and its objective nature, in the sense that the activity is considered per se and without regard to its purpose or results. An activity is, as a general rule, categorised as `economic' where it is permanent and is carried out in return for remuneration which is received by the person carrying out the activity (judgment of 20 March 2014, Gmina Wrocław, C‑72/13, not published, EU:C:2014:197, paragraph 16 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13768">
+          <num>39</num>
+          <content eId="para_13768__content">
+            <p>It follows that Article 9 of that directive assigns a very wide scope to VAT (see, to that effect, judgment of 29 October 2015, Saudaçor, C‑174/14, EU:C:2015:733, paragraph 31 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13769">
+          <num>40</num>
+          <content eId="para_13769__content">
+            <p>In the present case, in the proceedings before the Tax Board, Polfarmex argued that the two transactions in question constitute a single, complex transaction comprising the redemption of shares and the payment made in that regard, namely the delivery of goods.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13770">
+          <num>41</num>
+          <content eId="para_13770__content">
+            <p>However, as is apparent from paragraph 36 of this judgment, given the reciprocal nature of the services as between the two companies and the dual status of each party in the context of their legal relationship, as a supplier, on the one hand, and as a beneficiary, on the other, it is appropriate to distinguish the two transactions.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13771">
+          <num>42</num>
+          <content eId="para_13771__content">
+            <p>With regard to the supply of immovable property at issue in the main proceedings, should it transpire that those goods whose ownership is transferred by Polfarmex in return for the `redemption' are goods allocated to that company's `economic activity', in the broad sense, as identified by the case-law cited in paragraphs 38 and 39 of this judgment, which it is for the referring court to ascertain, it would be necessary to hold that such a transaction is subject to VAT. In that regard, the mere fact that the reason for that transfer of ownership is the payment for those shares and that the transaction forms part of the restructuring of Polfarmex cannot, however, lead to the conclusion that such a supply of immovable property is excluded from the scope of Article 2(1)(a) of the VAT Directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13772">
+          <num>43</num>
+          <content eId="para_13772__content">
+            <p>The foregoing is still, however, without prejudice to the fact that Article 135(1)(j) of the VAT Directive provides for an exemption from VAT for supplies of buildings, other than those referred to in Article 12(1)(a) of the directive, which refers to the supply of a building or parts thereof, and of the land on which it stands before first occupation. Thus, it must be recalled, in particular, that those provisions, read together, have led the Court to make a distinction between old and new buildings, the sale of an old building not being, as a rule, subject to VAT (see, inter alia, judgments of 12 July 2012, J.J. Komen en Zonen Beheer Heerhugowaard, C‑326/11, EU:C:2012:461, paragraph 21, and of 16 November 2017, Kozuba Premium Selection, C‑308/16, EU:C:2017:869, paragraph 30). Since the question referred does not concern those provisions and the Court has no information in that regard, it is for the referring court, where appropriate, to determine the rules applicable in this respect to the immovable property forming the object of the supply at issue in the main proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13773">
+          <num>44</num>
+          <content eId="para_13773__content">
+            <p>With regard to the `redemption' of the shares, it is the settled case-law of the Court that the mere acquisition and holding of shares are not to be regarded as an `economic activity' within the meaning of the VAT Directive. Indeed, the mere acquisition of financial holdings in other undertakings does not amount to the exploitation of property for the purpose of obtaining income therefrom on a continuing basis because any dividend yielded by those holdings is merely the result of ownership of the property and is not the consideration for any economic activity within the meaning of that directive (judgment of 26 May 2005, Kretztechnik, C‑465/03, EU:C:2005:320, paragraph 19 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13774">
+          <num>45</num>
+          <content eId="para_13774__content">
+            <p>If, therefore, the acquisition of financial holdings in other undertakings does not in itself constitute an economic activity within the meaning of that directive, the same must be true of activities consisting in the sale of such holdings (judgment of 20 June 1996, Wellcome Trust, C‑155/94, EU:C:1996:243, paragraph 33).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13775">
+          <num>46</num>
+          <content eId="para_13775__content">
+            <p>Having regard to the foregoing considerations, the answer to the question referred is that Article 2(1)(a) of the VAT Directive must be interpreted as meaning that the transfer by a limited company to one of its shareholders of the ownership of immovable property, made, as is the one at issue in the main proceedings, as consideration for the buy-back, by that limited company, under a mechanism for the redemption of shares provided for in national legislation, of shares held in its share capital by that shareholder, constitutes a supply of goods for consideration subject to VAT provided that that immovable property is used in the economic activity of that limited company.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_13776">
+          <num>47</num>
+          <content eId="para_13776__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Seventh Chamber) hereby rules: Article 2(1)(a) of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax must be interpreted as meaning that the transfer by a limited company to one of its shareholders of the ownership of immovable property, made, as is the one at issue in the main proceedings, as consideration for the buy-back, by that limited company, under a mechanism for the redemption of shares provided for in national legislation, of shares held in its share capital by that shareholder, constitutes a supply of goods for consideration subject to value added tax provided that that immovable property is used in the economic activity of that limited company.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Polish.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

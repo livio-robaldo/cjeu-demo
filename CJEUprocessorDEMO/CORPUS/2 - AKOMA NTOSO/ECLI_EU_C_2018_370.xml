@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+      <references source="#source">
+        <TLCOrganization eId="institution_54" showAs="" href="/akn/ontology/Organization/Institution/institution_54" />
+        <TLCOrganization eId="institution_14" showAs="" href="/akn/ontology/Organization/Institution/institution_14" />
+        <TLCOrganization eId="company_76" showAs="" href="/akn/ontology/Organization/Company/company_76" />
+      </references>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Fifth Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>31 May 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Postal services in the European Union -- Directive 97/67/EC -- Articles 2, 7 and 9 -- Directive 2008/6/EC -- Definition of `postal service provider' -- Haulage, freight-forwarding and express mail undertakings providing services involving the clearance, sorting, transport and distribution of postal items -- Authorisation required for the provision of postal services to the public -- Contribution to the costs of providing universal service) In Joined Cases C‑259/16 and C‑260/16, REQUESTS for a preliminary ruling under Article 267 TFEU from the Tribunale amministrativo regionale per il Lazio (Regional Administrative Court, Lazio, Italy), made by decisions of 27 January 2016, received at the Court on 10 May 2016 (C‑259/16) and on 11 May 2016 (C‑260/16), in the proceedings Confederazione Generale Italiana dei Trasporti e della Logistica (Confetra)(C‑259/16), Associazione Nazionale Imprese Trasporti Automobilistici(C‑259/16), Fercam SpA(C‑259/16), Associazione non Riconosciuta Alsea(C‑259/16), Associazione Fedit(C‑259/16), Carioni Spedizioni Internazionali Srl(C‑259/16), Federazione Nazionale delle Imprese di Spedizioni Internazionali -- Fedespedi(C‑259/16), Tnt Global Express SpA(C‑259/16), Associazione Italiana dei Corrieri Aerei Internazionali (AICAI)(C‑260/16), DHL Express (Italy) Srl(C‑260/16), Federal Express Europe Inc. (C‑260/16), United Parcel Service Italia Ups Srl(C‑260/</p>
+      <blockList>
+        <item>
+          <num>16)</num>
+          <p>v</p>
+          <p>
+            <party as="respondent" refersTo="#institution_54">Autorità per le Garanzie nelle Comunicazioni</party>
+          </p>
+          <p>,</p>
+          <p>
+            <party as="respondent" refersTo="#institution_14">Ministero dello Sviluppo Economico</party>
+          </p>
+          <p>, intervening party:</p>
+          <p>
+            <party as="intervening" refersTo="#company_76">Poste Italiane SpA</party>
+          </p>
+          <p>(C‑260/16), THE COURT (Fifth Chamber), composed of J.L. da Cruz Vilaça (Rapporteur), President of the Chamber, E. Levits, A. Borg Barthet, M. Berger and F. Biltgen, Judges, Advocate General: M. Campos Sánchez-Bordona, Registrar: R. Schiano, Administrator, having regard to the written procedure and further to the hearing on 20 September 2017, after considering the observations submitted on behalf of:</p>
+          <blockList>
+            <item>
+              <num>--</num>
+              <p>the Confederazione Generale Italiana dei Trasporti e della Logistica (Confetra), the Federazione Nazionale delle Imprese di Spedizioni Internazionali -- Fedespedi, the Associazione Nazionale Imprese Trasporti Automobilistici, the Associazione non Riconosciuta Alsea, the Associazione Fedit, Fercam SpA, Tnt Global Express SpA and Carioni Spedizioni Internazionali Srl, by S. Romano and A. Romano, avvocati,</p>
+            </item>
+            <item>
+              <num>--</num>
+              <p>the Associazione Italiana dei Corrieri Aerei (AICAI), DHL Express (Italy) Srl and Federal Express Europe Inc., by M. Giordano and L. Daniele, avvocati,</p>
+            </item>
+            <item>
+              <num>--</num>
+              <p>United Parcel Service Italia Ups Srl, by A. Boso Caretta, avvocato,</p>
+            </item>
+            <item>
+              <num>--</num>
+              <p>
+                <organization refersTo="#company_76">Poste Italiane SpA</organization>
+              </p>
+              <p>, by A. Sandulli, A. Fratini and G. Pandolfi, avvocati,</p>
+            </item>
+            <item>
+              <num>--</num>
+              <p>the Italian Government, by G. Palmieri, acting as Agent, and S. Fiorentino, avvocato dello Stato,</p>
+            </item>
+            <item>
+              <num>--</num>
+              <p>the French Government, by R. Coesme, acting as Agent,</p>
+            </item>
+            <item>
+              <num>--</num>
+              <p>the European Commission, by P. Costa de Oliveira and L. Malferrari, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 28 November 2017,</p>
+              <p>gives the following</p>
+            </item>
+          </blockList>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_12735">
+          <num>1</num>
+          <content eId="para_12735__content">
+            <p>These requests for a preliminary ruling concern the interpretation of Article 2(1), (1a), (6) and (19), Article 7(4) and Article 9(1) and (2) of Directive 97/67/EC of the European Parliament and of the Council of 15 December 1997 on common rules for the development of the internal market of Community postal services and the improvement of quality of service ( OJ 1998 L 15, p. 14), as amended by Directive 2008/6/EC of the European Parliament and of the Council of 20 February 2008 ( OJ 2008 L 52, p. 3) ( `Directive 97/67').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12736">
+          <num>2</num>
+          <content eId="para_12736__content">
+            <p>The requests have been made in two sets of proceedings between, respectively, the Confederazione Generale Italiana dei Trasporti e della Logistica (Confetra), the Federazione Nazionale delle Imprese di Spedizioni Internazionali -- Fedespedi, the Associazione Nazionale Imprese Trasporti Automobilistici, the Associazione non Riconosciuta Alsea, the Associazione Fedit, Fercam SpA, Tnt Global Express SpA and Carioni Spedizioni Internazionali Srl (C‑259/16), and the Associazione Italiana dei Corrieri Aerei Internazionali (AICAI), DHL Express (Italy) Srl, Federal Express Europe Inc. and United Parcel Service Italia Ups Srl (C‑260/16), undertakings and associations of undertakings operating in the haulage, freight-forwarding and express mail sector, and the Autorità per le Garanzie nelle Comunicazioni (Communications Regulatory Authority, Italy) ( `AGCOM') and the Ministero dello Sviluppo Economico (Ministry for Economic Development, Italy), concerning the lawfulness of regulatory measures adopted for the purpose of transposing Directive 97/67.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <paragraph eId="para_12737">
+          <num>3</num>
+          <content eId="para_12737__content">
+            <p>Recitals 10, 18, 22, and 23 of Directive 97/67 state as follows: `</p>
+            <blockList>
+              <item>
+                <num>(10)</num>
+                <p>Whereas, in accordance with the principle of subsidiarity, a set of general principles should be adopted at Community level, whilst the choice of the exact procedures should be a matter for the Member States, which should be free to choose the system best adapted to their own circumstances; ...</p>
+              </item>
+              <item>
+                <num>(18)</num>
+                <p>Whereas, in view of the fact that the essential difference between express mail and universal postal services lies in the value added (whatever form it takes) provided by express services and perceived by customers, the most effective way of determining the extra value perceived is to consider the extra price that customers are prepared to pay, without prejudice, however, to the price limit of the reserved area which must be respected; ...</p>
+                <blockList>
+                  <item>
+                    <num>(22)</num>
+                    <p>Whereas Member States should be able to regulate, by appropriate authorisation procedures, on their territory, the provision of postal services which are not reserved to the universal service providers; whereas those procedures must be transparent, non-discriminatory, proportionate and based on objective criteria;</p>
+                  </item>
+                  <item>
+                    <num>(23)</num>
+                    <p>Whereas the Member States should have the option of making the grant of licences subject to universal service obligations or contributions to a compensation fund intended to compensate the universal service provider for the provision of services representing an unfair financial burden; whereas Member States should be able to include in the authorisations an obligation that the authorised activities must not infringe the exclusive or special rights granted to the universal service providers for the reserved services; whereas an identification system for direct mail may be introduced for the purposes of supervision where direct mail is liberalised.'</p>
+                  </item>
+                </blockList>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12738">
+          <num>4</num>
+          <content eId="para_12738__content">
+            <p>Article 2 of Directive 97/67 provides as follows: `For the purpose of this Directive, the following definitions shall apply: 1. postal services: services involving the clearance, sorting, transport and distribution of postal items; 1a. postal service provider: undertaking that provides one or more postal services; ... 6. postal item: an item addressed in the final form in which it is to be carried by a postal service provider. In addition to items of correspondence, such items also include for instance books, catalogues, newspapers, periodicals and postal parcels containing merchandise with or without commercial value; ... 13. universal service provider: the public or private postal service provider providing a universal postal service or parts thereof within a Member State, the identity of which has been notified to the Commission in accordance with Article 4; 14. authorisations: any permission setting out rights and obligations specific to the postal sector and allowing undertakings to provide postal services and, where applicable, to establish and/or operate their networks for the provision of such services, in the form of a general authorisation or individual licence as defined below:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>``general authorisation '': an authorisation, regardless of whether it is regulated by a ``class licence '' or under general law and regardless of whether such regulation requires registration or declaration procedures, which does not require the postal service provider concerned to obtain an explicit decision by the national regulatory authority before exercising the rights stemming from the authorisation;</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>``individual licence '': an authorisation which is granted by a national regulatory authority and which gives a postal service provider specific rights, or which subjects that undertaking's operations to specific obligations supplementing the general authorisation where applicable, where the postal service provider is not entitled to exercise the rights concerned until it has received the decision by the national regulatory authority; ... 19. Essential requirements: general non-economic reasons which can induce a Member State to impose conditions on the supply of postal services. These reasons are the confidentiality of correspondence, security of the network as regards the transport of dangerous goods, respect for the terms and conditions of employment, social security schemes, laid down by law, regulation or administrative provision and/or by collective agreement negotiated between national social partners, in accordance with Community and national law and, where justified, data protection, environmental protection and regional planning. Data protection may include personal data protection, the confidentiality of information transmitted or stored and protection of privacy; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12739">
+          <num>5</num>
+          <content eId="para_12739__content">
+            <p>Article 7 of that directive states as follows: `1.   Member States shall not grant or maintain in force exclusive or special rights for the establishment and provision of postal services. Member States may finance the provision of universal services in accordance with one or more of the means provided for in paragraphs 2, 3 and 4, or in accordance with any other means compatible with the Treaty. ... 3.   Where a Member State determines that the universal service obligations, as provided for in this Directive, entail a net cost, calculated taking into account Annex I, and represent an unfair financial burden on the universal service provider(s), it may introduce:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>a mechanism to compensate the undertaking(s) concerned from public funds; or</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>a mechanism for the sharing of the net cost of the universal service obligations between providers of services and/or users. 4.   Where the net cost is shared in accordance with paragraph 3(b), Member States may establish a compensation fund which may be funded by service providers and/or users' fees, and is administered for this purpose by a body independent of the beneficiary or beneficiaries. Member States may make the granting of authorisations to service providers under Article 9(2) subject to an obligation to make a financial contribution to that fund or to comply with universal service obligations. The universal service obligations of the universal service provider(s) set out in Article 3 may be financed in this manner. 5.   Member States shall ensure that the principles of transparency, non-discrimination and proportionality are respected in establishing the compensation fund and when fixing the level of the financial contributions referred to in paragraphs 3 and 4. Decisions taken in accordance with paragraphs 3 and 4 shall be based on objective and verifiable criteria and be made public.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12740">
+          <num>6</num>
+          <content eId="para_12740__content">
+            <p>Article 9 of Directive 97/67 provides as follows: `1.   For services which fall outside the scope of the universal service, Member States may introduce general authorisations to the extent necessary to guarantee compliance with the essential requirements. 2.   For services which fall within the scope of the universal service, Member States may introduce authorisation procedures, including individual licences, to the extent necessary in order to guarantee compliance with the essential requirements and to ensure the provision of the universal service. The granting of authorisations may:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>be made subject to universal service obligations,</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>if necessary and justified, impose requirements concerning the quality, availability and performance of the relevant services,</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>where appropriate, be subject to an obligation to make a financial contribution to the sharing mechanisms referred to in Article 7, if the provision of the universal service entails a net cost and represents an unfair burden on the universal service provider(s), designated in accordance with Article 4,</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>where appropriate, be subject to an obligation to make a financial contribution to the national regulatory authority's operational costs referred to in Article 22,</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>where appropriate, be made subject to or impose an obligation to respect working conditions laid down by national legislation. Obligations and requirements referred to in the first indent and in Article 3 may only be imposed on designated universal service providers. ... 3.   The procedures, obligations and requirements referred to in paragraphs 1 and 2 shall be transparent, accessible, non-discriminatory, proportionate, precise and unambiguous, made public in advance and based on objective criteria. Member States shall ensure that the reasons for refusing or withdrawing an authorisation in whole or in part are communicated to the applicant and shall establish an appeal procedure.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12741">
+          <num>7</num>
+          <content eId="para_12741__content">
+            <p>Recitals 17, 27 and 28 of Directive 2008/6 state as follows: `</p>
+            <blockList>
+              <item>
+                <num>(17)</num>
+                <p>Transport alone should not be considered as a postal service ... ...</p>
+                <blockList>
+                  <item>
+                    <num>(27)</num>
+                    <p>Postal service providers may be required to contribute to the financing of the universal service in cases where provision is made for a compensation fund. In order to determine which undertakings may be required to contribute to a compensation fund, Member States should consider whether the services provided by such undertakings may, from a user's perspective, be regarded as services falling within the scope of the universal service, as they display inter-changeability to a sufficient degree with the universal service, taking into account the characteristics of the services, including added value features, as well as the intended use and the pricing. These services do not necessarily have to cover all the features of the universal service, such as daily delivery or complete national coverage.</p>
+                  </item>
+                  <item>
+                    <num>(28)</num>
+                    <p>In order to comply with the principle of proportionality when determining the contribution to be made to the costs of the provision of the universal service in a Member State required from these undertakings, Member States should use transparent and non-discriminatory criteria such as the share of these undertakings in the activities falling within the scope of the universal service in this Member State. Member States may require those providers which are required to contribute to a compensation fund to introduce appropriate accounting separation in order to ensure the functioning of the fund.'</p>
+                  </item>
+                </blockList>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Italian law</p>
+        </tblock>
+        <paragraph eId="para_12742">
+          <num>8</num>
+          <content eId="para_12742__content">
+            <p>Directive 97/67 was transposed into Italian law by decreto legislativo n. 261 -- Attuazione della direttiva 97/67/CE concernente regole comuni per lo sviluppo del mercato interno dei servizi postali comunitari e per il miglioramento della qualità' del servizio (Legislative Decree No 261 transposing Directive 97/67/EC on common rules for the development of the internal market of Community postal services and the improvement of quality of service) of 22 July 1999 (GURI No 182 of 5 August 1999), as amended by decreto legislativo n. 58 -- Attuazione della direttiva 2008/6/CE che modifica la direttiva 97/67/CE, per quanto riguarda il pieno completamento del mercato interno dei servizi postali della Comunita (Legislative Decree No 58 transposing Directive 2008/6/EC amending Directive 97/67/EC with regard to the full accomplishment of the internal market of Community postal services) of 31 March 2011 (GURI No 98 of 24 April 2011) ( `Legislative Decree No 261/99'). The terms used in Legislative Decree No 261/99 to define `postal services', `postal service provider' and `postal item' are essentially the same as those used in Directive 97/67.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12743">
+          <num>9</num>
+          <content eId="para_12743__content">
+            <p>Article 6 of Legislative Decree No 261/99 provides as follows: `1.   The provision to the public of services which fall outside the scope of the universal service, including the provision of private postboxes for the distribution of correspondence, shall be subject to ... general authorisation ... 1bis.   The issue of general authorisations, including for universal service providers, may, having regard to the market situation and the organisation of postal services, be made subject to the fulfilment of specific universal-service obligations relating, inter alia, to the quality, availability and performance of the relevant services, and obligations to make financial contributions to the cost-sharing mechanism referred to in Article 10 of the present decree. Those obligations shall be determined by decision of the regulatory authority. 2.   The regulatory authority shall identify, by decision adopted within 180 days following the entry into force of the Legislative Decree implementing Directive 2008/6, the cases in which activity may commence, upon the forwarding to the Ministry for Economic Development ... of a certified statement giving notification of the commencement of the activity ... 3.   The decision referred to in paragraph 2 shall identify the requirements and obligations imposed on entities engaging in activities subject to general authorisation, including the obligations relating to terms and conditions of employment referred to in Article 18bis, the supervision arrangements to be adopted in centres of operations and the procedures for the giving of formal notice, for suspension and for prohibiting engagement in activity in the event of breach of obligations.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12744">
+          <num>10</num>
+          <content eId="para_12744__content">
+            <p>Article 10(1) to (3) of Legislative Decree No 261/99 states as follows: `1.   The compensation fund for universal service obligations shall be established. It shall be managed by the Ministry for Communications and shall have as its purpose to ensure that the provision of universal service is achieved; contributions shall be made to the fund where the universal service provider does not derive from the provision of that service or the exclusive services referred to in Article 4 sufficient income to guarantee performance of its obligations. 2.   Holders of individual licences and general authorisations relating to services substitutable for those falling within the scope of the universal service shall be required to contribute to the fund referred to in paragraph (1) an amount which may not exceed 10% of gross income deriving from the authorised activity. 3.   The contribution shall be determined in accordance with the principles of transparency, non-discrimination and proportionality by the regulatory authority on the basis of the costs of the efficient operation of the universal service.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12745">
+          <num>11</num>
+          <content eId="para_12745__content">
+            <p>Article 18bis of Legislative Decree No 261/99 provides that the postal service providers to which Article 3(11), (5) and (6) thereof refers must comply with the obligations relating to terms and conditions of employment laid down by national legislation and the applicable collective agreements.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12746">
+          <num>12</num>
+          <content eId="para_12746__content">
+            <p>By Decision No 129/15/CONS of 11 March 2015 ( `Decision 129/15'), AGCOM approved the regolamento in materia di titoli abilitativi per l'offerta al pubblico di serivizi postali (Regulation governing qualifying certificates for the provision of postal services to the public) ( `the regulation on qualifying certificates'), set out in Annex A to the decision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12747">
+          <num>13</num>
+          <content eId="para_12747__content">
+            <p>Under Article 8(4) of that regulation, a general authorisation is not required merely for the provision of transport services.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12748">
+          <num>14</num>
+          <content eId="para_12748__content">
+            <p>Article 10(4)(c) of the regulation on qualifying certificates provides that the applicant for a general authorisation must, at the time it submits its application, comply with its social security obligations to its employees. Under Article 10(8)(f) of the regulation, the applicant for a general authorisation must, at the time it submits its application, provide a description of the measures adopted to ensure that its obligations relating to the confidentiality of correspondence are complied with.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12749">
+          <num>15</num>
+          <content eId="para_12749__content">
+            <p>Article 11(1)(b) and (f) of the regulation on qualifying licences states that the holder of a general authorisation is required, respectively, to comply with the provisions governing terms and conditions of employment laid down by national law and collective employment agreements in the postal sector, and to `contribute to the funding of the costs of providing the universal service where the conditions laid down in recital 27 of Directive [2008/6] and Article 10(2) of [Legislative Decree 261/99] are met'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12750">
+          <num>16</num>
+          <content eId="para_12750__content">
+            <p>Article 15(2) of that regulation provides that `the holder of a general authorisation shall be required to contribute to the compensation fund for universal service obligations where the conditions set out in recital 27 of Directive [2008/6] and Article 10(2) of [Legislative Decree 261/99] are satisfied'.</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The disputes in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_12751">
+          <num>17</num>
+          <content eId="para_12751__content">
+            <p>The applicants in the main proceedings are undertakings and associations of undertakings operating in the haulage, freight-forwarding and mail courier sector (Case C‑259/16) or only in the mail courier sector (Case C‑260/16).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12752">
+          <num>18</num>
+          <content eId="para_12752__content">
+            <p>Those undertakings and associations of undertakings hold a general authorisation for the provision of postal services within the meaning of Article 6 of Legislative Decree No 261/99.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12753">
+          <num>19</num>
+          <content eId="para_12753__content">
+            <p>The applicants in the main proceedings brought an action before the referring court for the annulment of Decision No 129/15, of the regulation on qualifying certificates and of the decreto del Ministro dello Sviluppo Economico -- Disciplinare delle procedure per il rilascio dei titoli abilitativi per l'offerta al pubblico dei servizi postali (Decree of the Minister for Economic Development laying down rules applicable to the procedures for the issue of qualifying certificates for the provision of postal services to the public) of 29 July 2015 ( `the Decree of 29 July 2015'). They submitted that those measures interpreted the term `postal service', as defined in Article 2(1) of Directive 97/67, too broadly by including among those services the activities in which they engage. Moreover, they claimed that those measures imposed obligations upon them that are disproportionate to the requirements laid down by the directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12754">
+          <num>20</num>
+          <content eId="para_12754__content">
+            <p>As regards the interpretation of the term `postal service', the referring court takes the view that it should not cover haulage, freight-forwarding or express mail services. Only parcels handled by postal service providers in accordance with the arrangements specific to postal service may be classified as `postal items' within the meaning of Article 2(6) of Directive 97/67. Accordingly, that court is uncertain whether the measures at issue in the main proceedings comply with the directive, in so far as those measures, first, exclude from the scope of the directive only those activities concerned with the physical transport of goods and, second, include as part of that service `value added postal services', such as express mail services.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12755">
+          <num>21</num>
+          <content eId="para_12755__content">
+            <p>With regard to the alleged infringement of the principle of proportionality, the referring court observes, first, that Article 6(1) of Legislative Decree No 261/99 requires, as a matter of course and without distinction, providers of postal service which fall outside the scope of the universal service to obtain a general authorisation. However, under Article 9(1) of Directive 97/67, Member States may introduce general authorisations only `to the extent necessary to guarantee compliance with the essential requirements'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12756">
+          <num>22</num>
+          <content eId="para_12756__content">
+            <p>In the second place, the measures at issue in the main proceedings, in particular Articles 10 and 11 of the regulation on qualifying licences, impose conditions for obtaining a general authorisation for which no provision is made in Directive 97/67. In any event, it is suggested that those conditions are disproportionate to the activities actually engaged in by the applicants in the main proceedings. In particular, the referring court points out that there is no need for regulation to ensure that the markets on which the applicants in the main proceedings operate function properly. Unlike the market for services forming part of the universal service, those markets are capable of efficient self-regulation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12757">
+          <num>23</num>
+          <content eId="para_12757__content">
+            <p>In the third place, the referring court has doubts as to the lawfulness of the obligation imposed on general authorisation holders to contribute to the costs of the provision of the universal service laid down in Article 6(1bis) of Legislative Decree No 261/99. While it is apparent from Articles 7(4) and 9(2) of Directive 97/67 that only providers of services falling within the scope of the universal service may be subject to such an obligation, Articles 6 and 10 of Legislative Decree No 261/99 also require the holders of the authorisation referred to in Article 9(1) of the directive to make such a contribution.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12758">
+          <num>24</num>
+          <content eId="para_12758__content">
+            <p>In any event, it is clear from Article 9(2) of Directive 97/67 that an obligation to contribute to the costs of the provision of the universal service cannot be imposed without an assessment first being carried out as to whether it is appropriate to introduce such an obligation. No provision is made in the measures at issue in the main proceedings for any prior assessment in that regard, so that, also from that perspective, they fail to have due regard to the principle of proportionality.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12759">
+          <num>25</num>
+          <content eId="para_12759__content">
+            <p>In those circumstances, the Tribunale amministrativo regionale per il Lazio (Regional Administrative Court, Lazio, Italy) decided to stay the proceedings and to refer to the Court the following questions for a preliminary ruling, which are identically worded in Cases C‑259/16 and C‑260/16: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Does EU law, in particular Article [2](1), 2(1a) and 2(6) of Directive [97/67], preclude the application of national provisions, in particular Article [1(2)]</p>
+              </item>
+              <item>
+                <num>(a)</num>
+                <p>and</p>
+              </item>
+              <item>
+                <num>(f)</num>
+                <p>of Legislative Decree No [261/1999], and Article 1(1)(g) and (r), in conjunction with each other, and subparagraph (i), of the [regulation governing qualifying certificates] and the related rules governing the procedures for the issue of qualifying certificates for the provision of postal services to the public referred to in the Decree [of 29 July 2015], in so far as they are intended to bring road haulage, freight-forwarding and express mail services also within the scope of postal services?</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>Does EU law, in particular Article 9(1) and Article [2]</p>
+              </item>
+              <item>
+                <num>(19)</num>
+                <p>of Directive [97/67], and the principles of proportionality and reasonableness preclude the application of national provisions, in particular Article 6(1) of Legislative Decree No [261/1999] and Article 8 of the [regulation governing qualifying certificates] and the related rules governing the procedures for the issue of qualifying certificates for the provision of postal services to the public referred to in the Decree [of 29 July 2015], in so far as they impose on the suppliers of road haulage, freight-forwarding and express mail services the requirement to obtain a general authorisation in addition to the authorisation required to guarantee compliance with the essential requirements regarding the supply of postal services?</p>
+                <blockList>
+                  <item>
+                    <num>(3)</num>
+                    <p>Does EU law, in particular Article 7(4) and Article 9(2) of Directive [97/67], preclude the application of national provisions, in particular Article 6(1bis) and Article 10(2) of Legislative Decree [No 261/1999], Articles 11(1)(f) and 15(2) of the [regulation governing qualifying certificates] and Article 9 of the related rules governing the procedure for the issue of qualifying certificates for the provision of postal services to the public referred to in the Decree [of 29 July 2015], in so far as they impose on the suppliers of road haulage, freight-forwarding and express mail services the burden of contributing to the universal service compensation fund?</p>
+                  </item>
+                  <item>
+                    <num>(4)</num>
+                    <p>Does EU law, in particular Article 9(2) of Directive [97/67], preclude the application of national provisions, in particular Articles 6 and 10 of Legislative Decree [No 261/1999], Articles 11(1)(f) and 15(2) of the [regulation governing qualifying certificates] and Article 9 of the related rules governing the procedure for the issue of qualifying certificates for the provision of postal services to the public referred to in the Decree [of 29 July 2015], in so far as they do not contain any assessment as to those cases in which a contribution to the compensation fund in respect of universal service costs may be considered appropriate, and do not lay down conditions for application which differ according both to the subjective circumstances of the contributors and those of the markets?'</p>
+                  </item>
+                </blockList>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12760">
+          <num>26</num>
+          <content eId="para_12760__content">
+            <p>By order of the President of the Court of 21 June 2016, Cases C‑259/16 and C‑260/16 were joined for the purposes of the written and oral procedure and the judgment.</p>
+            <tblock>
+              <p>Consideration of the questions referred</p>
+            </tblock>
+            <tblock>
+              <p>The first question</p>
+            </tblock>
+            <p>27 By its first question, the referring court seeks to ascertain, in essence, whether Article 2(1), (1a) and (6) of Directive 97/67 is to be interpreted as precluding national legislation, such as that at issue in the main proceedings, under which haulage, freight-forwarding and express mail undertakings providing services involving the clearance, sorting, transport and distribution of postal items constitute, except where their business is limited to the transport of postal items, postal service providers within the meaning of Article 2(1a) of the directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12761">
+          <num>28</num>
+          <content eId="para_12761__content">
+            <p>In the present case, as the Advocate General observed in point 38 of his Opinion, the doubts expressed by the referring court relate to the possible classification as postal service providers within the meaning of Article 2(1a) of Directive 97/67 of two categories of undertaking: those offering road haulage and freight-forwarding services on the one hand, and those offering express mail services on the other.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12762">
+          <num>29</num>
+          <content eId="para_12762__content">
+            <p>As regards road haulage and freight-forwarding service, the applicants in the main proceedings maintain that an undertaking which, as its principal business, provides a service involving the transport of postal items and offers one of the other services referred to in Article 2(1) of Directive 97/67 only as an ancillary business, cannot be classified as a `postal service provider'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12763">
+          <num>30</num>
+          <content eId="para_12763__content">
+            <p>It should be recalled in that regard, in the first place, that Article 2(1) of Directive 97/67 defines `postal services' as services involving the clearance, sorting, transport and distribution of postal items.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12764">
+          <num>31</num>
+          <content eId="para_12764__content">
+            <p>In the second place, recital 17 of Directive 2008/6 states that transport alone should not be considered as a postal service. Moreover, that directive inserted into Article 2 of Directive 97/67 paragraph 1a, which defines a `postal service provider' as an undertaking that provides one or more `postal services'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12765">
+          <num>32</num>
+          <content eId="para_12765__content">
+            <p>Nevertheless, Directive 2008/6 did not make any change to the original text of Directive 97/67 with regard to any distinction to be made between the provision of postal services as defined in Article 2(1) of Directive 97/67 as a principal activity and the provision of those services as an ancillary business.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12766">
+          <num>33</num>
+          <content eId="para_12766__content">
+            <p>In the third place, an activity may be regarded as being connected with a postal service only if it concerns a `postal item' within the meaning of Article 2(6) of Directive 97/67. That provision defines a postal item as an item addressed in the final form in which it is to be carried by a postal service provider and states that such an item may concern, inter alia, correspondence, books, catalogues, newspapers, periodicals and postal parcels containing merchandise with or without commercial value.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12767">
+          <num>34</num>
+          <content eId="para_12767__content">
+            <p>In those circumstances, an undertaking must be classified as a `postal service provider' within the meaning of Article 2(1a) of Directive 97/67 where it provides at least one of the services set out in Article 2(1) of the directive or the service or services thus provided relate to a postal item, although its business cannot consist merely in the provision of transport services. It follows that haulage and freight-forwarding enterprises offering, as their principal business, a service entailing the transport of postal items and, as an ancillary activity, services entailing the clearance, sorting, and distribution of postal items does not fall outside the scope of the directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12768">
+          <num>35</num>
+          <content eId="para_12768__content">
+            <p>Moreover, as the Advocate General observed in point 43 of his Opinion, if it were to be accepted that haulage or freight-forwarding undertakings were excluded from the scope of Directive 97/67, on the sole ground that they engage in the activities of collecting, sorting and distributing postal items only on an ancillary basis, that would give rise to numerous difficulties in interpreting the directive. Indeed, it would be necessary, in order to determine the legal rules applicable, to assess, on a case-by-case basis, the greater or lesser proportion of services provided on an ancillary basis in relation to the main transport service provided.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12769">
+          <num>36</num>
+          <content eId="para_12769__content">
+            <p>As regards express mail services, the applicants in the main proceedings contend that those services should fall outside the scope of Directive 97/67 because of the added value they provide.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12770">
+          <num>37</num>
+          <content eId="para_12770__content">
+            <p>In that regard, it should be noted, in the first place, that Directive 97/67 does not provide a definition of `express mail service' and merely states, in recital 18, that `the essential difference between express mail and universal postal services lies in the value added (whatever form it takes) provided by express services and perceived by customers'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12771">
+          <num>38</num>
+          <content eId="para_12771__content">
+            <p>In the second place, it is the Court's established case-law that what distinguishes express mail services from the universal postal service is the added value which they bring to the customers, for which the customers agree to pay more. These are specific service, dissociable from the service of general interest, which meet the special needs of economic operators and call for certain additional services not offered by the traditional postal service (see, to that effect, the judgment of 15 June 2017, Ilves Jakelu, C‑368/15, EU:C:2017:462, paragraph 24 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12772">
+          <num>39</num>
+          <content eId="para_12772__content">
+            <p>In the third place, in the judgments of 13 October 2011, DHL International ( C‑148/10, EU:C:2011:654, paragraphs 30 and 52), of 16 November 2016, DHL Express (Austria) ( C‑2/15, EU:C:2016:880, paragraph 31), and of 15 June 2017, Ilves Jakelu ( C‑368/15, EU:C:2017:462, paragraph 29), the Court found that undertakings providing express mail services fall within the scope of Directive 97/67 and applied to such undertakings certain provisions of the directive. As the Advocate General observed in point 46 of his Opinion, those judgments would make no sense if the Court had not accepted by implication the premiss that express mail falls within the scope of `postal services' within the meaning of Article 2(1) of the directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12773">
+          <num>40</num>
+          <content eId="para_12773__content">
+            <p>Accordingly, while a distinction can be made between the universal service and express mail services, on the basis of whether or not added value is provided by the service, it is clear that such a criterion for distinction is wholly irrelevant as regards the nature of the services set out in Article 2(1) of Directive 97/67. Thus, the fact that such services bring, in some circumstances, added value cannot alter the fact that they are `postal services' within the meaning of that provision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12774">
+          <num>41</num>
+          <content eId="para_12774__content">
+            <p>In the light of the foregoing considerations, the answer to the first question is that Article 2(1), (1a) and (6) of Directive 97/67 is to be interpreted as not precluding national legislation, such as that at issue in the main proceedings, under which haulage, freight-forwarding and express mail undertakings providing services involving the clearance, sorting, transport and distribution of postal items constitute, except where their business is limited to the transport of postal items, postal service providers within the meaning of Article 2(1a) of the directive.</p>
+            <tblock>
+              <p>The second question</p>
+            </tblock>
+            <p>42 By its second question, the referring court seeks to ascertain, in essence, whether Articles 2(19) and 9(1) of Directive 97/67 are to be interpreted as precluding national legislation which requires all undertakings providing haulage, freight-forwarding and express mail services to hold a general authorisation for the provision of postal services without any prior verification of the need for such an authorisation to ensure that one of the essential requirements is complied with.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12775">
+          <num>43</num>
+          <content eId="para_12775__content">
+            <p>It should be recalled in that regard that Article 9(1) of Directive 97/67 provides that, for services which fall outside the scope of the universal service, Member States may introduce general authorisations to the extent necessary to guarantee compliance with the essential requirements.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12776">
+          <num>44</num>
+          <content eId="para_12776__content">
+            <p>Before listing those requirements exhaustively, Article 2(19) of Directive 97/67 defines them as general non-economic reasons which can induce a Member State to impose conditions on the supply of postal services.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12777">
+          <num>45</num>
+          <content eId="para_12777__content">
+            <p>It follows from the considerations set out above, as the Advocate General observed in point 58 of his Opinion, that a Member State which decides to make access to the postal services market conditional on obtaining a general authorisation will have to justify this by reference to one or more of those essential requirements.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12778">
+          <num>46</num>
+          <content eId="para_12778__content">
+            <p>In the present case, the referring court states that Article 6 of Legislative Decree No 261/99 requires undertakings providing postal services that fall outside the scope of the universal service, as a matter of course and without distinction, to obtain a general authorisation, without any prior verification as to whether such an authorisation is necessary to ensure that at least one of the essential requirements is complied with. That court adds that the obligations imposed on such undertakings in order to obtain a general authorisation are disproportionate.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12779">
+          <num>47</num>
+          <content eId="para_12779__content">
+            <p>In those circumstances, in order to answer the second question referred, it is necessary to ascertain whether legislations such as that at issue in the main proceedings, first, may be justified by one of the essential requirements set out in Article 2(19) of Directive 97/67 and, second, is proportionate, in that it is appropriate for the purpose of ensuring that the objective pursued is attained, and, if so, whether that objective could be attained by the imposition of less far-reaching prohibitions.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12780">
+          <num>48</num>
+          <content eId="para_12780__content">
+            <p>In that regard, as regards whether legislation such as that at issue in the main proceedings may be justified by one of the essential requirements set out in Article 2(19) of Directive 97/67, it is apparent from the documents before the Court that that legislation justifies the introduction of a system of general authorisation for undertakings that may be classified as `postal service providers' by two of those essential requirements, namely respect for the terms and conditions of employment and social security schemes and the confidentiality of correspondence.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12781">
+          <num>49</num>
+          <content eId="para_12781__content">
+            <p>As to whether the legislation at issue in the main proceedings is proportionate, it is for the referring court to determine, when carrying out an overall assessment of all the relevant facts and legal issues, whether that legislation is appropriate for the purpose of ensuring the attainment of the objectives pursued and does not go beyond what is necessary to attain them. Nevertheless, it is for the Court to provide the referring court with all the points of interpretation of EU law that will enable it to rule in the case (see, to that effect, judgment of 20 December 2017, Global Starnet, C‑322/16, EU:C:2017:985, paragraphs 51 and 52).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12782">
+          <num>50</num>
+          <content eId="para_12782__content">
+            <p>As regards, in the first place, whether that legislation is appropriate for the purpose of attaining the objective pursued, it is the Court's settled case-law that national legislation is appropriate for ensuring attainment of the objective pursued only if it genuinely reflects a concern to attain it in a consistent and systematic manner (judgment of 10 March 2009, Hartlauer, C‑169/07, EU:C:2009:141, paragraph 55).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12783">
+          <num>51</num>
+          <content eId="para_12783__content">
+            <p>With regard to the first of the essential requirements referred to in paragraph 48 above, that is respect for the terms and conditions of employment and social security schemes, Article 10(4)(c) of the regulation on qualifying certificates provides that the grant of a general authorisation to a postal service provider is conditional upon the provider complying, at the time it submits its application, with the social security requirements of its employees.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12784">
+          <num>52</num>
+          <content eId="para_12784__content">
+            <p>In that regard, it follows from both Articles 6(3) and 18bis of Legislative Decree No 261/99 and Article 11(1)(b) of the regulation on qualifying certificates that the holder of a general authorisation is required to comply with the terms and conditions of employment laid down by national law and the collective employment agreements applicable to the postal sector. To that end, Article 10(8) of the regulation on qualifying certificates requires applicants for a general authorisation to provide, when submitting their application, information concerning the collective agreements applicable to their employees and other information relating to those workers.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12785">
+          <num>53</num>
+          <content eId="para_12785__content">
+            <p>Moreover, as the Advocate General observed in point 59 of his Opinion, in Decision No 129/15, AGCOM set out the reasons why the obligations imposed by the legislation at issue made it possible to ensure that terms and conditions of employment are complied with.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12786">
+          <num>54</num>
+          <content eId="para_12786__content">
+            <p>As regards the second of the essential requirements referred to in paragraph 48 above, that is the confidentiality of correspondence, Article 10(8) of the regulation on qualifying certificates states that undertakings applying for a general authorisation must, at the time they submit their application, provide to the competent authorities a description of the measures adopted to ensure that its obligations relating to the confidentiality of correspondence are complied with.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12787">
+          <num>55</num>
+          <content eId="para_12787__content">
+            <p>Accordingly, the legislation at issue in the main proceedings appears to be appropriate for the purpose of ensuring that some of the essential requirements set out in Article 2(19) of Directive 97/67 are complied with.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12788">
+          <num>56</num>
+          <content eId="para_12788__content">
+            <p>In the second place, it is necessary to ascertain whether the obligations to which the grant of the general authorisation required for the provision of postal services is subject under the legislation at issue in the main proceedings goes beyond what is necessary to attain the objective pursued.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12789">
+          <num>57</num>
+          <content eId="para_12789__content">
+            <p>As the Advocate General observed in point 64 of his Opinion, the referring court has not indicated precisely which of the obligations imposed by the legislation at issue in the main proceedings may be considered disproportionate, with the exception of the obligation relating to the financing of the universal service, which forms the subject matter of the third and fourth questions referred.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12790">
+          <num>58</num>
+          <content eId="para_12790__content">
+            <p>Similarly, the order for reference simply states that those obligations are binding as regards both the grant of a general authorisation and the pursuit of the activities in question.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12791">
+          <num>59</num>
+          <content eId="para_12791__content">
+            <p>Lastly, it is apparent from the documents before the Court that the general authorisation is regarded as having been granted 45 days after the competent authorities have received the application of the undertaking concerned.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12792">
+          <num>60</num>
+          <content eId="para_12792__content">
+            <p>In the light of all the above circumstances, in particular the rules governing the grant of a general authorisation, the Court concurs with the view expressed by the Advocate General in points 65 and 66 of his Opinion that the obligations imposed by the national legislation at issue in the main proceedings cannot be regarded as going beyond what is necessary to ensure that the essential requirements set out in Article 2(19) of Directive 97/67 are complied with.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12793">
+          <num>61</num>
+          <content eId="para_12793__content">
+            <p>In the light of all the foregoing considerations, the answer to the second question is that Articles 2(19) and 9(1) of Directive 97/67 are to be interpreted as not precluding national legislation, such as that at issue in the main proceedings, which requires all undertakings providing haulage, freight-forwarding and express mail services to hold a general authorisation for the provision of postal services, provided that such legislation is justified by one of the essential requirements set out in Article 2(19) of the directive and has due regard for the principle of proportionality, in that it is appropriate for the purpose of ensuring the attainment of the objective pursued and does not go beyond what is necessary to attain it, which is a matter for the referring court to verify.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The third and fourth questions</p>
+        </tblock>
+        <tblock>
+          <p>Admissibility</p>
+        </tblock>
+        <paragraph eId="para_12794">
+          <num>62</num>
+          <content eId="para_12794__content">
+            <p>In its written observations, the Commission expresses doubts concerning the admissibility of the second and third questions. It explains that, while the obligation to contribute to the compensation fund for universal service obligations is in fact provided for in Article 10(2) of Legislative Decree No 261/99 and Article 11(1)(f) of the regulation on qualifying certificates, there has to date been no decision by AGCOM that makes that obligation applicable to the applicants in the main proceedings. Those questions are, it is claimed, therefore hypothetical.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12795">
+          <num>63</num>
+          <content eId="para_12795__content">
+            <p>In that regard, according to the Court's established case-law, the justification for a request for a preliminary ruling is not that it enables advisory opinions on general or hypothetical questions to be delivered but rather that it is necessary for the effective resolution of a dispute concerning EU law (judgment of 26 October 2017, Balgarska energiyna borsa, C‑347/16, EU:C:2017:816, paragraph 31).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12796">
+          <num>64</num>
+          <content eId="para_12796__content">
+            <p>It should be noted that, under Article 7(4) of Directive 97/67, Member States may establish a compensation fund which may be funded by, inter alia, postal service providers. Furthermore, Member States may make the granting of authorisations to service providers under Article 9(2) of the directive subject to an obligation to make a financial contribution to that fund.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12797">
+          <num>65</num>
+          <content eId="para_12797__content">
+            <p>In the present case, first, under Article 10(2) of Legislative Decree No 261/99 holders of general authorisations, inter alia, relating to services substitutable for those falling within the scope of the universal service are required to contribute to the compensation fund for universal service obligations in an amount which may not exceed 10% of gross income deriving from the authorised activity. Second, Article 11(1)(f) of the regulation on qualifying certificates provides that the holder of a general authorisation is required to contribute to the funding of the costs of providing the universal service where the conditions laid down in recital 27 of Directive 2008/6 and Article 10(2) of Legislative Decree 261/99 are met.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12798">
+          <num>66</num>
+          <content eId="para_12798__content">
+            <p>It is apparent from the observations made by the parties at the hearing that AGCOM has not yet adopted a decision establishing a compensation fund for universal service obligations. Accordingly, subject to verification by the referring court, that national authority does not appear to have established the cases in which providers of postal services falling outside the scope of the universal service are required to contribute to that fund or the specific rules governing such contributions.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12799">
+          <num>67</num>
+          <content eId="para_12799__content">
+            <p>In those circumstances, with regard to the third question, it must be concluded, as is clear from the considerations set out in paragraph 65 above, that, as it permits Member States to impose an obligation to contribute to the compensation fund, Article 7(4) of Directive 97/67 has been transposed into the Italian legal order. Thus, that question, which cannot be said to be hypothetical, is admissible.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12800">
+          <num>68</num>
+          <content eId="para_12800__content">
+            <p>On the other hand, as the fourth question relates, in essence, to the specific procedures for the implementation of the obligation upon holders of a general authorisation to contribute to the compensation fund for universal service obligations, it is clear, in the light of the considerations set out in paragraph 66 above, that if the Court were to answer that question, that would amount to giving an opinion to AGCOM on a question which, at this stage, is merely hypothetical. As a consequence, the fourth question is inadmissible.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Substance</p>
+        </tblock>
+        <paragraph eId="para_12801">
+          <num>69</num>
+          <content eId="para_12801__content">
+            <p>By the third question, the referring court seeks to ascertain, in essence, whether Articles 7(4) and 9(2) of Directive 97/67 are to be interpreted as precluding national legislation, such as that at issue in the main proceedings, which requires holders of a general authorisation for the provision of postal services to contribute to a compensation fund for universal service obligations.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12802">
+          <num>70</num>
+          <content eId="para_12802__content">
+            <p>In that regard, it should be recalled, first, that under Article 9(1) of Directive 97/67, Member States may make undertakings active in the postal sector subject to general authorisations with regard to services which fall outside the scope of the universal service, while the first subparagraph of Article 9(2) of that directive provides that Member States may introduce authorisation procedures with regard to services which fall within the scope of the universal service (judgment of 16 November 2016, DHL Express (Austria), C‑2/15, EU:C:2016:880, paragraph 20).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12803">
+          <num>71</num>
+          <content eId="para_12803__content">
+            <p>Next, the second subparagraph of Article 9(2) of Directive 97/67 lists the obligations to which the granting of authorisations may be made subject, although it is not possible to infer from the wording of that provision which category of authorisations that subparagraph is referring to: whether authorisations relating to all postal services or those which concern only services falling within the scope of the universal service (see, to that effect, judgment of 16 November 2016, DHL Express (Austria), C‑2/15, EU:C:2016:880, paragraph 21).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12804">
+          <num>72</num>
+          <content eId="para_12804__content">
+            <p>Lastly, as stated in recital 27 of Directive 2008/6, in order to determine whether providers of postal services falling outside the scope of the universal service may be required to contribute to a compensation fund, Member States should consider whether the services provided by such undertakings may, from a user's perspective, be regarded as services falling within the scope of the universal service, as they display inter-changeability to a sufficient degree with the universal service, taking into account the characteristics of the services.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12805">
+          <num>73</num>
+          <content eId="para_12805__content">
+            <p>In that regard, it should be noted, first, that it is clear from an analysis of the overall structure of the second subparagraph of Article 9(2) Directive 97/67 that the term `authorisations', as used in that provision, applies both to the authorisations referred to in the first subparagraph of Article 9(2) and to the authorisations referred to in Article 9(1) of that directive (judgment of 16 November 2016, DHL Express (Austria), C‑2/15, EU:C:2016:880, paragraph 28).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12806">
+          <num>74</num>
+          <content eId="para_12806__content">
+            <p>Second, in addition to the fact that the condition requiring a sufficient degree of inter-changeability referred to in recital 27 of Directive 2008/6 is repeated in Article 10(2) of Legislative Decree No 261/99, Article 11(1)(f) of the regulation on qualifying certificates expressly requires the holder of a general authorisation to `contribute to the funding of the costs of providing the universal service where the conditions laid down in recital 27 of Directive [2008/6] and Article 10(2) of [Legislative Decree 261/99] are met', so that the possibility of imposing on such a holder an obligation to contribute to the compensation fund for universal service obligations is subject to the condition relating to the sufficient degree of inter-changeability.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12807">
+          <num>75</num>
+          <content eId="para_12807__content">
+            <p>In the light of all the foregoing considerations, the answer to question 3 is that Articles 7(4) and 9(2) of Directive 97/67 are to be interpreted as not precluding national legislation, such as that at issue in the main proceedings, which requires holders of a general authorisation for the provision of postal services to contribute to a compensation fund for universal service obligations, where, from a user's perspective, those services may be regarded as falling within the scope of the universal service as they display inter-changeability to a sufficient degree with the universal service.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_12808">
+          <num>76</num>
+          <content eId="para_12808__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Fifth Chamber) hereby rules: 1. Article 2(1), (1a) and (6) of Directive 97/67/EC of the European Parliament and of the Council of 15 December 1997 on common rules for the development of the internal market of Community postal services and the improvement of quality of service, as amended by Directive 2008/6/EC of the European Parliament and of the Council of 20 February 2008, is to be interpreted as not precluding national legislation, such as that at issue in the main proceedings, under which haulage, freight-forwarding and express mail undertakings providing services involving the clearance, sorting, transport and distribution of postal items constitute, except where their business is limited to the transport of postal items, postal service providers within the meaning of Article 2(1a) of the directive. 2. Articles 2(19) and 9(1) of Directive 97/67, as amended by Directive 2008/6, are to be interpreted as not precluding national legislation, such as that at issue in the main proceedings, which requires all undertakings providing haulage, freight-forwarding and express mail services to hold a general authorisation for the provision of postal services, provided that such legislation is justified by one of the essential requirements set out in Article 2(19) of the directive and has due regard for the principle of proportionality, in that it is appropriate for the purpose of ensuring the attainment of the objective pursued and does not go beyond what is necessary to attain it, which is a matter for the referring court to verify. 3. Articles 7(4) and 9(2) of Directive 97/67, as amended by Directive 2008/6, are to be interpreted as not precluding national legislation, such as that at issue in the main proceedings, which requires holders of a general authorisation for the provision of postal services to contribute to a compensation fund for universal service obligations, where, from a user's perspective, those services may be regarded as falling within the scope of the universal service as they display inter-changeability to a sufficient degree with the universal service.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Italian.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

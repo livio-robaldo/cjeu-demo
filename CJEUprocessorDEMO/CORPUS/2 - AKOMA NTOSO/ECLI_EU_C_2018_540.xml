@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Fifth Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>5 July 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Common system of value added tax (VAT) -- Directive 2006/112/EC -- Article 2(1)(c) -- Issuing of `credits' that can be used to place bids in online auctions -- Supply of services for consideration -- Preliminary transaction -- Article 73 -- Taxable amount) In Case C --544/16, REQUEST for a preliminary ruling under Article 267 TFEU from the First-tier Tribunal (Tax Chamber), made by decision of 17 October 2016, received at the Court on 28 October 2016, in the proceedings Marcandi Ltd, trading as `Madbid' v</p>
+      <p>
+        <party as="respondent" refersTo="#">Commissioners for Her Majesty's Revenue and Customs</party>
+      </p>
+      <p>, THE COURT (Fifth Chamber), composed of J.L. da Cruz Vilaça, President of the Chamber, E. Levits, A. Borg Barthet (Rapporteur), M. Berger and F. Biltgen, Judges, Advocate General: E. Tanchev, Registrar: L. Hewlett, Principal Administrator, having regard to the written procedure and further to the hearing on 13 December 2017, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>Marcandi Ltd, by J. Brinsmead-Stockham, Barrister, C. Van Zyl, Solicitor, and A. Brown, advocate,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the United Kingdom Government, D. Robertson and Z. Lavery, acting as Agents, assisted by P. Mantle, Barrister,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by R. Lyal and L. Lozano Palacios, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 7 March 2018,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_16006">
+          <num>1</num>
+          <content eId="para_16006__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Article 2(1), Articles 14, 24, 62, 63, 65 and 73, and Article 79(b) of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax ( OJ 2006 L 347, p. 1) ( `the VAT Directive').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16007">
+          <num>2</num>
+          <content eId="para_16007__content">
+            <p>The request has been made in proceedings between Marcandi Ltd, trading as `Madbid', and the Commissioners for Her Majesty's Revenue and Customs ( `HMRC') (United Kingdom) concerning the system of value added tax (VAT) applicable to the sale of `credits' that can be used to participate in online auctions.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <paragraph eId="para_16008">
+          <num>3</num>
+          <content eId="para_16008__content">
+            <p>Under Article 2(1) of the VAT Directive: `The following transactions shall be subject to VAT:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>the supply of goods and services for consideration within the territory of the country by a taxable person acting as such;...</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>the supply of services for consideration within the territory of a Member State by a taxable person acting as such;...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16009">
+          <num>4</num>
+          <content eId="para_16009__content">
+            <p>Article 14(1) of that directive defines a supply of goods as `the transfer of the right to dispose of tangible property as owner'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16010">
+          <num>5</num>
+          <content eId="para_16010__content">
+            <p>Under Article 24(1) of that directive: ```Supply of services '' shall mean any transaction which does not constitute a supply of goods.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16011">
+          <num>6</num>
+          <content eId="para_16011__content">
+            <p>Article 62 of the directive reads as follows: `For the purposes of this Directive:</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>``chargeable event '' shall mean the occurrence by virtue of which the legal conditions necessary for VAT to become chargeable are fulfilled;</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>VAT shall become ``chargeable '' when the tax authority becomes entitled under the law, at a given moment, to claim the tax from the person liable to pay, even though the time of payment may be deferred.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16012">
+          <num>7</num>
+          <content eId="para_16012__content">
+            <p>Article 63 of the VAT directive provides: `The chargeable event shall occur and VAT shall become chargeable when the goods or the services are supplied.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16013">
+          <num>8</num>
+          <content eId="para_16013__content">
+            <p>Article 65 of Directive 2006/112 is worded as follows: `Where a payment is to be made on account before the goods or services are supplied, VAT shall become chargeable on receipt of the payment and on the amount received.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16014">
+          <num>9</num>
+          <content eId="para_16014__content">
+            <p>Article 73 of that directive provides: `In respect of the supply of goods or services, other than as referred to in Articles 74 to 77, the taxable amount shall include everything which constitutes consideration obtained or to be obtained by the supplier, in return for the supply, from the customer or a third party, including subsidies directly linked to the price of the supply.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16015">
+          <num>10</num>
+          <content eId="para_16015__content">
+            <p>Article 79 of the directive reads as follows: `The taxable amount shall not include the following factors:...</p>
+            <blockList>
+              <item>
+                <num>(b)</num>
+                <p>price discounts and rebates granted to the customer and obtained by him at the time of the supply;...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_16016">
+          <num>11</num>
+          <content eId="para_16016__content">
+            <p>Marcandi is a company established in the United Kingdom which operates online sales, under its trading name `Madbid' ( `Madbid'). The majority of the products sold by Madbid are `high tech' goods, such as mobile telephones, tablets, computers and televisions. Madbid occasionally sells higher-value items such as, inter alia, cars.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16017">
+          <num>12</num>
+          <content eId="para_16017__content">
+            <p>Madbid's website allows its users to buy goods sold by Madbid either for a fixed price in the online shop, or through online auctions.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16018">
+          <num>13</num>
+          <content eId="para_16018__content">
+            <p>During the period relevant to the main proceedings, Madbid was registered as a taxable person for the purposes of VAT in the United Kingdom and in several other Member States, notably in Germany.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16019">
+          <num>14</num>
+          <content eId="para_16019__content">
+            <p>According to clause 1.2 of its general terms, Madbid `operates a Pay-to-Bid auction website'. Users wishing to participate in the auctions organised by Madbid are required to acquire `credits' from Madbid in return for payment, which are necessary in order to bid and cannot be used for other purposes. In particular, those `credits' cannot be used to purchase goods sold in the online shop. Nor can they be converted into cash.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16020">
+          <num>15</num>
+          <content eId="para_16020__content">
+            <p>Every page of the Madbid website includes a button which allows the user to access a page on which `credits' are sold. When they have been purchased, those `credits' are credited to the user's account. Each `credit' is identified by a unique code and is given a monetary value corresponding to the amount paid by the user. `Free credits' are sometimes awarded to users. They have a value of GBP 0.00 and simply allow users to participate in the auctions organised by Madbid. Those `free credits' expire after 30 days, whereas `credits' which have been paid for are valid for 180 days.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16021">
+          <num>16</num>
+          <content eId="para_16021__content">
+            <p>Every auction begins with an opening price of GBP 0.00 and with the auction timer set to the allocated time limit for the auction, which is usually one minute. For each new auction, the timer starts again with the same time as initially set. For each sale, a defined number of `credits' (between 1 and 8) is necessary to bid and the user, by clicking on the `bid' button, uses his `credits' at the level of that number. The bid thus made by the user is GBP 0.01 higher than the preceding bid, and becomes the highest bid for the sale concerned. The sale price attached to the product also increases by GBP 0.01.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16022">
+          <num>17</num>
+          <content eId="para_16022__content">
+            <p>The winner of the auction has the right to purchase the product at the amount of the winning bid, plus a charge for shipping and handling. The value of `credits' used to bid during that sale is exhausted and is not, therefore, credited towards the price of the product at the winning bid. So long as the product has not been sent to him, the user has the right to cancel his order. Where appropriate, he will be reimbursed the winning sale price.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16023">
+          <num>18</num>
+          <content eId="para_16023__content">
+            <p>In addition, a `buy now' feature allows the user to buy a product identical to the one in the auction in which he is participating for a price which, in the course of that auction, reduces to the level of the value of the `credits' that he used to bid in the context of that sale. A user who purchases a product through the `buy now' feature during an auction cannot place any more bids in that auction.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16024">
+          <num>19</num>
+          <content eId="para_16024__content">
+            <p>Finally, the `earned discount' feature allows a user who was unsuccessful in the auction, and who also did not use the `buy now' feature, to obtain a discount that he might use later when purchasing a product available in Madbid's online shop. An `earned discount', whose value corresponds to the value of the `credits' that allowed the user to bid in the course of the sale, expires after 365 days.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16025">
+          <num>20</num>
+          <content eId="para_16025__content">
+            <p>If a user who has made a purchase using the `earned discount' or the `buy now' features cancels his order, he receives a reimbursement in the amount which he paid for the goods in question, with the exception of the value of the `credits' that were taken into account to arrive at the final price at which the goods were sold to him.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16026">
+          <num>21</num>
+          <content eId="para_16026__content">
+            <p>In a decision of 9 December 2013, HMRC considered that the amount paid by Madbid's clients in exchange for `credits' represented the consideration for a provision of services provided in the United Kingdom, namely the grant of the right to participate in online auctions organised by Madbid.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16027">
+          <num>22</num>
+          <content eId="para_16027__content">
+            <p>Madbid lodged an appeal against that decision before the First-tier Tribunal (Tax Chamber) (United Kingdom), submitting that the issuing of `credits' for the benefit of its clients was not a supply of services but simply a `preliminary transaction', within the meaning of the judgment of 16 December 2010, MacDonald Resorts ( C‑270/09, EU:C:2010:780, paragraph 24). On the basis of that judgment, Madbid concluded that it was liable for VAT not on the issuing of credits for the benefit of its clients, but only on the supplies of goods. The consideration for those supplies was made up of the price paid by the client for the product that he purchased and the value of the `credits' exhausted in purchasing that product. In the alternative, Madbid submitted before the referring court that, if the latter held that the issue of `credits' was a supply of services, it would be necessary to regard such a supply as not effected for consideration, for the purposes of Article 2(1)(c) and Article 73 of the VAT Directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16028">
+          <num>23</num>
+          <content eId="para_16028__content">
+            <p>HMRC submitted before the referring court that, when Madbid provides `credits' to its users, it gives them the right, which the user may use immediately, to participate in the online auctions that it organises. That supply is a supply of services. Furthermore, the `buy now' and `earned discount' features are promotional schemes in the context of which Madbid agrees to a discount, within the meaning of Article 79(b) of the VAT Directive, in the sale price of those goods.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16029">
+          <num>24</num>
+          <content eId="para_16029__content">
+            <p>The referring court also states that, in a decision of 9 July 2014, the Finanzamt Hannover-Nord (Hanover-Nord Tax Office, Germany) considered that the sale of `credits' by Madbid was neither the supply of goods nor the supply of services for the purposes of VAT. According to that tax office, Madbid is liable for VAT in Germany for supplies of goods that it makes to users established in that Member State. The consideration for those supplies of goods is not only the price paid by the client for the goods purchased, namely the price at which the auction was won, the price resulting from use of the `buy now' feature or the price after deduction of the `earned discount', but also the value of the `credits' used for the purpose of acquiring that product, namely the value of the `credits' that enabled the winning bid to be made in the auction or that generated the price discount through use of the `buy now' or `earned discount' feature. As regards users who bought `credits' and participated in the auction without winning it, the Hanover-Nord Tax Office considers that a supply of services was effected for the benefit of those users only if they do not make any purchase using the value of the `credits' that enabled them to bid. The consideration for that supply of services, subject to VAT in the United Kingdom, is the value of those `credits'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16030">
+          <num>25</num>
+          <content eId="para_16030__content">
+            <p>In those circumstances, the First-Tier Tribunal (Tax Chamber) decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>On the correct interpretation of Articles 2(1), 24, 62, 63, 65, and 73 of [the VAT Directive], and in circumstances such as those in the main proceedings,</p>
+              </item>
+              <item>
+                <num>(a)</num>
+                <p>is the issue of ``credits '' to users, by Madbid, in return for a money payment:</p>
+                <blockList>
+                  <item>
+                    <num>(i)</num>
+                    <p>a ``preliminary transaction '' outside the scope of Article 2(1) [of the VAT Directive], of the sort identified by the Court in paragraphs 23 to 42 of its [judgment of 16 December 2010, MacDonald Resorts ( C‑270/09, EU:C:2010:780)], or</p>
+                  </item>
+                  <item>
+                    <num>(ii)</num>
+                    <p>a supply of services by Madbid within the meaning of Article 2(1)(c) [of that directive], namely the grant of a right to participate in online auctions;</p>
+                    <blockList>
+                      <item>
+                        <num>(b)</num>
+                        <p>if the grant of a right to participate in online auctions is a supply of services by Madbid, then is it a supply made ``for consideration '' within the meaning of Article 2(1)(c), namely the payment for it (i.e. the money received by Madbid from a user in return for ``credits '');</p>
+                      </item>
+                      <item>
+                        <num>(c)</num>
+                        <p>is the answer to [question 1 (b)] different if the payment for the ``credits '' also serves as an entitlement for the user to acquire goods to the same value in the event of the user not succeeding in the auction;</p>
+                      </item>
+                      <item>
+                        <num>(d)</num>
+                        <p>if Madbid does not make a supply of services for consideration when it issues ``credits '' to its users in return for a money payment, does it make such a supply at any other time; or what principles should be applied in determining the answer to those questions?</p>
+                      </item>
+                    </blockList>
+                  </item>
+                </blockList>
+                <blockList>
+                  <item>
+                    <num>(2)</num>
+                    <p>On the correct interpretation of Articles 2(1), 14, 62, 63, 65, 73 and 79(b) of [the VAT Directive] what, in circumstances such as those in the main proceedings, is the consideration obtained by Madbid in return for the supplies of goods that it makes to users, for the purposes of [Article 2(1)(a) and Article 73 of that directive]? In particular, and taking into account the answer to [the first question]:</p>
+                    <blockList>
+                      <item>
+                        <num>(a)</num>
+                        <p>is the money paid by a user to Madbid for ``credits '' a ``payment ... on account '' for a supply of goods within the scope of Article 65 [of the VAT Directive], so that VAT is ``chargeable '' on receipt of that payment, and such that the payment received by Madbid from the user is consideration for a supply of goods;</p>
+                      </item>
+                      <item>
+                        <num>(b)</num>
+                        <p>if a user buys goods through the ``buy now '' or ``earned discount '' features, is the value of the ``credits '' used in placing bids in auctions and, where the bid is unsuccessful, has the effect of generating ``earned discount '' or reducing the ``buy now '' price:</p>
+                        <blockList>
+                          <item>
+                            <num>(i)</num>
+                            <p>a ``price discount '' within the meaning of Article 79(b) [of the VAT Directive], such that the consideration for Madbid's supply of the goods is the money actually paid to Madbid by the user at the time of purchasing the goods and no more, or</p>
+                          </item>
+                          <item>
+                            <num>(ii)</num>
+                            <p>part of the consideration for the supply of goods, such that the consideration for Madbid's supply of goods includes both the money paid to Madbid by the user at the time of purchasing the goods and the money paid by the user for `credit' used in placing unsuccessful bids in auctions;</p>
+                          </item>
+                        </blockList>
+                      </item>
+                      <item>
+                        <num>(c)</num>
+                        <p>if a user exercises the right to buy goods after winning an online auction, is the consideration for the supply of those goods the stated auction winning price (plus shipping and handling charges) and no more, or is the value of the ``credits '' that the winner used to bid in that auction also part of the consideration for the supply of those goods by Madbid to the user; or what principles should be applied in determining the answer to those questions?</p>
+                      </item>
+                    </blockList>
+                  </item>
+                  <item>
+                    <num>(3)</num>
+                    <p>Where two Member States treat a transaction differently for the purposes of VAT, to what extent should the courts of one of those Member States take into account, when interpreting the relevant provisions of EU law and national law, the desirability of avoiding:</p>
+                  </item>
+                </blockList>
+                <blockList>
+                  <item>
+                    <num>(a)</num>
+                    <p>double taxation of the transaction, and/or</p>
+                  </item>
+                  <item>
+                    <num>(b)</num>
+                    <p>non-taxation of the transaction; and what bearing does the principle of fiscal neutrality have on this question?'</p>
+                    <tblock>
+                      <p>Consideration of the questions referred</p>
+                    </tblock>
+                    <tblock>
+                      <p>The first question</p>
+                    </tblock>
+                    <p>26 By its first question, the referring court asks, in essence, whether the issue of `credits', such as those at issue in the main proceedings, in return for a money payment, constitutes a `supply of services for consideration', within the meaning of Article 2(1)(c) of Directive VAT, or whether it must be regarded as a `preliminary transaction', before the supply of goods, falling outside the scope of Article 2(1) of that directive, within the meaning of paragraph 24 of the judgment of 16 December 2010, Macdonald Resorts ( C‑270/09, EU:C:2010:780).</p>
+                  </item>
+                </blockList>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16031">
+          <num>27</num>
+          <content eId="para_16031__content">
+            <p>It should be recalled that in that judgment the Court held that the acquisition of contractual rights, called `points rights', allowing points to be received which may be converted, in particular, into a right to occupy temporarily accommodation in the tourist complexes of the service provider was not a transaction subject to VAT, but a preliminary transaction effected in order to be able to exercise the right to temporarily use a property, or to stay in a hotel or use another service. The Court found that the purchase of `points rights' was not an objective in itself for the client since the client concluded the initial contract not with the intention of collecting those points, but in order temporarily to use accommodation or obtain other services selected later (judgment of 16 December 2010, MacDonald Resorts, C‑270/09, EU:C:2010:780, paragraphs 24 and 32).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16032">
+          <num>28</num>
+          <content eId="para_16032__content">
+            <p>It concluded from that judgment that the actual service for which `points rights' were acquired was the service of making available to participants in that scheme of the various possible benefits which might be obtained by virtue of the points deriving from those rights (judgment of 16 December 2010, MacDonald Resorts, C‑270/09, EU:C:2010:780, paragraphs 27).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16033">
+          <num>29</num>
+          <content eId="para_16033__content">
+            <p>In the case in the main proceedings, it is common ground that `credits' can only be used to place bids in the context of sales by auction organised by Madbid. Consequently, a user who purchases `credits' necessarily does so with the intention of being able to participate in those sales.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16034">
+          <num>30</num>
+          <content eId="para_16034__content">
+            <p>However, that service is, for users, an autonomous interest compared with the purchase of goods in Madbid's online shop (see, to that effect, judgment of 2 December 2010, Everything Everywhere, C‑276/09, EU:C:2010:730, paragraph 27). As the Advocate General observed in point 39 of his Opinion, participation in the auctions organised by Madbid gives users a chance to purchase goods at a price below their market value.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16035">
+          <num>31</num>
+          <content eId="para_16035__content">
+            <p>Since, however, `credits' issued by Madbid cannot serve as payment for the purpose of buying goods in its online shop and, as is clear from paragraph 30 above, from the time of their acquisition, those `credits' are identified as representing the consideration for the chance granted to users to purchase goods at prices lower than their market value, and the `credits' used to bid are not credited to the purchase price fixed at the end of the auction, their issue cannot be classified as a `preliminary transaction' to the supply of goods, within the meaning of paragraph 24 of the judgment of 16 December 2010, MacDonalds Resorts ( C‑270/09, EU:C:2010:780).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16036">
+          <num>32</num>
+          <content eId="para_16036__content">
+            <p>Consequently, the right granted to users who have acquired those `credits' to participate in the auctions organised by Madbid constitutes, in itself, a supply of services which is entirely separate from, and cannot be confused with, the supply of goods that may occur upon the conclusion of those auctions.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16037">
+          <num>33</num>
+          <content eId="para_16037__content">
+            <p>That conclusion is all the more essential where the user of `credits' purchases a product by activating the `buy now' or `earned discount' options, since, if he used the service that the `credits' acquired enabled him to use, the purchase made by the use of those options represents an independent transaction from the service supplied in consideration for purchase of `credits'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16038">
+          <num>34</num>
+          <content eId="para_16038__content">
+            <p>Madbid submits, however, that, should the issue of `credits' be considered a supply of services, that supply would not be effected for consideration.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16039">
+          <num>35</num>
+          <content eId="para_16039__content">
+            <p>In that regard, it must be recalled that, according to Article 2(1) of the VAT Directive, supplies of services `for consideration' within the territory of a Member State by a taxable person acting as such are liable to VAT.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16040">
+          <num>36</num>
+          <content eId="para_16040__content">
+            <p>According to established case-law, a supply of services is effected `for consideration', within the meaning of that provision, only if there is a legal relationship between the provider of the service and the recipient pursuant to which there is reciprocal performance, the remuneration received by the provider of the service constituting the value actually given in return for the service supplied to the recipient (judgments of 16 December 2010, MacDonald Resorts, C‑270/09, EU:C:2010:780, paragraph 16 and the case-law cited, and of 20 June 2013, Newey, C‑653/11, EU:C:2013:409, paragraph 40).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16041">
+          <num>37</num>
+          <content eId="para_16041__content">
+            <p>The Court held that that is the case if there is a direct link between the service supplied and the consideration received, the sums paid constituting actual consideration for an identifiable service supplied in the context of such a legal relationship (judgments of 3 March 1994, Tolsma, C‑16/93, EU:C:1994:80, paragraphs 13 and 14; of 16 December 2010, Macdonald Resorts, C‑270/09, EU:C:2010:780, paragraphs 16 and 26; and of 10 November 2016, Baštová, C‑432/15, EU:C:2016:855, paragraph 28).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16042">
+          <num>38</num>
+          <content eId="para_16042__content">
+            <p>In the case in the main proceedings, it is clear from clause 1.2 of Madbid's general terms that it `operates a pay-to-bid auction website'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16043">
+          <num>39</num>
+          <content eId="para_16043__content">
+            <p>Users wishing to participate in auctions organised by Madbid are required to acquire `credits' from it in return for payment. Those `credits' are necessary to bid and cannot serve other purposes. The number of `credits' necessary to bid varies according to the sales. When a user makes a bid, his `credits' are debited in that amount and the price of the product being auctioned increases by GBP 0.01. The winner of the auction has the right to purchase the product at the amount of the winning bid, plus a charge for shipping and handling. The value of the `credits' spent in order to bid during that sale is however exhausted. Finally, when the user who was successful in that auction purchases the product auctioned and then cancels his purchase, only the amount of the price achieved in the auction is reimbursed to him, and not the value of the `credits' that he used to bid.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16044">
+          <num>40</num>
+          <content eId="para_16044__content">
+            <p>Those elements indicate that the payment received by Madbid in exchange for the `credits' that it issues is the actual consideration for the service that it provides to its users, which consists of the grant of the right to participate in the auctions which it organises.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16045">
+          <num>41</num>
+          <content eId="para_16045__content">
+            <p>That conclusion is not undermined by the fact that, by virtue of the `earned discount' feature, users who are unsuccessful in the auction have the value of their `credits' converted into a discount to be used later, when purchasing a product available in Madbid's online shop.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16046">
+          <num>42</num>
+          <content eId="para_16046__content">
+            <p>Similarly, it is irrelevant in that regard that the user who clicks on the `buy now' button has the possibility of buying a product identical to the one being auctioned for a reduced price, up to the value of the `credits' that he has used to bid in the context of that sale.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16047">
+          <num>43</num>
+          <content eId="para_16047__content">
+            <p>First, only the value of `credits', which were first used in order to bid may be credited towards the price of goods purchased through the `buy now' or `earned discount' features.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16048">
+          <num>44</num>
+          <content eId="para_16048__content">
+            <p>Second, a user who decides to cancel a purchase made using the `buy now' or `earned discount' features is only reimbursed the discounted price, together with the delivery costs, and not the value of the `credits' that were taken into account in the calculation of the price he paid for the goods.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16049">
+          <num>45</num>
+          <content eId="para_16049__content">
+            <p>Therefore, Madbid's argument, that the issue of `credits' represents the right for the user to purchase goods up to the value of those `credits', does not correspond to the economic and commercial reality, which is a fundamental criterion for the application of the common system of VAT (judgment of 20 June 2013, Newey, C‑653/11, EU:C:2013:409, paragraph 42 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16050">
+          <num>46</num>
+          <content eId="para_16050__content">
+            <p>It follows from the foregoing considerations that the payment received by Madbid in exchange for the `credits' that it issues represents the actual consideration for the supply consisting of the grant of the right to participate in the auctions that it organises, which is separate from the supply of a product acquired on its website.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16051">
+          <num>47</num>
+          <content eId="para_16051__content">
+            <p>In that regard, it is necessary to clarify that, in the case in the main proceedings, users may purchase goods sold in Madbid's online shop by paying for their purchases by credit or debit card, that is to say, without participating in the auctions that it organises. In addition, every participation in an auction organised by Madbid does not necessarily lead to a supply of goods, either because the user who won that auction chooses not to purchase the product that he was successful in bidding for, or because, having been unsuccessful, the user did not make use of the `buy now' feature and obtains a discount that he does not use immediately.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16052">
+          <num>48</num>
+          <content eId="para_16052__content">
+            <p>It follows that, as the Advocate General observes in point 58 of his Opinion, since the issue of `credits' and the supply of goods do not constitute a single, indivisible economic supply, they cannot be classified as a single supply. For the same reasons, and taking into account the rule that each transaction must be regarded as distinct and independent of the other, the issue of `credits' and the supply of goods also cannot be classified as ancillary in relation from one to the other.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16053">
+          <num>49</num>
+          <content eId="para_16053__content">
+            <p>Having regard to all the foregoing considerations, the answer to the first question is that Article 2(1)(c) of the VAT Directive must be interpreted as meaning that the issue of `credits', such as those at issue in the case in the main proceedings, which allows an operator's clients to bid in auctions that it organises, constitutes a supply of services for consideration, for which the consideration is the amount paid in return for those `credits'.</p>
+            <tblock>
+              <p>The second question</p>
+            </tblock>
+            <p>50 By its second question, the referring court asks, in essence, whether Article 73 of the VAT Directive must be interpreted as meaning that the value of `credits' used in order to bid is included in the consideration received by the taxable person in return for the supplies of goods that it makes for the benefit of users who won an auction that it has organised or those users who purchased a product through the `buy now' or `earned discount' features.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16054">
+          <num>51</num>
+          <content eId="para_16054__content">
+            <p>Under Article 73 of the VAT Directive, the taxable amount in respect of supplies of goods or services, effected for consideration, is made up of `everything which constitutes consideration obtained or to be obtained by the supplier, in return for the supply, from the customer or a third party, including subsidies directly linked to the price of the supply'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16055">
+          <num>52</num>
+          <content eId="para_16055__content">
+            <p>In that regard, it must be recalled first of all that, as is clear from the answer to the first question, the payment made by the user in return for `credits' issued by Madbid represents the consideration for the grant of the right to participate in the actions that it organises.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16056">
+          <num>53</num>
+          <content eId="para_16056__content">
+            <p>However, as the Advocate General notes in point 79 of his Opinion, the amount paid in consideration for a transaction cannot constitute the consideration for another transaction, or even a payment on account in respect of the payment of the consideration for the other transaction.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16057">
+          <num>54</num>
+          <content eId="para_16057__content">
+            <p>It must therefore be stated, in reply to a question by the referring court, that the payment made by a user in exchange for `credits' cannot be regarded as a payment made on account before the goods are supplied, within the meaning of Article 65 of the VAT Directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16058">
+          <num>55</num>
+          <content eId="para_16058__content">
+            <p>In addition, the consideration for the supply of a product won in an auction cannot include the sum paid in return for the issue of `credits' used in the context of that sale, but includes only the price at which the product was won, together with the shipping and handling costs.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16059">
+          <num>56</num>
+          <content eId="para_16059__content">
+            <p>Lastly, that sum also cannot be included in the consideration for the later supply of goods purchased using the `buy now' or `earned discount' features.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16060">
+          <num>57</num>
+          <content eId="para_16060__content">
+            <p>As the Advocate General observed in point 92 of his Opinion, the value of the `credits' used in bidding, which is credited to the initial price using the `buy now' feature or the price listed in the online shop, must be regarded as a discount on the price of those goods purchased using the `buy now' or `earned discount' features. Therefore, in accordance with Article 79(b) of the VAT Directive, the value of those `credits' cannot be part of the taxable amount in respect of the supply of those goods.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16061">
+          <num>58</num>
+          <content eId="para_16061__content">
+            <p>That is the case including where, in the context of the purchase of goods using the `buy now' or `earned discount' features, the value of the `credits' spent to bid covers the total initial price using the `buy now' feature, or the price listed in the online shop.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16062">
+          <num>59</num>
+          <content eId="para_16062__content">
+            <p>As the Advocate General observes in point 102 of his Opinion, goods purchased in such a way, contrary to the case at issue in the judgment of 27 April 1999, Kuwait Petroleum ( C‑48/97, EU:C:1999:203), cannot be regarded as having been the object of a disposal free of charge, since they are supplied in return for identifiable consideration, namely the initial price using the `buy now' feature or the price listed in the online shop.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16063">
+          <num>60</num>
+          <content eId="para_16063__content">
+            <p>Having regard to the foregoing considerations, the answer to the second question is that Article 73 of the VAT Directive must be interpreted as meaning that, in circumstances such as those in the main proceedings, the value of `credits' used in order to bid is not included in the consideration received by the taxable person in return for the supplies of goods that it makes for the benefit of users who won an auction organised by it, or users who purchased a product using the `buy now' or `earned discount' features.</p>
+            <tblock>
+              <p>The third question</p>
+            </tblock>
+            <p>61 By its third question the referring court asks, in essence, whether, where two Member States treat the same transaction differently for the purposes of VAT, the courts of one of those Member States is required, when interpreting the relevant provisions of EU and national law, to take into account the need to avoid double taxation or double non-taxation of the transaction having regard, in particular, to the principle of fiscal neutrality.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16064">
+          <num>62</num>
+          <content eId="para_16064__content">
+            <p>In that regard, it must be recalled that Article 267 TFEU establishes a preliminary ruling mechanism which aims to avoid divergences in the interpretation of EU law that the national courts have to apply (see, to that effect, judgment of 21 July 2011, Kelly, C‑104/10, EU:C:2011:506, paragraph 60 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16065">
+          <num>63</num>
+          <content eId="para_16065__content">
+            <p>Article 267 TFEU confers on national courts the power, and, in certain circumstances, an obligation, to make a reference to the Court once the national court considers that the substance of the dispute before it raises issues involving an interpretation of provisions of EU law and requiring a decision by them (see, to that effect, judgment of 21 July 2011, Kelly, C‑104/10, EU:C:2011:506, paragraph 61 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16066">
+          <num>64</num>
+          <content eId="para_16066__content">
+            <p>Therefore, where they find that the same transaction has been the object of a different tax treatment in another Member State, the courts of a Member State before which a dispute raises issues involving an interpretation of provisions of EU law and requiring a decision by them have the power, or even the obligation, to refer a request for a preliminary ruling to the Court.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16067">
+          <num>65</num>
+          <content eId="para_16067__content">
+            <p>Moreover, it must be noted that the existence in one or several other Member States of different approaches to that prevailing in the Member State concerned must not, in any event, lead the courts of that Member State to interpret the provisions of the VAT Directive incorrectly.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16068">
+          <num>66</num>
+          <content eId="para_16068__content">
+            <p>Having regard to all the foregoing considerations, the answer to the third question is that, when interpreting the relevant provisions of EU and national law, the courts of a Member State that find that the same transaction has been the object of a different tax treatment for the purposes of VAT in another Member State, have the power, or even -- depending on whether there is a judicial remedy under national law against its decisions -- the obligation, to refer a request for a preliminary ruling to the Court.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_16069">
+          <num>67</num>
+          <content eId="para_16069__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Fifth Chamber) hereby rules: 1. Article 2(1)(c) of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax must be interpreted as meaning that the issue of `credits', such as those at issue in the main proceedings, which allow an operator's clients to bid in the auctions that it organises, are a supply of services for consideration, for which the consideration is the amount paid in return for those `credits'. 2. Article 73 of Directive 2006/112 must be interpreted as meaning that, in circumstances such as those in the main proceedings, the value of `credits' used in order to bid is not included in the consideration received by the taxable person in return for the supplies of goods that it makes for the benefit of users who won an auction organised by it, or users who purchased a product using the `buy now' or `earned discount' features. 3. When interpreting the relevant provisions of EU and national law, courts of a Member State that find that the same transaction has been the object of a different tax treatment for the purposes of VAT in another Member State have the power, or even -- depending on whether there is a judicial remedy under national law against its decisions -- an obligation, to refer a request for a preliminary ruling to the Court.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>Da Cruz Vilaça Levits Borg Barthet Berger Biltgen Delivered in open court in Luxembourg on 5 July 2018. A. Calot Escobar Registrar J.L. da Cruz Vilaça President of the Fifth Chamber( *1)Language of the case: English.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

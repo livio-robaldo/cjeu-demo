@@ -1,0 +1,1307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+      <references source="#source">
+        <TLCOrganization eId="institution_69" showAs="" href="/akn/ontology/Organization/Institution/institution_69" />
+      </references>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Second Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>21 June 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Action for annulment -- Decision (EU) 2015/1814 -- Determination of legal basis -- No taking into account of the effects of a measure -- Article 192(1) TFEU -- Article 192(2)(c) TFEU -- Measures significantly affecting a Member State's choice between different energy sources and the general structure of its energy supply -- Principle of sincere cooperation -- Article 15 TEU -- Powers of the European Council -- Principles of legal certainty and protection of legitimate expectations -- Principle of proportionality -- Impact assessment) In Case C‑5/16, ACTION for annulment under Article 263 TFEU, brought on 4 January 2016, Republic of Poland, represented by B. Majczyna and K. Rudzińska, acting as Agents, and by I. Tatarewicz, ekspert, applicant, v</p>
+      <p>
+        <party as="respondent" refersTo="#">European Parliament</party>
+      </p>
+      <p>, represented by A. Tamás and A. Pospíšilová Padowska, acting as Agents, Council of the European Union, represented by M. Simm, A. Sikora, and K. Pleśniak, acting as Agents, defendants, supported by:</p>
+      <p>
+        <party as="intervening" refersTo="#institution_69">Kingdom of Denmark</party>
+      </p>
+      <p>, represented by M. Wolff, J. Nymann-Lindegren and C. Thorning, acting as Agents, Federal Republic of Germany, represented by T. Henze, acting as Agent, Kingdom of Spain, represented by A. Gavela Llopis and M. A. Sampol Pucurull, acting as Agents, French Republic, represented by D. Colas, G. de Bergues, J. Traband, T. Deleuil and S. Ghiandoni, acting as Agents, Kingdom of Sweden, represented by A. Falk, C. Meyer-Seitz, U. Persson, N. Otte Widgren and L. Swedenborg, acting as Agents, European Commission, represented by K. Herrmann, A. C. Becker, E. White and K. Mifsud-Bonnici, acting as Agents, interveners, THE COURT (Second Chamber), composed of M. Ilešič, President of the Chamber, A. Tizzano, Vice-President of the Court, acting as a Judge of the Second Chamber, A. Rosas (Rapporteur), C. Toader and E. Jarašiūnas, Judges, Advocate General: P. Mengozzi, Registrar: M. Aleksejev, administrator, having regard to the written procedure and further to the hearing on 11 July 2017, after hearing the Opinion of the Advocate General at the sitting on 30 November 2017,</p>
+      <p>gives the following</p>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_14470">
+          <num>1</num>
+          <content eId="para_14470__content">
+            <p>By its application, the Republic of Poland asks the Court to annul Decision (EU) 2015/1814 of the European Parliament and of the Council of 6 October 2015 concerning the establishment and operation of a market stability reserve for the Union greenhouse gas emission trading scheme and amending Directive 2003/87/EC ( OJ 2015 L 264, p. 1; `the contested decision').</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>Directive 2003/87</p>
+        </tblock>
+        <paragraph eId="para_14471">
+          <num>2</num>
+          <content eId="para_14471__content">
+            <p>Directive 2003/87/EC of the European Parliament and of the Council of 13 October 2003 establishing a scheme for greenhouse gas emission allowance trading within the Community and amending Council Directive 96/61/EC ( OJ 2003 L 275, p. 32), as amended by Directive 2009/29/EC of the European Parliament and of the Council of 23 April 2009 ( OJ 2009 L 140, p. 63) ( `Directive 2003/87'), was adopted on the basis of Article 175(1) EC (now Article 192(1) TFEU).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14472">
+          <num>3</num>
+          <content eId="para_14472__content">
+            <p>Directive 2003/87 established a scheme for greenhouse gas emission allowance trading at EU level ( `ETS').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14473">
+          <num>4</num>
+          <content eId="para_14473__content">
+            <p>The ETS has been in operation since 1 January 2005 throughout the States of the European Economic Area and covers around 45% of greenhouse gas emissions. Under Article 13(1) of that directive, the third trading period, which is currently under way, is to last for eight years, from 2013 until 2020 ( `the third trading period').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14474">
+          <num>5</num>
+          <content eId="para_14474__content">
+            <p>Recitals 5 and 22 of Directive 2003/87 state: `</p>
+            <blockList>
+              <item>
+                <num>(5)</num>
+                <p>The Community and its Member States have agreed to fulfil their commitments to reduce anthropogenic greenhouse gas emissions under the Kyoto Protocol jointly, in accordance with [Council Decision 2002/358/EC of 25 April 2002 concerning the approval, on behalf of the European Community, of the Kyoto Protocol to the United Nations Framework Convention on Climate Change and the joint fulfilment of commitments thereunder ( OJ 2002 L 130, p. 1)]. This Directive aims to contribute to fulfilling the commitments of the European Community and its Member States more effectively, through an efficient European market in greenhouse gas emission allowances, with the least possible diminution of economic development and employment. ...</p>
+              </item>
+              <item>
+                <num>(22)</num>
+                <p>This Directive is compatible with the United Nations Framework Convention on Climate Change and the Kyoto Protocol. It should be reviewed in the light of developments in that context and to take into account experience in its implementation and progress achieved in monitoring of emissions of greenhouse gases.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14475">
+          <num>6</num>
+          <content eId="para_14475__content">
+            <p>Under Article 1 of that directive, headed `Subject matter': `This Directive establishes a scheme for greenhouse gas emission allowance trading within the Community ... in order to promote reductions of greenhouse gas emissions in a cost-effective and economically efficient manner. This Directive also provides for the reductions of greenhouse gas emissions to be increased so as to contribute to the levels of reductions that are considered scientifically necessary to avoid dangerous climate change. This Directive also lays down provisions for assessing and implementing a stricter Community reduction commitment exceeding 20%, to be applied upon the approval by the Community of an international agreement on climate change leading to greenhouse gas emission reductions exceeding those required in Article 9, as reflected in the 30% commitment endorsed by the European Council of March 2007.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14476">
+          <num>7</num>
+          <content eId="para_14476__content">
+            <p>Article 9(1) of that directive, headed `Community-wide quantity of allowances', provides: `The Community-wide quantity of allowances issued each year starting in 2013 shall decrease in a linear manner beginning from the mid-point of the period from 2008 to 2012. The quantity shall decrease by a linear factor of 1,74% compared to the average annual total quantity of allowances issued by Member States in accordance with the Commission Decisions on their national allocation plans for the period from 2008 to 2012. ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14477">
+          <num>8</num>
+          <content eId="para_14477__content">
+            <p>Article 29 of that directive reads as follows: `If, on the basis of the regular reports on the carbon market referred to in Article 10(5), the Commission has evidence that the carbon market is not functioning properly, it shall submit a report to the European Parliament and to the Council. The report may be accompanied, if appropriate, by proposals aiming at increasing transparency of the carbon market and addressing measures to improve its functioning.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Directive 2009/29</p>
+        </tblock>
+        <paragraph eId="para_14478">
+          <num>9</num>
+          <content eId="para_14478__content">
+            <p>Recitals 3 to 5 of Directive 2009/29 state: `</p>
+            <blockList>
+              <item>
+                <num>(3)</num>
+                <p>The European Council of March 2007 made a firm commitment to reduce the overall greenhouse gas emissions of the Community by at least 20% below 1990 levels by 2020, and by 30% provided that other developed countries commit themselves to comparable emission reductions and economically more advanced developing countries contribute adequately according to their responsibilities and respective capabilities. By 2050, global greenhouse gas emissions should be reduced by at least 50% below their 1990 levels. All sectors of the economy should contribute to achieving these emission reductions, including international maritime shipping and aviation. ...</p>
+              </item>
+              <item>
+                <num>(4)</num>
+                <p>In its resolution of 31 January 2008 on the outcome of the Bali Conference on Climate Change (COP 13 and COP/MOP 3) [( OJ 2009 C 68 E, p. 13)], the European Parliament recalled its position that industrialised countries should commit to reducing their greenhouse gas emissions by at least 30% by 2020 and by 60 to 80% by 2050, compared to 1990 levels. Given that it anticipates a positive outcome to the COP 15 negotiations that will be held in Copenhagen in 2009, the European Union should begin to prepare tougher emission reduction targets for 2020 and beyond, and should seek to ensure that, after 2013, the Community scheme allows, if necessary, for more stringent emission caps, as part of the Union's contribution to a future international agreement on climate change ...</p>
+              </item>
+              <item>
+                <num>(5)</num>
+                <p>In order to contribute to achieving those long-term objectives, it is appropriate to set out a predictable path according to which the emissions of installations covered by the Community scheme should be reduced. To achieve cost-effectively the commitment of the Community to at least a 20% reduction in greenhouse gas emissions below 1990 levels, emission allowances allocated in respect of those installations should be 21% below their 2005 emission levels by 2020.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Regulation (EU) No 176/2014</p>
+        </tblock>
+        <paragraph eId="para_14479">
+          <num>10</num>
+          <content eId="para_14479__content">
+            <p>Pursuant to recital 3 of Commission Regulation (EU) No 176/2014 of 25 February 2014 amending Regulation (EU) No 1031/2010 in particular to determine the volumes of greenhouse gas emission allowances to be auctioned in 2013-20 ( OJ 2014 L 56, p. 11): `Account should be taken of exceptional changes in drivers determining the balance between the demand for and supply of allowances, notably the renewed economic slowdown, as well as temporary elements directly related to the transition to phase 3, including increasing unused volume of allowances valid for the second trading period for compliance in the said period, increasing volumes of certified emission reductions and emission reduction units from emission reduction projects under the Clean Development Mechanism or under Joint Implementation provisions for surrendering by operators covered by the scheme, the monetisation of allowances from the new entrants reserve for the third trading period for support of demonstration projects of carbon capture and sequestration and innovative renewable energy technologies ( ``NER300 '') pursuant to [Commission Decision 2010/670/EU of 3 November 2010 laying down criteria and measures for the financing of commercial demonstration projects that aim at the environmentally safe capture and geological storage of CO</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14480">
+          <num>2</num>
+          <content eId="para_14480__content">
+            <p>as well as demonstration projects of innovative renewable energy technologies under the scheme for greenhouse gas emission allowance trading within the Community established by Directive 2003/87 ( OJ 2010 L 290, p. 39)] and release of allowances not needed in the new entrants reserves for the second trading period. Although all these factors are subject to different degrees of uncertainty, it is important to determine appropriate corrections to the annual volumes to be auctioned in 2014-20 in a timely manner.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14481">
+          <num>11</num>
+          <content eId="para_14481__content">
+            <p>Article 1 of that regulation provides: `[Commission Regulation (EU) No 1031/2010 of 12 November 2010 on the timing, administration and other aspects of auctioning of greenhouse gas emission allowances pursuant to Directive 2003/87 ( OJ 2010 L 302, p. 1)] is amended as follows:</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>after the second subparagraph of Article 10(2), the following subparagraphs are added: ``The volume of allowances to be auctioned in a given year determined pursuant to the first or second subparagraphs of this paragraph in 2014-16 shall be reduced by the quantity of allowances for the respective year set out in the second column of the table in Annex IV to this Regulation.... '''</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Conclusions of the European Council of 23 and 24 October 2014</p>
+        </tblock>
+        <paragraph eId="para_14482">
+          <num>12</num>
+          <content eId="para_14482__content">
+            <p>On 23 and 24 October 2014, the European Council adopted its conclusions on the 2030 climate and energy policy framework (EUCO 169/14) ( `the 2014 European Council Conclusions').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14483">
+          <num>13</num>
+          <content eId="para_14483__content">
+            <p>Paragraph 2 of those conclusions states: `The European Council endorsed a binding EU target of an at least 40% domestic reduction in greenhouse gas emissions by 2030 compared to 1990. To that end: ...[ETS] 2.3 a well-functioning, reformed [ETS] with an instrument to stabilise the market in line with the Commission proposal will be the main European instrument to achieve this target; the annual factor to reduce the cap on the maximum permitted emissions will be changed from 1.74% to 2.2% from 2021 onwards; ...'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The contested decision</p>
+        </tblock>
+        <paragraph eId="para_14484">
+          <num>14</num>
+          <content eId="para_14484__content">
+            <p>On 6 October 2015, the European Parliament and the Council of the European Union adopted the contested decision, which relates to the establishment and operation of a market stability reserve ( `the MSR').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14485">
+          <num>15</num>
+          <content eId="para_14485__content">
+            <p>Recitals 1, 2, 4, 5 and 8 of that decision state: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Directive 2003/87/EC of the European Parliament and of the Council establishes [an ETS] ... in order to promote reductions of greenhouse gas emissions in a cost-effective and economically efficient manner.</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>According to [the 2014 European Council Conclusions], a well-functioning, reformed [ETS] with an instrument to stabilise the market will be the main European instrument to achieve the Union's greenhouse gas emissions reduction target. ...</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(4)</num>
+                <p>The report from the Commission to the European Parliament and to the Council on the state of the European carbon market in 2012 identified the need for measures in order to tackle structural supply-demand imbalances. The impact assessment on the 2030 climate and energy policy framework indicates that such imbalances are expected to continue, and would not be sufficiently addressed by adapting the linear trajectory to a more stringent target within that framework. A change in the linear factor only gradually changes the Union-wide quantity of allowances (... ETS cap). Accordingly, the surplus would also only gradually decline, such that the market would have to continue to operate for more than a decade with a surplus of around 2 billion allowances or more, thereby preventing the ... ETS from delivering the necessary investment signal to reduce CO</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14486">
+          <num>2</num>
+          <content eId="para_14486__content">
+            <p>emissions in a cost-efficient manner and from being a driver of low-carbon innovation contributing to economic growth and jobs.</p>
+            <blockList>
+              <item>
+                <num>(5)</num>
+                <p>In order to address that problem and to make the ... ETS more resilient in relation to supply-demand imbalances, so as to enable the ... ETS to function in an orderly market, [an MSR] ... should be established in 2018 and it should be operational as of 2019. The [MSR] will also enhance synergy with other climate and energy policies. In order to preserve a maximum degree of predictability, clear rules should be set for placing allowances in the [MSR] and releasing them from it. ... ...</p>
+              </item>
+              <item>
+                <num>(8)</num>
+                <p>The planned reintroduction of 300 million allowances in 2019 and 600 million allowances in 2020, as determined in Commission Regulation (EU) No 176/2014, would undermine the aim of the [MSR] to tackle structural supply-demand imbalances. Accordingly, those 900 million allowances should not be auctioned in 2019 and 2020 but should instead be placed in the [MSR].'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14487">
+          <num>16</num>
+          <content eId="para_14487__content">
+            <p>Article 1 of that decision, headed `Market stability reserve', provides: `1.   [An MSR] shall be established in 2018 and the placing of allowances in the [MSR] shall operate from 1 January 2019. 2.   The quantity of 900 million allowances deducted from auctioning volumes during the period 2014-2016, as determined in Regulation (EU) No 176/2014 pursuant to Article 10(4) of Directive 2003/87/EC, shall not be added to the volumes to be auctioned in 2019 and 2020 but shall instead be placed in the [MSR]. 3.   Allowances not allocated to installations pursuant to Article 10a(7) of Directive 2003/87/EC and allowances not allocated to installations because of the application of Article 10a(19) and (20) of that Directive shall be placed in the [MSR] in 2020. The Commission shall review Directive 2003/87/EC in relation to those unallocated allowances and, if appropriate, submit a proposal to the European Parliament and to the Council. 4.   The Commission shall publish the total number of allowances in circulation each year, by 15 May of the subsequent year. ... 5.   Each year, a number of allowances equal to 12% of the total number of allowances in circulation, as set out in the most recent publication as referred to in paragraph 4 of this Article, shall be deducted from the volume of allowances to be auctioned by the Member States under Article 10(2) of Directive 2003/87/EC and shall be placed in the [MSR] over a period of 12 months beginning on 1 September of that year, unless the number of allowances to be placed in the [MSR] would be less than 100 million. In the first year of [operation of the MSR], placements shall also take place between 1 January and 1 September of that year of 8% (representing 1% for each calendar month) of the total number of allowances in circulation as set out in the most recent publication. Without prejudice to the total amount of allowances to be deducted pursuant to this paragraph, until 31 December 2025, allowances referred to in point (b) of the first subparagraph of Article 10(2) of Directive 2003/87/EC shall not be taken into account when determining Member States' shares contributing to that total amount. 6.   In any year, if the total number of allowances in circulation is less than 400 million, 100 million allowances shall be released from the [MSR] and added to the volume of allowances to be auctioned by the Member States under Article 10(2) of Directive 2003/87/EC. Where fewer than 100 million allowances are in the [MSR], all allowances in the [MSR] shall be released under this paragraph. 7.   In any year, if paragraph 6 of this Article is not applicable and measures are adopted under Article 29a of Directive 2003/87/EC, 100 million allowances shall be released from the [MSR] and added to the volume of allowances to be auctioned by the Member States under Article 10(2) of Directive 2003/87/EC. Where fewer than 100 million allowances are in the [MSR], all allowances in the [MSR] shall be released under this paragraph. ...'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Background to the dispute</p>
+        </tblock>
+        <paragraph eId="para_14488">
+          <num>17</num>
+          <content eId="para_14488__content">
+            <p>In November 2012, the Commission compiled a report for the European Parliament and the Council, headed `The state of the European carbon market in 2012' (COM(2012) 652 final; `the report on the state of the European carbon market in 2012') and stated that, at the beginning of the third trading period, the ETS had a growing structural imbalance in the supply and demand of allowances, which resulted in an excess that could reach around 2 billion allowances.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14489">
+          <num>18</num>
+          <content eId="para_14489__content">
+            <p>In order to remedy that imbalance, on 22 January 2014, the Commission submitted a proposal for a decision of the European Parliament and of the Council concerning the establishment and operation of a market stability reserve for the Union greenhouse gas emission trading scheme and amending Directive 2003/87 (COM(2014) 20 final; `the 2014 Commission proposal').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14490">
+          <num>19</num>
+          <content eId="para_14490__content">
+            <p>In the impact assessment accompanying the proposal for a decision of the European Parliament and of the Council concerning the establishment and operation of a market stability reserve for the Union greenhouse gas emission trading scheme and amending Directive 2003/87/EC (SWD(2014) 017 final; `the impact assessment'), the Commission confirmed that the structural surplus of emission allowances in the ETS, which had accrued rapidly between 2008 and 2012, could compromise the scheme's capacity to reach its long-term targets in a cost-effective manner, unless legislative measures were taken.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14491">
+          <num>20</num>
+          <content eId="para_14491__content">
+            <p>The 2014 Commission proposal was considered by the Council and its preparatory bodies during a series of meetings held from the end of January 2014 until May 2015. Negotiations with the European Parliament led to the adoption of the contested decision on 6 October 2015.</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>Forms of order sought and procedure before the Court</p>
+        </tblock>
+        <paragraph eId="para_14492">
+          <num>21</num>
+          <content eId="para_14492__content">
+            <p>The Republic of Poland claims that the Court should:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>annul the contested decision; and</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>order the Parliament and the Council to pay the costs.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14493">
+          <num>22</num>
+          <content eId="para_14493__content">
+            <p>The Parliament and the Council contend that the Court should:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>dismiss the action in its entirety; and</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>order the Republic of Poland to pay the costs.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14494">
+          <num>23</num>
+          <content eId="para_14494__content">
+            <p>By decision of 1 June 2016, the Kingdom of Denmark, the Federal Republic of Germany, the Kingdom of Spain, the French Republic and the Commission were granted leave to intervene in support of the form of order sought by the Parliament and the Council. On the same date, the Kingdom of Sweden was granted leave to intervene in support of the form of order sought by the Council.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The action</p>
+        </tblock>
+        <tblock>
+          <p>The first plea in law, alleging infringement of Article 192(1) TFEU, read in conjunction with point (c) of the first subparagraph of Article 192(2) TFEU</p>
+        </tblock>
+        <tblock>
+          <p>Arguments of the parties</p>
+        </tblock>
+        <paragraph eId="para_14495">
+          <num>24</num>
+          <content eId="para_14495__content">
+            <p>The Republic of Poland claims that the contested decision infringes Article 192(1) TFEU, read in conjunction with point (c) of the first subparagraph of Article 192(2) TFEU, in that it was adopted in accordance with the ordinary legislative procedure although it constitutes a measure significantly affecting a Member State's choice between different energy sources and the general structure of its energy supply within the meaning of the latter provision. Under the first subparagraph of Article 192(2) TFEU, such a decision should have been adopted by the Council unanimously, in accordance with the special legislative procedure.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14496">
+          <num>25</num>
+          <content eId="para_14496__content">
+            <p>In the first place, that Member State submits that it follows from the wording of point (c) of the first subparagraph of Article 192(2) TFEU that the choice of that provision as a legal basis must be based on an assessment of the specific effects flowing from the implementation of the environmental measures laid down by the legislative measure at issue, rather than the objectives pursued by its adoption.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14497">
+          <num>26</num>
+          <content eId="para_14497__content">
+            <p>The Republic of Poland points out that, according to the wording of point (c) of the first subparagraph of Article 192(2) TFEU, that provision is intended to cover `measures significantly affecting a Member State's choice between different energy sources and the general structure of its energy supply', rather than measures seeking to have a significant influence on that choice. Consequently, it claims that, if it were accepted that the choice of that provision as a legal basis may be justified on anything other than an assessment of the specific effects of a measure, the special procedure laid down in that provision would be rendered meaningless and the simple fact that the draftsman of a proposed measure states that such a measure does not have the purpose of affecting a Member State's choice between different energy sources would be sufficient for it to evade the requirement that the special legislative procedure be applied.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14498">
+          <num>27</num>
+          <content eId="para_14498__content">
+            <p>That Member State claims that such an analysis is not contrary to the Court's case-law on the subject of the choice of legal basis. More specifically, it follows from the judgments of 23 February 1999, Parliament v Council ( C‑42/97, EU:C:1999:81, paragraph 63) and of 12 December 2002, Commission v Council ( C‑281/01, EU:C:2002:761, paragraphs 40 and 41) that the effects produced by a legislative measure form part of the objective elements that can be subject to judicial review.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14499">
+          <num>28</num>
+          <content eId="para_14499__content">
+            <p>In the second place, the applicant Member State claims that, taking into account the overall energy context in Poland, the contested decision significantly affects its choice between different energy sources and the general structure of its energy supply.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14500">
+          <num>29</num>
+          <content eId="para_14500__content">
+            <p>In that regard, the Republic of Poland submits that it is particularly reliant on fossil fuels, so much so that 83% of the energy that is produced there comes from coal and lignite. The establishment of the MSR would result in an increase in the price of emission allowances that would inevitably lead to changes within the energy sector of that Member State. In the present case, the use of natural gas would increase and, in 2035, would reach 700% of its current level. On the other hand, without the MSR, the Polish energy sector would continue to rely principally on lignite and coal. In addition, the use of natural gas would greatly exceed the current national level of extraction of that raw material, which would lead to an increase in the volume of imports and, consequently, would affect the security of the Republic of Poland's energy supply.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14501">
+          <num>30</num>
+          <content eId="para_14501__content">
+            <p>According to that Member State, the implementation of the MSR will result in an increase in emission allowance prices which will also lead to a change in the competitiveness of various types of power station and in the structure of electricity production at a national level, as well as to a decrease in the competitiveness of the energy sector and the Polish economy.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14502">
+          <num>31</num>
+          <content eId="para_14502__content">
+            <p>In order to illustrate the influence of the contested decision on its energy mix, the Republic of Poland submitted in an annex to its reply a document headed `Study on the influence of the market stability reserve mechanism [in accordance with Decision 2015/1814] on the structure of Poland's energy mix' compiled by the Krajowy Ośrodek Bilansowania i Zarzadzania Emisjami (National Centre for Emissions Management, Poland).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14503">
+          <num>32</num>
+          <content eId="para_14503__content">
+            <p>In the third place, the Republic of Poland claims that, in any event, it is clear from the impact assessment accompanying the 2014 Commission proposal that the fight against the supply-demand imbalance on the emissions allowance market is an instrumental aim of the contested decision, which, in reality, seeks to fix allowance prices at a correct level. Subsequently, that price should redirect Member States towards renewable energies or towards fuels that have lower carbon emissions and, thus, cause a change in the structure of their energy supply by diversifying it and reducing the portion of energy obtained from fossil fuels.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14504">
+          <num>33</num>
+          <content eId="para_14504__content">
+            <p>It follows from the above that the correcting of the market imbalance through an increase in the price of allowances, should allow the principal objective of the contested decision to be reached, namely the evolution of the energy mix of Member States, which confirms that the contested decision should have been adopted on the basis of point (c) of the first subparagraph of Article 192(2) TFEU.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14505">
+          <num>34</num>
+          <content eId="para_14505__content">
+            <p>In response to the Council's argument that a change in prices will not force operators to take a specific position, as they would still have the option of either buying allowances or reducing emissions, or even passing on the cost to their customers, the Republic of Poland responds that, on a wholesale energy market that is functioning correctly, an operator has limited options to pass on the cost to its customers. It may be feasible to pass on such costs in the short term, but, in the longer term, an operator who uses coal would either have to compete against other operators who are using, for example, natural gas, by obtaining lower production costs, or give up coal in favour of other energy sources, in order to counteract increased energy production costs.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14506">
+          <num>35</num>
+          <content eId="para_14506__content">
+            <p>Finally, the Republic of Poland disputes the arguments of the defendant institutions as to the decreasing size of the portion reserved for combustion plants across the entirety of the Member States covered by the ETS, due to the constantly growing field of application of Directive 2003/87. Data from the European Environment Agency (EEA) show that the portion of combustion emissions has undergone no significant change during the first years of the third trading period and its level in Poland is clearly higher than the average across all Member States.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14507">
+          <num>36</num>
+          <content eId="para_14507__content">
+            <p>The Council and the Parliament, supported by the interveners, claim that the first plea in law should be rejected.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Findings of the Court</p>
+        </tblock>
+        <paragraph eId="para_14508">
+          <num>37</num>
+          <content eId="para_14508__content">
+            <p>In order to adjudicate on the present plea in law, it must be noted that, as the Council and the European Parliament rightly point out, the Court was prompted to examine the nature of the exception laid down in the first subparagraph of Article 192(2) TFEU in its judgment of 30 January 2001, Spain v Council ( C‑36/98, EU:C:2001:64) when interpreting the second indent of the first subparagraph of Article 130s(2) of the EC Treaty, which corresponds to the second indent of point (b) of the first subparagraph of Article 192(2) TFEU.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14509">
+          <num>38</num>
+          <content eId="para_14509__content">
+            <p>In that case, the Court noted that the choice of the legal basis for an EU measure must rest on objective factors amenable to judicial review, which include, inter alia, the aim and content of that measure (judgments of 30 January 2001, Spain v Council, C‑36/98, EU:C:2001:64, paragraph 58 and 59, and of 11 June 2014, Commission v Council, C‑377/12, EU:C:2014:1903, paragraph 34 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14510">
+          <num>39</num>
+          <content eId="para_14510__content">
+            <p>Although the case that gave rise to the judgment of 30 January 2001, Spain v Council ( C‑36/98, EU:C:2001:64) related to the exception in point (b) of the first subparagraph of Article 192(2) TFEU, the same reasoning must be followed in respect of the provisions in point (c) of the first subparagraph of Article 192(2) TFEU. Thus, it follows from that case-law that the choice of point (c) of the first subparagraph of Article 192(2) TFEU as a legal basis cannot be founded on factors other than those consistently taken into the account by the Court in its case-law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14511">
+          <num>40</num>
+          <content eId="para_14511__content">
+            <p>The fact that, when the Court delivered that judgment, the wording of the second indent of the first subparagraph of Article 130s(2) of the EC Treaty contained the word `concerning', and not the word `affecting', does not call into question the conclusions that must be drawn from it for the purposes of resolving the present dispute. It is clear from the reasoning followed by the Court in that judgment that it understood those two terms to be broadly equivalent, as is demonstrated by paragraph 52 of that judgment, in which it is noted that the second indent of the first subparagraph of Article 130s(2) of the EC Treaty refers to measures affecting the territory and land of Member States, as well as their water resources, as such.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14512">
+          <num>41</num>
+          <content eId="para_14512__content">
+            <p>Given that, in order to know the real and specific effects of a legislative measure, it is necessary to analyse those effects after its entry into force, the legislature's choice would have to be based on assumptions as to the likely impact of that measure, which, by their nature, are speculative and are in no way objective factors amenable to judicial review within the meaning of paragraph 38 above.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14513">
+          <num>42</num>
+          <content eId="para_14513__content">
+            <p>Consequently, it must be found that the assessment of the effect of an EU measure on a Member State's energy policy is not a factor that must be assessed in addition to the aim and content of that act, or by derogation therefrom.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14514">
+          <num>43</num>
+          <content eId="para_14514__content">
+            <p>Further, as the Council noted, Article 192(2) TFEU must be read in conjunction with Article 191 TFEU, which seeks to give the European Union a role in the preservation of the environment and the fight against climate change, in particular by establishing and executing international agreements to that end.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14515">
+          <num>44</num>
+          <content eId="para_14515__content">
+            <p>As the measures taken to that end necessarily affect the energy sector of Member States, a broad interpretation of point (c) of the first subparagraph of Article 192(2) TFEU would risk having the effect of making recourse to the special legislative procedure, which the Treaty FEU intended as an exception, into the general rule.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14516">
+          <num>45</num>
+          <content eId="para_14516__content">
+            <p>That conclusion is irreconcilable with the Court's case-law, according to which provisions that are exceptions to principles must be interpreted strictly (see, by analogy, judgment of 10 June 2010, Bruno and Others, C‑395/08 and C‑396/08, EU:C:2010:329, paragraph 35 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14517">
+          <num>46</num>
+          <content eId="para_14517__content">
+            <p>It follows that point (c) of the first subparagraph of Article 192(2) TFEU can form the legal basis of an EU measure only if it follows from the aim and content of that measure that the primary outcome sought by that measure is significantly to affect a Member State's choice between different energy sources and the general structure of the energy supply of that Member State.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14518">
+          <num>47</num>
+          <content eId="para_14518__content">
+            <p>With regard to the Republic of Poland's argument that the special procedure laid down by that provision could be circumvented by the draftsman of a proposed measure stating that the aim pursued by that measure is not to affect a Member State's choice of energy source, the Court points out that not only the aim, but also the content of the adopted measure are essential factors when reviewing the merits of the legal basis of that act.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14519">
+          <num>48</num>
+          <content eId="para_14519__content">
+            <p>In the light of the foregoing, it is necessary to review the merits of the legal basis of the contested decision with regard to its aim and content.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14520">
+          <num>49</num>
+          <content eId="para_14520__content">
+            <p>As a preliminary point, the Court notes that the contested measure is, indeed, intrinsically linked to Directive 2003/87. However, according to settled case-law, the legal basis for a measure must be determined having regard to its own aim and content and not to the legal basis used for the adoption of other EU measures that might, in certain cases, display similar characteristics (judgment of 10 January 2006, Commission v Parliament and Council, C‑178/03, EU:C:2006:4, paragraph 55). Consequently, as the Republic of Poland rightly states, the analysis of the legal basis of the contested decision must be carried out independently from the analysis of the legal basis of Directive 2003/87.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14521">
+          <num>50</num>
+          <content eId="para_14521__content">
+            <p>As to the aim of the contested decision, the reasons justifying the adoption of that decision must be recalled.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14522">
+          <num>51</num>
+          <content eId="para_14522__content">
+            <p>As the explanatory memorandum of the 2014 Commission proposal states, at the start of the third trading period, the ETS had a large imbalance between the supply and demand of allowances, as has been noted in paragraphs 17 and 18 above.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14523">
+          <num>52</num>
+          <content eId="para_14523__content">
+            <p>The reason for this imbalance is primarily a mismatch between the supply of auction emission allowances, which is fixed in a rigid manner, and demand for them, which is flexible and is impacted by economic cycles, fossil fuel prices and other drivers. Therefore, while weakened demand usually goes hand in hand with decreasing supply in the EU carbon market, that is not also the case for supply of auction allowances, due to the current regulatory regime.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14524">
+          <num>53</num>
+          <content eId="para_14524__content">
+            <p>As is noted in both the 2014 Commission proposal and recital 4 of the contested decision, the existence of such a large surplus could affect the incentivising effect that the establishment of an operational ETS was supposed to produce and could considerably compromise the ability of that scheme to achieve its aims at subsequent stages.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14525">
+          <num>54</num>
+          <content eId="para_14525__content">
+            <p>Therefore, recital 5 of the contested decision explains that it is `in order to address that problem and to make the [ETS] more resilient in relation to supply-demand imbalances, so as to enable the [ETS] to function in an orderly market, [that an MSR] ... should be established in 2018 and it should be operational as of 2019'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14526">
+          <num>55</num>
+          <content eId="para_14526__content">
+            <p>Recital 8 of that decision also notes that the aim of the MSR is `to tackle structural supply-demand imbalances'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14527">
+          <num>56</num>
+          <content eId="para_14527__content">
+            <p>As the Advocate General pointed out in point 22 of his Opinion, it was only for the purposes of responding to that `structural imbalance', which was identified in 2012, that the contested decision was adopted.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14528">
+          <num>57</num>
+          <content eId="para_14528__content">
+            <p>As to the content of that decision, it must be recalled that the MSR is designed as a quantitative mechanism on the basis of which the volume of allowances to be auctioned was automatically adapted, according to a number of criteria, as detailed in Article 1 of that decision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14529">
+          <num>58</num>
+          <content eId="para_14529__content">
+            <p>As follows from Article 1, the MSR takes effect either by preventing the entry to the market of allowances, or, in the event of a lack of supply, by releasing a portion of the allowances that had been placed in the reserve. Thus, the MSR has the effect of stabilising the market supply of allowances without adding additional allowances or definitively removing them.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14530">
+          <num>59</num>
+          <content eId="para_14530__content">
+            <p>Under Article 1(4) of the contested decision, the triggering of transfers to or from the MSR occurs on the basis of numerical data regarding the annual level of the supply of allowances to the market published by the Commission.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14531">
+          <num>60</num>
+          <content eId="para_14531__content">
+            <p>Thus, it follows from both the aim and the content of that decision that the MSR was designed as a tool seeking, in the first place, to remedy existing imbalances and, in the second place, to render the ETS more resistant to any future event on a sufficiently large scale as to disturb seriously the balance between the supply and demand of allowances.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14532">
+          <num>61</num>
+          <content eId="para_14532__content">
+            <p>In essence, it is a one-off intervention on the part of the legislature for the purpose of correcting a structural weakness of the ETS that could prevent the scheme from fulfilling its function of encouraging investment with a view to reducing carbon dioxide emissions in a cost-effective manner and being a driver of low-carbon innovation contributing to the fight against climate change.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14533">
+          <num>62</num>
+          <content eId="para_14533__content">
+            <p>In the light of the foregoing, it does not follow from the analysis of the aim and content of the contested decision that the first outcome pursued by that decision is significantly to affect a Member State's choice between different energy sources and the general structure of its energy supply, with the result that the choice of Article 192(1) TFEU as the legal basis of that decision would be erroneous in view of the legal basis provided by point (c) of the first subparagraph of Article 192(2) TFEU.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14534">
+          <num>63</num>
+          <content eId="para_14534__content">
+            <p>As to the Republic of Poland's argument that the principal aim of the contested decision is, in fact, to affect the energy mix of Member States through an increase in the price of allowances, the Court finds that, as follows from both the provisions and the background of Directive 2003/87, the ETS was designed as a quantitative instrument in which a predetermined quantity of emission allowances is released to reach the desired environmental aim, which, under Article 1 of that directive, is `to promote reductions of greenhouse gas emissions in a cost-effective and economically efficient manner'. It must also be pointed out that that scheme does not intervene directly to set the price of allowances, the latter being determined exclusively by market forces, on the basis of, inter alia, the scarcity of allowances, combined with the flexibility provided by the possibility of trading allowances. The price signal created at EU level is supposed to influence the operational and strategic decisions of investors.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14535">
+          <num>64</num>
+          <content eId="para_14535__content">
+            <p>It must be held, as observed by the defendant institutions, that, first, the price of allowances set by the market has no influence on the functioning of the MSR, which remains, by its nature, neutral in that respect.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14536">
+          <num>65</num>
+          <content eId="para_14536__content">
+            <p>Second, taking into account the detailed rules governing that scheme and, inter alia, the fact that the MSR can either prevent the entry of allowances onto the market or release a number of them, the likely effect thereof is that it will stabilise the price of emissions rather than increase it.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14537">
+          <num>66</num>
+          <content eId="para_14537__content">
+            <p>Nonetheless, due to the fact that the total quantity of allowances available in the ETS falls on the basis of annual linear reduction factor, it is intrinsic to the logic of such factor that the price of allowances will gradually increase as time goes on.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14538">
+          <num>67</num>
+          <content eId="para_14538__content">
+            <p>Thus, to the extent that the contested decision corrects a structural weakness of the ETS, it contributes to that scheme emitting a carbon price signal at EU level, which allows the Union to reach its goals in terms of emission reductions and logically involves an increase in the price of allowances in the future.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14539">
+          <num>68</num>
+          <content eId="para_14539__content">
+            <p>However, the Court notes that those effects are only an indirect consequence of the close relationship between the contested decision and Directive 2003/87.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14540">
+          <num>69</num>
+          <content eId="para_14540__content">
+            <p>Consequently, as the Advocate General observed in point 24 of his Opinion, as the MSR is designed merely as a supplement or a correction of the ETS, the EU legislature was fully entitled to base the contested decision on Article 192(1) TFEU.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14541">
+          <num>70</num>
+          <content eId="para_14541__content">
+            <p>In those circumstances, it is not necessary to assess the alleged effects of the contested decision on the Republic of Poland's energy mix.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14542">
+          <num>71</num>
+          <content eId="para_14542__content">
+            <p>In the light of the foregoing, the first plea in law must be rejected as unfounded.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The second plea in law, alleging infringement of the powers of the European Council defined in Article 15 TEU and infringement of the obligation of sincere cooperation</p>
+        </tblock>
+        <tblock>
+          <p>Arguments of the parties</p>
+        </tblock>
+        <paragraph eId="para_14543">
+          <num>72</num>
+          <content eId="para_14543__content">
+            <p>The Republic of Poland asserts, in essence, that the conclusions of the European Council of 2014 set the start date of the MSR at 2021.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14544">
+          <num>73</num>
+          <content eId="para_14544__content">
+            <p>By bringing that date forward by two years, as follows from Article 1(1) of the contested decision, the defendant institutions have encroached upon the powers of the European Council and undermined the powers of the Council to define the political directions for the implementation of EU legislation, as guaranteed by Article 15 TEU.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14545">
+          <num>74</num>
+          <content eId="para_14545__content">
+            <p>The Republic of Poland maintains that that change in the date for implementation of the MSR also infringes the principle of sincere cooperation, as the contested decision contains an essential element which is contrary to the conclusions of the European Council.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14546">
+          <num>75</num>
+          <content eId="para_14546__content">
+            <p>The defendants and the interveners contest those arguments.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Findings of the Court</p>
+        </tblock>
+        <paragraph eId="para_14547">
+          <num>76</num>
+          <content eId="para_14547__content">
+            <p>The second plea in law is divided into two parts alleging, respectively, infringement of the powers of the European Council, as defined in Article 15 TEU, and infringement of the obligation of sincere cooperation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14548">
+          <num>77</num>
+          <content eId="para_14548__content">
+            <p>In the first of those parts, the applicant Member State relies, in essence, on a literal interpretation of paragraph 2.3 of the 2014 European Council Conclusions, which set 2021 as the start date for the MSR.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14549">
+          <num>78</num>
+          <content eId="para_14549__content">
+            <p>In that regard, it must be pointed out that the French-language version of paragraph 2.3 states: `a well-functioning, reformed [ETS] with an instrument to stabilise the market in line with the Commission proposal will be the main [EU] instrument to achieve this target; the annual factor to reduce the cap on the maximum permitted emissions will be changed from 1.74% to 2.2% from [the year] 2021 onwards'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14550">
+          <num>79</num>
+          <content eId="para_14550__content">
+            <p>It is clear from the wording of that paragraph that the explicit reference to 2021 is not directed at the date for implementation of the ETS but at the date on which the annual reduction factor will be changed.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14551">
+          <num>80</num>
+          <content eId="para_14551__content">
+            <p>That conclusion is also corroborated by an analysis of other language versions, in which the punctuation mark used to separate the two sentences in that paragraph is not a semicolon, as it is in the French version, but a full stop.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14552">
+          <num>81</num>
+          <content eId="para_14552__content">
+            <p>Consequently, it must be held, as is submitted by the defendant institutions, that the European Council did not explicitly set a start date for the MSR in the 2014 European Council Conclusions.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14553">
+          <num>82</num>
+          <content eId="para_14553__content">
+            <p>The Republic of Poland also bases its argument on the fact that the European Council stated that the ETS had to be accompanied by a market stabilising instrument `in line with the Commission proposal', which, on the date when the European Council issued that document, envisaged that the ETS would enter into force in 2021.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14554">
+          <num>83</num>
+          <content eId="para_14554__content">
+            <p>In that regard, the Court recalls that Article 15(1) TEU defines the European Council's task as being to `provide the Union with the necessary impetus for its development and define the general political directions and priorities thereof'. That provision specifies that `it shall not exercise legislative functions'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14555">
+          <num>84</num>
+          <content eId="para_14555__content">
+            <p>The Parliament and Council's legislative power, conferred in Article 14(1) TEU and Article 16(1) TEU, which reflects the principle of conferred powers, enshrined in Article 13(2) TEU, and, more broadly, the principle of institutional balance, characteristic of the institutional structure of the European Union, means, however, that it is for those institutions alone to decide the content of a measure (see, with regard to the Commission's power of legislative initiative, judgment of 6 September 2017, Slovakia and Hungary v Council, C‑643/15 and C‑647/15, EU:C:2017:631, paragraph 146).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14556">
+          <num>85</num>
+          <content eId="para_14556__content">
+            <p>As the Advocate General observed in point 33 of his Opinion, interpreting the reference made to the 2014 Commission proposal as an order from the European Council not to introduce the MSR until 2021 would effectively lead, first, to the role of the Parliament and the Council being considered to be no more than rubber stamping the conclusions of the European Council and, second, to the European Council being given the power to interfere directly in the legislative sphere, contrary to the principle of the conferral of powers laid down in Article 13(2) TEU.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14557">
+          <num>86</num>
+          <content eId="para_14557__content">
+            <p>Furthermore, the alleged effect of the `political' nature of the European Council's conclusions on both the Parliament and the Council's legislative power cannot be a ground on which the Court may annul the contested decision (see, to that effect, judgment of 6 September 2017, Slovakia and Hungary v Council, C‑643/15 and C‑647/15, EU:C:2017:631, paragraph 145).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14558">
+          <num>87</num>
+          <content eId="para_14558__content">
+            <p>The first part of the second plea must therefore be rejected as unfounded.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14559">
+          <num>88</num>
+          <content eId="para_14559__content">
+            <p>In the light of the foregoing, the second part of the second plea in law must also be rejected.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14560">
+          <num>89</num>
+          <content eId="para_14560__content">
+            <p>As follows from paragraph 85 above, the consequence of the Member State's proposed interpretation is that the Parliament and the Council's powers would be compromised in favour of following the political will expressed by the European Council.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14561">
+          <num>90</num>
+          <content eId="para_14561__content">
+            <p>According to settled case-law, sincere cooperation between EU institutions, as provided for in Article 13(2) TEU, is to be exercised within the limits of the powers granted by the Treaties to each institution. The obligation arising under that provision is therefore not capable of modifying those powers (see, to that effect, inter alia, judgments of 14 April 2015, Council v Commission, C‑409/13, EU:C:2015:217, paragraph 64 and the case-law cited, and of 6 October 2015, Council v Commission, C‑73/14, EU:C:2015:663, paragraph 84 and the case-law cited). Consequently, such cooperation cannot undermine one EU institution's capacity to exercise its powers to the benefit of another institution.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14562">
+          <num>91</num>
+          <content eId="para_14562__content">
+            <p>It follows that the second plea in law must be rejected in its entirety as unfounded.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The third plea in law, alleging infringement of the principles of legal certainty and the protection of legitimate expectations</p>
+        </tblock>
+        <tblock>
+          <p>Arguments of the parties</p>
+        </tblock>
+        <paragraph eId="para_14563">
+          <num>92</num>
+          <content eId="para_14563__content">
+            <p>By its third plea in law, the Republic of Poland submits, in essence, that the setting of the date on which the MSR was to be established was contrary to the principles of legal certainty and the protection of legitimate expectations.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14564">
+          <num>93</num>
+          <content eId="para_14564__content">
+            <p>In the first place, it notes that the EU legislature could not validly change the principles of the functioning of the ETS, in particular the number of allowances available on the market during a particular trading period, without compromising the foreseeability of that scheme.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14565">
+          <num>94</num>
+          <content eId="para_14565__content">
+            <p>According to the applicant Member State, the establishment of trading periods by Directive 2003/87 not only pursues an administrative aim, but above all permits undertakings to define their strategy specifically in the light of the quantity of allowances available for the period in question.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14566">
+          <num>95</num>
+          <content eId="para_14566__content">
+            <p>In the second place, the Republic of Poland submits that, on the basis of the agreements entered into previously by the European Union, in particular Regulation No 176/2014 and the 2014 Commission proposal, a prudent and circumspect operator could not, in any event, have predicted that the number of allowances available on the market would be drastically limited during the last years of the current trading period.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14567">
+          <num>96</num>
+          <content eId="para_14567__content">
+            <p>In that regard, the Republic of Poland observes that Regulation No 176/2014 stipulated that 900 million emission allowances that were withdrawn from sale during 2014 and 2015 would be auctioned during 2019 and 2020.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14568">
+          <num>97</num>
+          <content eId="para_14568__content">
+            <p>Further, the publication of that regulation at the same time as the 2014 Commission proposal, which established 2021 as the ETS start date, gave rise to the reasonable expectation among market operators that the solutions laid down in that regulation would be complied with subsequently.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14569">
+          <num>98</num>
+          <content eId="para_14569__content">
+            <p>With regard to the arguments above, the Republic of Poland notes that market operators legitimately expected that allowances that have been temporarily withdrawn would be reintroduced onto the market during 2019 or 2020, and that they based such operational forecasts on the trust that they placed in such reintroduction.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14570">
+          <num>99</num>
+          <content eId="para_14570__content">
+            <p>The defendant institutions and the interveners contest the Republic of Poland's arguments.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Findings of the Court</p>
+        </tblock>
+        <paragraph eId="para_14571">
+          <num>100</num>
+          <content eId="para_14571__content">
+            <p>In order to adjudicate on the third plea in law, the Court recalls that it follows from its case-law that the principle of legal certainty, the corollary of which is the principle of the protection of legitimate expectations, requires, inter alia, that rules of law be clear, precise and predictable in their effect, especially when they may have adverse consequences on individuals and undertakings (judgment of 20 December 2017, Global Starnet, C‑322/16, EU:C:2017:985, paragraph 46 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14572">
+          <num>101</num>
+          <content eId="para_14572__content">
+            <p>It should be noted, first, that the contested decision, adopted on 6 October 2015, provides that the MSR must be created during 2018 in order to be operational only from 1 January 2019.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14573">
+          <num>102</num>
+          <content eId="para_14573__content">
+            <p>Second, that decision describes clearly and precisely the functioning of the MSR and explains, inter alia, the conditions and procedures for placing allowances into the MSR and removing them from it.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14574">
+          <num>103</num>
+          <content eId="para_14574__content">
+            <p>Article 1 of the contested decision provides that, in the first year of the MSR's operation, 8% of the total number of allowances in circulation are to be placed in the reserve between 1 January and 1 September of that year. Thereafter, the reserve must adjust the annual volumes of allowances to be auctioned.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14575">
+          <num>104</num>
+          <content eId="para_14575__content">
+            <p>Pursuant to Article 1, from 2019 a number of allowances corresponding to 12% of the total number of allowances in circulation is to be deducted from the volume of allowances to be auctioned by the Member States under Article 10(2) of Directive 2003/87 and is to be placed in the reserve over a period of 12 months beginning on 1 September of that year, unless the number of allowances to be placed in the reserve would be less than 100 million. Further, Article 1 provides that if, in any year, the total number of allowances in circulation is less than 400 million, 100 million allowances are to be released from the reserve and added to the volume of allowances to be auctioned by the Member States under Article 10(2) of Directive 2003/87.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14576">
+          <num>105</num>
+          <content eId="para_14576__content">
+            <p>The total number of allowances in circulation is to be published by the Commission on the basis of criteria established in Article 1(4) of the contested decision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14577">
+          <num>106</num>
+          <content eId="para_14577__content">
+            <p>Article 3 of the contested decision assigns the Commission the task of monitoring the implementation of the MSR and its possible effects on competitiveness, as well as requiring it regularly to review its operation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14578">
+          <num>107</num>
+          <content eId="para_14578__content">
+            <p>Finally, it is stipulated that the 900 million allowances deducted from auctioning volumes during the period 2014-2016, under Regulation No 176/2014, are not to be added to the volumes to be auctioned in 2019 and 2020, but are instead to be placed in the reserve, so as not to undermine the aim of the latter.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14579">
+          <num>108</num>
+          <content eId="para_14579__content">
+            <p>Consequently, the contested decision establishes objective and transparent legal rules allowing those concerned to inform themselves as to the details and establishes a transition period of a sufficient duration to allow economic operators to adapt to the new system that has been implemented.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14580">
+          <num>109</num>
+          <content eId="para_14580__content">
+            <p>In such circumstances, it must be held that the Republic of Poland has not succeeded in establishing any infringement of the principle of legal certainty by the contested decision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14581">
+          <num>110</num>
+          <content eId="para_14581__content">
+            <p>As to the possibility of relying on the principle of the protection of legitimate expectations, it follows from settled case-law that such protection is afforded to each economic operator with regard to whom an institution has given rise to justified hopes. Within the meaning of that case-law, in whatever form it is given, information which is precise, unconditional and consistent and comes from authorised and reliable sources constitutes assurances capable of giving rise to such hopes (judgment of 14 March 2013, Agrargenossenschaft Neuzelle, C‑545/11, EU:C:2013:169, paragraphs 24 and 25 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14582">
+          <num>111</num>
+          <content eId="para_14582__content">
+            <p>However, if a prudent and alert economic operator can foresee the adoption of an EU measure likely to affect his interests, he cannot plead the principle of protection of legitimate expectations if the measure is adopted (judgment of 14 March 2013, Agrargenossenschaft Neuzelle, C‑545/11, EU:C:2013:169, paragraph 26).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14583">
+          <num>112</num>
+          <content eId="para_14583__content">
+            <p>Further, with regard to reliance on the principle of the protection of legitimate expectations due to the actions of the EU legislature, it must be noted that the Court has acknowledged that that legislature has a broad discretion where its action involves political, economic and social choices and where it is called on to undertake complex assessments and evaluations (judgment of 16 December 2008, Arcelor Atlantique et Lorraine and Others, C‑127/07, EU:C:2008:728, paragraph 57).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14584">
+          <num>113</num>
+          <content eId="para_14584__content">
+            <p>In the present case, the Court notes that no assurance was given to economic operators participating in the ETS that would have justified them forming legitimate expectations that the number of allowances would not be changed during the trading period.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14585">
+          <num>114</num>
+          <content eId="para_14585__content">
+            <p>First, as the defendant institutions have observed, several provisions of Directive 2003/87 state explicitly that it may be necessary to adapt the ETS rules.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14586">
+          <num>115</num>
+          <content eId="para_14586__content">
+            <p>Recital 22 of that directive provides, inter alia, that it `should be reviewed in the light of developments in that context and to take into account experience in its implementation'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14587">
+          <num>116</num>
+          <content eId="para_14587__content">
+            <p>As is set out in the review clause in the third subparagraph of Article 9 of that directive, `the Commission shall review the linear factor and submit a proposal, where appropriate, to the European Parliament and to the Council as from 2020, with a view to the adoption of a decision by 2025'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14588">
+          <num>117</num>
+          <content eId="para_14588__content">
+            <p>Article 29 of the same directive explicitly mentions the case of the market not functioning properly, which is to be established by the Commission in a report submitted to the Parliament and the Council, which may, if appropriate, include proposals for improvement.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14589">
+          <num>118</num>
+          <content eId="para_14589__content">
+            <p>It must be noted that none of those provisions limits the EU legislature's power to intervene during trading periods.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14590">
+          <num>119</num>
+          <content eId="para_14590__content">
+            <p>Second, the various amendments made to Directive 2003/87 show that, on a number of occasions, legislative and non-legislative measures, which were incidentally not contested by the Republic of Poland, changed the availability of allowances during a trading period.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14591">
+          <num>120</num>
+          <content eId="para_14591__content">
+            <p>By way of example, Article 1(9) of Directive 2009/29, which amends Article 9 of Directive 2003/87, started the annual linear reduction of allowances during `the period from 2008 to 2012'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14592">
+          <num>121</num>
+          <content eId="para_14592__content">
+            <p>Article 1 of Decision No 1359/2013/EU of the European Parliament and of the Council of 17 December 2013 amending Directive 2003/87 clarifying provisions on the timing of auctions of greenhouse gas allowances ( OJ 2013 L 343, p. 1), which amended Article 10(4) of Directive 2003/87, provides that `where an assessment shows for the individual industrial sectors that no significant impact on sectors or subsectors exposed to a significant risk of carbon leakage is to be expected, the Commission may, in exceptional circumstances, adapt the timetable for the period referred to in Article 13(1) beginning on 1 January 2013 so as to ensure the orderly functioning of the market' .</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14593">
+          <num>122</num>
+          <content eId="para_14593__content">
+            <p>Lastly, Article 1 of Commission Regulation No 176/2014 provided for a reduction during the period 2014-2016 in the volume of allowances to be auctioned in each given year.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14594">
+          <num>123</num>
+          <content eId="para_14594__content">
+            <p>Consequently, as was observed by the Advocate General in point 42 of his Opinion, no guarantee was given, either on the adoption of Directive 2003/87 or on the adoption of Directive 2009/29, which amended it, that the operation of the ETS as originally described would remain unchanged or could be modified only at the end of a trading period.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14595">
+          <num>124</num>
+          <content eId="para_14595__content">
+            <p>That conclusion is also evident from the specific characteristics of the ETS.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14596">
+          <num>125</num>
+          <content eId="para_14596__content">
+            <p>First, as has been recalled in paragraph 112 above, the ETS is a complex scheme in the context of which the Court has recognised that the EU legislature has the power to have recourse to a step-by-step approach in the light of the experience gained where it is called on to restructure it (see, to that effect, judgment of 16 December 2008, Arcelor Atlantique et Lorraine and Others, C‑127/07, EU:C:2008:728, paragraph 57).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14597">
+          <num>126</num>
+          <content eId="para_14597__content">
+            <p>Second, it must be noted that, as the defendant institutions submit, the ETS, as the principal instrument of the European Union's climate policy, is a permanent instrument that is not limited in time and that produces its effects beyond either individual or collective trading periods.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14598">
+          <num>127</num>
+          <content eId="para_14598__content">
+            <p>The trading periods, which were adopted in order to align the ETS with the expiry dates laid down in the relevant international instruments, cannot prevent the legislature from intervening in that instrument itself if it becomes apparent that the latter is no longer capable of achieving the aims for which it was established.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14599">
+          <num>128</num>
+          <content eId="para_14599__content">
+            <p>Consequently, not only can an interpretation of Directive 2003/87 that the legislature could change the rules relating to the ETS only at the end of a trading period not be justified on the basis of the directive itself, but it would also be contrary to the Court's case-law on the ETS.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14600">
+          <num>129</num>
+          <content eId="para_14600__content">
+            <p>Lastly, in response to the arguments raised by the Republic of Poland summarised in paragraphs 94 to 96 above, it must be noted that the 2014 Commission proposal is a preparatory document that, by definition, cannot be considered to be definitive. Such a document could not give rise to reasonable expectations, because, having regard to the nature of the EU legislative process, an initial proposal will in theory be amended during that process. Therefore, that proposal cannot provide a precise and unconditional assurance within the meaning of the case-law recalled in paragraph 110 above.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14601">
+          <num>130</num>
+          <content eId="para_14601__content">
+            <p>As to the Republic of Poland's arguments on the commitments made by the European Union pursuant to Regulation No 176/2014, it must be found that that regulation was adopted in the context of the Commission's implementing power in that area and that it could not be interpreted as a guarantee that no legislative intervention would render its content inoperative.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14602">
+          <num>131</num>
+          <content eId="para_14602__content">
+            <p>Furthermore, both the 2014 Commission proposal and Regulation No 176/2014 clearly show that the relevant institutions were concerned about the ETS's endemic imbalance and intended to adopt appropriate measures.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14603">
+          <num>132</num>
+          <content eId="para_14603__content">
+            <p>In that regard, recital 3 of Regulation No 176/2014 states, in particular, that `account should be taken of exceptional changes in drivers determining the balance between the demand for and supply of allowances'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14604">
+          <num>133</num>
+          <content eId="para_14604__content">
+            <p>The 2014 Commission proposal is accompanied by an impact assessment describing the ETS's structural imbalance and a warning of the need to take legislative measures. Several options for intervention are considered there, including some that mention a start date for the MSR earlier than 2021.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14605">
+          <num>134</num>
+          <content eId="para_14605__content">
+            <p>In addition, the public became aware of a serious dysfunction in the ETS with regard to its ability to create a price signal at the very latest upon the publication of the report on the state of the European carbon market in 2012. That report contained two types of measure intended to solve the problems identified, namely, first, a review of the auction timetable as a short-term measure and, second, the adoption of structural measures divided into six options, including the option permanently to withdraw a certain quantity of allowances during the third trading period of the ETS.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14606">
+          <num>135</num>
+          <content eId="para_14606__content">
+            <p>In the light of the foregoing, it must be found that a prudent and circumspect economic operator could not expect that the legislative context at issue would remain unchanged and that the institutions concerned would take no measures in order to remedy the ETS's structural imbalance prior to 2020.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14607">
+          <num>136</num>
+          <content eId="para_14607__content">
+            <p>In those circumstances, the third plea in law must be rejected as unfounded.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The fourth and fifth pleas in law</p>
+        </tblock>
+        <tblock>
+          <p>Arguments of the parties</p>
+        </tblock>
+        <paragraph eId="para_14608">
+          <num>137</num>
+          <content eId="para_14608__content">
+            <p>By its fourth plea in law, the Republic of Poland submits that the contested decision infringes the principle of proportionality in that the measures it lays down will not satisfy the criterion of necessity and imposes excessively heavy charges on entities participating in the ETS.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14609">
+          <num>138</num>
+          <content eId="para_14609__content">
+            <p>The implementation of an MSR is allegedly not an essential measure for achieving the target of a 20% reduction in emissions by 2020 in accordance with the European Union's international commitments.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14610">
+          <num>139</num>
+          <content eId="para_14610__content">
+            <p>The applicant Member State observes that the level of the reduction envisaged by the ETS was set by determining the total number of emission allowances permitted for the period 2013 to 2020. Consequently, the withdrawal of emission allowances allocated for that period would require the European Union and its Member States to reach a higher reduction target by comparison with those that are actually declared at an international level in the context of the second commitment period of the Kyoto protocol to the United Nations Framework Convention on Climate Change.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14611">
+          <num>140</num>
+          <content eId="para_14611__content">
+            <p>It follows that the contested decision does not satisfy the criterion of necessity.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14612">
+          <num>141</num>
+          <content eId="para_14612__content">
+            <p>The contested decision is also disproportionate, as it imposes non-essential charges on undertakings in order to achieve the 20% level of emissions reduction as set by the European Union, in accordance with its international commitments.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14613">
+          <num>142</num>
+          <content eId="para_14613__content">
+            <p>By its fifth plea in law, the Republic of Poland submits that the effects of the contested decision have not been duly examined.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14614">
+          <num>143</num>
+          <content eId="para_14614__content">
+            <p>In the first place, that Member State submits that the impact assessment that accompanied the 2014 Commission proposal was inadequate with respect to its assessment of the effects of the contested decision on Member States and the emission allowance market. That Member State claims that the assessment has a number of lacunae in fundamental areas, such as the effects of the contested decision on the labour market, the competitiveness of undertakings and society's standard of living.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14615">
+          <num>144</num>
+          <content eId="para_14615__content">
+            <p>In the second place, the Republic of Poland submits that the assessments made during the negotiations prior to the adoption of the contested decision have not been made public and have also not been the subject of public consultation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14616">
+          <num>145</num>
+          <content eId="para_14616__content">
+            <p>In the third place, the Republic of Poland claims that, by significantly amending the 2014 Commission proposal without carrying out a full and appropriate assessment of the effects of the proposed amendments, the defendant institutions infringed their obligation duly to assess those effects.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14617">
+          <num>146</num>
+          <content eId="para_14617__content">
+            <p>The defendant institutions and the interveners contest the Republic of Poland's arguments put forward in support of the fourth and fifth pleas in law.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Findings of the Court</p>
+        </tblock>
+        <paragraph eId="para_14618">
+          <num>147</num>
+          <content eId="para_14618__content">
+            <p>By its fourth plea in law, the Republic of Poland submits, in essence, that the contested decision infringes the principle of proportionality on the ground that it will lead to higher emissions reduction targets being achieved than those stemming from the European Union's international commitments and those set by Directive 2003/87.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14619">
+          <num>148</num>
+          <content eId="para_14619__content">
+            <p>With regard to the fifth plea in law, that Member State alleges, first, that the Commission carried out a subjective and incomplete impact assessment and, second, that the Parliament and the Council did not analyse the consequences of the measures that they were preparing to adopt, which differed from the proposals whose effects had been assessed by the Commission. In addition, it alleges that the Parliament and the Council failed to organise open public consultations during the legislative procedure.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14620">
+          <num>149</num>
+          <content eId="para_14620__content">
+            <p>It is appropriate to consider those two pleas together.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14621">
+          <num>150</num>
+          <content eId="para_14621__content">
+            <p>At the outset, the point must be made that, in an area of evolving and complex technology, the EU legislature has a broad discretion, in particular as to the assessment of highly complex scientific and technical facts in order to determine the nature and scope of the measures that it adopts, whereas review by the EU judicature has to be limited to verifying whether the exercise of such powers has been vitiated by a manifest error of appraisal or a misuse of powers, or whether the legislature has manifestly exceeded the limits of its discretion. In such a context, the EU judicature cannot substitute its assessment of scientific and technical facts for that of the legislature on which the Treaty has placed that task (judgment of 8 July 2010, Afton Chemical, C‑343/09, EU:C:2010:419, paragraph 28).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14622">
+          <num>151</num>
+          <content eId="para_14622__content">
+            <p>Further, the EU legislature's broad discretion, which implies limited judicial review of its exercise, applies not only to the nature and scope of the measures to be taken but also, to some extent, to the finding of the basic facts (judgments of 7 September 2006, Spain v Council, C‑310/04, EU:C:2006:521, paragraph 121, and of 8 July 2010, Afton Chemical, C‑343/09, EU:C:2010:419, paragraph 33).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14623">
+          <num>152</num>
+          <content eId="para_14623__content">
+            <p>However, even though such judicial review is of limited scope, it requires that the EU institutions that have adopted the act in question must be able to show before the Court that in adopting the act they actually exercised their discretion, which presupposes the taking into consideration of all the relevant factors and circumstances of the situation the act was intended to regulate (judgments of 7 September 2006, Spain v Council, C‑310/04, EU:C:2006:521, paragraph 122, and of 8 July 2010, Afton Chemical, C‑343/09, EU:C:2010:419, paragraph 34).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14624">
+          <num>153</num>
+          <content eId="para_14624__content">
+            <p>It follows that the institutions must at the very least be able to produce and set out clearly and unequivocally the basic facts which had to be taken into account as the basis of the contested measures of the act and on which the exercise of their discretion depended (judgment of 7 September 2006, Spain v Council, C‑310/04, EU:C:2006:521, paragraph 123).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14625">
+          <num>154</num>
+          <content eId="para_14625__content">
+            <p>In that regard, it must be noted that the report on the state of the European carbon market in 2012 was the first basis that allowed the problem associated with the surplus of allowances in the context of the ETS to be identified and considered the possible legislative responses. That assessment was followed in January 2014 by an impact assessment that accompanied the 2014 Commission proposal.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14626">
+          <num>155</num>
+          <content eId="para_14626__content">
+            <p>Contrary to what is submitted by the Republic of Poland, it follows from that assessment that, in paragraph 6 thereof, the Commission examined in detail the various options for remedying the ETS's imbalance, as well as sub-options consisting of variations on those options.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14627">
+          <num>156</num>
+          <content eId="para_14627__content">
+            <p>In addition, with regard to the particular option envisaging the creation of the MSR, the Commission also evaluated, in paragraph 7.1.3 of the impact assessment, a number of possibilities envisaging different start dates for the MSR, while paragraphs 6.2.3.2 and 7.1 of that assessment examine the criteria for the setting of volume-based triggers for the release of allowances from or their entry into the reserve.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14628">
+          <num>157</num>
+          <content eId="para_14628__content">
+            <p>Further, it also follows from that assessment that the Commission examined in detail a whole series of social and economic aspects connected to the various options considered.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14629">
+          <num>158</num>
+          <content eId="para_14629__content">
+            <p>Thus, paragraph 7.2.3 of that impact assessment contains conclusions as to the effect of the MSR on the evolution of the price of allowances. Paragraphs 7.3 and 7.4 of that assessment set out considerations relating to auctions and competitiveness. More specifically, paragraph 7.4.2 of that assessment discusses the potential indirect effects on the price of electricity, while paragraph 7.5 thereof considers the social effects and the effects on the labour market. Finally, paragraph 7.6 of that assessment evaluates the effects on the environment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14630">
+          <num>159</num>
+          <content eId="para_14630__content">
+            <p>Moreover, it must be recalled that the Court has found that an impact assessment is not binding on either the Parliament or the Council (judgment of 8 July 2010, Afton Chemical, C‑343/09, EU:C:2010:419, paragraph 57).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14631">
+          <num>160</num>
+          <content eId="para_14631__content">
+            <p>It is evident from the documents submitted to the Court that the legislature also took into account other findings that became available during negotiations prior to the adoption of the contested decision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14632">
+          <num>161</num>
+          <content eId="para_14632__content">
+            <p>In particular, in an effort to give guidance to the debates in the Council and the Parliament, on 25 June 2014, the Commission organised a meeting of experts on the effects of the proposed measures on the market and the operation of the MSR. A debate on the reserve, bringing together market operators and national experts, took place on 8 September 2014. Lastly, on 5 November 2014, the Parliament organised a workshop on the MSR that was open to the public, in connection with which it also carried out additional assessments on the start date for the MSR.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14633">
+          <num>162</num>
+          <content eId="para_14633__content">
+            <p>Furthermore, it is also clear from the documents submitted to the Court that, during Council meetings, several delegations presented their evaluations of the effects of the various options during meetings of the `Environment' group. Thus, the deliberations on the proposal for a decision were supplemented by the factual basis on which the delegates of all Member States relied in order to define their position during those meetings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14634">
+          <num>163</num>
+          <content eId="para_14634__content">
+            <p>It follows from the foregoing that, during the legislative procedure, the Parliament and the Council took into account the available scientific data in order to exercise their discretion properly.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14635">
+          <num>164</num>
+          <content eId="para_14635__content">
+            <p>As the defendant institutions pointed out, a certain number of the meetings and workshops organised by the EU institutions on the MSR were public or, at least, the content of those meetings and workshops was made public. In addition, public consultations also took place when the proposal for a decision was drawn up by the Commission.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14636">
+          <num>165</num>
+          <content eId="para_14636__content">
+            <p>In any event, as the Council and the Parliament rightly submit, it must be noted that the non-public nature of certain consultations cannot call into question the lawfulness of the contested decision, as the legislature does not have to ignore facts appearing in non-public documents or mentioned in non-public meetings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14637">
+          <num>166</num>
+          <content eId="para_14637__content">
+            <p>Moreover, as the Advocate General noted in point 54 of his Opinion, the Parliament, the Council and the Commission cannot be criticised for not taking into account the Republic of Poland's alleged particular situation with regard to the carbon market.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14638">
+          <num>167</num>
+          <content eId="para_14638__content">
+            <p>It follows from the case-law of the Court that the legislature does not have to take into consideration the particular situation of a Member State where the EU measure has an impact in all Member States and requires that a balance between the different interests involved is ensured, taking account of the objectives of that measure. Therefore, the attempt to strike such a balance, taking into account not the particular situation of a single Member State, but that of all EU Member States, cannot be regarded as being contrary to the principle of proportionality (see, by analogy, judgment of 18 June 2015, Estonia v Parliament and Council, C‑508/13, EU:C:2015:403, paragraph 39).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14639">
+          <num>168</num>
+          <content eId="para_14639__content">
+            <p>It follows that the legislature had sufficient factors within the meaning of the case-law recalled in paragraphs 152 and 153 above to make the choices it made in the contested decision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14640">
+          <num>169</num>
+          <content eId="para_14640__content">
+            <p>More specifically, as regards the fourth plea in law alleging an infringement of the principle of proportionality, it must be borne in mind that that principle is one of the general principles of EU law and requires that measures implemented through EU law provisions be of such a kind as to allow the legitimate objectives pursued by the legislation at issue to be achieved and must not go beyond what is necessary to achieve them (judgment of 17 October 2013, Billerud Karlsborg and Billerud Skärblacka, C‑203/12, EU:C:2013:664, paragraph 34 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14641">
+          <num>170</num>
+          <content eId="para_14641__content">
+            <p>The Court also noted that, with regard to judicial review of those conditions, as has been pointed out in paragraph 150 above, the EU legislature must, nevertheless, be allowed a broad discretion when it is asked to intervene in an area which entails political, economic and social choices on its part, and in which it is called upon to undertake complex assessments. In its judicial review of the exercise of such powers, the Court cannot substitute its own assessment for that of the EU legislature. It could, at most, find fault with its legislative choice only if it appeared manifestly incorrect or if the resultant disadvantages for certain economic operators were wholly disproportionate to the advantages otherwise offered (judgment of 17 October 2013, Billerud Karlsborg and Billerud Skärblacka, C‑203/12, EU:C:2013:664, paragraph 35 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14642">
+          <num>171</num>
+          <content eId="para_14642__content">
+            <p>As was recalled in the context of the assessment of the first plea in law of the action, the aim of the contested decision is to guarantee the orderly functioning of the ETS and improve the capacity of Directive 2003/87 to achieve its objectives from the start date of the MSR without any temporal limit.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14643">
+          <num>172</num>
+          <content eId="para_14643__content">
+            <p>In the light of that aim, and taking into account the data available to the relevant institutions at the date on which they intervened, the content of the measure adopted cannot reasonably be challenged.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14644">
+          <num>173</num>
+          <content eId="para_14644__content">
+            <p>The report on the state of the European carbon market in 2012 had highlighted the structural imbalance affecting the ETS which necessitated legislative intervention to restore its orderly functioning. In order to put an end to that imbalance, the number of allowances had to be reduced. However, as recital 4 of the contested decision states, a change in the linear factor will cause the surplus to decline only gradually, such that the carbon market would have to continue to operate for more than a decade with a surplus of around 2 billion allowances.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14645">
+          <num>174</num>
+          <content eId="para_14645__content">
+            <p>The creation of an MSR in which surplus allowances are placed temporarily would therefore be an appropriate solution to reduce the number of allowances, without abolishing them. In addition, that solution, firstly, takes into account the situation in which the balance of the scheme is no longer threatened by a surplus of allowances, but is instead threatened by a deficit of them, because it stipulated that the reserve would release onto the market allowances that had been temporarily placed into the reserve and, secondly, it strengthens the resilience of the ETS against large-scale events that may seriously disturb the balance between the supply and demand of allowances.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14646">
+          <num>175</num>
+          <content eId="para_14646__content">
+            <p>The mechanism laid down by the contested decision is therefore well adapted to pursuing the objective of reducing the volatility of the allowance market, without going beyond what was necessary to achieve it.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14647">
+          <num>176</num>
+          <content eId="para_14647__content">
+            <p>Thus, the legislative decision taken by the EU legislature does not appear to be manifestly incorrect within the meaning of the case-law cited in paragraph 170 above.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14648">
+          <num>177</num>
+          <content eId="para_14648__content">
+            <p>Finally, the Republic of Poland has failed to prove that the disadvantages resulting from that decision are disproportionate when compared with the advantages that it also brings, firstly, due to there being no direct link between the MSR and the setting of the price of allowances and, secondly, due to the fact that the stabilisation of the price of allowances clearly forms part of the objective of the contested decision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14649">
+          <num>178</num>
+          <content eId="para_14649__content">
+            <p>Taking into account the foregoing, the fourth and fifth pleas in law must be rejected as unfounded and, consequently, the action must be dismissed in its entirety.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_14650">
+          <num>179</num>
+          <content eId="para_14650__content">
+            <p>Under Article 138(1) of the Rules of Procedure of the Court of Justice, the unsuccessful party is to be ordered to pay the costs if they have been applied for in the successful party's pleadings. Since the Parliament and the Council applied for the Republic of Poland to be ordered to pay the costs and the latter has been unsuccessful, it must be ordered to pay the costs incurred by those two institutions.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14651">
+          <num>180</num>
+          <content eId="para_14651__content">
+            <p>Furthermore, under Article 140(1) of the Rules of Procedure, the Kingdom of Denmark, the Federal Republic of Germany, the Kingdom of Spain, the French Republic, the Kingdom of Sweden and the Commission, as interveners, must bear their own costs. On those grounds, the Court (Second Chamber) hereby: 1. Dismisses the action; 2. Orders the Republic of Poland to pay the costs incurred by the European Parliament and the Council of the European Union; 3. Orders the Kingdom of Denmark, the Federal Republic of Germany, the Kingdom of Spain, the French Republic, the Kingdom of Sweden and the European Commission to bear their own costs.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Polish.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

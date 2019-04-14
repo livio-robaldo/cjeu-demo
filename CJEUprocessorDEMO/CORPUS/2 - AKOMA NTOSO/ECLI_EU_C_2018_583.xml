@@ -1,0 +1,836 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+      <references source="#source">
+        <TLCOrganization eId="institution_5" showAs="" href="/akn/ontology/Organization/Institution/institution_5" />
+        <TLCOrganization eId="institution_98" showAs="" href="/akn/ontology/Organization/Institution/institution_98" />
+      </references>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Grand Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>25 July 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Deliberate release of genetically modified organisms into the environment -- Mutagenesis -- Directive 2001/18/EC -- Articles 2 and 3 -- Annexes I A and I B -- Concept of `genetically modified organism' -- Techniques/methods of genetic modification conventionally used and deemed to be safe -- New techniques/methods of mutagenesis -- Risks for human health and the environment -- Discretion of the Member States when transposing the directive -- Directive 2002/53/EC -- Common catalogue of varieties of agricultural plant species -- Herbicide-tolerant plant varieties -- Article 4 -- Acceptability of genetically modified varieties obtained by mutagenesis for inclusion in the common catalogue -- Human health and environmental protection requirement -- Exemption) In Case C‑528/16, REQUEST for a preliminary ruling under Article 267 TFEU from the Conseil d'État (Council of State, France), made by decision of 3 October 2016, received at the Court on 17 October 2016, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">Confédération paysanne</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="appellant" refersTo="#">Réseau Semences Paysannes</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="appellant" refersTo="#">Les Amis de la Terre France</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="appellant" refersTo="#">Collectif Vigilance OGM et Pesticides 16</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="appellant" refersTo="#">Vigilance OG2M</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="appellant" refersTo="#">CSFV 49</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="appellant" refersTo="#">OGM dangers</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="appellant" refersTo="#">Vigilance OGM 33</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="appellant" refersTo="#">Fédération Nature et Progrès</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#institution_5">Premier ministre</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="respondent" refersTo="#institution_98">Ministre de l'Agriculture, de l'Agroalimentaire et de la Forêt</party>
+      </p>
+      <p>, THE COURT (Grand Chamber), composed of K. Lenaerts, President, A. Tizzano, Vice-President, L. Bay Larsen (Rapporteur), T. von Danwitz, J.L. da Cruz Vilaça, E. Levits, C.G. Fernlund and C. Vajda, Presidents of Chambers, J.-C. Bonichot, A. Arabadjiev, C. Toader, M. Safjan, E. Jarašiūnas, S. Rodin and F. Biltgen, Judges, Advocate General: M. Bobek, Registrar: V. Giacobbo-Peyronnel, Administrator, having regard to the written procedure and further to the hearing on 3 October 2017, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>Confédération paysanne, Réseau Semences Paysannes, Les Amis de la Terre France, Collectif Vigilance OGM et Pesticides 16, Vigilance OG2M, CSFV 49, OGM dangers, Vigilance OGM 33 and Fédération Nature et Progrès, by G. Tumerelle, avocat,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the French Government, by D. Colas, J. Traband and S. Horrenberger, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Greek Government, by G. Kanellopoulos and A. Vasilopoulou, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Netherlands Government, by M.K. Bulterman and M.A.M. de Ree, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Austrian Government, by G. Eberhard, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Swedish Government, by A. Falk, C. Meyer-Seitz, H. Shev, L. Swedenborg and F. Bergius, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the United Kingdom Government, by G. Brown, R. Fadoju and J. Kraehling, acting as Agents, and by C. Banner, Barrister,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Parliament, by A. Tamás, D. Warin and I. McDowell, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Council of the European Union, by M. Moore and M. Alver, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by C. Valero, B. Eggers and I. Galindo Martín, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 18 January 2018,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_16717">
+          <num>1</num>
+          <content eId="para_16717__content">
+            <p>This request for a preliminary ruling concerns the interpretation and validity of Articles 2 and 3 of, and of Annexes I A and I B to, Directive 2001/18/EC of the European Parliament and of the Council of 12 March 2001 on the deliberate release into the environment of genetically modified organisms and repealing Council Directive 90/220/EEC ( OJ 2001 L 106, p. 1), as well as the interpretation of Article 4 of Council Directive 2002/53/EC of 13 June 2002 on the common catalogue of varieties of agricultural plant species ( OJ 2002 L 193, p. 1), as amended by Regulation (EC) No 1829/2003 of the European Parliament and of the Council of 22 September 2003 ( OJ 2003 L 268, p. 1), ( `Directive 2002/53').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16718">
+          <num>2</num>
+          <content eId="para_16718__content">
+            <p>The request has been made in proceedings between, on the one hand, Confédération paysanne, Réseau Semences Paysannes, Les Amis de la Terre France, Collectif Vigilance OGM et Pesticides 16, Vigilance OG2M, CSFV 49, OGM dangers, Vigilance OGM 33 and Fédération Nature et Progrès and, on the other hand, the Premier ministre (French Prime Minister) and the</p>
+            <p>
+              <organization refersTo="#institution_98">Ministre de l'Agriculture, de l'Agroalimentaire et de la Forêt</organization>
+            </p>
+            <p>(French Minister for Agriculture, the Food Processing Industry and Forestry) concerning the refusal to revoke the national legislation according to which organisms obtained by mutagenesis are not, in principle, considered to result in genetic modification, and the refusal to ban the cultivation and marketing of herbicide-tolerant rape varieties obtained by mutagenesis.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <tblock>
+          <p>Directive 2001/18</p>
+        </tblock>
+        <paragraph eId="para_16719">
+          <num>3</num>
+          <content eId="para_16719__content">
+            <p>Recitals 4 to 6, 8, 17, 44 and 55 of Directive 2001/18 are worded as follows: `</p>
+            <blockList>
+              <item>
+                <num>(4)</num>
+                <p>Living organisms, whether released into the environment in large or small amounts for experimental purposes or as commercial products, may reproduce in the environment and cross national frontiers, thereby affecting other Member States. The effects of such releases on the environment may be irreversible.</p>
+              </item>
+              <item>
+                <num>(5)</num>
+                <p>The protection of human health and the environment requires that due attention be given to controlling risks from the deliberate release into the environment of genetically modified organisms (GMOs).</p>
+              </item>
+              <item>
+                <num>(6)</num>
+                <p>Under the Treaty, action by the Community relating to the environment should be based on the principle that preventive action should be taken. ...</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(8)</num>
+                <p>The precautionary principle has been taken into account in the drafting of this Directive and must be taken into account when implementing it. ...</p>
+              </item>
+              <item>
+                <num>(17)</num>
+                <p>This Directive should not apply to organisms obtained through certain techniques of genetic modification which have conventionally been used in a number of applications and have a long safety record. ...</p>
+              </item>
+              <item>
+                <num>(44)</num>
+                <p>Member States should be able, in accordance with the Treaty, to take further measures for monitoring and inspection, for example by official services, of the GMOs as or in products placed on the market. ...</p>
+              </item>
+              <item>
+                <num>(55)</num>
+                <p>It is important to follow closely the development and use of GMOs.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16720">
+          <num>4</num>
+          <content eId="para_16720__content">
+            <p>Article 1 of that directive provides: `In accordance with the precautionary principle, the objective of this Directive is to approximate the laws, regulations and administrative provisions of the Member States and to protect human health and the environment when:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>carrying out the deliberate release into the environment of genetically modified organisms for any other purposes than placing on the market within the Community,</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>placing on the market genetically modified organisms as or in products within the Community.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16721">
+          <num>5</num>
+          <content eId="para_16721__content">
+            <p>Article 2 of Directive 2001/18 provides: `For the purpose of this Directive: ...</p>
+            <blockList>
+              <item>
+                <num>(2)</num>
+                <p>``genetically modified organism (GMO) '' means an organism, with the exception of human beings, in which the genetic material has been altered in a way that does not occur naturally by mating and/or natural recombination. Within the terms of this definition:</p>
+                <blockList>
+                  <item>
+                    <num>(a)</num>
+                    <p>genetic modification occurs at least through the use of the techniques listed in Annex I A, part 1;</p>
+                  </item>
+                  <item>
+                    <num>(b)</num>
+                    <p>the techniques listed in Annex I A, part 2, are not considered to result in genetic modification;</p>
+                  </item>
+                </blockList>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>``deliberate release '': any intentional introduction into the environment of a GMO or a combination of GMOs for which no specific containment measures are used to limit their contact with and to provide a high level of safety for the general population and the environment; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16722">
+          <num>6</num>
+          <content eId="para_16722__content">
+            <p>Pursuant to Article 3(1) of the directive: `This Directive shall not apply to organisms obtained through the techniques of genetic modification listed in Annex I B.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16723">
+          <num>7</num>
+          <content eId="para_16723__content">
+            <p>Article 4 of Directive 2001/18 sets out general obligations for the Member States. Paragraph 1 thereof provides: `Member States shall, in accordance with the precautionary principle, ensure that all appropriate measures are taken to avoid adverse effects on human health and the environment which might arise from the deliberate release or the placing on the market of GMOs. GMOs may only be deliberately released or placed on the market in conformity with part B or part C respectively.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16724">
+          <num>8</num>
+          <content eId="para_16724__content">
+            <p>Article 36 of that directive provides: `1.   [Council] Directive 90/220/EEC [of 23 April 1990 on the deliberate release into the environment of genetically modified organisms ( OJ 1990 L 117, p. 15)] shall be repealed on 17 October 2002. 2.   References made to the repealed Directive shall be construed as being made to this Directive and should be read in accordance with the correlation table in Annex VIII.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16725">
+          <num>9</num>
+          <content eId="para_16725__content">
+            <p>Under the heading `Techniques referred to in Article 2(2)', Annex I A to Directive 2001/18 provides: `PART 1 Techniques of genetic modification referred to in Article 2(2)(a) are inter alia:</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>recombinant nucleic acid techniques involving the formation of new combinations of genetic material by the insertion of nucleic acid molecules ...</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>techniques involving the direct introduction into an organism of heritable material prepared outside the organism, ...</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>cell fusion (including protoplast fusion) or hybridisation techniques ... PART 2 Techniques referred to in Article 2(2)(b) which are not considered to result in genetic modification, on condition that they do not involve the use of recombinant nucleic acid molecules or genetically modified organisms made by techniques/methods other than those excluded by Annex I B:</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>in vitro fertilisation,</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>natural processes such as: conjugation, transduction, transformation,</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>polyploidy induction.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16726">
+          <num>10</num>
+          <content eId="para_16726__content">
+            <p>Under the heading `Techniques referred to in Article 3', Annex I B to Directive 2001/18 provides: `Techniques/methods of genetic modification yielding organisms to be excluded from the Directive, on the condition that they do not involve the use of recombinant nucleic acid molecules or genetically modified organisms other than those produced by one or more of the techniques/methods listed below are:</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>mutagenesis, ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Directive 2002/53</p>
+        </tblock>
+        <paragraph eId="para_16727">
+          <num>11</num>
+          <content eId="para_16727__content">
+            <p>Article 1(1) and (2) of Directive 2002/53 provides: `1.   This Directive concerns the acceptance for inclusion in a common catalogue of varieties of agricultural plant species of those varieties of beet, fodder plant, cereal, potato and oil and fibre plant the seed of which may be marketed ... 2.   The common catalogue of varieties shall be compiled on the basis of the national catalogues of the Member States.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16728">
+          <num>12</num>
+          <content eId="para_16728__content">
+            <p>Article 4(4) of Directive 2002/53 provides: `In the case of a genetically modified variety within the meaning of Article 2(1) and (2) of Directive 90/220/EEC, the variety shall be accepted only if all appropriate measures have been taken to avoid adverse effects on human health and the environment.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16729">
+          <num>13</num>
+          <content eId="para_16729__content">
+            <p>Article 7(4)(a) of Directive 2002/53 provides: `In the case of a genetically modified variety referred to in Article 4(4) an environmental risk assessment equivalent to that laid down in Directive 90/220/EEC shall be carried out.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16730">
+          <num>14</num>
+          <content eId="para_16730__content">
+            <p>Article 9(5) of Directive 2002/53 states: `Member States shall ensure that genetically modified varieties which have been accepted are clearly indicated as such in the catalogue of varieties. They shall further ensure that any person marketing such a variety clearly indicates in his sales catalogue that the variety is genetically modified.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>French law</p>
+        </tblock>
+        <paragraph eId="para_16731">
+          <num>15</num>
+          <content eId="para_16731__content">
+            <p>Article L. 531-1 of the Code de l'environnement (Environmental Code) defines a genetically modified organism as an `organism whose genetic material has been modified other than by natural mating or recombination'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16732">
+          <num>16</num>
+          <content eId="para_16732__content">
+            <p>Article L. 531-2 of that code provides: `The provisions of this Title and of Articles L. 125-3 and L. 515-13 shall not apply to genetically modified organisms obtained by the use of techniques which, by reason of being natural, are not considered to involve genetic modification or by those which have been traditionally used without proven harm for public health or the environment. The list of those techniques shall be determined by decree after the Haut Conseil des biotechnologies (High Council for Biotechnology) has given its opinion.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16733">
+          <num>17</num>
+          <content eId="para_16733__content">
+            <p>Article L. 531-2-1 of that code is worded as follows: `Genetically modified organisms may be grown, marketed or used only with due regard to the environment and public health, agricultural structures, local ecosystems and production and marketing channels classified as ``free from genetically modified organisms '', and with complete transparency. ... Authorisation decisions concerning genetically modified organisms may be taken only after prior transparent and independent assessment of the risks posed for the environment and public health. ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16734">
+          <num>18</num>
+          <content eId="para_16734__content">
+            <p>Article D. 531-2 of that code provides: `The techniques referred to in Article L. 531-2, which are not considered to give rise to genetic modification, are the following: ...</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16735">
+          <num>2</num>
+          <content eId="para_16735__content">
+            <p>On condition that they do not involve the use of genetically modified organisms as recipient or parental organisms:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>mutagenesis; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16736">
+          <num>19</num>
+          <content eId="para_16736__content">
+            <p>Article D. 531-3 of the Environmental Code provides: `The techniques and definitions referred to in Articles D. 531-1 and D. 531-2 shall be interpreted and implemented in accordance with the development of scientific knowledge in the field of genetic engineering, molecular genetics and cell biology.'</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_16737">
+          <num>20</num>
+          <content eId="para_16737__content">
+            <p>By application of 12 March 2015, the applicants in the main proceedings, a French agricultural union and eight associations concerned with the protection of the environment and the dissemination of information on the dangers of GMOs, asked the referring court to annul the implied decision of the Prime Minister refusing their request that, inter alia, he revoke Article D. 531-2 of the Environmental Code, transposing Directive 2001/18, which excludes mutagenesis from the definition of techniques giving rise to genetic modification within the meaning of Article L. 531-1 of the code, and ban the cultivation and marketing of herbicide-tolerant rape varieties obtained by mutagenesis, and to order the Prime Minister, subject to a periodic penalty, to take all steps to introduce a moratorium on herbicide-tolerant plant varieties obtained by mutagenesis.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16738">
+          <num>21</num>
+          <content eId="para_16738__content">
+            <p>The applicants in the main proceedings submitted before the referring court, inter alia, that mutagenesis techniques have evolved and now make it possible to produce, as with transgenesis techniques, herbicide-resistant varieties. However, they submit, the obligations laid down in Directive 2001/18 do not apply to those varieties, even though they present risks for the environment or health arising in particular from the release of genetic material of those varieties leading to the appearance of weeds which have acquired the herbicide-resistant gene, from the ensuing need to increase the quantities and vary the types of herbicides used and the resulting pollution of the environment, or from unintentional effects, such as undesired or off-target mutations on other parts of the genome and the accumulation of carcinogenic molecules or endocrine disruptors in cultivated plants intended for human or animal consumption.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16739">
+          <num>22</num>
+          <content eId="para_16739__content">
+            <p>According to the Prime Minister and the Minister for Agriculture, the Food Processing Industry and Forestry, that application should be dismissed on the ground that the pleas raised by the applicants in the main proceedings are unfounded. The risks alleged are, it is submitted, the result not of the properties of the plant obtained through genetic modification, but of the growers' cultivation practices. Moreover, the mutations obtained by the new techniques of directed mutagenesis are similar to spontaneous or randomly introduced mutations and unintentional mutations can be eliminated in the varietal selection by crossing techniques.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16740">
+          <num>23</num>
+          <content eId="para_16740__content">
+            <p>According to the referring court, the conventional in vivo mutagenesis methods were used for several decades without creating identified risks for the environment or health. By contrast, since the adoption of Directive 2001/18, new varieties, in particular those resistant to herbicides, have been obtained through random mutagenesis techniques applied in vitro to plant cells and through directed mutagenesis techniques/methods applying new genetic engineering techniques, such as oligonucleotide-directed mutagenesis or directed nuclease mutagenesis. It is, in the view of the referring court, impossible to determine with certainty the existence and extent of the risks presented by those new herbicide-resistant varieties for the environment and human and animal health, the only risk assessments thus far being carried out in the context of the marketing authorisation procedure for the plant protection products to which those varieties have been made resistant.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16741">
+          <num>24</num>
+          <content eId="para_16741__content">
+            <p>The referring court considers that those risks are in part similar to those that might result from seeds produced by transgenesis. As regards, in particular, the mutations obtained by the new directed mutagenesis techniques, the direct modification of the genome that they involve would result in the same effects as the introduction of a foreign gene, specific to transgenesis. In addition, since the development of the new techniques of mutagenesis allows the production of modifications of the genetic heritage to increase at a rate out of all proportion to the modifications likely to occur naturally or randomly, the possibility of harm occurring as a result of unintentional modifications of the genome or of the properties of the plant thus obtained would be increased.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16742">
+          <num>25</num>
+          <content eId="para_16742__content">
+            <p>In those circumstances, the Conseil d'État (Council of State, France) decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Do organisms obtained by mutagenesis constitute [GMOs] within the meaning of Article 2 of Directive 2001/18, although they are exempt under Article 3 of and Annex I B to the directive from the obligations laid down for release and placing on the market of [GMOs]? In particular, may mutagenesis techniques, in particular new directed mutagenesis techniques implementing genetic engineering processes, be regarded as techniques listed in Annex I A, to which Article 2 refers? Consequently, must Articles 2 and 3 of and Annexes I A and I B to Directive [2001/18] be interpreted as meaning that they exempt from precautionary, impact-assessment and traceability measures all organisms and seeds obtained by mutagenesis, or only organisms obtained by conventional random mutagenesis methods by ionising radiation or exposure to mutagenic chemical agents existing before those measures were adopted?</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>Do varieties obtained by mutagenesis constitute genetically modified varieties within the meaning of Article 4 of Directive [2002/53] which would not be exempt from the obligations laid down in that directive? Or, on the contrary, is the scope of that directive the same as that under Articles 2 and 3 of and Annex I B to [Directive 2001/18], and does it also exempt varieties obtained by mutagenesis from the obligations laid down for the inclusion of genetically modified varieties in the common catalogue of agricultural plant species by [Directive 2002/53]?</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>Do Articles 2 and 3 of and Annex I B to Directive [2001/18] on the deliberate release into the environment of [GMOs] constitute, in so far as they exclude mutagenesis from the scope of the obligations laid down in the directive, a full harmonisation measure prohibiting Member States from subjecting organisms obtained by mutagenesis to all or some of the obligations laid down in the directive or to any other obligation, or do the Member States, when transposing those provisions, have a discretion to define the regime to be applied to organisms obtained by mutagenesis?</p>
+              </item>
+              <item>
+                <num>(4)</num>
+                <p>May the validity of Articles 2 and 3 of and Annexes I A and I B to Directive [2001/18] with regard to the precautionary principle guaranteed by Article 191(2) [TFEU], in that those provisions do not subject [GMOs] obtained by mutagenesis to precautionary, impact-assessment and traceability measures, be called into question, taking account of the development of genetic engineering processes, the appearance of new plant varieties obtained by means of those techniques and the current scientific uncertainty as to their impacts and the potential risks they represent for the environment and human and animal health?'</p>
+                <tblock>
+                  <p>Consideration of the questions referred</p>
+                </tblock>
+                <tblock>
+                  <p>The first question</p>
+                </tblock>
+                <p>26 By its first question, the referring court asks, in essence, first of all, whether Article 2(2) of Directive 2001/18 must be interpreted as meaning that organisms obtained by means of techniques/methods of mutagenesis constitute GMOs within the meaning of that provision. Next, the referring court asks whether Article 3(1) of Directive 2001/18, read in conjunction with point 1 of Annex I B to the directive and in the light of recital 17 thereof, must be interpreted as meaning that such organisms are excluded from the scope of that directive only if they have been obtained through mutagenesis techniques which have conventionally been used in a number of applications and have a long safety record.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The classification of organisms obtained by mutagenesis as `GMOs'</p>
+        </tblock>
+        <paragraph eId="para_16743">
+          <num>27</num>
+          <content eId="para_16743__content">
+            <p>Article 2(2) of Directive 2001/18 defines a GMO as an organism, with the exception of human beings, in which the genetic material has been altered in a way that does not occur naturally by mating and/or natural recombination.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16744">
+          <num>28</num>
+          <content eId="para_16744__content">
+            <p>Account being taken of the information provided by the referring court, it must be noted, first, that the mutations brought about by techniques/methods of mutagenesis such as those at issue in the main proceedings, the implementation of which is intended to produce herbicide-resistant varieties of plant species, constitute alterations made to the genetic material of an organism, for the purposes of Article 2(2) of Directive 2001/18.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16745">
+          <num>29</num>
+          <content eId="para_16745__content">
+            <p>Secondly, since, as is apparent from the order for reference, certain of those techniques/methods involve the use of chemical or physical mutageneous agents, and others involve the use of genetic engineering, those techniques/methods alter the genetic material of an organism in a way that does not occur naturally, within the meaning of that provision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16746">
+          <num>30</num>
+          <content eId="para_16746__content">
+            <p>It follows that organisms obtained by means of techniques/methods of mutagenesis must be considered to be GMOs within the meaning of Article 2(2) of Directive 2001/18.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16747">
+          <num>31</num>
+          <content eId="para_16747__content">
+            <p>That interpretation is supported by the general scheme of that directive, which is one of the factors to be taken into account for the purpose of its interpretation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16748">
+          <num>32</num>
+          <content eId="para_16748__content">
+            <p>It should be noted that the definition of a GMO in Article 2(2) of Directive 2001/18 is made clear by a distinction between techniques the use of which results in genetic modification and techniques which are not considered to result in such genetic modification.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16749">
+          <num>33</num>
+          <content eId="para_16749__content">
+            <p>In that regard, Article 2(2)(a) of Directive 2001/18 states that, for the purpose of the definition of a GMO, genetic modification occurs at least through the use of the techniques listed in part 1 of Annex I A to that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16750">
+          <num>34</num>
+          <content eId="para_16750__content">
+            <p>Although part 1 of Annex I A to that directive does not explicitly refer to techniques/methods of mutagenesis, that fact is not such as to exclude organisms obtained by means of those techniques/methods from coming under the definition of a GMO in Article 2(2) of the directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16751">
+          <num>35</num>
+          <content eId="para_16751__content">
+            <p>It should be noted, first, that, as follows from the expression `inter alia' in the first sentence of part 1 of Annex I A to Directive 2001/18, the list of genetic modification techniques in that part is not exhaustive. Consequently, that list cannot be regarded as excluding genetic modification techniques other than those to which it specifically refers.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16752">
+          <num>36</num>
+          <content eId="para_16752__content">
+            <p>Secondly, it must be noted that the EU legislature has not included mutagenesis in the exhaustive list of techniques not resulting in a genetic modification, referred to in Article 2(2)(b) of Directive 2001/18, read in conjunction with part 2 of Annex I A to that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16753">
+          <num>37</num>
+          <content eId="para_16753__content">
+            <p>On the contrary, mutagenesis is expressly cited, in Annex I B to that directive, as one of the techniques/methods of `genetic modification' referred to in Article 3(1) of that directive, relating to organisms that have to be excluded from the scope of the directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16754">
+          <num>38</num>
+          <content eId="para_16754__content">
+            <p>In the light of the foregoing considerations, Article 2(2) of Directive 2001/18 must be interpreted as meaning that organisms obtained by means of techniques/methods of mutagenesis constitute GMOs within the meaning of that provision.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The exclusion of certain techniques/methods of mutagenesis from the scope of Directive 2001/18</p>
+        </tblock>
+        <paragraph eId="para_16755">
+          <num>39</num>
+          <content eId="para_16755__content">
+            <p>It is apparent from Article 3(1) of Directive 2001/18, relating to exemptions, that that directive does not apply to organisms obtained through the techniques of genetic modification listed in Annex I B to that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16756">
+          <num>40</num>
+          <content eId="para_16756__content">
+            <p>In that regard, Annex I B lists the techniques/methods of genetic modification yielding organisms which, on condition that they do not involve the use of recombinant nucleic acid molecules or GMOs other than those produced by one or more of the techniques/methods listed in that annex, are to be excluded from the scope of that directive. Among those techniques/methods, point 1 of that annex refers to mutagenesis.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16757">
+          <num>41</num>
+          <content eId="para_16757__content">
+            <p>At the outset, it should be pointed out that, as a provision derogating from the requirement to subject GMOs to the obligations laid down in Directive 2001/18, Article 3(1) thereof, read in conjunction with point 1 of Annex I B to that directive, must be interpreted strictly (see, by analogy, judgment of 17 April 2018, Commission v Poland (Białowieża Forest), C‑441/17, EU:C:2018:255, paragraph 189 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16758">
+          <num>42</num>
+          <content eId="para_16758__content">
+            <p>Furthermore, for the purpose of interpreting a provision of EU law, it is necessary to consider not only its wording but also the context in which it occurs and the objectives pursued by the rules of which it is part (judgment of 27 April 2017, Pinckernelle, C‑535/15, EU:C:2017:315, paragraph 31).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16759">
+          <num>43</num>
+          <content eId="para_16759__content">
+            <p>As regards, first of all, the wording of Article 3(1) of Directive 2001/18, read in conjunction with point 1 of Annex I B thereto, it must be noted that, by referring generally to mutagenesis, that provision does not, on its own, provide any conclusive guidance as to the types of techniques/methods that the EU legislature intended specifically to exclude from the scope of the directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16760">
+          <num>44</num>
+          <content eId="para_16760__content">
+            <p>As regards, next, the context in which that exclusion is made, it should be noted that the EU legislature set out in recital 17 of Directive 2001/18 the conditions under which certain GMOs should be excluded from the scope of the directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16761">
+          <num>45</num>
+          <content eId="para_16761__content">
+            <p>Recital 17 states that Directive 2001/18 should not apply to organisms obtained through certain techniques of genetic modification which have conventionally been used in a number of applications and have a long safety record.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16762">
+          <num>46</num>
+          <content eId="para_16762__content">
+            <p>Accordingly, the scope of the derogation provided for in Article 3(1) of Directive 2001/18, read in conjunction with point 1 of Annex I B to that directive, must be determined in the light of the clarifications thus given by the EU legislature.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16763">
+          <num>47</num>
+          <content eId="para_16763__content">
+            <p>In that regard, it should be pointed out that the referring court is called upon to rule, in particular, on the techniques/methods of directed mutagenesis involving the use of genetic engineering which have appeared or have been mostly developed since Directive 2001/18 was adopted and in respect of which the risks for the environment or for human health have not thus far been established with certainty.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16764">
+          <num>48</num>
+          <content eId="para_16764__content">
+            <p>As the referring court states in essence, the risks linked to the use of those new techniques/methods of mutagenesis might prove to be similar to those which result from the production and release of a GMO through transgenesis. It thus follows from the material before the Court, first, that the direct modification of the genetic material of an organism through mutagenesis makes it possible to obtain the same effects as the introduction of a foreign gene into that organism and, secondly, that the development of those new techniques/methods makes it possible to produce genetically modified varieties at a rate and in quantities quite unlike those resulting from the application of conventional methods of random mutagenesis.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16765">
+          <num>49</num>
+          <content eId="para_16765__content">
+            <p>Moreover, as stated in recital 4 of Directive 2001/18, living organisms, whether released into the environment in large or small amounts for experimental purposes or as commercial products, may reproduce in the environment and cross national frontiers, thereby affecting other Member States. The effects of such releases on the environment may be irreversible. In the same vein, recital 5 of that directive states that the protection of human health and the environment requires that due attention be given to controlling risks from such releases.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16766">
+          <num>50</num>
+          <content eId="para_16766__content">
+            <p>Furthermore, it has been emphasised, in recital 8 of that directive, that the precautionary principle was taken into account in the drafting of the directive and must also be taken into account in its implementation. Emphasis is also placed, in recital 55 of Directive 2001/18, on the need to follow closely the development and use of GMOs.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16767">
+          <num>51</num>
+          <content eId="para_16767__content">
+            <p>In those circumstances, Article 3(1) of Directive 2001/18, read in conjunction with point 1 of Annex I B to that directive, cannot be interpreted as excluding, from the scope of the directive, organisms obtained by means of new techniques/methods of mutagenesis which have appeared or have been mostly developed since Directive 2001/18 was adopted. Such an interpretation would fail to have regard to the intention of the EU legislature, reflected in recital 17 of the directive, to exclude from the scope of the directive only organisms obtained by means of techniques/methods which have conventionally been used in a number of applications and have a long safety record.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16768">
+          <num>52</num>
+          <content eId="para_16768__content">
+            <p>That finding is supported by the objective of Directive 2001/18, which seeks, as is apparent from Article 1 thereof, in accordance with the precautionary principle, to protect human health and the environment when, first, GMOs are deliberately released into the environment for any purpose other than placing on the market within the European Union and, secondly, when GMOs are placed on the market within the European Union as or in products.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16769">
+          <num>53</num>
+          <content eId="para_16769__content">
+            <p>As laid down in Article 4(1) of Directive 2001/18, it is for the Member States to ensure, in accordance with the precautionary principle, that all appropriate measures are taken to avoid adverse effects on human health and the environment which might arise from the deliberate release or placing on the market of GMOs. This implies, in particular, that such deliberate release or the placing on the market may take place only on completion of procedures of assessment of the risks referred to in part B and part C of that directive respectively. However, as set out in paragraph 48 of the present judgment, the risks for the environment or human health linked to the use of new techniques/methods of mutagenesis to which the referring court refers might be similar to those which result from the production and release of a GMO through transgenesis. It follows that an interpretation of the exemption in Article 3(1) of Directive 2001/18, read in conjunction with point 1 of Annex I B thereto, which excludes organisms obtained by means of techniques/methods of mutagenesis from the scope of that directive, without any distinctions, would compromise the objective of protection pursued by the directive and would fail to respect the precautionary principle which it seeks to implement.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16770">
+          <num>54</num>
+          <content eId="para_16770__content">
+            <p>In the light of the foregoing considerations, the answer to the first question is as follows:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>Article 2(2) of Directive 2001/18 must be interpreted as meaning that organisms obtained by means of techniques/methods of mutagenesis constitute GMOs within the meaning of that provision, and</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>Article 3(1) of Directive 2001/18, read in conjunction with point 1 of Annex I B to that directive and in the light of recital 17 thereof, must be interpreted as meaning that only organisms obtained by means of techniques/methods of mutagenesis which have conventionally been used in a number of applications and have a long safety record are excluded from the scope of that directive.</p>
+                <tblock>
+                  <p>The second question</p>
+                </tblock>
+                <p>55 By its second question, the referring court asks, in essence, whether Article 4(4) of Directive 2002/53 must be interpreted as meaning that genetically modified varieties obtained by means of techniques/methods of mutagenesis are exempt from the obligations laid down in that provision.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16771">
+          <num>56</num>
+          <content eId="para_16771__content">
+            <p>In that regard, it should be recalled that Directive 2002/53 concerns, as is apparent from Article 1(1) thereof, the acceptance, for inclusion in a common catalogue of varieties of agricultural plant species, of certain agricultural species the seed of which may be marketed, that common catalogue being compiled, in accordance with paragraph 2 of that article, on the basis of the national catalogues of the Member States.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16772">
+          <num>57</num>
+          <content eId="para_16772__content">
+            <p>Article 4(4) of Directive 2002/53 provides that, with regard to a genetically modified variety within the meaning of Article 2(1) and (2) of Directive 90/220, that variety is to be accepted only if all appropriate measures have been taken to avoid adverse effects on human health and the environment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16773">
+          <num>58</num>
+          <content eId="para_16773__content">
+            <p>As regards, in the first place, the scope of the concept of `genetically modified variety', referred to in Article 4(4) of Directive 2002/53, it should be noted that that provision, without explicitly referring to varieties obtained by means of techniques/methods of mutagenesis, refers to the definitions set out in Article 2(1) and (2) of Directive 90/220.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16774">
+          <num>59</num>
+          <content eId="para_16774__content">
+            <p>In that regard, as stated in Article 36 of Directive 2001/18, Directive 90/220 having been repealed, references to that directive are to be construed as references to Directive 2001/18. Therefore, according to the correlation table in Annex VIII to that directive, the reference made in Article 4(4) of Directive 2002/53 should be construed as referring to Article 2(1) and (2) of Directive 2001/18.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16775">
+          <num>60</num>
+          <content eId="para_16775__content">
+            <p>As established in paragraph 30 of the present judgment, organisms obtained by means of techniques/methods of mutagenesis such as those at issue in the main proceedings must be regarded as coming within the concept of a GMO in Article 2(2) of Directive 2001/18. Consequently, varieties obtained by means of techniques/methods of mutagenesis, such as those to which the referring court refers, must also be regarded as coming within the concept of `genetically modified variety' referred to in Article 4(4) of Directive 2002/53.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16776">
+          <num>61</num>
+          <content eId="para_16776__content">
+            <p>As regards, in the second place, the question whether certain genetically modified varieties do not come within the scope of Article 4(4) of Directive 2002/53, it must, admittedly, be noted that that provision does not refer explicitly to the exemption laid down in Article 3(1) of Directive 2001/18, read in conjunction with point 1 of Annex I B to that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16777">
+          <num>62</num>
+          <content eId="para_16777__content">
+            <p>However, it must be noted that Article 7(4)(a) of Directive 2002/53 provides that, in the case of a genetically modified variety referred to in Article 4(4) of that directive, an environmental risk assessment equivalent to that laid down in Directive 90/220 is to be carried out, the latter reference having, in accordance with what has been stated in paragraph 59 of this judgment, to be construed as referring to Directive 2001/18.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16778">
+          <num>63</num>
+          <content eId="para_16778__content">
+            <p>Furthermore, the Court has held, in this regard, in paragraph 63 of the judgment of 16 July 2009, Commission v Poland ( C‑165/08, EU:C:2009:473), that, where a genetically modified variety has been authorised under Directive 2001/18, all appropriate measures in respect of that variety are supposed to have been taken to prevent adverse effects on human health and the environment, within the meaning of Article 4(4) of Directive 2002/53.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16779">
+          <num>64</num>
+          <content eId="para_16779__content">
+            <p>As the Advocate General has noted in point 161 of his Opinion, it would be inconsistent to impose obligations, with regard to the environmental risk assessment, on genetically modified varieties within the meaning of Directive 2002/53 from which they are explicitly exempted by Directive 2001/18.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16780">
+          <num>65</num>
+          <content eId="para_16780__content">
+            <p>Consequently, the reference made in Article 4(4) of Directive 2002/53 to the concept of a GMO in Article 2(2) of Directive 2001/18, with a view to determining whether a variety is genetically modified, must be interpreted as covering the exemption relating to organisms obtained by mutagenesis laid down in Article 3(1) of Directive 2001/18, read in conjunction with point 1 of Annex I B to that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16781">
+          <num>66</num>
+          <content eId="para_16781__content">
+            <p>In that regard, it should be recalled that, as concluded in paragraph 54 of the present judgment, the exemption in Article 3(1) of Directive 2001/18 concerns only organisms obtained by means of techniques/methods of mutagenesis which have conventionally been used in a number of applications and have a long safety record.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16782">
+          <num>67</num>
+          <content eId="para_16782__content">
+            <p>It follows that genetically modified varieties obtained by means of techniques/methods of mutagenesis such as those at issue in the main proceedings, with the exception of varieties obtained by means of techniques/methods of mutagenesis which have conventionally been used in a number of applications and have a long safety record, come within the scope of Article 4(4) of Directive 2002/53 and the obligations with regard to the protection of health and the environment laid down in that provision for the purpose of acceptance for inclusion of the varieties in the common catalogue.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16783">
+          <num>68</num>
+          <content eId="para_16783__content">
+            <p>In the light of all of the foregoing, the answer to the second question is that Article 4(4) of Directive 2002/53 must be interpreted as meaning that genetically modified varieties obtained by means of techniques/methods of mutagenesis which have conventionally been used in a number of applications and have a long safety record are exempt from the obligations laid down in that provision.</p>
+            <tblock>
+              <p>The third question</p>
+            </tblock>
+            <p>69 By its third question, the referring court asks, in essence, whether Article 3(1) of Directive 2001/18, read in conjunction with point 1 of Annex I B to that directive, must be interpreted as meaning that it has the effect of denying Member States the option of subjecting the organisms obtained by means of techniques/methods of mutagenesis that are excluded from the scope of the directive to the obligations laid down in that directive or to other obligations.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Admissibility</p>
+        </tblock>
+        <paragraph eId="para_16784">
+          <num>70</num>
+          <content eId="para_16784__content">
+            <p>As a preliminary point, the European Commission queries the admissibility of the third question, since, in the proceedings pending before the referring court, the applicants in the main proceedings challenge the lawfulness of the national provision at issue in the main proceedings, in the present case Article D. 531-2 of the Environmental Code, not because that provision subjects organisms obtained by mutagenesis to obligations not laid down in Directive 2001/18, but because Article D. 531-2 exempts those organisms from the regulatory framework laid down in the national measures transposing the directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16785">
+          <num>71</num>
+          <content eId="para_16785__content">
+            <p>According to the Commission, in so far as Directive 2001/18 excludes from its scope organisms obtained by mutagenesis, it does not prohibit Member States from adopting measures regulating those organisms, provided that other rules arising from EU law, such as, in particular, those relating to the free movement of goods, are respected. Consequently, it submits, the question whether Member States may adopt measures regulating those organisms is hypothetical.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16786">
+          <num>72</num>
+          <content eId="para_16786__content">
+            <p>In that regard, it is necessary to state at the outset that, in accordance with the settled case-law of the Court, in proceedings under Article 267 TFEU, it is solely for the national court before which the dispute has been brought, and which must assume responsibility for the subsequent judicial decision, to determine, in the light of the particular circumstances of the case, both the need for a preliminary ruling and the relevance of the questions which it submits to the Court. Consequently, where the questions submitted concern the interpretation of EU law, the Court is bound, in principle, to give a ruling (judgment of 22 February 2018, Kubota (UK) and EP Barrus, C‑545/16, EU:C:2018:101, paragraph 18 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16787">
+          <num>73</num>
+          <content eId="para_16787__content">
+            <p>In the context of the procedure for cooperation between the Court of Justice and national courts that is established by Article 267 TFEU, questions concerning EU law enjoy a presumption of relevance. The Court may refuse to give a ruling on a question referred by a national court for a preliminary ruling under Article 267 TFEU only where, for instance, the requirements concerning the content of a request for a preliminary ruling, set out in Article 94 of the Rules of Procedure of the Court of Justice, are not satisfied or where it is quite obvious that the interpretation of a provision of EU law, or the assessment of its validity, which is sought by the national court, bears no relation to the actual facts of the main action or to its purpose, or where the problem is hypothetical (judgment of 22 February 2018, Kubota (UK) and EP Barrus, C‑545/16, EU:C:2018:101, paragraph 19 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16788">
+          <num>74</num>
+          <content eId="para_16788__content">
+            <p>In the present case, as stated by the referring court, the examination of the action brought by the applicants in the main proceedings involves determining the discretion enjoyed by the Member States when transposing Directive 2001/18, with a view to establishing whether or not, in the present case, the French authorities had, with regard to organisms obtained by means of techniques/methods of mutagenesis excluded from the scope of that directive, the option of subjecting such organisms to the obligations arising from Directive 2001/18 or to other obligations.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16789">
+          <num>75</num>
+          <content eId="para_16789__content">
+            <p>It is apparent from the order for reference that that action seeks, in essence, an order requiring the French authorities to subject plant varieties made herbicide resistant by mutagenesis to the provisions of the Environmental Code concerning GMOs, irrespective of the technique/method of mutagenesis used.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16790">
+          <num>76</num>
+          <content eId="para_16790__content">
+            <p>It follows that the third question referred for a preliminary ruling is not hypothetical and must, accordingly, be considered admissible.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Substance</p>
+        </tblock>
+        <paragraph eId="para_16791">
+          <num>77</num>
+          <content eId="para_16791__content">
+            <p>As held in paragraph 54 of the present judgment, organisms obtained by means of techniques/methods of mutagenesis which have not conventionally been used in a number of applications and do not have a long safety record come within the scope of Directive 2001/18 and are, therefore, subject to the obligations arising from that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16792">
+          <num>78</num>
+          <content eId="para_16792__content">
+            <p>By contrast, organisms obtained by means of techniques/methods of mutagenesis which have conventionally been used in a number of applications and have a long safety record do not come within the scope of that directive, in accordance with Article 3(1) of that directive, read in conjunction with point 1 of Annex I B thereto.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16793">
+          <num>79</num>
+          <content eId="para_16793__content">
+            <p>Consequently, and to the extent to which the EU legislature has not regulated those organisms, Member States have the option of defining their legal regime by subjecting them, in compliance with EU law, in particular the rules on the free movement of goods set out in Articles 34 to 36 TFEU, to the obligations laid down by Directive 2001/18 or to other obligations.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16794">
+          <num>80</num>
+          <content eId="para_16794__content">
+            <p>The EU legislature excluded from the scope of that directive organisms made by techniques/methods of mutagenesis which have conventionally been used in a number of applications and have a long safety record, without specifying in any way the legal regime to which they may be subject. In particular, it does not follow from Directive 2001/18 that the fact that those organisms are excluded from its scope means that persons concerned could proceed freely with their deliberate release into the environment or with the placement on the market of such organisms as or in products within the European Union.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16795">
+          <num>81</num>
+          <content eId="para_16795__content">
+            <p>Therefore, the exemption in Article 3(1) of Directive 2001/18, read in conjunction with point 1 of Annex I B to that directive, cannot be interpreted as preventing Member States from legislating in that area.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16796">
+          <num>82</num>
+          <content eId="para_16796__content">
+            <p>In those circumstances, the answer to the third question is that Article 3(1) of Directive 2001/18, read in conjunction with point 1 of Annex I B to that directive, in so far as it excludes from the scope of that directive organisms obtained by means of techniques/methods of mutagenesis which have conventionally been used in a number of applications and have a long safety record, must be interpreted as meaning that it does not have the effect of denying Member States the option of subjecting such organisms, in compliance with EU law, in particular with the rules on the free movement of goods set out in Articles 34 to 36 TFEU, to the obligations laid down in that directive or to other obligations.</p>
+            <tblock>
+              <p>The fourth question</p>
+            </tblock>
+            <p>83 By its fourth question, the referring court queries, in essence, the validity, with regard to the precautionary principle, as guaranteed by Article 191(2) TFEU, of Article 2 of Directive 2001/18 and Article 3 thereof, read in conjunction with Annex I B to that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16797">
+          <num>84</num>
+          <content eId="para_16797__content">
+            <p>It that regard, it must be noted that, as is apparent from the order for reference, an answer to that question would be necessary only if the Court were to interpret Article 2 of Directive 2001/18 and Article 3 thereof, read in conjunction with Annex I B to that directive, as excluding from the scope of the directive all organisms obtained by means of techniques/methods of mutagenesis, regardless of the technique used. However, that is not the case since, as follows from the answer to the first question, organisms obtained by means of techniques/methods of mutagenesis which have not conventionally been used in a number of applications and do not have a long safety record are, like other GMOs coming within the scope of that directive, subject to the obligations laid down by it.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16798">
+          <num>85</num>
+          <content eId="para_16798__content">
+            <p>In those circumstances, there is no need to answer the fourth question.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_16799">
+          <num>86</num>
+          <content eId="para_16799__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Grand Chamber) hereby rules: 1. Article 2(2) of Directive 2001/18/EC of the European Parliament and of the Council of 12 March 2001 on the deliberate release into the environment of genetically modified organisms and repealing Council Directive 90/220/EEC must be interpreted as meaning that organisms obtained by means of techniques/methods of mutagenesis constitute genetically modified organisms within the meaning of that provision. Article 3(1) of Directive 2001/18, read in conjunction with point 1 of Annex I B to that directive and in the light of recital 17 thereof, must be interpreted as meaning that only organisms obtained by means of techniques/methods of mutagenesis which have conventionally been used in a number of applications and have a long safety record are excluded from the scope of that directive. 2. Article 4(4) of Council Directive 2002/53/EC of 13 June 2002 on the common catalogue of varieties of agricultural plant species, as amended by Regulation (EC) No 1829/2003 of the European Parliament and of the Council of 22 September 2003, must be interpreted as meaning that genetically modified varieties obtained by means of techniques/methods of mutagenesis which have conventionally been used in a number of applications and have a long safety record are exempt from the obligations laid down in that provision. 3. Article 3(1) of Directive 2001/18, read in conjunction with point 1 of Annex I B to that directive, in so far as it excludes from the scope of that directive organisms obtained by means of techniques/methods of mutagenesis which have conventionally been used in a number of applications and have a long safety record, must be interpreted as meaning that it does not have the effect of denying Member States the option of subjecting such organisms, in compliance with EU law, in particular with the rules on the free movement of goods set out in Articles 34 to 36 TFEU, to the obligations laid down in that directive or to other obligations.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: French.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

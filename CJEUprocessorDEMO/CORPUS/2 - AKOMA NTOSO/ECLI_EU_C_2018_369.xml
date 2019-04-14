@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Fourth Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>31 May 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Directive 2002/92/EC -- Scope -- Concept of insurance mediation -- Directive 2004/39/EC -- Scope -- Concept of `investment advice' -- Advice given in insurance mediation concerning the placement of capital in the context of capital life assurance -- Classification of the activity of an insurance agent in the absence of his intention to conclude a genuine insurance contract) In Case C-542/16, REQUEST for a preliminary ruling under Article 267 TFEU from the Högsta domstolen (Supreme Court, Sweden), made by decision of 18 October 2016, received at the Court on 26 October 2016, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">Länsförsäkringar Sak Försäkringsaktiebolag</party>
+      </p>
+      <p>v Dödsboet efter Ingvar Mattsson, and</p>
+      <p>
+        <party as="appellant" refersTo="#">Jan-Erik Strobel and Others</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="appellant" refersTo="#">Lisa Bergström and Others</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="appellant" refersTo="#">Ann-Christin Jönsson and Others</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="appellant" refersTo="#">Daniel Röme and Others</party>
+      </p>
+      <p>, v</p>
+      <p>
+        <party as="respondent" refersTo="#">Länsförsäkringar Sak Försäkringsaktiebolag</party>
+      </p>
+      <p>, THE COURT (Fourth Chamber), composed of T. von Danwitz, President of the Chamber, C. Vajda (Rapporteur), E. Juhász, K. Jürimäe and C. Lycourgos, Judges, Advocate General: M. Campos Sánchez-Bordona, Registrar: R. Schiano, Administrator, having regard to the written procedure and further to the hearing on 14 September 2017, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>Länsförsäkringar Sak Försäkringsaktiebolag, by P. Sjödin and K. Blomkvist, advokater, and by A. Martin, C. Waering and P. Öhrn, juristes,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>Mr Strobel and Others, by J. Larsson, advokat,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>Ms Bergstöm and Others, by L. Bengtsson, A. Elison and C. Kronström, advokater,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>Ms Jönsson and Others, by H. Asklund, advokat,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>Mr Röme and Others, by T. Eliasson, advokat,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Swedish Government, by H. Shev, C. Meyer-Seitz, A. Falk, L. Swedenborg and F. Bergius, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Czech Government, by M. Smolek, O. Serdula and J. Vláčil, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by K.-Ph. Wojcik and K. Simonsson, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 21 November 2017,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_12618">
+          <num>1</num>
+          <content eId="para_12618__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Directive 2002/92/EC of the European Parliament and of the Council of 9 December 2002 on insurance mediation ( OJ 2003 L 9, p. 3).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12619">
+          <num>2</num>
+          <content eId="para_12619__content">
+            <p>The request has been made in a dispute comprising two cases between, firstly, Länsförsäkringar Sak Försäkringsaktiebolag ( `Länsförsäkringar') and Dödsboet efter Ingvar Mattsson (the estate of Ingvar Mattsson) and, secondly, Mr Jan-Erik Strobel and Others, Ms Lisa Bergstöm and Others, Ms Ann-Christin Jönsson and Others and Mr Daniel Röme and Others (together `Mr Strobel and Others') and Länsförsäkringar, concerning the loss of sums invested in products in the context of capital life assurance taken out with insurance mediation companies which had taken out professional indemnity insurance with Länsförsäkringar.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <tblock>
+          <p>Directive 2002/92</p>
+        </tblock>
+        <paragraph eId="para_12620">
+          <num>3</num>
+          <content eId="para_12620__content">
+            <p>Recitals 8, 9 and 17 of Directive 2002/92 state: `</p>
+            <blockList>
+              <item>
+                <num>(8)</num>
+                <p>The coordination of national provisions on professional requirements and registration of persons taking up and pursuing the activity of insurance mediation can therefore contribute both to the completion of the single market for financial services and to the enhancement of customer protection in this field.</p>
+              </item>
+              <item>
+                <num>(9)</num>
+                <p>Various types of persons or institutions, such as agents, brokers and ``bancassurance '' operators, can distribute insurance products. Equality of treatment between operators and customer protection requires that all these persons or institutions be covered by this directive. ...</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(17)</num>
+                <p>Cooperation and exchange of information between competent authorities are essential in order to protect customers and ensure the soundness of insurance and reinsurance business in the single market.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12621">
+          <num>4</num>
+          <content eId="para_12621__content">
+            <p>Article 1 of that directive, entitled `Scope', provides in paragraph 1: `This directive lays down rules for the taking-up and pursuit of the activities of insurance and reinsurance mediation by natural and legal persons which are established in a Member State or which wish to become established there.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12622">
+          <num>5</num>
+          <content eId="para_12622__content">
+            <p>Article 2 of that directive, entitled `Definitions', provides: `For the purposes of this directive, the following definitions apply: ... 3. ``insurance mediation '' means the activities of introducing, proposing or carrying out other work preparatory to the conclusion of contracts of insurance, or of concluding such contracts, or of assisting in the administration and performance of such contracts, in particular in the event of a claim. ... ... 5. ``insurance intermediary '' means any natural or legal person who, for remuneration, takes up or pursues insurance mediation; ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12623">
+          <num>6</num>
+          <content eId="para_12623__content">
+            <p>Article 4(3) and (4) of that directive provides: `3.   Insurance and reinsurance intermediaries shall hold professional indemnity insurance covering the whole territory of the Community or some other comparable guarantee against liability arising from professional negligence, for at least EUR 1000000 applying to each claim and in aggregate EUR 1500000 per year for all claims, unless such insurance or comparable guarantee is already provided by an insurance undertaking, reinsurance undertaking or other undertaking on whose behalf the insurance or reinsurance intermediary is acting or for which the insurance or reinsurance intermediary is empowered to act or such undertaking has taken on full responsibility for the intermediary's actions. 4.   Member States shall take all necessary measures to protect customers against the inability of the insurance intermediary to transfer the premium to the insurance undertaking or to transfer the amount of claim or return premium to the insured. ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12624">
+          <num>7</num>
+          <content eId="para_12624__content">
+            <p>Article 12 of Directive 2002/92, entitled `Information provided by the insurance intermediary', provides in paragraphs 2 and 3: `2.   When the insurance intermediary informs the customer that he gives his advice on the basis of a fair analysis, he is obliged to give that advice on the basis of an analysis of a sufficiently large number of insurance contracts available on the market, to enable him to make a recommendation, in accordance with professional criteria, regarding which insurance contract would be adequate to meet the customer's needs. 3.   Prior to the conclusion of any specific contract, the insurance intermediary shall at least specify, in particular on the basis of information provided by the customer, the demands and the needs of that customer as well as the underlying reasons for any advice given to the customer on a given insurance product. These details shall be modulated according to the complexity of the insurance contract being proposed.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Directive 2004/39/EC</p>
+        </tblock>
+        <paragraph eId="para_12625">
+          <num>8</num>
+          <content eId="para_12625__content">
+            <p>Article 1(1) of Directive 2004/39/EC of the European Parliament and of the Council of 21 April 2004 on markets in financial instruments amending Council Directives 85/611/EEC and 93/6/EEC and Directive 2000/12/EC of the European Parliament and of the Council and repealing Council Directive 93/22/EEC ( OJ 2004 L 145, p. 1) provides: `This directive shall apply to investment firms and regulated markets.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12626">
+          <num>9</num>
+          <content eId="para_12626__content">
+            <p>Article 2(1) of Directive 2004/39 provides: `This Directive shall not apply to: ...</p>
+            <blockList>
+              <item>
+                <num>(c)</num>
+                <p>persons providing an investment service where that service is provided in an incidental manner in the course of a professional activity and that activity is regulated by legal or regulatory provisions or a code of ethics governing the profession which do not exclude the provision of that service; ...</p>
+              </item>
+              <item>
+                <num>(j)</num>
+                <p>persons providing investment advice in the course of providing another professional activity not covered by this directive provided that the provision of such advice is not specifically remunerated; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12627">
+          <num>10</num>
+          <content eId="para_12627__content">
+            <p>Article 4(1) of that directive contains the following definitions: `For the purposes of this directive:</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>``Investment firm '' means any legal person whose regular occupation or business is the provision of one or more investment services to third parties and/or the performance of one or more investment activities on a professional basis; ...</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>``Investment services and activities '' means any of the services and activities listed in Section A of Annex I relating to any of the instruments listed in Section C of Annex I; ... ...</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(4)</num>
+                <p>``Investment advice '' means the provision of personal recommendations to a client, either upon its request or at the initiative of the investment firm, in respect of one or more transactions relating to financial instruments; ...</p>
+              </item>
+              <item>
+                <num>(17)</num>
+                <p>``Financial instrument '' means those instruments specified in Section C of Annex I; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12628">
+          <num>11</num>
+          <content eId="para_12628__content">
+            <p>The services and investment activities listed in Section A of Annex I to that directive include, under point 5 of that section, investment advice.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12629">
+          <num>12</num>
+          <content eId="para_12629__content">
+            <p>Article 19 of Directive 2004/39, entitled `Conduct of business obligations when providing investment services to clients', provides, in paragraph 9: `In cases where an investment service is offered as part of a financial product which is already subject to other provisions of Community legislation or common European standards related to credit institutions and consumer credits with respect to risk assessment of clients and/or information requirements, this service shall not be additionally subject to the obligations set out in this article.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Directive 2014/65/EU</p>
+        </tblock>
+        <paragraph eId="para_12630">
+          <num>13</num>
+          <content eId="para_12630__content">
+            <p>Recital 87 of Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU ( OJ 2014 L 173, p. 349) states: `Investments that involve contracts of insurance are often made available to customers as potential alternatives or substitutes to financial instruments subject to this directive. To deliver consistent protection for retail clients and ensure a level playing field between similar products, it is important that insurance-based investment products are subject to appropriate requirements. Whereas the investor protection requirements in this directive should therefore be applied equally to those investments packaged under insurance contracts, their different market structures and product characteristics make it more appropriate that detailed requirements are set out in the ongoing review of Directive 2002/92/EC rather than setting them in this directive. Future Union law regulating the activities of insurance intermediaries and insurance undertakings should thus appropriately ensure a consistent regulatory approach concerning the distribution of different financial products which satisfy similar investor needs and therefore raise comparable investor protection challenges. ... Those new requirements for insurance-based investment products should be laid down in Directive 2002/92/EC.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12631">
+          <num>14</num>
+          <content eId="para_12631__content">
+            <p>Article 91 of Directive 2014/65 contains amendments made to Directive 2002/92. The second paragraph of Article 2, point 3, of the latter directive is replaced by the following text: `With the exception of Chapter IIIA of this directive, those activities, when undertaken by an insurance undertaking or an employee of an insurance undertaking who is acting under the responsibility of the insurance undertaking shall not be considered to be insurance mediation or insurance distribution.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12632">
+          <num>15</num>
+          <content eId="para_12632__content">
+            <p>A point 13 is added to Article 2 of Directive 2002/92, defining `insurance-based investment product' as `an insurance product which offers a maturity or surrender value and where that maturity or surrender value is wholly or partially exposed, directly or indirectly, to market fluctuations', subject to certain exceptions.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12633">
+          <num>16</num>
+          <content eId="para_12633__content">
+            <p>A Chapter IIIA, entitled `Additional customer protection requirements in relation to insurance-based investment products', is inserted into Directive 2002/92. Pursuant to Article 13a of that chapter, entitled `Scope': `Subject to the exception in the second subparagraph of Article 2(3), this Chapter lays down additional requirements on insurance mediation activities and to direct sales carried out by insurance undertakings when they are carried out in relation to the sale of insurance-based investment products. Those activities shall be referred to as insurance distribution activities.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Swedish law</p>
+        </tblock>
+        <paragraph eId="para_12634">
+          <num>17</num>
+          <content eId="para_12634__content">
+            <p>Under the second subparagraph of Chapter 1, Paragraph 1, of Lagen (2005:405) om försäkringsförmedling (Law 2005:405 on insurance mediation ( `the FFL'): ```Insurance mediation '' means a professional activity consisting of</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>introducing or proposing insurance contracts or carrying out other work preparatory to conclusion of insurance contracts,</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>concluding insurance contracts on behalf of third parties, or</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>assisting in the administration and performance of insurance contracts.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12635">
+          <num>18</num>
+          <content eId="para_12635__content">
+            <p>Under Chapter 2, Paragraph 1, of the FFL, insurance mediation may, with certain exceptions, be carried out only after authorisation from the Finansinspektionen (Financial Supervisory Authority). That authorisation is subject to certain conditions. It follows from Paragraph 5, point 4, and Paragraph 6, point 2, of that chapter that one of those conditions is that insurance must have been taken out to cover the professional liability of an insurance intermediary who causes damage by failing to fulfil his obligations.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12636">
+          <num>19</num>
+          <content eId="para_12636__content">
+            <p>Chapter 5, Paragraph 4, of the FFL provides that an insurance intermediary must adapt his advice to the wishes and needs of his clients and recommend suitable solutions for them. The intermediary is also to dissuade clients who are natural persons and who have mainly non-commercial purposes from taking out products which cannot be regarded as suitable for their needs, economic situation or other circumstances.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12637">
+          <num>20</num>
+          <content eId="para_12637__content">
+            <p>Under Chapter 5, Paragraph 7, an insurance intermediary who deliberately or negligently fails to fulfil his obligations under Paragraph 4 thereof must make good any purely financial harm which a client, in particular, has suffered as a result of that failure.</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <tblock>
+          <p>The case ofStrobel and OthersvLänsförsäkringar</p>
+        </tblock>
+        <paragraph eId="para_12638">
+          <num>21</num>
+          <content eId="para_12638__content">
+            <p>Connecta Fond och Försäkring AB ( `Connecta'), a registered insurance intermediary, operated principally between 2004 and 2010, having obtained a licence from the Financial Supervisory Authority. It had taken out, with Länsförsäkringar, professional indemnity insurance, as required under the FFL.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12639">
+          <num>22</num>
+          <content eId="para_12639__content">
+            <p>Over the years, a number of people entrusted sums to Connecta to be invested in `Connecta's corporate bond products' which were to be linked to a capital life assurance. In exchange, they received certain documents from Connecta. However, it later transpired that the managing director of Connecta had appropriated those sums. He was reported to the police and Connecta's licence was withdrawn. The managing director died in November 2010. His estate and Connecta were declared insolvent in December 2010. During the period 2004 to 2010, Connecta had also carried out true insurance mediation activity.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12640">
+          <num>23</num>
+          <content eId="para_12640__content">
+            <p>Mr Strobel and Others who thereby lost money brought an action against Länsförsäkringar, seeking compensation under the professional indemnity insurance taken out by Connecta, on the grounds that Connecta had an obligation to pay compensation under Chapter 5, Paragraph 7, of the FFL. They submitted that they had instructed Connecta to invest their money in capital assurance and that the service was therefore one of insurance mediation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12641">
+          <num>24</num>
+          <content eId="para_12641__content">
+            <p>Länsförsäkringar argued, inter alia, that the harm suffered had not arisen as a result of the insured activity, because the products involved were fictive. In its view, the conduct of the managing director of Connecta did not constitute insurance mediation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12642">
+          <num>25</num>
+          <content eId="para_12642__content">
+            <p>Mr Strobel and Others were successful before the court at first instance. That court considered that they intended to take out capital life assurance and that they had had reason to believe that there was a mediation with a view to the conclusion of real insurance contracts. The court at first instance pointed out that, having regard to consumer protection, the justified view taken by Mr Strobel and Others of the intentions of the managing director of Connecta argued for the conclusion that there had been an insurance mediation. That court also held that, since such intermediation includes preparatory work and Connecta had also carried out genuine insurance mediation activity, the facts as they occurred were, objectively, covered by the concept of `insurance mediation'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12643">
+          <num>26</num>
+          <content eId="para_12643__content">
+            <p>Seised of an appeal lodged against that decision, the appeal court held that the principle of consumer protection does not require that importance be accorded to the consumer's subjective opinion on what constitutes insurance mediation and that, in that case, it could not, objectively, be a question of insurance mediation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12644">
+          <num>27</num>
+          <content eId="para_12644__content">
+            <p>The Högsta domstolen (Supreme Court, Sweden) notes that, under Article 2, point 3, of Directive 2002/92, the concept of `insurance mediation' includes also preparatory work and thus does not require, in order for that directive to be applicable, that an insurance contract has actually been concluded. That court nevertheless questions the relevance, in this context, of the intention of the insurance intermediary to conclude such a contract and of the consumer's perception.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The case ofLänsförsäkringarvDödsboet efter Ingvar Mattsson</p>
+        </tblock>
+        <paragraph eId="para_12645">
+          <num>28</num>
+          <content eId="para_12645__content">
+            <p>In January 2010, following advice given by an employee of European Wealth Management Group AB ( `EWMG'), an insurance mediation company, Mr Ingvar Mattsson, as capital life assurance, invested 500000 Swedish kronor (SEK) (approximately EUR 50000) in an investment certificate, which is a structured financial instrument. That investment subsequently lost its entire value.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12646">
+          <num>29</num>
+          <content eId="para_12646__content">
+            <p>EWMG held, with Länsförsäkringar, professional indemnity insurance as required under the FFL. In accordance with the terms of that insurance, it concerns an activity as provided for in that law and consists of an obligation to make good, under Chapter 5, Paragraph 7, thereof .</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12647">
+          <num>30</num>
+          <content eId="para_12647__content">
+            <p>EWMG having been declared insolvent, Mr Mattsson brought an action against Länsförsäkringar. He argued, on the one hand, that EWMG had intentionally or negligently failed to perform its obligations under Chapter 5, Paragraph 4, of the FFL and was therefore bound to pay him compensation. On the other, that conduct constituted an insured event under the professional indemnity insurance taken out by EWMG.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12648">
+          <num>31</num>
+          <content eId="para_12648__content">
+            <p>Länsförsäkringar acknowledged that the mediation as regards capital life assurance itself fell within the scope of the FFL. However, it argued, inter alia, that the advice provided by EWMG did not concern that capital life assurance, but the investment in the financial instrument which was linked to it. Accordingly, that advice was not covered by that professional indemnity insurance.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12649">
+          <num>32</num>
+          <content eId="para_12649__content">
+            <p>Since Mr Mattsson was successful before the court at first instance and the appeal court, Länsförsäkringar lodged an appeal before the Högsta domstolen (Supreme Court), while acknowledging that EWMG had acted negligently. That court queries whether the advice provided in the context of capital life assurance, which does not itself concern the signature of the insurance contract, but the placing of capital, falls within the scope of Directive 2002/92, which is transposed into Swedish law by the FFL, or of Directive 2004/39, or indeed of both those directives.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12650">
+          <num>33</num>
+          <content eId="para_12650__content">
+            <p>In those circumstances, the Högsta domstolen (Supreme Court) decided to refer the following questions to the Court for a preliminary ruling: `(1)(a) Does Directive 2002/92 cover activity where an insurance intermediary had no intention of concluding a genuine insurance contract? Is it relevant whether such an intention was absent before the activity was commenced or came into being only subsequently?</p>
+            <blockList>
+              <item>
+                <num>(b)</num>
+                <p>In the situation envisaged in question 1(a), is it relevant if the intermediary has also carried out proper insurance mediation activity alongside the fictive activity?</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>Also in the situation envisaged in question 1(a), is it relevant that the activity appeared, prima facie, to the client to be work preparatory to the conclusion of an insurance contract? Is the client's understanding, be it well founded or unfounded, of whether insurance mediation was involved of any relevance?(2)(a) Does Directive 2002/92 govern advice, economic or other, given in connection with insurance mediation but which as such does not concern the actual signing or continuation of an insurance contract? In that regard, what does apply, in particular, as regards advice concerning the placing of capital in the context of capital life assurance?</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(b)</num>
+                <p>Is advice such as that referred to in question 2(a), where, by definition, it constitutes investment advice under Directive 2004/39, also or instead covered by the provisions of that directive? If such advice is also covered by Directive 2004/39, does one set of rules take precedence over the other?'</p>
+                <tblock>
+                  <p>Consideration of the questions referred</p>
+                </tblock>
+                <tblock>
+                  <p>The first question</p>
+                </tblock>
+                <p>34 By its first question, of which it is appropriate to examine all the parts together, the referring court asks, in essence, whether Article 2, point 3, of Directive 2002/92 must be interpreted as meaning that the concept of `insurance mediation' covers work preparatory to the conclusion of an insurance contract, even in the absence of any intention of the insurance intermediary concerned to conclude a genuine insurance contract.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12651">
+          <num>35</num>
+          <content eId="para_12651__content">
+            <p>As is apparent from Article 1(1) of Directive 2002/92, its scope includes, inter alia, the pursuit of the activity of insurance mediation, for which that directive lays down rules.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12652">
+          <num>36</num>
+          <content eId="para_12652__content">
+            <p>To that end, the concept of `insurance mediation' is defined in the first paragraph of Article 2, point 3, of that directive as being `the activities of proposing or carrying out other work preparatory to the conclusion of contracts of insurance, or of concluding such contracts or of assisting in the administration and performance of such contracts, in particular in the event of a claim'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12653">
+          <num>37</num>
+          <content eId="para_12653__content">
+            <p>It follows from the fact that the activities listed in this provision are presented as alternatives that each constitutes in itself an insurance mediation activity. As the referring court and all the interested parties referred to in Article 23 of the Statute of the Court of Justice of the European Union who have submitted written observations on that issue agree, the performance of work preparatory to the conclusion of insurance contracts falls within the concept of `insurance mediation', whether or not it results in the conclusion of such contracts.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12654">
+          <num>38</num>
+          <content eId="para_12654__content">
+            <p>However, Länsförsäkringar is of the view that such preparatory work constitutes insurance mediation within the meaning of Article 2, point 3, of Directive 2002/92 only if, by performing it, the insurance intermediary intends to conclude genuine insurance contracts. It is therefore of the opinion that, in the case of Strobel and Others v Länsförsäkringar, there was no insurance mediation since the managing director of Connecta appropriated the amounts paid by Mr Strobel and Others in that case when those amounts were intended for the conclusion of such contracts.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12655">
+          <num>39</num>
+          <content eId="para_12655__content">
+            <p>In order to determine whether the pursuit of insurance mediation activity consisting of carrying out work preparatory to the conclusion of insurance contracts, within the meaning of that provision, is subject to the existence of an intention on the part of the insurance intermediary to conclude those contracts, it must be borne in mind that the Court has consistently held that, in interpreting a provision of EU law, it is necessary to consider not only its wording but also the context in which it occurs and the objectives pursued by the rules of which it is part (see, inter alia, judgment of 23 January 2018, Piotrowski, C‑367/16, EU:C:2018:27, paragraph 40 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12656">
+          <num>40</num>
+          <content eId="para_12656__content">
+            <p>As regards, firstly, the wording of Article 2, point 3, of Directive 2002/92, it follows from, in particular, the terms `activity', `introducing', `proposing', `carrying out' and `assisting' that the concept of `insurance mediation' is defined therein by reference only to the steps objectively taken by the insurance intermediary. However, there is no term in that provision which can be interpreted as indicating that, in order to be classified as insurance mediation, the activities set out therein must be accompanied by a specific intention on the part of that intermediary.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12657">
+          <num>41</num>
+          <content eId="para_12657__content">
+            <p>Next, as regards the context of that provision, Article 4(4) of Directive 2002/92 requires Member States to take all necessary measures to protect customers against the inability of the insurance intermediary to transfer the premium to the insurance undertaking. In the absence of any stipulation to the contrary, it must be held that that provision is intended to protect customers against any failure of the intermediary to carry out such a transfer, whatever the reason. Consequently, that protection must also cover the failure to transfer the premium to the insurance undertaking where an employee of the insurance intermediary company has appropriated the premium during the work preparatory to the conclusion of an insurance contract.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12658">
+          <num>42</num>
+          <content eId="para_12658__content">
+            <p>Finally, it should be recalled that that directive is intended in particular, as is apparent from recitals 8, 9 and 17 thereof, to enhance consumer protection in the area of insurance mediation. To this end, as set out in recital 9 thereto, any person or any institution distributing insurance products must be covered by that directive. Firstly, to make the inclusion of an activity within the scope of this directive subject to the subjective intention of the insurance intermediary who pursues it would run counter to the principle of legal certainty, to the detriment of that intermediary's clients. Secondly, as the European Commission observes, such a legal position would mean that the insurance intermediary could invoke his own fraudulent behaviour to escape his liability with regard to his customers by virtue of Directive 2002/92.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12659">
+          <num>43</num>
+          <content eId="para_12659__content">
+            <p>It follows from the foregoing that carrying out work preparatory to the conclusion of insurance contracts is an objective concept. It therefore constitutes an insurance mediation activity, within the meaning of Article 2, point 3, of that directive, whatever the intention of the insurance intermediary as regards the conclusion or not of those contracts.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12660">
+          <num>44</num>
+          <content eId="para_12660__content">
+            <p>It follows therefrom that the time of the lack of intention of the intermediary to conclude insurance contracts and the subjective perception of the clients concerned as regards that intermediary's carrying out of work preparatory to the conclusion of insurance contracts are irrelevant for the purpose of classifying that activity as insurance mediation, within the meaning of that provision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12661">
+          <num>45</num>
+          <content eId="para_12661__content">
+            <p>Consequently, the answer to the first question is that Article 2, point 3, of Directive 2002/92 must be interpreted as meaning that the concept of `insurance mediation' includes work preparatory to the conclusion of an insurance contract, even in the absence of any intention on the part of the insurance intermediary concerned to conclude a genuine insurance contract.</p>
+            <tblock>
+              <p>The second question</p>
+            </tblock>
+            <p>46 By its second question, of which it is appropriate to examine the two parts together, the referring court asks, in essence, whether the financial advice relating to the placement of capital given as part of insurance mediation concerning the conclusion of a capital life assurance contract falls within the scope of Directive 2002/92 or of Directive 2004/39 and, should they fall within the scope of each of those directives, whether the application of one of those directives should take precedence over the other.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The application of Directive 2002/92</p>
+        </tblock>
+        <paragraph eId="para_12662">
+          <num>47</num>
+          <content eId="para_12662__content">
+            <p>As is apparent from paragraphs 35 and 36 of this judgment, in order to fall within the material scope of Directive 2002/92, an activity must correspond to one of those referred to in Article 2, point 3, of that directive, which defines the concept of `insurance mediation'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12663">
+          <num>48</num>
+          <content eId="para_12663__content">
+            <p>Since all the activities listed in that provision relate to an insurance contract, it must first be examined whether a capital life assurance contract, such as that at issue in the main proceedings, constitutes an `insurance contract' within the meaning of that provision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12664">
+          <num>49</num>
+          <content eId="para_12664__content">
+            <p>In that regard, it must be recalled that Directive 2002/92 does not contain any definition of the concept of `insurance contract', nor does it refer expressly to the law of the Member States on that issue. Thus, as dictated by the requirements of both uniform application of EU law and the principle of equality, the scope of the term `insurance contract' must be sought having regard to the context of the directive and must be given an autonomous and uniform interpretation throughout the European Union (see, by analogy, judgment of 1 March 2012, González Alonso, C‑166/11, EU:C:2012:119, paragraph 25 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12665">
+          <num>50</num>
+          <content eId="para_12665__content">
+            <p>However, the Court has already had occasion, in various contexts, to rule that the essentials of an insurance transaction are, as generally understood, that the insurer undertakes, in return for prior payment of a premium, to provide the insured, in the event of materialisation of the risk covered, with the service agreed when the contract was concluded (judgments of 25 February 1999, CPP, C‑349/96, EU:C:1999:93, paragraph 17, and of 26 March 2015, Litaksa, C‑556/13, EU:C:2015:202, paragraph 28). Such transactions necessarily imply the existence of a contractual relationship between the provider of the insurance service and the person whose risks are covered by the insurance, that is to say, the insured party (judgment of 17 March 2016, Aspiro, C‑40/15, EU:C:2016:172, paragraphs 23 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12666">
+          <num>51</num>
+          <content eId="para_12666__content">
+            <p>It follows that, in order to fall within the concept of `insurance contract' referred to in Article 2, point 3, of Directive 2002/92, a capital life assurance contract, such as that at issue in the main proceedings, must stipulate the payment of a premium by the insured party and, in return for that payment, the supply of a service by the insurer in the event of the death of the insured party or the occurrence of another event specified in that contract. In the present case, it appears, subject to verification by the referring court, that the contract at issue in the main proceedings constitutes an insurance contract within the meaning of that provision, which is, moreover, not disputed by Länsförsäkringar.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12667">
+          <num>52</num>
+          <content eId="para_12667__content">
+            <p>Thus, the question arises, secondly, whether financial advice, such as that at issue in the main proceedings, may fall within the activities listed in Article 2, point 3, of Directive 2002/92, where it is given in the context of insurance mediation relating to the conclusion of a capital life assurance contract.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12668">
+          <num>53</num>
+          <content eId="para_12668__content">
+            <p>In that regard, it must be noted that those activities are described in broad terms. In particular, they consist not only in the introduction and proposing of insurance contracts but also in carrying out other work preparatory to the conclusion thereof, without the type of preparatory work referred to being limited in any way.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12669">
+          <num>54</num>
+          <content eId="para_12669__content">
+            <p>The referring court states that the financial advice at issue in the main proceedings related to the placement of capital in an investment certificate in the context of insurance mediation. Furthermore, it is apparent from the written observations of the Swedish Government that that capital consisted of insurance premiums paid in the product in question. Accordingly, the view must be taken that that placement forms an integral part of the insurance contract and that, consequently, the investment advice relating to that placement constitutes work preparatory to the conclusion of that insurance contract.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12670">
+          <num>55</num>
+          <content eId="para_12670__content">
+            <p>Such an interpretation is, moreover, consistent with the objective pursued by Directive 2002/92, as recalled in paragraph 42 of this judgment, seeking the enhancement of consumer protection in the field of insurance mediation. It follows therefrom that the advice in question is subject, in particular, to the requirements set out in Article 12(2) and (3) of that directive, under which, when the insurance intermediary informs the customer that he gives his advice on the basis of a fair analysis, he is obliged, on the one hand, to give that advice on the basis of an analysis of a sufficiently large number of insurance contracts available on the market, to enable him to make a recommendation regarding which insurance contract would be adequate to meet the customer's needs and, on the other, he must at least specify, prior to the conclusion of any specific contract, the demands and the needs of that customer as well as the underlying reasons for any advice given to the customer on a given insurance product, and those details must be modulated according to the complexity of the contract being proposed</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12671">
+          <num>56</num>
+          <content eId="para_12671__content">
+            <p>The interpretation referred to in paragraph 54 of this judgment is also borne out by Directive 2014/65, which was not in force at the time of the facts in the main proceedings, which amended Directive 2002/92 by adding a new Chapter IIIA, entitled `Additional customer protection requirements in relation to insurance-based investment products'. Those products are now defined in Article 2 of Directive 2002/92, in a new point 13, as insurance products which offer a maturity or surrender value which is wholly or partially exposed, directly or indirectly, to market fluctuations.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12672">
+          <num>57</num>
+          <content eId="para_12672__content">
+            <p>It follows from that definition that an insurance-based investment product, like the capital life assurance contract at issue in the main proceedings, involves an investment element which is subject to financial market developments. Nevertheless, Directive 2014/65 did not introduce any amendment to the definition of insurance mediation contained in the first subparagraph of Article 2, point 3, of Directive 2002/92, which means that advice on such an investment element constitutes an insurance mediation activity defined in that provision. Moreover, the fact that Chapter IIIA contains `additional' requirements in relation to insurance-based investment products indicates that the mediation of such products already fell within the scope of Directive 2002/92 prior to its amendment by Directive 2014/65.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12673">
+          <num>58</num>
+          <content eId="para_12673__content">
+            <p>It follows from the foregoing considerations that the financial advice relating to the placement of capital provided in the context of insurance mediation relating to the conclusion of a capital life assurance contract falls within the scope of Directive 2002/92.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The application of Directive 2004/39</p>
+        </tblock>
+        <paragraph eId="para_12674">
+          <num>59</num>
+          <content eId="para_12674__content">
+            <p>As regards Directive 2004/39, it is true that the financial advice at issue in the main proceedings is in itself capable of falling within the concept of `investment advice', as defined in Article 4(1), point 4, of that directive, provided that the investment concerned can be classified as a `financial instrument' which, in accordance with point 17 of that paragraph, is referred to in Section C of Annex I to that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12675">
+          <num>60</num>
+          <content eId="para_12675__content">
+            <p>Such financial advice could therefore, in principle, come within the material scope of Directive 2004/39 in so far as, under Article 4(1), point 2, and Section A, point 5, of Annex I to that directive, it constitutes an investment service and where, in accordance with point 1 of that paragraph, an insurance intermediary can be classified as an `investment firm' where the latter provides such advice as a regular occupation or business activity.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12676">
+          <num>61</num>
+          <content eId="para_12676__content">
+            <p>Nonetheless, Article 2(c) of Directive 2004/39 excludes from its scope persons providing an investment service where that service is provided incidentally in the course of a professional activity and that activity is regulated by legal or regulatory provisions or a code of ethics governing the profession which do not exclude the provision of that service.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12677">
+          <num>62</num>
+          <content eId="para_12677__content">
+            <p>However, it must be stated that the professional activity of an insurance intermediary consists, under Article 2, point 5, of Directive 2002/92 in insurance mediation. In so far as such an intermediary offers, among the insurance products available, a product such as the capital life assurance at issue in the main proceedings, it must be held that advice on the investment of the capital used in that product is provided incidentally, since it is provided in the context of mediation on the conclusion of an insurance contract, an activity which is subject to legislative provisions of EU law, namely those of Directive 2002/92.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12678">
+          <num>63</num>
+          <content eId="para_12678__content">
+            <p>The fact, pointed out by the Swedish Government in its written observations, that an insurance intermediary provides such advice on a regular or frequent basis is therefore irrelevant, since it is given each time in the context of mediation of the conclusion of an insurance contract.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12679">
+          <num>64</num>
+          <content eId="para_12679__content">
+            <p>The exclusion laid down in Article 2(c) of Directive 2004/39 is, furthermore, in compliance with the scheme of the directive inasmuch as, under certain conditions, the investment services or activities which are offered in the context of another regulated activity are excluded from the scope or the obligations of that directive. Thus, Article 2(j) of that directive provides for the exclusion from the scope of the directive of persons providing investment advice in the course of the exercise of another professional activity not covered by the directive, provided that the provision of such advice is not specifically remunerated.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12680">
+          <num>65</num>
+          <content eId="para_12680__content">
+            <p>Similarly, Article 19(9) of Directive 2004/39 provides that an investment service offered as part of another financial product which is already subject to other provisions of EU legislation or common European standards is not to be additionally subject to the obligations set out in Article 19 even if those obligations are not identical to those provided for in those provisions or standards (see, to that effect, judgment of 30 May 2013, Genil 48 and Comercial Hostelera de Grandes Vinos, C‑604/11, EU:C:2013:344, paragraphs 45 and 46).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12681">
+          <num>66</num>
+          <content eId="para_12681__content">
+            <p>Contrary to the submissions of Länsförsäkringar and the Swedish Government in their written observations, the assertion that the provisions of Directive 2004/39 lay down rules of protection in matters of investment services which are broader than those referred to in Directive 2002/92, even if it were correct, cannot of itself bring advice, such as that at issue in the main proceedings, within the scope of Directive 2004/39, of which Article 2(c) excludes such advice when it is given in the context of insurance mediation relating to the conclusion of a capital life assurance contract.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12682">
+          <num>67</num>
+          <content eId="para_12682__content">
+            <p>In that regard, Directive 2014/65, which repeals and recasts Directive 2004/39, as is apparent from recital 87 thereof, has introduced into Directive 2002/92 new requirements enhancing investor protection in relation to insurance-based investment products, in order to ensure, in EU law regulating the activities of insurance intermediaries and insurance undertakings, a consistent regulatory approach concerning the distribution of different financial products.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12683">
+          <num>68</num>
+          <content eId="para_12683__content">
+            <p>Moreover, that recital supports the interpretation that the advice at issue in the main proceedings does not fall within the scope of Directive 2004/39 since it states that the requirements of Directive 2014/65 concerning investor protection should apply equally to insurance-based investment products, which implies that those products were not subject to the rules of protection laid down in Directive 2004/39.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12684">
+          <num>69</num>
+          <content eId="para_12684__content">
+            <p>It follows from the foregoing that the financial advice relating to the placement of capital in the context of insurance mediation relating to the conclusion of a capital life assurance contract does not fall within the scope of Directive 2004/39.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12685">
+          <num>70</num>
+          <content eId="para_12685__content">
+            <p>Consequently, the answer to the second question is that financial advice relating to the placement of capital in the context of insurance mediation relating to the conclusion of a capital life assurance contract falls within the scope of Directive 2002/92 and not that of Directive 2004/39.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_12686">
+          <num>71</num>
+          <content eId="para_12686__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Fourth Chamber) hereby rules: 1. Article 2, point 3, of Directive 2002/92/EC of the European Parliament and of the Council of 9 December 2002 on insurance mediation must be interpreted as meaning that the concept of `insurance mediation' includes work preparatory to the conclusion of an insurance contract, even in the absence of any intention on the part of the insurance intermediary concerned to conclude a genuine insurance contract. 2. Financial advice relating to the placement of capital in the context of insurance mediation relating to the conclusion of a capital life assurance contract falls within the scope of Directive 2002/92 and not that of Directive 2004/39/EC of the European Parliament and of the Council of 21 April 2004 on markets in financial instruments amending Council Directives 85/611/EEC and 93/6/EEC and Directive 2000/12/EC of the European Parliament and of the Council and repealing Council Directive 93/22/EEC.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Swedish.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

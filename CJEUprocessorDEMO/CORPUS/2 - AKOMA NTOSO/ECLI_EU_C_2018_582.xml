@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Grand Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>25 July 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- State aid -- Scheme for the support of renewable electricity sources and energy-intensive users -- Decision (EU) 2015/1585 -- Validity in the light of Article 107 TFEU -- Admissibility -- Failure by the applicants in the main proceedings to bring an action for annulment) In Case C‑135/16, REQUEST for a preliminary ruling under Article 267 TFEU from the Verwaltungsgericht Frankfurt am Main (Higher Regional Court, Frankfurt am Main, Germany), made by decision of 23 February 2016, received at the Court on 7 March 2016, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">Georgsmarienhütte GmbH</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="appellant" refersTo="#">Stahlwerk Bous GmbH</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="appellant" refersTo="#">Schmiedag GmbH</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="appellant" refersTo="#">Harz Guss Zorge GmbH</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#">Bundesrepublik Deutschland</party>
+      </p>
+      <p>, THE COURT (Grand Chamber), composed of K. Lenaerts, President, R. Silva de Lapuerta, M. Ilešič, J.L. da Cruz Vilaça (Rapporteur), A. Rosas and J. Malenovský, Presidents of Chambers, E. Juhász, A. Borg Barthet, D. Šváby, A. Prechal and C. Lycourgos, Judges, Advocate General: M. Campos Sánchez-Bordona, Registrar: M. Aleksejev, Administrator, having regard to the written procedure and further to the hearing on 5 December 2017, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>Georgsmarienhütte GmbH, Stahlwerk Bous GmbH, Schmiedag GmbH, and Harz Guss Zorge GmbH, by H. Höfler and H. Fischer, Rechtsanwälte,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the German Government, by T. Henze and R. Kanitz, acting as Agents, and by T. Lübbig, Rechtsanwalt,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by T. Maxian Rusche and K. Herrmann, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 27 February 2018,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_16672">
+          <num>1</num>
+          <content eId="para_16672__content">
+            <p>This request for a preliminary ruling concerns the validity of Commission Decision (EU) 2015/1585 of 25 November 2014 in State aid proceedings SA.33995 (2013/C) (ex 2013/NN) [implemented by Germany for the support of renewable electricity and energy-intensive users] ( OJ 2015 L 250, p. 122, `the contested decision').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16673">
+          <num>2</num>
+          <content eId="para_16673__content">
+            <p>The request has been made in proceedings between four companies of the Georgsmarienhütte group, namely Georgsmarienhütte GmbH, Stahlwerk Bous GmbH, Schmiedag GmbH and Harz Guss Zorge GmbH, and the Bundesrepublik Deutschland (Federal Republic of Germany) concerning the recovery, following the adoption of the contested decision, of unlawful aid declared incompatible with the internal market which was granted to those companies.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>German law</p>
+        </tblock>
+        <paragraph eId="para_16674">
+          <num>3</num>
+          <content eId="para_16674__content">
+            <p>It is apparent from the order for reference that the Gesetz zur Neuregelung des Rechtsrahmens für die Förderung der Stromerzeugung aus erneuerbaren Energien (Law revising the legal framework for the promotion of electricity production from renewable energy) (BGBl. 2011 I, p. 1634, `the EEG 2012'), in essence, provides for a mechanism to offset the costs stemming from the generation of electricity from renewable energy sources at the federal level. The mechanism is based, in particular, on a levy ( `the EEG-surcharge'), which represents a cost which is in principle passed on by electricity suppliers to purchasers and end consumers of electricity.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16675">
+          <num>4</num>
+          <content eId="para_16675__content">
+            <p>By way of exception, under a special compensation scheme, the EEG 2012 permits, under Paragraphs 40, 41 and 43 thereof, the capping of the EEG-surcharge for electricity-intensive industries that are large energy consumers ( `EEIs'). The cap is intended to limit the energy costs of those companies and thus preserve their international competitiveness.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16676">
+          <num>5</num>
+          <content eId="para_16676__content">
+            <p>The EEG 2012 provides, in Paragraph 40 thereof, that the EEG-surcharge is to be capped upon application to the Bundesamt für Wirtschaft und Ausfuhrkontrolle (Federal Office of Economics and Export Control, Germany) ( `BAFA').</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the question referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_16677">
+          <num>6</num>
+          <content eId="para_16677__content">
+            <p>The applicants in the main proceedings are four companies belonging to the Georgsmarienhütte group. Their activity consists in the production, smelting and processing of steel; in 2013 and 2014, they benefited from a cap on the EEG-surcharge, granted by decisions of BAFA.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16678">
+          <num>7</num>
+          <content eId="para_16678__content">
+            <p>The decisions to cap the EEG-surcharge were however revoked with retroactive effect, in respect of part of the amounts at issue, by BAFA decisions of 25 November 2014 ( `the partial revocation decisions'). BAFA also dismissed the complaints submitted by the applicants in the main proceedings against the partial revocation decisions.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16679">
+          <num>8</num>
+          <content eId="para_16679__content">
+            <p>The partial revocation decisions were adopted pursuant to the contested decision, by which the Commission held that, in particular, the special compensation scheme in favour of EEIs constituted unlawful State aid, and ordered the Federal Republic of Germany to recover the aid declared incompatible with the internal market from the recipients thereof.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16680">
+          <num>9</num>
+          <content eId="para_16680__content">
+            <p>More specifically, by the contested decision, the Commission found that the aid consisting of reductions in the EEG-surcharge for EEIs is compatible with the internal market where it falls within one of the four categories mentioned in Article 3(1) of that decision. Pursuant to Article 3(2) of that decision, any aid that does not fall within the categories referred to in Article 3(1) is incompatible with the internal market; the Federal Republic of Germany, according to Articles 6 and 7 of that decision, was therefore required to recover the incompatible aid from the recipients, in accordance with the procedures laid down in Annex III to the contested decision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16681">
+          <num>10</num>
+          <content eId="para_16681__content">
+            <p>The applicants in the main proceedings brought an action before the Verwaltungsgericht Frankfurt am Main (Administrative Court, Frankfurt am Main, Germany), directed in particular against the partial revocation decisions.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16682">
+          <num>11</num>
+          <content eId="para_16682__content">
+            <p>Before that court, the applicants raised doubts as to the classification by the Commission of the cap on the EEG-surcharge as `State aid', within the meaning of Article 107 TFEU. In those circumstances, the Verwaltungsgericht Frankfurt am Main (Administrative Court, Frankfurt am Main) decided to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling: `Does the [contested] decision breach the [TFEU] in so far as the Commission qualifies the limitation of the EEG-surcharge as aid within the meaning of Article 107 TFEU?'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Admissibility of the request for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_16683">
+          <num>12</num>
+          <content eId="para_16683__content">
+            <p>The case in the main proceedings concerns, in essence, the validity of the contested decision in that it classified the cap on the EEG-surcharge as `State aid' within the meaning of Article 107 TFEU.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16684">
+          <num>13</num>
+          <content eId="para_16684__content">
+            <p>The Commission, relying on the judgment of 9 March 1994, TWD Textilwerke Deggendorf ( C‑188/92, EU:C:1994:90), submits that the request for a preliminary ruling is inadmissible on the ground that the applicants in the main proceedings did not bring an action for annulment against the contested decision before the General Court of the European Union.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16685">
+          <num>14</num>
+          <content eId="para_16685__content">
+            <p>It should be noted that, in paragraph 17 of that judgment, delivered in a case bearing similarities to the case in the main proceedings, the Court in essence held that, in particular for reasons of legal certainty, it is not possible for a recipient of State aid -- which was the subject of a Commission decision that was directly addressed solely to the Member State from which that recipient comes -- who could undoubtedly have challenged that decision on the basis of Article 263 TFEU and who allowed the mandatory period provided for in the sixth paragraph of that provision to lapse, effectively to call into question the legality of that decision before the national courts, in an action brought against the national measures implementing that decision (see, also, judgment of 15 February 2001, Nachi Europe, C‑239/99, EU:C:2001:101, paragraph 30, and of 5 March 2015, Banco Privado Português and Massa Insolvente do Banco Privado Português, C‑667/13, EU:C:2015:151, paragraph 28).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16686">
+          <num>15</num>
+          <content eId="para_16686__content">
+            <p>In particular, the Court held that, in such a case, to find otherwise would enable the recipient of the aid to overcome the definitive nature which a decision necessarily assumes, by virtue of the principle of legal certainty, once the time limit laid down for bringing proceedings has passed (judgments of 15 February 2001, Nachi Europe, C‑239/99, EU:C:2001:101, paragraph 30, and of 5 March 2015, Banco Privado Português and Massa Insolvente do Banco Privado Português, C‑667/13, EU:C:2015:151, paragraph 28 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16687">
+          <num>16</num>
+          <content eId="para_16687__content">
+            <p>However, the exception referred to in paragraph 14 above is also justified where the recipient of the aid relies, before a national court, on the invalidity of the Commission decision before the expiry of the time limit for challenging that decision, provided for in the sixth paragraph of Article 263 TFEU.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16688">
+          <num>17</num>
+          <content eId="para_16688__content">
+            <p>Thus, the possibility for a person to rely, in an action brought before a national court, on the invalidity of provisions contained in a measure of the European Union, which constitutes the basis of a national decision taken concerning him, presupposes either that he has also brought, pursuant to the fourth paragraph of Article 263 TFEU, an action for annulment of that EU measure within the prescribed time limits, or that he has not done so, as a result of not having the right to bring such an action (see, to that effect, judgments of 29 June 2010, E and F, C‑550/09, EU:C:2010:382, paragraphs 46 and 48; of 17 February 2011, Bolton Alimentari, C‑494/09, EU:C:2011:87, paragraphs 22 and 23; and of 28 March 2017, Rosneft, C‑72/15, EU:C:2017:236, paragraph 67 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16689">
+          <num>18</num>
+          <content eId="para_16689__content">
+            <p>Consequently, where a person seeking to challenge an EU measure undoubtedly has standing under the fourth paragraph of Article 263 TFEU, that person is bound to make use of the remedy provided for in that provision by bringing an action before the General Court.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16690">
+          <num>19</num>
+          <content eId="para_16690__content">
+            <p>As observed in essence by the Advocate General in points 40 to 44 of his Opinion, the action for annulment, which is complemented by the possibility of appealing against the ruling of the General Court, provides a particularly appropriate procedural framework for the thorough examination, both parties being duly heard, of legal and factual questions, particularly in technical and complex fields such as State aid, as is apparent from the third recital of Council Decision 88/591/ECSC, EEC, Euratom of 24 October 1988 establishing a Court of First Instance of the European Communities ( OJ 1988 L 319, p. 1).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16691">
+          <num>20</num>
+          <content eId="para_16691__content">
+            <p>It should, however, be stated that this finding is without prejudice to the role of the request for a preliminary ruling in the structure of the Courts of the European Union.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16692">
+          <num>21</num>
+          <content eId="para_16692__content">
+            <p>The preliminary ruling procedure provided for under Article 267 TFEU establishes between the Court of Justice and the national courts direct cooperation as part of which the latter are closely involved in the correct application and uniform interpretation of European Union law and also in the protection of individual rights conferred by that legal order (Opinion 1/09 of 8 March 2011, EU:C:2011:123, paragraph 84).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16693">
+          <num>22</num>
+          <content eId="para_16693__content">
+            <p>It follows that the need for a natural or legal person to bring an action for annulment on the basis of Article 263 TFEU in order to challenge the legality of an EU measure, when that person undoubtedly has standing within the meaning of the fourth paragraph of that article, is without prejudice to the possibility for that person to challenge the legality of national measures implementing that measure before the national courts having jurisdiction.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16694">
+          <num>23</num>
+          <content eId="para_16694__content">
+            <p>Moreover, it has been held that the recipient of State aid who brings, within the period laid down in the sixth paragraph of Article 263 TFEU, an action for annulment before the General Court against a Commission decision declaring that aid incompatible with the internal market cannot be regarded as seeking to circumvent the definitive nature of that decision on the ground that it is also contesting the validity of that decision before the referring court (see, to that effect, judgment of 5 March 2015, Banco Privado Português and Massa Insolvente do Banco Privado Português, C‑667/13, EU:C:2015:151, paragraph 29).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16695">
+          <num>24</num>
+          <content eId="para_16695__content">
+            <p>It should again be recalled that, where the outcome of the dispute before the national court depends on the validity of the Commission decision, it follows from the obligation of sincere cooperation that the national court should, in order to avoid reaching a decision that runs counter to the Commission decision, stay its proceedings pending final judgment in the action for annulment before the Courts of the European Union, unless it takes the view that, in the circumstances of the case, a reference to the Court of Justice for a preliminary ruling on the validity of the Commission decision is warranted (judgment of 14 December 2000, Masterfoods and HB, C‑344/98, EU:C:2000:689, paragraph 57).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16696">
+          <num>25</num>
+          <content eId="para_16696__content">
+            <p>It should also be noted that, for the reasons mentioned in paragraph 19 of the present judgment, in the event of proceedings being brought concurrently before the General Court in the context of an action for annulment and the Court of Justice in the context of a request for a preliminary ruling on validity, the principle of good administration may warrant the Court having recourse, if it considers it appropriate to do so, to the third paragraph of Article 54 of the Statute of the Court of Justice of the European Union in order to stay the proceedings before it, in order to give preference to the proceedings before the General Court.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16697">
+          <num>26</num>
+          <content eId="para_16697__content">
+            <p>In the case in the main proceedings, it is therefore appropriate to examine, in the light of the considerations set out in paragraphs 14 to 19 of the present judgment, whether the applicants in the main proceedings undoubtedly had standing to bring an action for annulment of the contested decision before the General Court, on the basis of Article 263 TFEU (see, to that effect, judgment of 14 March 2017, A and Others, C‑158/14, EU:C:2017:202, paragraphs 66 and 67, and the case-law cited), irrespective of whether the applicants brought their action before the national courts before the expiry of the period prescribed for bringing an action before the General Court.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16698">
+          <num>27</num>
+          <content eId="para_16698__content">
+            <p>In that regard, it follows from the fourth paragraph of Article 263 TFEU that a natural or legal person may institute proceedings against a decision addressed to another only if the decision is of direct and individual concern to that natural or legal person.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16699">
+          <num>28</num>
+          <content eId="para_16699__content">
+            <p>In the present case, Article 10 of the contested decision expressly provides that the Federal Republic of Germany is the addressee of that decision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16700">
+          <num>29</num>
+          <content eId="para_16700__content">
+            <p>However, it should be noted, first, that Articles 6 and 7 of the contested decision instruct the Federal Republic of Germany to recover the incompatible aid granted, as a result of which the German authorities were required, without having any margin of discretion, to recover that aid in accordance with the procedures set out in Annex III to the contested decision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16701">
+          <num>30</num>
+          <content eId="para_16701__content">
+            <p>Consequently, the applicants in the main proceedings must be regarded as directly concerned by that decision (see, to that effect, judgments of 19 October 2000, Italy and Sardegna Lines v Commission, C‑15/98 and C‑105/99, EU:C:2000:570, paragraph 36; of 17 September 2009, Commission v Koninklijke FrieslandCampina, C‑519/07 P, EU:C:2009:556, paragraphs 48 and 49; and of 27 February 2014, Stichting Woonlinie and Others v Commission, C‑133/12 P, EU:C:2014:105, paragraphs 60 and 61).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16702">
+          <num>31</num>
+          <content eId="para_16702__content">
+            <p>Secondly, it should be recalled that persons other than those to whom a decision is addressed may claim to be individually concerned only if that decision affects them by reason of certain attributes which are peculiar to them or by reason of circumstances in which they are differentiated from all other persons and, by virtue of these factors, distinguishes them individually just as in the case of the person addressed (judgments of 15 July 1963, Plaumann v Commission, 25/62, EU:C:1963:17, p. 107, and of 29 April 2004, Italy v Commission, C‑298/00 P, EU:C:2004:240, paragraph 36 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16703">
+          <num>32</num>
+          <content eId="para_16703__content">
+            <p>In particular, it has been held that, where the decision affects a group of persons who were identified or identifiable when that measure was adopted by reason of criteria specific to the members of the group, those persons might be individually concerned by that measure inasmuch as they form part of a limited class of economic operators (judgment of 17 September 2009, Commission v Koninklijke FrieslandCampina, C‑519/07 P, EU:C:2009:556, paragraph 54 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16704">
+          <num>33</num>
+          <content eId="para_16704__content">
+            <p>Thus, the actual beneficiaries of individual aid, granted under an aid scheme, of which the Commission has ordered the recovery are, accordingly, individually concerned within the meaning of the fourth paragraph of Article 263 TFEU. The recovery obligation imposed by a Commission decision in respect of an aid scheme sufficiently singles out all the beneficiaries of the scheme in question, in that they are exposed, as soon as that decision is adopted, to the risk that the benefits which they have received will be recovered, and their legal position is thus affected (see, to that effect, judgments of 9 June 2011, Comitato `Venezia vuole vivere' and Others v Commission, C‑71/09 P, C‑73/09 P and C‑76/09 P, EU:C:2011:368, paragraphs 53 and 56, and of 21 December 2011, A2A v Commission, C‑320/09 P, not published, EU:C:2011:858, paragraphs 58 and 59).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16705">
+          <num>34</num>
+          <content eId="para_16705__content">
+            <p>It is not disputed that the applicants in the main proceedings benefited from individual decisions granted by BAFA enabling them to have the EEG-surcharge capped.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16706">
+          <num>35</num>
+          <content eId="para_16706__content">
+            <p>The Commission specifically classified that cap as `aid incompatible with the internal market' and ordered its recovery in accordance with the provisions in the contested decision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16707">
+          <num>36</num>
+          <content eId="para_16707__content">
+            <p>Accordingly, the applicants in the main proceedings are not only concerned by the contested decision in that they are EEIs forming part of the energy sector affected by the aid scheme examined in that decision. They are individually concerned as actual recipients of the aid granted under that scheme, of which the Commission has ordered the recovery (see, to that effect, judgments of 19 October 2000, Italy and Sardegna Lines v Commission, C‑15/98 and C‑105/99, EU:C:2000:570, paragraph 34, and of 29 April 2004, Italy v Commission, C‑298/00 P, EU:C:2004:240, paragraph 39).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16708">
+          <num>37</num>
+          <content eId="para_16708__content">
+            <p>It follows from the foregoing that the applicants in the main proceedings undoubtedly had standing to seek the annulment of the contested decision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16709">
+          <num>38</num>
+          <content eId="para_16709__content">
+            <p>It is admittedly not disputed that each of the applicants in the main proceedings brought an action before the General Court for the annulment of Commission Decision C(2013) 4424 final of 18 December 2013 to initiate the formal investigation procedure provided for in Article 108(2) TFEU in respect of the measures implemented by the Federal Republic of Germany for the support of renewable electricity and energy-intensive users (State aid SA. 33995 (2013/C) (ex 2013/NN)).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16710">
+          <num>39</num>
+          <content eId="para_16710__content">
+            <p>The formal investigation procedure having in the meantime been closed by the adoption of the contested decision, the General Court, however, by orders of 9 June 2015, Stahlwerk Bous v Commission ( T‑172/14, not published, EU:T:2015:402); of 9 June 2015, Georgsmarienhütte v Commission ( T‑176/14, not published, EU:T:2015:414); of 9 June 2015, Harz Guss Zorge v Commission ( T‑177/14, not published, EU:T:2015:395); and of 9 June 2015, Schmiedag v Commission ( T‑183/14, not published, EU:T:2015:396), found that there was no need to adjudicate on the actions brought by the applicants in the main proceedings, on the ground that they had become devoid of purpose.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16711">
+          <num>40</num>
+          <content eId="para_16711__content">
+            <p>In addition, those actions were supplemented by requests, submitted in the course of the proceedings by the applicants in the main proceedings, seeking to amend the forms of order sought, so that they also include a claim for annulment of the contested decision. However, the General Court, in the orders cited in the previous paragraph, rejected those requests as inadmissible on the ground that the contested decision did not amend or replace the decision initiating the formal investigation procedure mentioned in paragraph 38 of the present judgment and that it did not have the same subject matter either.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16712">
+          <num>41</num>
+          <content eId="para_16712__content">
+            <p>It should also be pointed out that the General Court was careful to state, in an identical manner in paragraphs 23 or 24 of the orders referred to in paragraph 39 of the present judgment, that the rejection of the requests for amendment seeking the annulment of the contested decision was without prejudice to the possibility for the applicants in the main proceedings to bring proceedings against that decision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16713">
+          <num>42</num>
+          <content eId="para_16713__content">
+            <p>The applicants in the main proceedings did not, however, bring fresh proceedings before the General Court.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16714">
+          <num>43</num>
+          <content eId="para_16714__content">
+            <p>In the light of the foregoing considerations, it must be held that, in so far as the applicants in the main proceedings were undoubtedly entitled to bring an action for annulment under the fourth paragraph of Article 263 TFEU against the contested decision, but did not exercise that right, they cannot rely on the invalidity of that decision in support of their actions before the national court against the national measures implementing that decision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16715">
+          <num>44</num>
+          <content eId="para_16715__content">
+            <p>In those circumstances, since the validity of the contested decision was not properly challenged before the national court, the present request for a preliminary ruling is inadmissible.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_16716">
+          <num>45</num>
+          <content eId="para_16716__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Grand Chamber) hereby rules: The request for a preliminary ruling from the Verwaltungsgericht Frankfurt am Main (Administrative Court, Frankfurt am Main, Germany), by decision of 23 February 2016, is inadmissible.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: German.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

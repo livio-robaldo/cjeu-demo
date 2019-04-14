@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Fifth Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>31 May 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(References for a preliminary ruling -- Taxation -- Common system of value added tax (VAT) -- Directive 2006/112/EC -- Supply of goods -- Article 65 -- Article 167 -- Payment on account for the purchase of an item not followed by delivery of that item -- Supplier's legal representatives convicted of fraud -- Insolvency of the supplier -- Deduction of input tax -- Conditions -- Articles 185 and 186 -- Adjustment by the national tax authorities -- Conditions) In Joined Cases C‑660/16 and C‑661/16, REQUESTS for a preliminary ruling under Article 267 TFEU from the Bundesfinanzhof (Federal Finance Court, Germany), made by decisions of 21 September 2016, received at the Court on 21 December 2016, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">Finanzamt Dachau</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#">Achim Kollroß</party>
+      </p>
+      <p>(C‑660/16), and</p>
+      <p>
+        <party as="appellant" refersTo="#">Finanzamt Göppingen</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#">Erich Wirtl</party>
+      </p>
+      <p>(C‑661/16), THE COURT (Fifth Chamber), composed of J.L. da Cruz Vilaça, President of the Chamber, E. Levits (Rapporteur), A. Borg Barthet, M. Berger and F. Biltgen, Judges, Advocate General: N. Wahl, Registrar: A. Calot Escobar, having regard to the written procedure, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>Mr Kollroß, by F. Russ, Steuerberater,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the German Government, by T. Henze and R. Kanitz, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by M. Wasmeier and L. Lozano Palacios, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 30 January 2018,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_12809">
+          <num>1</num>
+          <content eId="para_12809__content">
+            <p>The present requests for a preliminary ruling concern the interpretation of Articles 63, 65, 167, 185 and 186 of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax ( OJ 2006 L 347, p. 1).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12810">
+          <num>2</num>
+          <content eId="para_12810__content">
+            <p>The requests have been made in proceedings between</p>
+            <blockList>
+              <item>
+                <num>(i)</num>
+                <p>Mr Achim Kollroß and the Finanzamt Dachau (Dachau Tax Office, Germany) and</p>
+              </item>
+              <item>
+                <num>(ii)</num>
+                <p>Mr Erich Wirtl and the Finanzamt Göppingen (Göppingen Tax Office, Germany), concerning those offices' refusal to allow those individuals to deduct the input value added tax (VAT) paid in relation to payments made on account for the delivery of combined heat and power units that were not, ultimately, delivered.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>European Union law</p>
+        </tblock>
+        <paragraph eId="para_12811">
+          <num>3</num>
+          <content eId="para_12811__content">
+            <p>Article 63 of Directive 2006/112 provides: `The chargeable event shall occur and VAT shall become chargeable when the goods or the services are supplied.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12812">
+          <num>4</num>
+          <content eId="para_12812__content">
+            <p>Article 65 of that directive provides: `Where a payment is to be made on account before the goods or services are supplied, VAT shall become chargeable on receipt of the payment and on the amount received.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12813">
+          <num>5</num>
+          <content eId="para_12813__content">
+            <p>Under Article 90(1) of that directive: `In the case of cancellation, refusal or total or partial non-payment, or where the price is reduced after the supply takes place, the taxable amount shall be reduced accordingly under conditions which shall be determined by the Member States.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12814">
+          <num>6</num>
+          <content eId="para_12814__content">
+            <p>Article 167 of that directive is worded as follows: `A right of deduction shall arise at the time the deductible tax becomes chargeable.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12815">
+          <num>7</num>
+          <content eId="para_12815__content">
+            <p>Article 168 of Directive 2006/112 provides: `In so far as the goods and services are used for the purposes of the taxed transactions of a taxable person, the taxable person shall be entitled, in the Member State in which he carries out these transactions, to deduct the following from the VAT which he is liable to pay:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>the VAT due or paid in that Member State in respect of supplies to him of goods or services, carried out or to be carried out by another taxable person; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12816">
+          <num>8</num>
+          <content eId="para_12816__content">
+            <p>Article 178 of that directive is worded as follows: `In order to exercise the right of deduction, a taxable person must meet the following conditions:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>for the purposes of deductions pursuant to Article 168(a), in respect of the supply of goods or services, he must hold an invoice drawn up in accordance with Sections 3 to 6 of Chapter 3 of Title XI; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12817">
+          <num>9</num>
+          <content eId="para_12817__content">
+            <p>Article 184 of that directive is worded as follows: `The initial deduction shall be adjusted where it is higher or lower than that to which the taxable person was entitled.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12818">
+          <num>10</num>
+          <content eId="para_12818__content">
+            <p>Article 185 of that directive provides: `1.   Adjustment shall, in particular, be made where, after the VAT return is made, some change occurs in the factors used to determine the amount to be deducted, for example where purchases are cancelled or price reductions are obtained. 2.   By way of derogation from paragraph 1, no adjustment shall be made in the case of transactions remaining totally or partially unpaid or in the case of destruction, loss or theft of property duly proved or confirmed, or in the case of goods reserved for the purpose of making gifts of small value or of giving samples, as referred to in Article 16. However, in the case of transactions remaining totally or partially unpaid or in the case of theft, Member States may require adjustment to be made.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12819">
+          <num>11</num>
+          <content eId="para_12819__content">
+            <p>Article 186 of Directive 2006/112 provides: `Member States shall lay down the detailed rules for applying Articles 184 and 185.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>German law</p>
+        </tblock>
+        <paragraph eId="para_12820">
+          <num>12</num>
+          <content eId="para_12820__content">
+            <p>Paragraph 13, entitled `Chargeability of input tax', of the Umsatzsteuergesetz (Law on Turnover Tax), in the version applicable to the facts in the main proceedings ( `the UStG'), provides, in subparagraph 1 thereof: `The tax is to become chargeable 1. on supplies of goods and services,</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>when the tax is calculated according to the agreed consideration (first sentence of Paragraph 16(1)), upon the expiry of the provisional VAT return period during which the supplies were made. The same shall apply to partial supplies. ... Where the consideration or part thereof is received before the supply or partial supply has been made, the tax shall to that extent become chargeable upon the expiry of the provisional VAT return period during which the consideration or part thereof has been received. ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12821">
+          <num>13</num>
+          <content eId="para_12821__content">
+            <p>Paragraph 14c of the UStG, entitled `Incorrectly or unduly stated tax', provides: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>If a trader has, in an invoice for a supply of goods or services, stated separately a higher amount of tax than is payable under this Law in respect of the transaction concerned (incorrectly stated tax), he shall also be liable to pay the additional amount. If he adjusts the amount of tax vis-à-vis the recipient of the supply, Paragraph 17(1) shall apply by analogy. ...</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>Where a person states an amount of tax separately in an invoice, and he is not entitled to do so (unduly stated tax), he shall be liable to pay the amount stated. The same applies where a person makes a deduction as a trader providing a service would and states separately an amount of tax when he is not a trader or is not supplying goods or services. The amount of tax payable under the first and second sentences may be adjusted in so far as this does not affect tax revenue. An adjustment does not affect tax revenue where the recipient of the invoice does not deduct the input tax or where the deducted input tax has been refunded to the tax authorities. An adjustment of the amount of tax payable must be requested, clearly and in writing, from the Tax Office and carried out, once approved by that office, within the framework of applying Paragraph 17(1) by analogy in respect of the tax period during which the conditions set out in the fourth sentence were satisfied.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12822">
+          <num>14</num>
+          <content eId="para_12822__content">
+            <p>Under the heading `Deduction of input VAT', Paragraph 15 of that Law provides, in subparagraph 1 thereof: `A trader may deduct the following as input tax: 1.   the tax lawfully payable on goods and services provided to his business by another trader. Deduction of the input tax is subject to the condition that the trader holds an invoice drawn up in accordance with Paragraphs 14 and 14a. Where the separately stated amount of tax is attributable to a payment preceding the performance of such transactions, it is already deductible if the invoice has been presented and payment made; ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12823">
+          <num>15</num>
+          <content eId="para_12823__content">
+            <p>Paragraph 17 of that Law is worded as follows: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>When the basis of assessment of a taxable transaction for the purposes of Paragraph 1(1), point 1, has changed, the trader who made the supply shall adjust the amount of tax payable accordingly. The trader who received the supply shall also adjust the amount of input tax deductible in that regard. ...</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>Subparagraph 1 shall apply mutatis mutandis where 1. the agreed consideration for a taxable supply of goods or services or a taxable intra-Community acquisition has become unrecoverable. Where the consideration is received retrospectively, the amount of the tax and the deduction of tax shall be adjusted again; 2. consideration has been paid for an agreed supply of goods or services but the goods or services have not been supplied; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The disputes in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <tblock>
+          <p>Case C‑660/16</p>
+        </tblock>
+        <paragraph eId="para_12824">
+          <num>16</num>
+          <content eId="para_12824__content">
+            <p>On 10 April 2010 Mr Kollroß ordered a combined heat and power unit from G-GmbH ( `GA'). GA confirmed the order on 12 April 2010 and issued an advance invoice for EUR 30000 in respect of the item to be supplied, in which the amount of VAT payable, namely EUR 5700, was stated separately. At the same time, Mr Kollroß registered a business engaged in the production of renewable energies and made the requested payment on account to GA on 19 April 2010. On 15 July 2010 GA issued a second invoice for payment on account which referred to the payment of 19 April 2010. The date of delivery had not yet been fixed.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12825">
+          <num>17</num>
+          <content eId="para_12825__content">
+            <p>The unit was never delivered. Insolvency proceedings were instituted in respect of GA and were then closed on the ground of a lack of assets. The persons acting for GA were convicted of 88 counts of fraudulent trading practices and conspiracy to defraud and of intentional bankruptcy to the detriment of buyers of combined heat and power units. By contrast, it is not apparent from the order for reference that tax evasion took place.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12826">
+          <num>18</num>
+          <content eId="para_12826__content">
+            <p>Mr Kollroß requested that the input tax relating to the payment he had made on account be deducted for the tax year 2010. The Dachau Tax Office refused him the right to deduct that tax. Mr Kollroß lodged an objection to that decision, which was dismissed, and then brought an action before the Finanzgericht München (Finance Court, Munich, Germany).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12827">
+          <num>19</num>
+          <content eId="para_12827__content">
+            <p>That court upheld his action. The judgment handed down at first instance was the subject of an appeal on a point of law which has been brought before the Fifth Chamber of the referring court, the Bundesfinanzhof (Federal Finance Court, Germany).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12828">
+          <num>20</num>
+          <content eId="para_12828__content">
+            <p>That court considers that Mr Kollroß satisfies the general conditions for claiming a deduction of the input VAT relating to a payment on account as listed in Article 168(a) of Directive 2006/112.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12829">
+          <num>21</num>
+          <content eId="para_12829__content">
+            <p>More specifically, that court refers to paragraph 39 of the judgment of 13 March 2014, FIRIN ( C‑107/13, EU:C:2014:151), from which it considers that it is apparent that the chargeability of the tax under Article 65 of Directive 2006/112 presupposes that there is no uncertainty about whether the chargeable event -- and thus the supply -- will take place.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12830">
+          <num>22</num>
+          <content eId="para_12830__content">
+            <p>The referring court is uncertain as to whose point of view should be used to assess that condition. According to that court, a purely objective assessment without regard to the point of view of the taxable person making the payment on account would place an unreasonable burden on traders.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12831">
+          <num>23</num>
+          <content eId="para_12831__content">
+            <p>In addition, the referring court questions whether, for reasons relating to EU law, the other circumstances in which Mr Kollroß made the payment on account preclude the deduction of VAT or, as the case may be, give rise to an obligation to adjust. That court raises questions, in particular, as regards the scope of the judgment of 13 March 2014, FIRIN ( C‑107/13, EU:C:2014:151), concerning deductibility and the obligation to adjust under Directive 2006/112.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12832">
+          <num>24</num>
+          <content eId="para_12832__content">
+            <p>In that regard, the referring court indicates that it has already interpreted that judgment of the Court restrictively, in so far as an adjustment presupposes in both cases that the payment on account will be refunded. Indeed, the Court has held, in particular in paragraphs 52 and 58 of that judgment, that it is only if such a refund is made that the tax payable should be adjusted by the recipient of the payment on account. The referring court therefore considers that a taxable person who has made a payment on account should not adjust the deduction unless that payment has been refunded.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12833">
+          <num>25</num>
+          <content eId="para_12833__content">
+            <p>As regards the tax authorities' obligation to refund the tax where it is not possible to recover it from the recipient of the payment on account, the referring court considers that the case-law as set out in the judgment of 15 March 2007, Reemtsma Cigarettenfabriken ( C‑35/05, EU:C:2007:167), may be transposed to the case before it. Thus, a taxable person, such as Mr Kollroß, could claim a refund of VAT in respect of the part of that tax which relates to the payment made on account, since a refund of that tax by the recipient of that payment could be held to be impossible or excessively difficult.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12834">
+          <num>26</num>
+          <content eId="para_12834__content">
+            <p>In those circumstances, the Bundesfinanzhof (Federal Finance Court) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Are the requirements as to the certainty that a supply will take place, as a condition of the deduction of input tax on a payment on account within the meaning of the judgment of [13 March 2014, FIRIN, ( C‑107/13, EU:C:2013:151)], to be determined purely objectively or from the point of view of the person having made the payment on account in the light of the circumstances apparent to him?</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>Are the Member States, taking into account the fact that the chargeability of tax and the right to deduct arise at the same time, in accordance with Article 167 of [Directive 2006/112], and the regulatory powers which they enjoy under Article 185(2), second subparagraph, and Article 186 of [that directive], entitled to make the adjustment of both tax and the deduction of input tax subject to a refund of the payment on account?</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>Must the competent tax office with regard to a person who has made a payment on account refund the value added tax to that person where the latter cannot recover the payment on account from the recipient of that payment? If so, must this take place as part of the tax assessment procedure or is a separate equitable procedure sufficient for this purpose?'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Case C‑661/16</p>
+        </tblock>
+        <paragraph eId="para_12835">
+          <num>27</num>
+          <content eId="para_12835__content">
+            <p>On 3 August 2010 Mr Wirtl, with a view to producing electricity professionally, ordered a combined heat and power unit from the Gesellschaft zur Förderung erneuerbarer Energien mbH ( `GB') for the price of EUR 30000, plus EUR 5700 by way of VAT, delivery of which was expected a priori fourteen weeks after receipt of those amounts. By bank transfer of 27 August 2010, Mr Wirtl made the advance payment of EUR 35700 which had been requested on 6 August 2010 and received an invoice from GB, dated 28 August 2010, for delivery of a combined heat and power unit.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12836">
+          <num>28</num>
+          <content eId="para_12836__content">
+            <p>On 25 October 2010 Mr Wirtl submitted a provisional VAT return for August 2010 and claimed a deduction of EUR 5700 in respect of his purchase of that combined heat and power unit. He also informed the Göppingen Tax Office that he intended to rent out that item to GB.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12837">
+          <num>29</num>
+          <content eId="para_12837__content">
+            <p>That combined heat and power unit was, however, never delivered. In 2011 insolvency proceedings were instituted in respect of GB and eleven defendants operating within the framework of the GB group were convicted of 88 counts of fraudulent trading practices and conspiracy to defraud.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12838">
+          <num>30</num>
+          <content eId="para_12838__content">
+            <p>The Göppingen Tax Office rejected Mr Wirtl's annual VAT tax return for the tax year 2010, in which he had deducted EUR 5700 for the input tax paid in the context of the advance payment for the combined heat and power unit sold by GB.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12839">
+          <num>31</num>
+          <content eId="para_12839__content">
+            <p>Mr Wirtl's objection to that assessment was dismissed, but the Finanzgericht Baden-Württemberg (Finance Court, Baden-Württemberg, Germany), by a judgment of 19 September 2014, upheld the action brought against the decision dismissing that objection.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12840">
+          <num>32</num>
+          <content eId="para_12840__content">
+            <p>The Eleventh Chamber of the referring court, the Bundesfinanzhof (Federal Finance Court), hearing an appeal on a point of law against that judgment, considers that the criterion regarding the certainty of the chargeable event taking place must be interpreted objectively. Indeed, the chargeability of the tax payable to the State Treasury by the recipient of the payment on account cannot in principle depend on what the person who made that payment knew or should have known.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12841">
+          <num>33</num>
+          <content eId="para_12841__content">
+            <p>As regards the treatment of VAT that has been unduly invoiced because there is no taxable transaction, it follows from Directive 2006/112 that the two traders involved should not necessarily be treated identically. On the one hand, the person issuing an invoice is liable to pay the VAT stated in that invoice even where there is no taxable transaction, pursuant to Article 203 of that directive, transposed into national law by Paragraph 14c of the UStG, when -- as in the present case -- the supply does not, ultimately, take place. On the other hand, the exercise of the right to deduct by the person receiving an invoice is to be limited solely to the tax corresponding to a transaction subject to VAT, in accordance with Articles 63 and 167 of that directive. Accordingly, the buyer cannot deduct the tax relating to the payment on account, regardless of the fact that that payment has not been repaid to him by the supplier.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12842">
+          <num>34</num>
+          <content eId="para_12842__content">
+            <p>Lastly, the referring court is also uncertain whether the Member State concerned is authorised, under Article 186 of Directive 2006/112, to make adjustment of the deduction conditional upon the payment on account being refunded where the supply does not, ultimately, take place.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12843">
+          <num>35</num>
+          <content eId="para_12843__content">
+            <p>In those circumstances, the Bundesfinanzhof (Federal Finance Court) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>In accordance with the [first sentence of paragraph 39 of the judgment of 13 March 2014, FIRIN ( C‑107/13, EU:C:2014:151),] is the deduction of input tax on a payment on account excluded where the occurrence of the chargeable event is uncertain at the time when the payment on account is made? Is that exclusion to be determined by reference to the objective situation or by reference to the point of view of the person having made the payment on account in the light of the circumstances objectively apparent to him?</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>Is the judgment of [13 March 2014, FIRIN ( C‑107/13, EU:C:2014:151, paragraph 58 and operative part),] to be interpreted as meaning that, under EU law, an adjustment of the deduction, by a person having made a payment on account for a supply of goods, of the input tax indicated on the invoice issued to that person for that payment is not conditional upon the refund of the payment on account which has been made, where that supply does not ultimately take place?</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>In the event that the foregoing question is answered in the affirmative, does Article 186 of [Directive 2006/112], which allows the Member States to lay down the detailed rules for the adjustment provided for in Article 185 of that directive, authorise the Federal Republic of Germany, as a Member State, to provide in its national law that the taxable amount may be reduced only if the payment on account is refunded, and that the VAT debt and the deduction of input tax are, accordingly, to be adjusted at the same time and under the same conditions?'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the questions referred</p>
+        </tblock>
+        <tblock>
+          <p>The first questions in Cases C‑660/16 and C‑661/16</p>
+        </tblock>
+        <paragraph eId="para_12844">
+          <num>36</num>
+          <content eId="para_12844__content">
+            <p>By its first questions in Cases C‑660/16 and C‑661/16, which must be examined together, the referring court asks, in essence, whether Articles 65 and 167 of Directive 2006/112, concerning the conditions for deducting the VAT relating to a payment made on account, must be interpreted purely objectively or depending on the information which was or should have been known to the taxable person who made that payment in circumstances, such as those at issue in the cases in the main proceedings, where the supply of the goods concerned did not take place because of events which resulted in persons working for the suppliers being convicted of fraud.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12845">
+          <num>37</num>
+          <content eId="para_12845__content">
+            <p>It should be borne in mind that, according to Article 167 of Directive 2006/112, a right to deduct the input VAT is to arise at the time the tax becomes chargeable.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12846">
+          <num>38</num>
+          <content eId="para_12846__content">
+            <p>Under Article 63 of that directive, the chargeable event is to occur and that tax is to become chargeable when the goods or the services are supplied.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12847">
+          <num>39</num>
+          <content eId="para_12847__content">
+            <p>However, Article 65 of Directive 2006/112 provides, by way of derogation, that, where a payment is to be made on account before the goods or services are supplied, VAT is to become chargeable on receipt of the payment and on the amount received. As an exception to the rule recalled in the preceding paragraph, that provision must be interpreted strictly (see, to that effect, judgment of 21 February 2006, BUPA Hospitals and Goldsborough Developments, C‑419/02, EU:C:2006:122, paragraph 45).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12848">
+          <num>40</num>
+          <content eId="para_12848__content">
+            <p>Thus, in order for the VAT to become chargeable in such circumstances, all the relevant information concerning the chargeable event, namely the future supply of goods or services, must already be known and therefore, in particular, when the payment on account is made, the goods or services must be precisely identified (see, to that effect, judgment of 21 February 2006, BUPA Hospitals and Goldsborough Developments, C‑419/02, EU:C:2006:122, paragraph 48).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12849">
+          <num>41</num>
+          <content eId="para_12849__content">
+            <p>Consequently, Article 65 of Directive 2006/112 cannot apply where, at the time the payment on account is made, it is uncertain whether the supply of goods or services will take place (see, to that effect, judgment of 13 March 2014, FIRIN, C‑107/13, EU:C:2014:151, paragraph 39).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12850">
+          <num>42</num>
+          <content eId="para_12850__content">
+            <p>Accordingly, the relevant moment for the purpose of assessing the certainty of the supply of goods or services taking place, to which the chargeability of the VAT relating to the payment on account and the corresponding coming into existence of the right to deduct that tax are subject, is the time when that payment on account is made.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12851">
+          <num>43</num>
+          <content eId="para_12851__content">
+            <p>In the present case, it is apparent from both of the orders for reference that at the time Mr Kollroß and Mr Wirtl made their respective payments on account, the goods which were to be supplied were clearly identified. In particular, the features and the price of those goods had been clearly specified.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12852">
+          <num>44</num>
+          <content eId="para_12852__content">
+            <p>Therefore, a potential buyer may not be refused the right to deduct the VAT relating to a payment on account in situations such as those at issue in the main proceedings, when that payment has been made and received and, at the time that payment was made, all the relevant information concerning the future supply could be regarded as known to that buyer and that supply appeared to be certain.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12853">
+          <num>45</num>
+          <content eId="para_12853__content">
+            <p>In that regard, and contrary to the German Government's assertions, the fact that the specific date of delivery of the item is unknown at the time the payment on account is made does not permit the conclusion that the relevant information concerning the chargeable event, that is, the future supply, is unknown. In addition, the fact that that date is unspecified is not, in itself, such as to call in question the certainty of that supply.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12854">
+          <num>46</num>
+          <content eId="para_12854__content">
+            <p>Those clarifications having been made, it is necessary to examine the issue of whether, in circumstances such as those at issue in the cases in the main proceedings, there exists an element of uncertainty capable of excluding the application of Article 65 of Directive 2006/112. In that regard, according to the orders for reference, the items in question were not supplied, not as a result of tax evasion, but as a result of acts committed by persons working for the suppliers of those items, who have been convicted of fraudulent trading practices and conspiracy to defraud. It appears from the orders for reference that those acts were known of only after the payments on account serving as the basis for the requests to deduct at issue in the cases in the main proceedings were made. It is, however, for the referring court to determine whether that is in fact the case.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12855">
+          <num>47</num>
+          <content eId="para_12855__content">
+            <p>In that regard, it should be borne in mind that, although, when payments on account are received prior to the supply of goods or services, receipt of those amounts renders the tax chargeable, this is because the parties to the transaction in this way demonstrate their intention that all the financial consequences of that supply should arise in advance (see, to that effect, judgment of 21 February 2006, BUPA Hospitals and Goldsborough Developments, C‑419/02, EU:C:2006:122, paragraph 49).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12856">
+          <num>48</num>
+          <content eId="para_12856__content">
+            <p>In those circumstances, since, at the time a payment on account is received, the conditions relating to the chargeability of VAT, as recalled in paragraphs 42 and 43 above, are met, the right to deduct arises and the taxable person who has made that payment on account is justified in exercising that right from that moment, without it being necessary to take other elements of fact, known of after that moment, which would render the supply in question uncertain, into account.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12857">
+          <num>49</num>
+          <content eId="para_12857__content">
+            <p>By contrast, that taxable person must be refused that right by the national courts and authorities if it is established, having regard to objective elements, that, at the time the payment on account was made, that person knew or should reasonably have known that it was likely that that supply would not take place.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12858">
+          <num>50</num>
+          <content eId="para_12858__content">
+            <p>Such a taxable person may not be regarded as having the intention, as a party to the transaction, that the financial consequences of the future supply in question should arise, when he knows or should reasonably know that that supply is uncertain.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12859">
+          <num>51</num>
+          <content eId="para_12859__content">
+            <p>Consequently, the answer to the first questions referred in Cases C‑660/16 and C‑661/16 is that Articles 65 and 167 of Directive 2006/112 must be interpreted as meaning that, in circumstances such as those at issue in the cases in the main proceedings, a potential buyer may not be refused the right to deduct the VAT relating to a payment on account in respect of the goods in question where that payment has been made and received and where, at the time that payment was made, all the relevant information concerning the future supply could be regarded as known to that buyer and the supply of those goods appeared to be certain. However, that buyer may be refused that right if it is established, having regard to objective elements, that, at the time the payment on account was made, he knew or should reasonably have known that that supply was uncertain.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The second question in Case C‑660/16 and the second and third questions in Case C‑661/16</p>
+        </tblock>
+        <paragraph eId="para_12860">
+          <num>52</num>
+          <content eId="para_12860__content">
+            <p>By its second question in Case C‑660/16 and its second and third questions in Case C‑661/16, which must be examined together, the referring court asks, in essence, whether Articles 185 and 186 of Directive 2006/112 preclude national laws or practices making adjusting a deduction of VAT relating to a payment on account for the delivery of an item conditional upon that payment being refunded by the supplier.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12861">
+          <num>53</num>
+          <content eId="para_12861__content">
+            <p>Articles 184 to 186 of Directive 2006/112 determine the conditions under which the national tax authorities may require a taxable person to make an adjustment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12862">
+          <num>54</num>
+          <content eId="para_12862__content">
+            <p>Regarding the potential impact on the deduction of VAT made by a taxable person of events occurring after that deduction has been made, it is apparent from the case-law of the Court that the use to which the goods or services are put, or are intended to be put, determines the extent of the initial deduction to which the taxable person is entitled and the extent of any adjustments in the course of the following periods (see, to that effect, judgments of 18 October 2012, TETS Haskovo, C‑234/11, EU:C:2012:644, paragraph 29 and the case-law cited, and of 13 March 2014, FIRIN, C‑107/13, EU:C:2014:151, paragraph 49).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12863">
+          <num>55</num>
+          <content eId="para_12863__content">
+            <p>The adjustment mechanism provided for in Articles 184 to 186 of Directive 2006/112 is an integral part of the VAT deduction scheme established by that directive. It is intended to enhance the precision of deductions so as to ensure the neutrality of VAT, so that transactions effected at an earlier stage continue to give rise to the right to deduct only to the extent that they are used to make supplies subject to VAT. That mechanism thus aims to establish a close and direct relationship between the right to deduct input VAT and the use of the goods or services concerned for taxable output transactions (judgments of 18 October 2012, TETS Haskovo, C‑234/11, EU:C:2012:644, paragraphs 30 and 31, and of 13 March 2014, FIRIN, C‑107/13, EU:C:2014:151, paragraph 50).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12864">
+          <num>56</num>
+          <content eId="para_12864__content">
+            <p>As regards the coming into existence of an obligation to make an adjustment of an input VAT deduction, Article 185(1) of Directive 2006/112 establishes the principle that such an adjustment is to be made, in particular, where, after the VAT return is made, some change occurs in the factors used to determine the amount to be deducted (judgments of 4 October 2012, PIGI, C‑550/11, EU:C:2012:614, paragraph 26, and of 18 October 2012, TETS Haskovo, C‑234/11, EU:C:2012:644, paragraph 32).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12865">
+          <num>57</num>
+          <content eId="para_12865__content">
+            <p>In the present case, as has already been stated in paragraph 46 above, the goods at issue in the main proceedings were never delivered and the moment when it became clear that the supply of those goods would not take place was after the date on which the payments on account and the subsequent VAT returns were made.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12866">
+          <num>58</num>
+          <content eId="para_12866__content">
+            <p>In that regard, in paragraph 52 of the judgment of 13 March 2014, FIRIN ( C‑107/13, EU:C:2014:151), the Court held that, in a situation such as that at issue in the case which gave rise to that judgment, in which it was established that the supply of goods in respect of which the buyer had made a payment on account would not take place, it must be considered that, after the VAT return was made, a change has occurred in the factors used to determine the amount of input VAT to be deducted, within the meaning of Article 185(1) of Directive 2006/112. In such a situation, the tax authorities may therefore require adjustment to be made to the VAT deducted by the taxable person.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12867">
+          <num>59</num>
+          <content eId="para_12867__content">
+            <p>That being said, certain circumstances distinguish the cases in the main proceedings from the case which gave rise to that judgment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12868">
+          <num>60</num>
+          <content eId="para_12868__content">
+            <p>First, as the European Commission correctly emphasises, in the cases in the main proceedings, the buyers had already derived revenue from the goods in respect of which they had made the payments on account even before those goods had actually been delivered. It is apparent from the orders for reference that the buyers had rented out the goods in question and had received rent in respect of those goods. Thus, those goods, in respect of which input tax was paid, were indeed used, to a certain extent, for taxable output transactions.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12869">
+          <num>61</num>
+          <content eId="para_12869__content">
+            <p>Second, both of the cases in the main proceedings are characterised by the fact that it was not possible for the supplies of the goods ordered by the buyers to be carried out following acts of conspiracy to defraud involving the suppliers' representatives, resulting in insolvency proceedings being instituted against those suppliers, one of which was closed on the ground of a lack of assets.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12870">
+          <num>62</num>
+          <content eId="para_12870__content">
+            <p>The present cases thus do not concern, unlike the case which gave rise to the judgment of 13 March 2014, FIRIN ( C‑107/13, EU:C:2014:151), cases of VAT fraud. In this respect, it is considered as established by the referring court that the VAT relating to the payments on account at issue in the main proceedings was paid to the State Treasury by the suppliers. In addition, in so far as those suppliers, in view of their insolvency, will not repay those payments on account, the VAT payable by those suppliers to the Treasury in respect of the receipt of those payments on account will not have to be adjusted pursuant to the combined provisions of Articles 65, 90 and 123 of Directive 2006/112. Accordingly, in circumstances such as those in the main proceedings, the exercise by the buyers of the right to deduct VAT in respect of those same payments on account does not entail any risk of a loss of tax revenue for the State Treasury.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12871">
+          <num>63</num>
+          <content eId="para_12871__content">
+            <p>It is true that the Court also held in paragraph 57 of the judgment of 13 March 2014, FIRIN ( C‑107/13, EU:C:2014:151), that the fact that the VAT payable by the supplier has not itself been adjusted does not, in principle, affect the right of the tax authorities to obtain repayment of the VAT deducted by the buyer of the goods on the basis of the payment made on account corresponding to such a supply.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12872">
+          <num>64</num>
+          <content eId="para_12872__content">
+            <p>However, it must be pointed out that, in the event of adjustment of the right to deduct in a situation where a payment on account has not been refunded, compliance with the principle of fiscal neutrality is ensured by the possibility, provision for which must be made by the Member States in their legislation, for a buyer to obtain from his supplier repayment of a payment made on account for a supply of goods which has not, ultimately, taken place (see, by analogy, judgments of 31 January 2013, LVK, C‑643/11, EU:C:2013:55, paragraph 48, and of 13 March 2014, FIRIN, C‑107/13, EU:C:2014:151, paragraph 55).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12873">
+          <num>65</num>
+          <content eId="para_12873__content">
+            <p>In circumstances such as those at issue in the cases in the main proceedings, in view of the suppliers' insolvency, it would be excessively difficult or even impossible for the buyers to obtain refunds of the payments which they made on account in good faith for the supply of the goods ordered.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12874">
+          <num>66</num>
+          <content eId="para_12874__content">
+            <p>Concerning cases where VAT has been unduly invoiced because of the lack of a taxable transaction, the Court has held that it is true that the principles of neutrality and effectiveness do not, as a rule, preclude national legislation according to which only the supplier may seek a refund from the competent tax authorities of the sums he has paid them in error by way of VAT, it being the responsibility of the buyer of the goods to bring an action against that supplier in order that he may, in turn, obtain a refund of those sums from that supplier. However, the Court has also held that, if such an action becomes impossible or excessively difficult, in particular in the case of the insolvency of the supplier, those principles may require that the buyer be able to address his request for a refund to the tax authorities directly (see, to that effect, judgment of 15 March 2007, Reemtsma Cigarettenfabriken, C‑35/05, EU:C:2007:167, paragraphs 39, 41 and 42).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12875">
+          <num>67</num>
+          <content eId="para_12875__content">
+            <p>Those considerations can be applied, mutatis mutandis, in circumstances such as those at issue in the cases in the main proceedings. Thus, were they to be required to adjust the deductions made in respect of the VAT paid on the payments which they made on account and will not be refunded by the suppliers, the buyers would have, in accordance with the findings set out in the preceding paragraph, a claim against the tax authorities for an amount identical to that recovered by those authorities in the context of that adjustment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12876">
+          <num>68</num>
+          <content eId="para_12876__content">
+            <p>However, it would be manifestly unreasonable to require those buyers to adjust those deductions and then to bring an action against the tax authorities in order to obtain a refund of the VAT paid in respect of the payments on account in question.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12877">
+          <num>69</num>
+          <content eId="para_12877__content">
+            <p>In the light of all of the foregoing, the answer to the second question in Case C‑660/16 and the second and third questions in Case C‑661/16 is that Articles 185 and 186 of Directive 2006/112 must be interpreted as not precluding, in circumstances such as those at issue in the cases in the main proceedings, a national law or practice which has the effect of making adjusting the VAT relating to a payment on account for the supply of an item conditional upon that payment being refunded by the supplier.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The third question in Case C‑660/16</p>
+        </tblock>
+        <paragraph eId="para_12878">
+          <num>70</num>
+          <content eId="para_12878__content">
+            <p>In the light of the answers to the preceding questions, there is no need to answer the third question raised in Case C‑660/16.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_12879">
+          <num>71</num>
+          <content eId="para_12879__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the actions pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Fifth Chamber) hereby rules: 1. Articles 65 and 167 of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax must be interpreted as meaning that, in circumstances such as those at issue in the cases in the main proceedings, a potential buyer may not be refused the right to deduct the value added tax relating to a payment on account in respect of the goods in question where that payment has been made and received and where, at the time that payment was made, all the relevant information concerning the future supply could be regarded as known to that buyer and the supply of those goods appeared to be certain. However, that buyer may be refused that right if it is established, having regard to objective elements, that, at the time the payment on account was made, he knew or should reasonably have known that that supply was uncertain. 2. Articles 185 and 186 of Directive 2006/112 must be interpreted as not precluding, in circumstances such as those at issue in the cases in the main proceedings, a national law or practice which has the effect of making adjusting the value added tax relating to a payment on account for the supply of an item conditional upon that payment being refunded by the supplier.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: German.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

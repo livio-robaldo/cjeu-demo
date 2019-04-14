@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Grand Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>29 May 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Protection of animals at the time of killing -- Particular methods of slaughter prescribed by religious rites -- Muslim Feast of Sacrifice -- Regulation (EC) No 1099/2009 -- Article 2(k) -- Article 4(4) -- Obligation for ritual slaughtering without stunning to be carried out in approved slaughterhouses which satisfy the requirements of Regulation (EC) No 853/2004 -- Validity -- Charter of Fundamental Rights of the European Union -- Article 10 -- Freedom of religion -- Article 13 TFEU -- Respect for national customs with regard to religious rites) In Case C‑426/16, REQUEST for a preliminary ruling under Article 267 TFEU from the Nederlandstalige rechtbank van eerste aanleg Brussel (Court of First Instance (Dutch-speaking), Brussels, Belgium), made by decision of 25 July 2016, received at the Court on 1 August 2016, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">Liga van Moskeeën en Islamitische Organisaties Provincie Antwerpen VZW and Others</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#">Vlaams Gewest</party>
+      </p>
+      <p>, intervening parties:</p>
+      <p>
+        <party as="intervening" refersTo="#">Global Action in the Interest of Animals (GAIA) VZW</party>
+      </p>
+      <p>, THE COURT (Grand Chamber), composed of K. Lenaerts, President, A. Tizzano (Rapporteur), Vice-President, R. Silva de Lapuerta, M. Ilešič, J. Malenovský and E. Levits, Presidents of Chambers, E. Juhász, A. Borg Barthet, C. Lycourgos, M. Vilaras and E. Regan, Judges, Advocate General: N. Wahl, Registrar: M. Ferreira, Principal Administrator, having regard to the written procedure and further to the hearing on 18 September 2017, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>Liga van Moskeeën en Islamitische Organisaties Provincie Antwerpen VZW and Others, by J. Roets, advocaat,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Vlaams Gewest, by J.-F. De Bock and V. De Schepper, advocaten,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>Global Action in the Interest of Animals (GAIA) VZW, by A. Godfroid and Y. Bayens, advocaten,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Estonian Government, by N. Grünberg, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Netherlands Government, by M. Bulterman and B. Koopman, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the United Kingdom Government, by G. Brown, acting as Agent, and by A. Bates, Barrister,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Council of the European Union, by E. Karlsson, S. Boelaert and V. Piessevaux, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by A. Bouquet, H. Krämer and B. Eggers, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 30 November 2017,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_11962">
+          <num>1</num>
+          <content eId="para_11962__content">
+            <p>This request for a preliminary ruling concerns the validity of Article 4(4) of Council Regulation (EC) No 1099/2009 of 24 September 2009 on the protection of animals at the time of killing ( OJ 2009 L 303, p. 1), read together with Article 2(k) thereof.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11963">
+          <num>2</num>
+          <content eId="para_11963__content">
+            <p>The reference has been made in proceedings between various Muslim associations and umbrella organisations of mosques active in the Vlaams Gewest (Flemish Region, Belgium) and the Vlaams Gewest concerning the decision adopted by the Vlaamse minister van Mobiliteit, Openbare Werken, Vlaamse Rand, Toerisme en Dierenwelzijn (Flemish Minister for Mobility, Public Works, Vlaamse Rand, Tourism and Animal Welfare, `the Minister for the Flemish Region') no longer to authorise, from 2015 onwards, the ritual slaughter of animals without stunning in temporary slaughterhouses in the communes of that region during the Muslim Feast of Sacrifice.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>European Union law</p>
+        </tblock>
+        <tblock>
+          <p>Regulation No 853/2004</p>
+        </tblock>
+        <paragraph eId="para_11964">
+          <num>3</num>
+          <content eId="para_11964__content">
+            <p>Recital 18 of Regulation (EC) No 853/2004 of the European Parliament and of the Council of 29 April 2004 laying down specific hygiene rules for food of animal origin ( OJ 2004 L 139, p. 55, and corrigendum OJ 2004 L 226, p. 22) provides: `</p>
+            <blockList>
+              <item>
+                <num>(18)</num>
+                <p>It is appropriate for the structural and hygiene requirements laid down in this Regulation to apply to all types of establishments, including small businesses and mobile slaughterhouses.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11965">
+          <num>4</num>
+          <content eId="para_11965__content">
+            <p>Article 4(1) of that regulation provides: `Food business operators shall place products of animal origin manufactured in the [European Union] on the market only if they have been prepared and handled exclusively in establishments:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>that meet the relevant requirements of Regulation (EC) No 852/2004 [of the European Parliament and of the Council of 29 April 2004 on the hygiene of foodstuffs ( OJ 2004 L 139, p. 1)], those of Annexes II and III of this Regulation and other relevant requirements of food law; and</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>that the competent authority has registered or, where required in accordance with paragraph 2, approved.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Regulation No 1099/2009</p>
+        </tblock>
+        <paragraph eId="para_11966">
+          <num>5</num>
+          <content eId="para_11966__content">
+            <p>Regulation No 1099/2009 lays down the common rules for the protection of animal welfare at the time of slaughter or killing in the European Union.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11967">
+          <num>6</num>
+          <content eId="para_11967__content">
+            <p>Recitals 4, 8, 15, 18, 43 and 44 of that regulation state: `</p>
+            <blockList>
+              <item>
+                <num>(4)</num>
+                <p>Animal welfare is a [European Union] value that is enshrined in the Protocol (No 33) on protection and welfare of animals annexed to the Treaty establishing the European Community ( `Protocol (No 33)'). The protection of animals at the time of slaughter or killing is a matter of public concern that affects consumer attitudes towards agricultural products. In addition, improving the protection of animals at the time of slaughter contributes to higher meat quality and indirectly has a positive impact on occupational safety in slaughterhouses. ...</p>
+              </item>
+              <item>
+                <num>(8)</num>
+                <p>... Community food safety legislation applicable to slaughterhouses has been profoundly amended by the adoption of Regulation (EC) No 852/2004 of the European Parliament and of the Council of 29 April 2004 on hygiene of foodstuffs [ OJ 2004 L 139, p. 1] and [Regulation No 853/2004]. Those Regulations emphasise the responsibility of food business operators to ensure food safety. Slaughterhouses are also subject to a pre-approval procedure whereby the construction, layout and equipment are examined by the competent authority to ensure that they comply with the corresponding technical rules on food safety. Animal welfare concerns should be better integrated into slaughterhouses, their construction and layout, as well as the equipment used therein. ...</p>
+              </item>
+              <item>
+                <num>(15)</num>
+                <p>Protocol No (33) underlines the need to respect the legislative or administrative provisions and customs of the Member States relating, in particular, to religious rites, cultural traditions and regional heritage when formulating and implementing the [Union's] policies on, inter alia, agriculture and the internal market. It is therefore appropriate to exclude from the scope of this Regulation cultural events, where compliance with animal welfare requirements would adversely affect the very nature of the event concerned. ...</p>
+              </item>
+              <item>
+                <num>(18)</num>
+                <p>Derogation from stunning in case of religious slaughter taking place in slaughterhouses was granted by [Council Directive 93/119/EC of 22 December 1993 on the protection of animals at the time of slaughter or killing ( OJ 1993 L 340, p. 21)]. Since [the European Union] provisions applicable to religious slaughter have been transposed differently depending on national contexts and considering that national rules take into account dimensions that go beyond the purpose of this Regulation, it is important that derogation from stunning animals prior to slaughter should be maintained, leaving, however, a certain level of subsidiarity to each Member State. As a consequence, this Regulation respects the freedom of religion and the right to manifest religion or belief in worship, teaching, practice and observance, as enshrined in Article 10 of the Charter of Fundamental Rights of the European Union. ...</p>
+                <blockList>
+                  <item>
+                    <num>(43)</num>
+                    <p>Slaughter without stunning requires an accurate cut of the throat with a sharp knife to minimise suffering. In addition, animals that are not mechanically restrained after the cut are likely to endure a slower bleeding process and, thereby, prolonged unnecessary suffering. Animals of bovine, ovine and caprine species are the most common species slaughtered under this procedure. Therefore, ruminants slaughtered without stunning should be individually and mechanically restrained.</p>
+                  </item>
+                  <item>
+                    <num>(44)</num>
+                    <p>Science and technical progress are regularly made with regard to the handling and restraining of animals at slaughterhouses. It is therefore important to authorise the Commission to amend the requirements applicable to the handling and restraining of animals before slaughter while keeping a uniform and high level of protection for animals.'</p>
+                  </item>
+                </blockList>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11968">
+          <num>7</num>
+          <content eId="para_11968__content">
+            <p>Article 1(3) of Regulation 1099/2009, `Subject matter and scope', provides: `This Regulation shall not apply:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>where animals are killed: ...</p>
+              </item>
+              <item>
+                <num>(iii)</num>
+                <p>during cultural or sporting events; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11969">
+          <num>8</num>
+          <content eId="para_11969__content">
+            <p>Article 2 of the regulation, entitled `Definitions', is worded as follows: `For the purposes of this Regulation, the following definitions shall apply: ...</p>
+            <blockList>
+              <item>
+                <num>(f)</num>
+                <p>``stunning '' means any intentionally induced process which causes loss of consciousness and sensibility without pain, including any process resulting in instantaneous death;</p>
+              </item>
+              <item>
+                <num>(g)</num>
+                <p>``religious rite '' means a series of acts related to the slaughter of animals and prescribed by a religion; ...</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(k)</num>
+                <p>``slaughterhouse '' means any establishment used for slaughtering terrestrial animals which falls within the scope of Regulation ... No 853/2004; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11970">
+          <num>9</num>
+          <content eId="para_11970__content">
+            <p>Article 4 of Regulation No 1099/2009, entitled `Stunning methods', provides: `1.   Animals shall only be killed after stunning in accordance with the methods and specific requirements related to the application of those methods set out in Annex I. The loss of consciousness and sensibility shall be maintained until the death of the animal. ... 4.   In the case of animals subject to particular methods of slaughter prescribed by religious rites, the requirements of paragraph 1 shall not apply provided that the slaughter takes place in a slaughterhouse.'</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the question referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_11971">
+          <num>10</num>
+          <content eId="para_11971__content">
+            <p>As is clear from the file before the Court, the Muslim Feast of Sacrifice ( `the Feast of Sacrifice') is a celebration organised each year for three days by practising Muslims in order to comply with a specific religious precept.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11972">
+          <num>11</num>
+          <content eId="para_11972__content">
+            <p>It is apparent from the order for reference that a large number of practising Muslims in Belgium consider that it is their religious duty to slaughter an animal or to have an animal slaughtered, preferably on the first day of that feast, whose meat is then eaten by the family, with the remainder being given to the poor and needy and to neighbours and more distant family relatives.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11973">
+          <num>12</num>
+          <content eId="para_11973__content">
+            <p>There is a consensus among the majority of Muslims in Belgium, voiced by the Council of Theologians within the Muslim Executive of Belgium, that that slaughter must be carried out without first stunning the animals and in observance of other ritual requirements pertaining to that slaughter ( `ritual slaughter').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11974">
+          <num>13</num>
+          <content eId="para_11974__content">
+            <p>In implementation of Article 16(2) of the Loi du 14 août 1986 relative à la protection et au bien-être des animaux (Law of 14 August 1986 on the protection and welfare of animals) ( Belgisch Staatsblad of 3 December 1986, p. 16382), the arrêté royal du 11 février 1988 relatif à certains abattages prescrits par un rite religieux (Royal Decree of 11 February 1988 relating to certain types of slaughter prescribed by a religious rite) ( Belgisch Staatsblad of 1 March 1988, p. 2888) provided that, in Belgium, slaughter prescribed by a religious rite could be carried out only in properly authorised slaughterhouses ( `approved slaughterhouses') or in `establishments approved by the Minister responsible for agriculture, after consultation with the Minister responsible for public health' ( `temporary slaughterhouses').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11975">
+          <num>14</num>
+          <content eId="para_11975__content">
+            <p>In accordance with that legislation, the Belgian Federal Minister had since 1998 approved temporary slaughterhouses each year which, together with approved slaughterhouses, catered for ritual slaughtering during the Muslim Feast of Sacrifice, thus making good the lack of capacity in approved slaughterhouses resulting from the increase in demand during that period.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11976">
+          <num>15</num>
+          <content eId="para_11976__content">
+            <p>After consulting the Muslim community, the Federal Public Service for Public Health, Food-Chain Safety and the Environment had, on various dates up to 2013, published a manual on the organisation of the Feast of Sacrifice setting out detailed recommendations for the opening and operation of temporary slaughterhouses other than approved slaughterhouses.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11977">
+          <num>16</num>
+          <content eId="para_11977__content">
+            <p>Following the sixth State reform, competence in matters of animal welfare was transferred on 1 July 2014 to the regions. Accordingly, in order to manage the organisation of the Muslim Feast of Sacrifice in its territory that year, the Flemish Region adopted its own manual, similar to the federal manual of 2013, which stated that temporary slaughterhouses could be approved for a given period of time by individual approval on the part of the competent Minister, provided that there was insufficient capacity at approved slaughterhouses in the vicinity and provided that the temporary slaughterhouses satisfied a series of conditions relating to equipment and operational obligations.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11978">
+          <num>17</num>
+          <content eId="para_11978__content">
+            <p>However, on 12 September 2014, the Flemish Regional Minister announced that, from 2015 onwards, he would no longer issue approvals for temporary slaughterhouses at which ritual slaughtering could be practised during the Feast of Sacrifice because such approvals were contrary to Regulation No 1099/2009 and, specifically, the rule laid down in Article 4(4) of that regulation, read together with Article 2(k) thereof, pursuant to which animals subject to particular methods of slaughter prescribed by religious rites may be slaughtered without stunning only in slaughterhouses which satisfy the requirements of Regulation No 853/2004.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11979">
+          <num>18</num>
+          <content eId="para_11979__content">
+            <p>On 4 June 2015, the same Minister sent the mayors of Flemish municipalities a circular ( `the contested decision') informing them that, from 2015 onwards, all animal slaughtering without stunning, even if performed within the context of the Feast of Sacrifice, must be carried out solely in approved slaughterhouses which satisfy the requirements of Regulation No 853/2004.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11980">
+          <num>19</num>
+          <content eId="para_11980__content">
+            <p>The Flemish Regional Minister referred, in particular, to a document from the Directorate-General for Health and Food Safety of the European Commission of 30 July 2015, entitled `Final report of an audit carried out in Belgium from 24 November to 3 December 2014 in order to evaluate the animal welfare controls in place at slaughter and during related operations' (DG(SANTE) 2014-7059 -- RM). That document stated that the `killing of animals without stunning for religious rites outside a slaughterhouse does not comply with Regulation [No 1099/2009]'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11981">
+          <num>20</num>
+          <content eId="para_11981__content">
+            <p>In that context, on 5 February 2016, the applicants in the main proceedings brought proceedings against the Flemish Region before the Nederlandstalige rechtbank van eerste aanleg Brussel (Court of First Instance (Dutch-speaking), Brussels, Belgium).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11982">
+          <num>21</num>
+          <content eId="para_11982__content">
+            <p>First of all, the applicants challenge the applicability of Regulation No 1099/2009 to ritual slaughter on the ground that Article 1(3)(a)(iii) excludes from the scope of the regulation the slaughter of animals during `cultural or sporting events'. In the alternative, the applicants challenge the validity of the rule laid down in Article 4(4) of Regulation No 1099/2009, read together with Article 2(k) thereof, in so far as, on one hand, it infringes freedom of religion protected by Article 10 of the Charter of Fundamental Rights of the European Union ( `the Charter') and Article 9 of the European Convention for the Protection of Human Rights and Fundamental Freedoms, signed at Rome on 4 November 1950 ( `the ECHR') and, on the other, it fails to comply with Belgian customs relating to the religious rituals for the Feast of Sacrifice guaranteed by Article 13 TFEU.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11983">
+          <num>22</num>
+          <content eId="para_11983__content">
+            <p>The referring court observes from the outset that ritual slaughter carried out in the context of the Feast of Sacrifice falls within the scope of Regulation No 1099/2009 because that practice is covered by the concept of `religious ritual', within the meaning of Article 2(g) thereof and is thereby subject to the rule referred to in Article 4(4) of that regulation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11984">
+          <num>23</num>
+          <content eId="para_11984__content">
+            <p>That being the case, that court nonetheless considers that, by implementing the rule laid down in Article 4(4) of Regulation No 1099/2009, read together with Article 2(k) thereof, the contested circular places a restriction on the right to freedom of religion and undermines Belgian customs with regard to religious rituals. That circular obliges practising Muslims to carry out ritual slaughter during the Feast of Sacrifice in approved slaughterhouses, complying with the technical requirements on construction, layout and equipment of establishments laid down by Regulation No 853/2004. However, in the Flemish Region, slaughterhouses which satisfy those requirements are not sufficient in number to satisfy the increase in demand for halal meat usually recorded during the Feast of Sacrifice. Thus, the requirement to carry out ritual slaughter in approved slaughterhouses prevents many practising Muslims from complying with their religious duty to slaughter an animal or to have an animal slaughtered on the first day of the Feast of Sacrifice in accordance with the prescriptions for the ritual.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11985">
+          <num>24</num>
+          <content eId="para_11985__content">
+            <p>Furthermore, according to the referring court, that restriction is neither relevant nor proportionate with regard to the legitimate objectives of protecting animal welfare and public health that it pursues. First, between 1998 and 2014, the approved temporary slaughterhouses succeeded in ensuring that animal suffering was reduced to a sufficient extent and to comply with public health requirements. Second, the conversion of those temporary slaughterhouses into slaughterhouses which comply with the technical specifications relating to construction, layout and equipment laid down by Regulation No 853/2004 would require very high levels of investment which would be disproportionate in relation to the temporary nature of the ritual slaughter carried out there.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11986">
+          <num>25</num>
+          <content eId="para_11986__content">
+            <p>In the light of those considerations, the referring court has doubts as to the validity of Article 4(4) of Regulation No 1099/2009, read together with Article 2(k) thereof.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11987">
+          <num>26</num>
+          <content eId="para_11987__content">
+            <p>In those circumstances, the Nederlandstalige rechtbank van eerste aanleg Brussel (Court of First Instance (Dutch-speaking), Brussels) decided to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling: `Is Article 4(4) of [Regulation No 1099/2009], read in conjunction with Article 2(k) thereof, invalid due to the infringement of Article 9 of [the ECHR], Article 10 of the [Charter] and/or Article 13 [TFEU], in that it provides that animals may be slaughtered in accordance with special methods required by religious rites without being stunned only if such slaughter takes place in a slaughterhouse falling within the scope of [Regulation No 853/2004], whereas there is insufficient capacity in the Vlaams Gewest (Flemish Region) to meet the annual demand for the ritual slaughter of unstunned animals on the occasion of the ... Feast of Sacrifice, and the costs of converting temporary slaughter establishments, approved and monitored by the authorities, into slaughterhouses falling within the scope of [Regulation No 853/2004], do not appear relevant to achieving the objectives pursued of animal welfare and public health and do not appear proportionate thereto?'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the question referred</p>
+        </tblock>
+        <tblock>
+          <p>Admissibility</p>
+        </tblock>
+        <paragraph eId="para_11988">
+          <num>27</num>
+          <content eId="para_11988__content">
+            <p>The Flemish Region, the Netherlands and United Kingdom Governments, the Council of the European Union and the Commission submit that the question referred for a preliminary ruling is inadmissible.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11989">
+          <num>28</num>
+          <content eId="para_11989__content">
+            <p>First, the Flemish Region and the United Kingdom Government challenge the relevance of that question by reason of its formulation. They argue that possible restrictions on the right to freedom of religion derive, if at all, only from Regulation No 853/2004, as it is that regulation which lays down the conditions for the approval of slaughterhouses in which the contested circular requires ritual slaughter to be carried out during the Feast of Sacrifice. Therefore, the question is irrelevant to the dispute in the main proceedings as it concerns the validity of Article 4(4) of Regulation No 1099/2009, read together with Article 2(k) thereof, and not Regulation No 853/2004.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11990">
+          <num>29</num>
+          <content eId="para_11990__content">
+            <p>Second, the Flemish Region, the Netherlands and United Kingdom Governments, the Council and the Commission express doubts as to the usefulness of the question referred. They argue, in particular, that that question is based on domestic factual circumstances which have no connection to Regulation No 1099/2009 and which cannot affect its validity. The issue underlying the dispute in the main proceedings arises simply from the inability of approved slaughterhouses in the Flemish Region to meet demand during the Feast of Sacrifice and the extent of the financial investment necessary to enable temporary slaughterhouses to be converted into slaughterhouses which satisfy the requirements of Regulation No 853/2004.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11991">
+          <num>30</num>
+          <content eId="para_11991__content">
+            <p>It must be recalled from the outset that it is solely for the national court before which the dispute has been brought, and which must assume responsibility for the subsequent judicial decision, to determine in the light of the particular circumstances of the case both the need for a preliminary ruling in order to enable it to deliver judgment and the relevance of the questions which it refers to the Court. Consequently, where the questions submitted concern the interpretation of EU law, the Court is, in principle, bound to give a ruling (judgments of 16 June 2015, Gauweiler and Others, C‑62/14, EU:C:2015:400, paragraph 24, and of 4 May 2016, Pillbox 38, C‑477/14, EU:C:2016:324, paragraph 15).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11992">
+          <num>31</num>
+          <content eId="para_11992__content">
+            <p>It follows that questions referred for a preliminary ruling concerning EU law enjoy a presumption of relevance. The Court may refuse to rule on a question referred for a preliminary ruling by a national court only where it is quite obvious that the interpretation of EU law that is sought bears no relation to the actual facts of the main action or its purpose, where the problem is hypothetical, or where the Court does not have before it the factual or legal material necessary to give a useful answer to the questions submitted to it (judgment of 16 June 2015, Gauweiler and Others, C‑62/14, EU:C:2015:400, paragraph 25).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11993">
+          <num>32</num>
+          <content eId="para_11993__content">
+            <p>In the present case, first, as regards the argument based on the lack of relevance of the question referred for the resolution of the dispute in the main proceedings, it should be pointed out that it is true that the conditions for approving slaughterhouses which the contested circular requires to be used from 2015 for the purposes of ritual slaughter during the Feast of Sacrifice are laid down by Regulation No 853/2004. However, it is also apparent from the file before the Court that that circular was adopted specifically on the basis of the rule laid down in Article 4(4) of Regulation No 1099/2009, read together with Article 2(k), which requires ritual slaughter to be carried out in approved slaughterhouses which satisfy the technical criteria laid down by Regulation No 853/2004.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11994">
+          <num>33</num>
+          <content eId="para_11994__content">
+            <p>In those circumstances, the question posed by the referring court, in so far as it concerns the validity of Article 4(4) of Regulation No 1099/2009, read together with Article 2(k) thereof, is clearly relevant to the actual facts and the purpose of the dispute in the main proceedings and is therefore relevant for the purposes of deciding the dispute.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11995">
+          <num>34</num>
+          <content eId="para_11995__content">
+            <p>Second, as regards the argument that that question is unnecessary because it is based on domestic factual circumstances irrelevant to the question of the invalidity of Regulation No 1099/2009, it should be recalled, as the Advocate General submitted in points 39 to 42 of his Opinion, that that argument must be considered in the context of the examination of the substance of the present request for a preliminary ruling.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11996">
+          <num>35</num>
+          <content eId="para_11996__content">
+            <p>In reality, that argument seeks to challenge the very possibility of declaring the rule laid down in Article 4(4) of Regulation No 1099/2009, read together with Article 2(k) thereof, invalid by reference to the primary law of the European Union and, in particular, the provisions of the Charter and the FEU Treaty on the basis that the obligation which derives from that rule, to carry out ritual slaughter in approved slaughterhouses, is not in itself a restriction on the exercise of the freedom of religion and national customs in connection with religious rituals.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11997">
+          <num>36</num>
+          <content eId="para_11997__content">
+            <p>It follows that the question is admissible.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Substance</p>
+        </tblock>
+        <paragraph eId="para_11998">
+          <num>37</num>
+          <content eId="para_11998__content">
+            <p>By its question, the referring court asks the Court of Justice to examine the validity of Article 4(4) of Regulation No 1099/2009, read together with Article 2(k) thereof, in the light of Article 10 of the Charter and Article 9 of the ECHR and Article 13 TFEU, in so far as those provisions of Regulation No 1099/2009 require ritual slaughter on the Feast of Sacrifice to be carried out in approved slaughterhouses which satisfy the technical requirements laid down by Regulation No 853/2004.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The validity of Article 4(4) of Regulation No 1099/2009, read together with Article 2(k) thereof, in the light of Article 10 of the Charter and Article 9 of the ECHR</p>
+        </tblock>
+        <paragraph eId="para_11999">
+          <num>38</num>
+          <content eId="para_11999__content">
+            <p>As a preliminary point, it must be recalled that the European Union is a union based on the rule of law in which all acts of its institutions are subject to review of their compatibility with, in particular, the Treaties, general principles of law and fundamental rights (judgment of 6 October 2015, Schrems, C‑362/14, EU:C:2015:650, paragraph 60 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12000">
+          <num>39</num>
+          <content eId="para_12000__content">
+            <p>First of all, as regards the right to freedom of religion referred to by the question, the national court makes reference to the protection granted to it by Article 10 of the Charter and Article 9 of the ECHR.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12001">
+          <num>40</num>
+          <content eId="para_12001__content">
+            <p>In that connection, it should be pointed out that whilst, as Article 6(3) TEU confirms, fundamental rights recognised by the ECHR constitute general principles of EU law and whilst Article 52(3) of the Charter requires rights contained in the Charter which correspond to rights guaranteed by the ECHR to be given the same meaning and scope as those laid down by the ECHR, the latter does not constitute, as long as the European Union has not acceded to it, a legal instrument which has been formally incorporated into EU law (judgments of 26 February 2013, Åkerberg Fransson, C‑617/10, EU:C:2013:105, paragraph 44; of 3 September 2015, Inuit Tapiriit Kanatami and Others v Commission, C‑398/13 P, EU:C:2015:535, paragraph 45; and of 15 February 2016, N., C‑601/15 PPU, EU:C:2016:84, paragraph 45).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12002">
+          <num>41</num>
+          <content eId="para_12002__content">
+            <p>The examination of the validity of Article 4(4) of Regulation No 1099/2009, read together with Article 2(k) thereof, requested by the referring court, must therefore be carried out having regard to Article 10 of the Charter (see, by analogy, judgment of 15 February 2016, N., C‑601/15 PPU, EU:C:2016:84, paragraph 46 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12003">
+          <num>42</num>
+          <content eId="para_12003__content">
+            <p>Next, it must be ascertained whether the specific method of slaughter prescribed by religious rights, within the meaning of Article 4(4) of Regulation No 1099/2009, falls within the scope of Article 10(1) of the Charter.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12004">
+          <num>43</num>
+          <content eId="para_12004__content">
+            <p>In that connection, it must be recalled that, according to settled case-law, the right to freedom of conscience and religion enshrined in Article 10(1) of the Charter includes, inter alia, the freedom, either alone or in community with others and in public or in private, to manifest religion or belief, in worship, teaching, practice and observance (see, to that effect, judgments of 14 March 2017, G4S Secure Solutions, C‑157/15, EU:C:2017:203, paragraph 27, and of 14 March 2017, Bougnauoi and ADDH, C‑188/15, EU:C:2017:204, paragraph 29).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12005">
+          <num>44</num>
+          <content eId="para_12005__content">
+            <p>Furthermore it must be observed that the Charter uses the word `religion' in a broad sense, covering both the forum internum, that is the fact of having a belief, and the forum externum, that is the manifestation of religious faith in public (judgments of 14 March 2017, G4S Secure Solutions, C‑157/15, EU:C:2017:203, paragraph 28, and of 14 March 2017, Bougnauoi and ADDH, C‑188/15, EU:C:2017:204, paragraph 30).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12006">
+          <num>45</num>
+          <content eId="para_12006__content">
+            <p>It follows that the specific methods of slaughter prescribed by religious rituals within the meaning of Article 4(4) of Regulation No 1099/2009 fall within the scope of Article 10(1) of the Charter (see, by analogy, ECtHR, 27 June 2000, Cha'are Shalom Ve Tsedek v. France, CE:ECHR:2000:0627JUD002741795, § 74).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12007">
+          <num>46</num>
+          <content eId="para_12007__content">
+            <p>Lastly, it must be determined, as the referring court pointed out, whether the ritual slaughter at issue in the main proceedings is actually covered by the rule laid down in Article 4(4) of Regulation No 1099/2009.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12008">
+          <num>47</num>
+          <content eId="para_12008__content">
+            <p>In that connection it must be stated that the concept of `religious rite' referred to in that provision is defined in Article 2(g) of Regulation No 1099/2009 as `a series of acts related to the slaughter of animals and prescribed by a religion'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12009">
+          <num>48</num>
+          <content eId="para_12009__content">
+            <p>As stated in paragraphs 11 and 12 of the present judgment, it is clear from the order for reference that the ritual slaughter at issue in the main proceedings is a rite celebrated each year by a large number of practising Muslims in Belgium in order to comply with a specific religious precept, which consists in the obligation to slaughter an animal or to have an animal slaughtered without prior stunning, whose meat is then eaten by the family, with the remainder being given to the poor and needy and to neighbours and more distant family relatives.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12010">
+          <num>49</num>
+          <content eId="para_12010__content">
+            <p>It follows that that slaughter is covered by the concept of `religious rite' within the meaning of Article 4(4) of Regulation No 1099/2009. Therefore, it falls within the scope of Article 10(1) of the Charter.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12011">
+          <num>50</num>
+          <content eId="para_12011__content">
+            <p>That finding is not undermined, as the Advocate General observed in points 51 to 58 of his Opinion, by the theological debate among different religious tendencies within the Muslim community as to whether the obligation to slaughter animals without prior stunning during the Feast of Sacrifice is absolute and the existence of alternative solutions in the event that it is impossible to perform such slaughter, relied on by GAIA in its written observations and at the hearing.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12012">
+          <num>51</num>
+          <content eId="para_12012__content">
+            <p>The existence of possible theological differences on that subject cannot in itself invalidate the classification as a `religious rite' of the practice of ritual slaughter as described by the referring court in the present reference for a preliminary ruling.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12013">
+          <num>52</num>
+          <content eId="para_12013__content">
+            <p>Having set out those preliminary observations, it must be considered whether the rule laid down in Article 4(4) of Regulation No 1099/2009, read together with Article 2(k) thereof, constitutes a restriction on the right to freedom of religion guaranteed by Article 10 of the Charter.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12014">
+          <num>53</num>
+          <content eId="para_12014__content">
+            <p>Article 4(1) of Regulation No 1099/2009 provides that `animals shall only be killed after stunning'. Article 4(4) provides that in the case of animals subject to particular methods of slaughter prescribed by religious rites, `the requirements of paragraph 1 shall not apply provided that the slaughter takes place in a slaughterhouse'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12015">
+          <num>54</num>
+          <content eId="para_12015__content">
+            <p>Article 2(k) of Regulation No 1099/2009 defines the concept of `slaughterhouse', for the purposes of that regulation, as `any establishment used for slaughtering terrestrial animals which falls within the scope of [Regulation No 853/2004]'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12016">
+          <num>55</num>
+          <content eId="para_12016__content">
+            <p>Thus, it is clear from a combined reading of Article 4(1) and (4) of Regulation No 1099/2009 and Article 2(k) thereof that the practice of ritual slaughter without prior stunning is authorised by way of derogation in the European Union, so long as such slaughter takes place in an establishment which is subject to authorisation granted by the competent national authorities and which, for those purposes, complies with the technical requirements relating to the construction, layout and equipment required by Regulation No 853/2004.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12017">
+          <num>56</num>
+          <content eId="para_12017__content">
+            <p>In that connection, it must be stated that the derogation authorised by Article 4(4) of Regulation No 1099/2009 does not lay down any prohibition on the practice of ritual slaughter in the European Union but, on the contrary, gives expression to the positive commitment of the EU legislature to allow the ritual slaughter of animals without prior stunning in order to ensure effective observance of the freedom of religion, in particular of practising Muslims during the Feast of Sacrifice.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12018">
+          <num>57</num>
+          <content eId="para_12018__content">
+            <p>That interpretation is confirmed by recital 18 of Regulation No 1099/2009 which clearly states that that regulation lays down an express derogation from the requirement for stunning animals prior to slaughter, specifically for the purposes of ensuring respect for the freedom of religion and the right to manifest religion or belief in worship, teaching, practice and observance, as laid down in Article 10 of the Charter.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12019">
+          <num>58</num>
+          <content eId="para_12019__content">
+            <p>In that context, it must be held that, by laying down the obligation to carry out ritual slaughter in an approved slaughterhouse, which satisfies the requirements of Regulation No 853/2004, Article 4(4) of Regulation No 1099/2009, read together with Article 2(k) thereof, simply aims to organise and manage, from a technical point of view, the freedom to carry out slaughter without prior stunning for religious purposes.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12020">
+          <num>59</num>
+          <content eId="para_12020__content">
+            <p>That technical framework is not in itself of such a nature as to place a restriction on the right to freedom of religion of practising Muslims.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12021">
+          <num>60</num>
+          <content eId="para_12021__content">
+            <p>First, it must be recalled that Article 4(4) of Regulation No 1099/2009, read together with Article 2(k) thereof, makes ritual slaughter subject to the same technical conditions as those which apply, in principle, to any slaughter of animals within the European Union, regardless of the method followed.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12022">
+          <num>61</num>
+          <content eId="para_12022__content">
+            <p>Thus, as the Advocate General observed in point 78 of his Opinion, the obligation to use an approved slaughterhouse, in accordance with the technical specifications required by Regulation No 853/2004, applies in a general and neutral manner to any party that organises slaughtering of animals and applies irrespective of any connection with a particular religion and thereby concerns in a non-discriminatory manner all producers of meat in the European Union.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12023">
+          <num>62</num>
+          <content eId="para_12023__content">
+            <p>Second, it must be stated that, having laid down such technical specifications, the EU legislature reconciles compliance with the specific methods of slaughter prescribed by religious rites with those of the essential rules laid down by Regulations No 1099/2009 and No 853/2004 with regard to the protection of the well-being of animals at the time of killing and the health of all consumers of meat.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12024">
+          <num>63</num>
+          <content eId="para_12024__content">
+            <p>On one hand, the protection of animal welfare is the main objective pursued by Regulation No 1099/2009 and, in particular, by Article 4(4) thereof, as is clear from the title of the regulation and recital 2 thereof.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12025">
+          <num>64</num>
+          <content eId="para_12025__content">
+            <p>Thus, as the Court has already noted, the importance of animal welfare has resulted, inter alia, in the adoption by the Member States of Protocol (No 33) pursuant to which, in formulating and implementing the European Union's policies, the European Union and the Member States are to pay full regard to the welfare requirements of animals (see, to that effect judgments of 19 June 2008, Nationale Raad van Dierenkwekers en Liefhebbers and Andibel, C‑219/07, EU:C:2008:353, paragraph 27, and of 23 April 2015Zuchtvieh-Export, C‑424/13, EU:C:2015:259, paragraph 35).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12026">
+          <num>65</num>
+          <content eId="para_12026__content">
+            <p>It is in that context that the EU legislature took the view that, in order to avoid excessive and unnecessary suffering of animals killed without first being stunned, all ritual slaughter must be carried out in a slaughterhouse which complies with the technical specifications required by Regulation No 853/2004. As set out, in substance, in recitals 43 and 44 of Regulation No 1099/2009 it is only in this type of slaughterhouse that it is possible, inter alia, to `individually and mechanically' restrain those animals and take account of `scien[tific] and technical progress' made in that regard, to minimise their suffering as far as possible.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12027">
+          <num>66</num>
+          <content eId="para_12027__content">
+            <p>On the other hand, as is clear from recital 8 of Regulation No 1099/2009, the aims of ensuring a high level of protection of human health led the EU legislature to emphasise the responsibility of food business operators to ensure food safety and to impose the obligation to slaughter animals in slaughterhouses which comply with the technical specifications relating to the construction, layout and equipment mentioned, in particular, in Annex III to Regulation No 853/2004.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12028">
+          <num>67</num>
+          <content eId="para_12028__content">
+            <p>As the Advocate General pointed out, in points 64 and 65 of his Opinion, by the adoption of that regulation, the EU legislature expressly intended to ensure, in accordance with the intention set out in recital 2 thereof, that all food of animal origin, irrespective of the method of slaughter chosen, must be produced and sold in accordance with strict rules the primary objective of which is to ensure food hygiene and food safety and thereby prevent adverse effects on human health.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12029">
+          <num>68</num>
+          <content eId="para_12029__content">
+            <p>It follows from the foregoing considerations that the rule laid down in Article 4(4) of Regulation No 1099/2009, read together with Article 2(k) thereof, does not in itself give rise to any restriction on the right to freedom of religion of practising Muslims protected by Article 10 of the Charter during the Feast of Sacrifice.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12030">
+          <num>69</num>
+          <content eId="para_12030__content">
+            <p>However, the referring court takes the view that the obligation deriving from that rule may hinder the practice of ritual slaughter for many practising Muslims and limit their right to freedom of religion in the Flemish Region.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12031">
+          <num>70</num>
+          <content eId="para_12031__content">
+            <p>Those considerations are related to the fact that approved slaughterhouses in the Flemish Region which comply with the requirements of Regulation No 853/2004 do not have a sufficient slaughter capacity to satisfy the increase in demand for halal meat recorded during the Feast of Sacrifice. The establishment, at the expense of the Muslim Community, of new approved slaughterhouses or the conversion of temporary slaughterhouses into approved slaughterhouses which operated until 2014 would require huge financial investments. Furthermore, in light of the temporary nature of the practice of ritual slaughter, those investments are said not to be justified, either in order to avoid unnecessary or excessive animal suffering or to offer better guarantees in terms of public health. They may also appear disproportionate in relation to the added value in respect of animal welfare and public health.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12032">
+          <num>71</num>
+          <content eId="para_12032__content">
+            <p>In that connection, it should be stated from the outset however that, according to settled case-law, the validity of an EU measure must be assessed on the basis of the facts and the law as they stood at the time when the measure was adopted and cannot depend on retrospective assessments of its efficacy. Where the EU legislature is obliged to assess the future effects of rules to be adopted and those effects cannot be accurately foreseen, its assessment is open to criticism only if it appears manifestly incorrect in the light of the information available to it at the time of the adoption of the rules in question (judgments of 17 October 2013, Schaible, C‑101/12, EU:C:2013:661, paragraph 50, and of 9 June 2016, Pesce and Others, C‑78/16 and C‑79/16, EU:C:2016:428, paragraph 50).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12033">
+          <num>72</num>
+          <content eId="para_12033__content">
+            <p>The validity of a provision of EU law is to be assessed according to the characteristics of those provisions themselves and cannot depend on the particular circumstances of a given case (see, to that effect, judgment of 28 July 2016, Ordre des barreaux francophnes and germanophones and Others, C‑543/14, EU:C:2016:605, paragraph 29).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12034">
+          <num>73</num>
+          <content eId="para_12034__content">
+            <p>In the present case, first, it is clear from the file submitted to the Court that the issue described by the referring court and mentioned in paragraph 70 of the present judgment concerns only a limited number of municipalities in the Flemish Region. Therefore, that issue cannot be regarded as inherently related to the application throughout the European Union of the rule laid down in Article 4(4) of Regulation No 1099/2009, read together with Article 2(k) thereof.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12035">
+          <num>74</num>
+          <content eId="para_12035__content">
+            <p>Thus, the mere fact that the application of Article 4(4) of Regulation No 1099/2009, read together with Article 2(k) thereof, is likely to affect the freedom to practice ritual slaughter in one region of one Member State in particular cannot affect the validity of that provision with regard to Article 10 of the Charter. Since Regulation No 1099/2009 has an impact in all Member States, its validity must be examined taking into account not the particular situation of a single Member State, but that of all EU Member States (see, by analogy, judgment of 4 May 2016, Poland v Parliament and Council, C‑358/14, EU:C:2016:323, paragraph 103 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12036">
+          <num>75</num>
+          <content eId="para_12036__content">
+            <p>For the remainder, according to the indications set out in the file before the Court, the potential costs mentioned by the referring court did not prevent two former temporary slaughterhouses in the Flemish Region in 2015 and three of those establishments in 2016 from complying with the rule laid down in Article 4(4) of Regulation No 1099/2009, read together with Article 2(k) thereof.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12037">
+          <num>76</num>
+          <content eId="para_12037__content">
+            <p>Second, the difficulty related to the potential additional costs arises from economic conditions which are purely domestic.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12038">
+          <num>77</num>
+          <content eId="para_12038__content">
+            <p>The need to establish new slaughterhouses which satisfy the requirements of Regulation No 853/2004, with the risk of additional costs to be borne by the Muslim community that that would generate, results only from the alleged lack of capacity in the existing approved slaughterhouses in the Flemish Region.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12039">
+          <num>78</num>
+          <content eId="para_12039__content">
+            <p>Such a lack of slaughter capacity in a region of a Member State which occurs temporarily, related to the increase in demand for ritual slaughter over several days during the Feast of Sacrifice, arises from a combination of domestic circumstances which cannot affect the validity of Article 4(4) of that regulation, read together with Article 2(k) thereof.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12040">
+          <num>79</num>
+          <content eId="para_12040__content">
+            <p>It follows from the foregoing that the doubts expressed by the referring court as to a possible infringement of freedom of religion as a result of the disproportionate financial burden which the Muslim communities concerned may have to bear are unfounded and are not capable of invalidating the considerations set out in paragraph 68 of the present judgment, according to which the rule laid down in Article 4(4) of Regulation No 1099/2009, read together with Article 2(k) thereof, does not in itself create any restriction on the right to freedom of religion by Muslims guaranteed by Article 10 of the Charter.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12041">
+          <num>80</num>
+          <content eId="para_12041__content">
+            <p>It follows from all of the foregoing considerations that the examination of Article 4(4) of Regulation No 1099/2009, read together with Article 2k thereof, has not disclosed any issues affecting its validity with regard to Article 10 of the Charter.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The validity of Article 4(4) of Regulation No 1099/2009, read together with Article 2(k) thereof, with regard to Article 13 TFEU</p>
+        </tblock>
+        <paragraph eId="para_12042">
+          <num>81</num>
+          <content eId="para_12042__content">
+            <p>As far as concerns the assessment of the validity of Article 4(4) of Regulation No 1099/2009, read together with Article 2(k) thereof, in the light of Article 13 TFEU, the latter provision states that the European Union and the Member States must pay full regard to the welfare requirements of animals, while respecting `the legislative or administrative provisions and customs of the Member States relating in particular to religious rites, cultural traditions and regional heritage'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12043">
+          <num>82</num>
+          <content eId="para_12043__content">
+            <p>However, in that connection it must be held, as the Commission pointed out in its written observations, that, in the present case, there is no clear evidence in the file identifying which Belgian legislative and administrative provisions and customs concerning the religious rite of the Feast of Sacrifice fall within Article 13 TFEU. The Belgian legislation in force at the time the request for a preliminary ruling was lodged provides that ritual slaughter must be carried out in an approved slaughterhouse which satisfies the requirements of Regulation No 853/2004. As a result, the only provisions of national law on religious rites which may be concerned by the application of the rule referred to in Article 4(4) or Regulation No 1099/2009, read together with Article 2(k), are those which were in force on 4 June 2015, the date on which the contested circular was issued.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12044">
+          <num>83</num>
+          <content eId="para_12044__content">
+            <p>In any event, even if it were found that the national court refers to those provisions of national law, the fact remains that, since it was held that the rule resulting from the application of Article 4(4) of Regulation No 1099/2009, read together with Article 2(k) thereof, does not entail any restriction on the right to freedom of religion of Muslims guaranteed by Article 10 of the Charter, nothing submitted to the Court leads to the conclusion, because of the same considerations as those set out in paragraphs 56 to 80 of the present judgment, that Article 4(4) of Regulation No 1099/2009, read together with Article 2(k) thereof, is invalid with regard to Article 13 TFEU.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12045">
+          <num>84</num>
+          <content eId="para_12045__content">
+            <p>Having regard to all of the foregoing considerations, the answer to the question referred is that examination of the question has not disclosed any issues capable of affecting the validity of Article 4(4) of Regulation No 1099/2009, read together with Article 2(k) thereof, having regard to Article 10 of the Charter and Article 13 TFEU.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_12046">
+          <num>85</num>
+          <content eId="para_12046__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Grand Chamber) hereby rules: Examination of the question has not disclosed any issues capable of affecting the validity of Article 4(4) of Council Regulation (EC) No 1099/2009 of 24 September 2009 on the protection of animals at the time of killing, read together with Article 2(k) thereof, having regard to Article 10 of the Charter of Fundamental Rights of the European Union and Article 13 TFEU.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Dutch.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

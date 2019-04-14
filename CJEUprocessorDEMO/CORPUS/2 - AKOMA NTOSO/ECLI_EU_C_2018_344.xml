@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+      <references source="#source">
+        <TLCOrganization eId="institution_84" showAs="" href="/akn/ontology/Organization/Institution/institution_84" />
+      </references>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Third Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>30 May 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Privileges and immunities of the European Union Protocol No 7 -- Article 1 -- Whether or not prior authorisation from the Court is necessary -- Structural Funds -- EU financial assistance -- Attachment proceedings against a national authority to attach sums deriving from that assistance) In Case C‑370/16, REQUEST for a preliminary ruling under Article 267 TFEU from the Tribunale di Novara (District Court, Novara, Italy), made by decision of 21 January 2016, received at the Court on 4 July 2016, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">Bruno Dell `Acqua</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#">Eurocom Srl</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="respondent" refersTo="#institution_84">Regione Lombardia</party>
+      </p>
+      <p>, intervening parties:</p>
+      <p>
+        <party as="intervening" refersTo="#">Renato Quattrocchi</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="intervening" refersTo="#">Antonella Pozzoli</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="intervening" refersTo="#">Loris Lucini</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="intervening" refersTo="#">Diego Chierici</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="intervening" refersTo="#">Nicoletta Malaraggia</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="intervening" refersTo="#">Elio Zonca</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="intervening" refersTo="#">Sonia Fusi</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="intervening" refersTo="#">Danilo Cattaneo</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="intervening" refersTo="#">Alberto Terraneo</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="intervening" refersTo="#">Luigi Luzzi</party>
+      </p>
+      <p>, THE COURT (Third Chamber), composed of L. Bay Larsen (Rapporteur), President of the Chamber, J. Malenovský, M. Safjan, D. Šváby and M. Vilaras, Judges, Advocate General: J. Kokott, Registrar: A. Calot Escobar, having regard to the written procedure, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>the Italian Government, by G. Palmieri, acting as Agent, and F. Di Matteo, avvocato dello Stato,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by P. Arenas and D. Nardi, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 26 July 2017,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_12047">
+          <num>1</num>
+          <content eId="para_12047__content">
+            <p>This request for a preliminary ruling concerns the interpretation of the last sentence of Article 1 of Protocol (No 7) on the Privileges and Immunities of the European Union, ( OJ 2010 C 83, p. 266) ( `the Protocol').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12048">
+          <num>2</num>
+          <content eId="para_12048__content">
+            <p>The request has been made in enforcement proceedings instituted by Mr Bruno Dell `Acqua against Eurocom Srl in the form of attachment proceedings against a third party, namely the Regione Lombardia (Region of Lombardy, Italy).</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>The Protocol</p>
+        </tblock>
+        <paragraph eId="para_12049">
+          <num>3</num>
+          <content eId="para_12049__content">
+            <p>Under the last sentence of Article 1 of the Protocol, `the property and assets of the Union shall not be the subject of any administrative or legal measure of constraint without the authorisation of the Court of Justice'.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Regulation (EC) No 1083/2006</p>
+        </tblock>
+        <paragraph eId="para_12050">
+          <num>4</num>
+          <content eId="para_12050__content">
+            <p>Article 1 of Council Regulation (EC) No 1083/2006 of 11 July 2006 laying down general provisions on the European Regional Development Fund, the European Social Fund and the Cohesion Fund and repealing Regulation (EC) No 1260/1999 ( OJ 2006 L 210, p. 25) states that this regulation lays down the general rules governing, inter alia, the European Regional Development Fund (ERDF) and the European Social Fund (ESF), referred to as the Structural Funds.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12051">
+          <num>5</num>
+          <content eId="para_12051__content">
+            <p>Under Article 3(2)(a) of that regulation, `the Convergence objective', which is aimed at speeding up the convergence of the least-developed Member States and regions, is to be the priority of the Structural Funds and the Cohesion Fund ( `the Funds').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12052">
+          <num>6</num>
+          <content eId="para_12052__content">
+            <p>Article 9(1) of that regulation provides: `The Funds shall provide assistance which complements national actions, including actions at the regional and local levels, integrating into them the priorities of the Community.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12053">
+          <num>7</num>
+          <content eId="para_12053__content">
+            <p>According to Article 11(1) of Regulation No 1083/2006, `the objectives of the Funds shall be pursued in the framework of close cooperation, (hereinafter referred to as partnership), between the Commission and each Member State'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12054">
+          <num>8</num>
+          <content eId="para_12054__content">
+            <p>Pursuant to Article 14(1) of that regulation, the budget of the European Union allocated to the Funds is to be implemented within the framework of shared management between the Member States and the Commission.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12055">
+          <num>9</num>
+          <content eId="para_12055__content">
+            <p>Article 32(1) of Regulation No 1083/2006 provides that each operational programme is to cover a period between 1 January 2007 and 31 December 2013. Each operational programme is to be drawn up by the Member State, as set out in Article 32(2), and subsequently adopted by the Commission, in accordance with Article 32(4) and (5).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12056">
+          <num>10</num>
+          <content eId="para_12056__content">
+            <p>Under Article 37(1)(g)(iii) of that regulation, operational programmes for the convergence, regional competitiveness and employment objectives are to contain information regarding the competent body for receiving the payments made by the Commission and the body or bodies responsible for making payments to the beneficiaries.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12057">
+          <num>11</num>
+          <content eId="para_12057__content">
+            <p>According to Article 61(a) of Regulation No 1083/2006 the certifying authority of an operational programme is, in particular, responsible for drawing up and submitting to the Commission certified statements of expenditure and applications for payment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12058">
+          <num>12</num>
+          <content eId="para_12058__content">
+            <p>Article 70(1) and (2) of that regulation provides: `1.   Member States shall be responsible for the management and control of operational programmes, in particular through the following measures: ...</p>
+            <blockList>
+              <item>
+                <num>(b)</num>
+                <p>preventing, detecting and correcting irregularities and recovering amounts unduly paid together with interest on late payments where appropriate. They shall notify these to the Commission and keep the Commission informed of the progress of administrative and legal proceedings. 2.   When amounts unduly paid to a beneficiary cannot be recovered, the Member State shall be responsible for reimbursing the amounts lost to the general budget of the European Union, when it is established that the loss has been incurred as a result of fault or negligence on its part.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12059">
+          <num>13</num>
+          <content eId="para_12059__content">
+            <p>Article 76(1) and (2) of Regulation No 1083/2006 is worded as follows: `1.   Payments by the Commission of the contribution from the Funds shall be made in accordance with the budget appropriations. Each payment shall be posted to the earliest open budget commitments of the Fund concerned. 2.   Payments shall take the form of prefinancing, interim payments and payment of the final balance. They shall be made to the body designated by the Member State.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12060">
+          <num>14</num>
+          <content eId="para_12060__content">
+            <p>Article 80 of that regulation provides as follows: `Member States shall satisfy themselves that the bodies responsible for making the payments ensure that the beneficiaries receive the total amount of the public contribution as quickly as possible and in full. No amount shall be deducted or withheld and no specific charge or other charge with equivalent effect shall be levied that would reduce these amounts for the beneficiaries.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12061">
+          <num>15</num>
+          <content eId="para_12061__content">
+            <p>Article 93(1) and (3) of that regulation provides: `1.   The Commission shall automatically decommit any part of a budget commitment in an operational programme that has not been used for payment of the prefinancing or interim payments or for which an application for payment has not been sent in conformity with Article 86 by 31 December of the second year following the year of budget commitment under the programme, with the exception mentioned in paragraph 2. ... 3.   That part of commitments still open on 31 December 2015 shall be automatically decommitted if the Commission has not received an acceptable application for payment for it by 31 March 2017.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12062">
+          <num>16</num>
+          <content eId="para_12062__content">
+            <p>Article 93(1) of Regulation No 1083/2006, as amended by Regulation (EC) No 539/2010 of the European Parliament and of the Council of 16 June 2010 ( OJ 2010 L 158, p. 1), reads as follows: `The Commission shall automatically decommit any part of the amount calculated in accordance with the second subparagraph in an operational programme that has not been used for payment of the prefinancing or interim payments or for which an application for payment has not been sent in conformity with Article 86 by 31 December of the second year following the year of budget commitment under the programme, with the exception mentioned in paragraph 2. For the purpose of the automatic decommitment, the Commission shall calculate the amount by adding one sixth of the annual budget commitment related to the 2007 total annual contribution to each of the 2008 to 2013 budget commitments.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Regulation (EU) No 1303/2013</p>
+        </tblock>
+        <paragraph eId="para_12063">
+          <num>17</num>
+          <content eId="para_12063__content">
+            <p>Article 26(1) of Regulation (EU) No 1303/2013 of the European Parliament and of the Council of 17 December 2013 laying down common provisions on the European Regional Development Fund, the European Social Fund, the Cohesion Fund, the European Agricultural Fund for Rural Development and the European Maritime and Fisheries Fund and laying down general provisions on the European Regional Development Fund, the European Social Fund, the Cohesion Fund and the European Maritime and Fisheries Fund and repealing Regulation No 1083/2006 ( OJ 2013 L 347, p. 320) states: `[The ERDF, the ESF, the Cohesion Fund, the European Agricultural Fund for Rural Development and the European Maritime and Fisheries Fund, which operate under a common framework] shall be implemented through programmes in accordance with the Partnership Agreement. Each programme shall cover the period from 1 January 2014 to 31 December 2020.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12064">
+          <num>18</num>
+          <content eId="para_12064__content">
+            <p>Article 132(1) of that regulation provides: `Subject to the availability of funding from initial and annual prefinancing and interim payments, the managing authority shall ensure that a beneficiary receives the total amount of eligible public expenditure due in full and no later than 90 days from the date of submission of the payment claim by the beneficiary. No amount shall be deducted or withheld and no specific charge or other charge with equivalent effect shall be levied that would reduce amounts due to beneficiaries.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12065">
+          <num>19</num>
+          <content eId="para_12065__content">
+            <p>Article 152(1) of that regulation states: `This Regulation shall not affect either the continuation or modification, including the total or partial cancellation of assistance approved by the Commission on the basis of Regulation (EC) No 1083/2006 ... That Regulation ... shall consequently continue to apply after 31 December 2013 to that assistance or the operations concerned until their closure . ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12066">
+          <num>20</num>
+          <content eId="para_12066__content">
+            <p>Article 153 of that regulation states that Regulation No 1083/2006 is repealed with effect from 1 January 2014 `without prejudice to the provisions laid down in Article 152'.</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the question referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_12067">
+          <num>21</num>
+          <content eId="para_12067__content">
+            <p>Mr Dell `Acqua is a creditor of the company Eurocom. In order to assert his rights, he instituted, before the Tribunale di Novara (District Court, Novara, Italy), enforcement proceedings in the form of attachment proceedings against a third party, namely the Region of Lombardy, alleged to be a debtor of Eurocom.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12068">
+          <num>22</num>
+          <content eId="para_12068__content">
+            <p>The Region of Lombardy admitted to being a debtor of Eurocom, but contended that that debt comprised sums belonging to the Structural Funds of the ESF that were specifically hypothecated to the attainment of public development and employment support objectives and which the Region of Lombardy could disburse only to the final beneficiary, namely, Eurocom. According to the interpretation of the Region of Lombardy, those sums could not be subject to attachment under Article 80 of Regulation No 1083/2006.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12069">
+          <num>23</num>
+          <content eId="para_12069__content">
+            <p>As regards the nature of the sums at issue, none of the parties to the main proceedings have disputed, before the referring court, the fact that those sums derived from the abovementioned Structural Funds. Accordingly, the referring court has concluded that the sums at issue constitute `Community assets or, in any event, assets relating to the Community' and is uncertain, in the light of Article 132 of Regulation No 1303/2013, which essentially reproduces Article 80 of Regulation No 1083/2006, as to the applicability of the last sentence of Article 1 of the Protocol to the facts of the present case.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12070">
+          <num>24</num>
+          <content eId="para_12070__content">
+            <p>In those circumstances, the Tribunale di Novara (District Court, Novara), decided to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling: `Is prior authorisation in accordance with the last sentence of Article 1 of the [protocol] necessary when, in attachment proceedings against a third party, the sums to be attached are no longer held by [the payer], the relevant EU authority, but have already been transferred to the national paying agency?'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the question referred</p>
+        </tblock>
+        <paragraph eId="para_12071">
+          <num>25</num>
+          <content eId="para_12071__content">
+            <p>As a preliminary point, it should be noted that the order for reference does not specify the financing period that applies to the claim held by Eurocom against the Region of Lombardy. Therefore, the Court put a written question in that regard to the Italian Republic and the Commission in order to determine whether the period at issue in the main proceedings is covered by Regulation No 1083/2006 or Regulation No 1303/2013. As is clear from Article 32(1) of Regulation No 1083/2006, that regulation covers operational programmes in the period from 2007 to 2013, whereas Regulation No 1303/2013 covers the period from 2014 to 2020, in accordance with Article 26(1) of that regulation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12072">
+          <num>26</num>
+          <content eId="para_12072__content">
+            <p>In response, both the Italian Republic and the Commission stated that the claim at issue in the main proceedings derived from the regional operational programme for the Region of Lombardy for the period from 2007 to 2013.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12073">
+          <num>27</num>
+          <content eId="para_12073__content">
+            <p>In the present case, it should be noted that that programme was approved by Commission Decision C(2007) 5465 of 6 November 2007, which was addressed to the Italian Republic and was adopted following submission, by that Member State, of a proposal for that programme. Pursuant to Article 1 of that decision, the regional operational programme for the Region of Lombardy fell within the programming period from 1 January 2007 to 31 December 2013.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12074">
+          <num>28</num>
+          <content eId="para_12074__content">
+            <p>Consequently, it must be held that Regulation No 1083/2006 applies to the facts of the present case.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12075">
+          <num>29</num>
+          <content eId="para_12075__content">
+            <p>Furthermore, in its response, the Commission noted, on the basis of information gathered from the Region of Lombardy, that, first, the Italian Republic had not applied for co-financing from the European Union in relation to the Eurocom claim to be attached and that, secondly, given that the deadline for applying for the final balance for the 2007-2013 programming period was 31 March 2017 and that the claim had not been declared for co-financing from the European Union, it was to be entirely supported by national State funds.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12076">
+          <num>30</num>
+          <content eId="para_12076__content">
+            <p>In that regard, it should be noted that the approach of the referring court is expressly founded upon the assumption that the sums forming the object of the attachment proceedings before that court derived from the ESF.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12077">
+          <num>31</num>
+          <content eId="para_12077__content">
+            <p>According to settled case-law of the Court, Article 267 TFEU establishes a procedure for direct cooperation between the Court and the courts of the Member States. In that procedure, which is based on a clear separation of functions between the national courts and the Court, any assessment of the facts of the case is a matter for the national court, which must determine, in the light of the particular circumstances of the case, both the need for a preliminary ruling in order to enable it to deliver judgment and the relevance of the questions which it submits to the Court, whilst the Court is empowered to give rulings on the interpretation or the validity of an EU provision only on the basis of the facts which the national court puts before it (see, inter alia, judgment of 25 October 2017, Polbud -- Wykonawstwo, C‑106/16, EU:C:2017:804, paragraph 27).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12078">
+          <num>32</num>
+          <content eId="para_12078__content">
+            <p>Therefore, it is for the national court to check, where appropriate, the accuracy of the facts relevant to the resolution of the dispute before it.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12079">
+          <num>33</num>
+          <content eId="para_12079__content">
+            <p>In view of its preliminary observations, it must be considered that, by its question, the referring court is essentially asking whether the last sentence of Article 1 of the Protocol must be interpreted as meaning that prior authorisation from the Court is necessary when a third party initiates attachment proceedings seeking to attach a claim against a Member State body that owes a corresponding debt to the debtor of the third party where that debtor is a beneficiary of funds granted for the purpose of implementing projects co-financed by the ESF.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12080">
+          <num>34</num>
+          <content eId="para_12080__content">
+            <p>In that regard, it is settled case-law that, by providing that the property and assets of the European Union may not be the subject of any administrative or legal measure of constraint without the authorisation of the Court, Article 1 of the Protocol is intended to prevent any interference with the functioning and independence of the European Union. It is clear from the wording of that provision that such immunity is automatic and, in the absence of the authorisation of the Court, prevents the execution of any measure of constraint against the European Union without there being any need for the institution concerned to expressly rely on Article 1 of the Protocol (order of 29 September 2015, ANKO v Commission, C‑2/15 SA, not published, EU:C:2015:670, paragraph 12 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12081">
+          <num>35</num>
+          <content eId="para_12081__content">
+            <p>In the present case, the Italian Republic submits that prior authorisation from the Court is required in view of, first, the fact that sums deriving from the ESF must be allocated to particular expenditure and, secondly, the nature of the tasks devolved in that regard to the Region of Lombardy under EU law. Thus it argues that resources deriving from the Funds must be hypothecated to particular expenditure, meaning that those resources must be designated for the implementation of EU policies and cannot be diverted from that purpose. That hypothecation remains intact when those resources are transferred to the national entities that are then regarded as mere managing authorities. It takes the view that the hypothecation of the resources to particular expenditure ends only once the objective pursued by the European Union has been fully realised and, therefore, only once the sums have passed into the ownership of the beneficiary. Furthermore, the Italian Republic claims that, in accordance with the organisational model of indirect implementation, national authorities are thus contributing to the implementation of a task falling within the competence of EU bodies. It follows that, in carrying out that activity, the national authorities are not performing their own tasks, but are rather performing European tasks, on the basis of their own legislative and administrative powers.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12082">
+          <num>36</num>
+          <content eId="para_12082__content">
+            <p>That line of argument cannot succeed.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12083">
+          <num>37</num>
+          <content eId="para_12083__content">
+            <p>In that regard, Article 76(1) and (2) of Regulation No 1083/2006 provides that payments by the Commission of the contribution from the Funds, which take the form of prefinancing, interim payments and payment of the final balance, are to be made to the body designated by the Member State. As stated in Article 37(1)(g)(iii) of that regulation, operational programmes for the convergence, competitiveness and employment objectives must contain implementing provisions indicating the competent body for receiving the payments made by the Commission and the body or bodies responsible for making payments to the beneficiaries.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12084">
+          <num>38</num>
+          <content eId="para_12084__content">
+            <p>Under Article 70(1) of that regulation, the Member States are responsible for the management and control of operational programmes, in particular by preventing, detecting and correcting irregularities and recovering amounts unduly paid. When amounts unduly paid to a beneficiary cannot be recovered, Article 70(2) provides that the Member State is responsible for reimbursing the amounts lost to the general budget of the European Union, when it is established that the loss has been incurred as a result of fault or negligence on its part.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12085">
+          <num>39</num>
+          <content eId="para_12085__content">
+            <p>Thus, payments made by the Commission to the Member States under the Funds entail a transfer of assets from the EU budget to the budgets of the Member States.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12086">
+          <num>40</num>
+          <content eId="para_12086__content">
+            <p>However, since those assets are withdrawn from the EU budget and transferred to the Member States, they cannot be regarded, once paid out, as assets of the European Union, within the meaning of the last sentence of Article 1 of the Protocol. Such an interpretation is supported by the case-law of the Court, which states that, once the Commission has granted financial assistance to a Member State under a Fund, that State must be considered to be entitled to the financial assistance in question (see, by analogy, judgment of 10 September 2009, Commission v Ente per le Ville Vesuviane and Ente per le Ville Vesuviane v Commission, C‑445/07 P and C‑455/07 P, EU:C:2009:529, paragraph 51).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12087">
+          <num>41</num>
+          <content eId="para_12087__content">
+            <p>The fact that such assets are designated for the implementation of EU policies is irrelevant in that regard.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12088">
+          <num>42</num>
+          <content eId="para_12088__content">
+            <p>As submitted by the Commission, in accordance with the three forms of payment to Member States provided for in Regulation No 1083/2006 and recalled in paragraph 37 above, co-financing from the EU budget is fully hypothecated, for the purpose of implementing the entire operational programme, to the budget of the Member State, rather than to the beneficiaries of specific projects. The sums allocated to co-financing from the EU budget are included in the budgetary appropriations of the Member State and are supplementary to the other resources the Member State needs to ensure co-financing, which it must draw from its national budget. Moreover, as can be inferred from Regulation No 1083/2006, and in particular from Article 93(1) and (3) thereof, the Member State may, at its discretion, forgo requesting the payment of financial assistance, in particular, under the ESF.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12089">
+          <num>43</num>
+          <content eId="para_12089__content">
+            <p>Thus, the financial assistance mechanism established under Regulation No 1083/2006 does not provide a managing authority or its creditors with the certainty that a given project will obtain co-financing from the ESF.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12090">
+          <num>44</num>
+          <content eId="para_12090__content">
+            <p>The provisions of Regulation No 1083/2006 relate to the relationship between the Commission and the Member State, but do not create a direct link between, on the one hand, the sums paid to the Member State under a Fund such as the ESF and, on the other hand, the authorities designated by the Member State to manage the financed interventions and the final beneficiaries (see, by analogy, judgment of 10 September 2009, Commission v Ente per le Ville Vesuviane and Ente per le Ville Vesuviane v Commission, C‑445/07 P and C‑455/07 P, EU:C:2009:529, paragraph 48).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12091">
+          <num>45</num>
+          <content eId="para_12091__content">
+            <p>As the Advocate General stated, in essence, in point 44 of her Opinion, the relationship between the co-financing provided by the European Union, under the ESF, and the implementation of a given project is too indirect for it to be concluded that the sums that the authorities of Member States owe to the beneficiaries for implementing those projects constitute EU assets and, accordingly, must be covered by the protection against attachment afforded to assets of the European Union under the last sentence of Article 1 of the Protocol so as to prevent interference with the functioning and independence of the European Union.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12092">
+          <num>46</num>
+          <content eId="para_12092__content">
+            <p>In the light of all the foregoing, the answer to the question referred is that the last sentence of Article 1 of the Protocol must be interpreted as meaning that prior authorisation from the Court is not necessary when a third party initiates attachment proceedings seeking to attach a claim against a Member State body that owes a corresponding debt to the debtor of the third party where that debtor is a beneficiary of funds granted for the purpose of implementing projects co-financed by the ESF.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_12093">
+          <num>47</num>
+          <content eId="para_12093__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Third Chamber) hereby rules: The last sentence of Article 1 of Protocol (No 7) on the Privileges and Immunities of the European Union must be interpreted as meaning that prior authorisation from the Court is not necessary when a third party initiates attachment proceedings seeking to attach a claim against a Member State body that owes a corresponding debt to the debtor of the third party where that debtor is a beneficiary of funds granted for the purpose of implementing projects co-financed by the European Social Fund.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Italian.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Third Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>4 July 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Transport -- Regulation (EC) No 261/2004 -- Article 2(b) -- Scope -- Definition of `operating air carrier' -- Lease of aircraft including crew `Wet lease') In Case C‑532/17, REQUEST for a preliminary ruling under Article 267 TFEU from the Landgericht Hamburg (Regional Court, Hamburg, Germany) made by decision of 29 June 2017, received at the Court on 11 September 2017, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">Wolfgang Wirth</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="appellant" refersTo="#">Theodor Mülder</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="appellant" refersTo="#">Ruth Mülder</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="appellant" refersTo="#">Gisela Wirth</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#">Thomson Airways Ltd</party>
+      </p>
+      <p>, THE COURT (Third Chamber), composed of L. Bay Larsen, President of the Chamber, J. Malenovský (Rapporteur), M. Safjan, D. Šváby and M. Vilaras, Judges, Advocate General: H. Saugmandsgaard Øe, Registrar: A. Calot Escobar, having regard to the written procedure, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>Wirth and Mülder and Mülder and Wirth, by E. Stamer, Rechtsanwalt,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>Thomson Airways Ltd., by P. Kauffmann, Rechtsanwalt,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the German Government, by T. Henze, M. Hellmann and J. Techert, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Polish Government, by B. Majczyna, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by G. Braun and K. Simonsson, acting as Agents, having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_15676">
+          <num>1</num>
+          <content eId="para_15676__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Article 2(b) of Regulation (EC) No 261/2004 of the European Parliament and of the Council of 11 February 2004 establishing common rules on compensation and assistance to passengers in the event of denied boarding and of cancellation or long delay of flights, and repealing Regulation (EEC) No 295/91 ( OJ 2004 L 46, p. 1).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15677">
+          <num>2</num>
+          <content eId="para_15677__content">
+            <p>The request has been made in proceedings between Wolfgang Wirth and Theodor Mülder and Ruth Mülder and Gisela Wirth, on the one hand, and Thomson Airways Ltd, on the other, as to whether the latter must compensate those four passengers for a flight delayed beyond its scheduled time of arrival by more than three hours.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>Regulation No 261/2004</p>
+        </tblock>
+        <paragraph eId="para_15678">
+          <num>3</num>
+          <content eId="para_15678__content">
+            <p>Recitals 1 and 7 of Regulation No 261/2004 state: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Action by the [European Union] in the field of air transport should aim, among other things, at ensuring a high level of protection for passengers. Moreover, full account should be taken of the requirements of consumer protection in general. ...</p>
+              </item>
+              <item>
+                <num>(7)</num>
+                <p>In order to ensure the effective application of this Regulation, the obligations that it creates should rest with the operating air carrier who performs or intends to perform a flight, whether with owned aircraft, under dry or wet lease, or on any other basis.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15679">
+          <num>4</num>
+          <content eId="para_15679__content">
+            <p>Article 2(b) of that regulation, entitled `Definitions', lays down that, for the purposes of the regulation, ```operating air carrier '' means an air carrier that performs or intends to perform a flight under a contract with a passenger or on behalf of another person, legal or natural, having a contract with that passenger'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15680">
+          <num>5</num>
+          <content eId="para_15680__content">
+            <p>Article 3(5) of the regulation, entitled `Scope', provides: `This Regulation shall apply to any operating air carrier providing transport to passengers covered by paragraphs 1 and 2. Where an operating air carrier which has no contract with the passenger performs obligations under this Regulation, it shall be regarded as doing so on behalf of the person having a contract with that passenger.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Regulation (EC) No 2111/2005</p>
+        </tblock>
+        <paragraph eId="para_15681">
+          <num>6</num>
+          <content eId="para_15681__content">
+            <p>Under recitals 1 and 13 of Regulation (EC) No 2111/2005 of the European Parliament and of the Council of 14 December 2005 on the establishment of a Community list of air carriers subject to an operating ban within the Community and on informing air transport passengers of the identity of the operating air carrier, and repealing Article 9 of Directive 2004/36/EC ( OJ 2005 L 344, p. 15): `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Action by the [European Union] in the field of air transport should aim, as a priority, at ensuring a high level of protection for passengers from safety risks. Moreover, full account should be taken of the requirements of consumer protection in general. ...</p>
+              </item>
+              <item>
+                <num>(13)</num>
+                <p>Council Regulation (EEC) No 2299/89 of 24 July 1989 on a code of conduct for computer reservation systems (CRS) [( OJ 1989 L 220, p. 1), as amended by Council Regulation (EC) No 323/1999 of 8 February 1999 ( OJ 1999 L 40, p. 1)] entitles consumers booking a flight via a computer reservation system to be informed of the identity of the operating air carrier. Nevertheless, even in scheduled air transport, industry practices exist, such as wet leasing, or code sharing if booked without a CRS, where the air carrier which has sold the flight under its name does not actually operate it and where there is currently no legal right for the passenger to be informed of the identity of the air carrier actually performing the service.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15682">
+          <num>7</num>
+          <content eId="para_15682__content">
+            <p>Article 11(1) of Regulation No 2111/2005, entitled `Information on the identity of the operating air carrier', provides: `Upon reservation, the air carriage contractor shall inform the passenger of the identity of the operating air carrier or carriers, whatever the means used to make the reservation.'</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the question referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_15683">
+          <num>8</num>
+          <content eId="para_15683__content">
+            <p>Under a contract for the lease of aircraft, including crew ( `a wet lease'), TUIFly GmbH chartered an aircraft, including crew, from Thomson Airways for a stipulated number of flights. That contract provided that TUIFly was responsible for `ground handling including passenger handling, passenger welfare at all times, cargo handling, security in respect of passengers and baggage, arranging on-board services, etc.'. In order to operate those flights, TUIFly applied for the slots, marketed the flights and secured all authorisations.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15684">
+          <num>9</num>
+          <content eId="para_15684__content">
+            <p>The applicants in the main proceedings had a booking confirmation for a flight from Hamburg (Germany) to Cancún (Mexico) bearing a flight number, the code for which refers to TUIFly. The booking confirmation stated that the bookings were issued by TUIFly, but that the flight was `operated' by Thomson Airways.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15685">
+          <num>10</num>
+          <content eId="para_15685__content">
+            <p>Since the flight was significantly delayed, although the exact delay has not been given by the referring court, the applicants in the main proceedings claimed from Thomson Airways the compensation to which they considered themselves entitled under Articles 5 and 7 of Regulation No 261/2004, as interpreted by this Court.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15686">
+          <num>11</num>
+          <content eId="para_15686__content">
+            <p>Thomson Airways refused to pay compensation on the ground that it was not the operating air carrier within the meaning of Article 2(b) of that regulation, so that, even if due, it was not for Thomson Airways to pay the compensation owed to passengers under the regulation in the event of delay by three hours or more.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15687">
+          <num>12</num>
+          <content eId="para_15687__content">
+            <p>The applicants in the main proceedings then successfully brought an action before the Amtsgericht Hamburg (Local Court, Hamburg, Germany). That court held that Thomson Airways should also be regarded as an operating air carrier on the ground that, according to recital 7 of Regulation No 261/2004, it is irrelevant whether the operating air carrier performs the flight with its own aircraft or under a `dry' or `wet' lease. Accordingly, both an air carrier which makes use of chartered aircraft, with or without a crew, for the performance of a flight and an air carrier which actually performs a flight with its own aircraft and employs its crew are operating air carriers.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15688">
+          <num>13</num>
+          <content eId="para_15688__content">
+            <p>Furthermore, that court also pointed to the fact that the booking confirmation issued to the applicants in the main proceedings expressly refers to the defendant in the main proceedings as the operating air carrier. According to that court, in order to achieve the objective of consumer protection pursued by Regulation No 261/2004, a consumer must be able to rely on the information contained in the booking confirmation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15689">
+          <num>14</num>
+          <content eId="para_15689__content">
+            <p>Thomson Airways appealed against the judgment of the Amtsgericht Hamburg (Local Court, Hamburg) before the referring court, the Landgericht Hamburg (Regional Court, Hamburg, Germany), on the ground that, since only the air carrier which bears the operational responsibility for the flight is in a position to carry out the duties of Regulation No 261/2004, as it has the necessary presence on the ground in the airports and holds the information concerning passengers, it is the latter which must be regarded as the operating air carrier within the meaning of the regulation. Given that, in the case in the main proceedings, TUIFly bore the operational responsibility for the performance of the flight, the claims for compensation must be brought against that air carrier.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15690">
+          <num>15</num>
+          <content eId="para_15690__content">
+            <p>In those circumstances, the Landgericht Hamburg (Regional Court, Hamburg) decided to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling: `Is the concept of ``operating air carrier '' in [Regulation No 261/2004] to be interpreted as meaning that an air carrier which leases to another air carrier an aircraft, including crew, for a contractually-stipulated number of flights under a so-called wet lease, but which does not bear the principal operational responsibility for the individual flights, and where it is stated in the passengers' booking confirmation that the flight is ``operated by '' that very carrier, is the operating air carrier within the meaning of that regulation?'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the question referred</p>
+        </tblock>
+        <paragraph eId="para_15691">
+          <num>16</num>
+          <content eId="para_15691__content">
+            <p>By its question, the referring court asks, in essence, whether the concept of `operating air carrier' within the meaning of Regulation No 261/2004 and, in particular, of Article 2(b) thereof must be interpreted as covering the case of an air carrier, such as that at issue in the main proceedings, which leases to another air carrier an aircraft, including crew, under a wet lease, but does not bear the operational responsibility for the flights, even where the booking confirmation of a seat on a flight issued to passengers states that that flight is operated by the former air carrier.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15692">
+          <num>17</num>
+          <content eId="para_15692__content">
+            <p>In that regard, it should be made clear that, according to Article 2(b) of Regulation No 261/2004, the concept of an `operating air carrier' must be understood as referring to an `air carrier that performs or intends to perform a flight under a contract with a passenger or on behalf of another person, legal or natural, having a contract with that passenger'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15693">
+          <num>18</num>
+          <content eId="para_15693__content">
+            <p>That definition thus sets out two cumulative conditions which must be satisfied if an air carrier is to be regarded as an `operating air carrier' relating, first, to the operation of the flight in question and, second, to there being a contract concluded with a passenger.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15694">
+          <num>19</num>
+          <content eId="para_15694__content">
+            <p>The first condition relates to the concept of a `flight', which is the predominant element of the two conditions. The Court has previously held that that concept must be understood as `an air transport operation, being as it were a ``unit '' of such transport, performed by an air carrier which fixes its itinerary' (judgments of 10 July 2008, Emirates Airlines, C‑173/07, EU:C:2008:400, paragraph 40, of 13 October 2011, Sousa Rodríguez and Others, C‑83/10, EU:C:2011:652, paragraph 27, and of 22 June 2016, Mennens, C‑255/15, EU:C:2016:472, paragraph 20).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15695">
+          <num>20</num>
+          <content eId="para_15695__content">
+            <p>It follows that an air carrier which, in the course of its air passenger carriage activities, decides to perform a particular flight, including fixing its itinerary, and, by so doing, offers to conclude a contract of air carriage with members of the public must be regarded as the operating air carrier. The adoption of such a decision means that that air carrier bears the responsibility for performing the flight in question, including, inter alia, any cancellation or significantly delayed time of arrival.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15696">
+          <num>21</num>
+          <content eId="para_15696__content">
+            <p>In the present case, it is common ground that Thomson Airways merely leased the aircraft and the crew which performed the flight at issue in the main proceedings, but that the fixing of the itinerary and the performance of the flight were determined by TUIFly.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15697">
+          <num>22</num>
+          <content eId="para_15697__content">
+            <p>In those circumstances, without it being necessary to examine the second cumulative condition provided by Article 2(b) of Regulation N o 261/2004, it must be held that an air carrier, such as Thomson Airways in the main proceedings, which leases an aircraft and its crew to another air carrier under a wet lease, cannot, in any event, be regarded as an `operating air carrier' within the meaning of Regulation No 261/2004 and, in particular, of Article 2(b) thereof.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15698">
+          <num>23</num>
+          <content eId="para_15698__content">
+            <p>That finding is consistent with the objective of ensuring a high level of protection for passengers, set out in recital 1 of Regulation No 261/2004, in so far as it enables the passengers carried to be ensured compensation or that they will be cared for, without needing to take account of arrangements made by the air carrier which decided to perform the flight in question with another air carrier for the purposes of actually performing that flight.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15699">
+          <num>24</num>
+          <content eId="para_15699__content">
+            <p>The finding is, moreover, consistent with the principle, set out in recital 7 of that regulation, according to which, in order to ensure the effective application thereof, the obligations that it creates should rest with the operating air carrier, whether with owned aircraft or under a wet lease.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15700">
+          <num>25</num>
+          <content eId="para_15700__content">
+            <p>Indeed, the referring court also adds that the booking confirmation issued to the applicants in the main proceedings states that the flight at issue in the main proceedings was `operated' by the air carrier which leased the aircraft and its crew. However, although that factor appears to be relevant for the purposes of applying Regulation No 2111/2005, it cannot affect the determination of the `operating air carrier' within the meaning of Regulation No 261/2004, since it clearly follows from recital 1 of Regulation No 2111/2005 that the latter pursues an objective different from that of Regulation No 261/2004.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15701">
+          <num>26</num>
+          <content eId="para_15701__content">
+            <p>In the light of all of the foregoing considerations, the answer to the question referred is that the concept of an `operating air carrier' within the meaning of Regulation No 261/2004 and, in particular, of Article 2(b) thereof must be interpreted as not covering the case of an air carrier, such as that at issue in the main proceedings, which leases to another air carrier an aircraft, including crew, under a wet lease, but does not bear the operational responsibility for the flights, even where the booking confirmation of a seat on a flight issued to passengers states that that flight is operated by the former air carrier.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_15702">
+          <num>27</num>
+          <content eId="para_15702__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Third Chamber) hereby rules: The concept of an `operating air carrier' within the meaning of Regulation (EC) No 261/2004 of the European Parliament and of the Council of 11 February 2004 establishing common rules on compensation and assistance to passengers in the event of denied boarding and of cancellation or long delay of flights, and repealing Regulation (EEC) No 295/91 and, in particular, of Article 2(b) thereof must be interpreted as not covering the case of an air carrier, such as that at issue in the main proceedings, which leases to another air carrier an aircraft, including crew, under a wet lease, but does not bear the operational responsibility for the flights, even where the booking confirmation of a seat on a flight issued to passengers states that that flight is operated by the former air carrier.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: German.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

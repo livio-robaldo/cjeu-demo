@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Fifth Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>17 May 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Common system of value added tax -- Directive 2006/112/EC -- Articles 282 to 292 -- Special scheme for small enterprises -- Exemption scheme -- Obligation to opt for the application of the special scheme in the reference calendar year) In Case C‑566/16, REQUEST for a preliminary ruling under Article 267 TFEU from the Nyíregyházi Közigazgatási és Munkaügyi Bíróság (Administrative and Labour Court, Nyíregyháza, Hungary), made by decision of 25 October 2016, received at the Court on 10 November 2016, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">Dávid Vámos</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#">Nemzeti Adó- és Vámhivatal Fellebbviteli Igazgatósága</party>
+      </p>
+      <p>, THE COURT (Fifth Chamber), composed of J.L. da Cruz Vilaça, President of the Chamber, E. Levits (Rapporteur), A. Borg Barthet, M. Berger and F. Biltgen, Judges, Advocate General: N. Wahl, Registrar: A. Calot Escobar, having regard to the written procedure, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>the Hungarian Government, by M.Z. Fehér and E.E. Sebestyén, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by L. Lozano Palacios and B. Béres, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 23 November 2017,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_11737">
+          <num>1</num>
+          <content eId="para_11737__content">
+            <p>This request for a preliminary ruling concerns the interpretation of EU law and, in particular, of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax ( OJ 2006 L 347, p. 1, `the VAT Directive').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11738">
+          <num>2</num>
+          <content eId="para_11738__content">
+            <p>The request has been made in proceedings between Mr Dávid Vámos and the Nemzeti Adó- és Vámhivatal Fellebbviteli Igazgatósága (Appeals Directorate of the National Tax and Customs Administration, Hungary, `the Appeals Directorate'), concerning that directorate's decision finding a value added tax (VAT) debt owed by Mr Vámos and imposing on him a financial penalty and interest for late payment.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <paragraph eId="para_11739">
+          <num>3</num>
+          <content eId="para_11739__content">
+            <p>Article 9 of the VAT Directive states: `1. ``Taxable person '' shall mean any person who, independently, carries out in any place any economic activity, whatever the purpose or results of that activity. Any activity of producers, traders or persons supplying services, including mining and agricultural activities and activities of the professions, shall be regarded as ``economic activity ''. The exploitation of tangible or intangible property for the purposes of obtaining income therefrom on a continuing basis shall in particular be regarded as an economic activity. ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11740">
+          <num>4</num>
+          <content eId="para_11740__content">
+            <p>Article 213(1) of that directive provides: `Every taxable person shall state when his activity as a taxable person commences, changes or ceases. Member States shall allow, and may require, the statement to be made by electronic means, in accordance with conditions which they lay down.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11741">
+          <num>5</num>
+          <content eId="para_11741__content">
+            <p>Article 214 of the VAT Directive provides: `1.   Member States shall take the measures necessary to ensure that the following persons are identified by means of an individual number:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>every taxable person, with the exception of those referred to in Article 9(2), who within their respective territory carries out supplies of goods or services in respect of which VAT is deductible, other than supplies of goods or services in respect of which VAT is payable solely by the customer or the person for whom the goods or services are intended, in accordance with Articles 194 to 197 and Article 199; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11742">
+          <num>6</num>
+          <content eId="para_11742__content">
+            <p>Article 272 of that directive provides: `1.   Member States may release the following taxable persons from certain or all obligations referred to in Chapters 2 to 6: ...</p>
+            <blockList>
+              <item>
+                <num>(d)</num>
+                <p>taxable persons covered by the exemption for small enterprises provided for in Articles 282 to 292; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11743">
+          <num>7</num>
+          <content eId="para_11743__content">
+            <p>Article 273 of the VAT Directive states: `Member States may impose other obligations which they deem necessary to ensure the correct collection of VAT and to prevent evasion, subject to the requirement of equal treatment as between domestic transactions and transactions carried out between Member States by taxable persons and provided that such obligations do not, in trade between Member States, give rise to formalities connected with the crossing of frontiers. The option under the first paragraph may not be relied upon in order to impose additional invoicing obligations over and above those laid down in Chapter 3.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11744">
+          <num>8</num>
+          <content eId="para_11744__content">
+            <p>Article 281 of that directive provides: `Member States which might encounter difficulties in applying the normal VAT arrangements to small enterprises, by reason of the activities or structure of such enterprises, may, subject to such conditions and limits as they may set, and after consulting the VAT Committee, apply simplified procedures, such as flat-rate schemes, for charging and collecting VAT provided that they do not lead to a reduction thereof.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11745">
+          <num>9</num>
+          <content eId="para_11745__content">
+            <p>Article 282 of the VAT Directive, in Section 2 entitled `Exemptions or graduated relief', of Chapter 1 of Title XII of the VAT Directive, entitled `Special Schemes', provides: `The exemptions and graduated tax relief provided for in this Section shall apply to the supply of goods and services by small enterprises.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11746">
+          <num>10</num>
+          <content eId="para_11746__content">
+            <p>Article 287 of the VAT Directive provides: `Member States which acceded after 1 January 1978 may exempt taxable persons whose annual turnover is no higher than the equivalent in national currency of the following amounts at the conversion rate on the day of their accession: ...</p>
+            <blockList>
+              <item>
+                <num>(12)</num>
+                <p>Hungary: EUR 35000; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11747">
+          <num>11</num>
+          <content eId="para_11747__content">
+            <p>Article 290 of that directive states: `Taxable persons who are entitled to exemption from VAT may opt either for the normal VAT arrangements or for the simplified procedures provided for in Article 281. In this case, they shall be entitled to any graduated tax relief provided for under national legislation.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Hungarian law</p>
+        </tblock>
+        <tblock>
+          <p>The VAT Law</p>
+        </tblock>
+        <paragraph eId="para_11748">
+          <num>12</num>
+          <content eId="para_11748__content">
+            <p>Paragraph 2 of the az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (Law CXXVII of 2007 on value added tax; `the VAT Law') states: `In accordance with the present Law, the following shall be subject to [VAT]:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>the supply of goods or services for consideration in the national territory by a taxable person acting as such ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11749">
+          <num>13</num>
+          <content eId="para_11749__content">
+            <p>Paragraph 187 of that law provides: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>A taxable person who is established in the national territory for an economic purpose, or who is not so established but whose address or place of habitual residence is in the national territory, has a right to opt for the personal exemption in accordance with the provisions of this Chapter.</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>In the event that the taxable person exercises the right to opt for an exemption referred to in paragraph 1, during the period of the personal exemption and in his capacity as an exempt person,</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>he shall not be subject to payment of the tax;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>he shall not be authorised to deduct input tax;</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>he may only issue an invoice in which the amount of the tax charged and the rate laid down in Paragraph 83 do not appear.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11750">
+          <num>14</num>
+          <content eId="para_11750__content">
+            <p>Paragraph 188(1) of the VAT Law states: `The personal exemption may be opted for if the amount of the consideration paid or owed in respect of all the supplies of goods or services by the taxable person in accordance with Paragraph 2(a), expressed in [Hungarian forints (HUF)] and accumulated annually, does not exceed the upper limit laid down in subparagraph 2.(a) neither actually in the calendar year preceding the reference calendar year,</p>
+            <blockList>
+              <item>
+                <num>(b)</num>
+                <p>neither actually nor reasonably foreseeably in the reference calendar year.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11751">
+          <num>15</num>
+          <content eId="para_11751__content">
+            <p>Paragraph 188(2) of the VAT Law, in the version applicable until 31 December 2012, stated that the maximum threshold giving entitlement to the personal exemption was set at HUF 5000000 (approximately EUR 16040). From 1 January 2013, that threshold was raised to HUF 6000000 (approximately EUR 19250).</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The Code of fiscal procedure</p>
+        </tblock>
+        <paragraph eId="para_11752">
+          <num>16</num>
+          <content eId="para_11752__content">
+            <p>Article 16 of the adózás rendjéről szóló 2003. évi XCII. törvény (Law No XCII of 2003 on General Taxation Procedure, `the Code of fiscal procedure') is worded as follows: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Only a taxable person who has been issued with a tax identification number may pursue a taxable activity, without prejudice to the provisions of Paragraphs 20 and 21.(2) A taxable person who wishes to pursue a taxable activity must be registered with the State tax authority in order to be allocated a tax identification number.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11753">
+          <num>17</num>
+          <content eId="para_11753__content">
+            <p>Paragraph 17(1)(a) of the Code of fiscal procedure states that `if a taxable person's tax liability or taxable activity corresponds to that of a sole trader by virtue of the Law governing the activities of sole traders, that person must apply for a tax identification number by registering with the authority responsible for matters relating to the activities of sole traders (submitting a duly completed registration form), and in that way he will comply with the obligation to register with the State tax authority'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11754">
+          <num>18</num>
+          <content eId="para_11754__content">
+            <p>Paragraph 22(1)(a) of that code provides: `The person liable to value added tax shall indicate at the time of stating when his taxable activity commences that he opts for the personal exemption.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11755">
+          <num>19</num>
+          <content eId="para_11755__content">
+            <p>Paragraph 172(1)(c) of that code states: `Except as provided for in subparagraph 2, a fine of up to HUF 200000 [approximately EUR 640] may be imposed in the case of individuals, and of up to HUF 500000 [approximately EUR 1600] in the case of other taxable persons, if they fail to comply with the obligation to register (initial registration and communication of any changes), provide data or open a current account, or with the obligation to submit tax returns.'</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the question referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_11756">
+          <num>20</num>
+          <content eId="para_11756__content">
+            <p>At the end of an inspection, the Hungarian tax authority found that, from 2007 until 22 January 2014, Mr Vámos had made 778 sales of electronic items on two online platforms, without registering as a taxable person for VAT purposes or declaring the income from those sales and, consequently, imposed a financial penalty on him.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11757">
+          <num>21</num>
+          <content eId="para_11757__content">
+            <p>That tax authority also determined that, in the period between 1 January 2012 and 31 December 2013, Mr Vámos had been engaged in sales activity for which he obtained income which did not exceed the maximum threshold giving entitlement to the personal exemption laid down in Paragraph 188(2) of the VAT Law, and that between 1 and 22 January 2014, Mr Vámos was also engaged in sales activity, which brought him negligible income.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11758">
+          <num>22</num>
+          <content eId="para_11758__content">
+            <p>On 22 January 2014, Mr Vámos registered as a person liable to VAT, and opted for the personal exemption, a VAT tax exemption scheme for small enterprises set out in Paragraph 187 et seq. of the VAT Law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11759">
+          <num>23</num>
+          <content eId="para_11759__content">
+            <p>In proceedings different from those which had led to a financial penalty being imposed on Mr Vámos, the Hungarian tax authority carried out an ex post inspection of the tax returns corresponding to all of Mr Vámos's taxes and public subsidies for the tax years 2012 to 2014. At the end of that inspection, the tax authority found a VAT debt owed by Mr Vámos for the period between the first quarter of 2012 and the first quarter of 2014, and imposed on him a further financial penalty plus interest for late payment on the basis of the tax arrears thereby made apparent.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11760">
+          <num>24</num>
+          <content eId="para_11760__content">
+            <p>Mr Vámos filed an administrative appeal against that decision, although the Appeals Directorate upheld that decision. The Appeals Directorate referred, first, to Paragraph 187(1) of the VAT Law, on the basis of which Mr Vámos was permitted to opt for the personal exemption, and stated, secondly, that Paragraph 22(1)(c) of the code of fiscal procedure only allowed the personal exemption to be opted for at the time of stating when the taxable activity commences and that that option could no longer be exercised thereafter. According to the Appeals Directorate, since Mr Vámos had registered with the tax authority and opted for the personal exemption only on 22 January 2014, he was entitled to benefit from that personal exemption only as from that date.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11761">
+          <num>25</num>
+          <content eId="para_11761__content">
+            <p>Mr Vámos challenged the Appeal Directorate's decision before the referring court, arguing that the pursuit of an economic activity within the meaning of Paragraph 6 of the VAT Law only entails being subject to VAT and implies, therefore, an obligation to make the statement in accordance with Article 213(1) of the VAT Directive and Paragraph 16 of the Code of fiscal procedure, but not an obligation to pay VAT. Since Mr Vámos's income, as established by the Hungarian tax authority, did not exceed, either for 2012 or 2013, the maximum threshold giving entitlement to the personal exemption, the Hungarian tax authority should not have required him to pay VAT for the tax years 2012 and 2013, but should by contrast have been required to ask him, in the context of the ex post inspection, whether he wished to opt for the personal exemption.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11762">
+          <num>26</num>
+          <content eId="para_11762__content">
+            <p>In those circumstances the Nyíregyházi Közigazgatási és Munkaügyi Bíróság (Administrative and Labour Court, Nyíregyháza, Hungary) decided to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling: `Is national legislation pursuant to which the tax authority may, when carrying out an ex post tax inspection, preclude the possibility of opting for the personal exemption, on the basis that the taxable person only has that possibility at the time of stating when his taxable activity commences, contrary to EU law?'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the question referred</p>
+        </tblock>
+        <paragraph eId="para_11763">
+          <num>27</num>
+          <content eId="para_11763__content">
+            <p>By its question, the referring court asks, in essence, whether EU law must be interpreted as precluding national legislation which excludes a special VAT taxation scheme providing for an exemption for small enterprises -- that scheme having been adopted in accordance with the provisions of Section 2 of Chapter I of Title XII of the VAT Directive -- from being applied to a taxable person who fulfils all the material conditions but did not exercise the right to opt for the application of that scheme at the same time as he declared the commencement of his economic activities to the tax authority.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11764">
+          <num>28</num>
+          <content eId="para_11764__content">
+            <p>In that regard, it must be borne in mind, first of all, that Articles 282 to 292 and, in particular, Article 287(12) of the VAT Directive provide that Member States may grant an exemption from VAT to small enterprises.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11765">
+          <num>29</num>
+          <content eId="para_11765__content">
+            <p>It must be pointed out, next, that Article 290 of that directive provides that taxable persons who are entitled to exemption from VAT may opt either for the normal VAT arrangements or for the simplified procedures provided for in Article 281 of that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11766">
+          <num>30</num>
+          <content eId="para_11766__content">
+            <p>In addition, in accordance with the wording of Articles 281 and 284 to 287 of the VAT Directive, Member States may introduce and retain special schemes for taxing VAT, if those schemes comply with the VAT rules. Furthermore, recital 49 of that directive states that Member States should be allowed to continue to apply their special schemes for small enterprises.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11767">
+          <num>31</num>
+          <content eId="para_11767__content">
+            <p>Lastly, the personal exemption scheme, provided for under Hungarian law, is a special scheme which enables undertakings whose turnover does not exceed a certain threshold from benefiting from a VAT exemption. That exemption scheme, applicable to small enterprises, implies, in accordance with Paragraph 187(2) of the VAT Law, that the taxable person is not subject to the payment of VAT, is not authorised to deduct input VAT and may only issue an invoice in which the amount of the VAT does not appear. In the context of its observations to the Court, the Hungarian Government observed that the right to opt for the tax exemption may still be exercised after the statement of commencement of activity, but it only has prospective effect.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11768">
+          <num>32</num>
+          <content eId="para_11768__content">
+            <p>In the present case, the taxable person had requested to be able to benefit from the personal exemption, which he was denied on the ground that the right to opt for that exemption ought to have been exercised during the calendar year in which he wished to benefit from that exemption.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11769">
+          <num>33</num>
+          <content eId="para_11769__content">
+            <p>As regards the obligation to state when an economic activity commences, the Court has held that the VAT Directive does not preclude national legislation requiring a taxable person to make such a statement where the proceeds of that activity do not exceed the maximum threshold giving entitlement to the exemption scheme for small enterprises (see, to that effect, order of 30 September 2015, Balogh, C‑424/14, not published, EU:C:2015:708, paragraph 30). It has also held that the VAT Directive does not preclude a taxable person's failure to comply with his obligation to make that statement from being penalised by an administrative fine, provided that that fine is proportionate (see, to that effect, order of 30 September 2015, Balogh, C‑424/14, not published, EU:C:2015:708, paragraph 37).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11770">
+          <num>34</num>
+          <content eId="para_11770__content">
+            <p>In the present case, it must be examined whether a Member State may make the benefit of an exemption scheme conditional upon the taxpayer opting for that scheme at the same time as he submits the declaration of commencement of activity and, in the absence of that choice being made at that time, automatically apply the normal arrangements for the taxation of VAT.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11771">
+          <num>35</num>
+          <content eId="para_11771__content">
+            <p>The Court points out, first, that, in the light of the provisions mentioned in paragraph 30 above, the application of the special scheme for small enterprises is a voluntary option available to Member States in order to organise their systems of taxation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11772">
+          <num>36</num>
+          <content eId="para_11772__content">
+            <p>Secondly, under the first paragraph of Article 273 of the VAT Directive, Member States may impose obligations other than those prescribed by that directive, but which they deem necessary to ensure the correct collection of VAT and to prevent evasion.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11773">
+          <num>37</num>
+          <content eId="para_11773__content">
+            <p>In that regard, the Court has established that it follows from that provision that every Member State is under an obligation to take all legislative and administrative measures appropriate for ensuring collection of all the VAT due on its territory and for preventing evasion (judgment of 9 July 2015, Cabinet Medical Veterinar Dr. Tomoiagă Andrei, C‑144/14, EU:C:2015:452, paragraph 25 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11774">
+          <num>38</num>
+          <content eId="para_11774__content">
+            <p>The Court has also held that, outside the limits laid down therein, Article 273 of the VAT Directive does not specify either the conditions or the obligations which the Member States may impose and therefore gives the Member States a margin of discretion with regard to the means of ensuring collection of all the VAT due on their territory and for combating fraud (judgment of 26 October 2017, BB construct, C‑534/16, EU:C:2017:820, paragraph 21 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11775">
+          <num>39</num>
+          <content eId="para_11775__content">
+            <p>It is indeed true that, under Article 272(1)(d) of the VAT Directive, it is open to Member States to release taxable persons covered by the exemption scheme for small enterprises from certain or all obligations referred to in Chapters 2 to 6 of Title XI of that directive. However, this is merely an option, so that Member States are not required to release taxable persons from such obligations.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11776">
+          <num>40</num>
+          <content eId="para_11776__content">
+            <p>Consequently, it must be found, as is apparent from points 34 and 46 of the Advocate General's Opinion, that the decision of the Hungarian legislature to set up an exemption scheme but to subject its application to certain procedural requirements falls within the discretion that the VAT Directive leaves to Member States.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11777">
+          <num>41</num>
+          <content eId="para_11777__content">
+            <p>However, while the Member States have discretion in the choice of measures to be adopted in order to ensure the correct collection of VAT and to prevent evasion, they must, however, exercise that power in accordance with EU law and its general principles, and, in particular, in accordance with the principle of proportionality (see, to that effect, judgment of 9 July 2015, Salomie and Oltean, C‑183/14, EU:C:2015:454, paragraph 50 and case-law cited), and the principles of fiscal neutrality and legal certainty.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11778">
+          <num>42</num>
+          <content eId="para_11778__content">
+            <p>Accordingly, first, as regards the principle of proportionality, it must be found, as the Advocate General observed in points 57 and 58 of his Opinion, that the requirement to pay VAT for past sales is not a penalty for the failure to comply with the obligation to declare the commencement of activity and to opt for an exemption scheme, but the recovery of the VAT which became payable when an operator such as Mr Vámos began exercising his economic activity.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11779">
+          <num>43</num>
+          <content eId="para_11779__content">
+            <p>In addition, in the judgment of 9 September 2004, Vermietungsgesellschaft Objekt Kirchberg ( C‑269/03, EU:C:2004:512), the Court held that EU law, and in particular the principle of proportionality, does not preclude a Member State, which has exercised the power to allow its taxpayers a right of option for a special taxation scheme, from adopting legislation which makes full deduction of the input VAT paid conditional upon non-retroactive, prior approval of the tax authorities.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11780">
+          <num>44</num>
+          <content eId="para_11780__content">
+            <p>The Court made clear, in that connection, that the lack of retroactivity of the approval process does not make that process disproportionate (judgment of 9 September 2004, Vermietungsgesellschaft Objekt Kirchberg, C‑269/03, EU:C:2004:512, paragraph 29).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11781">
+          <num>45</num>
+          <content eId="para_11781__content">
+            <p>It is apparent from paragraph 34 above that, in a situation such as that at issue in the main proceedings, the normal arrangements for the taxation of VAT are to apply when the taxable person has not opted for the personal exemption scheme. Consequently, national legislation which declines to grant the VAT exemption, in a situation such as that at issue in the main proceedings, does not go beyond what is necessary for the correct collection of VAT.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11782">
+          <num>46</num>
+          <content eId="para_11782__content">
+            <p>Secondly, as regards the principle of fiscal neutrality, which was intended by the EU legislature to reflect, in matters relating to VAT, the general principle of equal treatment (judgment of 26 October 2017, BB construct, C‑534/16, EU:C:2017:820, paragraph 29), it has been held that the measures that Member States may adopt in order to ensure the correct collection of VAT and to prevent evasion may not be used in such a way that they would have the effect of undermining the neutrality of VAT (see, to that effect, judgment of 11 April 2013, Rusedespred, C‑138/12, EU:C:2013:233, paragraphs 28 and 29 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11783">
+          <num>47</num>
+          <content eId="para_11783__content">
+            <p>In that regard, it must be found that to allow taxable persons to opt for an exemption scheme after the time limit set would confer on them an undue competitive advantage, to the detriment of operators who duly complied with the procedural obligations laid down in the national legislation at issue in the main proceedings. Those taxable persons would be in a position to choose after the event and, consequently, on the basis of the actual results of their activity, the tax arrangements which seem most advantageous to them.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11784">
+          <num>48</num>
+          <content eId="para_11784__content">
+            <p>However, the principle of fiscal neutrality precludes, in particular, taxable persons who are in comparable situations and thus in competition with each other from being treated differently for VAT purposes.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11785">
+          <num>49</num>
+          <content eId="para_11785__content">
+            <p>It follows that the principle of fiscal neutrality and, more generally, the principle of the equal treatment of taxable persons do not preclude national legislation which does not grant the VAT exemption to taxable persons who have failed to opt for one of the exemption schemes at the same time as they declare the commencement of their economic activity, even if the proceeds from their activity do not exceed the maximum threshold granting entitlement to the small enterprise exemption.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11786">
+          <num>50</num>
+          <content eId="para_11786__content">
+            <p>Thirdly, it must be found that the principle of legal certainty must be observed not only by the EU institutions, but also by Member States in the exercise of the powers conferred on them under EU directives (see, to that effect, judgment of 9 July 2015, Salomie and Oltean, C‑183/14, EU:C:2015:454, paragraph 30 and the case-law cited)</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11787">
+          <num>51</num>
+          <content eId="para_11787__content">
+            <p>That principle requires the tax position of the taxable person not to be open to challenge indefinitely (see, to that effect, judgment of 6 February 2014, Fatorie, C‑424/12, EU:C:2014:50, paragraph 46).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11788">
+          <num>52</num>
+          <content eId="para_11788__content">
+            <p>In addition, as mentioned in paragraph 31 above, given that the beneficiaries of the individual tax exemption do not pay VAT and do not, therefore, need to pass it on to their customers, it may be essential for the tax authorities to have advance knowledge of the taxable persons who have opted for that exemption scheme.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11789">
+          <num>53</num>
+          <content eId="para_11789__content">
+            <p>Consequently, the national legislation at issue in the main proceedings is consistent with the principle of legal certainty.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11790">
+          <num>54</num>
+          <content eId="para_11790__content">
+            <p>In the light of all the foregoing considerations, the answer to the question referred is that EU law must be interpreted as not precluding national legislation which excludes a special VAT taxation scheme providing for an exemption for small enterprises -- that scheme having being adopted in accordance with the provisions of Section 2 of Chapter I of Title XII of the VAT Directive -- from being applied to a taxable person who fulfils all the material conditions but did not exercise the right to opt for the application of that scheme at the same time as he declared the commencement of his economic activities to the tax authority.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_11791">
+          <num>55</num>
+          <content eId="para_11791__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Fifth Chamber) hereby rules: EU law must be interpreted as not precluding national legislation which excludes a special value added tax taxation scheme providing for an exemption for small enterprises -- that scheme having been adopted in accordance with the provisions of Section 2 of Chapter I of Title XII of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax -- from being applied to a taxable person who fulfils all the material conditions but did not exercise the right to opt for the application of that scheme at the same time as he declared the commencement of his economic activities to the tax authority.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Hungarian.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

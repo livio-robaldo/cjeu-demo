@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (First Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>25 July 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Asylum policy -- Directive 2013/32/EU -- Article 31(8) and Article 32(2) -- Manifestly unfounded application for international protection -- Concept of safe country of origin -- No national rules concerning that concept -- Applicant's representations considered to be reliable but insufficient having regard to the satisfactory protection offered by the applicant's country of origin) In Case C‑404/17, REQUEST for a preliminary ruling under Article 267 TFEU from the Förvaltningsrätten i Malmö -- Migrationsdomstolen (Administrative Court for Immigration Matters, Malmö, Sweden), made by decision of 3 July 2017, received at the Court on 6 July 2017, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">A</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#">Migrationsverket</party>
+      </p>
+      <p>, THE COURT (First Chamber), composed of R. Silva de Lapuerta, President of the Chamber, J.-C. Bonichot (Rapporteur), A. Arabadjiev, S. Rodin and E. Regan, Judges, Advocate General: M. Wathelet, Registrar: A. Calot Escobar, having regard to the written procedure, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>the Swedish Government, by A. Falk, C. Meyer-Seitz, H. Shev and L. Zettergren, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the United Kingdom Government, by R. Fadoju, C. Crane and S. Brandon, acting as Agents, and by D. Blundell, Barrister,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by K. Simonsson and M. Condou-Durande, acting as Agents, having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_17139">
+          <num>1</num>
+          <content eId="para_17139__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Article 31(8) of Directive 2013/32/EU of the European Parliament and of the Council of 26 June 2013 on common procedures for granting and withdrawing international protection ( OJ 2013 L 180, p. 60).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17140">
+          <num>2</num>
+          <content eId="para_17140__content">
+            <p>The request has been made in proceedings between A and the Migrationsverket (Immigration Board, Sweden) ( `the Board') concerning the Board's decision to reject A's application for the grant of refugee status and leave to remain and ordering his return to his country of origin and prohibiting him from returning to Sweden for two years.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <paragraph eId="para_17141">
+          <num>3</num>
+          <content eId="para_17141__content">
+            <p>Article 23(4)(g) of Council Directive 2005/85/EC of 1 December 2005 on minimum standards on procedures in Member States for granting and withdrawing refugee status ( OJ 2005 L 326, p. 13) is worded as follows: `Member States may also provide that an examination procedure in accordance with the basic principles and guarantees of Chapter II be prioritised or accelerated if: ...</p>
+            <blockList>
+              <item>
+                <num>(g)</num>
+                <p>the applicant has made inconsistent, contradictory, improbable or insufficient representations which make his/her claim clearly unconvincing in relation to his/her having been the object of persecution ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17142">
+          <num>4</num>
+          <content eId="para_17142__content">
+            <p>Recitals 11, 12, 18, 40, 41 and 42 of Directive 2013/32 state: `</p>
+            <blockList>
+              <item>
+                <num>(11)</num>
+                <p>In order to ensure a comprehensive and efficient assessment of the international protection needs of applicants within the meaning of Directive 2011/95/EU of the European Parliament and of the Council of 13 December 2011 on standards for the qualification of third-country nationals or stateless persons as beneficiaries of international protection, for a uniform status for refugees or for persons eligible for subsidiary protection, and for the content of the protection granted [( OJ 2011 L 337, p. 9)], the Union framework on procedures for granting and withdrawing international protection should be based on the concept of a single procedure.</p>
+              </item>
+              <item>
+                <num>(12)</num>
+                <p>The main objective of this Directive is to further develop the standards for procedures in Member States for granting and withdrawing international protection with a view to establishing a common asylum procedure in the Union. ...</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(18)</num>
+                <p>It is in the interests of both Member States and applicants for international protection that a decision is made as soon as possible on applications for international protection, without prejudice to an adequate and complete examination being carried out. ...</p>
+                <blockList>
+                  <item>
+                    <num>(40)</num>
+                    <p>A key consideration for the well-foundedness of an application for international protection is the safety of the applicant in his or her country of origin. Where a third country can be regarded as a safe country of origin, Member States should be able to designate it as safe and presume its safety for a particular applicant, unless he or she presents counter-indications.</p>
+                  </item>
+                  <item>
+                    <num>(41)</num>
+                    <p>Given the level of harmonisation achieved on the qualification of third-country nationals and stateless persons as beneficiaries of international protection, common criteria should be established for designating third countries as safe countries of origin.</p>
+                  </item>
+                  <item>
+                    <num>(42)</num>
+                    <p>The designation of a third country as a safe country of origin for the purposes of this Directive cannot establish an absolute guarantee of safety for nationals of that country. By its very nature, the assessment underlying the designation can only take into account the general civil, legal and political circumstances in that country and whether actors of persecution, torture or inhuman or degrading treatment or punishment are subject to sanction in practice when found liable in that country. For that reason, it is important that, where an applicant shows that there are valid reasons to consider the country not to be safe in his or her particular circumstances, the designation of the country as safe can no longer be considered relevant for him or her.'</p>
+                  </item>
+                </blockList>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17143">
+          <num>5</num>
+          <content eId="para_17143__content">
+            <p>Article 1 of that directive provides: `The purpose of this Directive is to establish common procedures for granting and withdrawing international protection ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17144">
+          <num>6</num>
+          <content eId="para_17144__content">
+            <p>Article 31 of that directive, headed `Examination procedure', which opens Chapter III, headed `Procedures at first instance', provides as follows: `1.   Member States shall process applications for international protection in an examination procedure in accordance with the basic principles and guarantees of Chapter II. 2.   Member States shall ensure that the examination procedure is concluded as soon as possible, without prejudice to an adequate and complete examination. 3.   Member States shall ensure that the examination procedure is concluded within six months of the lodging of the application. ... 8.   Member States may provide that an examination procedure in accordance with the basic principles and guarantees of Chapter II be accelerated and/or conducted at the border or in transit zones in accordance with Article 43 if:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>the applicant, in submitting his or her application and presenting the facts, has only raised issues that are not relevant to the examination of whether he or she qualifies as a beneficiary of international protection by virtue of Directive [2011/95]; or</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>the applicant is from a safe country of origin within the meaning of this Directive; or ...</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(e)</num>
+                <p>the applicant has made clearly inconsistent and contradictory, clearly false or obviously improbable representations which contradict sufficiently verified country-of-origin information, thus making his or her claim clearly unconvincing in relation to whether he or she qualifies as a beneficiary of international protection by virtue of Directive [2011/95]; or ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17145">
+          <num>7</num>
+          <content eId="para_17145__content">
+            <p>Article 32(2) of Directive 2013/32 provides as follows: `In cases of unfounded applications in which any of the circumstances listed in Article 31(8) apply, Member States may also consider an application to be manifestly unfounded, where it is defined as such in the national legislation.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17146">
+          <num>8</num>
+          <content eId="para_17146__content">
+            <p>Article 36 of that directive, entitled `The concept of safe country of origin', is worded as follows: `1.   A third country designated as a safe country of origin in accordance with this Directive may, after an individual examination of the application, be considered as a safe country of origin for a particular applicant only if:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>he or she has the nationality of that country; or</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>he or she is a stateless person and was formerly habitually resident in that country, and he or she has not submitted any serious grounds for considering the country not to be a safe country of origin in his or her particular circumstances and in terms of his or her qualification as a beneficiary of international protection in accordance with Directive [2011/95]. 2.   Member States shall lay down in national legislation further rules and modalities for the application of the safe country of origin concept.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17147">
+          <num>9</num>
+          <content eId="para_17147__content">
+            <p>Article 37 of Directive 2013/32, entitled `National designation of third countries as safe countries of origin', provides: `1.   Member States may retain or introduce legislation that allows, in accordance with Annex I, for the national designation of safe countries of origin for the purposes of examining applications for international protection. 2.   Member States shall regularly review the situation in third countries designated as safe countries of origin in accordance with this Article. 3.   The assessment of whether a country is a safe country of origin in accordance with this Article shall be based on a range of sources of information, including in particular information from other Member States, [the European Asylum Support Office (EASO)], [the United Nations High Commissioner for Refugees (UNHCR)], the Council of Europe and other relevant international organisations. 4.   Member States shall notify to the Commission the countries that are designated as safe countries of origin in accordance with this Article.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17148">
+          <num>10</num>
+          <content eId="para_17148__content">
+            <p>As provided in Annex I to the directive, headed `Designation of safe countries of origin for the purposes of Article 37(1)': `A country is considered as a safe country of origin where, on the basis of the legal situation, the application of the law within a democratic system and the general political circumstances, it can be shown that there is generally and consistently no persecution as defined in Article 9 of Directive [2011/95], no torture or inhuman or degrading treatment or punishment and no threat by reason of indiscriminate violence in situations of international or internal armed conflict. In making this assessment, account shall be taken, inter alia, of the extent to which protection is provided against persecution or mistreatment by:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>the relevant laws and regulations of the country and the manner in which they are applied;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>observance of the rights and freedoms laid down in the European Convention for the Protection of Human Rights and Fundamental Freedoms[, signed in Rome on 4 November 1950,] and/or the International Covenant on Civil and Political Rights[, adopted on 16 December 1966 by the United Nations General Assembly,] and/or the United Nations Convention against Torture, in particular the rights from which derogation cannot be made under Article 15(2) of the said European Convention;</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>respect for the non-refoulement principle in accordance with the [Convention relating to the Status of Refugees, signed in Geneva on 28 July 1951];</p>
+              </item>
+              <item>
+                <num>(d)</num>
+                <p>provision for a system of effective remedies against violations of these rights and freedoms.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17149">
+          <num>11</num>
+          <content eId="para_17149__content">
+            <p>Article 46 of Directive 2013/32, entitled `The right to an effective remedy', includes subparagraphs 5 and 6 which read as follows: `5.   Without prejudice to paragraph 6, Member States shall allow applicants to remain in the territory until the time limit within which to exercise their right to an effective remedy has expired and, when such a right has been exercised within the time limit, pending the outcome of the remedy. 6.   In the case of a decision:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>considering an application to be manifestly unfounded in accordance with Article 32(2) ... ... a court or tribunal shall have the power to rule whether or not the applicant may remain on the territory of the Member State, either upon the applicant's request or acting ex officio, if such a decision results in ending the applicant's right to remain in the Member State and where in such cases the right to remain in the Member State pending the outcome of the remedy is not provided for in national law.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Swedish law</p>
+        </tblock>
+        <paragraph eId="para_17150">
+          <num>12</num>
+          <content eId="para_17150__content">
+            <p>The referring court states that Swedish law does not contain any legislative or regulatory provision concerning safe countries of origin within the meaning of Directive 2013/32.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17151">
+          <num>13</num>
+          <content eId="para_17151__content">
+            <p>Paragraph 19 of Chapter 8 of the utlänningslag (Law on foreign nationals) (SFS 2005, No 716), in the version in force until 31 December 2016, provided that the Board could order the immediate enforcement of its removal decisions, even before they become definitive, if the asylum application was manifestly unfounded and there was manifestly no other reason to grant the asylum seeker a residence permit.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17152">
+          <num>14</num>
+          <content eId="para_17152__content">
+            <p>According to the referring court, that provision was amended with effect from 1 January 2017 to take account, in Swedish law, of the recast of asylum procedures carried out by Directive 2013/32 and, in particular, Article 31(8) of that directive. Consequently, the Board may, from that date, order the immediate enforcement of its removal decisions, even before those decisions have become definitive, where the facts provided by the foreign national are `without relevance' for the purpose of his asylum application or are `unreliable', so that his asylum application must be considered to be manifestly unfounded and, in addition, a residence permit may manifestly not be granted on another ground.</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the question referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_17153">
+          <num>15</num>
+          <content eId="para_17153__content">
+            <p>It is apparent from the order for reference that in March 2017 A, a Serbian national, made an application for asylum and for leave to remain in Sweden.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17154">
+          <num>16</num>
+          <content eId="para_17154__content">
+            <p>In support of that application, A submitted that, between 2001 and 2003, he had been the victim of threats and assaults from an illegal paramilitary group and that he had filed a complaint against that group in 2003. He referred to the fact that until 2012 he was in a witness protection programme run by the Serbian authorities and the United Nations Interim Administration Mission in Kosovo (UNMIK), but that that protection led to him being placed in various locations in Serbia, including in prison. Those circumstances led, from 2012, to him forgoing protected witness status and preferring to take refuge in his home village, despite the death threats that he had continued to receive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17155">
+          <num>17</num>
+          <content eId="para_17155__content">
+            <p>The Board rejected that application as manifestly unfounded on the ground that, according to the information provided by the applicant himself, the Republic of Serbia was able to offer effective protection and that it was primarily for the authorities of the country of origin to ensure protection against threats, such as those to which the applicant considers himself to be subject.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17156">
+          <num>18</num>
+          <content eId="para_17156__content">
+            <p>That rejection was coupled with an obligation to leave the territory with immediate effect having regard to the manifest lack of evidence for allowing the asylum application and to the fact that A had not put forward any relevant arguments in support of his application for a residence permit.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17157">
+          <num>19</num>
+          <content eId="para_17157__content">
+            <p>A appealed against the Board's decision to the Förvaltningsrätten i Malmö -- Migrationsdomstolen (Administrative Court for Immigration Matters, Malmö, Sweden), which suspended enforcement of the obligation to leave the territory.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17158">
+          <num>20</num>
+          <content eId="para_17158__content">
+            <p>That court is uncertain how to interpret Article 31(8) of Directive 2013/32 which, read in conjunction with Article 32(2) of that directive, permits Member States to reject certain applications as manifestly unfounded.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17159">
+          <num>21</num>
+          <content eId="para_17159__content">
+            <p>In those circumstances, the Förvaltningsrätten i Malmö -- Migrationsdomstolen (Administrative Court for Immigration Matters, Malmö) decided to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling: `Is an application in which the applicant's information is deemed to be reliable and so is taken as the basis for the assessment, but insufficient to form the basis of a need for international protection on the ground that the country-of-origin information suggests that there is acceptable protection, to be regarded as manifestly unfounded under Article 31(8) of the recast [Directive 2013/32]?'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the question referred</p>
+        </tblock>
+        <paragraph eId="para_17160">
+          <num>22</num>
+          <content eId="para_17160__content">
+            <p>By its question, the referring court asks, in essence, whether Article 31(8)(b) of Directive 2013/32, read in conjunction with Article 32(2) of that directive, must be interpreted as allowing an application for international protection to be regarded as manifestly unfounded in a situation, such as that at issue in the main proceedings, in which, first, it is apparent from the information on the applicant's country of origin that acceptable protection can be ensured for him there and, secondly, that applicant has provided insufficient information to justify the grant of international protection, where the Member State in which the application was lodged has not adopted rules implementing the concept of safe country of origin.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17161">
+          <num>23</num>
+          <content eId="para_17161__content">
+            <p>As is apparent from the order for reference, the Board, in essence, rejected A's application as manifestly unfounded under the national law transposing Directive 2013/32, on the combined grounds that in his country of origin, Serbia, there was effective protection and that he had not established that that country does not offer adequate protection against the threats to which he considered himself to be subject.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17162">
+          <num>24</num>
+          <content eId="para_17162__content">
+            <p>In doing so, the Board based its decision on reasoning similar to that provided for in Articles 36 and 37 of Directive 2013/32 for the processing of applications for international protection made by third-country nationals from safe countries of origin.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17163">
+          <num>25</num>
+          <content eId="para_17163__content">
+            <p>Those provisions establish a special examination scheme based on a presumption of adequate protection in the country of origin, which can be rebutted by the applicant where he submits overriding reasons relating to his particular situation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17164">
+          <num>26</num>
+          <content eId="para_17164__content">
+            <p>Where there are no such overriding reasons, the application may be rejected as manifestly unfounded, in accordance with the combined provisions of Article 31(8)(b) and Article 32(2) of Directive 2013/32, if the situation concerned -- in the present case the fact that the applicant comes from a safe country of origin -- is defined as such in the national legislation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17165">
+          <num>27</num>
+          <content eId="para_17165__content">
+            <p>One of the consequences for the person whose application is rejected on that basis is that, contrary to what is provided for in the case of a simple rejection, that person may not be allowed to remain, pending the outcome of his appeal, in the territory of the State in which the application was lodged, as is clear from the provisions of Article 46(5) and (6) of Directive 2013/32.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17166">
+          <num>28</num>
+          <content eId="para_17166__content">
+            <p>In that context, it is for each Member State to designate safe countries of origin within the meaning of that legislation, in accordance with the procedure laid down in Articles 36 and 37 and in Annex I to Directive 2013/32, namely, in particular, the adoption by the national legislature of a list of third countries in accordance with the criteria laid down in Annex I, the enactment of additional implementation rules and modalities, and the notification to the Commission of the list of safe countries of origin, or its periodic review.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17167">
+          <num>29</num>
+          <content eId="para_17167__content">
+            <p>The referring court states in that regard that, on the date of the contested decision in the main proceedings, on which the period for transposition of the relevant provisions of Directive 2013/32 had expired, the Kingdom of Sweden had neither adopted provisions such as those referred to in the previous paragraph, nor provided that the fact of coming from a safe country of origin is liable to lead to a rejection of the application as manifestly unfounded, within the meaning of Article 32(2) of that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17168">
+          <num>30</num>
+          <content eId="para_17168__content">
+            <p>It must be noted that under recitals 11 and 12 and Article 1 of Directive 2013/32, the framework for granting international protection is based on the concept of a single procedure and minimum common rules (see, by analogy, judgment of 31 January 2013, D. and A., C‑175/11, EU:C:2013:45, paragraph 57).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17169">
+          <num>31</num>
+          <content eId="para_17169__content">
+            <p>A Member State cannot, therefore, rely on the rebuttable presumption laid down by the provisions of Directive 2013/32 relating to procedures based on the concept of safe country of origin, without also having fully implemented those rules with regard to the laws, regulations and administrative provisions which it is for the Member State to take.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17170">
+          <num>32</num>
+          <content eId="para_17170__content">
+            <p>As to the doubts expressed by the referring court about the possibility, on the basis of Article 31(8) of Directive 2013/32, of considering an application to be manifestly unfounded on the ground that the applicant's statements were insufficient, it should be noted that that directive has recast Directive 2005/85.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17171">
+          <num>33</num>
+          <content eId="para_17171__content">
+            <p>Although Article 23(4)(g) of Directive 2005/85 referred to `insufficient' representations from the applicant, Article 31(8)(e) of Directive 2013/32, which replaced that provision, no longer does so.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17172">
+          <num>34</num>
+          <content eId="para_17172__content">
+            <p>Therefore, it follows from the wording of Article 31(8)(e) of Directive 2013/32, read in conjunction with Article 32(2) of that directive, that a Member State may not consider an application for international protection to be manifestly unfounded because the applicant's representations are insufficient.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17173">
+          <num>35</num>
+          <content eId="para_17173__content">
+            <p>Consequently, the answer to the question referred is that Article 31(8)(b) of Directive 2013/32, read in conjunction with Article 32(2) of that directive, must be interpreted as not allowing an application for international protection to be regarded as manifestly unfounded in a situation, such as that at issue in the main proceedings, in which, first, it is apparent from the information on the applicant's country of origin that acceptable protection can be ensured for him in that country and, secondly, the applicant has provided insufficient information to justify the grant of international protection, where the Member State in which the application was lodged has not adopted rules implementing the concept of safe country of origin.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_17174">
+          <num>36</num>
+          <content eId="para_17174__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (First Chamber) hereby rules: Article 31(8)(b) of Directive 2013/32/EU of the European Parliament and of the Council of 26 June 2013 on common procedures for granting and withdrawing international protection, read in conjunction with Article 32(2) of that directive, must be interpreted as not allowing an application for international protection to be regarded as manifestly unfounded in a situation, such as that at issue in the main proceedings, in which, first, it is apparent from the information on the applicant's country of origin that acceptable protection can be ensured for him in that country and, secondly, the applicant has provided insufficient information to justify the grant of international protection, where the Member State in which the application was lodged has not adopted rules implementing the concept of safe country of origin.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Swedish.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

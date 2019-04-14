@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Second Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>5 July 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Judicial cooperation in civil matters -- Regulation (EC) No 44/2001 -- Special jurisdiction -- Article 5(3) -- Tort, delict or quasi-delict -- Place where the harmful event occurred -- Place where the damage occurred and place of the event giving rise to the damage -- Claim for compensation for damage allegedly caused by anticompetitive conduct committed in various Member States -- Article 5(5) -- Operations of a branch -- Meaning) In Case C‑27/17, REQUEST for a preliminary ruling under Article 267 TFEU from the Lietuvos apeliacinis teismas (Court of Appeal, Lithuania), made by decision of 12 January 2017, received at the Court on 19 January 2017, in the proceedings AB `flyLAL-Lithuanian Airlines', in liquidation v</p>
+      <p>
+        <party as="respondent" refersTo="#">`Starptautiskā lidosta ``Rīga ''' VAS, `Air Baltic Corporation' AS</party>
+      </p>
+      <p>, intervening parties:</p>
+      <p>
+        <party as="intervening" refersTo="#">`ŽIA Valda' AB</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="intervening" refersTo="#">`VA Reals' AB</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="intervening" refersTo="#">Lietuvos Respublikos konkurencijos taryba</party>
+      </p>
+      <p>, THE COURT (Second Chamber), composed of M. Ilešič, President of the Chamber, A. Rosas, C. Toader (Rapporteur), A. Prechal and E. Jarašiūnas, Judges, Advocate General: M. Bobek, Registrar: M. Aleksejev, Administrator, having regard to the written procedure and further to the hearing on 16 November 2017, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>AB `flyLAL-Lithuanian Airlines', by R. Audzevičius, advokatas,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>`Starptautiskā lidosta ``Rīga ''' VAS, by R. Simaitis, M. Inta and S. Novicka, advokatai,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>`Air Baltic Corporation' AS, by R. Zaščiurinskaitė, D. Pāvila, D. Bublienė, I. Norkus and G. Kaminskas, advokatai,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>`ŽIA Valda' AB and `VA Reals' AB, by P. Docka, advokatas,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Lithuanian Government, by D. Kriaučiūnas and R. Dzikovič, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Latvian Government, by I. Kucina and J. Davidoviča, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by M. Wilderspin, G. Meessen and A. Steiblytė, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 28 February 2018,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_15818">
+          <num>1</num>
+          <content eId="para_15818__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Article 5(3) and (5) of Council Regulation (EC) No 44/2001 of 22 December 2000 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters ( OJ 2001 L 12, p. 1).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15819">
+          <num>2</num>
+          <content eId="para_15819__content">
+            <p>The request has been made in proceedings between, on the one hand, AB `flyLAL-Lithuanian Airlines' ( `flyLAL'), a company incorporated under Lithuanian law which is in liquidation, and the interveners, `ŽIA Valda' AB and `VA Reals' AB, and, on the other hand, two companies incorporated under Latvian law, `Starptautiskā lidosta ``Rīga ''' VAS ( `Riga Airport') and `Air Baltic Corporation AS' ( `Air Baltic'), seeking both a declaration that alleged anticompetitive conduct engaged in by Riga Airport and Air Baltic is contrary to Articles 101 and 102 TFEU and compensation for the resulting damage sustained.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <tblock>
+          <p>The Brussels Convention</p>
+        </tblock>
+        <paragraph eId="para_15820">
+          <num>3</num>
+          <content eId="para_15820__content">
+            <p>Article 5 of the Convention of 27 September 1968 on jurisdiction and the enforcement of judgments in civil and commercial matters ( OJ 1972 L 299, p. 32), as amended by successive conventions on the accession of new Member States to that convention ( `the Brussels Convention'), reads as follows: `A person domiciled in a Contracting State may, in another Contracting State, be sued: ... 3. in matters relating to tort, delict or quasi-delict, in the courts for the place where the harmful event occurred; ... 5. as regards a dispute arising out of the operations of a branch, agency or other establishment, in the courts for the place in which the branch, agency or other establishment is situated.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Regulation No 44/2001</p>
+        </tblock>
+        <paragraph eId="para_15821">
+          <num>4</num>
+          <content eId="para_15821__content">
+            <p>Recitals 11, 12 and 15 of Regulation No 44/2001 state: `</p>
+            <blockList>
+              <item>
+                <num>(11)</num>
+                <p>The rules of jurisdiction must be highly predictable and founded on the principle that jurisdiction is generally based on the defendant's domicile and jurisdiction must always be available on this ground save in a few well-defined situations in which the subject matter of the litigation or the autonomy of the parties warrants a different linking factor. The domicile of a legal person must be defined autonomously so as to make the common rules more transparent and avoid conflicts of jurisdiction.</p>
+              </item>
+              <item>
+                <num>(12)</num>
+                <p>In addition to the defendant's domicile, there should be alternative grounds of jurisdiction based on a close link between the court and the action or in order to facilitate the sound administration of justice. ...</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(15)</num>
+                <p>In the interests of the harmonious administration of justice it is necessary to minimise the possibility of concurrent proceedings and to ensure that irreconcilable judgments will not be given in two Member States. ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15822">
+          <num>5</num>
+          <content eId="para_15822__content">
+            <p>Article 2(1) of that regulation, which confers general jurisdiction on the courts of the Member State in which the defendant is domiciled, is worded as follows: `Subject to this Regulation, persons domiciled in a Member State shall, whatever their nationality, be sued in the courts of that Member State.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15823">
+          <num>6</num>
+          <content eId="para_15823__content">
+            <p>Article 5 of that regulation provides: `A person domiciled in a Member State may, in another Member State, be sued: ... 3. in matters relating to tort, delict or quasi-delict, in the courts for the place where the harmful event occurred or may occur; ... 5. as regards a dispute arising out of the operations of a branch, agency or other establishment, in the courts for the place in which the branch, agency or other establishment is situated; ...'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Lithuanian law</p>
+        </tblock>
+        <paragraph eId="para_15824">
+          <num>7</num>
+          <content eId="para_15824__content">
+            <p>Under Article 782 of the Civilinio proceso kodeksas (Code of Civil Procedure), it is for the court to ascertain, of its own motion, whether the proceedings pending before it fall within the jurisdiction of the Lithuanian courts.</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_15825">
+          <num>8</num>
+          <content eId="para_15825__content">
+            <p>The Lithuanian airline, flyLAL, operated, inter alia, flights departing from and arriving at Vilnius Airport (Lithuania).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15826">
+          <num>9</num>
+          <content eId="para_15826__content">
+            <p>In 2004, the Latvian airline Air Baltic started to operate flights departing from and arriving at that airport, with part of those flights serving the same destinations as flyLAL.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15827">
+          <num>10</num>
+          <content eId="para_15827__content">
+            <p>flyLAL subsequently sustained financial losses and went into liquidation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15828">
+          <num>11</num>
+          <content eId="para_15828__content">
+            <p>flyLAL considered that Air Baltic had ousted it from the market by applying predatory prices to certain routes departing from and arriving at Vilnius Airport, with such predatory practices being funded by reductions granted to Air Baltic on fees for airport services provided by Riga Airport (Latvia). Consequently, on 22 August 2008, flyLAL brought an action against Air Baltic and Riga Airport before the Vilniaus apygardos teismas (Regional Court, Vilnius, Lithuania), seeking compensation, in the amount of EUR 57 874 768.30, for damage allegedly caused by their anticompetitive conduct. flyLAL also asserted that, once it had been ousted from the market, Air Baltic moved the majority of the flights it had operated to and from Vilnius Airport to Riga Airport. ŽIA Valda and VA Reals, shareholders of flyLAL, intervened in the main proceedings in support of the latter.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15829">
+          <num>12</num>
+          <content eId="para_15829__content">
+            <p>According to the order for reference, in the context of separate proceedings, the Latvijas Republikas Konkurences padome (Latvian Competition Council) declared, by decision of 22 November 2006, that the system of reductions introduced by Riga Airport on 1 November 2004, providing for discounts of up to 80% for aircraft take-off, landing and security services, infringed the second paragraph of Article 82(c) EC, now the second paragraph of Article 102(c) TFEU, and ordered Riga Airport to stop applying that system, which had benefited two airlines, including Air Baltic.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15830">
+          <num>13</num>
+          <content eId="para_15830__content">
+            <p>By judgment of 27 January 2016, the Vilniaus apygardos teismas (Regional Court, Vilnius) upheld in part the action brought by flyLAL, ordering Air Baltic to pay flyLAL EUR 16121094 by way of damages, in addition to default interest at the rate of 6% per annum. However, it dismissed flyLAL's action in so far as it was directed against Riga Airport and also dismissed the claims filed by ŽIA Valda and VA Reals.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15831">
+          <num>14</num>
+          <content eId="para_15831__content">
+            <p>During the proceedings before the Vilniaus apygardos teismas (Regional Court, Vilnius), Riga Airport and Air Baltic had raised an objection claiming that the Lithuanian courts lacked international jurisdiction to hear the dispute in the main proceedings. Nevertheless, in its judgment, that court stated, in the first place, that that issue had already been settled by the Lietuvos apeliacinis teismas (Court of Appeal, Lithuania) in its judgment of 31 December 2008.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15832">
+          <num>15</num>
+          <content eId="para_15832__content">
+            <p>By that judgment, the Lietuvos apeliacinis teismas (Court of Appeal, Lithuania) had rejected the actions brought by Riga Airport and Air Baltic against an order of the Vilniaus apygardos teismas (Regional Court, Vilnius) of 25 September 2008 ordering the attachment, on a provisional and protective basis, of the movable and/or immovable property and property rights of Air Baltic and Riga Airport, and had also held that the Lithuanian courts had jurisdiction to hear the dispute in the main proceedings on the basis of Article 5(3) and (5) of Regulation No 44/2001. An application for recognition and enforcement of that judgment in Latvia was brought before the Augstākās tiesas Senāts (Senate of the Supreme Court, Latvia). In that context, that court made a reference for a preliminary ruling to the Court, which gave rise to the judgment of 23 October 2014, flyLAL-Lithuanian Airlines ( C‑302/13, EU:C:2014:2319).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15833">
+          <num>16</num>
+          <content eId="para_15833__content">
+            <p>In its abovementioned judgment of 27 January 2016, the Vilniaus apygardos teismas (Regional Court, Vilnius) went on to state that Lithuanian courts derived their jurisdiction from Article 5(3) and (5) of Regulation No 44/2001 on the basis, first, that the anticompetitive conduct that had caused damage to flyLAL, in particular the application of predatory prices, alignment of flight times, illegal advertising, termination of direct flights and moving passenger traffic to Riga Airport, had taken place in Lithuania and, secondly, that Air Baltic operated in that Member State through its branch in Lithuania.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15834">
+          <num>17</num>
+          <content eId="para_15834__content">
+            <p>flyLAL, Riga Airport, and Air Baltic, as well as ŽIA Valda and VA Reals, appealed against that judgment of the Vilniaus apygardos teismas (Regional Court, Vilnius) of 27 January 2016 before the referring court, the Lietuvos apeliacinis teismas (Court of Appeal, Lithuania).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15835">
+          <num>18</num>
+          <content eId="para_15835__content">
+            <p>The referring court observes that it is clear from the judgment of 23 October 2014, flyLAL-Lithuanian Airlines ( C‑302/13, EU:C:2014:2319), that the dispute in the main proceedings is civil and commercial in nature and falls within the scope of Regulation No 44/2001. However, it harbours doubts regarding the interpretation of Article 5(3) and (5) of Regulation No 44/2001. It notes that it is under the obligation to ascertain whether it has jurisdiction, at this stage of the proceedings, pursuant to Article 782 of the Code of Civil Procedure.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15836">
+          <num>19</num>
+          <content eId="para_15836__content">
+            <p>As regards the concept of the `place where the harmful event occurred', provided for in Article 5(3) of Regulation No 44/2001, the referring court, having considered the case-law of the Court establishing that that concept covers both the place where the damage occurred and the place of the event giving rise to the damage, is of the opinion, first, that determining the place of the event giving rise to the damage is not straightforward in the present case, since acts liable to result in damage, either in combination or in isolation, have been performed in various Member States, namely Lithuania and Latvia.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15837">
+          <num>20</num>
+          <content eId="para_15837__content">
+            <p>In that regard, it states that it is common ground that Air Baltic was granted a reduction of 80% on the price of services provided by Riga Airport. That system of reductions gave rise to the decision of the Latvian Competition Council of 22 November 2006 finding an infringement of the second paragraph of Article 82(c) EC, now the second paragraph of Article 102(c) TFEU. According to the defendants in the main proceedings, those reductions were based on regulatory acts issued by the Latvian authorities and implemented only in Latvia, inter alia, through the application of such reductions, the provision of services at Riga Airport, and the benefit provided to Air Baltic. However, flyLAL claims that that system of reductions, which constituted abuse of a dominant position, was based on an anticompetitive agreement concluded between the defendants in the main proceedings in breach of Article 81 EC, now Article 101 TFEU. According to flyLAL, the cross-subsidisation and the benefit obtained from that agreement enabled Air Baltic to implement anticompetitive acts at Vilnius Airport, including predatory pricing and operations relating to the alignment of flight times, illegal advertising and the termination of flight routes after flyLAL had withdrawn from the market in question. Thus, in its view, the acts giving rise to the alleged damage were performed in Lithuania.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15838">
+          <num>21</num>
+          <content eId="para_15838__content">
+            <p>As regards, secondly, the place where the damage occurred, the referring court notes that the damage allegedly suffered by flyLAL consists in a loss of income incurred between 2004 and 2008 on the market for flights to and from Vilnius Airport. In that regard, the referring court is unsure as to how to categorise that damage and determine the place where it occurred in view of the case-law of the Court on damage consisting exclusively of financial loss, such as in the judgments of 19 September 1995, Marinari ( C‑364/93, EU:C:1995:289); of 10 June 2004, Kronhofer ( C‑168/02, EU:C:2004:364); and of 16 June 2016, Universal Music International Holding ( C‑12/15, EU:C:2016:449).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15839">
+          <num>22</num>
+          <content eId="para_15839__content">
+            <p>Thirdly, the referring court harbours doubts regarding the interpretation of the notion of `operations of a branch' within the meaning of Article 5(5) of Regulation No 44/2001.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15840">
+          <num>23</num>
+          <content eId="para_15840__content">
+            <p>In that regard, it has no doubts that Air Baltic's branch in Lithuania, which is engaged in the international carriage of passengers, cargo and mail by air, fulfils the conditions laid down in the case-law of the Court in order to be regarded as a `branch' within the meaning of that article. The referring court also notes that it is apparent from the status of that branch that it had the power to set the prices of Air Baltic flights to and from Vilnius Airport. Nevertheless, according to that court, there is no evidence establishing that that branch actually set those prices.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15841">
+          <num>24</num>
+          <content eId="para_15841__content">
+            <p>Accordingly, the referring court is uncertain as to whether the activities of the Air Baltic branch in Lithuania justify the application of Article 5(5) of Regulation No 44/2001.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15842">
+          <num>25</num>
+          <content eId="para_15842__content">
+            <p>In those circumstances, the Lietuvos apeliacinis teismas (Court of Appeal, Lithuania) decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>In the circumstances of the present case, is the notion ``place where the harmful event occurred '' in Article 5(3) of [Regulation No 44/2001] to be understood as meaning the place of conclusion of the defendants' unlawful agreement infringing [the second paragraph of] Article 82(c) EC [now the second paragraph of Article102</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>TFEU], or the place of commission of acts by which the financial benefit obtained from that agreement was exploited, by means of predatory pricing (cross-subsidisation) when competing with the applicant in the same relevant markets?</p>
+                <blockList>
+                  <item>
+                    <num>(2)</num>
+                    <p>In the present case, can the damage (loss of income) suffered by the applicant on account of the specified unlawful acts of the defendants be regarded as damage for the purpose of Article 5(3) of [Regulation No 44/2001]?</p>
+                  </item>
+                  <item>
+                    <num>(3)</num>
+                    <p>Are the operations of the branch of Air Baltic Corporation in the Republic of Lithuania, in the circumstances of the present case, to be regarded as ``operations of a branch '' within the meaning of Article 5(5) of [Regulation No 44/2001]?'</p>
+                  </item>
+                </blockList>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the questions referred</p>
+        </tblock>
+        <tblock>
+          <p>Preliminary observations</p>
+        </tblock>
+        <paragraph eId="para_15843">
+          <num>26</num>
+          <content eId="para_15843__content">
+            <p>In order to answer the questions put by the referring court, it should be borne in mind that it is only by way of derogation from the general principle laid down in Article 2(1) of Regulation No 44/2001, which attributes jurisdiction to the courts of the Member State in which the defendant is domiciled, that Section 2 of Chapter II of that regulation makes provision for certain special jurisdictional rules, such as those laid down in Article 5(3) and (5) of that regulation. Given that both the jurisdiction of the courts for the place where the harmful event occurred, within the meaning of Article 5(3) of Regulation No 44/2001, and the jurisdiction of the courts for the place in which a branch, agency or other establishment is situated, as regards disputes arising out of their operations, within the meaning of Article 5(5) of that regulation, constitute rules of special jurisdiction, they must be interpreted in an independent and strict manner, which does not permit an interpretation going beyond the cases expressly envisaged by that regulation (see, to that effect, with regard to operations of a branch, judgment of 22 November 1978, Somafer, 33/78, EU:C:1978:205, paragraphs 7 and 8; and, with regard to tortious liability, judgment of 16 June 2016, Universal Music International Holding, C‑12/15, EU:C:2016:449, paragraph 25 and case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15844">
+          <num>27</num>
+          <content eId="para_15844__content">
+            <p>According to settled case-law, the rules of special jurisdiction laid down in Article 5(3) and (5) of that regulation are based on the existence of a particularly close linking factor between the dispute and the courts that may be called upon to hear and determine the case, which justifies the attribution of jurisdiction to those courts for reasons relating to the sound administration of justice and the efficacious conduct of proceedings (see, to that effect, with regard to operations of a branch, judgments of 22 November 1978, Somafer, 33/78, EU:C:1978:205, paragraph 7, and of 6 April 1995, Lloyd's Register of Shipping, C‑439/93, EU:C:1995:104, paragraph 21; and, with regard to tortious liability, judgments of 16 June 2016, Universal Music International Holding, C‑12/15, EU:C:2016:449, paragraph 26, and of 17 October 2017, Bolagsupplysningen and Ilsjan, C‑194/16, EU:C:2017:766, paragraph 26).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15845">
+          <num>28</num>
+          <content eId="para_15845__content">
+            <p>As regards the specific notion of the `place where the harmful event occurred' in Article 5(3) of Regulation No 44/2001, the Court has consistently held that that term is intended to cover both the place where the damage occurred and the place of the event giving rise to it, so that the defendant may be sued, at the option of the applicant, in the courts for either of those places (see, inter alia, judgments of 19 April 2012, Wintersteiger, C‑523/10, EU:C:2012:220, paragraph 19; of 28 January 2015, Kolassa, C‑375/13, EU:C:2015:37, paragraph 45; and of 16 June 2016, Universal Music International Holding, C‑12/15, EU:C:2016:449, paragraph 28 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15846">
+          <num>29</num>
+          <content eId="para_15846__content">
+            <p>The questions referred by the national court must be examined in the light of those considerations.</p>
+            <tblock>
+              <p>The second question</p>
+            </tblock>
+            <p>30 By its second question, which it is appropriate to examine first, the referring court asks, in essence, whether Article 5(3) of Regulation No 44/2001 must be interpreted as meaning that, in the context of an action seeking compensation for damage caused by anticompetitive conduct, the alleged loss of income incurred by the victim of such conduct may constitute damage capable of providing a basis for the jurisdiction of the courts of the Member State of the `place where the harmful event occurred'. Since the referring court states that such damage has occurred, that question must be understood, in accordance with the case-law cited in paragraph 28 above, as relating, in particular, to the determination of the place where the damage occurred.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15847">
+          <num>31</num>
+          <content eId="para_15847__content">
+            <p>As noted by the Advocate General in point 37 of his Opinion, a distinction must be drawn between, on the one hand, the initial damage resulting directly from the event giving rise to the damage, in which case, the place where such damage occurred may provide a basis for jurisdiction under Article 5(3) of Regulation No 44/2001, and, on the other hand, subsequent adverse consequences which are not capable of providing a basis for jurisdiction under that provision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15848">
+          <num>32</num>
+          <content eId="para_15848__content">
+            <p>In that regard, in paragraphs 14 and 15 of the judgment of 19 September 1995, Marinari ( C‑364/93, EU:C:1995:289), the Court held that the term `place where the harmful event occurred' cannot be construed so extensively as to encompass any place where the adverse consequences of an event, which has already caused damage actually arising elsewhere, can be felt. Consequently, it stated that this notion cannot be construed as including the place where the victim claims to have suffered financial damage following upon initial damage arising and suffered by him in another State.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15849">
+          <num>33</num>
+          <content eId="para_15849__content">
+            <p>In those circumstances, by its question, the referring court seeks to ascertain, first, whether a loss of income of the kind alleged by flyLAL may be regarded as `initial damage', within the meaning of that case-law, or whether it constitutes solely consequential financial damage which cannot, in itself, justify the application of Article 5(3) of Regulation No 44/2001.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15850">
+          <num>34</num>
+          <content eId="para_15850__content">
+            <p>Without prejudice to the findings of fact in the main proceedings that are to be made by the referring court, it appears from the documents before the Court that the loss of income claimed by flyLAL consists in losses allegedly incurred due to the difficulties in operating flights to and from Vilnius Airport, in a profitable manner, following Air Baltic's predatory pricing, which was allegedly financed by discounts on airport fees granted to Air Baltic on the basis of an anticompetitive agreement concluded with Riga Airport. In the present instance, as submitted by flyLAL at the hearing, that includes, in particular, loss of sales in relation to routes to and from Vilnius Airport which were affected by such conduct.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15851">
+          <num>35</num>
+          <content eId="para_15851__content">
+            <p>The Court has previously held, in the context of an alleged infringement of the prohibition on resale outside a selective distribution network resulting from offers, on websites of products covered by that network, that the reduction in the volume of its sales and the ensuing loss of profits incurred by an authorised distributor, constitutes damage capable of providing a basis for jurisdiction under Article 5(3) of Regulation No 44/2001 (see, to that effect, judgment of 21 December 2016, Concurrence, C‑618/15, EU:C:2016:976, paragraphs 33 and 35).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15852">
+          <num>36</num>
+          <content eId="para_15852__content">
+            <p>Likewise, the Court finds that loss of income consisting, inter alia, in loss of sales incurred as a result of anticompetitive conduct contrary to Articles 101 and 102 TFEU, may be regarded as `damage' for the purposes of applying Article 5(3) of Regulation No 44/2001, which, in principle, provides a basis for the jurisdiction of the courts of the Member State in which the harmful event occurred.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15853">
+          <num>37</num>
+          <content eId="para_15853__content">
+            <p>In the second place, the second question referred seeks guidance on establishing the place where such damage occurred.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15854">
+          <num>38</num>
+          <content eId="para_15854__content">
+            <p>It is apparent from the order for reference, first, that the alleged anticompetitive conduct of the defendants in the main proceedings related to the market for flights to and from Vilnius Airport and, according to flyLAL, resulted in distortion of competition in that market. In addition, that conduct allegedly caused damage to flyLAL.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15855">
+          <num>39</num>
+          <content eId="para_15855__content">
+            <p>In the present case, which concerns losses incurred by an airline on flights operated to and from the capital of the Member State where that company is established, the main market affected must be considered to be that of the Member State in which that company conducts the main part of its sales activities relating to such flights, namely the Lithuanian market.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15856">
+          <num>40</num>
+          <content eId="para_15856__content">
+            <p>The Court finds that, where the market affected by the anticompetitive conduct is in the Member State on whose territory the alleged damage is purported to have occurred, that Member State must be regarded as the place where the damage occurred for the purposes of applying Article 5(3) of Regulation No 44/2001. That approach, based on the alignment of those two elements, is consistent with the objectives of proximity and predictability of the rules governing jurisdiction, since, first, the courts of the Member State in which the affected market is located are best placed to assess such actions for damages and, secondly, an economic operator engaging in anticompetitive conduct can reasonably expect to be sued in the courts for the place where its conduct distorted the rules governing healthy competition.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15857">
+          <num>41</num>
+          <content eId="para_15857__content">
+            <p>Moreover, as observed by the Advocate General in point 52 of his Opinion, determining the place where the damage occurred in such a manner satisfies the requirement of consistency laid down in recital 7 of Regulation (EC) No 864/2007 of the European Parliament and of the Council of 11 July 2007 on the law applicable to non-contractual obligations (Rome II) ( OJ 2007 L 199, p. 40), in so far as, under Article 6(3)(a) of that regulation, the law applicable to actions for damages based on an act restricting competition is that of the country where the market is, or is likely to be, affected.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15858">
+          <num>42</num>
+          <content eId="para_15858__content">
+            <p>In addition, given that there are a number of defendants in the main proceedings, it should be pointed out that that ground of jurisdiction is also applicable where a number of perpetrators are alleged to have caused the damage, since Article 5(3) of Regulation No 44/2001 allows a court's jurisdiction over all alleged perpetrators to be established on the basis of the place where the alleged damage occurred, provided that the damage occurred within the jurisdiction of the court seised (see, to that effect, judgment of 3 April 2014, Hi Hotel HCF, C‑387/12, EU:C:2014:215, paragraph 40).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15859">
+          <num>43</num>
+          <content eId="para_15859__content">
+            <p>In the light of those considerations, the answer to the second question is that Article 5(3) of Regulation No 44/2001 must be interpreted as meaning that, in the context of an action seeking compensation for damage caused by anticompetitive conduct, the `place where the harmful event occurred' covers, in a situation such as that at issue in the main proceedings, inter alia, the place where the loss of income consisting in loss of sales occurred, that is to say, the place of the market which is affected by that conduct and on which the victim claims to have suffered those losses.</p>
+            <tblock>
+              <p>The first question</p>
+            </tblock>
+            <p>44 Although, according to its wording, the first question concerns the practice of predatory pricing in relation to Article 102 TFEU, it also concerns a situation in which an anticompetitive agreement contrary to Article 101 TFEU has been concluded in advance.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15860">
+          <num>45</num>
+          <content eId="para_15860__content">
+            <p>By that question, the referring court asks, in essence, whether Article 5(3) of Regulation No 44/2001 must be interpreted as meaning that, in the context of an action seeking compensation for damage caused by anticompetitive conduct, the term `place where the harmful event occurred' may be understood to mean either the place of conclusion of an anticompetitive agreement contrary to Article 101 TFEU, or the place of commission of acts exploiting the financial benefit resulting from that agreement, consisting, inter alia, in the application of predatory prices amounting to abuse of a dominant position under Article 102 TFEU.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15861">
+          <num>46</num>
+          <content eId="para_15861__content">
+            <p>It should be noted at the outset, as observed in paragraph 28 above, that Article 5(3) of Regulation No 44/2001 grants the claimant the right to bring proceedings in either the courts for the place where the damage occurred, or the courts for the place of the event giving rise to the damage. Thus, proceedings may lawfully be brought before a court on the basis of either of those two grounds of jurisdiction.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15862">
+          <num>47</num>
+          <content eId="para_15862__content">
+            <p>In the present case, the dispute in the main proceedings is characterised by a chain of events where each event may, in itself, constitute `the event giving rise to the alleged damage' or where the damage may have resulted from the interaction of those events. Thus, the referring court makes reference, first, to anticompetitive conduct whereby Riga Airport granted preferential rebates to Air Baltic in relation to aircraft take-off, landing and security services and thus strengthened the latter's dominant position on the market for flights to and from Riga Airport, as well as an anticompetitive agreement allegedly concluded between that airport and Air Baltic to that effect and, secondly, to acts exploiting the financial benefit resulting from that agreement, particularly the application, by Air Baltic, of predatory pricing on certain flights to and from Vilnius Airport. Since the existence of an illegal agreement under Article 101 TFEU has been alleged in the main proceedings, the practice of predatory pricing may constitute solely an implementation of that agreement or may, in itself, constitute a separate infringement under Article 102 TFEU.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15863">
+          <num>48</num>
+          <content eId="para_15863__content">
+            <p>In those particularly complex circumstances, the practical determination of the place of the event giving rise to the damage thus depends, inter alia, on whether the alleged anticompetitive conduct constitutes an anticompetitive agreement under Article 101 TFEU and/or an abuse of a dominant position under Article 102 TFEU.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15864">
+          <num>49</num>
+          <content eId="para_15864__content">
+            <p>Subject to the verifications which it is for the referring court to carry out concerning, in the present case, the relationship between the various instances of anticompetitive conduct in question, it should be noted that, in so far as it appears from the facts in the main proceedings that the anticompetitive agreement allegedly concluded in contravention of Article 101 TFEU constitutes the event giving rise to the alleged damage, jurisdiction to adjudicate on the alleged resulting loss, on the basis of `the place of the event giving rise to the damage' and with regard to all of the parties to that agreement, may lie, by virtue of Article 5(3) of Regulation No 44/2001, with the courts for the place in which the agreement was definitively concluded (see, to that effect, judgment of 21 May 2015, CDC Hydrogen Peroxide, C‑352/13, EU:C:2015:335, paragraph 50). In that situation, Latvia may be identified as the place of conclusion of the alleged anticompetitive agreement.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15865">
+          <num>50</num>
+          <content eId="para_15865__content">
+            <p>That same answer would apply if it were to be established that the predatory pricing practised by Air Baltic on certain flights to and from Vilnius Airport constituted solely an implementation of that agreement.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15866">
+          <num>51</num>
+          <content eId="para_15866__content">
+            <p>However, if the practice of predatory pricing constituted a separate infringement under Article 102 TFEU, the court for the place where the anticompetitive conduct was implemented would have jurisdiction under Article 5(3) of Regulation No 44/2001.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15867">
+          <num>52</num>
+          <content eId="para_15867__content">
+            <p>Unlike damage arising from an unlawful cartel between various participants, the event giving rise to the damage in the case of abuse of a dominant position is not based on an agreement, but rather on the implementation of that abuse, that is to say, the acts performed by the dominant undertaking to put the abuse into practice, in particular by offering and applying predatory pricing in the market concerned.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15868">
+          <num>53</num>
+          <content eId="para_15868__content">
+            <p>If it were to be established that the events giving rise to the main proceedings were part of a common strategy intended to oust flyLAL from the market of flights to and from Vilnius Airport and that those events all contributed to giving rise to the damage alleged, it would be for the referring court to identify the event of most importance in implementing such a strategy out of the chain of events at issue in the main proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15869">
+          <num>54</num>
+          <content eId="para_15869__content">
+            <p>Such an assessment must be carried out only for the purpose of identifying the linking factors with the State where that court is situated which are capable of providing a basis for that court's jurisdiction under Article 5(3) of Regulation No 44/2001 (judgment of 16 June 2016, Universal Music International Holding, C‑12/15, EU:C:2016:449, paragraph 44) and, in that regard, the referring court must confine itself to a prima facie examination of the case without examining its substance, since, as observed in essence by the Advocate General in points 89 to 92 of his Opinion, elements establishing tortious civil liability, including the event giving rise to the damage, are to be assessed under the applicable national law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15870">
+          <num>55</num>
+          <content eId="para_15870__content">
+            <p>A solution making the identification of linking factors dependent on assessment criteria derived from national substantive law would be contrary to the objective of legal certainty since, depending on the applicable law, the actions of a person which took place in a Member State other than that of the court seised may or may not be regarded as the event giving rise to the damage for the purposes of attributing jurisdiction under Article 5(3) of Regulation No 44/2001 (judgment of 16 May 2013, Melzer, C‑228/11, EU:C:2013:305, paragraph 35).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15871">
+          <num>56</num>
+          <content eId="para_15871__content">
+            <p>As noted by the Advocate General in point 96 of his Opinion, choosing a specific event as being relevant for the purposes of establishing jurisdiction prevents a proliferation of jurisdictions. That accords with the special nature of the jurisdiction arising from Article 5(3) of Regulation No 44/2001 and the need for a restrictive interpretation, whilst also increasing predictability.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15872">
+          <num>57</num>
+          <content eId="para_15872__content">
+            <p>In the light of those considerations, the answer to the first question is that Article 5(3) of Regulation No 44/2001 must be interpreted as meaning that, in the context of an action seeking compensation for damage caused by anticompetitive conduct, the notion `place where the harmful event occurred' may be understood to mean either the place of conclusion of an anticompetitive agreement contrary to Article 101 TFEU, or the place in which the predatory prices were offered and applied in cases where such practices constituted an infringement of Article 102 TFEU.</p>
+            <tblock>
+              <p>The third question</p>
+            </tblock>
+            <p>58 The third question essentially seeks guidance from the Court as to the interpretation of the notion of ` dispute arising out of the operations of a branch' within the meaning of Article 5(5) of Regulation No 44/2001, in circumstances such as those at issue in the main proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15873">
+          <num>59</num>
+          <content eId="para_15873__content">
+            <p>In that regard, it should be recalled that the Court has identified two criteria to determine whether legal proceedings relating to the operations of a branch are linked to a Member State. First, the concept of `branch' implies a centre of operations which has the appearance of permanency, such as the extension of a parent body. It must have a management and be materially equipped to negotiate business with third parties, so that they do not have to deal directly with the parent body. Secondly, the dispute must concern either acts relating to the management of a branch or commitments entered into by that branch on behalf of the parent body, if those commitments are to be performed in the State in which the entities are situated (see, to that effect, judgment of 19 July 2012, Mahamdia, C‑154/11, EU:C:2012:491, paragraph 48 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15874">
+          <num>60</num>
+          <content eId="para_15874__content">
+            <p>According to the referring court, there is no doubt that the requirements of the first criterion, as laid down by the case-law, are satisfied in the present instance. That court harbours doubts only as to whether, as part of the assessment for the second criterion, the dispute in the main proceedings relates to the `operations' of the Air Baltic branch in Lithuania.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15875">
+          <num>61</num>
+          <content eId="para_15875__content">
+            <p>In that regard, the referring court states that even though it is apparent from its status that that branch has the power to enter into economic relations with third parties, and, in particular, to set the prices of its services, there is no evidence that that branch did in fact set the prices of flights on the markets in question in the main proceedings. In addition, that branch did not keep separate accounting records from those of the parent body.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15876">
+          <num>62</num>
+          <content eId="para_15876__content">
+            <p>As recalled in paragraph 26 above, Article 5(5) of Regulation No 44/2001 must be interpreted strictly since it provides an exception to the general rule of jurisdiction laid down in Article 2(1) of that regulation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15877">
+          <num>63</num>
+          <content eId="para_15877__content">
+            <p>Consequently, as observed by the Advocate General in points 137 and 142 of his Opinion, in the case of actions based on tortious liability, in order for the dispute to be regarded as arising out of the operations of a branch, that branch must have actually participated in some of the actions constituting the tort.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15878">
+          <num>64</num>
+          <content eId="para_15878__content">
+            <p>In the present case, it is for the referring court to identify the potential role of the Air Baltic branch in the commission of the anticompetitive conduct alleged. In view of the information contained in the order for reference, it should examine, in particular, whether the activities carried out by that branch included actual acts of offering and applying the predatory pricing alleged and whether such participation in the alleged abuse of a dominant position was sufficiently significant to be regarded as a close link with the dispute in the main proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15879">
+          <num>65</num>
+          <content eId="para_15879__content">
+            <p>As regards the fact that the Air Baltic branch did not keep separate accounting records from those of the parent body, the Court points out that that fact does not constitute a relevant criterion for the purpose of establishing whether that branch actually participated in the practice of predatory pricing that flyLAL accuses Air Baltic of implementing.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15880">
+          <num>66</num>
+          <content eId="para_15880__content">
+            <p>In the light of those considerations, the answer to the third question is that Article 5(5) of Regulation No 44/2001 must be interpreted as meaning that the notion of a `dispute arising out of the operations of a branch' covers an action seeking compensation for damage allegedly caused by abuse of a dominant position consisting of the application of predatory pricing, where a branch of the undertaking which holds the dominant position actually and significantly participated in that abusive practice.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_15881">
+          <num>67</num>
+          <content eId="para_15881__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Second Chamber) hereby rules: 1. Article 5(3) of Council Regulation (EC) No 44/2001 of 22 December 2000 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters must be interpreted as meaning that, in the context of an action seeking compensation for damage caused by anticompetitive conduct, the `place where the harmful event occurred' covers, in a situation such as that at issue in the main proceedings, inter alia, the place where the loss of income consisting in loss of sales occurred, that is to say, the place of the market which is affected by that conduct and on which the victim claims to have suffered those losses. 2. Article 5(3) of Regulation No 44/2001 must be interpreted as meaning that, in the context of an action seeking compensation for damage caused by anticompetitive conduct, the notion `place where the harmful event occurred' may be understood to mean either the place of conclusion of an anticompetitive agreement contrary to Article 101 TFEU, or the place in which the predatory prices were offered and applied in cases where such practices constituted an infringement of Article 102 TFEU. 3. Article 5(5) of Regulation No 44/2001 must be interpreted as meaning that the notion of a `dispute arising out of the operations of a branch' covers an action seeking compensation for damage allegedly caused by abuse of a dominant position consisting of the application of predatory pricing, where a branch of the undertaking which holds the dominant position actually and significantly participated in that abusive practice.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Lithuanian.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

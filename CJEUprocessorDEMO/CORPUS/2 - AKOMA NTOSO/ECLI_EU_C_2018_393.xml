@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Grand Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>5 June 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Social policy -- Directive 1999/70/EC -- Framework agreement on fixed-term work concluded by ETUC, UNICE and CEEP -- Clause 4 -- Principle of non-discrimination -- Definition of `employment conditions' -- Comparability of situations -- Justification -- Definition of `objective grounds' -- Compensation in the event of termination of an employment contract of indefinite duration on objective grounds -- No compensation on expiry of a fixed-term ` interinidad' contract) In Case C‑677/16, REQUEST for a preliminary ruling under Article 267 TFEU from the Juzgado de lo Social No 33 de Madrid (Social Court No 33, Madrid, Spain), made by decision of 21 December 2016, received at the Court on 29 December 2016, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">Lucía Montero Mateos</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#">Agencia Madrileña de Atención Social de la Consejería de Políticas Sociales y Familia de la Comunidad Autónoma de Madrid</party>
+      </p>
+      <p>, THE COURT (Grand Chamber), composed of K. Lenaerts, President, A. Tizzano, Vice-President, L. Bay Larsen, J.L. da Cruz Vilaça, A. Rosas and C.G. Fernlund, Presidents of Chambers, A. Arabadjiev (Rapporteur), M. Safjan, D. Šváby, M. Berger, A. Prechal, E. Jarašiūnas and E. Regan, Judges, Advocate General: J. Kokott, Registrar: L. Carrasco Marco, Administrator, having regard to the written procedure and further to the hearing on 8 November 2017, after considering the observations submitted on behalf of</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>Ms Montero Mateos, by G. de Federico Fernández, abogado,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Agencia Madrileña de Atención Social de la Consejería de Políticas Sociales y Familia de la Comunidad Autónoma de Madrid, by M. J. Miralles de Imperial Ollero, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Spanish Government, by A. Gavela Llopis, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by M. van Beek and N. Ruiz García, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 20 December 2017,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_13014">
+          <num>1</num>
+          <content eId="para_13014__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Clause 4(1) of the framework agreement on fixed-term work, concluded on 18 March 1999 ( `the Framework Agreement'), which is annexed to Council Directive 1999/70/EC of 28 June 1999 concerning the framework agreement on fixed-term work concluded by ETUC, UNICE and CEEP ( OJ 1999 L 175, p. 43).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13015">
+          <num>2</num>
+          <content eId="para_13015__content">
+            <p>The request has been made in proceedings between Ms Lucía Montero Mateos and the Agencia Madrileña de Atención Social de la Consejería de Políticas Sociales y Familia de la Comunidad Autónoma de Madrid (Madrid Social Services Agency, Department of Social Policy and the Family, Autonomous Community of Madrid, Spain; `the Agency'), concerning the expiry of the temporary replacement contract under which she was engaged by that Agency.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <paragraph eId="para_13016">
+          <num>3</num>
+          <content eId="para_13016__content">
+            <p>Recital 14 of Directive 1999/70 states as follows: `The signatory parties wished to conclude a framework agreement on fixed-term work setting out the general principles and minimum requirements for fixed-term employment contracts and employment relationships; they have demonstrated their desire to improve the quality of fixed-term work by ensuring the application of the principle of non-discrimination, and to establish a framework to prevent abuse arising from the use of successive fixed-term employment contracts or relationships'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13017">
+          <num>4</num>
+          <content eId="para_13017__content">
+            <p>Article 1 of Directive 1999/70 states that the purpose of the directive is `to put into effect the [Framework Agreement] concluded ... between the general cross-industry organisations ( ETUC , UNICE and CEEP ) ...'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13018">
+          <num>5</num>
+          <content eId="para_13018__content">
+            <p>The second paragraph in the preamble to the Framework Agreement is worded as follows: `The parties to this agreement recognise that contracts of an indefinite duration are, and will continue to be, the general form of employment relationship between employers and workers. They also recognise that fixed-term employment contracts respond, in certain circumstances, to the needs of both employers and workers.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13019">
+          <num>6</num>
+          <content eId="para_13019__content">
+            <p>The third paragraph of the preamble states: `[The Framework Agreement] sets out the general principles and minimum requirements relating to fixed-term work, recognising that their detailed application needs to take account of the realities of specific national, sectoral and seasonal situations. It illustrates the willingness of the Social Partners to establish a general framework for ensuring equal treatment for fixed-term workers by protecting them against discrimination and for using fixed-term employment contracts on a basis acceptable to employers and workers.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13020">
+          <num>7</num>
+          <content eId="para_13020__content">
+            <p>According to Clause 1 of the Framework Agreement, the purpose of that agreement is, first, to improve the quality of fixed-term work by ensuring the application of the principle of non-discrimination and, second, to establish a framework to prevent abuse arising from the use of successive fixed-term employment contracts or relationships.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13021">
+          <num>8</num>
+          <content eId="para_13021__content">
+            <p>Clause 3 of the Framework Agreement, entitled `Definitions', provides: `1. For the purpose of this agreement the term ``fixed-term worker '' means a person having an employment contract or relationship entered into directly between an employer and a worker where the end of the employment contract or relationship is determined by objective conditions such as reaching a specific date, completing a specific task, or the occurrence of a specific event. 2. For the purpose of this agreement, the term ``comparable permanent worker '' means a worker with an employment contract or relationship of indefinite duration, in the same establishment, engaged in the same or similar work/occupation, due regard being given to qualifications/skills. ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13022">
+          <num>9</num>
+          <content eId="para_13022__content">
+            <p>Clause 4 of the Framework Agreement, entitled `Principle of non-discrimination', provides in paragraph 1: `In respect of employment conditions, fixed-term workers shall not be treated in a less favourable manner than comparable permanent workers solely because they have a fixed-term contract or relation unless different treatment is justified on objective grounds.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The relevant provisions of Spanish law</p>
+        </tblock>
+        <paragraph eId="para_13023">
+          <num>10</num>
+          <content eId="para_13023__content">
+            <p>Article 15(1) of the texto refundido de la Ley del Estatuto de los Trabajadores (consolidated text of the Law on the Workers' Statute), approved by the Real Decreto Legislativo 1/1995 (Royal Legislative Decree 1/1995) of 24 March 1995 (BOE No 75 of 29 March 1995, p. 9654), in its version applicable at the time of the facts in the main proceedings ( `the Workers' Statute'), states: `An employment contract may be concluded for an indefinite period or for a fixed term. A fixed-term employment contract may be concluded in the following cases:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>where the worker is employed in order to complete a task which is specific, autonomous and separable from the employer's activities as a whole, and the task, while limited in time, will be performed, in principle, over an indeterminable period ...</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>where market circumstances, an accumulation of work or an excessively large number of orders so require, including over the course of the employer's normal business ...</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>in the event of replacement of workers entitled to retain their post, provided that the employment contract specifies the name of the replaced worker and the reason for the replacement.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13024">
+          <num>11</num>
+          <content eId="para_13024__content">
+            <p>Under Article 15(6) of that statute, workers with temporary fixed-term contracts are to have the same rights as workers with contracts of indefinite duration, without prejudice to the special arrangements of each type of contract as regards termination and those expressly provided for by law in relation to training contracts.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13025">
+          <num>12</num>
+          <content eId="para_13025__content">
+            <p>Article 49(1) of the Workers' Statute provides: `1.   An employment contract shall be terminated: ...</p>
+            <blockList>
+              <item>
+                <num>(b)</num>
+                <p>for valid reasons set out in the contract, unless they constitute a manifest abuse of legal procedure by the employer;</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>on expiry of the term agreed or completion of the task or services covered by the contract. At the end of the contract, except in the case of temporary replacement contracts and training contracts, the worker shall be entitled to receive compensation in an amount equivalent to twelve days' remuneration for each year of service, or, where applicable, the compensation provided for by specific legislation applicable in the case; ...</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(l)</num>
+                <p>on legally permissible objective grounds; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13026">
+          <num>13</num>
+          <content eId="para_13026__content">
+            <p>Under Article 52 of the Workers' Statute, `objective grounds' which may justify the termination of the employment contract are: the worker's incompetence, which became apparent or developed after the worker actually joined the undertaking; the worker's failure to adapt to reasonable technical changes made to his job; economic or technical grounds or grounds relating to organisation or production when the number of posts lost is lower than that required in order to classify the termination of employment contracts as a `collective dismissal'; and, subject to certain conditions, repeated absence from work, even if justified.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13027">
+          <num>14</num>
+          <content eId="para_13027__content">
+            <p>In accordance with Article 53(1)(b) of the Workers' Statute, the termination of an employment contract on any of the grounds set out in Article 52 of the statute confers entitlement on the worker to payment, at the same time as written notification of termination is given, of compensation equivalent to twenty days' remuneration per year of service, periods of less than one year being calculated pro rata on a monthly basis, up to a maximum of twelve monthly payments.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13028">
+          <num>15</num>
+          <content eId="para_13028__content">
+            <p>The Real Decreto 2720/1998 por el que se desarrolla el artículo 15 del Estatuto de los Trabajadores en materia de contratos de duración determinada (Royal Decree 2720/1998, implementing Article 15 of the Workers' Statute on fixed-term contracts), of 18 December 1998 (BOE No 7 of 8 January 1999, p. 568), defines, in Article 4(1), the interinidad(temporary replacement) contract as a contract concluded to replace a worker who has a reserved right to his post under legislation or under a collective or individual agreement, or to cover a post temporarily while the selection or promotion procedure to fill the post permanently takes place.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13029">
+          <num>16</num>
+          <content eId="para_13029__content">
+            <p>Under Article 4(2) of that Royal Decree, the contract must identify, inter alia, the replaced worker and the reason for the replacement or the post that will be permanently filled following the recruitment or promotion procedure. The term of the temporary replacement contract concluded in order to replace a worker who is entitled to have his post reserved is to correspond to the duration of that worker's absence. The term of the temporary replacement contract concluded in order to cover a post temporarily while the selection or promotion procedure to fill the post permanently takes place is to correspond to the duration of that procedure. It may not exceed three months and no further contract may be concluded for the same purpose once the maximum term has been exceeded. In the case of selection procedures run by public bodies for recruitment purposes, the term of temporary replacement contracts is to correspond to the duration of such procedures as stipulated in the relevant specific legislation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13030">
+          <num>17</num>
+          <content eId="para_13030__content">
+            <p>Article 8(1) of that Royal Decree provides: `Fixed-term contracts shall be terminated, upon notice given by either party, on the following grounds: ...</p>
+            <blockList>
+              <item>
+                <num>(c)</num>
+                <p>A temporary replacement contract shall be terminated upon the occurrence of any of the following events:</p>
+                <blockList>
+                  <item>
+                    <num>(1)</num>
+                    <p>The return to work of the replaced worker.</p>
+                  </item>
+                  <item>
+                    <num>(2)</num>
+                    <p>Expiry of the period laid down by law or by an agreement during which the replaced worker may return to work.</p>
+                  </item>
+                  <item>
+                    <num>(3)</num>
+                    <p>The reason for retention of the post no longer existing.</p>
+                  </item>
+                  <item>
+                    <num>(4)</num>
+                    <p>Expiry of the three-month period in the case of selection or promotion procedures to fill posts permanently, or of the applicable period in the case of public sector selection procedures.'</p>
+                  </item>
+                </blockList>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the question referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_13031">
+          <num>18</num>
+          <content eId="para_13031__content">
+            <p>On 13 March 2007, Ms Montero Mateos entered into a temporary replacement contract with the Agency in order to replace a permanent worker. On 1 February 2008, that contract was converted into a temporary replacement contract to cover a vacant post temporarily.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13032">
+          <num>19</num>
+          <content eId="para_13032__content">
+            <p>The post held by Ms Montero Mateos involved working as an assistant in a residential home for elderly persons run by the Agency.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13033">
+          <num>20</num>
+          <content eId="para_13033__content">
+            <p>On 3 October 2009, a recruitment procedure was organised by the Comunidad de Madrid (Autonomous Community of Madrid, Spain) in order to fill such assistant posts. On 27 July 2016, the post in which Ms Montero Mateos had been employed was assigned to a person who had been selected following that procedure.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13034">
+          <num>21</num>
+          <content eId="para_13034__content">
+            <p>As a consequence of this, Ms Montero Mateos' temporary replacement contract ended with effect from 30 September 2016.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13035">
+          <num>22</num>
+          <content eId="para_13035__content">
+            <p>On 14 October 2016, Ms Montero Mateos brought an action before the Juzgado de lo Social No 33 de Madrid (Social Court No 33, Madrid, Spain) against the decision to terminate her contract.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13036">
+          <num>23</num>
+          <content eId="para_13036__content">
+            <p>In its order for reference, that court notes that, under her temporary replacement contract, Ms Montero Mateos carried out the same tasks as those which the person selected following the procedure mentioned in paragraph 20 of the present judgment was recruited to carry out. Those two workers should therefore be considered to be comparable workers for the purposes of the application of Clause 4 of the Framework Agreement.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13037">
+          <num>24</num>
+          <content eId="para_13037__content">
+            <p>Furthermore, the compensation payable on expiry of a fixed-term employment contract and the compensation payable on account of the dismissal of a comparable permanent worker on one of the grounds set out in Article 52 of the Workers' Statute fall within the concept of `employment conditions' within the meaning of Clause 4 of that agreement.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13038">
+          <num>25</num>
+          <content eId="para_13038__content">
+            <p>The referring court notes, in addition, that, under Spanish law, when the employment contract is terminated on one of the grounds set out in Article 52 of the Workers' Statute, statutory compensation equivalent to twenty days' remuneration per year of service with the employer is granted to the worker, irrespective of whether his employment contract or relationship is for a fixed-term or an indefinite duration. In such a case, fixed-term workers and permanent workers are thus treated in the same way.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13039">
+          <num>26</num>
+          <content eId="para_13039__content">
+            <p>By contrast, when a temporary replacement contract comes to an end on expiry of the term for which it was concluded, as in the present case, the worker in question does not receive any compensation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13040">
+          <num>27</num>
+          <content eId="para_13040__content">
+            <p>According to the referring court, different treatment within the meaning of Clause 4 of the Framework Agreement could be found to exist in the present case only if it were accepted that the situation of a worker whose fixed-term contract terminates on expiry of the term for which it was concluded is comparable to that of a worker whose permanent contract is terminated on one of the grounds set out in Article 52 of the Workers' Statute.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13041">
+          <num>28</num>
+          <content eId="para_13041__content">
+            <p>The judgment of 14 September 2016, de Diego Porras ( C‑596/14, EU:C:2016:683) led the Spanish courts to grant the former category of workers, on expiry of the term for which their temporary replacement contracts had been concluded, compensation equal to that granted, inter alia, to permanent workers on termination of their employment contracts on one of the grounds set out in Article 52 of the Workers' Statute.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13042">
+          <num>29</num>
+          <content eId="para_13042__content">
+            <p>That judgment had an impact on the Spanish labour market, which is characterised by endemic unemployment and a large number of temporary contracts.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13043">
+          <num>30</num>
+          <content eId="para_13043__content">
+            <p>However, that judgment did not offer any answer as to whether the fact that the parties to a fixed-term contract are necessarily aware of the limited duration of the contract can justify, as regards compensation for termination of the employment relationship, different treatment as compared with that enjoyed by permanent workers whose employment contract is terminated on one of the grounds set out in Article 52 of the Workers' Statute.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13044">
+          <num>31</num>
+          <content eId="para_13044__content">
+            <p>The referring court notes, in particular, that a worker employed under a temporary replacement contract concluded in order to replace a worker who has the right to retain his post cannot be unaware of the fact that he occupies that post on a provisional basis in order to meet a genuinely temporary need.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13045">
+          <num>32</num>
+          <content eId="para_13045__content">
+            <p>By contrast, the termination of a contract of indefinite duration on one of the grounds set out in Article 52 of the Workers' Statute, as with early termination of a fixed-term employment contract on the same grounds, results from the occurrence of an event which, although possible, had not been foreseen, and which affects the economic balance of the contract to such an extent that it is pointless or impossible for it to continue.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13046">
+          <num>33</num>
+          <content eId="para_13046__content">
+            <p>According to the referring court, it is therefore arguable that the expiry of a fixed-term employment contract in accordance with the terms of that contract is different, because it is foreseeable, from the termination of an employment contract on one of the grounds set out in Article 52 of the Workers' Statute. Indeed, the termination of a contract for such a reason would, on account of it being unforeseeable, frustrate the worker's expectations as regards the stability of the employment relationship. That could be interpreted as constituting an objective reason justifying those situations being treated differently in terms of the granting of compensation to the worker.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13047">
+          <num>34</num>
+          <content eId="para_13047__content">
+            <p>However, it is also possible to argue that the assignment of a post, until then occupied by a worker under a temporary replacement contract, to the person selected following a procedure to fill that post permanently, constitutes an objective ground connected with the organisation of the undertaking and unrelated to the worker. In the present case, such an argument might support Ms Montero Mateos receiving the same compensation as that granted to comparable permanent workers on termination of their employment contract on one of the grounds set out in Article 52 of the Workers' Statute.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13048">
+          <num>35</num>
+          <content eId="para_13048__content">
+            <p>Moreover, according to the referring court, any worker, whether engaged for a fixed term or for an indefinite duration, suffers actual loss when he loses his job. If the compensation paid on termination of the employment relationship is actually intended to compensate for that harm it may be unfair to grant it only in some of the cases where the termination of that relationship is unrelated to the worker.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13049">
+          <num>36</num>
+          <content eId="para_13049__content">
+            <p>In those circumstances, the Juzgado de lo Social No 33 de Madrid (Social Court No 33, Madrid) decided to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling: `Must Clause 4(1) of the [Framework Agreement] be interpreted as meaning that the termination of a temporary replacement contract concluded to cover a vacant post, on expiry of the term agreed when the contract was concluded by the employer and the worker, constitutes objective grounds justifying the Spanish legislature's not providing, in such a case, for any compensation whatsoever for termination, whereas a comparable permanent worker dismissed on objective grounds receives compensation of twenty days' remuneration for every year of service?'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13050">
+          <num>37</num>
+          <content eId="para_13050__content">
+            <p>By letter lodged at the Registry of the Court on 25 April 2017, the Spanish Government, by virtue of the third paragraph of Article 16 of the Statute of the Court of Justice of the European Union, requested that the Court sit in a Grand Chamber.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the question referred</p>
+        </tblock>
+        <paragraph eId="para_13051">
+          <num>38</num>
+          <content eId="para_13051__content">
+            <p>By its question, the referring court asks, essentially, whether Clause 4(1) of the Framework Agreement must be interpreted as precluding national legislation which does not provide for any compensation to be paid to workers employed under a fixed-term contract concluded in order to cover a post temporarily while the selection or promotion procedure to fill the post permanently takes place, such as the temporary replacement contract at issue in the main proceedings, on expiry of the term for which that contract was concluded, whereas compensation is payable to permanent workers where their employment contract is terminated on objective grounds.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13052">
+          <num>39</num>
+          <content eId="para_13052__content">
+            <p>It should be recalled, in that regard, that, according to Clause 1(a) of the Framework Agreement, one of its objectives is to improve the quality of fixed-term work by ensuring the application of the principle of non-discrimination. Similarly, the third paragraph in the preamble to the Framework Agreement states that it `illustrates the willingness of the Social Partners to establish a general framework for ensuring equal treatment for fixed-term workers by protecting them against discrimination'. Recital 14 of Directive 1999/70 states, to this end, that the aim of the Framework Agreement is, inter alia, to improve the quality of fixed-term work by setting out minimum requirements in order to ensure the application of the principle of non-discrimination (judgments of 22 December 2010, Gavieiro Gavieiro and Iglesias Torres, C‑444/09 and C‑456/09, EU:C:2010:819, paragraph 47; of 12 December 2013, Carratù, C‑361/12, EU:C:2013:830, paragraph 40, and of 13 March 2014, Nierodzik, C‑38/13, EU:C:2014:152, paragraph 22).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13053">
+          <num>40</num>
+          <content eId="para_13053__content">
+            <p>The Framework Agreement, in particular Clause 4 thereof, aims to apply the principle of non-discrimination to fixed-term workers in order to prevent an employer using such an employment relationship to deny those workers rights which are recognised for permanent workers (judgments of 13 September 2007, Del Cerro Alonso, C‑307/05, EU:C:2007:509, paragraph 37; of 22 December 2010, Gavieiro Gavieiro and Iglesias Torres, C‑444/09 and C‑456/09, EU:C:2010:819, paragraph 48, and of 13 March 2014, Nierodzik, C‑38/13, EU:C:2014:152, paragraph 23).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13054">
+          <num>41</num>
+          <content eId="para_13054__content">
+            <p>In view of the objectives pursued by the Framework Agreement, as referred to in the two preceding paragraphs, Clause 4 of the agreement must be interpreted as articulating a principle of EU social law, which cannot be interpreted restrictively (judgments of 22 December 2010, Gavieiro Gavieiro and Iglesias Torres, C‑444/09 and C‑456/09, EU:C:2010:819, paragraph 49, and of 13 March 2014, Nierodzik, C‑38/13, EU:C:2014:152, paragraph 24; also see, to that effect, judgment of 13 September 2007, Del Cerro Alonso, C‑307/05, EU:C:2007:509, paragraph 38).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13055">
+          <num>42</num>
+          <content eId="para_13055__content">
+            <p>It is important to bear in mind that Clause 4(1) of the Framework Agreement prohibits, with regard to employment conditions, less favourable treatment of fixed-term workers as compared with permanent workers, on the sole grounds that they are employed for a fixed term, unless different treatment is justified on objective grounds.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13056">
+          <num>43</num>
+          <content eId="para_13056__content">
+            <p>In the present case, it should be noted, first, that as Ms Montero Mateos' employment contract provided that it would end on the occurrence of a specific event, when the post that she occupied temporarily was filled on a permanent basis following a selection procedure, she must be considered to be a `fixed-term worker' within the meaning of Clause 3(1) of the Framework Agreement.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13057">
+          <num>44</num>
+          <content eId="para_13057__content">
+            <p>It is consequently necessary, second, to establish whether the payment of compensation by an employer on account of the termination of an employment contract falls within the concept of `employment conditions' within the meaning of Clause 4(1) of the Framework Agreement. In that regard, the Court has held that the decisive criterion for determining whether a measure falls within the scope of that concept is the criterion of employment, that is to say the employment relationship between a worker and his employer (judgments of 12 December 2013, Carratù, C‑361/12, EU:C:2013:830, paragraph 35, and of 13 March 2014, Nierodzik, C‑38/13, EU:C:2014:152, paragraph 25).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13058">
+          <num>45</num>
+          <content eId="para_13058__content">
+            <p>The Court has thus held that, inter alia, rules for determining the notice period applicable in the event of termination of fixed-term employment contracts fall within that concept (see, to that effect, judgment of 13 March 2014, Nierodzik, C‑38/13, EU:C:2014:152, paragraph 29).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13059">
+          <num>46</num>
+          <content eId="para_13059__content">
+            <p>The Court has also held that an interpretation of Clause 4(1) of the Framework Agreement which excludes from the definition of that concept conditions relating to termination of a fixed-term employment contract would limit the scope of the protection afforded to fixed-term workers against discrimination, contrary to the objective assigned to that provision (judgment of 13 March 2014, Nierodzik, C‑38/13, EU:C:2014:152, paragraph 27).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13060">
+          <num>47</num>
+          <content eId="para_13060__content">
+            <p>Those considerations are fully transferable to the compensation paid to a worker on account of the termination of his contract of employment with his employer, such compensation being paid on account of the employment relationship that has been established between them (see, to that effect, judgment of 14 September 2016, de Diego Porras, C‑596/14, EU:C:2016:683, paragraph 31).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13061">
+          <num>48</num>
+          <content eId="para_13061__content">
+            <p>It follows that compensation such as that at issue in the main proceedings falls within the concept of `employment conditions' within the meaning of Clause 4(1) of the Framework Agreement.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13062">
+          <num>49</num>
+          <content eId="para_13062__content">
+            <p>It must be noted, third, that according to the Court's settled case-law, the principle of non-discrimination, of which Clause 4(1) of the Framework Agreement is a specific expression, requires that comparable situations should not be treated differently and different situations should not be treated alike, unless such treatment is objectively justified (see, to that effect, judgment of 8 September 2011, Rosado Santana, C‑177/10, EU:C:2011:557, paragraph 65 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13063">
+          <num>50</num>
+          <content eId="para_13063__content">
+            <p>In that regard, the principle of non-discrimination has been implemented and specifically applied by the Framework Agreement solely as regards differences in treatment as between fixed-term workers and permanent workers in a comparable situation (judgment of 14 September 2016, de Diego Porras, C‑596/14, EU:C:2016:683, paragraph 37 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13064">
+          <num>51</num>
+          <content eId="para_13064__content">
+            <p>According to the Court's settled case-law, in order to assess whether the persons concerned are engaged in the same or similar work for the purposes of the Framework Agreement, it must be determined, in accordance with Clauses 3(2) and 4(1) of the Framework Agreement, whether, in the light of a number of factors, such as the nature of the work, training requirements and working conditions, those persons can be regarded as being in a comparable situation (judgments of 18 October 2012, Valenza and Others, C‑302/11 to C‑305/11, EU:C:2012:646, paragraph 42 and the case-law cited, and of 13 March 2014, Nierodzik, C‑38/13, EU:C:2014:152, paragraph 31).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13065">
+          <num>52</num>
+          <content eId="para_13065__content">
+            <p>In the present case it is for the referring court, which alone has jurisdiction to assess the facts, to determine whether Ms Montero Mateos, when she was engaged by the Agency under a fixed-term employment contract, was in a situation comparable to that of employees hired for an indefinite duration by the same employer during the same period (see, by analogy, judgments of 8 September 2011, Rosado Santana, C‑177/10, EU:C:2011:557, paragraph 67; of 18 October 2012, Valenza and Others, C‑302/11 to C‑305/11, EU:C:2012:646, paragraph 43, and of 13 March 2014, Nierodzik, C‑38/13, EU:C:2014:152, paragraph 32).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13066">
+          <num>53</num>
+          <content eId="para_13066__content">
+            <p>That said, it is clear from the evidence available to the Court that Ms Montero Mateos, when she was engaged by the Agency under a temporary replacement contract, carried out the same tasks of an assistant in a residential home for elderly persons as those that the person selected following the procedure mentioned in paragraph 20 above was recruited to carry out, the purpose of that selection procedure being precisely to fill the post that Ms Montero Mateos occupied during that period with a permanent worker.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13067">
+          <num>54</num>
+          <content eId="para_13067__content">
+            <p>Accordingly, subject to the referring court's definitive assessment of all the relevant factors, it must be concluded that the situation of a fixed-term worker such as Ms Montero Mateos was comparable to that of a permanent worker engaged by the Agency to carry out the same tasks of an assistant in a residential home for elderly persons.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13068">
+          <num>55</num>
+          <content eId="para_13068__content">
+            <p>It is therefore necessary to ascertain whether there is an objective reason justifying the fact that expiry of a temporary replacement contract does not entitle the fixed-term worker concerned to payment of compensation, whereas a permanent worker receives compensation when dismissed on one of the grounds set out in Article 52 of the Workers' Statute.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13069">
+          <num>56</num>
+          <content eId="para_13069__content">
+            <p>In that regard, it should be noted that, according to the Court's settled case-law, the concept of `objective grounds', within the meaning of Clause 4(1) of the Framework Agreement, must be understood as not permitting a difference in treatment between fixed-term workers and permanent workers to be justified on the basis that the different treatment is provided for by a general or abstract measure, such as a law or a collective agreement (judgments of 13 September 2007, Del Cerro Alonso, C‑307/05, EU:C:2007:509, paragraph 57, and of 22 December 2010, Gavieiro Gavieiro and Iglesias Torres, C‑444/09 and C‑456/09, EU:C:2010:819, paragraph 54, and order of 22 March 2018, Centeno Meléndez, C‑315/17, not published, EU:C:2018:207, paragraph 62).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13070">
+          <num>57</num>
+          <content eId="para_13070__content">
+            <p>That concept requires, according to equally settled case-law, the unequal treatment found to exist to be justified by the presence of precise and specific factors, characterising the employment condition to which it relates, in the specific context in which it occurs and, on the basis of objective and transparent criteria, in order to ensure that that unequal treatment in fact responds to a genuine need, is appropriate for the purpose of attaining the objective pursued and is necessary for that purpose. Those factors may be apparent, in particular, from the specific nature of the tasks for the performance of which fixed-term contracts have been concluded and from the inherent characteristics of those tasks or, as the case may be, from pursuit of a legitimate social-policy objective of a Member State (see, inter alia, judgments of 13 September 2007, Del Cerro Alonso, C‑307/05, EU:C:2007:509, paragraph 53, and of 14 September 2016, de Diego Porras, C‑596/14, EU:C:2016:683, paragraph 45, as well as order of 22 March 2018, Centeno Meléndez, C‑315/17, not published, EU:C:2018:207, paragraph 65).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13071">
+          <num>58</num>
+          <content eId="para_13071__content">
+            <p>In the present case, the Spanish Government relies on the difference between the context in which the grounds for termination referred to in Article 49(1)(c) of the Workers' Statute arise, such as expiry of the term of a temporary replacement contract, and the context which calls for payment of the compensation provided for in the event of dismissal on one of the grounds set out in Article 52 of that statute, such as economic or technical grounds or grounds relating to the employer's organisation or production when the number of posts lost is lower than that required in order to classify the termination of employment contracts as a `collective dismissal', is required. In order to explain the different treatment at issue in the main proceedings, that government states, in essence, that in the first situation, the employment relationship terminates when an event that could have been foreseen by the worker when he entered into the temporary replacement contract occurs. That corresponds to the situation at issue in the main proceedings, where the temporary replacement contract expired with the filling of the vacant post which Ms Montero Mateos had occupied temporarily. By contrast, in the second situation, the reason underlying the payment of compensation provided for by Article 53(1)(b) of the Workers' Statute is to compensate for the frustration of a worker's legitimate expectation that his employment relationship would continue, as a result of his dismissal on one of the grounds set out in Article 52 of that statute.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13072">
+          <num>59</num>
+          <content eId="para_13072__content">
+            <p>In that regard, it should be noted that the termination of Ms Montero Mateos' temporary replacement contract on account of the post that she occupied temporarily under that contract being permanently filled following the procedure mentioned in paragraph 20 above, took place in a significantly different context, from a factual and legal point of view, to that in which the employment contract of a permanent worker is terminated on one of the grounds set out in Article 52 of the Workers' Statute.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13073">
+          <num>60</num>
+          <content eId="para_13073__content">
+            <p>Indeed, it follows from the definition of a fixed-term contract in Clause 3(1) of the Framework Agreement that a contract of that kind ceases to have any future effect on expiry on the term stipulated in the contract, that term being identified as the completion of a specific task, a specific date being reached or as in the present case, the occurrence of a specific event. Thus, the parties to a fixed-term employment contract are aware, from the moment of its conclusion, of the date or event which determines its end. That term limits the duration of the employment relationship without the parties having to make their intentions known in that regard after entering into the contract.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13074">
+          <num>61</num>
+          <content eId="para_13074__content">
+            <p>By contrast, the termination of a permanent employment contract on one of the grounds set out in Article 52 of the Workers' Statute, on the initiative of the employer, is the result of circumstances arising which were not foreseen at the date the contract was entered into and which disrupt the normal continuation of the employment relationship. As is clear from the Spanish Government's explanations set out in paragraph 58 above and as the Advocate General noted, in essence, in point 55 of her Opinion, it is precisely in order to compensate for the unforeseen nature of the termination of the employment relationship for such a reason and, accordingly, the frustration of any legitimate expectation the worker may have had at that date as regards the stability of that relationship, that Article 53(1)(b) of the Workers' Statute requires compensation equivalent to twenty days' remuneration per year of service to be paid to the dismissed worker.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13075">
+          <num>62</num>
+          <content eId="para_13075__content">
+            <p>In the latter case, Spanish law does not treat fixed-term workers and comparable permanent workers differently, since Article 53(1)(b) of the Workers' Statute provides for statutory compensation equivalent to twenty days' remuneration per year of service with the employer to be paid to a worker, irrespective of whether his employment contract is for a fixed-term or for an indefinite duration.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13076">
+          <num>63</num>
+          <content eId="para_13076__content">
+            <p>In those circumstances, it must be concluded that the specific purpose of the compensation provided for dismissal in Article 53(1)(b) of the Workers' Statute, and the specific context in which that compensation is paid, constitutes an objective ground justifying the different treatment at issue.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13077">
+          <num>64</num>
+          <content eId="para_13077__content">
+            <p>In the present case, Ms Montero Mateos could not have known, at the time she entered into her temporary replacement contract, the exact date on which the post she occupied under that contract would be permanently filled, nor that the duration of that contract would be unusually long. However, the fact remains that the contract expired because the reason justifying its conclusion no longer existed. That being so, it is for the referring court to consider whether, in the light of the fact that the point at which the contract would end was unforeseeable and its unusually long duration, the contract should be redefined as a `contract of indefinite duration'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13078">
+          <num>65</num>
+          <content eId="para_13078__content">
+            <p>In the light of the foregoing considerations, the answer to the question referred is that Clause 4(1) of the Framework Agreement must be interpreted as not precluding national legislation which does not provide for any compensation to be paid to workers employed under a fixed-term contract entered into in order to cover a post temporarily while the selection or promotion procedure to fill the post permanently takes place, such as the temporary replacement contract at issue in the main proceedings, on expiry of the term for which that contract was concluded, whereas compensation is payable to permanent workers where their employment contract is terminated on objective grounds.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_13079">
+          <num>66</num>
+          <content eId="para_13079__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Grand Chamber) hereby rules: Clause 4(1) of the framework agreement on fixed-term work concluded on 18 March 1999, which is annexed to Council Directive 1999/70/EC of 28 June 1999 concerning the framework agreement on fixed-term work concluded by ETUC, UNICE and CEEP, must be interpreted as not precluding national legislation which does not provide for any compensation to be paid to workers employed under a fixed-term contract entered into in order to cover a post temporarily while the selection or promotion procedure to fill the post permanently takes place, such as the temporary replacement contract at issue in the main proceedings, on expiry of the term for which that contract was concluded, whereas compensation is payable to permanent workers where their employment contract is terminated on objective grounds.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Spanish.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

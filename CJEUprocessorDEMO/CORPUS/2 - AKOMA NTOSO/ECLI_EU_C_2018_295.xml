@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Grand Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>2 May 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Value added tax (VAT) -- Protection of the European Union's financial interests -- Article 4(3) TEU -- Article 325(1) TFEU -- Directive 2006/112/EC -- PFI Convention -- Penalties -- Principles of equivalence and effectiveness -- Failure to pay, within the time limit prescribed by law, the VAT resulting from an annual tax return -- National legislation imposing a custodial sentence only where the amount of unpaid VAT exceeds a certain criminalisation threshold -- National legislation imposing a lower criminalisation threshold for a failure to pay withholding income tax) In Case C‑574/15, REQUEST for a preliminary ruling under Article 267 TFEU from the Tribunale di Varese (District Court, Varese, Italy), made by decision of 30 October 2015, received at the Court on 9 November 2015, in the criminal proceedings against Mauro Scialdone, THE COURT (Grand Chamber), composed of K. Lenaerts, President, A. Tizzano, Vice-President, L. Bay Larsen, T. von Danwitz, J.L. da Cruz Vilaça (Rapporteur), A. Rosas, C.G. Fernlund and C. Vajda, Presidents of Chambers, C. Toader, M. Safjan, D. Šváby, M. Berger, E. Jarašiūnas, M. Vilaras and E. Regan, Judges, Advocate General: M. Bobek, Registrar: R. Schiano, Administrator, having regard to the written procedure and further to the hearing on 21 March 2017, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>the Italian Government, by G. Palmieri, acting as Agent, and G. Galluzzo and E. De Bonis, avvocati dello Stato,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the German Government, by T. Henze and J. Möller, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Netherlands Government, by M.K. Bulterman, B. Koopman and L. Noort, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Austrian Government, by G. Eberhard, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by E. Traversa, P. Rossi and C. Cattabriga, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 13 July 2017,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_11210">
+          <num>1</num>
+          <content eId="para_11210__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Article 4(3) TEU, Article 325(1) and (2) TFEU, Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax ( OJ 2006 L 347, p. 1; `the VAT Directive') and the Convention drawn up on the basis of Article K.3 of the Treaty on European Union, on the protection of the European Communities' financial interests, signed in Brussels on 26 July 1995 ( OJ 1995 C 316, p. 49; `the PFI Convention').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11211">
+          <num>2</num>
+          <content eId="para_11211__content">
+            <p>The request has been made in criminal proceedings brought against Mr Mauro Scialdone for failing, in his capacity as sole director of Siderlaghi Srl, to pay, within the time limit prescribed by law, the value added tax (VAT) resulting from the company's annual return for the tax year 2012.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <tblock>
+          <p>The PFI Convention</p>
+        </tblock>
+        <paragraph eId="para_11212">
+          <num>3</num>
+          <content eId="para_11212__content">
+            <p>Article 1 of the PFI Convention, entitled `General provisions', states in paragraph 1: `For the purposes of this Convention, fraud affecting the [Union's] financial interests shall consist of: ...</p>
+            <blockList>
+              <item>
+                <num>(b)</num>
+                <p>in respect of revenue, any intentional act or omission relating to:</p>
+                <blockList>
+                  <item>
+                    <num>--</num>
+                    <p>the use or presentation of false, incorrect or incomplete statements or documents, which has as its effect the illegal diminution of the resources of the general budget of the [Union] or budgets managed by, or on behalf of, the [Union],</p>
+                  </item>
+                  <item>
+                    <num>--</num>
+                    <p>non-disclosure of information in violation of a specific obligation, with the same effect,</p>
+                  </item>
+                  <item>
+                    <num>--</num>
+                    <p>misapplication of a legally obtained benefit, with the same effect.'</p>
+                  </item>
+                </blockList>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11213">
+          <num>4</num>
+          <content eId="para_11213__content">
+            <p>Article 2 of the PFI Convention, entitled `Penalties', provides in paragraph 1: `Each Member State shall take the necessary measures to ensure that the conduct referred to in Article 1, and participating in, instigating, or attempting the conduct referred to in Article 1(1), are punishable by effective, proportionate and dissuasive criminal penalties, including, at least in cases of serious fraud, penalties involving deprivation of liberty which can give rise to extradition, it being understood that serious fraud shall be considered to be fraud involving a minimum amount to be set in each Member State. This minimum amount may not be set at a sum exceeding [EUR] 50000.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The VAT Directive</p>
+        </tblock>
+        <paragraph eId="para_11214">
+          <num>5</num>
+          <content eId="para_11214__content">
+            <p>Article 2(1) of the VAT Directive determines the transactions subject to VAT.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11215">
+          <num>6</num>
+          <content eId="para_11215__content">
+            <p>Article 206 of that directive provides: `Any taxable person liable for payment of VAT must pay the net amount of the VAT when submitting the VAT return provided for in Article 250. Member States may, however, set a different date for payment of that amount or may require interim payments to be made.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11216">
+          <num>7</num>
+          <content eId="para_11216__content">
+            <p>Under Article 250(1) of that directive: `Every taxable person shall submit a VAT return setting out all the information needed to calculate the tax that has become chargeable and the deductions to be made including, in so far as is necessary for the establishment of the basis of assessment, the total value of the transactions relating to such tax and deductions and the value of any exempt transactions.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11217">
+          <num>8</num>
+          <content eId="para_11217__content">
+            <p>Article 273 of that directive provides: `Member States may impose other obligations which they deem necessary to ensure the correct collection of VAT and to prevent evasion, subject to the requirement of equal treatment as between domestic transactions and transactions carried out between Member States by taxable persons and provided that such obligations do not, in trade between Member States, give rise to formalities connected with the crossing of frontiers. ...'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Italian law</p>
+        </tblock>
+        <paragraph eId="para_11218">
+          <num>9</num>
+          <content eId="para_11218__content">
+            <p>Article 13(1) of decreto legislativo n. 471 -- Riforma delle sanzioni tributarie non penali in materia di imposte dirette, di imposta sul valore aggiunto e di riscossione dei tributi, a norma dell `articolo 3, comma 133, lettera</p>
+            <blockList>
+              <item>
+                <num>q)</num>
+                <p>, della legge 23 dicembre 1996, n. 662 (Legislative Decree No 471 on the reform of non-criminal tax penalties in the field of direct taxation, value added tax and tax collection, in accordance with Article 3(133)(q) of Law No 662 of 23 December 1996) of 18 December 1997 (Ordinary Supplement to GURI No 5 of 8 January 1998; `Legislative Decree No 471/97') is worded as follows: `Any person who fails to pay, in whole or in part, within the prescribed periods, instalments, periodic payments, the equalisation payment or the balance of tax due on the tax return, after deduction in those cases of the amount of the periodic payments and instalments, even if they have not been paid, shall be liable to an administrative penalty amounting to 30% of each outstanding amount, even where, after the correction of clerical or calculation errors noted during the inspection of the annual tax return, it transpires that the tax is greater or that the deductible surplus is less. ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11219">
+          <num>10</num>
+          <content eId="para_11219__content">
+            <p>Article 10 bis, entitled `Failure to pay withholding tax owed or certified', of decreto legislativo n. 74 -- Nuova disciplina dei reati in materia di imposte sui redditi e sul valore aggiunto, a norma dell `articolo 9 della legge 25 giugno 1999, n. 205 (Legislative Decree No 74 adopting new rules on offences relating to income tax and value added tax, in accordance with Article 9 of Law No 205 of 25 June 1999) of 10 March 2000 (GURI No 76 of 31 March 2000, p. 4; `Legislative Decree No 74/2000'), in the version in force at the material time and until 21 October 2015, provided: `Any person who fails to pay, within the period fixed for the filing of the withholding agent's annual tax return, the withholding tax resulting from the certification issued to the taxpayers in respect of whom tax is withheld shall be liable to a term of imprisonment of between six months and two years in the case where that amount exceeds EUR 50000 for each tax period.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11220">
+          <num>11</num>
+          <content eId="para_11220__content">
+            <p>At that time, Article 10 ter of that legislative decree, entitled `Failure to pay VAT', stated: `Article 10 bis shall also apply, within the limits laid down therein, to any person who fails to pay the [VAT] owed on the basis of the annual return by the deadline for the payment on account relating to the subsequent tax period.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11221">
+          <num>12</num>
+          <content eId="para_11221__content">
+            <p>Article 13 of that legislative decree, entitled `Mitigating circumstances. Payment of the tax debt', provided, in paragraph 1: `The penalties prescribed for the offences referred to in this decree shall be reduced by up to one third ... if , before the proceedings at first instance are declared opened , the tax debts relating to the facts constituting those offences have been discharged ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11222">
+          <num>13</num>
+          <content eId="para_11222__content">
+            <p>Legislative Decree No 74/2000 was amended by decreto legislativo n. 158 -- Revisione del sistema sanzionatorio, in attuazione dell `articolo 8, comma 1, della legge 11 marzo 2014, n. 23 (Legislative Decree No 158 revising the system of penalties implementing Article 8(1) of Law No 23 of 11 March 2014) of 24 September 2015 (Ordinary Supplement to GURI No 233 of 7 October 2015; `Legislative Decree No 158/2015'), with effect from 22 October 2015.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11223">
+          <num>14</num>
+          <content eId="para_11223__content">
+            <p>From that date, Article 10 bis of Legislative Decree No 74/2000, as amended by Legislative Decree No 158/2015, provides: `Any person who fails to pay, within the period fixed for the filing of the withholding agent's annual tax return, the withholding tax resulting from that return or from the certification issued to the taxpayers in respect of whom tax is withheld shall be liable to a term of imprisonment of between six months and two years in the case where that amount exceeds EUR 150000 for each tax period.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11224">
+          <num>15</num>
+          <content eId="para_11224__content">
+            <p>Article 10 ter of Legislative Decree No 74/2000, as amended by Legislative Decree No 158/2015, provides: `Any person who fails to pay, by the deadline for the payment on account relating to the subsequent tax period, the [VAT] owed on the basis of the annual return shall be liable to a term of imprisonment of between six months and two years in the case where that amount exceeds EUR 250000 for each tax period.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11225">
+          <num>16</num>
+          <content eId="para_11225__content">
+            <p>Article 13 of Legislative Decree No 74/2000, as amended by Legislative Decree No 158/2015, entitled `Ground for exemption from penalties. Payment of the debt', reads as follows: `1.   No penalties shall be imposed for the offences set out in Articles 10 bis, 10 ter ... if, before the proceedings at first instance are declared opened, the tax debts, including administrative penalties and interest, have been extinguished by the payment in full of the sums owed, including where such payment results from special conciliation procedures and procedures for agreement of the assessment which are laid down by the tax rules, or from voluntary payment. ... 3.   If, before the proceedings at first instance are declared opened, payment of the tax debt by instalments has been initiated, inter alia under Article 13 bis, a time limit of three months shall be set for payment of the remaining debt. In those circumstances, the limitation period shall be suspended. The court may extend that time limit only once for a maximum of three months, where it deems it necessary, without prejudice to the suspension of the limitation period.'</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the questions referred</p>
+        </tblock>
+        <paragraph eId="para_11226">
+          <num>17</num>
+          <content eId="para_11226__content">
+            <p>The Agenzia delle Entrate (tax authorities, Italy) conducted a tax inspection of Siderlaghi. That inspection revealed that that company had failed to pay, within the time limit prescribed by law, the VAT resulting from its annual return for the tax year 2012, amounting to a total of EUR 175272. The tax authorities notified Siderlaghi of that irregularity and asked it to regularise its situation by paying the tax due, default interest and, in accordance with Article 13(1) of Legislative Decree No 471/97, a fine in the amount of 30% of its tax debt. The company undertook to discharge the unpaid VAT in instalments within 30 days of the notification and therefore received a reduction of two-thirds of the fine.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11227">
+          <num>18</num>
+          <content eId="para_11227__content">
+            <p>On 29 May 2015, the Procura della Repubblica (public prosecutor, Italy) brought an application before the referring court, the Tribunale di Varese (District Court, Varese, Italy), seeking that Mr Scialdone be ordered to pay a fine of EUR 22500. That application was based on the fact that the failure to pay the VAT in question constituted the offence provided for and punished by Articles 10 bis and 10 ter of Legislative Decree No 74/2000 since, inter alia, the amount of unpaid VAT exceeded the criminalisation threshold of EUR 50000 above which such failure was punishable by the penalty laid down by those provisions, and on the fact that the offence was attributable to Mr Scialdone in his capacity as sole director of Siderlaghi.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11228">
+          <num>19</num>
+          <content eId="para_11228__content">
+            <p>On 22 October 2015, Legislative Decree No 158/2015 entered into force. The referring court states that the amendments made by that instrument to Legislative Decree No 74/2000 apply retroactively to the conduct ascribed to Mr Scialdone since they are provisions more favourable to the defendant. Consequently, the conduct in question no longer constitutes a criminal offence since Article 10 ter of Legislative Decree No 74/2000, as amended by Legislative Decree No 158/2015, now lays down a criminalisation threshold of EUR 250000 for failure to pay VAT and the tax debt of Siderlaghi is below the new threshold. Moreover, Mr Scialdone could benefit from the ground for exemption from penalties now contained in Article 13 of Legislative Decree No 74/2000, as amended by Legislative Decree No 158/2015, since Siderlaghi and the tax authorities agreed for the VAT debt, fine and default interest to be paid by instalments.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11229">
+          <num>20</num>
+          <content eId="para_11229__content">
+            <p>Nevertheless, the referring court harbours doubts as to whether the amendments made to Italian legislation by Legislative Decree No 158/2015 are compatible with EU law, particularly since, if those amendments were to be found incompatible with EU law, it would consider itself bound to disapply them in favour of the initial version of Legislative Decree No 74/2000, with the result that Mr Scialdone would still be liable to a criminal penalty.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11230">
+          <num>21</num>
+          <content eId="para_11230__content">
+            <p>In that regard, first, the referring court notes that, under Articles 10 bis and 10 ter of Legislative Decree No 74/2000, in its initial version, the same criminalisation threshold of EUR 50000 applied to both the failure to pay withholding income tax and the failure to pay VAT. However, since the amendment of Legislative Decree No 74/2000 by Legislative Decree No 158/2015, that threshold is EUR 150000 for failure to pay withholding income tax, pursuant to the new Article 10 bis, and EUR 250000 for failure to pay declared VAT, pursuant to the new Article 10 ter. That court harbours doubts as to whether such a difference is compatible with the requirements arising from Article 4(3) TEU, Article 325 TFEU and the VAT Directive, since, in its view, it entails better protection of national financial interests than of the European Union's financial interests.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11231">
+          <num>22</num>
+          <content eId="para_11231__content">
+            <p>Second, the referring court infers from those provisions and from the PFI Convention that Member States might be required to penalise failures to pay VAT, such as the failure at issue in the main proceedings, by custodial sentences where the unpaid amount exceeds EUR 50000. If that were the case, Article 10 ter of Legislative Decree No 74/2000, as amended by Legislative Decree No 158/2015, would be incompatible with EU law since the penalty provided for by that article applies only to failure to pay an amount greater than or equal to EUR 250000. For similar reasons, that court has doubts as to whether a ground for exemption from penalties such as that provided for in Article 13 of Legislative Decree No 74/2000, as amended by Legislative Decree No 158/2015, is compatible with EU law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11232">
+          <num>23</num>
+          <content eId="para_11232__content">
+            <p>In those circumstances the Tribunale di Varese (District Court, Varese) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>May EU law, and more particularly Article 4(3) TEU, in conjunction with Article 325 TFEU and [the VAT Directive], which lay down for the Member States the duty of equal treatment so far as concerns policies relating to penalties, be interpreted as precluding the enactment of a provision of national law providing that the penal consequences of failure to pay VAT follow once a financial threshold is crossed greater than the threshold provided for in the case of failure to pay income tax?</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>May EU law, and more particularly Article 4(3) TEU in conjunction with Article 325 TFEU and [the VAT Directive], which oblige the Member States to provide effective, dissuasive and proportionate penalties to protect the financial interests of the European Union, be interpreted as precluding the enactment of a national provision which exempts the defendant (whether a director, legal representative, person to whom responsibility for fiscal matters has been delegated or an accessory to the offence) from liability to punishment if the entity with legal personality concerned has made late payment both of the tax itself and of the administrative penalties owed in connection with VAT, even though the tax assessment has already been made, criminal proceedings and indictment initiated, and the establishment of inter partes proceedings duly confirmed, but before trial proceedings have been declared opened, in a system that does not impose on that director, legal representative, or delegate and accessory to the offence any other penalty, not even an administrative penalty?</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>Must the concept of fraud governed by Article 1 of the PFI Convention be interpreted as encompassing cases of failure to pay or of partial or late payment of VAT and, consequently, does Article 2 of that convention require the Member State to punish with a term of imprisonment failure to pay or partial or late payment of VAT in relation to sums in excess of EUR 50000? If the answer is in the negative, it will be necessary to determine whether the rule under Article 325 TFEU, which requires the Member States to provide penalties, including criminal penalties, which are dissuasive, proportionate and effective, must be interpreted as precluding national legislation which exempts from criminal and administrative liability the directors and legal representatives of legal persons, or the persons to whom the functions of those legal persons are delegated and persons who are accessories to the offence, for failure to pay or partial or late payment of VAT in relation to sums equivalent to three or five times the minimum threshold laid down in case of fraud, that is to say, EUR 50000.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the questions referred</p>
+        </tblock>
+        <tblock>
+          <p>The first and third questions</p>
+        </tblock>
+        <tblock>
+          <p>Preliminary observations</p>
+        </tblock>
+        <paragraph eId="para_11233">
+          <num>24</num>
+          <content eId="para_11233__content">
+            <p>By its first and third questions, which it is appropriate to examine together, the referring court essentially asks whether EU law, in particular Article 4(3) TEU, Article 325 TFEU, the VAT Directive and the PFI Convention, precludes national legislation which, first, provides that failure to pay, within the time limit prescribed by law, the VAT resulting from the annual tax return for a given financial year constitutes a criminal offence punishable by a custodial sentence only when the amount of unpaid VAT exceeds a criminalisation threshold of EUR 250000 and, second, provides for a criminalisation threshold of EUR 150000 for the offence of failing to pay withholding income tax.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11234">
+          <num>25</num>
+          <content eId="para_11234__content">
+            <p>In that regard, it should be recalled that the VAT Directive does not harmonise the penalties to be applied in relation to VAT. That sphere falls, in principle, within the competence of the Member States.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11235">
+          <num>26</num>
+          <content eId="para_11235__content">
+            <p>Nevertheless, it follows, first, from Articles 2 and 273 of the VAT Directive, read in conjunction with Article 4(3) TEU, that Member States are required to take all legislative and administrative measures appropriate for ensuring collection of all the VAT due on their territory and for preventing fraud (judgment of 20 March 2018, Menci, C‑524/15, EU:C:2018:197, paragraph 18 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11236">
+          <num>27</num>
+          <content eId="para_11236__content">
+            <p>Second, under Article 325(1) TFEU, Member States are required to counter fraud and any other illegal activities affecting the financial interests of the European Union through effective deterrent measures. The financial interests of the European Union include, in particular, revenue arising from VAT (judgment of 20 March 2018, Menci, C‑524/15, EU:C:2018:197, paragraph 19 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11237">
+          <num>28</num>
+          <content eId="para_11237__content">
+            <p>Lastly, in accordance with the settled case-law of the Court, while the choice of penalties remains within their discretion, Member States must ensure that infringements of EU law, including the harmonised rules deriving from the VAT Directive, are penalised under conditions, both procedural and substantive, which are analogous to those applicable to infringements of national law of a similar nature and importance and which, in any event, make the penalty effective, proportionate and dissuasive (see, to that effect, judgments of 21 September 1989, Commission v Greece, 68/88, EU:C:1989:339, paragraph 24; of 8 July 1999, Nunes and de Matos, C‑186/98, EU:C:1999:376, paragraph 10; and of 3 May 2005, Berlusconi and Others, C‑387/02, C‑391/02 and C‑403/02, EU:C:2005:270, paragraph 65).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11238">
+          <num>29</num>
+          <content eId="para_11238__content">
+            <p>It follows from all the foregoing that, even though the penalties established by Member States in order to counter infringements of harmonised VAT rules fall within their procedural and institutional autonomy, that autonomy is nevertheless limited by, first, the principle of equivalence, which means that those penalties must be analogous to those applicable to infringements of national law of a similar nature and importance that affect national financial interests, and, second, the principle of effectiveness, which requires that such penalties be effective and dissuasive, in addition to the principle of proportionality, the application of which is not in point in the present case.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11239">
+          <num>30</num>
+          <content eId="para_11239__content">
+            <p>It is therefore necessary to answer the first and third questions in the light of the first two principles, examining initially the principle of effectiveness and then, in a second step, the principle of equivalence.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The principle of effectiveness</p>
+        </tblock>
+        <paragraph eId="para_11240">
+          <num>31</num>
+          <content eId="para_11240__content">
+            <p>As is apparent from the order for reference, two types of penalties are provided for by Italian legislation in order to combat the failure to pay, within the time limit prescribed by law, the VAT resulting from the VAT return for a given financial year. On the one hand, the defaulting taxable person is liable, in accordance with Article 13(1) of Legislative Decree No 471/97, both for fines, amounting, in principle, to 30% of the tax due, and for default interest. On the other hand, Article 10 ter of Legislative Decree No 74/2000, as amended by Legislative Decree No 158/2015, provides that where the amount of unpaid VAT exceeds a criminalisation threshold of EUR 250000, a penalty of six months to two years of imprisonment may be imposed on natural persons.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11241">
+          <num>32</num>
+          <content eId="para_11241__content">
+            <p>In the view of the referring court, EU law might nevertheless require custodial sentences to be imposed on persons responsible for such a failure to pay VAT where the unpaid amount is greater than or equal to EUR 50000.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11242">
+          <num>33</num>
+          <content eId="para_11242__content">
+            <p>In that regard, it follows from paragraphs 25 to 29 above that, notwithstanding the fact that, at the material time, there was no harmonisation of the penalties to be applied in the field of VAT, the principle of effectiveness requires Member States to establish effective and dissuasive penalties to counter infringements of harmonised VAT rules and protect the financial interests of the European Union, without, however, in principle requiring that those penalties be of a particular nature.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11243">
+          <num>34</num>
+          <content eId="para_11243__content">
+            <p>Thus, the Court has repeatedly held that, in order to ensure that all VAT revenue is collected, and thereby that the financial interests of the European Union are protected, the Member States have freedom to choose the applicable penalties, which may take the form of administrative penalties, criminal penalties or a combination of the two (judgments of 26 February 2013, Åkerberg Fransson, C‑617/10, EU:C:2013:105, paragraph 34; of 5 December 2017, M.A.S. and M.B., C‑42/17, EU:C:2017:936, paragraph 33; and of 20 March 2018, Menci, C‑524/15, EU:C:2018:197, paragraph 20).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11244">
+          <num>35</num>
+          <content eId="para_11244__content">
+            <p>It is true that the Court has also held that criminal penalties may be essential to combat certain cases of serious VAT fraud in an effective and dissuasive manner. Accordingly, in that regard, Member States are required to adopt criminal penalties that are effective and dissuasive (see, to that effect, judgment of 5 December 2017, M.A.S. and M.B., C‑42/17, EU:C:2017:936, paragraphs 34 and 35).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11245">
+          <num>36</num>
+          <content eId="para_11245__content">
+            <p>The freedom of choice of Member States is, moreover, limited by the PFI Convention. Under Article 2(1) of that convention, Member States must take the necessary measures to ensure that fraud affecting the financial interests of the European Union, as defined in Article 1(1) of the convention, including VAT fraud (judgment of 8 September 2015, Taricco and Others, C‑105/14, EU:C:2015:555, paragraph 41), is punishable by criminal penalties, including, at least in cases of serious fraud, namely those involving a minimum amount which may not be set by Member States at a sum exceeding EUR 50000, penalties involving deprivation of liberty which can give rise to extradition.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11246">
+          <num>37</num>
+          <content eId="para_11246__content">
+            <p>However, it must be pointed out that a failure to pay VAT such as that at issue in the main proceedings is characterised by the fact that the taxable person, having submitted a complete and correct VAT return for the tax year in question, in accordance with Article 250(1) of the VAT Directive, fails to pay the VAT resulting from that tax return to the Treasury within the time limit prescribed by law, in contravention of the requirements of Article 206 of that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11247">
+          <num>38</num>
+          <content eId="para_11247__content">
+            <p>As all the parties who have submitted observations to the Court have maintained, in so far as the taxable person has duly complied with his obligations to declare VAT, such a failure to pay VAT does not constitute `fraud', within the meaning of Article 325 TFEU, irrespective of whether the failure is intentional or not.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11248">
+          <num>39</num>
+          <content eId="para_11248__content">
+            <p>Likewise, a failure to pay declared VAT does not constitute `fraud' within the meaning of the PFI Convention. For the purposes of that convention, according to Article 1(1)(b) thereof, `fraud' in respect of EU revenue involves `non-disclosure of information in violation of a specific obligation' or the `use or presentation of false, incorrect or incomplete statements or documents'. As is apparent from paragraph 37 above, such failures to comply with declaration obligations are not at issue in the present case. Moreover, while that provision also refers to the `misapplication of a legally obtained benefit', it should be pointed out, as the German Government observes, that failure to pay declared VAT within the time limit prescribed by law does not give the taxable person such a benefit since the tax is still payable and the taxable person is acting unlawfully by failing to pay it.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11249">
+          <num>40</num>
+          <content eId="para_11249__content">
+            <p>It follows that neither the Court's interpretation of Article 325(1) TFEU in relation to cases of VAT fraud nor the PFI Convention is applicable to the case of failure to pay declared VAT. Accordingly, the amount of EUR 50000 laid down in Article 2(1) of that convention is irrelevant in such a case.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11250">
+          <num>41</num>
+          <content eId="para_11250__content">
+            <p>Moreover, it must be pointed out that such failures to pay declared VAT do not present the same degree of seriousness as VAT fraud.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11251">
+          <num>42</num>
+          <content eId="para_11251__content">
+            <p>As soon as the taxable person has duly fulfilled his declaration obligations, the authorities have the necessary data to establish the amount of VAT chargeable and whether there is a failure to pay it.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11252">
+          <num>43</num>
+          <content eId="para_11252__content">
+            <p>Therefore, while criminal penalties may be essential to combat certain cases of serious VAT fraud in an effective and dissuasive manner, as recalled in paragraph 35 above, such penalties are not correspondingly essential to combat failures to pay declared VAT.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11253">
+          <num>44</num>
+          <content eId="para_11253__content">
+            <p>Nevertheless, the fact remains that such failures to pay, particularly where they result from the taxable person using, for his own purposes, the funds corresponding to the tax payable to the detriment of the Treasury, constitute `illegal activities' liable to affect the financial interests of the European Union, within the meaning of Article 325(1) TFEU, which accordingly require the application of effective and dissuasive penalties.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11254">
+          <num>45</num>
+          <content eId="para_11254__content">
+            <p>That interpretation cannot be called into question by the argument of the German and Netherlands Governments that the phrase `any other illegal activities' contained in Article 325(1) TFEU refers solely to acts of the same nature and gravity as fraud. As observed by the Advocate General in points 68 and 69 of his Opinion, the term `illegal activities' usually denotes unlawful behaviour, and the use of the word `any' indicates the intention to encompass all unlawful behaviour, without distinction. Furthermore, in view of the importance that should be accorded to protecting the financial interests of the European Union, which in itself constitutes an objective of the latter (see, to that effect, judgment of 18 November 1999, Commission v Council, C‑209/97, EU:C:1999:559, paragraph 29), the concept of `illegal activities' cannot be interpreted restrictively.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11255">
+          <num>46</num>
+          <content eId="para_11255__content">
+            <p>Moreover, in accordance with the settled case-law referred to in paragraph 28 above, any infringement of EU law, including harmonised VAT rules, must be subject to effective, proportionate and dissuasive penalties.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11256">
+          <num>47</num>
+          <content eId="para_11256__content">
+            <p>In the present case, as all the parties which submitted observations to the Court maintained, penalties such as those provided for by Article 13(1) of Legislative Decree No 471/97 may be regarded, in the light of the discretion enjoyed by Member States in this context, as being sufficiently effective and dissuasive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11257">
+          <num>48</num>
+          <content eId="para_11257__content">
+            <p>Those penalties take the form of fines amounting, in principle, to 30% of the tax due, although, depending on the period within which the irregularity is rectified, the taxable person may receive a reduction in that fine. In addition, the tax authorities require default interest to be paid.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11258">
+          <num>49</num>
+          <content eId="para_11258__content">
+            <p>Given that they display a high degree of severity (judgment of 20 March 2018, Menci, C‑524/15, EU:C:2018:197, paragraph 33), fines of that kind are such as to lead taxable persons to abandon any notion to delay or omit VAT payment and are thus dissuasive in nature. In addition, those fines, coupled with the mechanism for receiving a reduction and the requirement to pay default interest, encourage defaulting taxable persons to discharge the amount of tax payable as soon as possible and may, therefore, be regarded, in principle, as effective (see, by analogy, judgment of 20 June 2013, Rodopi-M 91, C‑259/12, EU:C:2013:414, paragraph 40).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11259">
+          <num>50</num>
+          <content eId="para_11259__content">
+            <p>Finally, the fact that, in a situation, such as that at issue in the main proceedings, where the taxable person is a legal person, those same penalties are applied to that legal person and not its managers does not call into question the interpretation in paragraph 47 above.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11260">
+          <num>51</num>
+          <content eId="para_11260__content">
+            <p>The determination as to who the penalties are applied to also falls within the procedural and institutional autonomy of Member States. Member States are thus at liberty to provide for penalties to be applied to the taxable person or, where the latter is a legal person, to its managers, or to both the legal person and its managers, provided the effectiveness of the fight against the infringement of EU law in question is not jeopardised. As regards a failure to pay declared VAT, penalties such as those described in paragraph 48 above do not appear to cease being effective or dissuasive when imposed solely on the taxable legal person, on account of the repercussions they are likely to have on the legal person's assets and, consequently, on its economic activity.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11261">
+          <num>52</num>
+          <content eId="para_11261__content">
+            <p>In the light of all the foregoing, it must be held that the principle of effectiveness does not preclude national legislation, such as that at issue in the main proceedings, which provides that failure to pay, within the time limit prescribed by law, the VAT resulting from the annual tax return for a given financial year constitutes a criminal offence punishable by a custodial sentence only when the amount of unpaid VAT exceeds a criminalisation threshold of EUR 250000.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The principle of equivalence</p>
+        </tblock>
+        <paragraph eId="para_11262">
+          <num>53</num>
+          <content eId="para_11262__content">
+            <p>It follows from paragraphs 25 to 29 above that the freedom of choice of Member States, stemming from their institutional and procedural autonomy, when they impose penalties for infringements of EU law is limited by their obligation to ensure that such penalties satisfy conditions, both procedural and substantive, which are analogous to those applicable to infringements of national law of a similar nature and importance.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11263">
+          <num>54</num>
+          <content eId="para_11263__content">
+            <p>In the present case, Italian legislation provides that both a failure to pay withholding income tax and a failure to pay declared VAT constitute a criminal offence punishable by a penalty of six months to two years of imprisonment where the unpaid amount exceeds a certain criminalisation threshold. However, since the entry into force of Article 10 ter of Legislative Decree No 74/2000 as amended by Legislative Decree No 158/2015, the criminalisation threshold is set at EUR 250000 for a failure to pay VAT whereas, in accordance with Article 10 bis of Legislative Decree No 74/2000 as amended by Legislative Decree No 158/2015, it is set at only EUR 150000 for a failure to pay withholding income tax.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11264">
+          <num>55</num>
+          <content eId="para_11264__content">
+            <p>In order to assess whether a difference such as that between the thresholds laid down in, respectively, Article 10 bis and Article 10 ter of Legislative Decree No 74/2000, as amended by Legislative Decree No 158/2015, complies with the principle of equivalence, it is necessary, in accordance with the considerations set out in paragraph 53 above, to determine whether a failure to pay withholding income tax may be regarded as an infringement of national law of a similar nature and importance to a failure to pay declared VAT.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11265">
+          <num>56</num>
+          <content eId="para_11265__content">
+            <p>In that regard, it is true that both a failure to pay VAT and a failure to pay withholding income tax are characterised by non-compliance with the obligation to pay the tax due within the time limit prescribed by law. It is also apparent from the order for reference that the Italian legislature pursued the same objective in providing that both such forms of conduct constitute an offence, namely ensuring that the Treasury is paid tax in good time and, thus, that all tax revenue is collected.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11266">
+          <num>57</num>
+          <content eId="para_11266__content">
+            <p>However, as the Italian Government asserts, the offences defined and penalised, respectively, by Article 10 bis and Article 10 ter of Legislative Decree No 74/2000, as amended by Legislative Decree No 158/2015, can be distinguished by both their constituent elements and the difficulty involved in their detection.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11267">
+          <num>58</num>
+          <content eId="para_11267__content">
+            <p>Whereas the second offence relates to the conduct of taxable persons subject to VAT, the first offence relates not to the actions of persons subject to income tax but to the actions of the withholding agents required to remit the tax withheld in that regard. Moreover, it is apparent from the documents before the Court that, under Italian tax law, when such a withholding agent withholds an amount from the income of a person subject to tax, he is required to provide that person with a document called `certification', which will allow him to demonstrate to the tax authorities that the amount in question has been withheld and, thus, that he has paid the tax due, even if, subsequently, the withholding agent fails to remit the amount withheld to the Treasury. That being so, the failure of the withholding agent to remit the tax withheld to the tax authorities may, on account of the issuance of that certification, prove more difficult to detect than a failure to pay declared VAT.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11268">
+          <num>59</num>
+          <content eId="para_11268__content">
+            <p>In view of those factors, those two offences cannot be regarded as being of a similar nature and importance, within the meaning of the case-law referred to in paragraph 28 above. Where two categories of offences can be distinguished by various circumstances concerning both the constituent elements of the offence and the degree of ease with which it can be detected, those differences mean, in particular, that the Member State concerned is not required to have an identical system of rules for the two categories of offences (judgment of 25 February 1988, Drexl, 299/86, EU:C:1988:103, paragraph 22).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11269">
+          <num>60</num>
+          <content eId="para_11269__content">
+            <p>Consequently, the principle of equivalence does not preclude a difference such as that between the thresholds laid down, respectively, in Article 10 bis and Article 10 ter of Legislative Decree No 74/2000, as amended by Legislative Decree No 158/2015.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11270">
+          <num>61</num>
+          <content eId="para_11270__content">
+            <p>In the light of all the foregoing considerations, the answer to the first and third questions is that the VAT Directive, read in conjunction with Article 4(3) TEU, and Article 325(1) TFEU must be interpreted as not precluding national legislation which provides that failure to pay, within the time limit prescribed by law, the VAT resulting from the annual tax return for a given financial year constitutes a criminal offence punishable by a custodial sentence only when the amount of unpaid VAT exceeds a criminalisation threshold of EUR 250000, whereas a criminalisation threshold of EUR 150000 is laid down for the offence of failing to pay withholding income tax.</p>
+            <tblock>
+              <p>The second question</p>
+            </tblock>
+            <p>62 In view of the answer to the first and third questions, there is no need to reply to the second question.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_11271">
+          <num>63</num>
+          <content eId="para_11271__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Grand Chamber) hereby rules: Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax, read in conjunction with Article 4(3) TEU, and Article 325(1) TFEU must be interpreted as not precluding national legislation which provides that failure to pay, within the time limit prescribed by law, the value added tax (VAT) resulting from the annual tax return for a given financial year constitutes a criminal offence punishable by a custodial sentence only when the amount of unpaid VAT exceeds a criminalisation threshold of EUR 250000, whereas a criminalisation threshold of EUR 150000 is laid down for the offence of failing to pay withholding income tax.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Italian.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Grand Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>12 June 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Article 49 TFEU -- Corporation tax -- Freedom of establishment -- Resident company -- Taxable profits -- Tax relief -- Deduction of losses incurred by resident permanent establishments -- Authorised -- Deduction of losses incurred by non-resident permanent establishments -- Excluded -- Exception -- Optional scheme of international joint taxation) In Case C‑650/16, REQUEST for a preliminary ruling under Article 267 TFEU from the Østre Landsret (High Court of Eastern Denmark, Denmark), made by decision of 12 December 2016, received at the Court on 19 December 2016, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">A/S Bevola</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="appellant" refersTo="#">Jens W. Trock ApS</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#">Skatteministeriet</party>
+      </p>
+      <p>, THE COURT (Grand Chamber), composed of K. Lenaerts, President, A. Tizzano, Vice-President, M. Ilešič, L. Bay Larsen, A. Rosas and J. Malenovský, Presidents of Chambers, J.C. Bonichot (Rapporteur), M. Safjan, D. Šváby, A. Prechal, C. Lycourgos, M. Vilaras and E. Regan, Judges, Advocate General: M. Campos Sánchez-Bordona, Registrar: R. Schiano, Administrator, having regard to the written procedure and further to the hearing on 25 October 2017, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>A/S Bevola and Jens W. Trock ApS, by H. Peytz, advokat,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Skatteministeriet, by S. Horsbøl Jensen, advokat,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Danish Government, by C. Thorning, acting as Agent, and S. Horsbøl Jensen, advokat,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the German Government, by T. Henze, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Italian Government, by G. Palmieri, acting as Agent, and G. De Socio, avvocato dello Stato,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Austrian Government, by F. Koppensteiner, G. Eberhard and E. Lachmayer, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by W. Roels, R. Lyal and S. Maaløe, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 17 January 2018,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_13496">
+          <num>1</num>
+          <content eId="para_13496__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Article 49 TFEU.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13497">
+          <num>2</num>
+          <content eId="para_13497__content">
+            <p>The request has been made in proceedings between A/S Bevola and Jens W. Trock ApS, companies incorporated under Danish law, and the Skatteministeriet (Ministry of Finance, Denmark) concerning the Danish authorities' refusal to allow Bevola to deduct from its taxable income the losses incurred by its Finnish establishment.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Danish law</p>
+        </tblock>
+        <paragraph eId="para_13498">
+          <num>3</num>
+          <content eId="para_13498__content">
+            <p>Paragraph 8(2) of the Selskabsskatteloven (Law on corporation tax), as amended by Law No 426 of 6 June 2005, ( `the Law on corporation tax') provides: `Taxable income shall not include income and expenditure relating to a permanent establishment or real property situated in a foreign State, on the Faroe Islands or in Greenland, subject to Paragraph 31A. ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13499">
+          <num>4</num>
+          <content eId="para_13499__content">
+            <p>Paragraph 31 of that law states: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Group affiliates and associations, etc. ..., shall be taxed jointly (national joint taxation). ``Group affiliates and associations, etc. '' shall be understood to mean companies and associations, etc., which at some point during the fiscal year belong to the same group: see Paragraph 31C. In subparagraphs (2) to (7) real property is equated with permanent establishments. ``Ultimate parent company '' shall be understood to mean that company which is the parent company without being a subsidiary: see Paragraph 31C.</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>For jointly taxed companies a joint income statement shall be established, consisting in the sum of the taxable income for each individual company covered by the joint taxation, calculated according to the general rules of the tax legislation, with those exceptions applicable to jointly taxed companies. Losses in a permanent establishment may be offset against other companies' income only if under the rules in the foreign State, on the Faroe Islands or in Greenland, where the company is resident, losses cannot be included in the calculation of the company's income statement in that foreign State, on the Faroe Islands or in Greenland, where the company is resident, or if international joint taxation has been chosen under Paragraph 31A. The joint taxation income shall be calculated after offset has been made for each individual company for losses from earlier income periods that can be carried forward. If the joint taxation income is positive, the profit shall be distributed proportionately between the profit-making companies. If the joint taxation income for a fiscal year is negative, the losses shall be distributed proportionately between the loss-making companies and carried forward in the relevant company for offset the following subsequent fiscal year. Losses in a company relating to joint taxation periods can be offset only against profits in that same company. In carrying forward losses, the oldest losses are offset first. Losses in a company relating to earlier fiscal years can be offset against profits in another company only if the losses occurred in a fiscal year in which the relevant companies were taxed jointly and the joint taxation has not subsequently been interrupted. ...</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(4)</num>
+                <p>In national joint taxation the top parent company taking part in the joint taxation shall be designated as the management company for the purposes of joint taxation. If there is no Danish taxable top parent company, but a number of horizontally linked Danish taxable affiliated companies, one the affiliated companies taking part in the joint taxation shall be designated as the management company. ... The management company shall be responsible for payment of the overall income tax. ...</p>
+              </item>
+              <item>
+                <num>(5)</num>
+                <p>All companies in the joint taxation shall calculate the taxable income for the same period as the management company, irrespective of the accounting year under company law rules: see Paragraph 10(5). ...</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(7)</num>
+                <p>In the calculation of the taxable income, a jointly taxed company may opt to ignore losses, including losses carried forward from earlier fiscal years. Losses corresponding to the taxable income in a jointly taxed permanent establishment in Denmark or a jointly taxed subsidiary in Denmark may be ignored when the permanent establishment's or subsidiary's income is included in the income statement outside Denmark, provided that the relevant State's relief for the Danish taxation corresponds to the relief method provided for in Paragraph 33 of the Law on tax assessment (Ligningsloven). The amount ignored shall instead be carried forward to subsequent fiscal years in accordance with the rules in Paragraph 15 of the Law on tax assessment. If an amount lower than the overall losses is ignored, that amount shall be distributed proportionately to the individual loss-making sources.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13500">
+          <num>5</num>
+          <content eId="para_13500__content">
+            <p>Paragraph 31A(1) of the Law on corporation tax provides: `The ultimate parent company may opt for joint taxation for those group affiliates and associations, etc., which are taxed jointly under Paragraph 31; the same shall apply for all non-Danish companies and associations, etc., in the group, in which none of the participants is personally liable for the company's obligations, and which distributes the profits in proportion to the participants' subscribed capital (international joint taxation). The option also covers all permanent establishments and real property situated outside Denmark belonging to those jointly taxed Danish and non-Danish companies and associations, etc.. The provisions of Paragraph 31 on national joint taxation shall apply mutatis mutandis to international joint taxation , with the additions and exceptions following from</p>
+            <blockList>
+              <item>
+                <num>( 2 )</num>
+                <p>to ( 14 ) . ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13501">
+          <num>6</num>
+          <content eId="para_13501__content">
+            <p>Paragraph 31A(3) of that law reads as follows: `An option for international joint taxation shall be binding for the parent company for a period of 10 years, subject to the sixth and seventh sentences. ... The ultimate parent company may opt to terminate joint taxation, which will result in full recapture of tax: see the eleventh sentence.'</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the question referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_13502">
+          <num>7</num>
+          <content eId="para_13502__content">
+            <p>Bevola has its seat in Denmark. It offers ranges of products for the manufacture of wagons and trailers for the wholesale sector. It is a subsidiary and sub-subsidiary of Danish companies that are themselves controlled by Jens W. Trock, the group's parent company, which also has its seat in Denmark.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13503">
+          <num>8</num>
+          <content eId="para_13503__content">
+            <p>Bevola's Finnish establishment closed in 2009. According to Bevola, the losses incurred by its establishment, DKK 2.8 million net (approximately EUR 375000), were not and cannot be deducted in Finland following the closure.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13504">
+          <num>9</num>
+          <content eId="para_13504__content">
+            <p>In those circumstances, Bevola applied to be able to deduct those losses from its taxable income in Denmark for the tax year 2009.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13505">
+          <num>10</num>
+          <content eId="para_13505__content">
+            <p>The tax authorities rejected the application on the ground that Paragraph 8(2) of the Law on corporation tax did not allow the inclusion in taxable income of income and expenditure relating to a permanent establishment or real property situated in a foreign State, unless the company had opted for the international joint taxation scheme pursuant to Paragraph 31A of that law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13506">
+          <num>11</num>
+          <content eId="para_13506__content">
+            <p>When the tax authorities' refusal was confirmed by a decision of the Landsskatteretten (National Tax Appeals Commission) of 20 January 2014, Bevola and Jens W. Trock challenged that decision before the Østre Landsret (High Court of Eastern Denmark, Denmark). They argue that it would have been possible for Bevola to deduct the losses in question if they had been incurred by a Danish establishment, and that that difference in treatment constitutes a restriction of freedom of establishment within the meaning of Article 49 TFEU. The restriction, they submit, goes beyond what is necessary for maintaining the balanced allocation of powers of taxation between the Member States in a case such as Bevola's where there is no possibility of taking the losses of its Finnish establishment into account. They submit that the findings of the Court in the judgment of 13 December 2005, Marks &amp; Spencer ( C‑446/03, EU:C:2005:763), may be applied to Bevola's situation, namely that it is contrary to EU law to exclude the possibility for a resident parent company of deducting losses incurred by its non-resident subsidiary where the subsidiary has exhausted the possibilities of having those losses taken into account in its State of establishment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13507">
+          <num>12</num>
+          <content eId="para_13507__content">
+            <p>The referring court is uncertain as to the relevance of that judgment, having regard in particular to the possibility available under national law of opting for a scheme of `international joint taxation' which would allow such a deduction.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13508">
+          <num>13</num>
+          <content eId="para_13508__content">
+            <p>In those circumstances, the Østre Landsret (High Court of Eastern Denmark) decided to stay the proceedings and to refer the following question to the Court for a preliminary ruling: `Does Article 49 TFEU preclude a national taxation scheme such as that at issue in the main proceedings under which it is possible to make deductions for losses in domestic branches, while it is not possible to make deductions for losses in branches situated in other Member States, including in circumstances corresponding to those in the Court's judgment [of 13 December 2005] in Marks &amp; Spencer, C‑446/03, EU:C:2005:763, paragraphs 55 and 56, unless the group has opted for international joint taxation on the terms as set out in the main proceedings?'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the question referred</p>
+        </tblock>
+        <paragraph eId="para_13509">
+          <num>14</num>
+          <content eId="para_13509__content">
+            <p>By its question the referring court essentially asks whether Article 49 TFEU must be interpreted as precluding legislation of a Member State under which it is not possible for a resident company to deduct from its taxable profits losses incurred by its permanent establishment in another Member State, even where those losses can definitively no longer be taken into account in that Member State, unless the resident company has opted for a scheme of joint international taxation, such as that at issue in the main proceedings.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Preliminary observations</p>
+        </tblock>
+        <paragraph eId="para_13510">
+          <num>15</num>
+          <content eId="para_13510__content">
+            <p>Freedom of establishment, which Article 49 TFEU grants to EU nationals, includes, in accordance with Article 54 TFEU, for companies or firms formed in accordance with the law of a Member State and having their registered office, central administration or principal place of business within the European Union, the right to exercise their activity in other Member States through a subsidiary, branch or agency.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13511">
+          <num>16</num>
+          <content eId="para_13511__content">
+            <p>Even though, according to their wording, the provisions of EU law on freedom of establishment are aimed at ensuring that foreign nationals are treated in the host Member State in the same way as nationals of that State, they also prohibit the Member State of origin from hindering the establishment in another Member State of one of its nationals or of a company incorporated under its legislation (judgment of 23 November 2017, A, C‑292/16, EU:C:2017:888, paragraph 24).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13512">
+          <num>17</num>
+          <content eId="para_13512__content">
+            <p>Those considerations also apply where a company established in one Member State carries on business in another Member State through a permanent establishment (judgment of 15 May 2008, Lidl Belgium, C‑414/06, EU:C:2008:278, paragraph 20).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13513">
+          <num>18</num>
+          <content eId="para_13513__content">
+            <p>As the Court has previously held, a provision which allows losses incurred by a permanent establishment to be taken into account in calculating the taxable profits of the company to which the establishment belongs constitutes a tax advantage (see, to that effect, judgment of 15 May 2008, Lidl Belgium, C‑414/06, EU:C:2008:278, paragraph 23).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13514">
+          <num>19</num>
+          <content eId="para_13514__content">
+            <p>Granting such an advantage where the losses are incurred by a permanent establishment situated in the Member State of the resident company, but not where the losses are incurred by a permanent establishment in a Member State other than that of the resident company, has the consequence that the tax situation of a resident company possessing a permanent establishment in another Member State is less favourable than it would be if the permanent establishment were in the same Member State as the resident company. By reason of that difference in treatment, a resident company could be discouraged from carrying on its business through a permanent establishment situated in another Member State (see, to that effect, judgment of 15 May 2008, Lidl Belgium, C‑414/06, EU:C:2008:278, paragraphs 24 and 25).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13515">
+          <num>20</num>
+          <content eId="para_13515__content">
+            <p>However, a difference in treatment deriving from the tax legislation of a Member State to the detriment of companies making use of their freedom of establishment does not constitute a restriction of that freedom if it concerns situations which are not objectively comparable, or if it is justified by an overriding reason in the public interest proportionate to that objective (see to that effect, judgment of 25 February 2010, X Holding, C‑337/08, EU:C:2010:89, paragraph 20).</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Difference in treatment</p>
+        </tblock>
+        <paragraph eId="para_13516">
+          <num>21</num>
+          <content eId="para_13516__content">
+            <p>In accordance with Paragraph 8(2) of the Law on corporation tax, taxable income does not include income or expenditure relating to a permanent establishment or real property situated in a foreign State, on the Faroe Islands or in Greenland, subject to Paragraph 31A of that law. Pursuant to Paragraph 31A, the ultimate parent company can opt for international joint taxation, in other words decide that all the companies in the group, resident or non-resident, including their permanent establishments and real property, inside or outside Denmark, are to be taxable in Denmark.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13517">
+          <num>22</num>
+          <content eId="para_13517__content">
+            <p>In the first place, it must be examined whether Paragraph 8(2) gives rise to a difference in treatment between Danish companies which possess a permanent establishment in Denmark and those whose permanent establishment is situated in another Member State.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13518">
+          <num>23</num>
+          <content eId="para_13518__content">
+            <p>It must be observed that Paragraph 8(2) excludes from the taxable income of Danish companies both the income and the expenditure attributable to their permanent establishments abroad. The Kingdom of Denmark's decision not to exercise its powers of taxation over the permanent establishments abroad of Danish companies is not necessarily to the disadvantage of those companies, and may even constitute a tax advantage, in particular where the income generated by the permanent establishment is taxed at a lower rate than in Denmark.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13519">
+          <num>24</num>
+          <content eId="para_13519__content">
+            <p>According to the referring court, the case is different, however, in a situation such as Bevola's, in which, since the non-resident permanent establishment has ceased its activity, the losses it incurred could not be deducted, and no longer can be deducted, in the Member State in which it is situated. The Danish company is then prevented by the provisions of Paragraph 8(2) of the Law on corporation tax from deducting the losses incurred by its non-resident permanent establishment, whereas it would be able to make that deduction if its permanent establishment were located in Denmark. In those circumstances, the Danish company possessing a permanent establishment in another Member State suffers an unfavourable difference in treatment compared to a company possessing a permanent establishment in Denmark.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13520">
+          <num>25</num>
+          <content eId="para_13520__content">
+            <p>In the second place, it must be assessed whether the conclusion that there is a difference in treatment may be called in question by the possibility, offered by Paragraph 31A of the Law on corporation tax to Danish companies with branches, subsidiaries or real property in other Member States, of opting for the international joint taxation scheme.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13521">
+          <num>26</num>
+          <content eId="para_13521__content">
+            <p>Under that optional scheme, a Danish company may indeed deduct from its taxable income in Denmark the losses incurred by its permanent establishment in another Member State, in the same way as losses incurred by its permanent establishments in Denmark.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13522">
+          <num>27</num>
+          <content eId="para_13522__content">
+            <p>However, the benefit of international joint taxation is subject to two strict conditions. First, the entire income of the group, whether deriving from companies, permanent establishments or real property in Denmark or in another country, must be subject to corporation tax in Denmark. Second, under Paragraph 31A of the Law on corporation tax, the option is in principle for a minimum period of 10 years.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13523">
+          <num>28</num>
+          <content eId="para_13523__content">
+            <p>It follows that the Law on corporation tax establishes a difference in treatment between Danish companies which possess a permanent establishment in Denmark and those whose permanent establishment is situated in another Member State.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13524">
+          <num>29</num>
+          <content eId="para_13524__content">
+            <p>That difference in treatment is liable to make the exercise of its freedom of establishment by setting up permanent establishments in other Member States less attractive for a Danish company. It must, however, be ascertained whether that difference concerns situations that are not objectively comparable, as recalled in paragraph 20 above.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Comparability of the situations</p>
+        </tblock>
+        <paragraph eId="para_13525">
+          <num>30</num>
+          <content eId="para_13525__content">
+            <p>The Danish, German and Austrian Governments submit that an establishment of a Danish company in another Member State is not in a situation that is objectively comparable with that of a Danish establishment of such a company, since it is not subject to the tax jurisdiction of the Kingdom of Denmark. They argue that the Court held in its judgments of 17 July 2014, Nordea Bank Danmark ( C‑48/13, EU:C:2014:2087), and of 17 December 2015, Timac Agro Deutschland ( C‑388/14, EU:C:2015:829), that a permanent establishment in a Member State other than that in which the company it belongs to has its seat is in the same situation as an establishment in the Member State of the seat only if the latter State also subjects the non-resident permanent establishment to its tax legislation and therefore taxes the income of that permanent establishment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13526">
+          <num>31</num>
+          <content eId="para_13526__content">
+            <p>While agreeing with that reading of the judgments of 17 July 2014, Nordea Bank Danmark ( C‑48/13, EU:C:2014:2087), and of 17 December 2015, Timac Agro Deutschland ( C‑388/14, EU:C:2015:829), the European Commission considers that they contradict the Court's earlier case-law, which accorded no importance to the reason for the difference in treatment. In its view, the reason should not be taken into account when examining whether the cross-border situation and the internal situation are comparable. Otherwise, two situations would be regarded as not comparable merely because the Member State had chosen to treat them differently.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13527">
+          <num>32</num>
+          <content eId="para_13527__content">
+            <p>On this point, it should be recalled that, according to the case-law of the Court, the comparability of a cross-border situation with an internal situation must be examined having regard to the aim pursued by the national provisions at issue (judgments of 18 July 2007, Oy AA, C‑231/05, EU:C:2007:439, paragraph 38; of 25 February 2010, X Holding, C‑337/08, EU:C:2010:89, paragraph 22; and of 12 June 2014, SCA Group Holding and Others, C‑39/13 to C‑41/13, EU:C:2014:1758, paragraph 28).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13528">
+          <num>33</num>
+          <content eId="para_13528__content">
+            <p>Contrary to the Commission's argument, the judgments of 17 July 2014, Nordea Bank Danmark ( C‑48/13, EU:C:2014:2087), and of 17 December 2015, Timac Agro Deutschland ( C‑388/14, EU:C:2015:829), do not imply the abandonment by the Court of that method of assessing the comparability of the situations, which is moreover expressly applied in later judgments (judgments of 21 December 2016, Masco Denmark and Daxima, C‑593/14, EU:C:2016:984, paragraph 29; of 22 June 2017, Bechtel, C‑20/16, EU:C:2017:488, paragraph 53; and of 22 February 2018, X and X, C‑398/16 and C‑399/16, EU:C:2018:110, paragraph 33).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13529">
+          <num>34</num>
+          <content eId="para_13529__content">
+            <p>In the judgments of 17 July 2014, Nordea Bank Danmark ( C‑48/13, EU:C:2014:2087), and of 17 December 2015, Timac Agro Deutschland ( C‑388/14, EU:C:2015:829), the Court merely considered that there was no need for it to look at the purpose of the national provisions concerned, since they applied the same tax treatment to permanent establishments abroad and those in national territory. Where the legislature of a Member State treats those two categories of establishments in the same way for the purpose of taxing their profits, it recognises that, with regard to the detailed rules and conditions of that taxation, there is no objective difference between their situations which could justify a difference in treatment (see, to that effect, judgment of 28 January 1986, Commission v France, 270/83, EU:C:1986:37, paragraph 20).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13530">
+          <num>35</num>
+          <content eId="para_13530__content">
+            <p>The judgments of 17 July 2014, Nordea Bank Danmark ( C‑48/13, EU:C:2014:2087), and of 17 December 2015, Timac Agro Deutschland ( C‑388/14, EU:C:2015:829), cannot be understood, however, as meaning that, where national tax legislation treats two situations differently, they cannot be regarded as comparable. The Court held that the application of different tax rules to a resident company depending on whether it has a resident permanent establishment or a non-resident permanent establishment cannot be a valid criterion for assessing the objective comparability of the situations (see, to that effect, judgment of 22 January 2009, STEKO Industriemontage, C‑377/07, EU:C:2009:29, paragraph 33). Moreover, to accept that a Member State may in all cases apply different treatment solely because the permanent establishment of a resident company is situated in another Member State would deprive Article 49 TFEU of its substance (see, to that effect, judgment of 25 February 2010, X Holding, C‑337/08, EU:C:2010:89, paragraph 23). Consequently, the comparability of the situations must be assessed with regard to the purpose of the national provisions at issue, in accordance with the case-law cited in paragraphs 32 and 33 above.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13531">
+          <num>36</num>
+          <content eId="para_13531__content">
+            <p>In the present case, Paragraph 8(2) of the Law on corporation tax excludes from the taxable income of Danish companies the profits and losses attributable to a permanent establishment in another Member State, unless the company in question has opted for the international joint taxation scheme provided for in Paragraph 31A of that law. That legislation is intended to prevent double taxation of profits and, symmetrically, double deduction of losses of Danish companies possessing such permanent establishments. It is therefore the situation of those companies that must be compared with the situation of Danish companies having permanent establishments in Denmark.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13532">
+          <num>37</num>
+          <content eId="para_13532__content">
+            <p>The Court has held that, as regards measures laid down by a Member State in order to prevent or mitigate the double taxation of a resident company's profits, companies which have a permanent establishment in another Member State are not, in principle, in a comparable situation to that of companies possessing a resident permanent establishment (see, to that effect, judgments of 17 July 2014, Nordea Bank Danmark, C‑48/13, EU:C:2014:2087, paragraph 24, and of 17 December 2015, Timac Agro Deutschland, C‑388/14, EU:C:2015:829, paragraph 27).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13533">
+          <num>38</num>
+          <content eId="para_13533__content">
+            <p>However, as regards losses attributable to a non-resident permanent establishment which has ceased activity and whose losses could not, and no longer can, be deducted from its taxable profits in the Member State in which it carried on its activity, the situation of a resident company possessing such an establishment is not different from that of a resident company possessing a resident permanent establishment, from the point of view of the objective of preventing double deduction of the losses.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13534">
+          <num>39</num>
+          <content eId="para_13534__content">
+            <p>It must be stated, finally, that the national provisions at issue, intended to prevent double taxation of profits and double deduction of losses of a non-resident permanent establishment, aim more generally to ensure that the taxation of a company possessing such an establishment is in line with its ability to pay tax. Yet the ability to pay tax of a company possessing a non-resident permanent establishment which has definitively incurred losses is affected in the same way as that of a company whose resident permanent establishment has incurred losses. The two situations are thus comparable in this respect too, as the Advocate General has explained in point 59 of his Opinion.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13535">
+          <num>40</num>
+          <content eId="para_13535__content">
+            <p>It follows from the above that the difference in treatment at issue in the main proceedings concerns situations that are objectively comparable.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Justification of the restriction</p>
+        </tblock>
+        <paragraph eId="para_13536">
+          <num>41</num>
+          <content eId="para_13536__content">
+            <p>The Kingdom of Denmark submits that the difference in treatment can be justified, first, by the maintenance of a balanced allocation of powers of taxation between Member States.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13537">
+          <num>42</num>
+          <content eId="para_13537__content">
+            <p>In this respect, it must be recalled that the preservation of the allocation of the power to impose taxes between Member States may make it necessary to apply to the economic activities of companies established in one of those States only the tax rules of that State in respect of both profits and losses (judgment of 25 February 2010, X Holding, C‑337/08, EU:C:2010:89, paragraph 28).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13538">
+          <num>43</num>
+          <content eId="para_13538__content">
+            <p>In the present case, if the Kingdom of Denmark granted resident companies the right to deduct losses deriving from their permanent establishments situated in other Member States, whether in Denmark or in the Member State where the permanent establishment is located, even if they had not opted for international joint taxation, that would seriously undermine a balanced allocation of powers of taxation between Member States, since the tax base would be increased in one Member State and reduced in the other, depending on the company's choice (see, to that effect, judgment of 25 February 2010, X Holding, C‑337/08, EU:C:2010:89, paragraph 29 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13539">
+          <num>44</num>
+          <content eId="para_13539__content">
+            <p>The Danish Government justifies, second, the difference in treatment at issue in the main proceedings by the need to ensure the coherence of the tax system.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13540">
+          <num>45</num>
+          <content eId="para_13540__content">
+            <p>In this respect, the Court has previously accepted that the need to maintain the coherence of a tax system may justify a restriction of the exercise of the freedoms of movement guaranteed by the FEU Treaty. However, in order for such a justification to be accepted, a direct link must be established between the tax advantage concerned and the offsetting of that advantage by a particular tax levy, the direct nature of that link falling to be examined in the light of the objective pursued by the legislation in question (judgment of 30 June 2016, Max-Heinz Feilen, C‑123/15, EU:C:2016:496, paragraph 30 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13541">
+          <num>46</num>
+          <content eId="para_13541__content">
+            <p>In the present case, the tax advantage in question consists in the possibility, for a resident company possessing an establishment that is also resident, of setting the losses of that establishment off against its taxable results. Paragraph 8(2) of the Law on corporation tax excludes from that advantage companies whose permanent establishment is situated in another Member State, unless they opt for the international joint taxation scheme provided for in Paragraph 31A of that law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13542">
+          <num>47</num>
+          <content eId="para_13542__content">
+            <p>The direct corollary of that tax advantage is the inclusion in the resident company's taxable results of any profits made by the resident permanent establishment. Conversely, Paragraph 8(2) of the law exempts from corporation tax the profits made by a permanent establishment located in another Member State, unless the company possessing that establishment opts for the international joint taxation scheme provided for in Paragraph 31A of that law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13543">
+          <num>48</num>
+          <content eId="para_13543__content">
+            <p>Thus the very wording of Paragraph 8(2) of the Law on corporation tax establishes a direct link between the tax advantage concerned and the offsetting of that advantage by a particular tax levy.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13544">
+          <num>49</num>
+          <content eId="para_13544__content">
+            <p>That direct link is necessary in the light of the objective of the national provisions at issue in the main proceedings, which aim in particular, as stated in paragraph 39 above, to ensure that the taxation of a company possessing a non-resident permanent establishment is in line with its ability to pay tax.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13545">
+          <num>50</num>
+          <content eId="para_13545__content">
+            <p>If a company possessing a permanent establishment in another Member State were allowed to set off against its results the losses incurred by that establishment without being taxed on the profits made by it, that company's ability to pay tax would be systematically underestimated.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13546">
+          <num>51</num>
+          <content eId="para_13546__content">
+            <p>The maintenance of the coherence of the tax system thus constitutes a convincing justification for the difference in treatment in question.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13547">
+          <num>52</num>
+          <content eId="para_13547__content">
+            <p>Furthermore, the prevention of the risk of the double use of losses, while not expressly relied on by the Danish Government, is also capable of justifying a restriction of freedom of establishment such as that at issue in the present case (see, to that effect, judgment of 3 February 2015, Commission v United Kingdom, C‑172/13, EU:C:2015:50, paragraph 24).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13548">
+          <num>53</num>
+          <content eId="para_13548__content">
+            <p>The legislation at issue in the main proceedings can therefore be justified by overriding reasons in the public interest relating to the balanced allocation of powers of taxation between the Member States, the coherence of the Danish tax system, and the need to prevent the risk of double deduction of losses.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13549">
+          <num>54</num>
+          <content eId="para_13549__content">
+            <p>It must nevertheless still be ascertained whether or not that legislation goes beyond what is necessary to achieve those objectives.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Proportionality</p>
+        </tblock>
+        <paragraph eId="para_13550">
+          <num>55</num>
+          <content eId="para_13550__content">
+            <p>As noted in paragraphs 26 and 27 above, a Danish company possessing a non-resident permanent establishment cannot deduct the losses attributable to that establishment except by making use of the international joint taxation scheme, in compliance with the conditions attached to that scheme.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13551">
+          <num>56</num>
+          <content eId="para_13551__content">
+            <p>It should be stressed that, if a resident company were free to define the extent to which that joint taxation was applied, it would be able to decide at will to incorporate only non-resident permanent establishments facing losses, which would then be deducted from its taxable income in Denmark, while excluding establishments making profits and subject in their own Member State to a rate of tax that might be more favourable than in Denmark. Similarly, the possibility which would be left to the resident company of altering the extent of international joint taxation from one year to the next would be tantamount to allowing it to choose freely the Member State in which the losses of the non-resident permanent establishment in question were to be taken into account (see, to that effect, judgment of 25 February 2010, X Holding, C‑337/08, EU:C:2010:89, paragraphs 31 and 32). Such possibilities would jeopardise both the balanced allocation of powers of taxation between Member States and the symmetry between the right to tax profits and the possibility of deducting losses sought by the Danish tax system.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13552">
+          <num>57</num>
+          <content eId="para_13552__content">
+            <p>However, without it being necessary to rule generally on the proportionality from the point of view of the objectives mentioned in paragraphs 41 to 53 above of the conditions of international joint taxation mentioned in paragraph 27 above, it must be recalled that the referring court raises the question in the present case of the necessity of the difference in treatment at issue in the main proceedings in the particular case of the losses of the non-resident permanent establishment being definitive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13553">
+          <num>58</num>
+          <content eId="para_13553__content">
+            <p>Where there is no longer any possibility of deducting the losses of the non-resident permanent establishment in the Member State in which it is situated, the risk of double deduction of losses no longer exists.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13554">
+          <num>59</num>
+          <content eId="para_13554__content">
+            <p>In such a case, legislation such as that at issue in the main proceedings goes beyond what is necessary for pursuing the objectives mentioned in paragraphs 41 to 53 above. Alignment of the company's tax burden with its ability to pay tax is ensured better if a company possessing a permanent establishment in another Member State is authorised, in that specific case, to deduct from its taxable results the definitive losses attributable to that establishment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13555">
+          <num>60</num>
+          <content eId="para_13555__content">
+            <p>However, in order not to compromise the coherence of the Danish tax system, the maintenance of which was one of the reasons for the adoption of the legislation in question, deduction of such losses can be allowed only on condition that the resident company demonstrates that the losses it wishes to set off against its results are definitive (see, to that effect, judgments of 13 December 2005, Marks &amp; Spencer, C‑446/03, EU:C:2005:763, paragraph 56, and of 3 February 2015, Commission v United Kingdom, C‑172/13, EU:C:2015:50, paragraph 27).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13556">
+          <num>61</num>
+          <content eId="para_13556__content">
+            <p>In this respect, it must show that the losses in question satisfy the requirements set out by the Court in paragraph 55 of the judgment of 13 December 2005, Marks &amp; Spencer ( C‑446/03, EU:C:2005:763), to which the referring court rightly refers in its question.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13557">
+          <num>62</num>
+          <content eId="para_13557__content">
+            <p>Thus, in paragraph 55 of that judgment, the Court held that a restriction of freedom of establishment imposed by the legislation of a Member State is disproportionate in a situation in which, first, the non-resident subsidiary has exhausted the possibilities available in its State of residence of having the losses taken into account for the accounting period concerned by the claim for relief and also for previous accounting periods and, second, there is no possibility of the losses being taken into account in its State of residence for future periods either by the subsidiary itself or by a third party, in particular where the subsidiary has been sold to that third party.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13558">
+          <num>63</num>
+          <content eId="para_13558__content">
+            <p>The criterion of the definitive nature of the losses, within the meaning of paragraph 55 of the judgment of 13 December 2005, Marks &amp; Spencer ( C‑446/03, EU:C:2005:763), was explained in paragraph 36 of the judgment of 3 February 2015, Commission v United Kingdom ( C‑172/13, EU:C:2015:50). It follows that the losses incurred by a non-resident subsidiary may be characterised as definitive only if that subsidiary no longer has any income in its Member State of residence. So long as that subsidiary continues to be in receipt of even minimal income, there is a possibility that the losses sustained may yet be offset by future profits made in the Member State in which it is resident.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13559">
+          <num>64</num>
+          <content eId="para_13559__content">
+            <p>It follows from that case-law, which may be applied by analogy to the losses of non-resident permanent establishments, that the losses attributable to a non-resident permanent establishment become definitive when, first, the company possessing the establishment has exhausted all the possibilities of deducting those losses available under the law of the Member State in which the establishment is situated and, second, it has ceased to receive any income from that establishment, so that there is no longer any possibility of the losses being taken into account in that Member State.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13560">
+          <num>65</num>
+          <content eId="para_13560__content">
+            <p>It is for the national court to assess whether those conditions are satisfied in the case of Bevola's Finnish establishment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13561">
+          <num>66</num>
+          <content eId="para_13561__content">
+            <p>In the light of all the above considerations, the answer to the referring court's question is that Article 49 TFEU must be interpreted as precluding legislation of a Member State under which it is not possible for a resident company which has not opted for an international joint taxation scheme, such as that at issue in the main proceedings, to deduct from its taxable profits losses incurred by a permanent establishment in another Member State, where, first, that company has exhausted the possibilities of deducting those losses available under the law of the Member State in which the establishment is situated and, second, it has ceased to receive any income from that establishment, so that there is no longer any possibility of the losses being taken into account in that Member State, which is for the national court to ascertain.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_13562">
+          <num>67</num>
+          <content eId="para_13562__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Grand Chamber) hereby rules: Article 49 TFEU must be interpreted as precluding legislation of a Member State under which it is not possible for a resident company which has not opted for an international joint taxation scheme, such as that at issue in the main proceedings, to deduct from its taxable profits losses incurred by a permanent establishment in another Member State, where, first, that company has exhausted the possibilities of deducting those losses available under the law of the Member State in which the establishment is situated and, second, it has ceased to receive any income from that establishment, so that there is no longer any possibility of the losses being taken into account in that Member State, which is for the national court to ascertain.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Danish.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

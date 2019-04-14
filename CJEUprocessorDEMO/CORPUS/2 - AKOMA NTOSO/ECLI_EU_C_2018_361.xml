@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+      <references source="#source">
+        <TLCOrganization eId="company_55" showAs="" href="/akn/ontology/Organization/Company/company_55" />
+      </references>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Eighth Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>31 May 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Air transport -- Regulation (EC) No 261/2004 -- Article 3(1) -- Scope -- Definition of `connecting flight' -- Flight departing from an airport situated in the territory of a Member State, including a transfer at an airport situated in the territory of a third State and destined for another airport of that third State) In Case C‑537/17, REQUEST for a preliminary ruling under Article 267 TFEU from the Landgericht Berlin (Regional Court, Berlin, Germany), made by decision of 5 September 2017, received at the Court on 12 September 2017, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">Claudia Wegener</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#company_55">Royal Air Maroc SA</party>
+      </p>
+      <p>THE COURT (Eighth Chamber), composed of J. Malenovský (Rapporteur), President of the Chamber, D. Šváby and M. Vilaras, Judges, Advocate General: H. Saugmandsgaard Øe, Registrar: A. Calot Escobar, having regard to the written procedure, after considering the observations submitted on behalf of</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>Claudia Wegener, by F. Puschkarski, Rechtsanwältin,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>Royal Air Maroc SA, by D. Ahrens, Rechtsanwalt,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Polish Government, by B. Majczyna, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by K. Simonsson and K.-P. Wojcik, acting as Agents, having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_12532">
+          <num>1</num>
+          <content eId="para_12532__content">
+            <p>This reference for a preliminary ruling concerns the interpretation of Article 3(1)(a) of Regulation (EC) No 261/2004 of the European Parliament and of the Council of 11 February 2004 establishing common rules on compensation and assistance to passengers in the event of denied boarding and of cancellation or long delay of flights, and repealing Regulation (EEC) No 295/91 ( OJ 2004 L 46, p. 1).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12533">
+          <num>2</num>
+          <content eId="para_12533__content">
+            <p>The reference has been made in the context of proceedings between Claudia Wegener and Royal Air Maroc SA, concerning compensation for long delays of flights.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <paragraph eId="para_12534">
+          <num>3</num>
+          <content eId="para_12534__content">
+            <p>Article 2 of Regulation No 261/2004, entitled `Definitions', contains inter alia the following definition: `</p>
+            <blockList>
+              <item>
+                <num>(h)</num>
+                <p>``final destination '', the destination on the ticket presented at the check-in counter or, in the case of directly connecting flights, the destination of the last flight; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12535">
+          <num>4</num>
+          <content eId="para_12535__content">
+            <p>Article 3(1) of that regulation, entitled `Scope', provides: `This Regulation shall apply:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>to passengers departing from an airport located in the territory of a Member State to which the Treaty applies;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>to passengers departing from an airport located in a third country to an airport situated in the territory of a Member State to which the Treaty applies, unless they received benefits or compensation and were given assistance in that third country, if the operating air carrier of the flight concerned is a Community carrier.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the question referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_12536">
+          <num>5</num>
+          <content eId="para_12536__content">
+            <p>Ms Wegener concluded a contract for carriage by air with Royal Air Maroc, allowing her to travel from Berlin (Germany) to Agadir (Morocco) with a scheduled stopover at Casablanca (Morocco) and a change of aircraft, booked as a single unit.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12537">
+          <num>6</num>
+          <content eId="para_12537__content">
+            <p>Having obtained confirmation of her booking and checked in at the airport in Berlin for the entirety of her journey, Ms Wegener boarded the Royal Air Maroc aircraft destined for Casablanca, which departed late. On arrival in Casablanca, she presented herself for boarding of the aircraft destined for Agadir, but Royal Air Maroc refused to allow her to board, informing her that her seat had been reassigned to another passenger. Ms Wegener eventually boarded another Royal Air Maroc aircraft and arrived in Agadir four hours after the scheduled time of arrival.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12538">
+          <num>7</num>
+          <content eId="para_12538__content">
+            <p>She subsequently applied for compensation for that delay. However, Royal Air Maroc refused her application on the ground that she was not entitled to claim compensation under Regulation No 261/2004.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12539">
+          <num>8</num>
+          <content eId="para_12539__content">
+            <p>It is in those circumstances that the Landgericht Berlin (Regional Court, Berlin, Germany) decided to stay the proceedings and refer the following question to the Court for a preliminary ruling: `Is there a flight, within the meaning of Article 3(1)(a) of [Regulation No 261/2004], where an air carrier's air transport operation includes scheduled interruptions (stopovers) outside the territory of the European [Union] with a change of aircraft?'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the question referred</p>
+        </tblock>
+        <paragraph eId="para_12540">
+          <num>9</num>
+          <content eId="para_12540__content">
+            <p>In the light of the question submitted by the referring court, it should be noted, first of all, that, as set out in Article 3(1)(a) of Regulation No 261/2004, the regulation is applicable to passengers departing from an airport situated in the territory of a Member State.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12541">
+          <num>10</num>
+          <content eId="para_12541__content">
+            <p>Secondly, it is apparent from the decision to refer that the passenger transport at issue in the main proceedings was effected, as stated in paragraph 5 of the present judgment, under a single booking.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12542">
+          <num>11</num>
+          <content eId="para_12542__content">
+            <p>That being the case, it should be considered that, by its question, the referring court is asking, in essence, whether Article 3(1)(a) of Regulation No 261/2004 must be interpreted as meaning that the regulation applies to passenger transport effected under a single booking and comprising, between its departure from an airport situated in the territory of a Member State and its arrival at an airport situated in the territory of a third State, a scheduled stopover outside the European Union, with a change of aircraft.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12543">
+          <num>12</num>
+          <content eId="para_12543__content">
+            <p>In the present case, it is clear from the decision to refer, first of all, that the transport referred to in paragraph 5 of the present judgment comprises two flights connecting Berlin to Casablanca and Casablanca to Agadir, respectively.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12544">
+          <num>13</num>
+          <content eId="para_12544__content">
+            <p>Secondly, the first of those flights departed from an airport situated in the territory of a Member State, whereas the second departed from and arrived at airports situated in the territory of a third State.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12545">
+          <num>14</num>
+          <content eId="para_12545__content">
+            <p>Lastly, it was on the arrival of the second flight that there was found to be a delay of four hours, suffered by the applicant in the main proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12546">
+          <num>15</num>
+          <content eId="para_12546__content">
+            <p>In those circumstances, it should be noted that if a flight such as the second flight, which was made entirely outside the European Union, were to be considered a separate transport operation, it would not come within the remit of Regulation No 261/2004. On the other hand, if a transport such as that at issue in the main proceedings were to be considered as a whole, with its point of departure in a Member State, the regulation would apply.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12547">
+          <num>16</num>
+          <content eId="para_12547__content">
+            <p>In that regard, the Court has already held that the irreversible loss of time that constitutes the inconvenience triggering the right to compensation provided for in Regulation No 261/2004 is that which materialises on arrival at the final destination (judgment of 26 February 2013, Folkerts, C‑11/11, EU:C:2013:106, paragraphs 32 and 33).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12548">
+          <num>17</num>
+          <content eId="para_12548__content">
+            <p>The concept of `final destination' is defined in Article 2(h) of the regulation, as the destination on the ticket presented at the check-in counter or, in the case of directly connecting flights, the destination of the last flight taken by the passenger concerned (judgment of 26 February 2013, Folkerts, C‑11/11, EU:C:2013:106, paragraphs 34 and 35).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12549">
+          <num>18</num>
+          <content eId="para_12549__content">
+            <p>It follows from the term `last flight' that the concept of `connecting flight' must be understood as referring to two or more flights constituting a whole for the purposes of the right to compensation for passengers provided for in Regulation No 261/2004, like the connecting flight at issue in the case giving rise to the judgment of 26 February 2013, Folkerts ( C‑11/11, EU:C:2013:106, paragraphs 17 and 18).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12550">
+          <num>19</num>
+          <content eId="para_12550__content">
+            <p>That is the case when two or more flights were booked as a single unit, as in the case giving rise to the judgment of 26 February 2013, Folkerts ( C‑11/11, EU:C:2013:106, paragraph 16).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12551">
+          <num>20</num>
+          <content eId="para_12551__content">
+            <p>Consequently, a transport operation such as that at issue in the main proceedings must be considered as a connecting flight, such as that at issue in the case giving rise to the judgment of 26 February 2013, Folkerts ( C‑11/11, EU:C:2013:106, paragraphs 35 and 38).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12552">
+          <num>21</num>
+          <content eId="para_12552__content">
+            <p>Admittedly, the referring court points out, as is apparent from the wording of its question, that the second of the two flights at issue in the main proceedings was effected aboard a different aircraft to the first flight.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12553">
+          <num>22</num>
+          <content eId="para_12553__content">
+            <p>However, none of the provisions of Regulation No 261/2004 renders the classification as connecting flight subject to the condition that all of the flights included were effected aboard the same aircraft.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12554">
+          <num>23</num>
+          <content eId="para_12554__content">
+            <p>Consequently, the change of aircraft that may arise during a connecting flight has no influence on that classification.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12555">
+          <num>24</num>
+          <content eId="para_12555__content">
+            <p>Therefore, a transport such at that at issue in the main proceedings must be regarded, taken as a whole, as a connecting flight. It follows that it must come within the scope of Article 3(1)(a) of Regulation No 261/2004.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12556">
+          <num>25</num>
+          <content eId="para_12556__content">
+            <p>Taking account of all the aforementioned considerations, the answer to the question referred is that Article 3(1)(a) of Regulation No 261/2004 must be interpreted as meaning that the regulation applies to a passenger transport effected under a single booking and comprising, between its departure from an airport situated in the territory of a Member State and its arrival at an airport situated in the territory of a third State, a scheduled stopover outside the European Union with a change of aircraft.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_12557">
+          <num>26</num>
+          <content eId="para_12557__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Eighth Chamber) hereby rules: Article 3(1)(a) of Regulation (EC) No 261/2004 of the European Parliament and of the Council of 11 February 2004 establishing common rules on compensation and assistance to passengers in the event of denied boarding and of cancellation or long delay of flights, and repealing Regulation (EEC) No 295/91, must be interpreted as meaning that the regulation applies to a passenger transport effected under a single booking and comprising, between its departure from an airport situated in the territory of a Member State and its arrival at an airport situated in the territory of a third State, a scheduled stopover outside the European Union with a change of aircraft.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: German.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

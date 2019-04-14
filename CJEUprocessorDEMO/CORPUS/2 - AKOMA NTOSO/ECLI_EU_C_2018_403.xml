@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Second Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>7 June 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Environment -- Directive 2001/42/EC -- Article 2(a) -- Concept of `plans and programmes' -- Article 3 -- Assessment of the effects of certain plans and programmes on the environment -- Regional town planning regulations relating to the European Quarter, Brussels (Belgium)) In Case C‑671/16, REQUEST for a preliminary ruling under Article 267 TFEU from the Conseil d'État (Belgium), made by decision of 14 December 2016, received at the Court on 29 December 2016, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">Inter-Environnement Bruxelles ASBL</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="appellant" refersTo="#">Groupe d'animation du quartier européen de la ville de Bruxelles ASBL</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="appellant" refersTo="#">Association du quartier Léopold ASBL</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="appellant" refersTo="#">Brusselse Raad voor het Leefmilieu ASBL</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="appellant" refersTo="#">Pierre Picard</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="appellant" refersTo="#">David Weytsman</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#">Brussels Capital Region</party>
+      </p>
+      <p>, THE COURT (Second Chamber), composed of M. Ilešič, President of the Chamber, A. Rosas, C. Toader (Rapporteur), A. Prechal and E. Jarašiūnas, Judges, Advocate General: J. Kokott, Registrar: V. Giacobbo-Peyronnel, Administrator, having regard to the written procedure and further to the hearing on 30 November 2017, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>Inter-Environnement Bruxelles ASBL, Groupe d'animation du quartier européen de la ville de Bruxelles ASBL, Association du quartier Léopold ASBL, Brusselse Raad voor het Leefmilieu ASBL, Mr Picard and Mr Weytsman, by J. Sambon, lawyer,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Belgian Government, by M. Jacobs, L. Van den Broeck and J. Van Holm, acting as Agents, and by P. Coenraets and L. Thommès, lawyers,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Czech Government, by M. Smolek, J. Vláčil and L. Dvořáková, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Danish Government, by J. Nymann-Lindegren, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by F. Thiran and C. Zadra, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 25 January 2018,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_13199">
+          <num>1</num>
+          <content eId="para_13199__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Article 2(a) of Directive 2001/42/EC of the European Parliament and of the Council of 27 June 2001 on the assessment of the effects of certain plans and programmes on the environment ( OJ 2001 L 197, p. 30) ( `the SEA Directive').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13200">
+          <num>2</num>
+          <content eId="para_13200__content">
+            <p>The request has been made in proceedings between Inter-Environnement Bruxelles ASBL, Groupe d'animation du quartier européen de la ville de Bruxelles ASBL, Association du quartier Léopold ASBL, Brusselse Raad voor het Leefmilieu ASBL (all members of `Coordination Bruxelles-Europe'), Mr Pierre Picard and Mr David Weytsman, and Brussels Capital Region (Belgium), concerning the validity of the decree adopted by the Government of that region on 12 December 2013 approving the regional zoned town planning regulations and the composition of the planning permission and certificate application file for the area of Rue de la Loi and its surroundings ( Moniteur belge, 30 January 2014, p. 8390) ( `the contested decree').</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <paragraph eId="para_13201">
+          <num>3</num>
+          <content eId="para_13201__content">
+            <p>Under recital 4 of the SEA Directive: `Environmental assessment is an important tool for integrating environmental considerations into the preparation and adoption of certain plans and programmes which are likely to have significant effects on the environment in the Member States, because it ensures that such effects of implementing plans and programmes are taken into account during their preparation and before their adoption.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13202">
+          <num>4</num>
+          <content eId="para_13202__content">
+            <p>Article 1 of that directive, entitled `Objectives', provides: `The objective of this Directive is to provide for a high level of protection of the environment and to contribute to the integration of environmental considerations into the preparation and adoption of plans and programmes with a view to promoting sustainable development, by ensuring that, in accordance with this Directive, an environmental assessment is carried out of certain plans and programmes which are likely to have significant effects on the environment.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13203">
+          <num>5</num>
+          <content eId="para_13203__content">
+            <p>Article 2 of that directive is worded as follows: `For the purposes of this Directive:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>``plans and programmes '' shall mean plans and programmes, including those co-financed by the European [Union], as well as any modifications to them:</p>
+                <blockList>
+                  <item>
+                    <num>--</num>
+                    <p>which are subject to preparation and/or adoption by an authority at national, regional or local level or which are prepared by an authority for adoption, through a legislative procedure by Parliament or Government, and</p>
+                  </item>
+                  <item>
+                    <num>--</num>
+                    <p>which are required by legislative, regulatory or administrative provisions;</p>
+                  </item>
+                </blockList>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>``environmental assessment '' shall mean the preparation of an environmental report, the carrying out of consultations, the taking into account of the environmental report and the results of the consultations in decision-making and the provision of information on the decision in accordance with Articles 4 to 9; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13204">
+          <num>6</num>
+          <content eId="para_13204__content">
+            <p>Under Article 3 of the SEA Directive, entitled `Scope': `1.   An environmental assessment, in accordance with Articles 4 to 9, shall be carried out for plans and programmes referred to in paragraphs 2 to 4 which are likely to have significant environmental effects. 2.   Subject to paragraph 3, an environmental assessment shall be carried out for all plans and programmes,</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>which are prepared for agriculture, forestry, fisheries, energy, industry, transport, waste management, water management, telecommunications, tourism, town and country planning or land use and which set the framework for future development consent of projects listed in Annexes I and II to Directive [2011/92/EU of the European Parliament and of the Council of 13 December 2011 on the assessment of the effects of certain public and private projects on the environment ( OJ 2012 L 26, p. 1)] ... ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13205">
+          <num>7</num>
+          <content eId="para_13205__content">
+            <p>Article 5 of the SEA Directive, entitled `Environmental report', states, in paragraph 3 thereof: `Relevant information available on environmental effects of the plans and programmes and obtained at other levels of decision-making or through other Community legislation may be used for providing the information referred to in Annex I.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13206">
+          <num>8</num>
+          <content eId="para_13206__content">
+            <p>Article 6 of that directive, headed `Consultations', provides: `1.   The draft plan or programme and the environmental report prepared in accordance with Article 5 shall be made available to the authorities referred to in paragraph 3 of this Article and the public. 2.   The authorities referred to in paragraph 3 and the public referred to in paragraph 4 shall be given an early and effective opportunity within appropriate time frames to express their opinion on the draft plan or programme and the accompanying environmental report before the adoption of the plan or programme or its submission to the legislative procedure. 3.   Member States shall designate the authorities to be consulted which, by reason of their specific environmental responsibilities, are likely to be concerned by the environmental effects of implementing plans and programmes. 4.   Member States shall identify the public for the purposes of paragraph 2, including the public affected or likely to be affected by, or having an interest in, the decision-making subject to this Directive, including relevant non-governmental organisations, such as those promoting environmental protection and other organisations concerned. 5.   The detailed arrangements for the information and consultation of the authorities and the public shall be determined by the Member States.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13207">
+          <num>9</num>
+          <content eId="para_13207__content">
+            <p>Article 11 of the SEA Directive, entitled `Relationship with other Community legislation', states, in paragraph 1 thereof: `An environmental assessment carried out under this Directive shall be without prejudice to any requirements under Directive [2011/92] and to any other Community law requirements'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13208">
+          <num>10</num>
+          <content eId="para_13208__content">
+            <p>Pursuant to Article 4(2) of Directive 2011/92 ( `the EIA Directive'), the Member States are to determine whether the projects listed in Annex II to that directive are to be made subject to an assessment in accordance with Articles 5 to 10 thereof. Among the projects falling under Title 10 of that annex, entitled `Infrastructure projects', `urban development projects, including the construction of shopping centres and car parks' are listed under point (b).</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Belgian law</p>
+        </tblock>
+        <paragraph eId="para_13209">
+          <num>11</num>
+          <content eId="para_13209__content">
+            <p>As is apparent from the second paragraph of Article 1 thereof, the Code bruxellois de l'aménagement du territoire (Brussels Town and Country Planning Code) of 9 April 2004 ( Moniteur belge, 26 May 2004, p. 40738) ( `the CoBAT'), is intended, in particular, to transpose the SEA Directive into Belgian law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13210">
+          <num>12</num>
+          <content eId="para_13210__content">
+            <p>The CoBAT makes a distinction between town and country planning and development tools, on the one hand, and town planning tools, on the other. The former fall under Title II of that Code, entitled `Planning', whereas the latter are covered by Title III of that Code, entitled `Town planning regulations'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13211">
+          <num>13</num>
+          <content eId="para_13211__content">
+            <p>Regarding town and country planning and development tools, Article 13 of the CoBAT provides: `Development of the Brussels Capital Region shall be designed and its town and country planning shall be determined by means of the following plans: 1.   a regional development plan; 2.   a regional land use plan; 3.   municipal development plans; 4.   a specific land use plan. ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13212">
+          <num>14</num>
+          <content eId="para_13212__content">
+            <p>Concerning town planning tools, Article 87 of that Code states: `Town planning in the Brussels Capital Region shall be determined by means of the following regulations: 1.   regional town planning regulations; 2.   municipal town planning regulations.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13213">
+          <num>15</num>
+          <content eId="para_13213__content">
+            <p>The procedure for preparing the plans referred to in Article 13 of the CoBAT includes the completion of an environmental report, as is apparent from Article 18(1), Article 25(1), Article 33(1), and Article 43 thereof.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13214">
+          <num>16</num>
+          <content eId="para_13214__content">
+            <p>Conversely, no provision is made in Article 88 et seq. of the CoBAT, which describe the procedure for preparing the regulations referred to in Article 87 thereof, for a similar environmental assessment procedure in respect of those regulations.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13215">
+          <num>17</num>
+          <content eId="para_13215__content">
+            <p>Article 88 of that Code provides: `The Government may enact one or more sets of regional town planning regulations containing provisions to ensure, inter alia: 1° the salubriousness, preservation, sturdiness and attractiveness of buildings, installations and their surroundings and the safety thereof, in particular their protection against fire and flooding; 2° the thermal and acoustic standards of buildings, energy savings, and energy recovery; 3° the preservation, salubriousness, safety, viability and attractiveness of highways, their access roads and surroundings; 4° the servicing of buildings by public amenities as regards, inter alia, supplies of water, gas, electricity, heating and telecommunications, and refuse collection; 5° minimum housing habitability standards; 6° housing quality and the convenience of slow-moving traffic, in particular through the prevention of noise, dust and fumes accompanying the performing of works, and the prohibition of such works at certain times and on certain days; 7° the access of persons with reduced mobility to buildings whose construction is either complete or ongoing, or to the parts of those buildings that are accessible to the public, to installations, and to highways; 8° the safe use of property that is accessible to the public. These regulations may concern, inter alia, buildings and installations above and below ground, signs, display and advertising units, antennae, pipes and cables, fences, hedges and boundary walls, sheds and garages, land not built on, vegetable patches and flower beds, topographical changes and locations for the off-street driving and parking of cars. These town planning regulations may not derogate from the requirements imposed in relation to highways. They shall be applicable throughout the territory of the region, or to a part of that territory whose boundaries shall be set by them.'</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the question referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_13216">
+          <num>18</num>
+          <content eId="para_13216__content">
+            <p>On 24 April 2008 the Government of the Brussels Capital Region definitively confirmed a blueprint for the European Quarter of the City of Brussels ( `the European Quarter'), in order to transform it into a dense, mixed district combining an international employment area, a residential area, and a universally accessible cultural and recreational area.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13217">
+          <num>19</num>
+          <content eId="para_13217__content">
+            <p>On 16 December 2010 that government simultaneously adopted the `Projet urbain Loi' (Urban Project Law) guidelines -- a guide map with no legislative force -- and a decree relating to the implementation, by means of a specific land use plan to be approved by the Municipal Council of the City of Brussels, of a project defining an urban model for Rue de la Loi and its surroundings within the European Quarter.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13218">
+          <num>20</num>
+          <content eId="para_13218__content">
+            <p>On 15 December 2011 the Government of the Brussels Capital Region approved a first draft of regional zoned town planning regulations ( `the RZTPRs') concerning the area referred to in the preceding paragraph. A public consultation, held from 19 March to 18 April 2012, gave rise to objections and observations, in particular from the members of Coordination Bruxelles-Europe, who raised, among other complaints, the issue of the lack of any environmental impact assessment. On 19 July 2012 that government adopted a communication in order to launch an environmental assessment regarding that first draft of the RZTPRs.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13219">
+          <num>21</num>
+          <content eId="para_13219__content">
+            <p>Following that assessment, on 28 February 2013 the government approved a second draft of the RZTPRs, which was also the subject of a consultation that, in turn, gave rise to objections and observations, including those of Coordination Bruxelles-Europe.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13220">
+          <num>22</num>
+          <content eId="para_13220__content">
+            <p>On 12 December 2013, by the contested decree, the Government of the Brussels Capital Region approved the RZTPRs in question.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13221">
+          <num>23</num>
+          <content eId="para_13221__content">
+            <p>By application lodged on 31 March 2014, the applicants in the main proceedings brought an action before the Conseil d'État (Council of State, Belgium) for annulment of that decree. Inter alia, they complained that, by failing to carry out an environmental assessment in line with the SEA Directive, the government had disregarded the procedures laid down by that directive. In particular, they argued that the environmental assessment did not meet the requirements of that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13222">
+          <num>24</num>
+          <content eId="para_13222__content">
+            <p>In their action, the applicants in the main proceedings argue, in essence, that Belgian law makes a distinction between measures falling under town and country planning and measures falling under town planning, providing that only the former require an environmental impact assessment to be carried out. However, the SEA Directive refers to `plans and programmes' without making such a differentiation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13223">
+          <num>25</num>
+          <content eId="para_13223__content">
+            <p>In its defence, the Government of the Brussels Capital Region contends that the contested decree constitutes neither a plan nor a programme for the purpose of that directive and that, consequently, the procedural obligations set out in that directive are not applicable to the adoption of such a decree.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13224">
+          <num>26</num>
+          <content eId="para_13224__content">
+            <p>The referring court indicates that the question whether the action before it is well founded depends on establishing whether that decree falls under the definition of `plans and programmes' for the purpose of the SEA Directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13225">
+          <num>27</num>
+          <content eId="para_13225__content">
+            <p>In those circumstances, the Conseil d'État (Council of State) decided to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling: `Must Article 2(a) of [the SEA Directive] be interpreted as including in the concept of ``plans and programmes '' town planning regulations adopted by a regional authority:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>which contain a map setting out the area to which they apply, limited to a single district, and defining various islands within that area to which different rules apply as regards the location and height of buildings; and</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>which also lay down specific planning provisions for areas situated in the areas around buildings, and precise indications on the spatial application of certain rules which they lay down taking into consideration the streets, straight lines traced perpendicular to those streets and distances in relation to the alignment of those streets; and</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>which pursue the objective of transforming the district concerned; and</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>which lay down the rules regarding the composition of the files of applications for planning permission subject to an environmental impact assessment in that district?'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the question referred</p>
+        </tblock>
+        <paragraph eId="para_13226">
+          <num>28</num>
+          <content eId="para_13226__content">
+            <p>It should be noted from the outset that, although the question referred mentions only Article 2 of the SEA Directive, as is pointed out by several parties to the proceedings before the Court, the request for a preliminary ruling seeks both to determine whether RZTPRs, such as those at issue in the main proceedings, fall under the definition of `plans and programmes' for the purpose of that provision, and to ascertain whether such regulations are among those which must be subjected to an environmental impact assessment as provided for in Article 3 of that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13227">
+          <num>29</num>
+          <content eId="para_13227__content">
+            <p>The fact that a national court has, formally speaking, worded a question referred for a preliminary ruling with reference to certain provisions of EU law does not preclude this Court from providing the national court with all the elements of interpretation that may be of assistance in adjudicating on the case pending before it, whether or not that court has referred to them in its questions. In that regard, it is for the Court to extract from all the information provided by the national court, in particular from the grounds of the decision referring the questions, the points of EU law which require interpretation, having regard to the subject matter of the dispute (judgment of 22 June 2017, E.ON Biofor Sverige, C‑549/15, EU:C:2017:490, paragraph 72 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13228">
+          <num>30</num>
+          <content eId="para_13228__content">
+            <p>In that regard, it follows from Article 3 of the SEA Directive that, on a proper construction of that provision, the obligation to subject a specific plan or programme to an environmental assessment is conditional upon the plan or programme covered by that provision being likely to have significant environmental effects.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13229">
+          <num>31</num>
+          <content eId="para_13229__content">
+            <p>The question raised by the referring court must therefore be construed as asking, in essence, whether, on a proper construction of Article 2(a) and Article 3 of the SEA Directive, RZTPRs, such as those at issue in the main proceedings, laying down certain requirements for the completion of building projects, fall under the definition of `plans and programmes' which are likely to have significant environmental effects within the meaning of that directive and must, consequently, be subjected to an environmental impact assessment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13230">
+          <num>32</num>
+          <content eId="para_13230__content">
+            <p>As a preliminary point, it should first of all be borne in mind that, as is apparent from recital 4 of the SEA Directive, environmental assessment is an important tool for integrating environmental considerations into the preparation and adoption of certain plans and programmes.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13231">
+          <num>33</num>
+          <content eId="para_13231__content">
+            <p>Next, under Article 1 thereof, the objective of that directive is to provide for a high level of protection of the environment and to contribute to the integration of environmental considerations into the preparation and adoption of plans and programmes with a view to promoting sustainable development, by ensuring that, in accordance with that directive, an environmental assessment is carried out of certain plans and programmes which are likely to have significant effects on the environment (judgment of 21 December 2016, Associazione Italia Nostra Onlus, C‑444/15, EU:C:2016:978, paragraph 47).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13232">
+          <num>34</num>
+          <content eId="para_13232__content">
+            <p>Lastly, given the objective of that directive, which is to provide for such a high level of protection of the environment, the provisions which delimit the directive's scope, in particular those setting out the definitions of the measures envisaged by the directive, must be interpreted broadly (judgment of 27 October 2016, D'Oultremont and Others, C‑290/15, EU:C:2016:816, paragraph 40 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13233">
+          <num>35</num>
+          <content eId="para_13233__content">
+            <p>It is in the light of the foregoing considerations that it is necessary to determine the answer to the question referred.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Article 2(a) of the SEA Directive</p>
+        </tblock>
+        <paragraph eId="para_13234">
+          <num>36</num>
+          <content eId="para_13234__content">
+            <p>Article 2(a) of the SEA Directive defines the `plans and programmes' covered by that provision as being plans and programmes that satisfy two cumulative conditions, namely</p>
+            <blockList>
+              <item>
+                <num>(i)</num>
+                <p>they have been prepared and/or adopted by an authority at national, regional or local level or have been prepared by an authority for adoption, through a legislative procedure, by Parliament or Government, and</p>
+              </item>
+              <item>
+                <num>(ii)</num>
+                <p>they are required by legislative, regulatory or administrative provisions.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13235">
+          <num>37</num>
+          <content eId="para_13235__content">
+            <p>The Court has interpreted that provision to mean that plans and programmes whose adoption is regulated by national legislative or regulatory provisions, which determine the competent authorities for adopting them and the procedure for preparing them, must be regarded as `required' within the meaning, and for the application, of the SEA Directive and, accordingly, be subject to an assessment of their environmental effects in the circumstances which it lays down (judgment of 22 March 2012, Inter-Environnement Bruxelles and Others, C‑567/10, EU:C:2012:159, paragraph 31).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13236">
+          <num>38</num>
+          <content eId="para_13236__content">
+            <p>Excluding from the scope of the SEA Directive those plans and programmes whose adoption is not compulsory would compromise the practical effect of that directive, having regard to its objective, which consists in providing for a high level of protection of the environment (see, to that effect, judgment of 22 March 2012, Inter-Environnement Bruxelles and Others, C‑567/10, EU:C:2012:159, paragraphs 28 and 30).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13237">
+          <num>39</num>
+          <content eId="para_13237__content">
+            <p>In the present case, it follows from the findings of the referring court that the contested decree was adopted by a regional authority on the basis of Article 88 et seq. of the CoBAT.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13238">
+          <num>40</num>
+          <content eId="para_13238__content">
+            <p>Accordingly, the conditions set out in paragraph 36 above are satisfied.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Article 3 of the SEA Directive</p>
+        </tblock>
+        <paragraph eId="para_13239">
+          <num>41</num>
+          <content eId="para_13239__content">
+            <p>It should be noted that Article 3(2)(a) of the SEA Directive provides that a systematic environmental assessment is to be carried out for all plans and programmes which</p>
+            <blockList>
+              <item>
+                <num>(i)</num>
+                <p>are prepared for certain sectors and</p>
+              </item>
+              <item>
+                <num>(ii)</num>
+                <p>set the framework for future development consent of projects listed in Annexes I and II to the EIA Directive (see, to that effect, judgment of 17 June 2010, Terre wallonne and Inter-Environnement Wallonie, C‑105/09 and C‑110/09, EU:C:2010:355, paragraph 43).</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13240">
+          <num>42</num>
+          <content eId="para_13240__content">
+            <p>Regarding the first of those conditions, it follows from the wording of Article 3(2)(a) of the SEA Directive that that provision covers, in particular, `town and country planning or land use'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13241">
+          <num>43</num>
+          <content eId="para_13241__content">
+            <p>As the European Commission notes, the fact that that provision refers both to `town and country planning' and `land use' clearly shows that the sector mentioned is not limited to land use sensu stricto, namely the dividing of land into zones and the defining of activities permitted within those zones, but necessarily covers a broader field.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13242">
+          <num>44</num>
+          <content eId="para_13242__content">
+            <p>It is apparent from Article 88 of the CoBAT that regional town planning regulations are to concern, in particular, buildings and their surroundings in terms of, inter alia, highways, preservation, safety, salubriousness, energy, acoustics, waste management, and aesthetics.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13243">
+          <num>45</num>
+          <content eId="para_13243__content">
+            <p>Accordingly, such measures fall within the category of `town and country planning or land use' for the purpose of Article 3(2)(a) of the SEA Directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13244">
+          <num>46</num>
+          <content eId="para_13244__content">
+            <p>Concerning the second of those conditions, in order to establish whether regional town planning regulations, such as those at issue in the main proceedings, set the framework for future development consent of projects listed in Annexes I and II to the EIA Directive, it is necessary to examine the content and purpose of those regulations, taking into account the scope of the environmental assessment of projects as provided for by that directive (see, to that effect, judgment of 17 June 2010, Terre wallonne and Inter-Environnement Wallonie, C‑105/09 and C‑110/09, EU:C:2010:355, paragraph 45).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13245">
+          <num>47</num>
+          <content eId="para_13245__content">
+            <p>Concerning, in the first place, the projects listed in Annexes I and II to the EIA Directive, it should be borne in mind that infrastructure projects are listed under Title 10 of that second annex, including, under point (b) of that title, urban development projects.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13246">
+          <num>48</num>
+          <content eId="para_13246__content">
+            <p>It should be noted that the contested decree contains rules applicable to all buildings, whatever their nature, and to all their surroundings, including `areas of open space' and `areas on which building is permissible', whether public or private.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13247">
+          <num>49</num>
+          <content eId="para_13247__content">
+            <p>In that regard, that measure contains a map which not only sets out the area to which it applies, but also defines various islands to which different rules apply as regards the location and height of buildings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13248">
+          <num>50</num>
+          <content eId="para_13248__content">
+            <p>More specifically, that measure contains provisions concerning, inter alia: the number, location, height and surface area of buildings; construction-free spaces, including flower beds and vegetable patches in those spaces; rainwater collection, including the construction of stormwater collection tanks and storage tanks; the designing of buildings in line with their potential use, how long they will be used for and their eventual dismantling; the biotope coefficient, namely the relationship between areas that can be developed ecologically and total surface area; converting roofs with a view to, inter alia, landscape integration and greening.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13249">
+          <num>51</num>
+          <content eId="para_13249__content">
+            <p>Regarding the purpose of the contested decree, it pursues an objective of transforming the district into a `dense, mixed urban' area and is intended to achieve the `redevelopment of the whole of the European Quarter'. More specifically, that decree contains a chapter entitled `Provisions relating to the composition of the planning permission and certificate application file' which lays down not only the substantive rules that will have to be applied when permission is granted, but also the procedural rules relating to the composition of applications for urban planning permission and certificates.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13250">
+          <num>52</num>
+          <content eId="para_13250__content">
+            <p>It follows that a decree such as the one at issue in the main proceedings contributes, by both its content and its purpose, to the implementation of projects listed in that annex.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13251">
+          <num>53</num>
+          <content eId="para_13251__content">
+            <p>In the second place, regarding the question whether the contested decree sets the framework for future development consent of such projects, the Court has already held that the notion of `plans and programmes' relates to any measure which establishes, by defining rules and procedures for scrutiny applicable to the sector concerned, a significant body of criteria and detailed rules for the grant and implementation of one or more projects likely to have significant effects on the environment (judgment of 27 October 2016, D'Oultremont and Others, C‑290/15, EU:C:2016:816, paragraph 49 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13252">
+          <num>54</num>
+          <content eId="para_13252__content">
+            <p>That interpretation of the concept of `plans and programmes' is intended to ensure, as was noted by the Advocate General in point 23 of her Opinion, that provisions which are likely to have significant effects on the environment are subject to an environmental assessment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13253">
+          <num>55</num>
+          <content eId="para_13253__content">
+            <p>Therefore, as was noted by the Advocate General in points 25 and 26 of her Opinion, the concept of `a significant body of criteria and detailed rules' must be construed qualitatively and not quantitatively. It is necessary to avoid strategies which may be designed to circumvent the obligations laid down in the SEA Directive by splitting measures, thereby reducing the practical effect of that directive (see, to that effect, judgment of 27 October 2016, D'Oultremont and Others, C‑290/15, EU:C:2016:816, paragraph 48 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13254">
+          <num>56</num>
+          <content eId="para_13254__content">
+            <p>It is apparent from reading the contested decree that that measure contains, inter alia, provisions concerning the development of areas situated in the areas around buildings and other construction-free spaces, areas on which building is permissible, courtyard and garden areas, fences, hedges and boundary walls, pipes and cables connecting buildings with networks and sewers, collection of rainwater, and various building features, including whether they can be converted and are sustainable, certain external aspects thereof, and vehicle access thereto.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13255">
+          <num>57</num>
+          <content eId="para_13255__content">
+            <p>Having regard to the way in which they are defined, the criteria and detailed rules established by such a measure may, as was noted by the Advocate General in point 30 of her Opinion, have significant effects on the urban environment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13256">
+          <num>58</num>
+          <content eId="para_13256__content">
+            <p>Such criteria and detailed rules are, as has been emphasised by the Commission, likely to have an effect on lighting, wind, the urban landscape, air quality, biodiversity, water management, the sustainability of buildings and, more generally, emissions within the area concerned. More particularly, as is stated in the preamble of the contested decree, the size and layout of high rise buildings are likely to give rise to undesirable effects in terms of shade and wind.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13257">
+          <num>59</num>
+          <content eId="para_13257__content">
+            <p>Having regard to those elements, the existence and extent of which are nonetheless for the referring court to verify in respect of the measure concerned, it must be found that a measure such as that at issue in the main proceedings falls within the definition of `plans and programmes' which must be subjected to an environmental impact assessment as provided for in Article 3(1) and (2) of the SEA Directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13258">
+          <num>60</num>
+          <content eId="para_13258__content">
+            <p>Such a finding cannot be called in question by the objection raised by the Belgian Government relating to the general nature of the regulations at issue in the main proceedings. Indeed, besides the fact that it is apparent from the actual wording of the first indent of Article 2(a) of the SEA Directive that the notion of `plans and programmes' can cover normative acts adopted by law or regulation, that directive does not contain any special provisions in relation to policies or general legislation that would call for them to be distinguished from plans and programmes for the purpose of that directive. Moreover, the fact that RZTPRs, such as those at issue in the main proceedings, contain general rules, express some abstract ideas, and pursue an objective of transforming an area is illustrative of their planning and programming aspect and does not prevent them from being included in the definition of `plans and programmes' (see, to that effect, judgment of 27 October 2016, D'Oultremont and Others, C‑290/15, EU:C:2016:816, paragraphs 52 and 53).</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Potential accumulations of environmental impact assessments</p>
+        </tblock>
+        <paragraph eId="para_13259">
+          <num>61</num>
+          <content eId="para_13259__content">
+            <p>The referring court indicates that the future planning permission applications, the rules relating to the composition of whose files are defined by the RZTPRs at issue in the main proceedings, will be subjected to an environmental impact assessment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13260">
+          <num>62</num>
+          <content eId="para_13260__content">
+            <p>It should be borne in mind that the fundamental objective of the SEA Directive is to ensure that `plans and programmes' which are likely to have significant effects on the environment are subject to an environmental assessment when they are prepared and prior to their adoption (see, to that effect, judgment of 28 February 2012, Inter-Environnement Wallonie and Terre wallonne, C‑41/11, EU:C:2012:103, paragraph 40 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13261">
+          <num>63</num>
+          <content eId="para_13261__content">
+            <p>In that regard, it is apparent from Article 6(2) of that directive that the environmental assessment is supposed to be carried out as soon as possible so that its conclusions may still have an influence on any potential decision-making. Indeed, it is at that stage that the various alternatives may be analysed and strategic choices may be made.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13262">
+          <num>64</num>
+          <content eId="para_13262__content">
+            <p>In addition, while Article 5(3) of the SEA Directive provides for the possibility of using relevant information obtained at other levels of decision-making or through other EU legislation, Article 11(1) of that directive states that an environmental assessment carried out under that directive is to be without prejudice to any requirements under the EIA Directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13263">
+          <num>65</num>
+          <content eId="para_13263__content">
+            <p>Furthermore, an environmental impact assessment report completed under the EIA Directive cannot be used to circumvent the obligation to carry out the environmental assessment required under the SEA Directive in order to address environmental aspects specific to that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13264">
+          <num>66</num>
+          <content eId="para_13264__content">
+            <p>Thus, the fact, raised by the referring court, that the future planning permission applications will be subjected to an impact assessment procedure under the EIA Directive is not capable of calling in question the need to carry out an environmental assessment of a plan or a programme falling within the scope of Article 3(2)(a) of the SEA Directive and establishing the framework within which those town planning projects will subsequently be authorised, unless an assessment of the environmental effects of that plan or programme, as referred to in paragraph 42 of the judgment of 22 March 2012, Inter-Environnement Bruxelles and Others ( C‑567/10, EU:C:2012:159), has already been carried out.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13265">
+          <num>67</num>
+          <content eId="para_13265__content">
+            <p>In the light of all of the foregoing, the answer to the question referred is that, on a proper construction of Article 2(a), Article 3(1), and Article 3(2)(a) of the SEA Directive, regional town planning regulations, such as those at issue in the main proceedings, laying down certain requirements for the completion of building projects, fall under the definition of `plans and programmes' which are likely to have significant environmental effects within the meaning of that directive and must, consequently, be subjected to an environmental impact assessment.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_13266">
+          <num>68</num>
+          <content eId="para_13266__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Second Chamber) hereby rules: On a proper construction of Article 2(a), Article 3(1), and Article 3(2)(a) of Directive 2001/42/EC of the European Parliament and of the Council of 27 June 2001 on the assessment of the effects of certain plans and programmes on the environment, regional town planning regulations, such as those at issue in the main proceedings, laying down certain requirements for the completion of building projects, fall under the definition of `plans and programmes' which are likely to have significant environmental effects within the meaning of that directive and must, consequently, be subjected to an environmental impact assessment.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: French.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

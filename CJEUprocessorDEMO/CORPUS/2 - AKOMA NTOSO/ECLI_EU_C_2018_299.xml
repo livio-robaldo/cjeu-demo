@@ -1,0 +1,805 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Fourth Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>3 May 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Appeal -- Public service contracts -- Provision of external services for programme and project management and technical consultancy in the field of information technologies -- Cascade procedure -- Article 21 of the Statute of the Court of Justice of the European Union -- Article 76 and Article 84(1) of the Rules of Procedure of the General Court -- Ruling ultra petita prohibited -- Weighting of sub-criteria within award criteria -- Manifest errors of assessment -- Regulation (EC, Euratom) No 1605/2002 -- Article 100(2) -- Decision rejecting a tender -- Failure to state reasons -- Loss of opportunity -- Non-contractual liability of the European Union -- Claim for damages) In Case C‑376/16 P, APPEAL under Article 56 of the Statute of the Court of Justice of the European Union, brought on 7 July 2016, European Union Intellectual Property Office (EUIPO), represented by N. Bambara, acting as Agent, and by P. Wytinck and B. Hoorelbeke, lawyers, appellant, the other parties to the proceedings being: European Dynamics Luxembourg SA, established in Luxembourg (Luxembourg), European Dynamics Belgium SA, established in Brussels (Belgium), Evropaïki Dynamiki -- Proigmena Systimata Tilepikoinonion Pliroforikis kai Tilematikis AE, established in Athens (Greece), represented by M. Sfyri, C.-N. Dede and V. Alevizopoulou, dikigoroi, applicants at first instance, THE COURT (Fourth Chamber), composed of T. von Danwitz, President of the Chamber, C. Vajda, E. Juhász (Rapporteur), K. Jürimäe and C. Lycourgos, Judges, Advocate General: P. Mengozzi, Registrar: A. Calot Escobar, having regard to the written procedure, after hearing the Opinion of the Advocate General at the sitting on 28 September 2017,</p>
+      <p>gives the following</p>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_11272">
+          <num>1</num>
+          <content eId="para_11272__content">
+            <p>By its appeal, the European Union Intellectual Property Office (EUIPO) asks the Court to set aside the judgment of the General Court of the European Union of 27 April 2016, European Dynamics Luxembourg and Others v EUIPO ( T‑556/11, EU:T:2016:248) ( `the judgment under appeal'), by which that court:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>annulled EUIPO's decision, notified by letter of 11 August 2011 and adopted in tendering procedure AO/029/10 entitled `Software development and maintenance services' ( `the contract at issue'), rejecting the tender submitted by European Dynamics Luxembourg SA ( `the decision rejecting the tender'), together with the other related decisions of EUIPO adopted in that same procedure, including those awarding the contract to three other tenderers as the tenderers ranked first to third in the cascade procedure (collectively, `the decisions at issue'); and</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>ordered EUIPO to compensate European Dynamics Luxembourg for the damage suffered as a result of the loss of an opportunity to be awarded the framework contract as, at the very least, the third contractor in the cascade procedure.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <paragraph eId="para_11273">
+          <num>2</num>
+          <content eId="para_11273__content">
+            <p>Council Regulation (EC, Euratom) No 1605/2002 of 25 June 2002 on the Financial Regulation applicable to the general budget of the European Communities ( OJ 2002 L 248, p. 1), as amended by Council Regulation (EC, Euratom) No 1995/2006 of 13 December 2006 ( OJ 2006 L 390, p. 1) ( `the Financial Regulation'), sets out the basic rules governing the entire budgetary sphere in matters such as public procurement.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11274">
+          <num>3</num>
+          <content eId="para_11274__content">
+            <p>Pursuant to the first subparagraph of Article 100(2) of the Financial Regulation, the contracting authority is to notify all candidates or tenderers whose applications or tenders are rejected of the grounds on which the decision was taken, and all tenderers whose tenders are admissible and who make a request in writing of the characteristics and relative advantages of the successful tender and the name of the tenderer to whom the contract is awarded. However, the second subparagraph of that provision states that certain details need not be disclosed where disclosure would hinder application of the law, would be contrary to the public interest or would harm the legitimate business interests of public or private undertakings or could distort fair competition between those undertakings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11275">
+          <num>4</num>
+          <content eId="para_11275__content">
+            <p>Article 149 of Commission Regulation (EC, Euratom) No 2342/2002 of 23 December 2002 laying down detailed rules for the implementation of Regulation No 1605/2002 ( OJ 2002 L 357, p. 1), as amended by Commission Regulation (EC, Euratom) No 478/2007 of 23 April 2007 ( OJ 2007 L 111, p. 13) ( `the implementing rules'), sets out the contracting authority's obligations as regards informing candidates and tenderers under Article 100(2) of the Financial Regulation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11276">
+          <num>5</num>
+          <content eId="para_11276__content">
+            <p>Under Article 115(1) and (2) of Council Regulation (EC) No 207/2009 of 26 February 2009 on the European Union trade mark ( OJ 2009 L 78, p. 1), as amended by Regulation (EU) 2015/2424 of the European Parliament and of the Council of 16 December 2015 ( OJ 2015 L 341, p. 21), EUIPO is to be an agency of the Union having legal personality. In each of the Member States, it is to enjoy the most extensive legal capacity accorded to legal persons under their laws. In particular, it may acquire or dispose of movable and immovable property and may be a party to legal proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11277">
+          <num>6</num>
+          <content eId="para_11277__content">
+            <p>Under Article 118(3) and (4) of Regulation No 207/2009, as amended by Regulation 2015/2424, in the case of non-contractual liability, EUIPO, in accordance with the general principles common to the laws of the Member States, is to make good any damage caused by its departments or by its servants in the performance of their duties. The Court is to have jurisdiction in disputes relating to compensation for such damage.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Background to the dispute, the procedure before the General Court and the judgment under appeal</p>
+        </tblock>
+        <paragraph eId="para_11278">
+          <num>7</num>
+          <content eId="para_11278__content">
+            <p>The background to the dispute is set out in paragraphs 1 to 20 of the judgment under appeal.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11279">
+          <num>8</num>
+          <content eId="para_11279__content">
+            <p>Following those events, on 21 October 2011 European Dynamics Luxembourg, European Dynamics Belgium SA and Evropaïki Dynamiki -- Proigmena Systimata Tilepikoinonion Pliroforikis kai Tilematikis AE (collectively, `European Dynamics Luxembourg and Others') brought an action for annulment of the decisions at issue before the General Court, in which they claimed that that Court should:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>annul the decisions at issue; and</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>order EUIPO to pay compensation of EUR 6750000 for the damage suffered by European Dynamics Luxembourg and Others owing to the loss of an opportunity to be awarded the contract at issue.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11280">
+          <num>9</num>
+          <content eId="para_11280__content">
+            <p>In support of their action before the General Court, European Dynamics Luxembourg and Others put forward three pleas in law, alleging</p>
+            <blockList>
+              <item>
+                <num>(i)</num>
+                <p>infringement of the duty to state reasons,</p>
+              </item>
+              <item>
+                <num>(ii)</num>
+                <p>several manifest errors of assessment, and</p>
+              </item>
+              <item>
+                <num>(iii)</num>
+                <p>infringement of the principle of equal treatment.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11281">
+          <num>10</num>
+          <content eId="para_11281__content">
+            <p>Following EUIPO's response to the measures of organisation of procedure and of inquiry of the General Court, European Dynamics Luxembourg and Others raised a new plea in law, alleging that EUIPO had infringed the tender specifications by accepting another tenderer's financial tender even though it contained a variant and a price range.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11282">
+          <num>11</num>
+          <content eId="para_11282__content">
+            <p>In the first place, the General Court examined the third plea in law. First of all, it rejected the assertion that the third successful tenderer in the cascade procedure, namely the Drasis consortium, was subject to a conflict of interests within the meaning of Article 94(a) of the Financial Regulation because it included the company that had drafted the tender specifications. Next, the General Court also rejected the argument that there was a conflict of interests in relation to the Unisys consortium. By contrast, the General Court upheld the third part of the third plea in law, considering that EUIPO had clearly breached its duty of diligence when investigating the existence of the ground for exclusion provided for in point 13.1, first paragraph, subparagraph (e) of the tender specifications and in Article 93(1)(e) of the Financial Regulation. In particular, the General Court considered that EUIPO was not entitled simply to rely on Siemens SA's solemn declaration as evidence that there was no ground for exclusion concerning the Drasis consortium's situation within the meaning of point 13.1, first paragraph, subparagraph (e), of the tender specifications and Article 93(1)(e) of the Financial Regulation. It found that that evidence was even less appropriate for the purposes of demonstrating the absence of that ground for exclusion with respect to Siemens SL, in respect of which EUIPO had neither sought nor produced relevant evidence.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11283">
+          <num>12</num>
+          <content eId="para_11283__content">
+            <p>In the second place, the General Court examined the second plea in law, alleging several manifest errors of assessment, and upheld it in part and rejected it in part. It found, in that context, having established the existence of manifest errors of assessment or inadequate reasoning vitiating the lawfulness of the evaluation of European Dynamics Luxembourg's tender, that those illegalities, by themselves, justified the annulment of the decision rejecting the tender.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11284">
+          <num>13</num>
+          <content eId="para_11284__content">
+            <p>In addition, relying on the comparative table of technical tenders set out in paragraph 14 of the judgment under appeal, the General Court considered that European Dynamics Luxembourg's technical tender had obtained, on the basis of qualitative criteria 1 to 3, after weighting of the net points awarded, the maximum score of 100 gross points, whereas the tenders of the three successful tenderers had obtained only a significantly lower number of gross and net points, some just above the exclusion threshold of 45, 15 and 10 points respectively, for qualitative criteria 1 to 3. Thus, the 87.90 net points awarded to European Dynamics Luxembourg's tender were increased to 100 gross points, whereas the 71.96 net points awarded to the IECI tender were increased to 81.86 gross points, the 70.66 net points awarded to the Unisys tender were increased to 80.38 gross points and the 78.05 net points awarded to the Drasis tender were increased to 88.78 gross points.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11285">
+          <num>14</num>
+          <content eId="para_11285__content">
+            <p>Concerning the new plea in law referred to in paragraph 10 above, alleging infringement of the tender specifications in that EUIPO accepted IECI's financial tender, the General Court rejected that plea as unfounded.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11286">
+          <num>15</num>
+          <content eId="para_11286__content">
+            <p>Regarding the first plea in law, the General Court found that the decision rejecting the tender was vitiated by several shortcomings in the statement of reasons in respect of Article 100(2) of the Financial Regulation, read in conjunction with the second paragraph of Article 296 TFEU, and that it also had to be annulled on that ground.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11287">
+          <num>16</num>
+          <content eId="para_11287__content">
+            <p>In the third and last place, the General Court upheld the claim for damages brought by European Dynamics Luxembourg and Others inasmuch as it concerned compensation for loss of opportunity. Regarding the amount payable by way of compensation, the General Court invited the parties to inform it, within three months from the date of delivery of the judgment under appeal, of the amount to be paid, reached by common agreement, failing which they were to send it a statement of their views with supporting figures within the same period.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Procedure before the Court and forms of order sought</p>
+        </tblock>
+        <paragraph eId="para_11288">
+          <num>17</num>
+          <content eId="para_11288__content">
+            <p>By its appeal, EUIPO claims that the Court should:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>set aside the judgment under appeal in its entirety and dismiss the claim for annulment of the decisions at issue and the claim for damages brought by European Dynamics Luxembourg and Others;</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>in the alternative, set aside the judgment under appeal in its entirety and refer the case back to the General Court;</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>in the further alternative, set aside the judgment under appeal in so far as it orders EUIPO to compensate European Dynamics Luxembourg for the damage suffered as the result of the loss of an opportunity to be awarded the framework contract and refer the case back to the General Court; and</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>order European Dynamics Luxembourg and Others to pay the costs.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11289">
+          <num>18</num>
+          <content eId="para_11289__content">
+            <p>European Dynamics Luxembourg and Others contend that the Court should:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>dismiss the appeal as unfounded; and</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>order EUIPO to pay the costs of the proceedings in their entirety.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The appeal</p>
+        </tblock>
+        <paragraph eId="para_11290">
+          <num>19</num>
+          <content eId="para_11290__content">
+            <p>EUIPO raises four grounds in support of its appeal, alleging that the General Court</p>
+            <blockList>
+              <item>
+                <num>(i)</num>
+                <p>erred in law by ruling ultra petita and misinterpreting and misapplying the principles of equal opportunities and due diligence and, in any event, distorting the facts,</p>
+              </item>
+              <item>
+                <num>(ii)</num>
+                <p>erred in law when interpreting and applying the test relating to manifest errors of assessment,</p>
+              </item>
+              <item>
+                <num>(iii)</num>
+                <p>erred in law when applying Article 100(2) of the Financial Regulation, read in conjunction with the second paragraph of Article 296 TFEU, and</p>
+              </item>
+              <item>
+                <num>(iv)</num>
+                <p>failed to provide an adequate statement of reasons concerning the award of damages for loss of opportunity.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The first ground of appeal</p>
+        </tblock>
+        <tblock>
+          <p>Arguments of the parties</p>
+        </tblock>
+        <paragraph eId="para_11291">
+          <num>20</num>
+          <content eId="para_11291__content">
+            <p>By the first part of the first ground of appeal, EUIPO complains that the General Court ruled ultra petita, in breach of Article 21 of the Statute of the Court of Justice of the European Union and of Article 76 and Article 84(1) of the Rules of Procedure of the General Court. It argues that it is clear from paragraph 63 of the judgment under appeal and from the minutes of the hearing before the General Court that European Dynamics Luxembourg and Others had withdrawn the third part of their third plea in law. As that part was, consequently, no longer disputed by the parties, the General Court should have refrained from examining it. By ruling on that part regardless in paragraphs 64 to 78 of the judgment under appeal, the General Court exceeded its jurisdiction. In the alternative, EUIPO argues that the General Court erred in law in finding that infringing the principles of equal opportunities and diligence could entail annulment of the decisions at issue.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11292">
+          <num>21</num>
+          <content eId="para_11292__content">
+            <p>European Dynamics Luxembourg and Others contend that they did not withdraw the third part of their third plea in law before the General Court. More specifically, those parties emphasise that they abandoned their argument concerning the possible involvement of Siemens AG in the illegal activities of Siemens SA and Siemens SL, members of the Drasis consortium, `on the sole ground that they were initially indirectly controlled by Siemens AG before being acquired, on 1 July 2011, by Atos SA, as a result of the acquisition by the latter of 100% of shares of the company controlling them directly', as was stated by the General Court in paragraph 63 of the judgment under appeal. The only argument withdrawn by European Dynamics Luxembourg and Others was that relating to the structural links between the companies participating in the Drasis consortium and their parent company, namely Siemens AG. Accordingly, the other arguments invoked in support of that plea in law were maintained, including those relating to EUIPO's obligation to comply with the rules set out in the Financial Regulation and the tender specifications and to the infringement of the principle of equal treatment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11293">
+          <num>22</num>
+          <content eId="para_11293__content">
+            <p>By the second part of the first ground of appeal, EUIPO complains that the General Court, in paragraph 76 of the judgment under appeal, considered that EUIPO `had neither sought nor produced relevant evidence' to show that there were no grounds for excluding Siemens SL for fraud or corruption. Indeed, it is apparent from Annex 4 to the appeal that, pursuant to Article 93(2) of the Financial Regulation, EUIPO had asked tenderers to declare that they were not in one of the exclusion situations listed in Article 93(1) of that regulation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11294">
+          <num>23</num>
+          <content eId="para_11294__content">
+            <p>European Dynamics Luxembourg and Others contend that EUIPO is misreading the judgment under appeal in that regard and consider that the General Court correctly dealt with the evidence in question in the context of this second part of the first ground of appeal.</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>Findings of the Court</p>
+        </tblock>
+        <paragraph eId="para_11295">
+          <num>24</num>
+          <content eId="para_11295__content">
+            <p>By the first part of its first ground of appeal, EUIPO complains, in essence, that the General Court ruled ultra petita following its examination of the third part of the third plea in law of the application at first instance, alleging that the Drasis consortium was involved in illegal activities.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11296">
+          <num>25</num>
+          <content eId="para_11296__content">
+            <p>In that regard, in paragraph 63 of the judgment under appeal, the General Court stated that, `at the hearing, following an oral question from the Court ..., [European Dynamics Luxembourg and Others] withdrew their argument that the possible involvement of Siemens AG ... in illegal activities was attributable to Siemens SA and Siemens SL, members of the Drasis consortium, on the sole ground that they were initially indirectly controlled by Siemens AG before being acquired, on 1 July 2011, by Atos SA, as a result of the acquisition by the latter of 100% of shares of the company controlling them directly, Siemens IT Solutions and Services GmbH, as is apparent from the documents produced by EUIPO following the order for measures of inquiry of 27 March 2015 .... That withdrawal was noted in the minutes of the hearing'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11297">
+          <num>26</num>
+          <content eId="para_11297__content">
+            <p>In this connection, it is expressly stated in those minutes that European Dynamics Luxembourg and Others are withdrawing their argument based on instances of fraud and corruption that may be indirectly attributed to Siemens SA and Siemens SL.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11298">
+          <num>27</num>
+          <content eId="para_11298__content">
+            <p>Nevertheless, in their response in the context of the present appeal, European Dynamics Luxembourg and Others contend that that withdrawal was not comprehensive and `was related only to the structural links of the companies that participated in the [Drasis] consortium with the parent company (Siemens AG)'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11299">
+          <num>28</num>
+          <content eId="para_11299__content">
+            <p>However, as is apparent from paragraph 61 of the judgment under appeal, the argument put forward by European Dynamics Luxembourg and Others concerned the involvement of `Siemens' in illegal activities justifying the exclusion of that company, as a member of the Drasis consortium, from the tendering procedure under Articles 93 and 94 of the Financial Regulation and Articles 133a and 134b of the implementing rules, an argument which those parties have clearly withdrawn. Nevertheless, when the General Court examined whether EUIPO had analysed the Drasis consortium's tender with due diligence, it relied on the structural links between Siemens AG and its two subsidiaries Siemens SA and Siemens SL.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11300">
+          <num>29</num>
+          <content eId="para_11300__content">
+            <p>Paragraph 64 of the judgment under appeal, by which the General Court begins the examination, which it ends in paragraph 78 of that judgment, of the question whether the consortium Drasis should have been excluded, is worded as follows: `... in view of the structural links that existed with Siemens AG before 1 July 2011, the question arises whether, in the present case, the contracting authority checked with the requisite diligence whether Siemens SA and Siemens SL, and, accordingly, the Drasis consortium, should have been subject to the grounds for exclusion referred to in Article 93(1)(b) and (e) of the ... Financial Regulation, read in conjunction with point 13.1, third and fourth paragraphs, of the tender specifications ...'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11301">
+          <num>30</num>
+          <content eId="para_11301__content">
+            <p>In addition, in paragraph 77 of the judgment under appeal, the General Court again relied on the existence of those structural links in order to conclude that EUIPO had clearly breached its duty of diligence.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11302">
+          <num>31</num>
+          <content eId="para_11302__content">
+            <p>It therefore appears that the General Court examined whether there were grounds for exclusion with respect to the Drasis consortium having specific regard to the structural links between Siemens SA and Siemens SL and their parent company.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11303">
+          <num>32</num>
+          <content eId="para_11303__content">
+            <p>Accordingly, the line of argument put forward by European Dynamics Luxembourg and Others that their withdrawal was only partial and concerned only the existence of such structural links cannot succeed. Given that the abovementioned grounds of the judgment under appeal have not been contested by any of the parties and are not the subject of a cross-appeal, they must be considered definitive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11304">
+          <num>33</num>
+          <content eId="para_11304__content">
+            <p>It follows from the rules governing the procedure before the Courts of the European Union, in particular Article 21 of the Statute of the Court of Justice of the European Union and Article 76 and Article 84(1) of the Rules of Procedure of the General Court, that the dispute is in principle determined and circumscribed by the parties and that the Courts of the European Union may not rule ultra petita(judgment of 3 July 2014, Electrabel v Commission, C‑84/13 P, not published, EU:C:2014:2040, paragraph 49 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11305">
+          <num>34</num>
+          <content eId="para_11305__content">
+            <p>Therefore, in view of European Dynamics Luxembourg and Others' withdrawal as referred to in paragraphs 25 and 26 above, the General Court no longer had jurisdiction to rule on whether Articles 93 and 94 of the Financial Regulation and Articles 133a and 134b of the implementing rules had been infringed, so that the decision of the General Court in paragraph 77 of the judgment under appeal that EUIPO had clearly breached its duty of diligence when investigating the existence, in particular, of the ground for exclusion provided for in point 13.1, first paragraph, subparagraph (e) of the tender specifications and in Article 93(1)(e) of the Financial Regulation, is vitiated by an error of law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11306">
+          <num>35</num>
+          <content eId="para_11306__content">
+            <p>As regards the question whether, in those circumstances, the plea alleging infringement of those provisions constitutes, as European Dynamics Luxembourg and Others seem to be asserting, a matter of public policy which must be examined by the Courts of the European Union of their own motion, it should be noted that, while it is true that those provisions are of some importance as regards compliance with the law on EU public procurement, their infringement nevertheless does not satisfy the conditions laid down by the Court for classification as an infringement of essential procedural requirements (see, in particular, judgment of 4 April 2017, Ombudsman v Staelen, C‑337/15 P, EU:C:2017:256, paragraph 85 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11307">
+          <num>36</num>
+          <content eId="para_11307__content">
+            <p>It follows that the first part of the first ground of appeal must be upheld.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11308">
+          <num>37</num>
+          <content eId="para_11308__content">
+            <p>In view of the conclusion set out in the preceding paragraph, the second part of the first ground of appeal is no longer relevant and there is thus no need to examine it.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The second ground of appeal</p>
+        </tblock>
+        <tblock>
+          <p>Arguments of the parties</p>
+        </tblock>
+        <paragraph eId="para_11309">
+          <num>38</num>
+          <content eId="para_11309__content">
+            <p>By the first part of its second ground of appeal, EUIPO complains that the General Court erred in law by failing to examine whether the alleged manifest errors of assessment made by EUIPO in its capacity as contracting authority had had any effect on the final outcome of the procurement procedure for the contract at issue.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11310">
+          <num>39</num>
+          <content eId="para_11310__content">
+            <p>EUIPO considers that the mere fact that it allegedly made errors of assessment concerning several sub-criteria of technical award criteria 1 and 2 and several sub-criteria of award criterion 3 cannot in itself be considered sufficient reason to annul the decision rejecting the tender. It argues that the General Court, contrary to the requirements of the case-law of the Court in that regard, did not examine whether those errors of assessment had had a concrete effect on the final outcome of that decision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11311">
+          <num>40</num>
+          <content eId="para_11311__content">
+            <p>The settled case-law of the General Court confirms that, if the score for a given award criterion is not based on one single comment but on several comments which are not contested, the General Court should examine whether those other comments are still sufficient to support the score given by the contracting authority for that award criterion.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11312">
+          <num>41</num>
+          <content eId="para_11312__content">
+            <p>In the present case, the scores for technical award criteria 1 to 3 were based, not on one single comment but on several negative and positive comments which the General Court either considered not to be vitiated by a manifest error of assessment or did not examine at all, inasmuch as they too were not contested in the action brought by European Dynamics Luxembourg and Others. Accordingly, the General Court should have examined whether those other comments were still sufficient to justify the score given by the contracting authority for the award criterion concerned, and the fact that the General Court did not do so is in itself sufficient reason to set aside the judgment under appeal.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11313">
+          <num>42</num>
+          <content eId="para_11313__content">
+            <p>By the second part of its second ground of appeal, EUIPO complains that, when examining the decision rejecting the tender, the General Court erred in law in its choice of the test for identifying manifest errors of assessment and distorted certain facts.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11314">
+          <num>43</num>
+          <content eId="para_11314__content">
+            <p>First, the General Court carried out too extensive a review of the decision rejecting the tender, in view of the contracting authority's discretion in matters of public procurement; second, the General Court substituted its own assessment for EUIPO's assessment of the facts, distorting those facts in order to find that there were manifest errors of assessment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11315">
+          <num>44</num>
+          <content eId="para_11315__content">
+            <p>European Dynamics Luxembourg and Others contend that the second ground of appeal must be rejected.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Findings of the Court</p>
+        </tblock>
+        <paragraph eId="para_11316">
+          <num>45</num>
+          <content eId="para_11316__content">
+            <p>Regarding the first part of the second ground raised by EUIPO in support of the present appeal, it should be noted that, in paragraphs 226 to 229 of the judgment under appeal, the General Court, in an intermediate conclusion concerning the second plea in law raised before it, set out the reasons why it considered that the manifest errors of assessment established were likely to have had an effect on the tendering procedure in question and, consequently, justified annulment of the decision rejecting the tender.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11317">
+          <num>46</num>
+          <content eId="para_11317__content">
+            <p>It is true that the General Court did not specifically verify the effect that each of those errors was likely to have had on the outcome of the procedure. However, review by the Courts of the European Union does not, in principle, mean that those Courts are obliged to verify that a manifest error of assessment concerning the evaluation of a tender has had no effect on the ranking of that tender and, hence, ultimately, on the award decision, when the contracting authority has not provided any details as to that lack of effect.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11318">
+          <num>47</num>
+          <content eId="para_11318__content">
+            <p>Indeed, it is for the person bringing the appeal to explain how, and establish that, the decision rejecting the tender could not have been more favourable to European Dynamics Luxembourg and Others even if those errors had not been made (see, by analogy, judgment of 20 December 2017, EUIPO v European Dynamics Luxembourg and Others, C‑677/15 P, EU:C:2017:998, paragraphs 52 and 53). EUIPO has not adduced the necessary evidence in that regard.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11319">
+          <num>48</num>
+          <content eId="para_11319__content">
+            <p>Consequently, the first part of EUIPO's second ground of appeal must be rejected.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11320">
+          <num>49</num>
+          <content eId="para_11320__content">
+            <p>Concerning the second part of EUIPO's second ground of appeal, it should be borne in mind that the General Court found, in paragraphs 104, 109, 115, 122, 134, 138 and 139, 144, 148, 157 to 159, 166, 186, 188, 193 and 194, 206 and 207 of the judgment under appeal, that EUIPO made manifest errors of assessment vitiating the legality of the evaluation of European Dynamics Luxembourg's tender. In paragraphs 225 to 229 of the judgment under appeal, the General Court concluded that, on that basis, it was necessary to annul the decision rejecting the tender.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11321">
+          <num>50</num>
+          <content eId="para_11321__content">
+            <p>Although, in its appeal, EUIPO has criticised nearly all the findings made by the General Court in relation to those manifest errors of assessment, it has not contested the grounds set out in paragraphs 160 to 168, in particular, paragraph 166, of the judgment under appeal in support of the General Court's decision to uphold the ninth complaint raised by European Dynamics Luxembourg and Others in support of the first part of the second plea in law of their action for annulment, alleging that EUIPO had made a manifest error of assessment in its evaluation of criterion 1, sub-criterion 1.4, point 1.4.4.10, of the tender specifications.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11322">
+          <num>51</num>
+          <content eId="para_11322__content">
+            <p>On the one hand, the General Court did not make any distinction between the various manifest errors of assessment established in paragraphs 88 to 214 of the judgment under appeal and, on the other, EUIPO does not explain how, and establish that, in the present case, the finding relating to the existence of a manifest error of assessment in the context of its evaluation of criterion 1, sub-criterion 1.4, point 1.4.4.10, of the tender specifications would not form part of the justification, in the same way as each of the other findings of a manifest error of assessment, taken individually, for annulling the decision rejecting the tender referred to in paragraph 226 of the judgment under appeal.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11323">
+          <num>52</num>
+          <content eId="para_11323__content">
+            <p>In those circumstances, even assuming that it must be considered, as EUIPO maintains, that all the findings relating to the manifest errors of assessment contested by EUIPO in the present appeal are vitiated by errors of law, such a finding is not capable, in any event, of leading to the setting aside of that decision of the General Court, so that it is necessary to reject the second part of the second ground of appeal as ineffective (see, by analogy, order of 11 February 2015, Orange v Commission, C‑621/13 P, not published, EU:C:2015:114, paragraphs 44 and 45 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The third ground of appeal</p>
+        </tblock>
+        <tblock>
+          <p>Arguments of the parties</p>
+        </tblock>
+        <paragraph eId="para_11324">
+          <num>53</num>
+          <content eId="para_11324__content">
+            <p>By its third ground of appeal, EUIPO contests the analysis carried out by the General Court in paragraphs 250 to 254 of the judgment under appeal and the ground set out therein stating that the decision rejecting the tender was vitiated by several shortcomings in the statement of reasons within the meaning of Article 100(2) of the Financial Regulation, read in conjunction with the second paragraph of Article 296 TFEU, so far as the correlation between the specific negative assessments set out in the evaluation report and the deductions of net points carried out by the contracting authority is concerned.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11325">
+          <num>54</num>
+          <content eId="para_11325__content">
+            <p>According to EUIPO, Article 100(2) of the Financial Regulation imposes no legal obligation to give a detailed overview of all the negative comments which were taken into consideration in evaluating the tender of an unsuccessful tenderer. A fortiori, that provision contains no legal obligation to attach a deduction of points to every negative comment and to give a detailed explanation of how many points were in fact deducted on the basis of that comment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11326">
+          <num>55</num>
+          <content eId="para_11326__content">
+            <p>European Dynamics Luxembourg and Others contend that disclosure of the breakdown of the points evaluated was necessary, given that it was impossible for the General Court to exercise its power of review without having information about the points allocated to the specific qualitative criteria, sub-criteria and sub-points. Accordingly, by demanding that EUIPO produce the breakdown of those points, the General Court in no way applied a test stricter than that resulting from applying the provisions of the Financial Regulation, as interpreted by the case-law of the Court.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Findings of the Court</p>
+        </tblock>
+        <paragraph eId="para_11327">
+          <num>56</num>
+          <content eId="para_11327__content">
+            <p>It should first of all be borne in mind that, under the first subparagraph of Article 100(2) of the Financial Regulation, the contracting authority is to notify all candidates or tenderers whose applications or tenders are rejected of the grounds on which the decision was taken, and all tenderers whose tenders are admissible and who make a request in writing of the characteristics and relative advantages of the successful tender and the name of the tenderer to whom the contract is awarded.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11328">
+          <num>57</num>
+          <content eId="para_11328__content">
+            <p>However, it is apparent from the case-law of the Court that the contracting authority cannot be required to communicate to an unsuccessful tenderer, first, in addition to the reasons for rejecting its tender, a detailed summary of how each detail of its tender was taken into account when the tender was evaluated and, second, in the context of notification of the characteristics and relative advantages of the successful tender, a detailed comparative analysis of the successful tender and of the unsuccessful tender (judgment of 4 October 2012, Evropaïki Dynamiki v Commission, C‑629/11 P, not published, EU:C:2012:617, paragraph 21 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11329">
+          <num>58</num>
+          <content eId="para_11329__content">
+            <p>Similarly, the contracting authority is not obliged to provide an unsuccessful tenderer, upon written request from that tenderer, with a full copy of the evaluation report (judgment of 4 October 2012, Evropaïki Dynamiki v Commission, C‑629/11 P, not published, EU:C:2012:617, paragraph 22 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11330">
+          <num>59</num>
+          <content eId="para_11330__content">
+            <p>In addition, it should be borne in mind that, according to the settled case-law of the Court, the statement of reasons required under the second paragraph of Article 296 TFEU must be assessed in the light of the circumstances of each case, in particular the content of the measure in question and the nature of the reasons given (judgment of 4 October 2012, Evropaïki Dynamiki v Commission, C‑629/11 P, not published, EU:C:2012:617, paragraph 23 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11331">
+          <num>60</num>
+          <content eId="para_11331__content">
+            <p>In the present case, it is common ground that, in three letters dated 11 August, 26 August and 15 September 2011 respectively, EUIPO provided European Dynamics Luxembourg and Others with an extract from the evaluation report comprising the qualitative evaluation of their tender, the names of the three successful tenderers, and three tables setting out the scores which those three successful tenderers and European Dynamics Luxembourg and Others had obtained, more specifically, a comparative table of the technical tenders, a comparative table of the tenders from the perspective of their economically advantageous nature, and a comparative table concerning the financial criteria.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11332">
+          <num>61</num>
+          <content eId="para_11332__content">
+            <p>As was noted by the Advocate General in point 39 of his Opinion, those tables enabled European Dynamics Luxembourg and Others to have an overall view of the points awarded to their tender and to those of the successful tenderers in relation to both the qualitative criteria and the financial criteria, and of their effect on the final overall score.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11333">
+          <num>62</num>
+          <content eId="para_11333__content">
+            <p>Nevertheless, European Dynamics Luxembourg and Others maintain that being provided with those documents did not enable them to assess EUIPO's evaluation of their tender with the degree of precision required by the case-law of the Court.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11334">
+          <num>63</num>
+          <content eId="para_11334__content">
+            <p>In that regard, it should be noted that the case-law cited in paragraphs 57 to 59 above does not, in principle, require a specific weighting to be attached to every negative or positive comment in the evaluation. That being said, in a situation where the procurement documents contain specific quantified weightings attached to criteria or sub-criteria, the principle of transparency requires a quantified evaluation to be given in respect of those criteria or sub-criteria.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11335">
+          <num>64</num>
+          <content eId="para_11335__content">
+            <p>In this connection, it is apparent from the procurement documents in question that, in the present case, the tender specifications provided for a weighting by which 65 out of 100 points were allocated to qualitative criterion 1, of which 10 points were allocated to each of the sub-criteria 1.1 to 1.5 and 15 points were allocated to sub-criterion 1.6, 20 points were allocated to qualitative criterion 2, and 15 points were allocated to qualitative criterion 3.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11336">
+          <num>65</num>
+          <content eId="para_11336__content">
+            <p>It is also common ground that, first, the evaluation committee had applied a mathematical formula or had awarded fractions of points in respect of sub-criteria or sub-points and that the evaluation report contained specific negative assessments in that regard which had given rise to specific deductions of points, and, second, EUIPO did not disclose the number of points, together with a breakdown by sub-criteria, obtained by European Dynamics Luxembourg and by the successful tenderers.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11337">
+          <num>66</num>
+          <content eId="para_11337__content">
+            <p>In those circumstances, as was noted by the Advocate General in point 42 of his Opinion, it was impossible for European Dynamics Luxembourg and Others or the General Court either to understand the respective weightings of those sub-criteria in the evaluation, that is to say, in the determination of the total score, or to establish a correlation between the specific negative comments and the deductions of points which had had an impact on that total score.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11338">
+          <num>67</num>
+          <content eId="para_11338__content">
+            <p>Accordingly, the General Court was fully entitled to find, in paragraph 254 of the judgment under appeal, that EUIPO had not entirely met the requirements concerning the obligation to state the reasons for the outcome of the evaluation of the tender submitted by European Dynamics Luxembourg.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11339">
+          <num>68</num>
+          <content eId="para_11339__content">
+            <p>It follows that the third ground of appeal must be rejected.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The fourth ground of appeal</p>
+        </tblock>
+        <tblock>
+          <p>Arguments of the parties</p>
+        </tblock>
+        <paragraph eId="para_11340">
+          <num>69</num>
+          <content eId="para_11340__content">
+            <p>By its fourth ground of appeal, EUIPO complains that the General Court awarded European Dynamics Luxembourg damages on an inadequate legal basis, namely the loss of an opportunity to obtain the contract at issue.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11341">
+          <num>70</num>
+          <content eId="para_11341__content">
+            <p>The first error in law alleged consists in the conclusion reached by the General Court in paragraph 265 of the judgment under appeal that the unlawfulness of EUIPO's conduct was established. Without such unlawfulness, according to EUIPO, the award of damages to European Dynamics Luxembourg must, in accordance with the case-law of the Court, be set aside, in so far as one of the cumulative conditions giving rise to such an award, namely the existence of unlawful conduct, was not satisfied.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11342">
+          <num>71</num>
+          <content eId="para_11342__content">
+            <p>The second way in which the General Court erred in law was by failing to show that the award of damages on the basis of the loss of an opportunity in the sphere of public procurement is a principle of EU law or a principle common to the Member States, thereby disregarding the requirements stemming from Article 340 TFEU. In that regard, EUIPO notes that several Member States do not provide for the possibility of awarding damages solely on the basis of the loss of an opportunity to obtain a contract, including the Kingdom of Denmark, the Federal Republic of Germany, and Romania, where damages for loss of opportunity are limited to the costs incurred in preparing the tender.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11343">
+          <num>72</num>
+          <content eId="para_11343__content">
+            <p>In the alternative, EUIPO submits that, even if the Court were to set aside the judgment under appeal only in part, it should in any event set aside the award of damages. Were the Court to consider, like the General Court, that there were sufficient reasons to annul the decision rejecting the tender, this would not be sufficient to justify the award of damages, in so far as there is no causal link between the unlawful conduct and the damage claimed.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11344">
+          <num>73</num>
+          <content eId="para_11344__content">
+            <p>European Dynamics Luxembourg and Others contend that the legal basis for the principle of compensation for damage suffered due to loss of opportunity is the right to effective judicial protection stemming from Article 47 of the Charter of Fundamental Rights of the European Union. While acknowledging that the lost chance doctrine is expressed in particular ways in numerous Member States, in particular where the loss of opportunity is the result of unlawful actions preventing a tenderer from receiving a fair evaluation of its tender, European Dynamics Luxembourg and Others consider that those differences concern only the way in which compensation for the economic damage resulting from the loss of opportunity is calculated and not the legal basis for the principle itself.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11345">
+          <num>74</num>
+          <content eId="para_11345__content">
+            <p>Furthermore, European Dynamics Luxembourg and Others argue that, under Directive 2007/66/EC of the European Parliament and of the Council of 11 December 2007 amending Council Directives 89/665/EEC and 92/13/EEC with regard to improving the effectiveness of review procedures concerning the award of public contracts ( OJ 2007 L 335, p. 31), the award of damages is an appropriate means of providing compensation for damage suffered by an unsuccessful tenderer due to loss of opportunity. Therefore, the General Court was not required to demonstrate the existence of a protection mechanism common to the Member States, especially as it had already acknowledged that the loss of opportunity suffered by an unsuccessful tenderer constitutes actual and certain damage. Nor, in those circumstances, can the causal link between the unlawful conduct complained of and the damage suffered by European Dynamics Luxembourg be denied on the grounds that the contracting authority had broad discretion.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Findings of the Court</p>
+        </tblock>
+        <paragraph eId="para_11346">
+          <num>75</num>
+          <content eId="para_11346__content">
+            <p>It is necessary to begin by examining the argument raised by EUIPO in the alternative in its fourth ground of appeal.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11347">
+          <num>76</num>
+          <content eId="para_11347__content">
+            <p>By that argument, EUIPO is asserting, in essence, that the existence of a causal link between the manifest errors of assessment established by the General Court in respect of the first award criterion, namely the qualitative criteria, and the damage suffered by European Dynamics Luxembourg resulting from the loss of an opportunity to be awarded the contract at issue was neither demonstrated nor reasoned in the judgment under appeal.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11348">
+          <num>77</num>
+          <content eId="para_11348__content">
+            <p>That argument must be considered well founded in the particular circumstances of the present case.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11349">
+          <num>78</num>
+          <content eId="para_11349__content">
+            <p>First, as has been established in paragraph 34 above, paragraph 77 of the judgment under appeal is vitiated by an error of law, so that the General Court could not reasonably decide, on the basis of those considerations, that the decision rejecting the tender was unlawful.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11350">
+          <num>79</num>
+          <content eId="para_11350__content">
+            <p>Second, the General Court found, in paragraph 267 of the judgment under appeal, that it was not possible to accept that there was a causal link between the shortcomings that it had identified in the statement of reasons and the damage alleged by European Dynamics Luxembourg and Others.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11351">
+          <num>80</num>
+          <content eId="para_11351__content">
+            <p>In addition, in order for the European Union to incur liability, there would have had to be a causal link between the substantive irregularity vitiating the evaluation of European Dynamics Luxembourg's tender, established during the examination of the second plea in law raised before the General Court, and the alleged loss of opportunity.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11352">
+          <num>81</num>
+          <content eId="para_11352__content">
+            <p>However, in the judgment under appeal, the General Court did not establish the existence of such a causal link to the requisite legal standard. In particular, the General Court failed to ascertain whether and to what extent, in the light of the facts of the case and if EUIPO had made no errors, European Dynamics Luxembourg would have been awarded a better ranking in the cascade procedure.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11353">
+          <num>82</num>
+          <content eId="para_11353__content">
+            <p>It follows that, one of the conditions necessary for the European Union to incur non-contractual liability not having been satisfied, the General Court should not have upheld the claim for damages brought by European Dynamics Luxembourg and Others.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11354">
+          <num>83</num>
+          <content eId="para_11354__content">
+            <p>Consequently, EUIPO's fourth ground of appeal is well founded.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The partial setting aside of the judgment under appeal</p>
+        </tblock>
+        <paragraph eId="para_11355">
+          <num>84</num>
+          <content eId="para_11355__content">
+            <p>It follows from all of the foregoing that paragraph 77 of the judgment under appeal is vitiated by an error of law, in so far as the General Court upheld the third part of the third plea in law of the action at first instance, relating to the non-exclusion of the Drasis consortium.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11356">
+          <num>85</num>
+          <content eId="para_11356__content">
+            <p>As is apparent from paragraph 260 of the judgment under appeal, the General Court justified annulment of the decisions at issue, set out in point 1 of the operative part of that judgment, on the basis of all the irregularities affecting the decision rejecting the tender, thereby upholding the first, second and third pleas in law raised before it. Nevertheless, even if the General Court's decision in paragraph 77 of the judgment under appeal cannot be used to justify the annulment of the decision rejecting the tender, the irregularities established by the General Court in paragraphs 104, 109, 115, 122, 134, 138 and 139, 144, 148, 157 to 159, 166, 186, 188, 193 and 194, 206 and 207 of the judgment under appeal are sufficient to justify the annulment of that decision by the General Court. It follows that there is no need to set aside point 1 of the operative part of the judgment under appeal.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11357">
+          <num>86</num>
+          <content eId="para_11357__content">
+            <p>By contrast, it is necessary to set aside point 2 of the operative part of the judgment under appeal, ordering EUIPO to compensate European Dynamics Luxembourg for the damage suffered as a result of the loss of an opportunity to be awarded the contract at issue as, at the very least, the third contractor in the cascade procedure.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11358">
+          <num>87</num>
+          <content eId="para_11358__content">
+            <p>In view of that setting aside of point 2 of the operative part of the judgment under appeal, points 3 and 4 of the operative part of that judgment, concerning how the amount of compensation is to be determined, must also be set aside.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11359">
+          <num>88</num>
+          <content eId="para_11359__content">
+            <p>In those circumstances, point 5 of the operative part of the judgment under appeal, concerning the costs, must also be set aside.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The action before the General Court</p>
+        </tblock>
+        <paragraph eId="para_11360">
+          <num>89</num>
+          <content eId="para_11360__content">
+            <p>According to the second sentence of the first paragraph of Article 61 of the Statute of the Court of Justice of the European Union, the Court may, in the event that the decision of the General Court has been quashed, give final judgment in the matter, where the state of the proceedings so permits.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11361">
+          <num>90</num>
+          <content eId="para_11361__content">
+            <p>This is the situation in the present case. It is therefore necessary to examine the claim for damages brought by European Dynamics Luxembourg and Others in the context of that action, seeking compensation for the damage they claim to have suffered due to European Dynamics Luxembourg's loss of an opportunity to be awarded the framework contract as, at the very least, the third contractor according to the cascade mechanism.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11362">
+          <num>91</num>
+          <content eId="para_11362__content">
+            <p>It should be borne in mind from the outset that, according to the settled case-law of the Court, for EUIPO to be non-contractually liable, a set of cumulative conditions must be satisfied, namely, the unlawfulness of its conduct, the fact of damage and the existence of a causal link between the alleged conduct and the damage complained of (see, to that effect, judgment of 10 July 2014, Nikolaou v Court of Auditors, C‑220/13 P, EU:C:2014:2057, paragraph 52 and the case-law cited). Similarly, it is apparent from the case-law of the Court that, in order for the non-contractual liability of the European Union to be capable of being established, the damage must be actual and certain and must flow sufficiently directly from the unlawful conduct of the institutions (judgment of 30 May 2017, Safa Nicu Sepahan v Council, C‑45/15 P, EU:C:2017:402, paragraph 61 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11363">
+          <num>92</num>
+          <content eId="para_11363__content">
+            <p>In all circumstances, according to the Court's established case-law, it is the party seeking to establish the European Union's non-contractual liability that must adduce conclusive proof as to the existence and extent of the damage it alleges and as to the existence of a sufficiently direct causal nexus between the conduct of the institution concerned and the damage alleged (judgment of 20 December 2017, EUIPO v European Dynamics Luxembourg and Others, C‑677/15 P, EU:C:2017:998, paragraph 100 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11364">
+          <num>93</num>
+          <content eId="para_11364__content">
+            <p>In that regard, it must be found that it is clear from reading the application submitted by European Dynamics Luxembourg and Others before the General Court that that application does not meet the requirements set by that case-law.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11365">
+          <num>94</num>
+          <content eId="para_11365__content">
+            <p>It should be noted that, while it is true that European Dynamics Luxembourg and Others have claimed that the proper application of the tendering procedure would have resulted in a better ranking for the tender submitted by European Dynamics Luxembourg and that, accordingly, that party would have been awarded one of the framework contracts, they have nevertheless not established whether and to what extent, in the light of the facts of the case and if EUIPO had made no errors, European Dynamics Luxembourg would have been ranked first or would have obtained the contract at issue.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11366">
+          <num>95</num>
+          <content eId="para_11366__content">
+            <p>Similarly, regarding the causal link between the errors made by the evaluation committee and the damage allegedly suffered, European Dynamics Luxembourg and Others have confined themselves merely to asserting that there was such a link, without however specifying what that link consisted of.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11367">
+          <num>96</num>
+          <content eId="para_11367__content">
+            <p>Therefore, European Dynamics Luxembourg and Others have not established actual damage, nor have they established a causal link between that damage and EUIPO's conduct.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11368">
+          <num>97</num>
+          <content eId="para_11368__content">
+            <p>In those circumstances, the claim for damages brought by European Dynamics Luxembourg and Others must be rejected.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_11369">
+          <num>98</num>
+          <content eId="para_11369__content">
+            <p>Under Article 184(2) of the Rules of Procedure of the Court of Justice, where the appeal is unfounded or where the appeal is well founded and the Court itself gives final judgment in the case, the Court is to make a decision as to the costs.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11370">
+          <num>99</num>
+          <content eId="para_11370__content">
+            <p>Under Article 138(1) of those rules, applicable to appeal proceedings by virtue of Article 184(1) thereof, the unsuccessful party is to be ordered to pay the costs if they have been applied for in the successful party's pleadings. Pursuant to Article 138(3) of those rules, where each party succeeds on some and fails on other heads, the parties are to bear their own costs.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11371">
+          <num>100</num>
+          <content eId="para_11371__content">
+            <p>As EUIPO's appeal has been only partially successful, EUIPO and European Dynamics Luxembourg and Others are to be ordered to bear their own costs in relation to the present appeal.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11372">
+          <num>101</num>
+          <content eId="para_11372__content">
+            <p>With regard to the costs of the proceedings at first instance, as the action has been upheld in part and dismissed in part, European Dynamics Luxembourg and Others and EUIPO are to be ordered to bear their own costs. On those grounds, the Court (Fourth Chamber) hereby: 1. Sets aside points 2 to 5 of the operative part of the judgment of the General Court of the European Union of 27 April 2016, European Dynamics Luxembourg and Others v EUIPO (T‑556/11,EU:T:2016:248); 2. Dismisses the appeal as to the remainder; 3. Dismisses the claim for damages brought by European Dynamics Luxembourg SA, European Dynamics Belgium SA and Evropaïki Dynamiki -- Proigmena Systimata Tilepikoinonion Pliroforikis kai Tilematikis AE in Case T‑556/11; 4. Orders the European Union Intellectual Property Office (EUIPO), European Dynamics Luxembourg SA, European Dynamics Belgium SA and Evropaïki Dynamiki -- Proigmena Systimata Tilepikoinonion Pliroforikis kai Tilematikis AE to bear their own costs in relation to both the appeal proceedings and the proceedings at first instance.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>von Danwitz Vajda Juhász Jürimäe Lycourgos Delivered in open court in Luxembourg on 3 May 2018. A. Calot Escobar Registrar T. von Danwitz President of the Fourth Chamber( *1)Language of the case: English.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

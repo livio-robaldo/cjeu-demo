@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Grand Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>24 April 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Asylum policy -- Charter of Fundamental Rights of the European Union -- Article 4 -- Directive 2004/83/EC -- Article 2(e) -- Eligibility for subsidiary protection -- Article 15(b) -- Risk of serious harm to the psychological health of the applicant if returned to the country of origin -- Person who has been tortured in the country of origin) In Case C‑353/16, REQUEST for a preliminary ruling under Article 267 TFEU from the Supreme Court of the United Kingdom, made by decision of 22 June 2016, received at the Court on 27 June 2016, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">MP</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#">Secretary of State for the Home Department</party>
+      </p>
+      <p>, THE COURT (Grand Chamber), composed of K. Lenaerts, President, A. Tizzano, Vice-President, R. Silva de Lapuerta, T. von Danwitz, J.L. da Cruz Vilaça, E. Levits and C. Vajda, Presidents of Chambers, E. Juhász, A. Borg Barthet, M. Berger, K. Jürimäe, C. Lycourgos (Rapporteur) and M. Vilaras, Judges, Advocate General: Y. Bot, Registrar: L. Hewlett, Principal Administrator, having regard to the written procedure and further to the hearing on 12 September 2017, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>MP, by A. Mackenzie and T. Tridimas, Barristers, A. Gananathan, Solicitor, and R. Husain QC,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the United Kingdom Government, by S. Brandon, acting as Agent, and B. Lask, Barrister,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by M. Condou-Durande and M. Wilderspin, acting as Agents. after hearing the Opinion of the Advocate General at the sitting on 24 October 2017,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_10855">
+          <num>1</num>
+          <content eId="para_10855__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Articles 2(e) and 15(b) of Council Directive 2004/83/EC of 29 April 2004 on minimum standards for the qualification and status of third country nationals or stateless persons as refugees or as persons who otherwise need international protection and the content of the protection granted ( OJ 2004 L 304, p. 12).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10856">
+          <num>2</num>
+          <content eId="para_10856__content">
+            <p>The request has been made in proceedings between MP and the Secretary of State for the Home Department concerning the rejection of MP's asylum application.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>International law</p>
+        </tblock>
+        <tblock>
+          <p>The European Convention for the Protection of Human Rights and Fundamental Freedoms</p>
+        </tblock>
+        <paragraph eId="para_10857">
+          <num>3</num>
+          <content eId="para_10857__content">
+            <p>Article 3 of the European Convention for the Protection of Human Rights and Fundamental Freedoms, signed in Rome on 4 November 1950 ( `the ECHR'), provides: `No one shall be subjected to torture or to inhuman or degrading treatment or punishment.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment</p>
+        </tblock>
+        <paragraph eId="para_10858">
+          <num>4</num>
+          <content eId="para_10858__content">
+            <p>According to its sixth recital, the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment, concluded in New York on 10 December 1984 ( `the Convention against Torture'), aims `to make more effective the struggle against torture and other cruel, inhuman or degrading treatment or punishment throughout the world'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10859">
+          <num>5</num>
+          <content eId="para_10859__content">
+            <p>Article 2(1) and (2) of that convention provides: `1.   Each State Party shall take effective legislative, administrative, judicial or other measures to prevent acts of torture in any territory under its jurisdiction. 2.   No exceptional circumstances whatsoever, whether a state of war or a threat of war, internal political instability or any other public emergency, may be invoked as a justification of torture.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10860">
+          <num>6</num>
+          <content eId="para_10860__content">
+            <p>Article 3 of that convention states: `1.   No State Party shall expel, return ( ``refouler '') or extradite a person to another State where there are substantial grounds for believing that he would be in danger of being subjected to torture. 2.   For the purpose of determining whether there are such grounds, the competent authorities shall take into account all relevant considerations including, where applicable, the existence in the State concerned of a consistent pattern of gross, flagrant or mass violations of human rights.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10861">
+          <num>7</num>
+          <content eId="para_10861__content">
+            <p>Article 14(1) of that convention is worded as follows: `Each State Party shall ensure in its legal system that the victim of an act of torture obtains redress and has an enforceable right to fair and adequate compensation, including the means for as full rehabilitation as possible. In the event of the death of the victim as a result of an act of torture, his dependants shall be entitled to compensation.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <tblock>
+          <p>Directive 2004/83</p>
+        </tblock>
+        <paragraph eId="para_10862">
+          <num>8</num>
+          <content eId="para_10862__content">
+            <p>Recitals 6 and 25 of Directive 2004/83 state as follows: `</p>
+            <blockList>
+              <item>
+                <num>(6)</num>
+                <p>The main objective of this Directive is, on the one hand, to ensure that Member States apply common criteria for the identification of persons genuinely in need of international protection, and, on the other hand, to ensure that a minimum level of benefits is available for those persons in all Member States....</p>
+              </item>
+              <item>
+                <num>(25)</num>
+                <p>It is necessary to introduce criteria on the basis of which applicants for international protection are to be recognised as eligible for subsidiary protection. Those criteria should be drawn from international obligations under human rights instruments and practices existing in Member States.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10863">
+          <num>9</num>
+          <content eId="para_10863__content">
+            <p>Article 2 of that directive provides: `For the purposes of this Directive:...</p>
+            <blockList>
+              <item>
+                <num>(e)</num>
+                <p>``person eligible for subsidiary protection '' means a third country national or a stateless person who does not qualify as a refugee but in respect of whom substantial grounds have been shown for believing that the person concerned, if returned to his or her country of origin, or in the case of a stateless person, to his or her country of former habitual residence, would face a real risk of suffering serious harm as defined in Article 15, and to whom Article 17(1) and (2) do not apply, and is unable, or, owing to such risk, unwilling to avail himself or herself of the protection of that country;...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10864">
+          <num>10</num>
+          <content eId="para_10864__content">
+            <p>Under Article 4(4) of that directive: `The fact that an applicant has already been subject to persecution or serious harm or to direct threats of such persecution or such harm, is a serious indication of the applicant's well-founded fear of persecution or real risk of suffering serious harm, unless there are good reasons to consider that such persecution or serious harm will not be repeated.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10865">
+          <num>11</num>
+          <content eId="para_10865__content">
+            <p>Article 6 of the directive provides: `Actors of persecution or serious harm include:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>the State;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>parties or organisations controlling the State or a substantial part of the territory of the State;</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>non-State actors, if it can be demonstrated that the actors mentioned in points (a) and (b), including international organisations, are unable or unwilling to provide protection against persecution or serious harm as defined in Article 7.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10866">
+          <num>12</num>
+          <content eId="para_10866__content">
+            <p>Article 15 of Directive 2004/83 states: `Serious harm consists of:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>death penalty or execution; or</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>torture or inhuman or degrading treatment or punishment of an applicant in the country of origin; or</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>serious and individual threat to a civilian's life or person by reason of indiscriminate violence in situations of international or internal armed conflict.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10867">
+          <num>13</num>
+          <content eId="para_10867__content">
+            <p>Pursuant to Article 16 of the directive: `1.   A third country national or a stateless person shall cease to be eligible for subsidiary protection when the circumstances which led to the granting of subsidiary protection status have ceased to exist or have changed to such a degree that protection is no longer required. 2.   In applying paragraph 1, Member States shall have regard to whether the change of circumstances is of such a significant and non-temporary nature that the person eligible for subsidiary protection no longer faces a real risk of serious harm.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10868">
+          <num>14</num>
+          <content eId="para_10868__content">
+            <p>Article 18 of that directive states: `Member States shall grant subsidiary protection status to a third country national or a stateless person eligible for subsidiary protection in accordance with Chapters II and V.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Directive 2008/115</p>
+        </tblock>
+        <paragraph eId="para_10869">
+          <num>15</num>
+          <content eId="para_10869__content">
+            <p>Article 5 of Directive 2008/115/EC of the European Parliament and of the Council of 16 December 2008 on common standards and procedures in member states for returning illegally staying third-country nationals ( OJ 2008 L 348, p. 98) provides: `When implementing this Directive, Member States shall take due account of:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>the best interests of the child;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>family life;</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>the state of health of the third-country national concerned, and respect the principle of non-refoulement.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the question referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_10870">
+          <num>16</num>
+          <content eId="para_10870__content">
+            <p>MP is a national of Sri Lanka who arrived in the United Kingdom in January 2005 and was given leave to remain as a student until 30 September 2008.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10871">
+          <num>17</num>
+          <content eId="para_10871__content">
+            <p>On 5 January 2009, MP lodged an application for asylum on the ground, in essence, that he had been detained and tortured by the Sri Lankan security forces because he had been a member of the `Liberation Tigers of Tamil Eelam', and, that if he returned to Sri Lanka, he would be at risk of further ill-treatment for the same reason.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10872">
+          <num>18</num>
+          <content eId="para_10872__content">
+            <p>By decision of 23 February 2009, that application was rejected by the competent national authority, which did not accept that MP would be still of interest to the Sri Lankan authorities or at risk of further ill-treatment if he returned to his country.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10873">
+          <num>19</num>
+          <content eId="para_10873__content">
+            <p>MP brought an action against that decision before the Upper Tribunal (Immigration and Asylum Chamber). Medical evidence was submitted to that court that the applicant was suffering the after-effects of torture, severe post-traumatic stress disorder and serious depression, showed marked suicidal tendencies, and appeared to be particularly determined to kill himself if he had to return to Sri Lanka.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10874">
+          <num>20</num>
+          <content eId="para_10874__content">
+            <p>Even though the Upper Tribunal (Immigration and Asylum Chamber) accepted that the applicant in the main proceedings had a genuine fear of the idea of returning to Sri Lanka and difficulty in trusting or communicating with official figures, including those in the UK, because of the torture he had suffered in the past, that court rejected his action in so far as it was based on the Convention relating to the Status of Refugees, signed in Geneva on 28 July 1951 ( United Nations Treaty Series, vol. 189, p. 150, No 2545 (1954)) and on Directive 2004/83. Essentially, that court did not accept that MP was likely still to be of interest to the authorities in Sri Lanka.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10875">
+          <num>21</num>
+          <content eId="para_10875__content">
+            <p>Nevertheless, that court allowed MP's action in so far as it was based on Article 3 of the ECHR. In essence, it stated that if MP were to be returned to Sri Lanka, he would be in the care of the Sri Lankan health service, that there are only 25 practising psychiatrists in the whole of the country and that, even though there are some specialised mental health facilities in Sri Lanka, according to an Operational Guidance Note from the United Kingdom Border Agency, the money that is spent on mental health in fact goes only to the large mental health institutions in major cities, which are inaccessible and do not provide appropriate care for mentally ill people. In those circumstances, the Upper Tribunal (Immigration and Asylum Chamber) considered that, even though MP could, in principle, be returned to Sri Lanka without suffering harm, once there he would be in the hands of the Sri Lankan mental health services, with the result that, in view of the severity of his mental illness and the fact that he would be unable to access appropriate care, returning him to Sri Lanka would be in breach of Article 3 of the ECHR.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10876">
+          <num>22</num>
+          <content eId="para_10876__content">
+            <p>The decision of the Upper Tribunal (Immigration and Asylum Chamber) was upheld by judgment of the Court of Appeal (England &amp; Wales) (Civil Division). The Court of Appeal considered that Directive 2004/83 was not intended to cover cases within the scope of Article 3 of the ECHR where the risk was to health or one of suicide rather than a risk of persecution.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10877">
+          <num>23</num>
+          <content eId="para_10877__content">
+            <p>MP appealed against that judgment to the referring court. The Supreme Court of the United Kingdom states that the crux of the case is whether MP is entitled to subsidiary protection under Articles 2 and 15 of Directive 2004/83.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10878">
+          <num>24</num>
+          <content eId="para_10878__content">
+            <p>MP claims that the Upper Tribunal (Immigration and Asylum Chamber) and the Court of Appeal (England &amp; Wales) (Civil Division) took too narrow a view of the scope of Directive 2004/83. Given that his mental illness cannot be regarded as a naturally occurring illness, because it was caused by torture at the hands of the Sri Lankan authorities, MP submits that, taking into account his history of ill treatment by the Sri Lankan authorities and the lack of medical facilities available to treat the after-effects of such ill treatment in that country, he should have been granted subsidiary protection. On the other hand, MP claims that it makes no difference to his entitlement to such protection that there is no longer a risk of repetition of the ill treatment which is the cause of his current state of health.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10879">
+          <num>25</num>
+          <content eId="para_10879__content">
+            <p>The referring court considers that that specific question has not yet been decided by either the Court of Justice of the European Union, not even in the judgment of 18 December 2014, M'Bodj ( C‑542/13, EU:C:2014:2452), or by the European Court of Human Rights.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10880">
+          <num>26</num>
+          <content eId="para_10880__content">
+            <p>In those circumstances, the Supreme Court of the United Kingdom decided to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling: `Does Article 2(e), read with Article 15(b), of Directive 2004/83 cover a real risk of serious harm to the physical or psychological health of the applicant if returned to the country of origin, resulting from previous torture or inhuman or degrading treatment for which the country of origin was responsible?'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Consideration of the question referred</p>
+        </tblock>
+        <paragraph eId="para_10881">
+          <num>27</num>
+          <content eId="para_10881__content">
+            <p>Under Article 18 of Directive 2004/83, Member States are to grant subsidiary protection status to third country nationals who fulfil the eligibility criteria for such status.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10882">
+          <num>28</num>
+          <content eId="para_10882__content">
+            <p>In that regard, it should be noted that, under Article 2(e) of Directive 2004/83, a third country national is eligible for subsidiary protection only if substantial grounds have been shown for believing that, if returned to his country of origin, he would face a real risk of suffering one of the three types of serious harm defined in Article 15 of that directive (see, to that effect, judgment of 18 December 2014, M'Bodj, C‑542/13, EU:C:2014:2452, paragraph 30 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10883">
+          <num>29</num>
+          <content eId="para_10883__content">
+            <p>The definition of serious harm under Article 15 of Directive 2004/83 includes, in Article 15(b), torture or inhuman or degrading treatment or punishment of an applicant in the country of origin.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10884">
+          <num>30</num>
+          <content eId="para_10884__content">
+            <p>In that context, it must first be pointed out that the fact that the person concerned has in the past been tortured by the authorities of his country of origin is not in itself sufficient justification for him to be eligible for subsidiary protection when there is no longer a real risk that such torture will be repeated if he is returned to that country.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10885">
+          <num>31</num>
+          <content eId="para_10885__content">
+            <p>In accordance with Article 2(e) of Directive 2004/83, the subsidiary protection regime aims to protect the individual against a real risk of serious harm if returned to his country of origin, which implies that substantial grounds must be shown for believing that the person concerned, if returned to that country, would face such a risk.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10886">
+          <num>32</num>
+          <content eId="para_10886__content">
+            <p>That interpretation is borne out by the general scheme of Directive 2004/83.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10887">
+          <num>33</num>
+          <content eId="para_10887__content">
+            <p>Under Article 4(4) of Directive 2004/83, the fact that an applicant has in the past been subject to serious harm is a serious indication that he faces a real risk of suffering such harm again. However, that article also states that that does not apply where there are good reasons for believing that the serious harm previously suffered will not be repeated or continue.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10888">
+          <num>34</num>
+          <content eId="para_10888__content">
+            <p>Furthermore, in accordance with Article 16 of that directive, subsidiary protection ceases when the circumstances which led to the grant of subsidiary protection status have ceased to exist or have changed to such a degree that protection is no longer required.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10889">
+          <num>35</num>
+          <content eId="para_10889__content">
+            <p>Secondly, however, it must be noted that, according to the information in the file before the Court, the request for a preliminary ruling concerns a third country national who has not only been tortured by the authorities of his country of origin in the past, but who, in addition -- even though there is no longer any risk of him being tortured again if returned to that country -- presently continues to suffer severe psychological after-effects resulting from the torture. Furthermore, according to duly substantiated medical evidence, those after-effects would be substantially aggravated and lead to a serious risk of him committing suicide if he were returned to his country of origin.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10890">
+          <num>36</num>
+          <content eId="para_10890__content">
+            <p>In that regard, it should be recalled that Article 15(b) of Directive 2004/83 must be interpreted and applied in a manner that is consistent with the rights guaranteed by Article 4 of the Charter of Fundamental Rights of the European Union ( `the Charter'), which enshrines one of the fundamental values of the Union and its Member States and is absolute in that that value is closely linked to respect for human dignity, the subject of Article 1 of the Charter (see, to that effect, judgments of 5 April 2016, Aranyosi and Căldăraru, C‑404/15 and C‑659/15 PPU, EU:C:2016:198, paragraphs 85 to 87; and 16 February 2017, C.K. and Others, C‑578/16 PPU, EU:C:2017:127, paragraph 59).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10891">
+          <num>37</num>
+          <content eId="para_10891__content">
+            <p>Moreover, it should be recalled that, in accordance with Article 52(3) of the Charter, in so far as the rights guaranteed by Article 4 thereof correspond to those guaranteed by Article 3 of the ECHR, the meaning and scope of those rights are the same as those laid down by Article 3 of the ECHR.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10892">
+          <num>38</num>
+          <content eId="para_10892__content">
+            <p>It follows from the case-law of the European Court of Human Rights relating to Article 3 of the ECHR that the suffering caused by a naturally occurring illness, whether physical or mental, may be covered by that article if it is, or risks being, exacerbated by treatment, whether resulting from conditions of detention, removal or other measures, for which the authorities can be held responsible, provided that the resulting suffering attains the minimum level of severity required by that article (see, to that effect, ECtHR, 13 December 2016, Paposhvili v. Belgium, CE:ECHR:2016:1213JUD004173810, § 174 and 175; and judgment of 16 February 2017, C.K. and Others, C‑578/16 PPU, EU:C:2017:127, paragraph 68).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10893">
+          <num>39</num>
+          <content eId="para_10893__content">
+            <p>Pursuant to the case-law of the European Court of Human Rights, the same threshold of severity must be met in order for Article 3 of the ECHR to preclude the deportation of a person whose illness is not naturally occurring where the lack of care that would be available to that person, once expelled, is not attributable to intentional acts or omissions of the receiving State (see, to that effect, ECtHR, 29 January 2013, S.H.H v. the United Kingdom, CE:ECHR:2013:0129JUD006036710, § 89).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10894">
+          <num>40</num>
+          <content eId="para_10894__content">
+            <p>As regards, specifically, the threshold of severity for finding a violation of Article 3 of the ECHR, it follows from the most recent case-law of the European Court of Human Rights that that provision precludes the removal of a seriously ill person where he is at risk of imminent death or where substantial grounds have been shown for believing that, although not at imminent risk of dying, he would face a real risk, on account of the absence of appropriate treatment in the receiving country or the lack of access to such treatment, of suffering a serious, rapid and irreversible decline in his state of health resulting in intense suffering or to a significant reduction in life expectancy (see, to that effect, ECtHR, 13 December 2016, Paposhvili v. Belgium, CE:ECHR:2016:1213JUD004173810, § 178 and 183).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10895">
+          <num>41</num>
+          <content eId="para_10895__content">
+            <p>Similarly, Article 4 of the Charter must be interpreted as meaning that the removal of a third country national with a particularly serious mental or physical illness constitutes inhuman and degrading treatment, within the meaning of that article, where such removal would result in a real and demonstrable risk of significant and permanent deterioration in the state of health of the person concerned (see, by analogy, judgment of 16 February 2017, C.K. and Others, C‑578/16 PPU, EU:C:2017:127, paragraph 74). The same conclusion can be drawn as regards the application of Article 19(2) of the Charter, which provides that no one may be removed to a State where there is a serious risk that he would be subjected to inhuman or degrading treatment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10896">
+          <num>42</num>
+          <content eId="para_10896__content">
+            <p>In that regard, the Court has held that, particularly in the case of a serious psychiatric illness, it is not sufficient to consider only the consequences of physically transporting the person concerned from a Member State to a third country; rather, it is necessary to consider all the significant and permanent consequences that might arise from the removal (see, by analogy, judgment of 16 February 2017, C.K. and Others, C‑578/16 PPU, EU:C:2017:127, paragraph 76). Moreover, given the fundamental importance of the prohibition of torture and inhuman or degrading treatment laid down in Article 4 of the Charter, particular attention must be paid to the specific vulnerabilities of persons whose psychological suffering, which is likely to be exacerbated in the event of their removal, is a consequence of torture or inhuman or degrading treatment in their country of origin.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10897">
+          <num>43</num>
+          <content eId="para_10897__content">
+            <p>It follows that Article 4 and Article 19(2) of the Charter, as interpreted in the light of Article 3 of the ECHR, preclude a Member State from expelling a third country national where such expulsion would, in essence, result in significant and permanent deterioration of that person's mental health disorders, particularly where, as in the present case, such deterioration would endanger his life.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10898">
+          <num>44</num>
+          <content eId="para_10898__content">
+            <p>Moreover, the Court has previously held that, in such exceptional cases, the removal of a third country national suffering from a serious illness to a country in which appropriate treatment is not available may constitute an infringement of the principle of non-refoulement and, therefore, an infringement of Article 5 of Directive 2008/115, read in the light of Article 19 of the Charter (see, to that effect, judgment of 18 December 2014, Abdida, C‑562/13, EU:C:2014:2453, paragraph 48).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10899">
+          <num>45</num>
+          <content eId="para_10899__content">
+            <p>Nevertheless, it is apparent from the request for a preliminary ruling that the relevant national courts have held that Article 3 of the ECHR precludes MP being removed from the United Kingdom to Sri Lanka. Thus the present case does not concern the protection against removal deriving, under Article 3 of the ECHR, from the prohibition on exposing a person to inhuman or degrading treatment, but rather the separate issue as to whether the host Member State is required to grant subsidiary protection status, under Directive 2004/83, to a third country national who has been tortured by the authorities of his country of origin and suffers severe psychological after-effects which, in the event of him being returned to that country, could be substantially aggravated and lead to a serious risk of him committing suicide.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10900">
+          <num>46</num>
+          <content eId="para_10900__content">
+            <p>The court has also previously held that the fact that Article 3 of the ECHR, as observed in paragraphs 39 to 41 above, precludes, in very exceptional cases, a third country national suffering from a serious illness being removed to a country in which appropriate treatment is not available does not mean that that person should be granted leave to reside in a Member State by way of subsidiary protection under Directive 2004/83 (see, to that effect, judgment of 18 December 2014, M'Bodj, C‑542/13, EU:C:2014:2452, paragraph 40).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10901">
+          <num>47</num>
+          <content eId="para_10901__content">
+            <p>Nevertheless, it should be noted that, unlike the case giving rise to the judgment of 18 December 2014, M'Bodj ( C‑542/13, EU:C:2014:2452), which concerned a third country national who had been the victim of an assault in the host Member State, the present case concerns a third country national who was tortured by the authorities of his country of origin and who, according to duly substantiated medical evidence, continues, as a result of those acts, to suffer from post-traumatic after-effects that are likely to be significantly and permanently exacerbated, to the point of endangering his life, if he is returned to that country.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10902">
+          <num>48</num>
+          <content eId="para_10902__content">
+            <p>In those circumstances, both the cause of the current state of health of a third country national in a situation such as that in the main proceedings, namely acts of torture inflicted by the authorities of his country of origin in the past, and the fact that, if he were to be returned to his country of origin, his mental health disorders would be substantially aggravated on account of the psychological trauma that he continues to suffer as a result of that torture, are relevant factors to be taken into account when interpreting Article 15(b) of Directive 2004/83.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10903">
+          <num>49</num>
+          <content eId="para_10903__content">
+            <p>Nevertheless, such substantial aggravation cannot, in itself, be regarded as inhuman or degrading treatment inflicted on that third country national in his country of origin, within the meaning of Article 15(b) of that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10904">
+          <num>50</num>
+          <content eId="para_10904__content">
+            <p>In that regard, it is appropriate to examine, as requested in the order for reference, the effect that may result from a lack, in the country of origin of the person concerned, of facilities offering appropriate care for the physical and mental after-effects resulting from the torture inflicted by the authorities of that country.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10905">
+          <num>51</num>
+          <content eId="para_10905__content">
+            <p>In that respect, it should be recalled that the Court has held that the serious harm referred to in Article 15(b) of Directive 2004/83 cannot simply be the result of general shortcomings in the health system of the country of origin. The risk of deterioration in the health of a third country national who is suffering from a serious illness, as a result of there being no appropriate treatment in his country of origin, is not sufficient, unless that third country national is intentionally deprived of health care, to warrant that person being granted subsidiary protection (see, to that effect, judgment of 18 December 2014, M'Bodj, C‑542/13, EU:C:2014:2452, paragraphs 35 and 36).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10906">
+          <num>52</num>
+          <content eId="para_10906__content">
+            <p>In order to assess whether a third country national who has in the past been tortured by the authorities of his country of origin, faces, if returned to that country, a real risk of being intentionally deprived of appropriate care for the physical and mental after-effects resulting from the torture inflicted by those authorities, it is necessary, in the light of what has been stated in paragraph 50 above and recital 25 of Directive 2004/83, which states that the criteria for granting subsidiary protection must be drawn from international human rights instruments, to take Article 14 of the Convention against Torture into consideration.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10907">
+          <num>53</num>
+          <content eId="para_10907__content">
+            <p>According to that provision, State parties to that convention must ensure that, under their legal systems, a victim of torture has the right to obtain redress, including the resources necessary to achieve as full a rehabilitation as possible.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10908">
+          <num>54</num>
+          <content eId="para_10908__content">
+            <p>In that regard, it must, however, be noted that the regime introduced by Directive 2004/83 pursues different aims and establishes protection mechanisms which are clearly distinct from those of the Convention against Torture (see, by analogy, judgment of 30 January 2014, Diakité, C‑285/12, EU:C:2014:39, paragraph 24).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10909">
+          <num>55</num>
+          <content eId="para_10909__content">
+            <p>As is apparent from its sixth recital and Article 2, the main objective of the Convention against Torture is to make more effective the struggle against torture and other cruel, inhuman or degrading treatment or punishment throughout the world, by means of prevention. However, the main objective of Directive 2004/83, as set out in its sixth recital, is, on the one hand, to ensure that Member States apply common criteria for the identification of persons genuinely in need of international protection, and, on the other hand, to ensure that a minimum level of benefits is available for those persons in all Member States. As regards, more specifically, the beneficiaries of subsidiary protection status, that directive aims to offer, within the territory of the Member States, protection similar to that afforded to refugees by the Convention relating to the Status of Refugees, signed in Geneva on 28 July 1951 ( United Nations Treaty Series, Vol. 189, p. 150, No 2545 (1954)), to persons who cannot be regarded as refugees but are at risk, inter alia, of being subjected to torture or inhuman or degrading treatment if returned to their country of origin.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10910">
+          <num>56</num>
+          <content eId="para_10910__content">
+            <p>Accordingly, it is not possible, without disregarding the distinct areas covered by those two regimes, for a third country national in a situation such as that of MP to be eligible for subsidiary protection as a result of every violation, by his State of origin, of Article 14 of the Convention against Torture.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10911">
+          <num>57</num>
+          <content eId="para_10911__content">
+            <p>It is therefore for the national court to ascertain, in the light of all current and relevant information, in particular reports by international organisations and non-governmental human rights organisations, whether, in the present case, MP is likely, if returned to his country of origin, to face a risk of being intentionally deprived of appropriate care for the physical and mental after-effects resulting from the torture he was subjected to by the authorities of that country. That will be the case, inter alia, if, in circumstances where, as in the main proceedings, a third country national is at risk of committing suicide because of the trauma resulting from the torture he was subjected to by the authorities of his country of origin, it is clear that those authorities, notwithstanding their obligation under Article 14 of the Convention against Torture, are not prepared to provide for his rehabilitation. There will also be such a risk if it is apparent that the authorities of that country have adopted a discriminatory policy as regards access to health care, thus making it more difficult for certain ethnic groups or certain groups of individuals, of which MP forms part, to obtain access to appropriate care for the physical and mental after-effects of the torture perpetrated by those authorities.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10912">
+          <num>58</num>
+          <content eId="para_10912__content">
+            <p>It follows from the foregoing that Articles 2(e) and 15(b) of Directive 2004/83, read in the light of Article 4 of the Charter, must be interpreted as meaning that a third country national who in the past has been tortured by the authorities of his country of origin and no longer faces a risk of being tortured if returned to that country, but whose physical and psychological health could, if so returned, seriously deteriorate, leading to a serious risk of him committing suicide on account of trauma resulting from the torture he was subjected to, is eligible for subsidiary protection if there is a real risk of him being intentionally deprived, in his country of origin, of appropriate care for the physical and mental after-effects of that torture, that being a matter for the national court to determine.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_10913">
+          <num>59</num>
+          <content eId="para_10913__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Grand Chamber) hereby rules: Articles 2(e) and 15(b) of Directive 2004/83/EC of 29 April 2004 on minimum standards for the qualification and status of third country nationals or stateless persons as refugees or as persons who otherwise need international protection and the content of the protection granted, read in the light of Article 4 of the Charter of Fundamental Rights of the European Union, must be interpreted as meaning that a third country national who in the past has been tortured by the authorities of his country of origin and no longer faces a risk of being tortured if returned to that country, but whose physical and psychological health could, if so returned, seriously deteriorate, leading to a serious risk of him committing suicide on account of trauma resulting from the torture he was subjected to, is eligible for subsidiary protection if there is a real risk of him being intentionally deprived, in his country of origin, of appropriate care for the physical and mental after-effects of that torture, that being a matter for the national court to determine.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>Lenaerts Tizzano Silva de Lapuerta von Danwitz Da Cruz Vilaça Levits Vajda Juhász Borg Barthet Berger Jürimäe Lycourgos Vilaras Delivered in open court in Luxembourg on 24 April 2018. A. Calot Escobar Registrar K. Lenaerts President( *1)Language of the case: English.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+      <references source="#source">
+        <TLCOrganization eId="institution_5" showAs="" href="/akn/ontology/Organization/Institution/institution_5" />
+        <TLCOrganization eId="institution_76" showAs="" href="/akn/ontology/Organization/Institution/institution_76" />
+        <TLCOrganization eId="institution_6" showAs="" href="/akn/ontology/Organization/Institution/institution_6" />
+      </references>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (First Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>25 July 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Harmonisation of fiscal legislation -- Directive 92/12/EEC -- Article 3(2) -- Directive 2003/96/EC -- Articles 3 and 18 -- Taxation of energy products and electricity -- Excise duties -- Existence of another indirect tax -- Conditions -- National legislation providing for a contribution to the public electricity service -- Definition of `specific purposes' -- Compliance with a minimum level of taxation) In Case C‑103/17, REQUEST for a preliminary ruling under Article 267 TFEU from the Conseil d'État (Council of State, France), made by decision of 22 February 2017, received at the Court on 27 February 2017, in the proceedings Messer France SAS, formerly Praxair, v</p>
+      <p>
+        <party as="respondent" refersTo="#institution_5">Premier ministre</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="respondent" refersTo="#">Commission de régulation de l'énergie</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="respondent" refersTo="#institution_76">Ministre de l'Économie et des Finances</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="respondent" refersTo="#institution_6">Ministre de l'Environnement, de l'Énergie et de la Mer</party>
+      </p>
+      <p>, THE COURT (First Chamber), composed of R. Silva de Lapuerta, President of the Chamber, C.G. Fernlund, A. Arabadjiev, S. Rodin and E. Regan (Rapporteur), Judges, Advocate General: M. Campos Sánchez-Bordona, Registrar: R. Schiano, Administrator, having regard to the written procedure and further to the hearing on 13 December 2017, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>Messer France SAS, by S. Espasa-Mattei, C. Smits and B. Boutemy, avocats,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the French Government, by D. Colas, E. de Moustier, A. Alidière and S. Ghiandoni, acting as Agents,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Belgian Government, by M. Jacobs and P. Cottin, acting as Agents, and by J. Bourtembourg, V. Feyens and L. Ernoux-Neufcoeur, avocats,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Spanish Government, by V. Ester Casas, acting as Agent,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Italian Government, by G. Palmieri, acting as Agent, and by P. Gentili, avvocato dello Stato,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by C. Perrin, D. Recchia and F. Tomat, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 7 March 2018,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_17082">
+          <num>1</num>
+          <content eId="para_17082__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Article 3(2) of Council Directive 92/12/EEC of 25 February 1992 on the general arrangements for products subject to excise duty and on the holding, movement and monitoring of such products ( OJ 1992 L 76, p. 1), and Articles 3 and 18 of Council Directive 2003/96/EC of 27 October 2003 restructuring the Community framework for the taxation of energy products and electricity ( OJ 2003 L 283, p. 51).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17083">
+          <num>2</num>
+          <content eId="para_17083__content">
+            <p>The request has been made in proceedings between, on the one hand, Messer France SAS, formerly Praxair, and, on the other, the Premier ministre (Prime Minister, France), the Commission de régulation de l'énergie (Energy Regulatory Authority, France), the ministre de l'Économie et des Finances (Minister for the Economy and Finance, France) and the ministre de l'Environnement, de l'Énergie et de la Mer (Minister for the Environment, Energy and the Sea, France), concerning repayment of the contribution au service public de l'électricité (public electricity service tax; `CSPE') that that company had paid in respect of the years 2005 to 2009.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <tblock>
+          <p>Directive 92/12</p>
+        </tblock>
+        <paragraph eId="para_17084">
+          <num>3</num>
+          <content eId="para_17084__content">
+            <p>Recital 3 of Directive 92/12 read as follows: `Whereas the concept of products subject to excise duty should be defined; whereas only goods which are treated as such in all Member States may be the subject of Community provisions; whereas such products may be subject to other indirect taxes for specific purposes; whereas the maintenance or introduction of other indirect taxes must not give rise to border-crossing formalities.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17085">
+          <num>4</num>
+          <content eId="para_17085__content">
+            <p>Article 3 of that directive provided: `1.   This Directive shall apply at Community level to the following products as defined in the relevant Directives:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>mineral oils,</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>alcohol and alcoholic beverages,</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>manufactured tobacco. 2.   The products listed in paragraph 1 may be subject to other indirect taxes for specific purposes, provided that those taxes comply with the tax rules applicable for excise duty and [value added tax (VAT)] purposes as far as determination of the tax base, calculation of the tax, chargeability and monitoring of the tax are concerned. ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17086">
+          <num>5</num>
+          <content eId="para_17086__content">
+            <p>Article 6 of that directive stated: `1.   Excise duty shall become chargeable at the time of release for consumption or when shortages are recorded which must be subject to excise duty in accordance with Article 14(3). ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17087">
+          <num>6</num>
+          <content eId="para_17087__content">
+            <p>Directive 92/12 has, as from 1 April 2010, been repealed and replaced by Council Directive 2008/118/EC of 16 December 2008 concerning the general arrangements for excise duty and repealing Directive 92/12 ( OJ 2009 L 9, p. 12).</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Directive 2003/96</p>
+        </tblock>
+        <paragraph eId="para_17088">
+          <num>7</num>
+          <content eId="para_17088__content">
+            <p>Article 1 of Directive 2003/96 provides: `Member States shall impose taxation on energy products and electricity in accordance with this Directive.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17089">
+          <num>8</num>
+          <content eId="para_17089__content">
+            <p>Article 3 of that directive states: `References in [Directive 92/12] to ``mineral oils '' and ``excise duty '', in so far as it applies to mineral oils, shall be interpreted as covering all energy products, electricity and national indirect taxes referred to respectively in Articles 2 and 4(2) of this Directive.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17090">
+          <num>9</num>
+          <content eId="para_17090__content">
+            <p>Under Article 4 of that directive: `1.   The levels of taxation which Member States shall apply to the energy products and electricity listed in Article 2 may not be less than the minimum levels of taxation prescribed by this Directive. 2.   For the purpose of this Directive ``level of taxation '' is the total charge levied in respect of all indirect taxes (except VAT) calculated directly or indirectly on the quantity of energy products and electricity at the time of release for consumption.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17091">
+          <num>10</num>
+          <content eId="para_17091__content">
+            <p>Pursuant to Article 18(10) of that directive: `The French Republic may apply total or partial exemptions or reductions for energy products and electricity used by the State, regional and local government authorities or other bodies governed by public law, in respect of the activities or transactions in which they engage as public authorities until 1 January 2009. The French Republic may apply a transitional period until 1 January 2009 to adapt its current electricity taxation system to the provisions set out in this Directive. During this period, the global average level of the current local electricity taxation is to be taken into account to assess whether the minimum rates set out in this Directive are respected.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17092">
+          <num>11</num>
+          <content eId="para_17092__content">
+            <p>Article 28(1) and (2) of Directive 2003/96 provides: `1.   Member States shall adopt and publish the laws, regulations and administrative provisions necessary to comply with this Directive not later than 31 December 2003. They shall forthwith inform the Commission thereof. 2.   They shall apply these provisions from 1 January 2004, except the provisions laid down in Articles 16 and 18(1), which may be applied by the Member States from 1 January 2003.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>National law</p>
+        </tblock>
+        <paragraph eId="para_17093">
+          <num>12</num>
+          <content eId="para_17093__content">
+            <p>Article 1 of loi No 2000-108, du 10 février 2000, relative à la modernisation et au développement du service public de l'électricité (Law No 2000-108 of 10 February 2000 on the modernisation and development of the public electricity service) (JORF of 11 February 2000, p. 2143) provided: `The objective of the public electricity service is to ensure the supply of electricity throughout the national territory in the general public interest. In the context of energy policy, it shall contribute to energy autonomy and security of supply, to air quality and combating the greenhouse effect, to optimal management and development of national resources, to the management of energy requirements, to the competitiveness of economic activity and the management of future technological choices, and to the efficient use of energy. It shall contribute to social cohesion by guaranteeing the right to electricity for all, to combating exclusion, to balanced development across the territory with due regard for the environment, to research and technological development, and to defence and public security. ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17094">
+          <num>13</num>
+          <content eId="para_17094__content">
+            <p>Article 37 of loi No 2003-8, du 3 janvier 2003, relative aux marchés du gaz et de l'électricité et au service public de l'énergie (Law No 2003-8 of 3 January 2003 on gas and electricity markets and the public energy service) (JORF of 4 January 2003, p. 265), which amended Law No 2000-108, provided: `I. --   Paragraph I of Article 5 of Law No 2000-108 ... is worded as follows: ``I. -- Costs attributable to the public service tasks assigned to electricity operators shall be offset in full. They comprise:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>With regard to the generation of electricity: 1. Additional costs, if any, resulting from the implementation of Articles 8 and 10, compared with the investment and operational costs that Électricité de France is spared or, where relevant, with the costs spared by the affected non-nationalised distributors referred to in Article 23 of loi No 46-628 du 8 avril 1946 [sur la nationalisation de l'électricité et du gaz (Law No 46-628 of 8 April 1946 on the nationalisation of electricity and gas)]. The same values for costs spared shall serve as the reference for determining the additional costs to be offset where the installations concerned are operated by Électricité de France or by a non-nationalised distributor. Where the contracts concern the purchase of electricity generated by a production installation located in an area that is not connected to the continental metropolitan network, the additional costs shall be calculated by reference to the amount relative to production at the tariffs for the sale of electricity to non-eligible customers; 2. Additional production costs in areas not connected to the continental metropolitan network which, on account of particular features of the generation system inherent in the nature of those areas, are not covered by the amount relative to production at the tariffs for the sale of electricity to non-eligible customers or by any price caps laid down in paragraph I of Article 4 of this law;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>With regard to the supply of electricity: 1. Lost revenue and costs borne by electricity suppliers as a result of the implementation of the special pricing structure for ``basic necessity '' products as referred to in the last subparagraph of Article 4(I); 2. Costs borne by electricity suppliers as a result of their participation in the special arrangements for low-income persons, as referred to in Article 2(III)(1). Account shall be taken of such costs up to a determined percentage of the costs borne by the supplier pursuant to the special pricing structure for ``basic necessity '' products mentioned in the previous paragraph. That percentage shall be determined by the ministre chargé de l'énergie [(Minister for Energy)]. Those costs shall be calculated on the basis of appropriate accounting records kept by the operators by whom they are borne. Those accounting records, drawn up in accordance with rules laid down by the Energy Regulatory Authority, shall be audited at the abovementioned operators' expense by their auditor or, in the case of local public utility providers, by their public accountant. The Energy Regulatory Authority may, at the operator's expense, have those accounting records verified by an independent body of its choosing. The Minister for Energy shall determine by order the total costs on a proposal from the Energy Regulatory Authority made annually. The offsetting of those costs, in favour of the operators bearing them, shall be secured through charges payable by final consumers of electricity located in the national territory. The amount of the charges referred to above shall be calculated in proportion to the quantity of electricity consumed. However, the electricity produced by a producer for its own use or purchased by a final consumer for his own use from a third party operating a production installation on the consumption site shall be taken into account for the purposes of calculating the charges only from a threshold of 240 million kilowatt hours per year and per production site. The amount of the charge payable per consumption site, by the final consumers referred to in the first subparagraph of Article 22(I) may not exceed [EUR] 500000. The amount of the charge applicable to each kilowatt hour shall be calculated in such a way that the charges cover the entirety of the costs referred to in</p>
+              </item>
+            </blockList>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>and</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>above and the management costs incurred by the Caisse des dépôts et consignations, referred to below. The Minister for Energy shall determine that amount by order on a proposal from the Energy Regulatory Authority, made annually. The charge applicable to each kilowatt hour may not exceed 7% of the sale tariff of the kilowatt hour, exclusive of standing charges and taxes, corresponding to a contract for a capacity of 6 kVA without curtailment or hourly/seasonal variation of prices. ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17095">
+          <num>14</num>
+          <content eId="para_17095__content">
+            <p>Following a letter of formal notice issued by the European Commission on 18 March 2010 to the French Republic regarding the need for it to adapt its electricity taxation system to the provisions of Directive 2003/96, that Member State adopted loi No 2010-1488, du 7 décembre 2010, portant nouvelle organisation du marché de l'électricité (Law No 2010-1488 of 7 December 2010 reorganising the electricity market; `NOME law') (JORF of 8 December 2010, p. 21467). The NOME law was intended to transpose the provisions of that directive into national law. The CSPE was thereby replaced by the municipal tax on final consumption of electricity and the departmental tax on final consumption of electricity. The provisions of the NOME law entered into force on 1 January 2011.</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_17096">
+          <num>15</num>
+          <content eId="para_17096__content">
+            <p>Praxair, predecessor in law to Messer France, submitted a claim for repayment of the CSPE it had paid in respect of the years 2005 to 2009.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17097">
+          <num>16</num>
+          <content eId="para_17097__content">
+            <p>The company claims, in particular, that that indirect tax is contrary to Article 3(2) of Directive 92/12 in so far as it does not serve a specific purpose, within the meaning of that provision.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17098">
+          <num>17</num>
+          <content eId="para_17098__content">
+            <p>Following the implicit rejection of that request by the competent ministry on 5 January 2011, that company brought an action before the tribunal administratif de Paris (Administrative Court, Paris, France) seeking repayment of the CSPE it had paid, plus default interest. By judgment of 6 July 2012, the tribunal administratif de Paris (Administrative Court, Paris) dismissed that action. On 23 February 2016, the cour administrative d'appel de Paris (Administrative Court of Appeal, Paris, France) dismissed the appeal brought by Praxair against that judgment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17099">
+          <num>18</num>
+          <content eId="para_17099__content">
+            <p>On 25 April 2016, Praxair appealed on a point of law to the Conseil d'État (Council of State, France). It put forward a number of pleas in law regarding compliance of the CSPE with EU law, in particular Directive 92/12.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17100">
+          <num>19</num>
+          <content eId="para_17100__content">
+            <p>In those circumstances, the Conseil d'État (Council of State) decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>When a Member State has not, following the entry into force of [Directive 2003/96], initially laid down any provision creating an excise duty on the consumption of electricity, but has maintained in force a previously created indirect tax on such consumption, in addition to local taxes:</p>
+                <blockList>
+                  <item>
+                    <num>--</num>
+                    <p>is the compatibility of the tax in question with [Directives 92/12 and 2003/96] to be assessed in the light of the conditions laid down by Article 3(2) of [Directive 92/12] for the existence of ``another indirect tax '', that is to say, the pursuit of one or more specific purposes and compliance with certain tax rules applicable to excise duty or [VAT];</p>
+                  </item>
+                  <item>
+                    <num>--</num>
+                    <p>or may ``another indirect tax '' be retained only if a harmonised excise duty exists and finally, if so, could the contribution in question be regarded as being such a duty, its compatibility with those two directives thus falling to be assessed in the light of all of the harmonising rules which they lay down?</p>
+                  </item>
+                </blockList>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>Is a contribution based on the consumption of electricity, the revenue from which is allocated both to the financing of expenditure connected with the generation of electricity from renewable sources and cogeneration and to the implementation of a geographical price-balancing mechanism and a reduction in the price of electricity for low-income households, to be regarded as pursuing specific purposes within the meaning of Article 3(2) of [Directive 92/12], as restated in Article 1(2) of [Directive 2008/118]?</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>In the event that only some of the purposes pursued can be characterised as specific within the meaning of those provisions, can taxpayers nonetheless claim full reimbursement of the contribution at issue, or may they claim only a partial reimbursement based on the proportion of the overall expenditure financed by the contribution which did not relate to a specific purpose?</p>
+              </item>
+              <item>
+                <num>(4)</num>
+                <p>If the answer to the preceding questions is such that the [CSPE] is, in whole or in part, incompatible with the rules on the taxation of electricity laid down by EU law, is the second subparagraph of Article 18(10) of [Directive 2003/96] to be interpreted as meaning that, until 1 January 2009, compliance with the minimum rates of taxation laid down by [Directive 2003/96] was, among the rules on the taxation of electricity laid down by EU law, the only obligation incumbent on France?'</p>
+                <tblock>
+                  <p>Consideration of the questions referred</p>
+                </tblock>
+                <tblock>
+                  <p>The fourth question</p>
+                </tblock>
+                <p>20 By its fourth question, which it is appropriate to examine first, the referring court asks, in essence, whether the second subparagraph of Article 18(10) of Directive 2003/96 must be interpreted as meaning that, until 1 January 2009, compliance with the minimum rates of taxation laid down in that directive was the only obligation incumbent on the French Republic in the context of EU rules regarding the taxation of electricity.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17101">
+          <num>21</num>
+          <content eId="para_17101__content">
+            <p>It should be recalled that Article 3 of Directive 2003/96 extended the scope of application of Directive 92/12 to electricity. According to Article 28(1) and (2) of Directive 2003/96, the period for transposition of the directive ended on 31 December 2003 and the directive came into force on 1 January 2004.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17102">
+          <num>22</num>
+          <content eId="para_17102__content">
+            <p>Nevertheless, the second subparagraph of Article 18(10) of Directive 2003/96 provided for a transitional period until 1 January 2009 to enable France to adapt its electricity taxation system to the directive. That provision provided that, during that period, that Member State was required to take into account `the global average level of the current local electricity taxation' to assess whether the minimum rates set out in that directive were respected. By 1 January 2009, the French Republic should therefore have adapted its electricity taxation system to comply with the provisions of Directive 2003/96.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17103">
+          <num>23</num>
+          <content eId="para_17103__content">
+            <p>In view of the foregoing considerations, the answer to the fourth question is that the second subparagraph of Article 18(10) of Directive 2003/96 must be interpreted as meaning that, until 1 January 2009, compliance with the minimum rates of taxation laid down in that directive was, in the context of rules on the taxation of electricity laid down by EU law, the only obligation incumbent on the French Republic.</p>
+            <tblock>
+              <p>The first question</p>
+            </tblock>
+            <p>24 By its first question, the referring court asks, in essence, first, whether Article 3(2) of Directive 92/12 must be interpreted as meaning that maintenance of `another indirect tax' presupposes the introduction of a harmonised excise duty and, secondly, whether a tax such as that at issue in the main proceedings may be regarded as such an excise duty or whether its compatibility with Directives 92/12 and 2003/96 must, as the case may be, be assessed in the light of the conditions laid down in Article 3(2) of Directive 92/12 for determining the existence of other indirect taxes for specific purposes.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17104">
+          <num>25</num>
+          <content eId="para_17104__content">
+            <p>As regards the first part of the first question, it should be recalled that Article 3(2) of Directive 92/12 provides that electricity may be subject to other indirect taxes for specific purposes, provided that those taxes comply with the tax rules applicable for excise duty or VAT purposes.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17105">
+          <num>26</num>
+          <content eId="para_17105__content">
+            <p>However, there is nothing in Directive 92/12 to suggest that, under the system for taxation of electricity consumption established by the European Union, the right of Member States to levy other indirect taxes is conditional on the imposition of a harmonised excise duty.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17106">
+          <num>27</num>
+          <content eId="para_17106__content">
+            <p>In addition, Article 3(2) of Directive 92/12, inserted by the Council of the European Union, seeks to take due account of the Member States' different fiscal traditions in that regard, particularly the frequent recourse to indirect taxation for the implementation of non-budgetary policies (see, to that effect, judgment of 24 February 2000, Commission v France, C‑434/97, EU:C:2000:98, paragraph 18).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17107">
+          <num>28</num>
+          <content eId="para_17107__content">
+            <p>Article 3(2) of Directive 92/12 cannot therefore be construed as affecting the validity of other indirect taxes on electricity which may be maintained or introduced by the Member States.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17108">
+          <num>29</num>
+          <content eId="para_17108__content">
+            <p>As regards the second part of the first question, it should be recalled that the Court held in its judgment of 25 October 2012, Commission v France ( C‑164/11, not published, EU:C:2012:665), that the French Republic had failed to fulfil its obligations relating to the transposition of Directive 2003/96 on expiry of the time limit, namely 22 May 2010, set in the reasoned opinion sent to that Member State by the Commission.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17109">
+          <num>30</num>
+          <content eId="para_17109__content">
+            <p>The French Republic had acknowledged that, by that date, it had failed to adopt the measures necessary to transpose the provisions of Directive 2003/96, which was subsequently transposed by Law No 2010-1488 (see, to that effect, judgment of 25 October 2012, Commission v France, C‑164/11, not published, EU:C:2012:665, paragraph 22).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17110">
+          <num>31</num>
+          <content eId="para_17110__content">
+            <p>However, Article 37 of Law No 2003-8, which introduced the CSPE, was already in force on the date of filing of the action for failure to fulfil obligations which gave rise to that judgment. Given that the Court ruled that the French Republic had not adapted its electricity taxation system by that date to create a harmonised excise duty on electricity, as acknowledged by the French Republic, the CSPE cannot be classified as such an excise duty.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17111">
+          <num>32</num>
+          <content eId="para_17111__content">
+            <p>Therefore, it is necessary to examine whether the CSPE is compatible with Directives 92/12 and 2003/96 in the light of the conditions laid down in Article 3(2) of Directive 92/12 for determining the existence of other indirect taxes for specific purposes.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17112">
+          <num>33</num>
+          <content eId="para_17112__content">
+            <p>In the light of the foregoing considerations, the answer to the first question is that Article 3(2) of Directive 92/12 must be interpreted as meaning that levying another indirect tax on electricity is not conditional on the imposition of a harmonised excise duty and that, since a tax such as that at issue in the main proceedings does not constitute such an excise duty, its compatibility with Directives 92/12 and 2003/96 must be assessed in the light of the conditions laid down in Article 3(2) of Directive 92/12 for determining the existence of other indirect taxes for specific purposes.</p>
+            <tblock>
+              <p>The second question</p>
+            </tblock>
+            <p>34 By its second question, the referring court asks, in essence, whether Article 3(2) of Directive 92/12 must be interpreted as meaning that a tax such as that at issue in the main proceedings may be classified as `another indirect tax'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17113">
+          <num>35</num>
+          <content eId="para_17113__content">
+            <p>In that regard, it should be noted that Article 3(2) of Directive 92/12 allows Member States to introduce or maintain indirect taxes other than the excise duty instituted by that directive provided that, first, the tax pursues a specific purpose and, second, it complies with the tax rules applicable for excise duty or VAT purposes as far as determination of the tax base, calculation of the tax, chargeability and monitoring of the tax are concerned (see, to that effect, judgment of 27 February 2014, Transportes Jordi Besora, C‑82/12, EU:C:2014:108, paragraph 21).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17114">
+          <num>36</num>
+          <content eId="para_17114__content">
+            <p>Those two conditions, which are intended to prevent additional indirect taxes from improperly obstructing trade, are cumulative, as is apparent from the very wording of that article (judgment of 27 February 2014, Transportes Jordi Besora, C‑82/12, EU:C:2014:108, paragraph 22).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17115">
+          <num>37</num>
+          <content eId="para_17115__content">
+            <p>As regards the first of those conditions, it is apparent from the case-law of the Court that a specific purpose within the meaning of Article 3(2) of Directive 92/12 is a purpose other than a purely budgetary purpose (judgments of 24 February 2000, Commission v France, C‑434/97, EU:C:2000:98, paragraph 19; of 9 March 2000, EKW and Wein &amp; Co, C‑437/97, EU:C:2000:110, paragraph 31; and of 27 February 2014, Transportes Jordi Besora, C‑82/12, EU:C:2014:108, paragraph 23).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17116">
+          <num>38</num>
+          <content eId="para_17116__content">
+            <p>In order to be regarded as pursuing a specific purpose within the meaning of that provision, a tax must itself be directed at achieving the specific purpose stated. That is the case, in particular, where the proceeds of that tax must be used for the purpose of reducing the environmental costs specifically linked to the consumption of the electricity on which that tax is imposed and promoting territorial and social cohesion, so that there is a direct link between the use of the revenue and the purpose of the tax in question (see, to that effect, judgments of 27 February 2014, Transportes Jordi Besora, C‑82/12, EU:C:2014:108, paragraph 30, and of 5 March 2015, Statoil Fuel &amp; Retail, C‑553/13, EU:C:2015:149, paragraph 41).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17117">
+          <num>39</num>
+          <content eId="para_17117__content">
+            <p>However, the predetermined allocation of revenue from a tax, which is merely a matter of internal organisation of the budget of a Member State, cannot, in itself, constitute a sufficient condition in that regard, since any Member State may decide to lay down, irrespective of the purpose pursued, that the proceeds of a tax be allocated to financing particular expenditure (see, to that effect, judgment of 27 February 2014, Transportes Jordi Besora, C‑82/12, EU:C:2014:108, paragraph 29).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17118">
+          <num>40</num>
+          <content eId="para_17118__content">
+            <p>In that regard, it is apparent from the order for reference that, first, the CSPE was intended to finance environmental objectives by covering the additional costs resulting from the obligation of suppliers to purchase electricity generated from renewable energy sources and cogeneration. Secondly, the CSPE was intended to finance objectives of territorial and social cohesion, by offsetting the additional costs of production in areas not connected to the continental metropolitan network, the loss of revenue and the additional management costs borne by suppliers of electricity as a result, first, of the special pricing structure for electricity regarded as a `basic necessity' and, secondly, of their participation in the scheme for low-income persons. Thirdly, the CSPE was intended to finance the costs inherent in the administrative operations of the médiateur national de l'énergie (National Energy Ombudsman) and the Caisse des dépôts et consignations (Equalisation Fund; `the Equalisation Fund') in relation to the management of the CSPE.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17119">
+          <num>41</num>
+          <content eId="para_17119__content">
+            <p>It is also apparent from the information before the Court that the amount of the CSPE was determined in advance according to estimates, provided by operators, of the cost of implementing the objectives pursued by that tax. Those estimates were submitted by operators to the Energy Regulatory Authority which was to calculate, on that basis, the amount of public service costs that that tax was intended to cover and was to transmit its proposal to the government no later than 15 October of the year preceding the relevant tax year. Subsequently, each year, it was for the Minister for Energy to set, before 31 December, the rate of tax per kilowatt hour consumed so that the revenue from that tax would cover all the costs intended to be offset. In addition, the revenue raised from the CSPE was not integrated into the State budget, but was rather deposited in a special account of the Equalisation Fund, intended solely to offset the expenditure incurred in the implementation of the public service tasks assigned to electricity operators, referred to in Article 5 of Law No 2000-108, as amended by Law No 2003-8.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17120">
+          <num>42</num>
+          <content eId="para_17120__content">
+            <p>Thus, as regards, in the first place, the costs inherent in the administrative operations of the National Energy Ombudsman and the Equalisation Fund in relation to the management of the CSPE, it should be noted that such costs do not pursue any specific purpose other than a budgetary purpose and are not specifically linked to the consumption of electricity, but rather to the general functioning of the system established under the relevant national legislation. Such general expenditure may be financed by the proceeds of all kinds of taxes.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17121">
+          <num>43</num>
+          <content eId="para_17121__content">
+            <p>In the second place, the objectives of territorial and social cohesion pursued by the CSPE, namely the implementation of a geographical price-balancing mechanism and a reduction in the price of electricity for low-income households, constitute objectives that are normally met from State budgets and which cannot justify the conclusion that that tax pursued a specific purpose.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17122">
+          <num>44</num>
+          <content eId="para_17122__content">
+            <p>Accordingly, even though the relevant national legislation provided for a mechanism for the predetermined allocation of revenue raised from the CSPE, as recalled in paragraph 41 above, in order to finance, inter alia, the administrative operations and the objectives of territorial and social cohesion, the fact remains that those objectives did not pursue a specific purpose within the meaning of Article 3(2) of Directive 92/12.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17123">
+          <num>45</num>
+          <content eId="para_17123__content">
+            <p>In the third place, as regards the environmental objective pursued by the CSPE, as the Advocate General noted in point 71 of his Opinion, the CSPE encourages the production of electricity from renewable sources and cogeneration by contributing to its financing, thus it is itself directed at achieving the specific purpose stated. There was therefore a direct link between the environmental objective pursued by that tax and mitigation of the negative effects on the environment resulting from electricity consumption.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17124">
+          <num>46</num>
+          <content eId="para_17124__content">
+            <p>Consequently, as regards its environmental objective, the CSPE did indeed pursue a specific purpose.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17125">
+          <num>47</num>
+          <content eId="para_17125__content">
+            <p>As regards the second condition recalled in paragraph 35 above, it is necessary to ascertain whether the CSPE complied with the tax rules applicable for excise duty or VAT purposes as far as determination of the tax base, calculation of the tax, chargeability and monitoring of the tax were concerned, in accordance with Article 3(2) of Directive 92/12.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17126">
+          <num>48</num>
+          <content eId="para_17126__content">
+            <p>In that regard, it should be noted that that provision does not require Member States to comply with all rules applicable for excise duty or VAT purposes as far as determination of the tax base, calculation of the tax, and chargeability and monitoring of the tax are concerned. It is sufficient that the indirect taxes pursuing specific objectives should, on those points, accord with the general scheme of one or other of those taxation techniques as structured by EU legislation (judgment of 24 February 2000, Commission v France, C‑434/97, EU:C:2000:98, paragraph 27).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17127">
+          <num>49</num>
+          <content eId="para_17127__content">
+            <p>As noted by the Advocate General in point 82 of his Opinion, the structure of the CSPE did not correspond to that of VAT, since, first, the amount of the CSPE was not proportional to the price of the product on which it was levied, but was instead calculated in relation to the volume of electricity consumed and, secondly, it was charged at the time of consumption and not at each stage of the production and distribution process, as is the case for VAT. It is therefore necessary to examine the similarities between the tax rules applicable to the CSPE and those applicable to excise duties.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17128">
+          <num>50</num>
+          <content eId="para_17128__content">
+            <p>First, as regards determination of the tax base and calculation of tax, it is apparent from the documents submitted to the Court that the amount of the CSPE was, like excise duty, calculated on the basis of kilowatts consumed.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17129">
+          <num>51</num>
+          <content eId="para_17129__content">
+            <p>Secondly, as regards the chargeability of the CSPE, as provided for in Article 6(1) of Directive 92/12 in relation to excise duty, it became chargeable at the time of release for consumption of the electricity.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17130">
+          <num>52</num>
+          <content eId="para_17130__content">
+            <p>Thirdly, as regards the monitoring of the tax, under the relevant French legislation, electricity suppliers collected the CSPE which was then transferred to the Equalisation Fund and redistributed among the various suppliers. However, monitoring the collection of that tax was the responsibility of the public authorities, through the Energy Regulatory Authority, and disputes relating to that collection came under the jurisdiction of the administrative courts, similarly to what is provided for in relation to indirect taxation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17131">
+          <num>53</num>
+          <content eId="para_17131__content">
+            <p>Consequently, in the light of the information before the Court, it is apparent that the CSPE complied with the tax rules applicable for excise duty purposes and thus satisfied the second condition laid down in Article 3(2) of Directive 92/12, a matter which it is nonetheless for the referring court to verify.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17132">
+          <num>54</num>
+          <content eId="para_17132__content">
+            <p>In the light of the foregoing considerations, the answer to the second question is that Article 3(2) of Directive 92/12 must be interpreted as meaning that a tax such as that at issue in the main proceedings may be classified as `another indirect tax' as regards its environmental objective, which is intended to finance additional costs resulting from the obligation to purchase green energy, but not as regards its objectives of territorial and social cohesion, such as the geographical price-balancing mechanism and the reduction in the price of electricity for low-income households, or as regards its purely administrative objectives, including the financing of costs inherent in the administrative operations of public authorities or institutions such as the National Energy Ombudsman and the Equalisation Fund, subject to verification by the referring court of compliance with the tax rules applicable for excise duty purposes.</p>
+            <tblock>
+              <p>The third question</p>
+            </tblock>
+            <p>55 By its third question, the referring court asks, in essence, whether, in the event that only some of the purposes pursued are classified as specific, within the meaning of Article 3(2) of Directive 92/12, EU law must be interpreted as meaning that the taxable persons concerned are nevertheless entitled to full reimbursement of the amount paid or are entitled only to partial reimbursement in proportion to the overall expenditure financed by the CSPE which did not relate to a specific purpose.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17133">
+          <num>56</num>
+          <content eId="para_17133__content">
+            <p>It follows from settled case-law that the right to reimbursement of taxes levied in a Member State in breach of the rules of EU law is the consequence and complement of the rights conferred on individuals by provisions of EU law as interpreted by the Court. The Member State is therefore in principle required to repay taxes levied in breach of EU law (judgment of 19 July 2012, Littlewoods Retail and Others, C‑591/10, EU:C:2012:478, paragraph 24 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17134">
+          <num>57</num>
+          <content eId="para_17134__content">
+            <p>Likewise, the Court has ruled that the only exception to the right to repayment of taxes levied in breach of EU law is in a case in which a charge that was not due has been directly passed on by the taxable person to the purchaser (judgment of 15 September 2011, Accor, C‑310/09, EU:C:2011:581, paragraph 74).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17135">
+          <num>58</num>
+          <content eId="para_17135__content">
+            <p>In view of the answer to the second question, and provided that the sums paid but not due in respect of the CSPE were not directly passed on by the applicant in the main proceedings, as the final consumer of electricity, to its own customers, which is a matter to be determined by the referring court, that applicant may claim reimbursement of those sums, in the proportion in which revenue raised from the CSPE was used to fund objectives of social and territorial cohesion and purely administrative purposes, including the administrative operations of the National Ombudsman for Energy and the Equalisation Fund in relation to the management of the CSPE.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17136">
+          <num>59</num>
+          <content eId="para_17136__content">
+            <p>In addition, in accordance with the answer given to the fourth question, the applicant may claim reimbursement only of sums paid but not due after 1 January 2009, the date from which the French Republic was required to comply with the provisions of Directive 2003/96.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17137">
+          <num>60</num>
+          <content eId="para_17137__content">
+            <p>In the light of the foregoing considerations, the answer to the third question is that EU law must be interpreted as meaning that the taxable persons concerned are entitled to partial reimbursement of a tax such as that at issue in the main proceedings in the proportion in which revenue raised from that tax was allocated to non-specific objectives, provided that that tax was not directly passed on by the taxable persons to their own customers, which is a matter to be determined by the referring court.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_17138">
+          <num>61</num>
+          <content eId="para_17138__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (First Chamber) hereby rules: 1. The second subparagraph of Article 18(10) of Council Directive 2003/96/EC of 27 October 2003 restructuring the Community framework for the taxation of energy products and electricity must be interpreted as meaning that, until 1 January 2009, compliance with the minimum rates of taxation laid down in that directive was, in the context of rules on the taxation of electricity laid down by EU law, the only obligation incumbent on the French Republic. 2. Article 3(2) of Council Directive 92/12/EEC of 25 February 1992 on the general arrangements for products subject to excise duty and on the holding, movement and monitoring of such products must be interpreted as meaning that levying another indirect tax on electricity is not conditional on the imposition of a harmonised excise duty and that, since a tax such as that at issue in the main proceedings does not constitute such an excise duty, its compatibility with Directives 92/12 and 2003/96 must be assessed in the light of the conditions laid down in Article 3(2) of Directive 92/12 for determining the existence of other indirect taxes for specific purposes. 3. Article 3(2) of Directive 92/12 must be interpreted as meaning that a tax such as that at issue in the main proceedings may be classified as `another indirect tax' as regards its environmental objective, which is intended to finance additional costs resulting from the obligation to purchase green energy, but not as regards its objectives of territorial and social cohesion, such as the geographical price-balancing mechanism and the reduction in the price of electricity for low-income households, or as regards its purely administrative objectives, including the financing of costs inherent in the administrative operations of public authorities or institutions such as the médiateur national de l'énergie and the Caisse des dépôts et consignations, subject to verification by the referring court of compliance with the tax rules applicable for excise duty purposes. 4. EU law must be interpreted as meaning that the taxable persons concerned are entitled to partial reimbursement of a tax such as that at issue in the main proceedings in the proportion in which revenue raised from that tax was allocated to non-specific objectives, provided that that tax was not directly passed on by the taxable persons to their own customers, which is a matter to be determined by the referring court.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: French.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

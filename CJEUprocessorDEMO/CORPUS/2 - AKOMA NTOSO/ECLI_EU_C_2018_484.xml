@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Second Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>21 June 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Intellectual and industrial property -- Patent law -- Acts of Accession to the European Union of 2003, 2005 and 2012 -- Specific Mechanism -- Whether applicable to parallel imports -- Regulation (EC) No 469/2009 -- Product protected by a supplementary protection certificate in a Member State and marketed by the holder of the basic patent in another Member State -- Exhaustion of intellectual and industrial property rights -- No basic patent in the new Member States -- Regulation (EC) No 1901/2006 -- Extension of the protection period) In Case C‑681/16, REQUEST for a preliminary ruling under Article 267 TFEU from the Landgericht Düsseldorf (Regional Court, Düsseldorf, Germany), made by decision of 15 December 2016, received at the Court on 27 December 2016, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">Pfizer Ireland Pharmaceuticals</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="appellant" refersTo="#">Operations Support Group</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#">Orifarm GmbH</party>
+      </p>
+      <p>, THE COURT (Second Chamber), composed of M. Ilešič, President of the Chamber, A. Rosas, C. Toader (Rapporteur), A. Prechal and E. Jarašiūnas, Judges, Advocate General: E. Tanchev, Registrar: K. Malacek, Administrator, having regard to the written procedure and further to the hearing on 15 November 2017, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>Pfizer Ireland Pharmaceuticals, Operations Support Group, by J. Feldges and B. Kramer, Rechtsanwälte, and by M. Struys, avocat,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>Orifarm GmbH, by A. Rosenfeld, A. Okonek, and L. Manthey, Rechtsanwälte,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by T. Scharf and J. Samnadda, acting as Agents, after hearing the Opinion of the Advocate General at the sitting on 7 February 2018,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_14652">
+          <num>1</num>
+          <content eId="para_14652__content">
+            <p>This request for a preliminary ruling concerns the interpretation of the Specific Mechanisms laid down in Chapter 2 of Annex IV to the Act concerning the conditions of accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic and the adjustments to the Treaties on which the European Union is founded ( OJ 2003 L 236, p. 33, and corrigendum OJ 2004 L 126, p. 2; `the Act of Accession of 2003'), in Chapter 1 of Annex V to the Act concerning the conditions of accession of the Republic of Bulgaria and Romania and the adjustments to the Treaties on which the European Union is founded ( OJ 2005 L 157, p. 203; `the Act of Accession of 2005'), and in Chapter 1 of Annex IV to the Act concerning the conditions of accession of the Republic of Croatia and the adjustments to the Treaty on European Union, the Treaty on the Functioning of the European Union and the Treaty establishing the European Atomic Energy Community ( OJ 2012 L 112, p. 21; `the Act of Accession of 2012'), and the interpretation of Regulation (EC) No 469/2009 of the European Parliament and of the Council of 6 May 2009 concerning the supplementary protection certificate for medicinal products ( OJ 2009 L 152, p. 1; `the SPC Regulation') and of Regulation (EC) No 1901/2006 of the European Parliament and of the Council of 12 December 2006 on medicinal products for paediatric use and amending Regulation (EEC) No 1768/92, Directive 2001/20/EC, Directive 2001/83/EC and Regulation (EC) No 726/2004 ( OJ 2006 L 378, p. 1).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14653">
+          <num>2</num>
+          <content eId="para_14653__content">
+            <p>The request has been made in proceedings between Pfizer Ireland Pharmaceuticals, Operations Support Group and Orifarm GmbH concerning parallel imports into Germany of the medicinal product `Enbrel' from new Member States.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>The Act of Accession of 2003</p>
+        </tblock>
+        <paragraph eId="para_14654">
+          <num>3</num>
+          <content eId="para_14654__content">
+            <p>Chapter 2 of Annex IV to the Act of Accession of 2003, entitled `Company law', provides: `Specific Mechanism With regard to the Czech Republic, Estonia, Latvia, Lithuania, Hungary, Poland, Slovenia or Slovakia, the holder, or his beneficiary, of a patent or supplementary protection certificate for a pharmaceutical product filed in a Member State at a time when such protection could not be obtained in one of the abovementioned new Member States for that product, may rely on the rights granted by that patent or supplementary protection certificate in order to prevent the import and marketing of that product in the Member State or States where the product in question enjoys patent protection or supplementary protection, even if the product was put on the market in that new Member State for the first time by him or with his consent. Any person intending to import or market a pharmaceutical product covered by the above paragraph in a Member State where the product enjoys patent or supplementary protection shall demonstrate to the competent authorities in the application regarding that import that one month's prior notification has been given to the holder or beneficiary of such protection.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The Act of Accession of 2005</p>
+        </tblock>
+        <paragraph eId="para_14655">
+          <num>4</num>
+          <content eId="para_14655__content">
+            <p>Chapter 1 of Annex V to the Act of Accession of 2005, entitled `Company law', is worded as follows: `Specific Mechanism With regard to Bulgaria or Romania, the holder, or his beneficiary, of a patent or supplementary protection certificate for a pharmaceutical product filed in a Member State at a time when such protection could not be obtained in one of the abovementioned new Member States for that product, may rely on the rights granted by that patent or supplementary protection certificate in order to prevent the import and marketing of that product in the Member State or States where the product in question enjoys patent protection or supplementary protection, even if the product was put on the market in that new Member State for the first time by him or with his consent. Any person intending to import or market a pharmaceutical product covered by the above paragraph in a Member State where the product enjoys patent or supplementary protection shall demonstrate to the competent authorities in the application regarding that import that one month's prior notification has been given to the holder or beneficiary of such protection.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>The Act of Accession of 2012</p>
+        </tblock>
+        <paragraph eId="para_14656">
+          <num>5</num>
+          <content eId="para_14656__content">
+            <p>Chapter 1 of Annex IV to the Act of Accession of 2012, entitled `Intellectual property law', states: `Specific Mechanism With regard to Croatia, the holder, or the holder's beneficiary, of a patent or Supplementary Protection Certificate (SPC) for a medicinal product filed in a Member State at the time when such protection could not be obtained in Croatia for that product, may rely on the rights granted by that patent or SPC in order to prevent the import and marketing of that product in the Member State or Member States where the product in question enjoys patent or SPC protection, even if this product was put on the market in Croatia for the first time by the holder or with the holder's consent. Any person intending to import or market a medicinal product covered by the first paragraph in a Member State where the product enjoys patent or SPC protection shall demonstrate to the competent authorities in the application regarding that import that one month's prior notification has been given to the holder or beneficiary of such protection.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Regulation No 1901/2006</p>
+        </tblock>
+        <paragraph eId="para_14657">
+          <num>6</num>
+          <content eId="para_14657__content">
+            <p>Recitals 4, 26 and 27 of Regulation No 1901/2006 are worded as follows: `</p>
+            <blockList>
+              <item>
+                <num>(4)</num>
+                <p>This Regulation aims to facilitate the development and accessibility of medicinal products for use in the paediatric population, to ensure that medicinal products used to treat the paediatric population are subject to ethical research of high quality and are appropriately authorised for use in the paediatric population, and to improve the information available on the use of medicinal products in the various paediatric populations. These objectives should be achieved without subjecting the paediatric population to unnecessary clinical trials and without delaying the authorisation of medicinal products for other age populations. ...</p>
+                <blockList>
+                  <item>
+                    <num>(26)</num>
+                    <p>For products falling within the scope of the requirement to submit paediatric data, if all the measures included in the agreed paediatric investigation plan are complied with, if the product is authorised in all Member States and if relevant information on the results of studies is included in product information, a reward should be granted in the form of a 6-month extension of the [SPC] created by Council Regulation (EEC) No 1768/92 [of 18 June 1992 concerning the creation of a supplementary protection certificate for medicinal products ( OJ 1992 L 182, p. 1)]. ...</p>
+                  </item>
+                  <item>
+                    <num>(27)</num>
+                    <p>An application for an extension of the duration of the certificate pursuant to this Regulation should only be admissible where a certificate is granted pursuant to Regulation [No 1768/92].'</p>
+                  </item>
+                </blockList>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14658">
+          <num>7</num>
+          <content eId="para_14658__content">
+            <p>Article 36(1) of Regulation No 1901/2006 states: `Where an application under Article 7 or 8 includes the results of all studies conducted in compliance with an agreed paediatric investigation plan, the holder of the patent or [SPC] shall be entitled to a six-month extension of the period referred to in Articles 13(1) and 13(2) of Regulation [No 1768/92].'</p>
+            <tblock>
+              <p>The SPC Regulation</p>
+            </tblock>
+            <p>8 Recitals 2, 4, 5, 6, 8 and 10 of the SPC regulation read as follows: `</p>
+            <blockList>
+              <item>
+                <num>(2)</num>
+                <p>Pharmaceutical research plays a decisive role in the continuing improvement in public health. ...</p>
+                <blockList>
+                  <item>
+                    <num>(4)</num>
+                    <p>At the moment, the period that elapses between the filing of an application for a patent for a new medicinal product and authorisation to place the medicinal product on the market makes the period of effective protection under the patent insufficient to cover the investment put into the research.</p>
+                  </item>
+                  <item>
+                    <num>(5)</num>
+                    <p>This situation leads to a lack of protection which penalises pharmaceutical research.</p>
+                  </item>
+                  <item>
+                    <num>(6)</num>
+                    <p>There exists a risk of research centres situated in the Member States relocating to countries that offer greater protection. ...</p>
+                  </item>
+                </blockList>
+              </item>
+              <item>
+                <num>(8)</num>
+                <p>Therefore, the provision of [an SPC] granted, under the same conditions, by each of the Member States at the request of the holder of a national or European patent relating to a medicinal product for which marketing authorisation has been granted is necessary. A regulation is therefore the most appropriate legal instrument. ...</p>
+              </item>
+              <item>
+                <num>(10)</num>
+                <p>All the interests at stake, including those of public health, in a sector as complex and sensitive as the pharmaceutical sector should nevertheless be taken into account. For this purpose, the certificate cannot be granted for a period exceeding five years. The protection granted should furthermore be strictly confined to the product which obtained authorisation to be placed on the market as a medicinal product.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14659">
+          <num>9</num>
+          <content eId="para_14659__content">
+            <p>Article 1 of the SPC Regulation, entitled `Definitions', states: `For the purposes of this Regulation, the following definitions shall apply:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>``medicinal product '' means any substance or combination of substances presented for treating or preventing disease in human beings ...;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>``product '' means the active ingredient or combination of active ingredients of a medicinal product;</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>``basic patent '' means a patent which protects a product as such, a process to obtain a product or an application of a product, and which is designated by its holder for the purpose of the procedure for grant of a certificate;</p>
+              </item>
+              <item>
+                <num>(d)</num>
+                <p>``certificate '' means the [SPC]; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14660">
+          <num>10</num>
+          <content eId="para_14660__content">
+            <p>Article 3 of the SPC Regulation, entitled `Conditions for obtaining a certificate', is worded as follows: `A certificate shall be granted if, in the Member State in which the application referred to in Article 7 is submitted and at the date of that application:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>the product is protected by a basic patent in force;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>a valid authorisation to place the product on the market as a medicinal product has been granted in accordance with Directive [2001/83/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to medicinal products for human use ( OJ 2001 L 311, p. 67)] ...;</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>the product has not already been the subject of a certificate;</p>
+              </item>
+              <item>
+                <num>(d)</num>
+                <p>the authorisation referred to in point (b) is the first authorisation to place the product on the market as a medicinal product.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14661">
+          <num>11</num>
+          <content eId="para_14661__content">
+            <p>Article 4 of that regulation, entitled `Subject matter of protection', provides: `Within the limits of the protection conferred by the basic patent, the protection conferred by a certificate shall extend only to the product covered by the authorisation to place the corresponding medicinal product on the market and for any use of the product as a medicinal product that has been authorised before the expiry of the certificate.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14662">
+          <num>12</num>
+          <content eId="para_14662__content">
+            <p>Article 5 of the SPC Regulation reads as follows: `Subject to the provisions of Article 4, the certificate shall confer the same rights as conferred by the basic patent and shall be subject to the same limitations and the same obligations.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14663">
+          <num>13</num>
+          <content eId="para_14663__content">
+            <p>Article 6 of the SPC Regulation, headed `Entitlement to the certificate', provides that the SPC is to be granted to the holder of the basic patent or his successor in title.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14664">
+          <num>14</num>
+          <content eId="para_14664__content">
+            <p>Paragraphs 1, 3, 4 and 5 of Article 7 of the regulation, entitled `Application for a certificate', provide as follows: `1.   The application for a certificate shall be lodged within six months of the date on which the authorisation referred to in Article 3(b) to place the product on the market as a medicinal product was granted. ... 3.   The application for an extension of the duration may be made when lodging the application for a certificate or when the application for the certificate is pending and the appropriate requirements of Article 8(1)(d) or Article 8(2), respectively, are fulfilled. 4.   The application for an extension of the duration of a certificate already granted shall be lodged not later than two years before the expiry of the certificate. 5.   Notwithstanding paragraph 4, for five years following the entry into force of Regulation [No 1901/2006], the application for an extension of the duration of a certificate already granted shall be lodged not later than six months before the expiry of the certificate.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14665">
+          <num>15</num>
+          <content eId="para_14665__content">
+            <p>Under Article 13 of the regulation, entitled `Duration of the certificate': `1.   The certificate shall take effect at the end of the lawful term of the basic patent for a period equal to the period which elapsed between the date on which the application for a basic patent was lodged and the date of the first authorisation to place the product on the market in the Community, reduced by a period of five years. 2.   Notwithstanding paragraph 1, the duration of the certificate may not exceed five years from the date on which it takes effect. 3.   The periods laid down in paragraphs 1 and 2 shall be extended by six months in the case where Article 36 of Regulation [No 1901/2006] applies. In that case, the duration of the period laid down in paragraph 1 of this Article may be extended only once. ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14666">
+          <num>16</num>
+          <content eId="para_14666__content">
+            <p>According to the correlation table in Annex II to that regulation, the provisions of Article 13(1), (2) and (3) of Regulation No 1768/92 correspond to those of Article 13(1), (2) and (3) of the SPC Regulation.</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_14667">
+          <num>17</num>
+          <content eId="para_14667__content">
+            <p>The applicant in the main proceedings, Pfizer Ireland Pharmaceuticals, Operations Support Group, established in Ireland, is a pharmaceutical company of the Pfizer Group, to which Pfizer Pharma GmbH, a sister company of the applicant in the main proceedings, established in Germany, also belongs.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14668">
+          <num>18</num>
+          <content eId="para_14668__content">
+            <p>According to the statement made by the applicant in the main proceedings during the hearing before the Court, the Pfizer Group purchased the pharmaceutical company Wyeth Pharma and its assets in October 2009, including, inter alia, the SPC, the grant of which that company had applied for on 26 June 2003 on the basis of European patent No 0 939121 ( `the SPC at issue') and the authorisation to place the medicinal product Enbrel on the market ( `the marketing authorisation'). Enbrel is manufactured by the applicant in the main proceedings in Germany and is marketed in several other countries for the treatment of arthritis. The SPC at issue covered the protein etanercept, an active ingredient of that medicinal product.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14669">
+          <num>19</num>
+          <content eId="para_14669__content">
+            <p>AHP Manufacturing BV held the basic patent at issue in the main proceedings, which had been applied for on 31 August 1990 by the pharmaceutical company Roche on the basis of the Swiss priorities of 12 September 1989, 8 March 1990 and 20 April 1990. That application was published on 1 September 1991.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14670">
+          <num>20</num>
+          <content eId="para_14670__content">
+            <p>The first marketing authorisation for the medicinal product Enbrel was granted to Wyeth Pharma on 1 February 2000 for Switzerland, which also had effect for the European Union.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14671">
+          <num>21</num>
+          <content eId="para_14671__content">
+            <p>On 11 January 2006, the Deutsches Patent- und Markenamt (German Patent and Trade Mark Office) granted the SPC at issue for Germany.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14672">
+          <num>22</num>
+          <content eId="para_14672__content">
+            <p>Following the expiry of the basic patent at issue in the main proceedings, on 31 August 2010, the SPC at issue entered into force on 1 September 2010, for a period expiring on 1 February 2015.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14673">
+          <num>23</num>
+          <content eId="para_14673__content">
+            <p>By decision of the German Patent and Trade Mark Office of 15 October 2012, the duration of the SPC at issue was extended until 1 August 2015 under the combined provisions of the SPC Regulation and Regulation No 1901/2006.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14674">
+          <num>24</num>
+          <content eId="para_14674__content">
+            <p>The defendant in the main proceedings, established in Germany, is an undertaking in the Danish group Orifarm, operating as a parallel importer of medicinal products.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14675">
+          <num>25</num>
+          <content eId="para_14675__content">
+            <p>It is apparent from the file before the Court that the defendant in the main proceedings informed Pfizer Pharma in November 2012 of its intention to carry out parallel imports from Estonia and Latvia mainly and -- from February 2015 -- from Bulgaria, the Czech Republic, Hungary, Poland, Romania, Slovakia and Slovenia. By a considerable amount of written correspondence with the defendant in the main proceedings between 2012 and 2015, Pfizer Pharma repeatedly opposed those imports.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14676">
+          <num>26</num>
+          <content eId="para_14676__content">
+            <p>In April 2015, it came to the attention of Pfizer Pharma that packages of the medicinal product Enbrel, which had been manufactured for Poland, Slovenia, Lithuania and Croatia, and all of which identified the defendant in the main proceedings as a parallel importer, were available on the German market.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14677">
+          <num>27</num>
+          <content eId="para_14677__content">
+            <p>Given that the Specific Mechanisms laid down in the Acts of Accession of 2003, 2005 and 2012 ( `the Specific Mechanisms') prevent parallel imports of the products concerned into Germany, the applicant in the main proceedings brought an action on 1 June 2015 before the Landgericht Düsseldorf (Regional Court, Düsseldorf, Germany) for infringement of the SPC at issue and for its extension.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14678">
+          <num>28</num>
+          <content eId="para_14678__content">
+            <p>It seeks, in the first place, an injunction prohibiting the importation, possession, offering for sale and placing on the market of the medicinal product Enbrel. The information before the Court shows that the applicant in the main proceedings withdrew, after 1 August 2015, the first head of claim following the expiry of the SPC at issue. It seeks, in the second place, orders requiring the disclosure of information about those activities for the period from 1 September 2010 to 1 August 2015, including the submission of copies of invoices, and the recall and destruction of the imported products, and, in the third place, a declaration of a right to damages.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14679">
+          <num>29</num>
+          <content eId="para_14679__content">
+            <p>The applicant in the main proceedings is of the opinion that the date on which the levels of protection should be compared, for the purpose of examining the applicability of the Specific Mechanisms, is the date on which the application for the basic patent was filed in the importing Member State. It also argues that the concept of `extension' of the SPC must be understood as meaning that it is included in the concept of an `SPC' for the purposes of the Specific Mechanisms, even though Regulation No 1901/2006, which governs that extension, was not in force at the time when the Acts of Accession of 2003 and 2005 were concluded.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14680">
+          <num>30</num>
+          <content eId="para_14680__content">
+            <p>For its part, the defendant in the main proceedings argues before the referring court that the Specific Mechanisms are inapplicable on the ground that, on the date of the filing of the application for the SPC at issue, equivalent protection should have been obtained in the new Member States in question. In that regard, it submits that the basic patent and the SPC must be considered separately.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14681">
+          <num>31</num>
+          <content eId="para_14681__content">
+            <p>It is apparent from the order for reference that it is common ground between the parties that, on the date on which the application for the basic patent was filed, namely 31 August 1990, it was impossible to obtain equivalent protection for the product at issue in the main proceedings in all of the new Member States in question and that, on the date on which the application for the SPC at issue was filed, namely 26 June 2003, it was possible to obtain protection of that product by means of an SPC in all those States, with the exception of Croatia.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14682">
+          <num>32</num>
+          <content eId="para_14682__content">
+            <p>In that regard, the referring court considers, in the light of the judgment of 15 January 2015, Forsgren ( C‑631/13, EU:C:2015:13), that the basic patent and the SPC are protection rights that are both independent and closely connected and points out that the possibility of obtaining protection by means of an SPC in the new Member States in question at the time when the application for the SPC at issue for Germany was filed must be examined in the light of the fact that the product at issue in the main proceedings could not be protected in those States at the time when the application for the basic patent at issue in the main proceedings was filed.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14683">
+          <num>33</num>
+          <content eId="para_14683__content">
+            <p>According to the referring court, the contention that the basic patent is a necessary condition for the subsequent grant of an SPC is an argument in favour of taking into account the date on which the application for the basic patent was filed. It does, however, acknowledge that such an interpretation could result in a disproportionate restriction of the principle of exhaustion and of the free movement of goods.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14684">
+          <num>34</num>
+          <content eId="para_14684__content">
+            <p>As the referring court is also uncertain as to whether the Specific Mechanisms cover the SPC extension -- if the question is answered in the affirmative, the defendant in the main proceedings would not be able to rely on the exhaustion of rights for the period from 1 February to 1 August 2015 -- that court observes that the wording of the Acts of Accession merely distinguishes the basic patent from the SPC and does not refer to Regulation No 1901/2006. According to the referring court, the fact that the purpose of the SPC and that of its extension are identical nonetheless supports that affirmative answer. It notes, however, that that reasoning is opposed by the need to interpret the Specific Mechanisms narrowly, as well as the regard to be had to the hierarchy of norms, inasmuch as a secondary legislative act, in the present case Regulation No 1901/2006, would broaden -- in some cases ex post facto -- the scope of primary legislative acts, namely the Acts of Accession of 2003, 2005 and 2012 laying down the Specific Mechanisms.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14685">
+          <num>35</num>
+          <content eId="para_14685__content">
+            <p>In those circumstances, the Landgericht Düsseldorf (Regional Court, Düsseldorf) decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling: `</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>Can the holder of [an SPC] that was issued to it for [Germany] rely on the Specific Mechanism to prevent the importation of products into [Germany] from the Accession States the Czech Republic, Estonia, Latvia, Lithuania, Hungary, Poland, Slovenia, Slovakia, Bulgaria, Romania and Croatia [ ...] if the [SPC] was applied for in [Germany] at a time at which the laws for obtaining such [an SPC] already existed in the respective Accession States but could not be applied for by, or issued to, the holder of the [ ...] certificate issued for [Germany] because the basic patent required for the issuing of the [SPC] did not exist in the Accession State?</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>Does it make any difference to the answer to the first question if it was merely at the time of the filing of the application for the basic patent issued for [Germany] that such protection through a basic patent could not be obtained in the Accession State but, by the time of publication of the application on which the basic patent issued for the Federal Republic of Germany was based, it could be so obtained?</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>Can the holder of [an SPC] that was issued to it for [Germany] rely on the Specific Mechanism to prevent the importation of products into [Germany] from the Accession States the Czech Republic, Estonia, Latvia, Lithuania, Hungary, Poland, Slovenia, Slovakia, Bulgaria, Romania and Croatia if those products are imported after the expiry of the term of the [SPC] stipulated in the original decision to grant the patent but before the expiry of the six-month extension of the term of the [SPC] that was granted to it on the basis of Regulation [No 1901/2006]?</p>
+              </item>
+              <item>
+                <num>(4)</num>
+                <p>Does it make any difference to the answer to the third question, in the case of Croatia, that, on account of the accession of Croatia in 2013, the Specific Mechanism did not come into force until after the entry into force of Regulation [No 1901/2006] -- unlike in the other Member States which acceded prior to 26 January 2007, namely the Czech Republic, Estonia, Latvia, Lithuania, Hungary, Poland, Slovenia, Slovakia, Bulgaria and Romania?'</p>
+                <tblock>
+                  <p>Consideration of the questions referred</p>
+                </tblock>
+                <tblock>
+                  <p>The first and second questions</p>
+                </tblock>
+                <p>36 By the first and second questions, which it is appropriate to examine together, the referring court asks, in essence, whether the Specific Mechanisms must be interpreted as authorising the holder of an SPC issued in a Member State other than the new Member States to oppose the parallel importation of a medicinal product from those new Member States in a situation where the legal systems of those States provided for the possibility of obtaining equivalent protection at the time when the application for the basic patent was published and/or the application for an SPC in the importing Member State was filed, but did not yet provide for such a possibility at the time at which the application for a basic patent was filed, with the result that it was impossible for the patent holder to obtain an equivalent patent and an SPC in the exporting States.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14686">
+          <num>37</num>
+          <content eId="para_14686__content">
+            <p>More specifically, by those questions, the referring court seeks to determine the precise date in respect of which the level of protection in the importing Member State and the level of protection in the exporting States should be compared for the purpose of applying the Specific Mechanisms.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14687">
+          <num>38</num>
+          <content eId="para_14687__content">
+            <p>By virtue of a general rule contained in Article 2 of the Acts of Accession of 2003, 2005 and 2012, the provisions of the original Treaties and the acts adopted by the institutions prior to the accession of the new Member States are binding on those States, from the date of their accession, and apply in those States under the conditions laid down in those Treaties and acts. It follows that, from the time of accession, the provisions of the Treaties relating to the free movement of goods and the principles deriving therefrom by virtue of the Court's case-law apply to trade between the new Member States and the other EU Member States.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14688">
+          <num>39</num>
+          <content eId="para_14688__content">
+            <p>As the Court has consistently held, the holder of an intellectual or industrial property right protected by the legislation of a Member State cannot rely upon that legislation to prevent the importation of a product which has been lawfully marketed in another Member State by the holder himself or with his consent (see, inter alia, judgments of 14 July 1981, Merck, 187/80, EU:C:1981:180, paragraph 12, and of 12 February 2015, Merck Canada and Merck Sharp &amp; Dohme, C‑539/13, EU:C:2015:87, paragraph 24).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14689">
+          <num>40</num>
+          <content eId="para_14689__content">
+            <p>However, as is the case in the Act concerning the conditions of accession of the Kingdom of Spain and the Portuguese Republic and the adjustments to the Treaties ( OJ 1985 L 302, p. 23), the Acts of Accession of 2003, 2005 and 2012 lay down, as observed by the Advocate General in point 47 of his Opinion, specific mechanisms that seek to achieve a balance between the free movement of goods and the effective protection of intellectual and industrial property rights granted under a basic patent. For that purpose, those mechanisms enable the holder of the basic patent to rely on his exclusive rights against importers in situations in which those rights would otherwise be exhausted under the Court's case-law. Those mechanisms therefore seek to prevent a situation in which full application of internal market principles after the accession of the new Member States would expose the holder of the basic patent to parallel imports from those States without having been able to protect his invention in those States and, as a result, without having received adequate compensation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14690">
+          <num>41</num>
+          <content eId="para_14690__content">
+            <p>The Specific Mechanisms thus derogate from the free movement of goods. However, the Court has consistently held that provisions in an Act of Accession which permit exceptions to or derogations from rules laid down by the Treaties must be interpreted strictly (see, inter alia, judgments of 5 December 1996, Merck and Beecham, C‑267/95 and C‑268/95, EU:C:1996:468, paragraph 23, and of 12 February 2015, Merck Canada and Merck Sharp &amp; Dohme, C‑539/13, EU:C:2015:87, paragraph 25 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14691">
+          <num>42</num>
+          <content eId="para_14691__content">
+            <p>In the present case, although the wording of the provisions of Chapter 2 of Annex IV to the Act of Accession of 2003, of Chapter 1 of Annex V to the Act of Accession of 2005 and of Chapter 1 of Annex IV to the Act of Accession of 2012 is somewhat ambiguous, it is nonetheless the case that the phrase `protection could not be obtained', used in those provisions, establishes a negative condition relating to the equivalence of the levels of protection to be compared. It follows that the application of the Specific Mechanisms to parallel imports depends on there being no such equivalent protection.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14692">
+          <num>43</num>
+          <content eId="para_14692__content">
+            <p>As regards the exact date on which the level of protection in the importing Member State and that in the exporting States must be compared, it follows from the use of the word `filed' in the provisions cited in paragraph 42 of this judgment that that date is the date on which the application for protection was lodged.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14693">
+          <num>44</num>
+          <content eId="para_14693__content">
+            <p>In that regard, it must be pointed out that, although the original German version of the Acts of Accession of 2003 and 2005 used the word ` eingetragen' (registered) instead of ` beantragt' (filed), that version was rectified, in 2004 and 2011, by means of the second procès-verbal of rectification to the Treaty of Accession 2003 ( OJ 2004 L 126, p. 2) and the procès-verbal of rectification to the Treaty of Accession 2005 ( OJ 2011 L 347, p. 62) respectively. The Act of Accession of 2012 used the term ` beantragt' from the outset.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14694">
+          <num>45</num>
+          <content eId="para_14694__content">
+            <p>In the present case, the basic patent at issue in the main proceedings was filed in Germany on 31 August 1990, at a time when equivalent protection was not yet provided for in the legislation of the 11 exporting States which would join the European Union in 2004, 2007 and 2013. For example, patent protection was introduced in Czechoslovakia only in November 1990, in Romania and Slovenia in 1992, in Poland and Latvia in 1993, and in Lithuania, Hungary and Estonia in 1994.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14695">
+          <num>46</num>
+          <content eId="para_14695__content">
+            <p>As observed by the referring court, the SPC at issue was, for its part, applied for in Germany on 26 June 2003, a date at which the legal systems of the exporting States already provided for the possibility of obtaining equivalent protection.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14696">
+          <num>47</num>
+          <content eId="para_14696__content">
+            <p>In those circumstances, the question is whether the date to be taken into account in order to compare the levels of protection in the importing Member State and the exporting States must be the date on which the application for the SPC was filed or the date on which the application for the basic patent was filed.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14697">
+          <num>48</num>
+          <content eId="para_14697__content">
+            <p>In order to answer that question, the purpose of the SPC must be taken into account.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14698">
+          <num>49</num>
+          <content eId="para_14698__content">
+            <p>In that regard, it should be recalled that the Court has consistently held that the SPC is designed simply to re-establish a sufficient period of effective protection of the basic patent by permitting the holder to enjoy an additional period of exclusivity on the expiry of that patent, which is intended to compensate, at least in part, for the delay to the commercial exploitation of his invention by reason of the time which has elapsed between the date on which the application for the patent was filed and the date on which the first marketing authorisation in the European Union was granted (judgment of 12 December 2013, Eli Lilly and Company, C‑493/12, EU:C:2013:835, paragraph 41 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14699">
+          <num>50</num>
+          <content eId="para_14699__content">
+            <p>In order for an SPC to be granted, however, the cumulative conditions set out in Article 3 of the SPC Regulation must be fulfilled. That provision provides, in essence, that an SPC can be granted only if, at the date of the application, the product is protected by a basic patent in force and has not already been the subject of an SPC. In addition, that product must have been granted a marketing authorisation as a medicinal product which is still valid, in accordance with Directive 2001/83 or Directive 2001/82, as appropriate; and, lastly, that marketing authorisation must be the first in relation to that product as a medicinal product (judgment of 15 January 2015, Forsgren, C‑631/13, EU:C:2015:13, paragraph 32).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14700">
+          <num>51</num>
+          <content eId="para_14700__content">
+            <p>It follows from the considerations in paragraphs 49 and 50 of this judgment that there is an unbreakable connection between the existence of an SPC and that of a basic patent, since, if there is no basic patent, a product cannot be protected by an SPC.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14701">
+          <num>52</num>
+          <content eId="para_14701__content">
+            <p>That finding is supported by the wording of several provisions of the SPC Regulation. Thus, Article 6 of that regulation provides that the SPC is to be granted to the holder of the basic patent or his successor in title. Article 13(1) of that regulation provides that the CCP is to take effect at the end of the lawful term of the basic patent for a period equal to the period which elapsed between the date on which the application for a basic patent was filed and the date of the first marketing authorisation in the European Union, reduced by a period of five years.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14702">
+          <num>53</num>
+          <content eId="para_14702__content">
+            <p>What is more, under Article 5 of the SPC Regulation, an SPC confers, upon the expiry of the basic patent, the same rights as were conferred by the patent in relation to the product in question, within the limits of the protection conferred by the patent, set out in Article 4 of that regulation. Accordingly, if, during the period in which the basic patent was valid, the patent holder could oppose, on the basis of the patent, all use or certain uses of his product in the form of a medicinal product consisting of such a product or containing it, the SPC granted in respect of that product would confer on the holder the same rights for all uses of the product, as a medicinal product, which were authorised before the expiry of the SPC (see, to that effect, order of 9 February 2012, Novartis, C‑574/11, not published, EU:C:2012:68, paragraph 18 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14703">
+          <num>54</num>
+          <content eId="para_14703__content">
+            <p>Consequently, although the legal systems of the exporting States already provided for the possibility of obtaining equivalent protection at the time when the SPC at issue was applied for, that possibility was in fact hypothetical, since a basic patent in each of those States is a necessary condition for effectively obtaining an SPC.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14704">
+          <num>55</num>
+          <content eId="para_14704__content">
+            <p>It is common ground that, at the time when the application for the basic patent at issue in the main proceedings in Germany was filed, on 31 August 1990, it was impossible for the patent holder to apply for equivalent protection in the exporting States, as the possibility of such protection was not introduced by those States until a later date.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14705">
+          <num>56</num>
+          <content eId="para_14705__content">
+            <p>In addition, if a later date than that on which the application for the basic patent was filed were to be considered decisive for comparing the level of protection in the importing State and that in the exporting States, this would jeopardise the balance, which the Specific Mechanisms seek to establish, between the effective protection of the rights granted by a basic patent or an SPC and the free movement of goods under the FEU Treaty, by imposing, in particular, an obligation on the patent holder continually to monitor the laws of any potential Accession State and even by according different treatment to patent holders who filed patent applications on the same day, depending on the length of the marketing authorisation procedure, over which patent holders have, as a general rule, no influence. Moreover, as observed by the Commission, in many cases the filing of a patent application in exporting States upon the entry into force of equivalent protection in those States would be bound to fail for want of novelty of the invention at that time.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14706">
+          <num>57</num>
+          <content eId="para_14706__content">
+            <p>In the light of the foregoing considerations, the answer to the first and second questions is that the Specific Mechanisms must be interpreted as authorising the holder of an SPC issued in a Member State other than the new Member States to oppose the parallel importation of a medicinal product from the new Member States in a situation where the legal systems of those States provided for the possibility of obtaining equivalent protection at the time when the application for the basic patent was published and/or the application for an SPC in the importing Member State was filed, but did not yet provide for such a possibility at the time when the application for a basic patent was filed, with the result that it was impossible for the patent holder to obtain an equivalent patent and SPC in the exporting States.</p>
+            <tblock>
+              <p>The third and fourth questions</p>
+            </tblock>
+            <p>58 By its third and fourth questions, which it is appropriate to examine together, the referring court asks, in essence, whether the Specific Mechanisms must be interpreted as applying to the extension provided for in Article 36(1) of Regulation No 1901/2006, although that extension is not expressly provided for in those mechanisms.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14707">
+          <num>59</num>
+          <content eId="para_14707__content">
+            <p>At the outset, it should be borne in mind that Article 36(1) of Regulation No 1901/2006 governs the SPC extension. According to recital 26 of that regulation, such an extension represents a reward for products falling within the scope of the requirement to submit paediatric data, if all the measures included in the agreed paediatric investigation plan are complied with, if the product is authorised in all Member States and if relevant information on the results of studies is included in product information.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14708">
+          <num>60</num>
+          <content eId="para_14708__content">
+            <p>Article 36(1) of Regulation No 1901/2006 provides that, where an application under Article 7 or 8 of the regulation includes the results of all studies conducted in compliance with an agreed paediatric investigation plan, the holder of the basic patent or SPC is entitled to a six-month extension of the period referred to in Articles 13(1) and 13(2) of Regulation No 1768/92.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14709">
+          <num>61</num>
+          <content eId="para_14709__content">
+            <p>Regulation No 1768/92, which has been amended on several occasions, was codified, then repealed and replaced by the SPC Regulation. Article 22 of that regulation states that references to the repealed regulation are to be construed as references to the SPC Regulation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14710">
+          <num>62</num>
+          <content eId="para_14710__content">
+            <p>Article 13(1) of the SPC Regulation provides that the SPC is to take effect at the end of the lawful term of the basic patent for a period equal to the period which elapsed between the date on which the application for a basic patent was filed and the date of the first market authorisation in the European Union, reduced by a period of five years. Article 13(2) of that regulation provides that the duration of the SPC cannot exceed five years from the date on which it takes effect.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14711">
+          <num>63</num>
+          <content eId="para_14711__content">
+            <p>It should also be noted that Article 13(3), inter alia, of the SPC Regulation also refers to Regulation No 1901/2006 and provides that the periods laid down in paragraphs 1 and 2 of Article 13 are to be extended by six months in the case where Article 36 of Regulation No 1901/2006 applies.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14712">
+          <num>64</num>
+          <content eId="para_14712__content">
+            <p>It follows that, according to a systematic interpretation of the provisions of the SPC Regulation, the SPC extension is not provided for in Regulation No 1901/2006 alone, but is also referred to in the SPC Regulation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14713">
+          <num>65</num>
+          <content eId="para_14713__content">
+            <p>In addition, it should be noted that Article 36(1) of Regulation No 1901/2006 does not alter the substance of the SPC, but merely provides for its extension. That SPC extension is merely ancillary to the SPC itself, which is confirmed by the reference to it in Article 13 of the SPC Regulation, entitled `Duration of the certificate'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14714">
+          <num>66</num>
+          <content eId="para_14714__content">
+            <p>The ancillary nature of an SPC extension in relation to the SPC itself is also apparent from the comparison of their respective subject matters and purposes.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14715">
+          <num>67</num>
+          <content eId="para_14715__content">
+            <p>Thus, it is apparent from recitals 2, 4, 5 and 6 of the SPC Regulation that the continuing improvement in public health through research is the main concern of the EU legislature. In the same vein, Regulation No 1901/2006 aims, according to recital 4 thereof, to facilitate the development and accessibility of medicinal products for use in the paediatric population and to ensure that medicinal products used to treat the paediatric population are subject to ethical research of high quality. The objective of Regulation No 1901/2006, like that of the SPC Regulation, is the improvement in public health, and the protection of a particularly vulnerable population in particular.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14716">
+          <num>68</num>
+          <content eId="para_14716__content">
+            <p>In those circumstances, it cannot be inferred from the fact, raised by the defendant in the main proceedings during the written and oral parts of the procedure before the Court, that the provisions establishing the Specific Mechanisms do not expressly mention the SPC extension and that Regulation No 1901/2006 was not part of the EU acquis at the time when the Acts of Accession of 2003 and 2005 were concluded, that that extension does not come within the scope of those mechanisms.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14717">
+          <num>69</num>
+          <content eId="para_14717__content">
+            <p>As observed in paragraphs 65 to 74 of the present judgment, it is apparent from the scheme of the SPC Regulation and of Regulation No 1901/2006, the objective of the paediatric extension -- comparable to that of the SPC -- and the close connection between the SPC and its possible extension that the extension must be included within the scope of those mechanisms.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14718">
+          <num>70</num>
+          <content eId="para_14718__content">
+            <p>Lastly, the fact that the Specific Mechanism provided for in the Act of Accession of 2012 expressly mentions only the basic patent and the SPC, as do the Acts of Accession of 2003 and 2005, even though Regulation No 1901/2006 had already entered into force when the Republic of Croatia joined the European Union, does not warrant the adoption of a different interpretation in relation to parallel imports originating from that Member State. Apart from the fact that that circumstance appears to be explicable on historical grounds, the intrinsic complementarity of the SPC and its extension can justify the choice of the EU legislature not to include the SPC extension in the text of the Specific Mechanisms.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14719">
+          <num>71</num>
+          <content eId="para_14719__content">
+            <p>Moreover, as observed by the Advocate General in point 83 of his Opinion, if a new Member State were treated differently to the others, parallel imports could come in through that Accession State; as a result there would be a hole in EU patent protection which could ultimately render ineffective the protection created by the Specific Mechanisms of the other Acts of Accession.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14720">
+          <num>72</num>
+          <content eId="para_14720__content">
+            <p>As for the economic argument raised by the defendant in the main proceedings that parallel imports are desirable under EU law, as they lead to a fall in prices in the importing Member State, suffice it to note that such an argument can have no bearing on the appropriate interpretation of the Specific Mechanisms that, as recalled in paragraph 40 of this judgment, were established by the Acts of Accession of 2003, 2005 and 2012 with a view to achieving a balance between the free movement of goods and the efficient protection of intellectual and industrial property rights granted by a basic patent.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14721">
+          <num>73</num>
+          <content eId="para_14721__content">
+            <p>Having regard to the foregoing, the answer to the third and fourth questions is that the Specific Mechanisms must be interpreted as applying to the extension provided for in Article 36(1) of Regulation No 1901/2006.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_14722">
+          <num>74</num>
+          <content eId="para_14722__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Second Chamber) hereby rules: 1. The Specific Mechanisms laid down in Chapter 2 of Annex IV to the Act concerning the conditions of accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic and the adjustments to the Treaties on which the European Union is founded, in Chapter 1 of Annex V to the Act concerning the conditions of accession of the Republic of Bulgaria and Romania and the adjustments to the Treaties on which the European Union is founded, and in Chapter 1 of Annex IV to the Act concerning the conditions of accession of the Republic of Croatia and the adjustments to the Treaty on European Union, the Treaty on the Functioning of the European Union and the Treaty establishing the European Atomic Energy Community, must be interpreted as authorising the holder of a supplementary protection certificate issued in a Member State other than the new Member States referred to in those Acts of Accession to oppose the parallel importation of a medicinal product from those new Member States in a situation where the legal systems of those States provided for the possibility of obtaining equivalent protection at the time when the application for the basic patent was published and/or the application for a supplementary protection certificate in the importing Member State was filed, but did not yet provide for such a possibility at the time when the application for a basic patent was filed, with the result that it was impossible for the patent holder to obtain an equivalent patent and a supplementary protection certificate in the exporting States. 2. The Specific Mechanisms laid down in Chapter 2 of Annex IV to the Act concerning the conditions of accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic and the adjustments to the Treaties on which the European Union is founded, in Chapter 1 of Annex V to the Act concerning the conditions of accession of the Republic of Bulgaria and Romania and the adjustments to the Treaties on which the European Union is founded, and in Chapter 1 of Annex IV to the Act concerning the conditions of accession of the Republic of Croatia and the adjustments to the Treaty on European Union, the Treaty on the Functioning of the European Union and the Treaty establishing the European Atomic Energy Community, must be interpreted as applying to the extension provided for in Article 36(1) of Regulation (EC) No 1901/2006 of the European Parliament and of the Council of 12 December 2006 on medicinal products for paediatric use and amending Regulation (EEC) No 1768/92, Directive 2001/20/EC, Directive 2001/83/EC and Regulation (EC) No 726/2004.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: German.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

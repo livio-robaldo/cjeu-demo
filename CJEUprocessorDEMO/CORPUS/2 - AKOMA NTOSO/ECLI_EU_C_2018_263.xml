@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+      <references source="#source">
+        <TLCOrganization eId="institution_89" showAs="" href="/akn/ontology/Organization/Institution/institution_89" />
+        <TLCOrganization eId="institution_90" showAs="" href="/akn/ontology/Organization/Institution/institution_90" />
+      </references>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Ninth Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>19 April 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Reference for a preliminary ruling -- Public service contracts -- Health and social services -- Award contrary to the rules on public procurement -- Requirement to comply with the principles of transparency and equal treatment -- Concept of `certain cross-border interest' -- Directive 92/50/EEC -- Article 27) In Case C‑65/17, REQUEST for a preliminary ruling under Article 267 TFEU from the Corte suprema di cassazione (Supreme Court of Cassation, Italy), made by decision of 7 June 2016, received at the Court on 6 February 2017, in the proceedings</p>
+      <p>
+        <party as="appellant" refersTo="#">Oftalma Hospital Srl</party>
+      </p>
+      <p>v</p>
+      <p>
+        <party as="respondent" refersTo="#institution_89">Commissione Istituti Ospitalieri Valdesi (CIOV)</party>
+      </p>
+      <p>,</p>
+      <p>
+        <party as="respondent" refersTo="#institution_90">Regione Piemonte</party>
+      </p>
+      <p>intervener: Azienda Sanitaria Locale di Torino (TO1) THE COURT (Ninth Chamber), composed of C. Vajda, President of the Chamber, E. Juhász (Rapporteur) and K. Jürimäe, Judges, Advocate General: M. Campos Sánchez-Bordona, Registrar: A. Calot Escobar, having regard to the written procedure, after considering the observations submitted on behalf of:</p>
+      <blockList>
+        <item>
+          <num>--</num>
+          <p>Oftalma Hospital Srl, by M. Moretto and P. Bianco, avvocati,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the</p>
+          <p>
+            <organization refersTo="#institution_90">Regione Piemonte</organization>
+          </p>
+          <p>, by M. Scisciot, avvocato,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the Italian Government, by G. Palmieri, acting as Agent, and F. Sclafani, avvocato dello Stato,</p>
+        </item>
+        <item>
+          <num>--</num>
+          <p>the European Commission, by G. Gattinara and A. Tokár, acting as Agents, having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,</p>
+          <p>gives the following</p>
+        </item>
+      </blockList>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_10585">
+          <num>1</num>
+          <content eId="para_10585__content">
+            <p>This request for a preliminary ruling concerns the interpretation of Council Directive 92/50/EEC of 18 June 1992 relating to the coordination of procedures for the award of public service contracts ( OJ 1992 L 209, p. 1), as amended by European Parliament and Council Directive 97/52/EC of 13 October 1997 ( OJ 1997 L 328, p. 1) ( `Directive 92/50').</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10586">
+          <num>2</num>
+          <content eId="para_10586__content">
+            <p>The request has been made in proceedings between Oftalma Hospital Srl ( `Oftalma') and the</p>
+            <p>
+              <organization refersTo="#institution_89">Commissione Istituti Ospitalieri Valdesi</organization>
+            </p>
+            <p>(Commission for Waldensian Hospital Institutions, Italy; `</p>
+            <p>
+              <organization refersTo="#institution_89">CIOV</organization>
+            </p>
+            <p>') and the</p>
+            <p>
+              <organization refersTo="#institution_90">Regione Piemonte</organization>
+            </p>
+            <p>(Region of</p>
+            <p>
+              <organization refersTo="#institution_90">Piedmont</organization>
+            </p>
+            <p>, Italy) concerning payment for care services provided by Oftalma under a contract entered into with</p>
+            <p>
+              <organization refersTo="#institution_89">CIOV</organization>
+            </p>
+            <p>( `the contract at issue').</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>EU law</p>
+        </tblock>
+        <tblock>
+          <p>Directive 92/50</p>
+        </tblock>
+        <paragraph eId="para_10587">
+          <num>3</num>
+          <content eId="para_10587__content">
+            <p>Title II of Directive 92/50 defines `two-tier' applications. Under Article 8, contracts which have as their object services listed in Annex I A to that directive are to be awarded in accordance with the provisions of Titles III to VI thereof, that is, Articles 11 to 37 of that directive. On the other hand, under Article 9 of that directive, `contracts which have as their object services listed in Annex I B shall be awarded in accordance with Articles 14 and 16'.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10588">
+          <num>4</num>
+          <content eId="para_10588__content">
+            <p>Article 14 of Directive 92/50 appears under Title IV of that directive, which concerns the common rules in the technical field.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10589">
+          <num>5</num>
+          <content eId="para_10589__content">
+            <p>Article 16 of that directive, which falls within Title V thereof, headed `Common advertising rules', provides in paragraph 1 that contracting authorities which have awarded a public contract or have held a design contest are to send a notice of the results of the award procedure to the Publications Office of the European Union.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10590">
+          <num>6</num>
+          <content eId="para_10590__content">
+            <p>Article 27(3) of Directive 92/50 provides that: `Where the contracting authorities award a contract by negotiated procedure as referred to in Article 11(2), the number of candidates admitted to negotiate may not be less than three, provided that there is a sufficient number of suitable candidates.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10591">
+          <num>7</num>
+          <content eId="para_10591__content">
+            <p>Annex I B to that directive lists a series of categories of services, which includes, under category 25, health and social services.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Directive 2004/18/EC</p>
+        </tblock>
+        <paragraph eId="para_10592">
+          <num>8</num>
+          <content eId="para_10592__content">
+            <p>Under Articles 20 and 21 of Directive 2004/18/EC of the European Parliament and of the Council of 31 March 2004 on the coordination of procedures for the award of public works contracts, public supply contracts and public service contracts ( OJ 2004 L 134, p. 114), contracts which have as their object services listed in Annex II A to the directive are to be awarded in accordance with Articles 23 to 55 thereof, whereas contracts which have as their object services listed in Annex II B to that directive are to be subject solely to Article 23 and Article 35(4) thereof.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10593">
+          <num>9</num>
+          <content eId="para_10593__content">
+            <p>Annex II B to that directive lists a series of categories of services, which includes, under category 25, health and social services.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10594">
+          <num>10</num>
+          <content eId="para_10594__content">
+            <p>Article 82 of Directive 2004/18, headed `Repeals', provides, inter alia, that Directive 92/50 is to be repealed from 31 January 2006 and that references to that Directive are to be construed as being made to Directive 2004/18.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Italian law</p>
+        </tblock>
+        <paragraph eId="para_10595">
+          <num>11</num>
+          <content eId="para_10595__content">
+            <p>Article 3 of the decreto-legislativo n. 157 -- Attuazione della direttiva 92/50/EEC in materia di appalti pubblici di servizi (Legislative Decree No 157 implementing Directive 92/50/EEC on public service contracts) of 17 March 1995 (Ordinary Supplement to GURI No 104 of 6 May 1995), in the version applicable at the time of the facts in the main proceedings ( `Legislative Decree No 157/95'), provides: `1.   Public service contracts shall mean contracts for pecuniary interest concluded in writing between a service provider and a contracting authority as referred to in Article 2 relating to the provision of the services set out in Annexes 1 and 2. 2.   For the service contracts referred to in Annex 2 and those in which the value of those services exceeds that of the services listed in Annex 1, this decree shall apply only to Article 8(3), Article 20 and Article 21.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10596">
+          <num>12</num>
+          <content eId="para_10596__content">
+            <p>Article 7(1) of that legislative decree provides: `Contracts that are subject to this decree may be negotiated privately, following publication of a contract notice, in the following cases:</p>
+            <blockList>
+              <item>
+                <num>(a)</num>
+                <p>in the event of irregular tenders submitted following an invitation to tender, a restricted invitation to tender or a call for competitive tenders or in the event of tenders that are unacceptable under the provisions of Articles 11, 12(2), 18, 19 and 22 to 25, provided that the conditions of the contract are not substantially altered; contracting authorities shall publish, in such cases, a contract notice, unless they admit to the negotiated procedure all the undertakings satisfying the criteria laid down in Articles 11 to 16 that, during the procedures referred to above, submitted tenders in accordance with the formal requirements of the tendering procedure;</p>
+              </item>
+              <item>
+                <num>(b)</num>
+                <p>in exceptional cases, when the nature of the services or the risks involved do not permit prior overall pricing;</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>where, due to the nature of the services covered by the contracts, particularly if the services are of an intellectual nature or fall within Category 6 of Annex 1, it is impossible to determine the specifications of the contracts with adequate precision to enable them to be awarded by selection of the best tender according to the rules of open or restricted procedures.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10597">
+          <num>13</num>
+          <content eId="para_10597__content">
+            <p>Article 22(3) of Legislative Decree No 157/95 provides: `In a privately negotiated procedure initiated pursuant to Article 7(1), the number of candidates may not be less than three, provided that there is a sufficient number of suitable candidates.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10598">
+          <num>14</num>
+          <content eId="para_10598__content">
+            <p>Annex 2 to Legislative Decree No 157/95 refers to `Health and social services' under category 25 thereof.</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The dispute in the main proceedings and the questions referred for a preliminary ruling</p>
+        </tblock>
+        <paragraph eId="para_10599">
+          <num>15</num>
+          <content eId="para_10599__content">
+            <p>By the contract at issue, dated 2 January 1999, which was amended by a supplementary agreement in 2004 by which Oftalma waived the right to use the payment order procedure,</p>
+            <p>
+              <organization refersTo="#institution_89">CIOV</organization>
+            </p>
+            <p>entrusted to Oftalma the provision of specialist ophthalmological services at the ophthalmological centre of the Ospedale evangelico valdese di Torino (Waldensian Evangelical Hospital, Turin, Italy).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10600">
+          <num>16</num>
+          <content eId="para_10600__content">
+            <p>On 21 April 2005, the Tribunale di Torino (District Court, Turin, Italy) ordered</p>
+            <p>
+              <organization refersTo="#institution_89">CIOV</organization>
+            </p>
+            <p>and the</p>
+            <p>
+              <organization refersTo="#institution_90">Regione Piemonte</organization>
+            </p>
+            <p>to pay to Oftalma the sum of EUR 1727886.36, plus interest, by way of remuneration for care services provided in the course of 2004.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10601">
+          <num>17</num>
+          <content eId="para_10601__content">
+            <p>
+              <organization refersTo="#institution_89">CIOV</organization>
+            </p>
+            <p>and the</p>
+            <p>
+              <organization refersTo="#institution_90">Regione Piemonte</organization>
+            </p>
+            <p>each applied to have the order for payment set aside before the Tribunale di Torino (District Court, Turin). Before that court, the</p>
+            <p>
+              <organization refersTo="#institution_90">Regione Piemonte</organization>
+            </p>
+            <p>argued, inter alia, that the contract at issue was invalid, since, in its view, it had been entered into in breach of public procurement procedures as governed by Legislative Decree No 157/95.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10602">
+          <num>18</num>
+          <content eId="para_10602__content">
+            <p>By judgment of 5 December 2007, the Tribunale di Torino (District Court, Turin) dismissed the applications brought by</p>
+            <p>
+              <organization refersTo="#institution_89">CIOV</organization>
+            </p>
+            <p>and the</p>
+            <p>
+              <organization refersTo="#institution_90">Regione Piemonte</organization>
+            </p>
+            <p>and, accordingly, upheld Oftalma's claims.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10603">
+          <num>19</num>
+          <content eId="para_10603__content">
+            <p>Prior to that first action, Oftalma had, in 2004 brought another action before the Tribunale di Torino (District Court, Turin) for an order that</p>
+            <p>
+              <organization refersTo="#institution_89">CIOV</organization>
+            </p>
+            <p>and the</p>
+            <p>
+              <organization refersTo="#institution_90">Regione Piemonte</organization>
+            </p>
+            <p>pay Oftalma the sum of EUR 1226535.07 by way of an adjustment based on the tariffs applicable to care services provided during 2002, 2003 and the first half of 2004.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10604">
+          <num>20</num>
+          <content eId="para_10604__content">
+            <p>By judgment of 9 October 2007, the Tribunale di Torino (District Court, Turin) dismissed Oftalma's action.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10605">
+          <num>21</num>
+          <content eId="para_10605__content">
+            <p>Oftalma and the</p>
+            <p>
+              <organization refersTo="#institution_90">Regione Piemonte</organization>
+            </p>
+            <p>lodged appeals against the two judgments referred to above.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10606">
+          <num>22</num>
+          <content eId="para_10606__content">
+            <p>After joining those two sets of proceedings, by judgment of 7 June 2010, the Corte d'appello di Torino (Court of Appeal, Turin, Italy) declared the contract at issue void and, accordingly, ordered Oftalma to repay the sums received under the order for payment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10607">
+          <num>23</num>
+          <content eId="para_10607__content">
+            <p>That court took the view that the contract at issue had been entered into in breach of Directive 92/50 and Legislative Decree No 157/95, which had transposed it, since no tendering procedure had taken place before the contract was concluded, despite the fact that</p>
+            <p>
+              <organization refersTo="#institution_89">CIOV</organization>
+            </p>
+            <p>was, pursuant to Article 2 of Legislative Decree No 157/95, read in the light of Article 1 of Directive 92/50, a body governed by public law with the status of a contracting authority.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10608">
+          <num>24</num>
+          <content eId="para_10608__content">
+            <p>Oftalma brought an appeal before the referring court, the Corte suprema di cassazione (Supreme Court of Cassation, Italy) against that judgment.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10609">
+          <num>25</num>
+          <content eId="para_10609__content">
+            <p>In that respect, the referring court observes, in particular, that Article 3(2) of Legislative Decree No 157/95, like Directive 92/50, does not require any advertising or tendering procedure prior to the conclusion of contracts for the provision of health care services and that that legislative decree does not expressly provide that the award of such contracts is subject to the principles of effectiveness, impartiality, equal treatment and transparency being complied with.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10610">
+          <num>26</num>
+          <content eId="para_10610__content">
+            <p>That court has doubts about the validity of the case-law of the Italian administrative courts according to which contracts for the provision of health care services, although not directly covered by the legislation applicable in the field of public service contracts, are nonetheless subject to prior recourse to competitive tendering, even if informal, under the general rules of national law and EU law principles deriving from Articles 49, 56 and 106 TFEU.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10611">
+          <num>27</num>
+          <content eId="para_10611__content">
+            <p>That court observes, however, that Article 22(3) of Legislative Decree No 157/95, which transposes Article 27(3) of Directive 92/50, provides that, even if the call for tenders is limited, the number of candidates may not be less than three. While noting that those provisions are intended to apply to service contracts that are entirely subject to the provisions of that directive, it nevertheless submits that such a national provision `may be regarded as the expression of a general principle' the application of which also extends to the provision of services that are only partially subject to the directive. According to that court, such an interpretation is consistent with the objectives of Directive 92/50, which aims to complete the internal market through good coordination of procedures for the award of public service contracts.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10612">
+          <num>28</num>
+          <content eId="para_10612__content">
+            <p>The referring court adds that that interpretation is consistent with one of the objectives of Directive 92/50, which is to harmonise the rules for awarding contracts with those relating to works and supply contracts. In that respect, it notes that both Council Directive 71/305/EEC of 26 July 1971 concerning the coordination of procedures for the award of public works contracts ( OJ 1971 L 185, p. 5), as amended by Council Directive 89/440/EEC of 18 July 1989 ( OJ 1989 L 210, p. 1), and Council Directive 93/36/EEC of 14 June 1993 coordinating procedures for the award of public supply contracts ( OJ 1993 L 199, p. 1), require contracting authorities to ensure genuine competition, including in negotiated procedures.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10613">
+          <num>29</num>
+          <content eId="para_10613__content">
+            <p>That court points out that, subjecting contracts for the provision of health services to such obligations is consistent with the Court's case-law, according to which the fundamental principles of the TFEU are applicable to service contracts excluded from the scope of Directive 92/50.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10614">
+          <num>30</num>
+          <content eId="para_10614__content">
+            <p>In those circumstances, the Corte suprema di cassazione (Supreme Court of Cassation) decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling: `1. On a proper construction of Article 9 of [Directive 92/50], which provides that contracts which have as their object services listed in Annex I B [to that directive] are to be awarded in accordance with Articles 14 and 16 [of that directive], do such contracts in any case remain subject to the principles of freedom of establishment and freedom to provide services, equal treatment and the prohibition of discrimination on grounds of nationality, transparency and non-discrimination, as referred to in Articles 49, 56 and 106 TFEU? 2. If the first question should be answered in the affirmative, must Article 27 of Directive 92/50, which provides that where a contract is awarded by negotiated procedure the number of candidates admitted to negotiate may not be less than three, provided that there is a sufficient number of suitable candidates, be interpreted as applying likewise to contracts having as their object services listed in Annex I B to that directive? 3. Does Article 27 of Directive 92/50, which provides that where a contract is awarded by negotiated procedure the number of candidates admitted to negotiate may not be less than three, provided that there is a sufficient number of suitable candidates, preclude the application of a national law that, for public contracts signed before Directive [2004/18] was adopted and relating to services listed in Annex I B to Directive 92/50, does not guarantee the opening up of public procurement to competition if the negotiated procedure is used?'</p>
+            <tblock>
+              <p>Consideration of the questions referred</p>
+            </tblock>
+            <tblock>
+              <p>The first question</p>
+            </tblock>
+            <p>31 By its first question, the referring court asks, in essence, whether, when it awards a public service contract that falls within the scope of Article 9 of Directive 92/50 and, consequently, is in principle subject only to Articles 14 and 16 of that directive, a contracting authority is nonetheless also required to comply with the fundamental rules and general principles of the FEU Treaty, in particular the principles of equal treatment and non-discrimination on grounds of nationality and the consequent obligation of transparency.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10615">
+          <num>32</num>
+          <content eId="para_10615__content">
+            <p>According to the wording of Article 9 of Directive 92/50, `contracts which have as their object services listed in Annex I B shall be awarded in accordance with Articles 14 and 16'. Those articles contain obligations relating, respectively, to the technical specifications of a contract and the sending of a notice of the results of the procedure for the award of a contract.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10616">
+          <num>33</num>
+          <content eId="para_10616__content">
+            <p>In that regard, the Court has held that, where contracts concern services referred to in Annex I B, the contracting authorities are bound only by the obligations to define the technical specifications by reference to national standards implementing European standards, which must be given in the general or contractual documents relating to each contract, and to send a notice of the results of the award procedure for those contracts to the Publications Office of the European Union (judgment of 17 March 2011, Strong Segurança, C‑95/10, EU:C:2011:161, paragraph 34).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10617">
+          <num>34</num>
+          <content eId="para_10617__content">
+            <p>The Court has also held that the classification of services in Annexes I A and I B to Directive 92/50 is in accordance with the system laid down by that directive, which envisages the application of the provisions of that directive on two levels (judgment of 17 March 2011, Strong Segurança, C‑95/10, EU:C:2011:161, paragraph 33 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10618">
+          <num>35</num>
+          <content eId="para_10618__content">
+            <p>The Court has stated that the EU legislature assumed that contracts for the services referred to in Annex I B to Directive 92/50 are, in principle, in the light of their specific nature, not of sufficient cross-border interest to justify their award being subject to the conclusion of a tendering procedure intended to enable undertakings from other Member States to examine the contract notice and submit a tender (judgment of 17 March 2011, Strong Segurança, C‑95/10, EU:C:2011:161, paragraph 35 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10619">
+          <num>36</num>
+          <content eId="para_10619__content">
+            <p>However, the Court has held that such contracts, where they nevertheless have a certain cross-border interest, are subject to the fundamental rules and general principles of the FEU Treaty, in particular the principles of equal treatment and non-discrimination on grounds of nationality and the consequent obligation of transparency (see, to that effect, judgment of 17 March 2011, Strong Segurança, C‑95/10, EU:C:2011:161, paragraph 35 and the case-law cited). Without necessarily requiring that an invitation to tender be launched, that obligation implies a degree of advertising sufficient to ensure, first, the opening-up to competition and, second, the review of the impartiality of the procurement procedure (judgment of 13 November 2008, Coditel Brabant, C‑324/07, EU:C:2008:621, paragraph 25 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10620">
+          <num>37</num>
+          <content eId="para_10620__content">
+            <p>In the absence of special circumstances, none of which are apparent from the case file, the assessment of whether there is certain cross-border interest must be carried out, for reasons of legal certainty, on the date of the award of the public contract at issue (see, by analogy, judgment of 10 November 2005,Commission v Austria, C‑29/04, EU:C:2005:670, paragraph 38). In that regard, the fact that, in the main proceedings, the contract was subsequently amended by a supplementary agreement is not capable of altering the date on which it must be determined whether there was such an interest, where such a supplementary agreement is not of a nature substantially to alter the general scheme of the contract at issue, which remains, however, a matter for the referring court to verify.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10621">
+          <num>38</num>
+          <content eId="para_10621__content">
+            <p>It is thus for the referring court to carry out a detailed assessment of all the relevant evidence concerning the contract at issue so as to verify whether there was certain cross-border interest on the date on which the contract at issue in the main proceedings was awarded.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10622">
+          <num>39</num>
+          <content eId="para_10622__content">
+            <p>In that regard, it must be pointed out that, in the course of that assessment, a conclusion that there is certain cross-border interest cannot be inferred hypothetically from certain factors which, considered in the abstract, could constitute evidence to that effect, but must be the positive outcome of a specific assessment of the circumstances of the contract at issue in the main proceedings. This means that it cannot be held that certain cross-border interest is established on the basis of factors that do not rule out its existence, but that such an interest must be considered as having been established when its cross-border nature is proved on the basis of objective and consistent factors (see, to that effect, judgment of 6 October 2016, Tecnoedi Costruzioni, C‑318/15, EU:C:2016:747, paragraph 22).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10623">
+          <num>40</num>
+          <content eId="para_10623__content">
+            <p>The Court has previously held that the value of the contract at issue, in conjunction with the place where the work is to be carried out or the technical nature of the contract and the specific characteristics of the goods concerned, could constitute objective criteria capable of indicating the existence of certain cross-border interest. In that context, it is also possible to take account of the fact that complaints have been made by operators situated in Member States other than that of the contracting authority, provided that it is established that those complaints are real and not fictitious (judgment of 6 October 2016, Tecnoedi Costruzioni, C‑318/15, EU:C:2016:747, paragraph 20 and the case-law cited). Moreover, the fact that, at the time of the award of the contract at issue in the main proceedings, similar health care services may previously have been provided by entities established in other Member States may also be taken into account.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10624">
+          <num>41</num>
+          <content eId="para_10624__content">
+            <p>However, it must be noted that, as regards, more particularly, health care services, the Court has held, in an action for failure to fulfil obligations, that certain cross-border interest was not established solely on the basis of the fact that the contracts at issue were of significant economic value (see, to that effect, judgment of 29 April 2010, Commission v Germany, C‑160/08, EU:C:2010:230, paragraphs 18, 54 and 123).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10625">
+          <num>42</num>
+          <content eId="para_10625__content">
+            <p>In the present case, as Oftalma pointed out in its written observations, the order for reference contains nothing to suggest that the contract at issue in the main proceedings had certain cross-border interest on the date when it was awarded.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10626">
+          <num>43</num>
+          <content eId="para_10626__content">
+            <p>In the event that it is nevertheless established that there was certain cross-border interest and, consequently, a lack of transparency could have given rise to a difference in treatment to the detriment of undertakings situated in a Member State other than that of the contracting authority, such a difference in treatment may be justified by objective circumstances (see, to that effect, judgment of 11 December 2014, Azienda sanitaria locale n. 5 `Spezzino' and Others, C‑113/13, EU:C:2014:2440, paragraph 52 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10627">
+          <num>44</num>
+          <content eId="para_10627__content">
+            <p>With regard to such a justification, Oftalma relies, in its written observations, on paragraph 57 of the judgment of 11 December 2014, Azienda sanitaria locale n. 5 `Spezzino' and Others ( C‑113/13, EU:C:2014:2440), in which the Court found that the objective of maintaining, on grounds of public health, a balanced medical and hospital service open to all may fall within one of the derogations on the grounds of public health.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10628">
+          <num>45</num>
+          <content eId="para_10628__content">
+            <p>In the event that certain cross-border interest is established, it is for the referring court, taking account of the case-law set out in the two preceding paragraphs, to examine whether the award of the contract at issue in the main proceedings was justified.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10629">
+          <num>46</num>
+          <content eId="para_10629__content">
+            <p>In the light of all the considerations set out above, the answer to the first question is that, when it awards a public service contract that falls within the scope of Article 9 of Directive 92/50 and is, consequently, in principle, subject only to Articles 14 and 16 of that directive, a contracting authority is nonetheless also required to comply with the fundamental rules and general principles of the FEU Treaty, in particular the principles of equal treatment and non-discrimination on the grounds of nationality and the consequent obligation of transparency, provided that, at the date of its award, the contract had certain cross-border interest, which it is for the referring court to verify.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10630">
+          <num>47</num>
+          <content eId="para_10630__content">
+            <p>Moreover, in the same context, Oftalma objects to the claims of the</p>
+            <p>
+              <organization refersTo="#institution_90">Regione Piemonte</organization>
+            </p>
+            <p>and</p>
+            <p>
+              <organization refersTo="#institution_89">CIOV</organization>
+            </p>
+            <p>, and refers to the principle of nemo auditur propriam turpitudinem allegans. It states that, if the conclusion of the contract entered into with it is unlawful, such unlawfulness is attributable to the</p>
+            <p>
+              <organization refersTo="#institution_90">Regione Piemonte</organization>
+            </p>
+            <p>and</p>
+            <p>
+              <organization refersTo="#institution_89">CIOV</organization>
+            </p>
+            <p>. It further submits that a rejection of its claim for remuneration of services actually and duly provided by it would confer an undue advantage on</p>
+            <p>
+              <organization refersTo="#institution_89">CIOV</organization>
+            </p>
+            <p>.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10631">
+          <num>48</num>
+          <content eId="para_10631__content">
+            <p>In that regard, it must be noted that such principles must be assessed by the referring court through the application of national law.</p>
+            <tblock>
+              <p>The second and third questions</p>
+            </tblock>
+            <p>49 By its second and third questions, the referring court asks, in essence, whether Article 27(3) of Directive 92/50 must be interpreted as applying to public service contracts referred to in Annex I B to that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10632">
+          <num>50</num>
+          <content eId="para_10632__content">
+            <p>It must be noted that, by adopting Article 9 of Directive 92/50, the EU legislature expressly provided that only Articles 14 and 16 of that directive were applicable to the services listed in Annex I B. In the absence of any indication to the contrary, it must be concluded that this is the case even if a public contract in respect of such a service has certain cross-border interest.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10633">
+          <num>51</num>
+          <content eId="para_10633__content">
+            <p>It follows that subjecting the services listed in Annex I B to Directive 92/50 to articles other than those expressly referred to in Article 9 of that directive would lead to an interpretation that contradicts the clear wording of that article and would therefore be contrary to the intention of the EU legislature.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10634">
+          <num>52</num>
+          <content eId="para_10634__content">
+            <p>It is clear that the obligations arising from Article 27(3) of that directive do not apply to a public contract in respect of a service listed in Annex I B thereto, even if the contract does have certain cross-border interest.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10635">
+          <num>53</num>
+          <content eId="para_10635__content">
+            <p>Thus, compliance with the fundamental rules and general principles of the Union and the obligations arising therefrom, as recognised, with regard to public contracts having certain cross-border interest, in the case-law cited in paragraph 36 above, does not entail, as such, the admission of a minimum number of candidates in a negotiated procedure, as referred to in Article 27(3).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10636">
+          <num>54</num>
+          <content eId="para_10636__content">
+            <p>Further, adopting an interpretation that, where there is certain cross-border interest, Article 27(3) of Directive 92/50 would apply in a case such as the one in the main proceedings, could lead to other provisions of that directive that are applicable only to the services referred to in Annex I A to that directive being applied to service contracts under Annex I B, which would risk rendering entirely ineffective the distinction drawn between the services referred to in Annex I A and those in Annex I B to the directive (see, to that effect, with regard to Annexes II A and II B of Directive 2004/18, which correspond to Annexes I A and I B of Directive 92/50, judgment of 17 March 2011, Strong Segurança, C‑95/10, EU:C:2011:161, paragraph 42).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10637">
+          <num>55</num>
+          <content eId="para_10637__content">
+            <p>In the light of all the above considerations, the answer to the second and third questions is that Article 27(3) of Directive 92/50 must be interpreted as not applying to public service contracts referred to in Annex I B to that directive.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Limitation of the temporal effects of the judgment to be delivered</p>
+        </tblock>
+        <paragraph eId="para_10638">
+          <num>56</num>
+          <content eId="para_10638__content">
+            <p>In its observations, Oftalma asks the Court to limit the temporal effects of the judgment to be delivered in the event that the fundamental rules and the general principles of EU law and the consequent obligation of transparency are interpreted as meaning that the award of a contract such as that at issue in the main proceedings must be preceded by a sufficient degree of advertising where such a contract has certain cross-border interest. According to Oftalma, such a judgment could call into question the validity of all agreements for the provision of care services entered into by private institutions and public authorities and, accordingly, destabilise the entire Italian health system.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10639">
+          <num>57</num>
+          <content eId="para_10639__content">
+            <p>It should be recalled in this connection that it is only exceptionally that, in application of a general principle of legal certainty which is inherent in the EU legal order, the Court may decide to restrict the right to rely upon a provision, which it has interpreted, with a view to calling in question legal relations established in good faith. Such a restriction may, according to the Court's settled case-law, be allowed only in the actual judgment ruling upon the interpretation sought (judgment of 17 July 2008, Krawczyński, C‑426/07, EU:C:2008:434, paragraphs 42 and 43).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10640">
+          <num>58</num>
+          <content eId="para_10640__content">
+            <p>As is apparent from paragraph 36 above, the Court has previously held that contracts relating to services referred to in Annex I B to Directive 92/50, where they have certain cross-border interest, are subject to the fundamental rules and general principles arising under the FEU Treaty, from which the obligation of transparency flows.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10641">
+          <num>59</num>
+          <content eId="para_10641__content">
+            <p>Accordingly, there is no need to limit the temporal effects of the present judgment.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_10642">
+          <num>60</num>
+          <content eId="para_10642__content">
+            <p>Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable. On those grounds, the Court (Ninth Chamber) hereby rules: 1. When awarding a public service contract that falls within the scope of Article 9 of Council Directive 92/50/EEC of 18 June 1992 relating to the coordination of procedures for the award of public service contracts, as amended by European Parliament and Council Directive 97/52/EC of 13 October 1997, and is, consequently, in principle, subject only to Articles 14 and 16 of that directive, a contracting authority is nonetheless also required to comply with the fundamental rules and general principles of the FEU Treaty, in particular the principles of equal treatment and non-discrimination on the grounds of nationality and the consequent obligation of transparency, provided that, at the date of its award, the contract had certain cross-border interest, which it is for the referring court to verify. 2. Article 27(3) of Directive 92/50 must be interpreted as not applying to public service contracts referred to in Annex I B to that directive.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Italian.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>

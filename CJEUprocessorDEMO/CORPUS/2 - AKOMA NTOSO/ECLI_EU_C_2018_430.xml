@@ -1,0 +1,926 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <judgment name="JUDGMENT OF THE CJEU">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRcountry value="" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRlanguage language="" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="" />
+          <FRBRuri value="" />
+          <FRBRdate date="1111-11-11" name="" />
+          <FRBRauthor href="" />
+          <FRBRformat value="" />
+        </FRBRManifestation>
+      </identification>
+      <references source="#source">
+        <TLCOrganization eId="institution_31" showAs="" href="/akn/ontology/Organization/Institution/institution_31" />
+        <TLCOrganization eId="institution_32" showAs="" href="/akn/ontology/Organization/Institution/institution_32" />
+      </references>
+    </meta>
+    <header>
+      <tblock>
+        <p>JUDGMENT OF THE COURT (Fourth Chamber)</p>
+      </tblock>
+      <tblock>
+        <p>13 June 2018 (</p>
+      </tblock>
+      <tblock>
+        <p>*1</p>
+      </tblock>
+      <tblock>
+        <p>)</p>
+      </tblock>
+      <p>(Failure of a Member State to fulfil obligations -- Railway safety -- Directive 2004/49/EC -- Failure to adopt to provisions necessary to ensure the independence of the investigating body) In Case C‑530/16, ACTION for failure to fulfil obligations under Article 258 TFEU, brought on 18 October 2016,</p>
+      <p>
+        <party as="appellant" refersTo="#institution_31">European Commission</party>
+      </p>
+      <p>, represented by W. Mölls and J. Hottiaux, acting as Agents, applicant, v</p>
+      <p>
+        <party as="respondent" refersTo="#institution_32">Republic of Poland</party>
+      </p>
+      <p>, represented by B. Majczyna and K. Majcher, acting as Agents, and by T. Warchoł, ekspert, defendant, THE COURT (Fourth Chamber), composed of T. von Danwitz, President of the Chamber, A. Tizzano, Vice-President of the Court, acting as Judge of the Fourth Chamber, C. Vajda, K. Jürimäe and C. Lycourgos (Rapporteur), Judges, Advocate General: M. Bobek, Registrar: M. Aleksejev, Administrator, having regard to the written procedure and further to the hearing on 26 October 2017, after hearing the Opinion of the Advocate General at the sitting on 23 January 2018,</p>
+      <p>gives the following</p>
+      <p>
+        <docType>Judgment</docType>
+      </p>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <paragraph eId="para_13563">
+          <num>1</num>
+          <content eId="para_13563__content">
+            <p>By its application, the European Commission requests that the Court declare that:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>by failing to adopt the measures necessary to ensure that the safety authority is independent of all railway undertakings, railway infrastructure managers, certification applicants and procurement entities, and</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>by failing to adopt the measures necessary to ensure that the investigating body is independent of railway undertakings and railway infrastructure managers, the Republic of Poland has failed to fulfil its obligations under Articles 16(1) and 21(1) of Directive 2004/49/EC of the European Parliament and of the Council of 29 April 2004 on safety on the Community's railways and amending Council Directive 95/18/EC on the licensing of railway undertakings and Directive 2001/14/EC on the allocation of railway infrastructure capacity and the levying of charges for the use of railway infrastructure and safety certification ( `the Railway Safety Directive') ( OJ 2004 L 164, p. 44, and corrigendum OJ 2004 L 220, p. 16).</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13564">
+          <num>2</num>
+          <content eId="para_13564__content">
+            <p>In its reply, however, the Commission decided to withdraw its allegation of infringement of Article 16(1) Directive 2004/49 concerning the independence of the safety authority, on the ground that on 1 December 2016 the Republic of Poland had provided the Commission with the text of the Ustawa o zmianie ustawy o transporcie kolejowym oraz niektórych innych ustaw (Law amending the Law on Railway Transport and certain other laws) of 16 November 2016 (Dz. U. 2016, position 1923), which, in the Commission's view, correctly transposes that provision.</p>
+          </content>
+        </paragraph>
+      </introduction>
+      <background>
+        <tblock>
+          <p>Legal context</p>
+        </tblock>
+        <tblock>
+          <p>European Union law</p>
+        </tblock>
+        <paragraph eId="para_13565">
+          <num>3</num>
+          <content eId="para_13565__content">
+            <p>Recital 24 of Directive 2004/49 states: `A safety investigation should be kept separate from the judicial inquiry into the same incident and be granted access to evidence and witnesses. It should be carried out by a permanent body that is independent of the actors of the rail sector. The body should function in a way which avoids any conflict of interest and any possible involvement in the causes of the occurrences that are investigated; in particular, its functional independence should not be affected if it is closely linked to the national safety authority or regulator of railways for organisational and legal structure purposes. Its investigations should be carried out under as much openness as possible. For each occurrence the investigation body should establish the relevant investigation group with necessary expertise to find the immediate causes and underlying causes.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13566">
+          <num>4</num>
+          <content eId="para_13566__content">
+            <p>Article 3 of that directive provides: `For the purpose of this Directive, the following definitions shall apply: ...</p>
+            <blockList>
+              <item>
+                <num>(b)</num>
+                <p>``infrastructure manager '' means any body or undertaking that is responsible in particular for establishing and maintaining railway infrastructure, or a part thereof, as defined in Article 3 of Directive 91/440/EEC, which may also include the management of infrastructure control and safety systems. The functions of the infrastructure manager on a network or part of a network may be allocated to different bodies or undertakings;</p>
+              </item>
+              <item>
+                <num>(c)</num>
+                <p>``railway undertaking '' means railway undertaking as defined in Directive 2001/14/EC, and any other public or private undertaking, the activity of which is to provide transport of goods and/or passengers by rail on the basis that the undertaking must ensure traction; this also includes undertakings which provide traction only; ...'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13567">
+          <num>5</num>
+          <content eId="para_13567__content">
+            <p>Article 19 of Directive 2004/49 provides: `1.   Member States shall ensure that an investigation is carried out by the investigating body referred to in Article 21 after serious accidents on the railway system, the objective of which is possible improvement of railway safety and the prevention of accidents. 2.   In addition to serious accidents, the investigating body referred to in Article 21 may investigate those accidents and incidents which under slightly different conditions might have led to serious accidents, including technical failures of the structural subsystems or of interoperability constituents of the trans-European high-speed or conventional rail systems. ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13568">
+          <num>6</num>
+          <content eId="para_13568__content">
+            <p>Article 21 of that directive provides: `1.   Each Member State shall ensure that investigations of accidents and incidents referred to in Article 19 are conducted by a permanent body, which shall comprise at least one investigator able to perform the function of investigator-in-charge in the event of an accident or incident. This body shall be independent in its organisation, legal structure and decision-making from any infrastructure manager, railway undertaking, charging body, allocation body and notified body, and from any party whose interests could conflict with the tasks entrusted to the investigating body. It shall furthermore be functionally independent from the safety authority and from any regulator of railways. 2.   The investigating body shall perform its tasks independently of the organisations referred to in paragraph 1 and shall be able to obtain sufficient resources to do so. Its investigators shall be afforded status giving them the necessary guarantees of independence. ...'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13569">
+          <num>7</num>
+          <content eId="para_13569__content">
+            <p>Article 23 of the same directive provides: `1.   An investigation of an accident or incident referred to in Article 19 shall be the subject of reports in a form appropriate to the type and seriousness of the accident or incident and the relevance of the investigation findings. The reports shall state the objectives of the investigations as referred to in Article 19(1) and contain, where appropriate, safety recommendations. 2.   The investigating body shall make public the final report in the shortest possible time and normally not later than 12 months after the date of the occurrence. The report shall, as close as possible, follow the reporting structure laid down in Annex V. The report, including the safety recommendations, shall be communicated to the relevant parties referred to in Article 22(3) and to bodies and parties concerned in other Member States. 3.   Each year the investigating body shall publish by 30 September at the latest an annual report accounting for the investigations carried out in the preceding year, the safety recommendations that were issued and actions taken in accordance with recommendations issued previously.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13570">
+          <num>8</num>
+          <content eId="para_13570__content">
+            <p>Point 4, entitled `Analysis and conclusions', of Annex V to Directive 2004/49, entitled `Principal content of accident and incident investigation report', provides: `1. Final account of the event chain:</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>establishing the conclusions on the occurrence, based on the facts established in heading 3. 2. Discussion:</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>analysis of the facts established in heading 3 with the aim of drawing conclusions as to the causes of the occurrence and the performance of the rescue services. 3. Conclusions:</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>direct and immediate causes of the occurrence including contributory factors relating to actions taken by persons involved or the condition of rolling stock or technical installations,</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>underlying causes relating to skills, procedures and maintenance,</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>root causes relating to the regulatory framework conditions and application of the safety management system. 4. Additional observations:</p>
+              </item>
+              <item>
+                <num>--</num>
+                <p>deficiencies and shortcomings established during the investigation, but without relevance to the conclusions on causes.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>National law</p>
+        </tblock>
+        <paragraph eId="para_13571">
+          <num>9</num>
+          <content eId="para_13571__content">
+            <p>Article 28a of the Ustawa o transporcie kolejowym (Law on Rail Transport) of 28 March 2003 (Dz. U. 2003, position 86), which contains the provisions on the establishment and operation of the Państwowa Komisja Badania Wypadków Kolejowych (National Railway Accident Investigation Commission, `the PKBWK'), provides: `1.   Under the responsibility of the Minister for Transport, a permanent National Railway Accident Investigation Commission [the PKBWK] shall carry on its activities independently, conducting investigations in respect of serious accidents, accidents and incidents ... 2.   The [PKBWK] shall carry on its activities in the name of the Minister for Transport. 3.   The [PKBWK] shall consist of four permanent members, including a director, a deputy director and a secretary. 4.   The [PKBWK] may also consist of ad hoc members chosen by the director of the [PKBWK] to participate in the procedure from a list provided by the Minister for Transport. ... 6.   The director of the [PKBWK] shall be appointed and dismissed by the Minister for Transport. 7.   The deputy director and the secretary shall be appointed and dismissed by the Minister for Transport, at the request of the director of the [PKBWK]. 8.   Members of the [PKBWK] shall be appointed and dismissed by the Minister for Transport, acting on a proposal from the director of the [PKBWK]. 9.   The Minister for Transport may, at the request of the [PKBWK], passed by an absolute majority vote, dismiss members of the [PKBWK]. 10.   Any person who:</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>is a Polish citizen and enjoys full civil rights;</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>has full capacity to engage in legal acts;</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>has not been convicted of the intentional commission of a crime;</p>
+              </item>
+              <item>
+                <num>(4)</num>
+                <p>meets the requirements in regard to education and training; may be a member of the [PKBWK]. 11.   A person's membership of the [PKBWK] shall come to an end on his death, following his failure to meet the requirements set out in Article 28a(10), or upon receipt of his resignation, submitted to the Minister for Transport. 12.   The [PKBWK] may consist of specialists in the following areas:</p>
+                <blockList>
+                  <item>
+                    <num>(1)</num>
+                    <p>rail network operation;</p>
+                  </item>
+                  <item>
+                    <num>(2)</num>
+                    <p>designing, building and maintaining railway lines, junctions and stations;</p>
+                  </item>
+                  <item>
+                    <num>(3)</num>
+                    <p>safety and steering devices for rail networks and communications;</p>
+                  </item>
+                  <item>
+                    <num>(4)</num>
+                    <p>railway vehicles;</p>
+                  </item>
+                  <item>
+                    <num>(5)</num>
+                    <p>railway electrical power;</p>
+                  </item>
+                  <item>
+                    <num>(6)</num>
+                    <p>transportation of hazardous goods by rail. 13.   Persons having higher education, suitable qualifications and at least five years' experience in a given field shall be considered to be experts in that area. 14.   Members of the [PKBWK], when passing a resolution referred to in Article 281(1), shall be governed by the principle of unfettered assessment of evidence and shall not be bound by any instruction as to the content of the resolutions passed. 15.   When investigating a serious accident, accident or incident, the [PKBWK] may not consist of ad hoc members employed by agencies whose rail infrastructure, workers or vehicles were involved in the event under investigation. ...'</p>
+                  </item>
+                </blockList>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13572">
+          <num>10</num>
+          <content eId="para_13572__content">
+            <p>Article28d of the Law on Rail Transport provides: `1.   The Minister for Transport shall include in the part of the State budget under his responsibility funding for the [PKBWK] and its staff to conduct their activities, in particular for the remuneration of its members, experts and operational staff and for technical equipment, training costs, publication costs and experts' fees. 2.   The functioning of the [PKBWK] shall be ensured by the appropriate department of the corresponding office of the Minister for Transport. ... 4.   The Minister for Transport shall determine, by means of an order, the statute governing the [PKBWK's] activities and organisational structure, taking into account the nature of the tasks performed by the [PKBWK].'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13573">
+          <num>11</num>
+          <content eId="para_13573__content">
+            <p>Article 1 of Order No 59 of the Minister for Infrastructure of 11 December 2008 on the rules of procedure of the PKBWK ( `the Order of 11 December 2008 establishing the Statute of the PKBWK') provides: `The Statute of the [PKBWK] is established and attached to an Annex to the present Order.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13574">
+          <num>12</num>
+          <content eId="para_13574__content">
+            <p>Article 10 of the Annex to that order ( `the Statute of the PKBWK') provides: `1.   The director of the [PKBWK], after having received information about a serious accident, accident or incident on a railway track ... shall proceed to classify that event in order to determine whether it is necessary for the Commission to initiate a procedure. 2.   If the director of the [PKBWK] decides to initiate a procedure, he shall appoint an investigating team and, in particular, shall appoint the head of the team from among the [PKBWK's] members and, in agreement with the head of the team, shall determine the composition of the team. 3.   The director of the [PKBWK], may, in agreement with the head of the investigating team, include in the composition of the investigating team ad hoc members chosen from a list provided by the minister. 4.   Where warranted by particular factual circumstances, experts designated by the director of the [PKBWK] at the request of the head of the investigating team may participate in the work of the investigating team.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13575">
+          <num>13</num>
+          <content eId="para_13575__content">
+            <p>Article 12 of the Statute of the PKBWK provides: `The following persons may not be a member of the investigating team where they:</p>
+            <blockList>
+              <item>
+                <num>(1)</num>
+                <p>are in a relationship of hierarchical subordination to persons or institutions having a link with the incident under investigation;</p>
+              </item>
+              <item>
+                <num>(2)</num>
+                <p>were involved in the serious accident, accident or incident on a railway track to which the procedure relates;</p>
+              </item>
+              <item>
+                <num>(3)</num>
+                <p>are the spouse of a person affected by the serious accident, accident or incident on a railway track to which the procedure relates;</p>
+              </item>
+              <item>
+                <num>(4)</num>
+                <p>are a relative or a relative by marriage in the direct line, in the indirect line extending to children of siblings, persons referred to in point 3, or who adopted or have custody or guardianship of persons to which the procedure relates.'</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13576">
+          <num>14</num>
+          <content eId="para_13576__content">
+            <p>Article 22 of the Statute of the PKBWK provides: `1.   The resolution shall be adopted by a majority of votes by raised hand. In the event of a tie vote, the vote of the director of the session shall be decisive. 2.   Only permanent members of the [PKBWK] and those ad hoc members who took part in the work of the investigating team may vote, subject to Article 11. The vote must not take place in the presence of the persons referred to in Article 19(1)(3) of the statute. 3.   The resolution shall be in writing and bear the signatures of all those members of the [PKBWK] who took part in its being adopted.'</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13577">
+          <num>15</num>
+          <content eId="para_13577__content">
+            <p>Under Article 26 of that statute: `1.   The management of the staff of the permanent members of the [PKBWK] shall be ensured by the office of the director-general of the ministry. 2.   The financial management of the [PKBWK] shall be ensured by the financial office of the ministry, as part of the expenditure plan included in the financial plan. The financial review procedures in effect at the ministry shall apply to financial operations carried out. 3.   The use of official cars by the [PKBWK] shall be done in accordance with the procedures in effect at the ministry. 4.   In public procurement matters, the procurement procedures in effect at the ministry shall apply.'</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Pre-litigation procedure and proceedings before the Court</p>
+        </tblock>
+        <paragraph eId="para_13578">
+          <num>16</num>
+          <content eId="para_13578__content">
+            <p>On 21 February 2014, the Commission sent the Republic of Poland a letter of formal notice bringing to the latter's attention the aspects of its legislation the Commission had found to be incompatible with Directive 2004/49. In particular, it raised issues about the lack of independence of the safety authority, contrary to Article 16(1) of that directive, and the lack of independence of the investigating body, contrary to Article 21(1) of that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13579">
+          <num>17</num>
+          <content eId="para_13579__content">
+            <p>On 17 April 2014, the Republic of Poland disputed the supposed irregularities alleged by the Commission, although it did state its intention to amend its legislation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13580">
+          <num>18</num>
+          <content eId="para_13580__content">
+            <p>On 27 February 2015, the Commission sent a reasoned opinion in which it stated that, by failing to adopt the measures necessary to ensure correct transposition and implementation of Directive 2004/49, the Republic of Poland had failed to fulfil its obligations under, inter alia, Article 16(1) and Article 21(1) of that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13581">
+          <num>19</num>
+          <content eId="para_13581__content">
+            <p>On 27 April 2015, the Republic of Poland informed the Commission of the entry into force of two regulations of the Minister of Infrastructure and Development of 17 February 2015. On 18 and 30 October 2015, the Republic of Poland notified the Commission of a regulation of the Minister of Infrastructure and Development of 26 September 2015 and a law of 25 September 2015 amending the Law on Rail Transport.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13582">
+          <num>20</num>
+          <content eId="para_13582__content">
+            <p>The Commission takes the view that, although those provisions as a whole put an end to a certain number of the infringements referred to in the reasoned opinion, they did not remedy the issues relating to the lack of independence of the safety authority and of the investigating body. In those circumstances, the Commission brought the present action.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13583">
+          <num>21</num>
+          <content eId="para_13583__content">
+            <p>In its reply, the Commission withdrew its allegation of infringement of Article 16(1) of Directive 2004/49 for the reasons set out in paragraph 2 of this judgment.</p>
+          </content>
+        </paragraph>
+      </background>
+      <motivation>
+        <tblock>
+          <p>The action</p>
+        </tblock>
+        <tblock>
+          <p>Admissibility Arguments of the parties</p>
+        </tblock>
+        <paragraph eId="para_13584">
+          <num>22</num>
+          <content eId="para_13584__content">
+            <p>The Republic of Poland considers that the allegation of infringement of Article 21(1) of Directive 2004/49 is inadmissible on the ground that it is hypothetical and too general in nature and that the Commission failed to provide an adequate statement of reasons.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13585">
+          <num>23</num>
+          <content eId="para_13585__content">
+            <p>In the Republic of Poland's submission, the Commission did not take account of the explanations and arguments put forward by the Polish authorities during the pre-litigation procedure. Consequently, the Commission's analysis is incomplete and prevented the Republic of Poland from preparing its defence.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13586">
+          <num>24</num>
+          <content eId="para_13586__content">
+            <p>Nor did the Commission indicate any specific situation or event that jeopardises the independence of the PKBWK from the infrastructure manager. The Republic of Poland argues that, in all incidents that have occurred to date, the PKBWK has acted independently, with the result that the Commission's allegation is hypothetical.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13587">
+          <num>25</num>
+          <content eId="para_13587__content">
+            <p>The Commission states that it set out in its application the reasons why it considers that the provisions of Polish law do not guarantee the independence of the PKBWK and that it set out the reasons why it finds the arguments to the contrary relied on by the Polish Government during the pre-litigation phase to be unconvincing.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13588">
+          <num>26</num>
+          <content eId="para_13588__content">
+            <p>The Commission adds that it may bring infringement proceedings before the Court once it has found that there is an infringement of Article 21(1) of Directive 2004/49, without waiting for a railway disaster to occur.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Findings of the Court</p>
+        </tblock>
+        <paragraph eId="para_13589">
+          <num>27</num>
+          <content eId="para_13589__content">
+            <p>The Republic of Poland disputes, in essence, the admissibility of the plea alleging infringement of Article 21(1) of Directive 2004/49, on the ground that it is too general and hypothetical and that there is not an adequate statement of reasons.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13590">
+          <num>28</num>
+          <content eId="para_13590__content">
+            <p>It should be borne in mind, firstly, that the essential points of law and of fact on which a case is based must be indicated coherently and intelligibly in the application itself (see, inter alia, judgment of 25 April 2013, Commission v Finland, C‑74/11, not published, EU:C:2013:266, paragraph 47 and the case-law cited).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13591">
+          <num>29</num>
+          <content eId="para_13591__content">
+            <p>In the present case, the Commission's application satisfies that requirement. Therein the Commission sets out clearly the reasons why it considers that the Polish provisions do not guarantee the PKBWK's independence of the railway undertaking PKP S.A. and the railway infrastructure manager PKP PLK S.A.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13592">
+          <num>30</num>
+          <content eId="para_13592__content">
+            <p>It should also be remembered that, according to settled case-law, the subject matter of proceedings under Article 258 TFEU is delimited by the pre-litigation procedure provided for in that provision, the purpose of which is to give the Member State concerned an opportunity, on the one hand, to comply with its obligations under EU law and, on the other, to avail itself of its right to defend itself properly against the objections formulated by the Commission. Accordingly, the application must be based on the same grounds and pleas as the reasoned opinion. However, that requirement cannot go so far as to mean that in every case the formal statement of complaints in the operative part of the reasoned opinion and the form of order sought in the application must be exactly the same, provided that the subject matter of the proceedings, as defined in the reasoned opinion, has not been extended or altered (see, to that effect, judgments of 4 May 2017, Commission v Luxembourg, C‑274/15, EU:C:2017:333, paragraph 37, and of 14 September 2017, Commission v Greece, C‑320/15, EU:C:2017:678, paragraph 31).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13593">
+          <num>31</num>
+          <content eId="para_13593__content">
+            <p>The Republic of Poland has failed to demonstrate that the Commission extended the scope of the present action to encompass grounds or pleas that were not found in the reasoned opinion. Even if it were true that the Commission did not take account of the arguments put forward by the Republic of Poland during the pre-litigation procedure, that does not suffice to render the plea alleging infringement of Article 21(1) of Directive 2004/49 inadmissible.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13594">
+          <num>32</num>
+          <content eId="para_13594__content">
+            <p>Secondly, it should be noted that the Commission may bring infringement proceedings before the Court contesting the lack of independence of the investigating body referred to in Article 21 of Directive 2004/49, without having to allege a specific situation in which that independence has actually been undermined. The Member States are required to guarantee the independence of the investigating body through the adoption of a body of rules that ensure that it is able to carry out its tasks without risking being subject to the orders or influence of inter alia the infrastructure manager or a railway undertaking. The lack or inadequacy of such a legal framework suffices by itself to establish an infringement of Article 21(1) of Directive 2004/49 (see, by analogy, judgment of 2 June 2016, Commission v Portugal, C‑205/14, EU:C:2016:393, paragraph 48).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13595">
+          <num>33</num>
+          <content eId="para_13595__content">
+            <p>It follows from the foregoing that the present infringement action is admissible.</p>
+          </content>
+        </paragraph>
+        <tblock>
+          <p>Substance Arguments of the parties</p>
+        </tblock>
+        <paragraph eId="para_13596">
+          <num>34</num>
+          <content eId="para_13596__content">
+            <p>The Commission submits, firstly, that the Polish legislation does not contain any provision conferring on the investigators a status that guarantees them the necessary independence, contrary to what is required under Article 21(2) of Directive 2004/49.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13597">
+          <num>35</num>
+          <content eId="para_13597__content">
+            <p>In the Commission's submission, in the absence of specific, detailed provisions governing the matter, the mere use of the term `independent' in Article 28a(1) of the Law on Rail Transport to describe the PKBWK does not actually confer the status provided for in Article 21(2) of Directive 2004/49 and does not guarantee that, in reality, in its organisation, legal structure and decisions, the PKBWK may carry out its tasks in a manner completely independent from the ministry responsible for transport matters, in accordance with Article 21(1) of that directive.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13598">
+          <num>36</num>
+          <content eId="para_13598__content">
+            <p>Secondly, the Commission observes that the PKBWK is an integral part of the ministry responsible for transport matters. Although it recognises that Article 21(1) of Directive 2004/49 does not prohibit the investigating body from being attached to the ministry's organisational structures, that is allowable only on the condition that measures be adopted in order to guarantee its independence from the ministry. The Polish legislation fails to do that.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13599">
+          <num>37</num>
+          <content eId="para_13599__content">
+            <p>Thirdly, the Commission observes that the Polish legislation does not guarantee the PKBWK's independence from the railway infrastructure manager.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13600">
+          <num>38</num>
+          <content eId="para_13600__content">
+            <p>The Commission submits, in that regard, that the Public Treasury, represented by the Minister for Transport, is the majority shareholder, with 85.09% of the shares of the railway infrastructure manager PKP PLK S.A., with the other shares being held by the railway undertaking PKP S.A., of which the Public Treasury, represented by the minister, is the sole shareholder and may transfer shares in PKP PLK S.A. only to the Public Treasury. The Public Treasury holds 61.7% of the voting rights at the general assembly of the infrastructure manager, with the rest being held by PKP S.A. Moreover, the minister approves the statute of the infrastructure manager and the amendments thereto and the general assembly designates the members of the infrastructure manager's supervisory board from among the candidates put forward by the same minister. The Commission concludes therefrom that the minister in effect controls the infrastructure manager.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13601">
+          <num>39</num>
+          <content eId="para_13601__content">
+            <p>The Commission takes the view that, as the investigating body is part of the structure of the ministry responsible for transport matters and the ministry controls the infrastructure manager, the PKBWK is not independent in terms of its organisation, legal structure and decision-making, of the railway infrastructure manager.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13602">
+          <num>40</num>
+          <content eId="para_13602__content">
+            <p>Fourthly, the Commission observes that the PKBWK does not act in its own name, but rather carries out its tasks in accordance with Article 28a(2) of the Law on Rail Transport, on behalf of the Minister for Transport. All measures adopted by it must have the minister's approval and signature, so that the PKBWK in reality merely draws up the decision, which the minister has the power to amend or reject the decision thus proposed. Furthermore, under Article 1 of the Order of 11 December 2008 establishing the Statute of the PKBWK; it acts within the ministry responsible for transport matters, which shows that it does not act independently or separately of the ministry.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13603">
+          <num>41</num>
+          <content eId="para_13603__content">
+            <p>Fifthly, the Commission submits that the Minister for Transport appoints and dismisses the director of the PKBWK and the deputy director, and also the secretary of the PKBWK. The Commission observes that the Polish legislation does not specify according to which criteria and on the basis of which principles the minister chooses those heads of team. In particular, no provision of that legislation provides that the persons performing those three functions enjoy a status guaranteeing them their independence, as required under Article 21(2) of Directive 2004/49.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13604">
+          <num>42</num>
+          <content eId="para_13604__content">
+            <p>Sixthly, the Commission submits that, in accordance with Article 28a(8) of the Law on Rail Transport, the Minister for Transport appoints and dismisses the permanent members of the PKBWK, acting on the non-binding opinion of its director. It infers therefrom that the director of the PKBWK does not have the power to determine, completely independently, the composition of his own investigating team, which is liable to affect the quality, impartiality and transparency of the investigation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13605">
+          <num>43</num>
+          <content eId="para_13605__content">
+            <p>The Commission observes, in that regard, that the list of criteria set out in Article 28a(10) of the Law on Rail Transport does not contain the independence requirements imposed in Article 21(1) of Directive 2004/49 and that the Polish legislation does not specify according to which criteria and on the basis of which principles the Minister for Transport must make his choice. The Commission adds that the Polish legislation does not prohibit the persons liable to fulfil those criteria from being representatives of railway undertakings or infrastructure managers, which runs counter to the principle of organisational independence of the PKBWK.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13606">
+          <num>44</num>
+          <content eId="para_13606__content">
+            <p>Seventhly, the Commission submits that, in accordance with Article 28a(4) of the Law on Rail Transport and Article 10 of the Statute of the PKBWK, the Minister for Transport draws up a list from which the director of the PKBWK may select ad hoc members to take part in the investigations. The director of the PKBWK cannot, therefore, determine himself the composition of his own team, but is obliged to appoint persons selected previously by the minister.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13607">
+          <num>45</num>
+          <content eId="para_13607__content">
+            <p>The Commission further observes that the Polish legislation does not define the detailed rules or criteria according to which the Minister for Transport establishes the list of ad hoc members of the PKBWK nor how those members are guaranteed a status offering them the necessary independence. Lastly, the Commission submits that the Polish legislation does not prohibit the persons present on that list from being representatives of railway undertakings or of railway infrastructure managers.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13608">
+          <num>46</num>
+          <content eId="para_13608__content">
+            <p>Eighthly, the Commission criticises the fact that, under Article 28d(2) of the Law on Rail Transport, the operation of the PKBWK is ensured by the specialised services of the administration of the ministry responsible for transport matters. More specifically, the investigating body's obligation to request as a matter of course the Minister for Transport to make available the funds necessary for its operation places a considerable limitation on its organisational independence.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13609">
+          <num>47</num>
+          <content eId="para_13609__content">
+            <p>Moreover, the Commission observes that no provision of Directive 2004/49 authorises the Member States to rely on budgetary reasons in order to evade their obligations under Article 21(1) thereof. Furthermore, Article 21(2) requires the investigating body to obtain sufficient resources to perform its tasks and achieve its objectives. Since under Article 28d(1) of the Law on Rail Transport it is for the Minister for Transport to ensure the necessary means for the activities and operations of the PKBWK, it does not have a separate budget and the minister is free to determine whether resources should be allocated to the PKBWK, in the light of the commercial interests of the company managing the infrastructure.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13610">
+          <num>48</num>
+          <content eId="para_13610__content">
+            <p>The Republic of Poland submits that the PKBWK's independence is ensured not only by the provisions of the Law on Rail Transport, which refer expressly to its independent nature, but also by specific guarantees ensuring its organisational, legal and decision-making independence. The Republic of Poland observes that no provision of Directive 2004/49 contains any indication as to the selection of the members of the investigating body. EU law requires only that it be an independent body.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13611">
+          <num>49</num>
+          <content eId="para_13611__content">
+            <p>The organisational independence of the PKBWK is reflected in its ability to decide on its internal structure and to have its own bodies and resources. The deputy director and the secretary of the PKBWK are appointed and dismissed at the request of its director, in accordance with Article 28a(7) of the Law on Rail Transport. The director also gives an opinion on the appointment and dismissal of the other permanent members. Moreover, the ad hoc members of the PKBWK, who are selected from the list drawn up by the Minister for Transport, cannot, under Article 28a(15) of that law, be employees of an entity of which the railway infrastructure, employees or railway vehicles played a role in the accident, serious accident or incident under investigation.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13612">
+          <num>50</num>
+          <content eId="para_13612__content">
+            <p>Furthermore, under Article 10 of the Statute of the PKBWK, the procedures for serious accidents, accidents and incidents on railway tracks are led by ad hoc teams appointed by the director of the PKBWK and, under Article 12 of that statute, the members of such a team cannot be in a hierarchical relationship with the persons and institutions having a connection to the event under investigation. The report of the procedure completed as part of such an investigation is, moreover, approved by a vote in which only the members of that team take part.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13613">
+          <num>51</num>
+          <content eId="para_13613__content">
+            <p>In that context, the Republic of Poland takes the view that the possibility of appointing the ad hoc members of the PKBWK on the basis of a list established by the Minister for Transport does not undermine its independence. Furthermore, in practice, any person satisfying the requirements laid down in Article 28a(10) of the Law on Rail Transport may ask to be included in the list of ad hoc members. The director of the PKBWK rules independently on such requests.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13614">
+          <num>52</num>
+          <content eId="para_13614__content">
+            <p>The Republic of Poland submits that there are currently 100 persons on the list of ad hoc members of the PKBWK, all of whom are experts specialised in the railway sector, which gives the director of the PKBWK a fair amount of freedom in selecting ad hoc members to take part in a given investigation since the investigating team usually includes only one ad hoc member.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13615">
+          <num>53</num>
+          <content eId="para_13615__content">
+            <p>Moreover, Article 28a(10) of the Law on Rail Transport lays down conditions, inter alia as to the qualifications, that must be satisfied by the members of the PKBWK and which are laid down in Article 28a(12) and (13) thereof. Article 28a(11) thereof also contains a list of the reasons for which a person may cease to be a member of the PKBWK. Such guarantees keep the Minister for Transport's discretion to a minimum in the appointment and dismissal of the members of the PKBWK.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13616">
+          <num>54</num>
+          <content eId="para_13616__content">
+            <p>The Republic of Poland states that, in order to streamline budgetary expenditure, the national legislature entrusted the operation of the PKBWK to specialised services of the ministry responsible for transport matters, whilst at the same time guaranteeing the financial means necessary for the PKBWK to pursue courses of action.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13617">
+          <num>55</num>
+          <content eId="para_13617__content">
+            <p>The means allocated for the PKBWK's requirements have been set aside under a specific post of the State budget, under the heading of transport, and are included under a specific post covering operating costs for offices and central bodies of the government administration. Although the quota allocated for the operation of the PKBWK is decided by the Minister for Transport, under Article 28d(1) of the Law on Rail Transport the minister is bound to ensure, using the available share of the State budget, the means necessary for its activities and operation. A list of the PKBWK's expenditure, the financing for which is ensured by the ministry responsible for transport matters, is found in that law. The Republic of Poland adds that the PKBWK's budget has increased in recent years.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13618">
+          <num>56</num>
+          <content eId="para_13618__content">
+            <p>The management of the administrative services by the ministry responsible for transport matters does not undermine the PKBWK's organisational independence. Separate sections within the ministry's administration have been created, which are entrusted exclusively with administrative operations and are managed by the director-general of that service. The administrative services of the ministry, including the staff and the finance department, are therefore placed under the authority of the director-general and operate without the participation of the Minister for Transport, who manages the operational units. In accordance with Article 28a(1) of the Law on Rail Transport, the PKBWK is a body acting in collaboration with the minister, which attests to its separate status and independence. The PKBWK is not in a subordinate relationship to the minister.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13619">
+          <num>57</num>
+          <content eId="para_13619__content">
+            <p>As regards the PKBWK's legal independence, the Republic of Poland observes that the integration of the investigating body into the structure of a ministry is a common practice in many Member States, even when the company managing the railway infrastructure is a public company.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13620">
+          <num>58</num>
+          <content eId="para_13620__content">
+            <p>In the Republic of Poland's submission, it is not necessary to examine the issue of the PKBWK's legal independence because its separation from the infrastructure managers and railway undertakings is undeniably guaranteed.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13621">
+          <num>59</num>
+          <content eId="para_13621__content">
+            <p>As regards the PKBWK's decision-making independence, the Republic of Poland points out that the members of the PKBWK do not receive any instructions pertaining to the content of their resolutions, in accordance with Article 28a(14) of the Law on Rail Transport. Any attempts at interference in the operation of the PKBWK would be contrary to that law and would undermine the principle of legality enshrined in Article 7 of the Polish Constitution.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13622">
+          <num>60</num>
+          <content eId="para_13622__content">
+            <p>The fact that the PKBWK carries out its tasks on behalf the Minister for Transport does not compromise its independence, but enables it, on the contrary, to perform its tasks effectively on the basis of the public authority. The Republic of Poland also considers that the Commission is incorrect in arguing that the PKBWK cannot take any autonomous decision. It takes its decisions in the form of resolutions that are adopted by a majority of votes, with the chairing director's vote being decisive in the case of a tie vote. Only its permanent members and ad hoc members take part in the work of the team post-accident. The Minister for Transport does not take part in any way in the adoption of those resolutions and nor is the minister's signature required or affixed to the resolutions of the PKBWK.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13623">
+          <num>61</num>
+          <content eId="para_13623__content">
+            <p>The Republic of Poland argues, lastly, that the PKBWK is required to inform the entities concerned of the procedure conducted and of its state of progress, thereby guaranteeing the transparency of its work and the public oversight of the outcome of the procedures conducted by it. The PKBWK is also required to publish an annual report of its work.</p>
+            <tblock>
+              <p>Findings of the Court</p>
+            </tblock>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>Preliminary observations</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13624">
+          <num>62</num>
+          <content eId="para_13624__content">
+            <p>It should be noted, firstly, that under Article 28a(1) of the Law on Rail Transport, in Poland the PKBWK is the investigating body referred to in Article 21 of Directive 2004/49. Under that provision, the PKBWK is established under the responsibility of the Minister for Transport and performs its tasks on behalf of the minister. It does not have legal personality, as confirmed by the Republic of Poland at the hearing before the Court, or a separate budget, as is apparent from Article 28d(1) of the Law on Rail Transport. Under Article 28d(2) of that law, its operation is ensured by the specialised services of the minister's administration.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13625">
+          <num>63</num>
+          <content eId="para_13625__content">
+            <p>Under Article 19 of Directive 2004/49, the investigating body referred to in Article 21 thereof shall be entrusted with investigating serious accidents on the railway system, the objective of which is possible improvement of railway safety and the prevention of accidents. It may also decide to investigate other accidents and incidents which, in slightly different circumstances, might have resulted in serious accidents.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13626">
+          <num>64</num>
+          <content eId="para_13626__content">
+            <p>Article 23 of that directive provides that the investigating body is to make public a final report on each of the investigations it has conducted on an accident or incident containing, where applicable, safety recommendations, and the reporting structure of which is to follow, as close as possible, that laid down in Annex V to that same directive. That annex states that the conclusions of the final report must state the direct and immediate causes of the occurrence including contributory factors relating to actions taken by persons involved and the condition of rolling stock or technical installations, underlying causes relating to skills, procedures and maintenance, and root causes relating inter alia to the application of the safety management system. That report is communicated to the parties concerned, in particular the railway infrastructure manager and the railway undertakings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13627">
+          <num>65</num>
+          <content eId="para_13627__content">
+            <p>The investigating body is also required to publish an annual report of the investigations carried out the previous year, the safety recommendations put forward and the measures taken further to recommendations made previously.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13628">
+          <num>66</num>
+          <content eId="para_13628__content">
+            <p>Secondly, Article 21(1) of Directive 2004/49 requires that, in its legal structure, organisation and decision-making, the investigating body be independent of certain, specifically listed parties in the railway sector, including the railway infrastructure manager and railway undertakings. Recital 24 of that directive states that the investigating body should function in a way which avoids any conflict of interest and any possible involvement in the causes of the occurrences investigated.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13629">
+          <num>67</num>
+          <content eId="para_13629__content">
+            <p>Directive 2004/49 does not define the concept of `independence' and it should therefore be construed in its usual meaning. Thus, as regards public bodies, independence usually refers to a status that ensures that the body in question is able to act completely freely in relation to those bodies in respect of which its independence is to be ensured, shielded from any instructions or pressure.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13630">
+          <num>68</num>
+          <content eId="para_13630__content">
+            <p>Thirdly, as is apparent from the form of order sought (the petitum) set out in the Commission's application and as it expressly confirmed at the hearing, it is only with respect to the railway infrastructure manager PKP PLK S.A. and the railway undertaking PKP S.A., and not the Minister for Transport per se, that the Commission complains that the Republic of Poland has failed to ensure the independence of the PKBWK. It is therefore within those parameters that the Court is called upon to examine the present infringement proceedings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13631">
+          <num>69</num>
+          <content eId="para_13631__content">
+            <p>In that regard, the Republic of Poland has not disputed the Commission's statement to the effect that the State, represented by the Minister for Transport, controls both the railway infrastructure manager and that railway undertaking.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13632">
+          <num>70</num>
+          <content eId="para_13632__content">
+            <p>It is therefore appropriate to consider whether the PKBWK, which is established within the ministry responsible for transport matters, is independent, in terms of its legal structure, organisation and decision-making, of the infrastructure manager PKP PLK S.A. and of the railway undertaking PKP S.A., in a situation where the Minister for Transport controls that infrastructure manager and that railway undertaking.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13633">
+          <num>71</num>
+          <content eId="para_13633__content">
+            <p>In that regard, although, as the Republic of Poland suggests, account should be taken of Article 28a(1) of the Law on Rail Transport, under which the PKBWK is established as a permanent and independent body, the statement of principle in that provision cannot be dissociated from the other aspects of the legal framework in which it evolves. Thus, the issue of whether the Republic of Poland has failed to fulfil its obligation to guarantee the independence of the investigating body vis-à-vis any railway infrastructure manager and any railway undertaking must be examined in the light of the relevant national provisions as a whole.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13634">
+          <num>72</num>
+          <content eId="para_13634__content">
+            <p>Fourthly, it should be noted that the Commission's arguments, which criticise the lacunae in the Polish provisions with regard to status for the investigators and also the inadequacy of the resources made available to the PKBWK, relate to Article 21(2) of Directive 2004/49.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13635">
+          <num>73</num>
+          <content eId="para_13635__content">
+            <p>Article 21(2) of Directive 2004/49 is not referred to in the Commission's forms of order sought in its application, however. It is therefore not necessary to examine these two arguments in the present proceedings.</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>The independence of the PKBWK in terms of its legal structure</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13636">
+          <num>74</num>
+          <content eId="para_13636__content">
+            <p>The Commission criticises the Republic of Poland for having integrated the PKBWK into the services of the ministry responsible for transport matters, without having made adequate provision for independence.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13637">
+          <num>75</num>
+          <content eId="para_13637__content">
+            <p>In that regard, it should be noted that, although the PKBWK is part of the ministry responsible for transport matters and does not have separate legal personality, the fact remains that that situation per se does not establish that it has no independence, in terms of its legal structure, in relation to the infrastructure manager PKP PLK S.A. and the railway undertaking PKP S.A., who have their own, separate legal personality distinct from that of the ministry. As is evident from paragraph 68 of this judgment, the Commission's only complaint is that the Republic of Poland has failed to ensure the independence of the PKBWK manager and that undertaking, and not of the ministry responsible for transport matters per se.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13638">
+          <num>76</num>
+          <content eId="para_13638__content">
+            <p>It should also be noted that Directive 2004/49 does not prohibit the integration per se of the investigating body into the ministry responsible for transport matters.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13639">
+          <num>77</num>
+          <content eId="para_13639__content">
+            <p>It follows from the foregoing that the Commission has not established to the requisite legal standard that the PKBWK is not independent, in terms of its legal structure, of the infrastructure manager or the railway undertaking controlled by the Minister for Transport.</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>The independence of the PKBWK in terms of its organisation</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13640">
+          <num>78</num>
+          <content eId="para_13640__content">
+            <p>The Commission begins by criticising the Republic of Poland for entrusting the Minister for Transport with, on the one hand, the task of appointing and dismissing the director of the PKBWK, the deputy director, the secretary and the permanent members and, on the other, drawing up a list from which the ad hoc members of the PKBWK may be selected.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13641">
+          <num>79</num>
+          <content eId="para_13641__content">
+            <p>Under Article 28a(6) of the Law on Rail Transport, the Director of the PKBWK is appointed by the Minister for Transport. Under Article 28a(7) thereof, the deputy director and the secretary of the PKBWK are appointed by the minister at the request of the director. Under Article 28a(8) thereof, the other members of the PKBWK are appointed by the minister following consultation with the director of the PKBWK.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13642">
+          <num>80</num>
+          <content eId="para_13642__content">
+            <p>It follows that, as observed by the Republic of Poland, although the director of the PKBWK is consulted in the process for appointing certain members of the PKBWK, the Minister for Transport has discretionary power to appoint all of its permanent members.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13643">
+          <num>81</num>
+          <content eId="para_13643__content">
+            <p>Moreover, Article 28a(6) to (8) of the Law on Rail Transport allows the Minister for Transport to dismiss the director of the PKBWK and, at the request of the director, the deputy director and the secretary. Furthermore, the minister can also, following consultation with the director, dismiss the other members of the PKBWK.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13644">
+          <num>82</num>
+          <content eId="para_13644__content">
+            <p>Article 28a(9) of the Law provides that the minister may, at the request of the PKBWK, passed by an absolute majority vote, dismiss members of the PKBWK. Article 28a(11) of the same law provides that a person is to cease to be a member of the PKBWK in the event of death, failure to meet the requirements set out in Article 28a(10), or upon receipt of that person's resignation, submitted to the Minister for Transport.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13645">
+          <num>83</num>
+          <content eId="para_13645__content">
+            <p>However, as pointed out by the Advocate General in point 81 of his Opinion, given the wording of Article 28a(6) to (9) of the Law on Rail Transport, it cannot be established with certainty that the three scenarios referred to in Article 28a(11) are the only ones in which a member of the PKBWK may be dismissed.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13646">
+          <num>84</num>
+          <content eId="para_13646__content">
+            <p>Nor can it be stated with certainty that the Minister for Transport may dismiss a member of the PKBWK only at the request of an absolute majority of its members. Although Article 28a(9) of the Law on Rail Transport provides that the minister may, at the request of the PKBWK, passed by an absolute majority vote, dismiss members of the PKBWK, the fact remains that Article 28a(7) and (8) provide that the minister is to dismiss the deputy director and the secretary of the PKBWK at the request of the director, and members following consultation with the director. It is noteworthy in that regard that, as stated in paragraph 81 of this judgment, the Minister for Transport has the power to dismiss the director of the PKBWK without there being any prior procedural requirement under Article 28a(6).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13647">
+          <num>85</num>
+          <content eId="para_13647__content">
+            <p>It follows that the national legislation confers broad discretion on the Minister for Transport to dismiss members of the PKBWK.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13648">
+          <num>86</num>
+          <content eId="para_13648__content">
+            <p>Moreover, although no provision of Directive 2004/49 prohibits the Minister for Transport from appointing and dismissing all of the members of the PKBWK, Article 21(1) thereof, inasmuch as it requires that it have organisational independence vis-à-vis in particular any infrastructure manager and any railway undertaking, precludes the authority that controls the infrastructure manager and a railway undertaking from appointing and dismissing all of the members of the investigating body, where that power is not regulated strictly by legislation, with the result that that authority is bound to take decisions on the basis of objective criteria which are clearly and exhaustively set out and verifiable.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13649">
+          <num>87</num>
+          <content eId="para_13649__content">
+            <p>More specifically, in such circumstances, the broad freedom to appoint and dismiss conferred on the Minister for Transport is in itself liable to affect the independence of the members of the PKBWK where the interests of the railway infrastructure manager and the railway undertaking controlled by the minister are at issue.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13650">
+          <num>88</num>
+          <content eId="para_13650__content">
+            <p>The fact that Article 28a(10), (12) and (13) of the Law on Rail Transport lay down certain criteria for becoming a member of the PKBWK does not change that conclusion. As observed by the Commission, none of those criteria ensures the independence of its permanent members vis-à-vis the railway infrastructure manager or the railway undertaking.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13651">
+          <num>89</num>
+          <content eId="para_13651__content">
+            <p>Moreover, although it is true that Article 12 of the Statute of the PKBWK provides that a person may not be a member of the investigating team where they are in a relationship of hierarchical subordination to persons or institutions having a link with the event under investigation, were involved in the event or are the spouse or relative of a person affected by the event, that guarantee is inadequate for ensuring the organisational independence of the PKBWK.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13652">
+          <num>90</num>
+          <content eId="para_13652__content">
+            <p>That provision does not concern all of its members generally, but only those members who are part of the investigating team charged with investigating a specific accident or incident and only for the duration of that investigation. Furthermore, that provision does not cover all scenarios in which a conflict could arise for a person who is a member of an investigating team, between the investigations conducted by the PKBWK and the interests of an infrastructure manager or railway undertaking. Lastly, the order of 11 December 2008 establishing the Statute of the PKBWK was adopted by the Minister for Transport and is subject to amendment at any time by the minister. On this past point, the mere fact that, as observed by the Republic of Poland, the minister is bound to comply with the provisions of the Law on Rail Transport is not decisive. As established in paragraphs 79 to 88 of this judgment, those provisions do not by themselves guarantee that the members of the PKBWK are appointed and dismissed independently from the interests of any railway infrastructure manager and any railway undertaking.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13653">
+          <num>91</num>
+          <content eId="para_13653__content">
+            <p>The Commission further criticises the fact that the director of the PKBWK can select its ad hoc members only from a list established by the Minister for Transport.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13654">
+          <num>92</num>
+          <content eId="para_13654__content">
+            <p>Under Article 28a(4) of the Law on Rail Transport, the PKBWK may call upon ad hoc members to take part in investigations. They are chosen by the director from a list established by the Minister for Transport.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13655">
+          <num>93</num>
+          <content eId="para_13655__content">
+            <p>It follows that the Minister for Transport has broad discretion in selecting the persons to take part, as ad hoc members of the PKBWK, in investigations into railway accidents and incidents, and in preventing other persons from doing so. As the minister controls a railway undertaking and an infrastructure manager, such a power over the composition of the investigating teams is not compatible with the requirement of organisational independence of the investigating body.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13656">
+          <num>94</num>
+          <content eId="para_13656__content">
+            <p>This is especially true given that no reasonable justification has been put forward by the Republic of Poland for the fact that the director of the PKBWK may not freely designate its ad hoc members, but is bound to choose them from a list of persons preselected by the Minister for Transport.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13657">
+          <num>95</num>
+          <content eId="para_13657__content">
+            <p>Although the guarantee provided for in Article 28a(15) of the Law on Rail Transport, under which ad hoc members of the PKBWK may not take part in an investigation if they are employed by agencies whose rail infrastructure, workers or vehicles were involved in the event under investigation is a necessary measure for guaranteeing the decision-making independence of those members, it does not eliminate all risk of conflict of interest when the Minister for Transport draws up the list of persons eligible for appointment as ad hoc members of the PKBWK.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13658">
+          <num>96</num>
+          <content eId="para_13658__content">
+            <p>Moreover, as regards the Republic of Poland's statement to the effect that, in practice, any person fulfilling the conditions laid down in Article 28a(10) of the Law on Rail Transport may ask the director of the PKBWK to include them in the list of its ad hoc members, with the director ruling independently in that request, it should be noted that an administrative practice which is, by its nature, liable to be amended at any time, cannot be held to provide a sufficient guarantee of the independence required under Article 21(1) of Directive 2004/49.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13659">
+          <num>97</num>
+          <content eId="para_13659__content">
+            <p>The Commission criticises, secondly, the fact that the PKBWK is dependent on the Minister for Transport for its human resource and financial needs.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13660">
+          <num>98</num>
+          <content eId="para_13660__content">
+            <p>Under Article 28d(1) and (2) of the Law on Rail Transport, the Minister for Transport is to include in the part of the State budget under their responsibility funding for the PKBWK and its staff to conduct their activities, which is ensured by the specialised services of that ministry's administration. Article 26 of the Statute of the PKBWK further provides, inter alia, that the management of the staff of the permanent members of the PKBWK is to be ensured by the office of the director-general of the ministry responsible for transport matters and that the financial management of the PKBWK is carried out by the financial office of the ministry.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13661">
+          <num>99</num>
+          <content eId="para_13661__content">
+            <p>It should be noted, firstly, that the requirement of organisational independence imposed on the investigating body does not go as far as prohibiting the services and staff of the ministry responsible for transport matters from being made available to the PKBWK. It is nevertheless imperative that access to such resources be guaranteed to it under clear rules that may not be amended by the Minister for Transport alone. The provisions of the Law on Rail Transport referred to in the preceding paragraph do not ensure that the PKBWK has such guaranteed access to those resources.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13662">
+          <num>100</num>
+          <content eId="para_13662__content">
+            <p>Secondly, it should be noted that, in principle, the organisational independence required for the investigating body does not require it to have a separate budget. Thus, the Member States may provide that, from a budgetary point of view, the body comes under a given ministerial department, provided that independent access for that body to the financial resources that must be granted to it for carrying out its tasks are guaranteed.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13663">
+          <num>101</num>
+          <content eId="para_13663__content">
+            <p>However, given that, in the present case, the PKBWK does not have legal personality and is structurally integrated into the ministry responsible for transport matters, of which the minister responsible is at the same time both the authority controlling an infrastructure manager and a railway undertaking, such independence in terms of access to the financial resources that must be granted to it for carrying out its tasks is not guaranteed by giving it a separate budget.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13664">
+          <num>102</num>
+          <content eId="para_13664__content">
+            <p>Although it is true that Article 28d of the Law on Rail Transport imposes an obligation on the Minister for Transport to include in the part of the State budget under his responsibility funding for the PKBWK to conduct their activities, that requirement is formulated in too general a manner for ensuring that, in situations where the minister controls the railway infrastructure manager and the railway undertaking, there is no risk that the PKBWK will be impeded in the independent performance of its tasks. In that regard, it should be noted that the Republic of Poland stated, in its rejoinder, that the share allocated for the operation of the PKBWK within the budget covering the operation of the office and central bodies of the government administration, was fixed by the Minister for Transport himself.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13665">
+          <num>103</num>
+          <content eId="para_13665__content">
+            <p>It follows from the foregoing considerations that the Republic of Poland has not adopted all the measures necessary in order to guarantee the organisational independence of the PKBWK vis-à-vis the infrastructure manager and the railway undertaking controlled by the Minister for Transport.</p>
+            <blockList>
+              <item>
+                <num>--</num>
+                <p>The independence of the PKBWK in terms of its decision-making</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13666">
+          <num>104</num>
+          <content eId="para_13666__content">
+            <p>The Commission criticises, in essence, the Republic of Poland for the fact that the PKBWK merely prepares draft decisions that it submits for approval to the Minister for Transport.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13667">
+          <num>105</num>
+          <content eId="para_13667__content">
+            <p>Under Article 28a(14) of the Law on Rail Transport, when the members of the PKBWK adopt resolutions, they are not bound by any instruction as to the content thereof. Moreover, under Article 22 of the Statute of the PKBWK, only those members sign the resolutions comprising the accident, serious accident or incident reports.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13668">
+          <num>106</num>
+          <content eId="para_13668__content">
+            <p>However, Article 28a(14) of the Law on Rail Transport must be read in conjunction with Article 28a(2) thereof, which provides that the PKBWK is to carry on its activities in the name of the Minister for Transport. Furthermore, as observed in paragraph 90 of this judgment, the order of 11 December 2008 establishing the Statute of the PKBWK was adopted by the minister and may be amended by the minister at any time.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13669">
+          <num>107</num>
+          <content eId="para_13669__content">
+            <p>In such circumstances, it cannot be stated with certainty that the Law on Rail Transport confers genuine independence on the PKBWK in terms of the drafting of its reports. That uncertainty is all the more problematic in view of the fact, referred to in paragraphs 78 to 103 of this judgment, that the PKBWK also suffers from a lack of organisational independence which by itself jeopardises its decision-making independence, through the risk of subordination to the interests of the infrastructure manager and the railway undertaking controlled by the Minister for Transport.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13670">
+          <num>108</num>
+          <content eId="para_13670__content">
+            <p>Moreover, as confirmed by the Republic of Poland at the hearing, all publications of decisions of the PKBWK in the Official Journal of the Ministry must be approved by the Minister for Transport.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13671">
+          <num>109</num>
+          <content eId="para_13671__content">
+            <p>As observed by the Advocate General in point 89 of his Opinion, that publicity is one of the fundamental purposes of the investigation procedure conducted on railway accidents and incidents. It is, therefore, incompatible with the decision-making independence required of the investigating body vis-à-vis the railway infrastructure manager and the railway undertaking for an authority that controls both of those bodies to be in a position to prevent the official publication of reports which may call into question the liability of those bodies in the railway accident or incident concerned.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13672">
+          <num>110</num>
+          <content eId="para_13672__content">
+            <p>Consequently, the conclusion is that the Republic of Poland has failed to guarantee the decision-making independence of the PKBWK vis-à-vis the infrastructure manager and the railway undertaking controlled by the Minister for Transport.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13673">
+          <num>111</num>
+          <content eId="para_13673__content">
+            <p>It follows from the foregoing that, by failing to adopt the measures necessary to ensure that the investigating body is independent, in terms of its organisation and decision-making, of railway undertakings and rail infrastructure managers controlled by the Minister for Transport, the Republic of Poland has failed to fulfil its obligations under Article 21(1) of Directive 2004/49.</p>
+          </content>
+        </paragraph>
+      </motivation>
+      <decision>
+        <tblock>
+          <p>Costs</p>
+        </tblock>
+        <paragraph eId="para_13674">
+          <num>112</num>
+          <content eId="para_13674__content">
+            <p>Under Article 138(1) of the Rules of Procedure of the Court of Justice, the unsuccessful party is to be ordered to pay the costs if they have been applied for in the successful party's pleadings.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13675">
+          <num>113</num>
+          <content eId="para_13675__content">
+            <p>Since the Commission has requested that the Republic of Poland be ordered to pay the costs and the latter has been unsuccessful in the plea alleging infringement of Article 21(1) of Directive 2004/49, it must be order to pay the costs to that extent.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13676">
+          <num>114</num>
+          <content eId="para_13676__content">
+            <p>Under Article 141(1) of the Rules of Procedure, a party who discontinues or withdraws from proceedings is to be ordered to pay the costs if they have been applied for in the observations of the other party on the discontinuance. Under Article 141(2), however, at the request of the party who discontinues or withdraws from proceedings, the costs shall be borne by the other party if this appears justified by the conduct of that party.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13677">
+          <num>115</num>
+          <content eId="para_13677__content">
+            <p>Since, as evidenced by paragraph 2 of this judgment, the Republic of Poland failed to communicate to the Commission the amendments made to its legislation until after the present action had been instituted, with the result that the Commission was able to withdraw its plea alleging infringement of Article 16(1) of Directive 2004/49 only during the proceedings before the Court, and since the Commission has requested that the Republic of Poland be ordered to pay the costs associated with that plea, the latter must be ordered to pay those costs. On those grounds, the Court (Fourth Chamber) hereby: 1. Declares that by failing to adopt the measures necessary to ensure that the investigating body is independent, in terms of its organisation and decision-making, of railway undertakings and rail infrastructure managers controlled by the Minister for Transport, the Republic of Poland has failed to fulfil its obligations under Article 21(1) of Directive 2004/49/EC of the European Parliament and of the Council of 29 April 2004 on safety on the Community's railways and amending Council Directive 95/18/EC on the licensing of railway undertakings and Directive 2001/14/EC on the allocation of railway infrastructure capacity and the levying of charges for the use of railway infrastructure and safety certification (Railway Safety Directive); 2. Orders the Republic of Poland to pay the costs.</p>
+          </content>
+        </paragraph>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <p>[Signatures]( *1)Language of the case: Polish.</p>
+    </conclusions>
+  </judgment>
+</akomaNtoso>
