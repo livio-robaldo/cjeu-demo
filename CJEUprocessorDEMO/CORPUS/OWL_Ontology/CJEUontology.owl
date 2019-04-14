@@ -1,0 +1,31 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:CJEUontology="http://www.example.com/CJEUontology#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <owl:Ontology rdf:about="http://www.example.com/CJEUontology"/>
+  <owl:Class rdf:about="http://www.example.com/CJEUontology#Organization"/>
+  <owl:Class rdf:about="http://www.example.com/CJEUontology#Institution">
+    <rdfs:subClassOf rdf:resource="http://www.example.com/CJEUontology#Organization"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.example.com/CJEUontology#Person"/>
+  <owl:Class rdf:about="http://www.example.com/CJEUontology#Company">
+    <rdfs:subClassOf rdf:resource="http://www.example.com/CJEUontology#Organization"/>
+  </owl:Class>
+  <CJEUontology:Institution rdf:about="http://www.example.com/CJEUontology#institution_1"/>
+  <CJEUontology:Institution rdf:about="http://www.example.com/CJEUontology#institution_6"/>
+  <CJEUontology:Institution rdf:about="http://www.example.com/CJEUontology#institution_7"/>
+  <CJEUontology:Company rdf:about="http://www.example.com/CJEUontology#company_6"/>
+  <CJEUontology:Institution rdf:about="http://www.example.com/CJEUontology#institution_8"/>
+  <CJEUontology:Institution rdf:about="http://www.example.com/CJEUontology#institution_9"/>
+  <CJEUontology:Company rdf:about="http://www.example.com/CJEUontology#company_5"/>
+  <CJEUontology:Institution rdf:about="http://www.example.com/CJEUontology#institution_2"/>
+  <CJEUontology:Institution rdf:about="http://www.example.com/CJEUontology#institution_3"/>
+  <CJEUontology:Institution rdf:about="http://www.example.com/CJEUontology#institution_4"/>
+  <CJEUontology:Institution rdf:about="http://www.example.com/CJEUontology#institution_5"/>
+  <CJEUontology:Company rdf:about="http://www.example.com/CJEUontology#company_4"/>
+  <CJEUontology:Company rdf:about="http://www.example.com/CJEUontology#company_3"/>
+  <CJEUontology:Company rdf:about="http://www.example.com/CJEUontology#company_2"/>
+  <CJEUontology:Company rdf:about="http://www.example.com/CJEUontology#company_1"/>
+</rdf:RDF>
