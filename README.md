@@ -5,4 +5,4 @@ The SDFTagger library is available within the demo, please locate the homonym su
 
 I developed the demo with Netbeans IDE 8.2, thus I've uploaded the whole Netbeans project folder to facilitate Netbeans users. If you don't use Netbeans, please extract the source files and recompile in your editor.
 
-A description of the SDFTagger library, together with a User Manual, is available on My Website.
+A description of the SDFTagger library, together with a User Manual, is available at http://www.liviorobaldo.com/sdftagger.html.
